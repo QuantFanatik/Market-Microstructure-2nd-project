@@ -1,0 +1,4417 @@
+<Header>
+<FileStats>
+    <FileName>20230323_10-K_edgar_data_1196298_0001493152-23-008716.txt</FileName>
+    <GrossFileSize>8148270</GrossFileSize>
+    <NetFileSize>191406</NetFileSize>
+    <NonText_DocumentType_Chars>1424445</NonText_DocumentType_Chars>
+    <HTML_Chars>2378060</HTML_Chars>
+    <XBRL_Chars>1863096</XBRL_Chars>
+    <XML_Chars>2100215</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-008716.hdr.sgml : 20230323
+<ACCEPTANCE-DATETIME>20230323170502
+ACCESSION NUMBER:		0001493152-23-008716
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		100
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230323
+DATE AS OF CHANGE:		20230323
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEPHROS INC
+		CENTRAL INDEX KEY:			0001196298
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				133971809
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32288
+		FILM NUMBER:		23756987
+
+	BUSINESS ADDRESS:	
+		STREET 1:		380 LACKAWANNA PLACE
+		CITY:			SOUTH ORANGE
+		STATE:			NJ
+		ZIP:			07079
+		BUSINESS PHONE:		201.343.5202
+
+	MAIL ADDRESS:	
+		STREET 1:		380 LACKAWANNA PLACE
+		CITY:			SOUTH ORANGE
+		STATE:			NJ
+		ZIP:			07079
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-008716.txt : 20230323
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+DC 20549 
+
+FORM
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended , 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from to 
+
+Commission
+File Number 
+
+(Exact
+name of registrant specified in its charter) 
+
+(State
+ or Other Jurisdiction of 
+ Incorporation
+ or Organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+, 
+
+ (Address
+of Principal Executive Offices) 
+
+(Telephone
+Number, Including Area Code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ symbol 
+ 
+ Name
+ of exchange on which registered 
+
+The
+ Stock Market LLC 
+
+Securities
+registered pursuant to Section 12(g) of the Exchange Act: None 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or emerging growth company. See definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act.: 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+The
+aggregate market value of the voting stock held by non-affiliates of the registrant, as of June 30, 2022, was . Such aggregate
+market value was computed by reference to the closing price of the common stock as reported on the Nasdaq Stock Market on June 30, 2022.
+For purposes of making this calculation only, the registrant has defined affiliates as including only directors and executive officers
+and stockholders holding greater than 10 of the voting stock of the registrant as of June 30, 2022. 
+
+As
+of March 17, 2023, there were shares of the registrant s common stock, 0.001 par value, outstanding. 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+NEPHROS,
+INC. AND SUBSIDIARIES 
+
+TABLE
+OF CONTENTS 
+
+PART I 
+ 3 
+
+Item 1. Business 
+ 3 
+
+Item 1A. Risk Factors 
+ 15 
+
+Item 1B. Unresolved Staff Comments 
+ 24 
+
+Item 2. Properties 
+ 24 
+
+Item 3. Legal Proceedings 
+ 24 
+
+Item 4. Mine Safety Disclosures 
+ 24 
+ 
+ PART II 
+ 25 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 25 
+
+Item 6. Selected Financial Data 
+ 25 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 26 
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 31 
+
+Item 8. Financial Statements and Supplementary Data 
+ 31 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 61 
+
+Item 9A. Controls and Procedures 
+ 61 
+
+Item 9B. Other Information 
+ 61 
+ 
+ PART III 
+ 62 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 62 
+
+Item 11. Executive Compensation 
+ 62 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 62 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 62 
+
+Item 14. Principal Accounting Fees and Services 
+ 62 
+ 
+ PART IV 
+ 63 
+
+Item 15. Exhibits, Financial Statement Schedules 
+ 63 
+
+Item 16. Form 10K Summary 
+ 66 
+ 
+ SIGNATURES 
+ 67 
+
+FORWARD
+LOOKING STATEMENTS 
+
+The
+Private Securities Litigation Reform Act of 1995 provides a safe harbor for forward-looking statements. Certain statements
+in this Annual Report on Form 10-K constitute forward-looking statements. Such statements include statements regarding our ability to increase our
+revenue, limit our expenses and other expected operating results, including our ability and the timing of our business generating positive
+cash flows from operations, the adequacy of our existing capital resources to fund our operations, our belief that we will maintain good
+relationships with our suppliers, distributors and customers , and other statements that are not historical facts, including statements that may be preceded by the words intends, 
+ may, will, plans, expects, anticipates, projects, 
+ predicts, estimates, aims, believes, hopes, potential 
+or similar words. Forward-looking statements are not guarantees of future performance, are based on certain assumptions and are subject
+to various known and unknown risks and uncertainties, many of which are beyond our control. Actual results may differ materially from
+the expectations contained in the forward-looking statements. Factors that may cause such differences include, but are not limited to,
+the risks that: 
+
+we
+ face significant challenges in obtaining market acceptance of our products, which, if not obtained, could adversely affect our potential
+ sales and revenues; 
+
+product-related
+ deaths or serious injuries or product malfunctions could trigger recalls, class action lawsuits and other events that could cause
+ us to incur expenses and may also limit our ability to generate revenues from such products; 
+
+we
+ face potential liability associated with the production, marketing and sale of our products, and the expense of defending against
+ claims of product liability could materially deplete our assets and generate negative publicity, which could impair our reputation; 
+
+to
+ the extent our products or marketing materials are found to violate any provisions of the U.S. Food, Drug and Cosmetic Act (the FDC
+ Act or any other statutes or regulations, we could be subject to enforcement actions by the U.S. Food and Drug Administration
+ (the FDA or other governmental agencies; 
+
+we
+ may not be able to obtain funding when needed or on terms favorable to us in order to continue operations; 
+
+we
+ may not have sufficient capital to successfully implement our business plan; 
+
+we
+ may not be able to effectively market and sell our products; 
+
+we
+ may not be able to sell our water filtration products at competitive prices or profitably; 
+
+we
+ may encounter problems with our suppliers, manufacturers, and distributors; 
+
+we
+ may encounter unanticipated internal control deficiencies or weaknesses or ineffective disclosure controls and procedures; 
+
+we
+ may not be able to obtain appropriate or necessary regulatory approvals to achieve our business plan; 
+
+we
+ may not be able to secure or enforce adequate legal protection, including patent protection, for our products; 
+
+we
+ may not be able to achieve sales growth in key geographic markets; and 
+
+future
+ waves of COVID-19 or other pandemic infections may cause disruptions to our business,
+ including reduced product sales and supply chain disruptions. 
+
+More
+detailed information about us and the risk factors that may affect the realization of forward-looking statements, including the forward-looking
+statements in this Annual Report on Form 10-K, is set forth in our filings with the U.S. Securities and Exchange Commission (the SEC ),
+including our other periodic reports filed with the SEC. We urge investors and security holders to read those documents free of charge
+at the SEC s web site at www.sec.gov. We do not undertake to publicly update or revise our forward-looking statements because of
+new information, future events or otherwise, except as required by law. 
+
+2 
+
+PART
+I 
+
+Item
+1. Business 
+
+Overview 
+
+We
+are a commercial-stage company that develops and sells high performance water solutions to the medical and commercial markets. 
+
+In
+medical markets, we sell water filtration products. Our medical water filters, mostly classified as ultrafilters, are used primarily
+by hospitals for the prevention of infection from waterborne pathogens, such as legionella and pseudomonas, and in dialysis centers for
+the removal of biological contaminants from water and bicarbonate concentrate. Because our ultrafilters capture contaminants as small
+as 0.005 microns in size, they minimize exposure to a wide variety of bacteria, viruses, fungi, parasites, and endotoxins. 
+
+In
+commercial markets, we manufacture and sell water filters that improve the taste and odor of water and reduce biofilm, bacteria, and
+scale build-up in downstream equipment. Our products are marketed primarily to the food service, hospitality, convenience store, and
+health care markets. These commercial products are also marketed into medical markets, as supplemental filtration to our medical filters. 
+
+We
+were founded in 1997 by healthcare professionals affiliated with Columbia University Medical Center/New York-Presbyterian Hospital to
+develop and commercialize an alternative method to hemodialysis. We have extended our filtration technologies to meet the demand for
+liquid purification in other areas, in particular, water purification. 
+
+Our
+Products 
+
+Water
+Filtration Products 
+
+We
+develop and sell water filtration products used in both medical and commercial applications. Our water filtration products employ multiple
+filtration technologies, as described below. 
+
+3 
+
+In
+medical markets, our primary filtration mechanism is to pass liquids through the pores of polysulfone hollow fiber. Our filters 
+pores are significantly smaller than those of competing products, resulting in highly effective elimination of waterborne pathogens,
+including legionella bacteria (the cause of Legionnaires disease) and viruses, which are not eliminated by most other microbiological
+filters on the market. Additionally, the fiber structure and pore density in our hollow fiber enables significantly higher flow rates
+than in other polysulfone hollow fiber. 
+
+Our
+primary sales strategy in medical markets is to sell through value-added resellers VARs ). Leveraging VARs has enabled
+us to expand rapidly our access to target customers with limited sales staff expansion. In addition, while we are currently focused on
+medical markets, the VARs that support these customers also support a wide variety of commercial and industrial customers. We believe
+that our VAR relationships have and will continue to facilitate growth in filter sales outside of the medical industry. 
+
+In
+commercial markets, we develop and sell our filters, for which carbon-based absorption is the primary filtration mechanism. These products
+allow us to improve water s odor and taste, to reduce scale and heavy metals, and to reduce other water contaminants for customers
+who are primarily in the food service, convenience store, and hospitality industries. These commercial products are also sold into medical
+markets, as supplemental filtration to our medical filters. 
+
+In
+commercial markets, our model combines both direct and indirect sales. Our sales staff have sold products directly to a number of convenience
+stores, hotels, casinos, and restaurants. We are also pursuing large corporate contracts through partnerships. 
+
+Target
+Markets 
+
+Our
+ultrafiltration products currently target the following markets: 
+
+Hospitals
+ and Other Healthcare Facilities: Filtration of water for washing and drinking as an aid in infection control. The filters produce
+ water that is suitable for wound cleansing, cleaning of equipment used in medical procedures, and washing of surgeons hands . 
+
+Dialysis
+ Centers and Home/Portable Dialysis Machines: Filtration of water or bicarbonate concentrate used in hemodialysis. 
+
+Commercial
+ Facilities: Filtration and purification of water for consumption, including for use in ice machines and soft drink dispensers. 
+
+Military
+ and Outdoor Recreation: Individual water purification devices used by soldiers and backpackers to produce drinking water in the field,
+ as well as filters customized to remote water processing systems. 
+
+Hospitals
+and Other Healthcare Facilities. Nephros filters are a leading tool used to provide proactive protection to patients in high-risk
+areas (e.g., ice machines, surgical rooms, NICUs) and reactive protection to patients in broader areas during periods of water pathogen
+outbreaks. Our products are used in hundreds of medical facilities to aid in infection control, both proactively and reactively. 
+
+As
+of 2022, according to the American Hospital Association, there are approximately 6,100 hospitals in the U.S., with approximately 921,000
+beds. Over 33 million patients were admitted to these hospitals. The U.S. Centers for Disease Control and Prevention CDC estimates that healthcare associated infections HAI occur in approximately 1 out of every 31 hospital patients, which
+calculates to over one million patients in 2022. HAIs affect patients in hospitals or other healthcare facilities and are not present
+or incubating at the time of admission. They also include infections acquired by patients in the hospital or facility, but appearing
+after discharge, and occupational infections among staff. Many HAIs are caused by waterborne bacteria and viruses that can thrive in
+aging or complex plumbing systems often found in healthcare facilities. 
+
+4 
+
+In
+January 2022, the Center for Clinical Standards and Quality at the Centers for Medicare and Medicaid Services CMS expanded
+its requirements originally implemented in 2017 for facilities to develop policies and procedures that inhibit the growth
+and spread of legionella and other opportunistic pathogens in building water systems. In this 2022 update, CMS requires teams to be assigned
+to the development of formal water management plans WMPs ), as well as detailed documentation regarding the development
+of the WMPs and their execution. CMS surveyors regularly review policies, procedures, and reports documenting water management implementation
+results to verify that facilities are compliant with these requirements. We believe that these CMS regulations may have a positive impact
+on the sale of our HAI-inhibiting ultrafilters. 
+
+We
+currently have FDA 510(k) clearance on the following portfolio of medical device products for use in the hospital setting to aid in infection
+control: 
+
+The
+ DSU-H and SSU-H are in-line, 0.005-micron ultrafilters that provide dual- and single-stage protection, respectively, from waterborne
+ pathogens. They are primarily used to filter potable water feeding ice machines, sinks, and medical equipment, such as endoscope
+ washers and surgical room humidifiers. The DSU-H has an up to 6-month product life in a typical hospital setting, while the SSU-H
+ has an up to 3-month product life . 
+
+The
+ S100 is a point-of-use, 0.01-micron microfilter that provides protection from waterborne pathogens. The S100 is primarily used to
+ filter potable water feeding sinks and showers. The S100 has an up to 3-month product life when used in a hospital setting. 
+
+The
+ HydraGuard TM and HydraGuard TM - Flush are 0.005-micron cartridge ultrafilters that provide single-stage protection
+ from waterborne pathogens. The HydraGuard ultrafilters are primarily used to filter potable water feeding ice machines and medical
+ equipment, such as endoscope washers and surgical room humidifiers. The HydraGuard has an up to 6-month product life and the HydraGuard
+ - Flush has an up to 12-month product life when used in a hospital setting . 
+
+Our
+complete hospital infection control product line, including in-line, and point-of-use can be viewed on our website at https://www.nephros.com/infection-control/ .
+We are not including the information on our website as a part of, nor incorporating it by reference into, this Annual Report on Form
+10-K. 
+
+Dialysis
+Centers - Water/Bicarbonate . In the dialysis water market, Nephros ultrafiltration products are among the highest performing
+products on the market. The DSU-D, SSU-D and the SSUmini have become the standard endotoxin filter in many portable reverse osmosis systems.
+The EndoPur , our large-format ultrafilter targeted at dialysis clinic water systems, provides the smallest pore size
+available. 
+
+To
+perform hemodialysis, all dialysis clinics have dedicated water purification systems to produce water and bicarbonate concentrate, two
+essential ingredients for making dialysate, the liquid that removes waste material from the blood. According to the American Journal
+of Kidney Diseases, there are approximately 6,500 dialysis clinics in the United States servicing approximately 468,000 patients annually.
+We estimate that there are over 100,000 hemodialysis machines in operation in the United States. 
+
+Medicare
+is the main payer for dialysis treatment in the United States. To be eligible for Medicare reimbursement, dialysis centers must meet
+the minimum standards for water and bicarbonate concentrate quality set by the Association for the Advancement of Medical Instrumentation AAMI ), the American National Standards Institute ANSI and the International Standards Organization ISO ).
+We anticipate that the stricter standards approved by these organizations in 2009 will be adopted by Medicare in the future. 
+
+We
+currently have FDA 510(k) clearance on the following portfolio of medical device products for use in the dialysis setting to aid in bacteria,
+virus, and endotoxin retention: 
+
+The
+ DSU-D, SSU-D and SSUmini are in-line, 0.005-micron ultrafilters that provide protection from bacteria, viruses, and endotoxins. All
+ of these products have an up to 12-month product life in the dialysis setting and are used to filter water following treatment with
+ a reverse osmosis RO system, and to filter bicarbonate concentrate. These ultrafilters are primarily used in the
+ water lines and bicarbonate concentrate lines leading into dialysis machines, and as a polish filter for portable RO machines . 
+
+The
+ EndoPur is a 0.005-micron cartridge ultrafilter that provides single-stage protection from bacteria, viruses, and endotoxins. The
+ EndoPur has an up to 12-month product life in the dialysis setting and is used to filter water following treatment with an RO system.
+ More specifically, the EndoPur is used primarily to filter water in large RO systems designed to provide ultrapure water to an entire
+ dialysis clinic. The EndoPur is a cartridge-based, plug and play market entry that requires no plumbing at installation
+ or replacement. The EndoPur is available in 10 , 20 , and 30 configuration. 
+
+5 
+
+Commercial
+and Industrial Facilities . Our commercial NanoGuard product line accomplishes ultrafiltration via small
+pore size (0.005 micron) technology, filtering bacteria and viruses from water. In addition, our commercial filtration offerings include
+technologies that are primarily focused on improving odor and taste and on reducing scale and heavy metals from filtered water. 
+
+Our
+commercial market focus is on the hotel, restaurant, and convenience store markets. In March 2022, we closed a contract to provide water
+filtration systems to an organization of approximately 3,000 Quick Service Restaurants QSR ). We continue to pursue other
+national accounts, which may result in step-change increases in commercial market revenue. 
+
+Over
+time, we believe that the same water safety management programs currently underway at medical facilities may migrate to commercial markets.
+As the epidemiology of waterborne pathogens expands, links to contamination sources will become more efficient and the data more readily
+available. In cases where those sources are linked to restaurants, hotels, office buildings and residential complexes, the corporate
+owners of those facilities will likely face increasing liability exposure. We expect that building owners will come to understand ASHRAE-188,
+which outlines risk factors for buildings and their occupants, and provides water safety management guidelines. We believe, in time,
+most commercial buildings will need to follow the basic requirements of ASHRAE-188: create a water management plan, perform routine testing,
+and establish a plan to treat the building in the event of a positive test. 
+
+As
+demand for water testing and microbiological filtration grows, we will be ready to deploy our expertise and solutions based on years
+of experience servicing the medical market. We believe that we have an opportunity to offer unique expertise and products to the commercial
+market, and that our future revenue from the commercial market could even surpass our infection control revenue. 
+
+We
+currently market the following portfolio of proprietary products for use in the commercial, industrial, and food service settings: 
+
+The
+ NanoGuard set of products are in-line, 0.005-micron ultrafilter that provides dual-stage retention of any organic or inorganic particle
+ larger than 15,000 Daltons. NanoGuard products are designed to fit a variety of existing plumbing configurations, including 10 
+ and 20 standard housings, and Nephros and Everpure manifolds. Included in the NanoGuard product line are both conventional
+ and flushable filters . 
+
+The
+ Nephros line of commercial filters provide a variety of technology solutions that improve water quality in food service, convenience
+ store, hospitality, and industrial applications. Nephros filters improve water taste and odor, and reduce sediment, dirt, rust particles
+ and other solids, chlorine and heavy minerals, lime scale build-up, and both particulate lead and soluble lead. 
+
+Nephros
+commercial products combine effectively with NanoGuard ultrafiltration technologies to offer full-featured solutions to the commercial
+water market, including to existing users of Everpure filter manifolds. 
+
+6 
+
+Pathogen
+Detection Systems 
+
+In
+2019, we expanded our portfolio of water solutions with the introduction of pathogen detection system PDS products and
+services, including our PluraPath pathogen detection system, which we developed to provide real-time data regarding the existence of
+a broad array of waterborne pathogens to the infection control teams responsible executing a building or other facility s water
+management plans. In the third quarter of 2021, we acquired the business of GenArraytion, Inc. GenArraytion ), including
+GenArraytion s many proprietary assays, multiplexing technology, and selection methods for detecting waterborne pathogens and other
+microorganisms using Polymerase Chain Reaction technology. GenArraytion s assets was integrated into our PDS segment. In November
+2022, we sold substantially all of our assets used in our PDS business to BWSI, LLC pursuant to the terms of an Agreement for Purchase
+and Sale of Assets with BWSI (the PDS Purchase Agreement ). Under the terms of the PDS Purchase Agreement, BWSI made a nominal
+cash payment at the closing of the transaction and assumed certain continuing liabilities of the PDS business. Additionally, for a period
+of seven years commencing January 1, 2023, and ending December 31, 2029, BWSI will pay us an annual royalty equal to a specified percentage
+of gross margin received by BWSI from each of the sale and licensing of products developed by the PDS Business. 
+
+Hemodiafiltration
+(HDF) Systems and Specialty Renal Products, Inc. 
+
+The
+current standard of care in the United States for patients with chronic renal failure is hemodialysis HD ), a process in
+which toxins are cleared via diffusion. Patients typically receive HD treatments at least 3 times weekly for 3-4 hours per treatment.
+HD is most effective in removing smaller, easily diffusible toxins. For patients with acute renal failure, the current standard of care
+in the United States is hemofiltration HF ), a process where toxins are cleared via convection. HF offers a much better
+removal of larger sized toxins when compared to HD; however, HF treatment is more challenging for patients, as it is performed daily,
+and typically takes 12-24 hours per treatment. 
+
+Our company was originally
+founded to develop and commercialize a hemodiafiltration HDF medical device .
+HDF is an alternative dialysis modality that combines the benefits of HD and HF into a single therapy by clearing toxins
+using both diffusion and convection. Though not widely used in the United States, HDF is prevalent in Europe and is performed for a growing
+number of patients. Clinical experience and literature demonstrate that HDF s
+benefits, among other factors, include enhanced clearance of middle and large molecular weight toxins, improved patient survival, reduced
+incidence of dialysis-related amyloidosis, improved patient quality of life and reduced hospitalizations and overall length of stays. 
+
+7 
+
+Our
+original HDF device 
+
+HDF1 was cleared by the U.S. Food and Drug Administration FDA for the treatment of patients with chronic renal failure in
+2012, but did not gain market acceptance due to, among other reasons, the feeling that it was too difficult to use. Accordingly, since
+2018, we have undertaken to redesign and dramatically simplify our HDF device. We believe our updates have made the system significantly
+easier to use. 
+
+In
+2018, we spun-off the development of the second-generation HDF device HDF2 into a newly-formed subsidiary, Specialty
+Renal Products, Inc. SRP and shortly thereafter SRP raised 3 million of outside equity capital directly to fund the
+second-generation development described above. We maintain a 62.5 ownership stake in SRP. In February 2022, SRP raised an additional
+ 0.5 million of equity capital, including an investment by Nephros of 0.3 million, which was sufficient to maintain our 62.5 ownership
+stake in SRP. In addition to the equity capital raised by SRP, in December 2020, we entered into a loan agreement with SRP under which
+we loaned 1.3 million to SRP. As of December 31, 2022, the outstanding balance of this loan, including accrued interest, was approximately
+ 1.4 million. 
+
+In
+May 2022, the FDA cleared HDF2 for patient use, which enables nephrologists to provide HDF treatment to patients with end stage renal
+disease. To date, our and SRP s HDF1 and HDF2 systems are the only HDF systems cleared by the FDA. 
+
+Following
+FDA clearance of HDF2, SRP s management began exploring strategic partnerships and/or potential additional sources of financing
+to support a commercial launch of the HDF2 device but has been unsuccessful in identifying any interested strategic partner or investor.
+By late February 2023, SRP had nearly exhausted its capital resources. 
+
+In
+March 2023, SRP s board of directors and stockholders determined to wind down SRP operations and liquidate its remaining assets,
+due to capital constraints. SRP s cash resources are sufficient to satisfy all of its outstanding liabilities other than its outstanding
+loan to us. Accordingly, we expect that SRP will assign all of its remaining assets, including its intellectual property rights in the
+HDF2 device, to us in partial satisfaction of its outstanding loan balance of approximately 1.4 million. Although we have no current
+plans to do so, we may re-evaluate opportunities for the HDF2 device in the future. 
+
+Corporate
+Information 
+
+We
+were incorporated under the laws of the State of Delaware in April 1997. Our principal executive offices are located at 380 Lackawanna
+Place, South Orange, New Jersey 07079, and our telephone number is (201) 343-5202. We also have an office in Las Vegas, Nevada. For more
+information about Nephros, please visit our website at www.nephros.com . We are not including the information on our website
+as a part of, nor incorporating it by reference into, this Annual Report on Form 10-K. 
+
+8 
+
+Manufacturing
+and Suppliers 
+
+We
+do not, and do not intend to in the near future, manufacture any of our medical device filtration products. We do manufacture some of
+our commercial filtration products in our facility in Las Vegas, Nevada. 
+
+On
+April 23, 2012, we entered into a License and Supply Agreement (the License and Supply Agreement with Medica S.p.A. Medica ),
+an Italy-based medical product manufacturing company, for the marketing and sale of certain filtration products based upon Medica s
+proprietary Medisulfone ultrafiltration technology in conjunction with our filtration products, and for an exclusive supply arrangement
+for the filtration products. Under the License and Supply Agreement, as amended, Medica granted to us an exclusive license, with right
+of sublicense, to market, promote, distribute, offer for sale and sell the filtration products worldwide, with certain limitations on
+territory, during the term of the License and Supply Agreement. In addition, we granted to Medica an exclusive license under our intellectual
+property to make the filtration products during the term of the License and Supply Agreement. The filtration covered under the License
+and Supply Agreement include both certain products based on Medica s proprietary Versatile microfiber technology and certain filtration
+products based on Medica s proprietary Medisulfone ultrafiltration technology. The term of the License and Supply Agreement with
+Medica expires on December 31, 2025, unless earlier terminated by either party in accordance with the terms of the License and Supply
+Agreement. We currently have an understanding with Medica whereby we have agreed to pay interest to Medica at a 12 annual rate calculated
+on the principal amount of any outstanding invoices that are not paid pursuant to the original payment terms. 
+
+In
+exchange for the rights granted, we agreed to make minimum annual aggregate purchases from Medica throughout the term of the License
+and Supply Agreement. As part of the License and Supply Agreement, we granted to Medica a 10-year option to purchase 300,000 shares of
+our common stock. Such options expired in April 2022. 
+
+Sales
+and Marketing 
+
+Our
+New Jersey headquarters oversees global sales and marketing activity of our ultrafilter products. We work with multiple distributors
+for our ultrafilter products in the hospital and dialysis water markets. For the food service and hospitality markets, we have contracted
+with Donastar LLC as our master distributor. For other prospective markets for our ultrafilter products, we are pursuing alliance opportunities
+for joint product development and/or distribution. Our ultrafilter manufacturer in Europe shares certain intellectual property rights
+with us for one of our dual stage ultrafilter designs. 
+
+Research
+and Development 
+
+Our
+research and development efforts continue on several fronts directly related to our current product lines. For the ultrafiltration systems
+business, we are continually working with existing and potential distributors of ultrafilter products to develop solutions to meet customer
+needs. 
+
+Major
+Customers 
+
+For
+the years ended December 31, 2022 and 2021, the following customers accounted for the following percentages of our revenues, respectively: 
+
+Customer 
+ 2022 
+ 2021 
+ 
+ A 
+ 25 
+ 17 
+ 
+ B 
+ 10 
+ 9 
+ 
+ C 
+ 7 
+ 11 
+ 
+ Total 
+ 42 
+ 37 
+
+9 
+
+As
+of December 31, 2022 and 2021, the following customers accounted for the following percentages of our accounts receivable, respectively: 
+
+Customer 
+ 2022 
+ 2021 
+ 
+ A 
+ 21 
+ 8 
+ 
+ B 
+ 10 
+ 11 
+ 
+ D 
+ 10 
+ 7 
+ 
+ C 
+ 0 
+ 19 
+ 
+ Total 
+ 41 
+ 45 
+
+Competition 
+
+With
+respect to the water filtration market, we compete with companies that are well-entrenched in the water filtration domain. These companies
+include Pall Corporation (wholly owned by Danaher Corporation), which manufactures point-of-use microfiltration products, as well as
+3M and Pentair, who manufacture the Cuno and Everpure brands of water filtration and purification products, respectively. Our
+methods of competition in the water filtration domain include: 
+
+developing
+ and marketing products that are designed to meet critical and specific customer needs more effectively than competitive devices; 
+
+offering
+ unique attributes that illustrate our product reliability, user-friendliness, and performance capabilities; 
+
+selling
+ products to specific customer groups where our unique product attributes are mission-critical; and 
+
+pursuing
+ alliance and/or acquisition opportunities for joint product development and distribution. 
+
+Intellectual
+Property 
+
+Patents 
+
+We
+protect our technology and products through patents and patent applications. In addition to the United States, we also apply for patents
+in other jurisdictions, such as the European Patent Office, Canada, and Japan, to the extent we deem appropriate. We have built a portfolio
+of patents and applications covering our products, including their hardware design and methods of hemodiafiltration. 
+
+We
+believe that our patent strategy will provide a competitive advantage in our target markets, but our patents may not be broad enough
+to cover our competitors products and may be subject to invalidation claims. Our U.S. patents for the Method and Apparatus
+for Efficient Hemodiafiltration and for the Dual-Stage Filtration Cartridge have claims that cover the OLp r
+MDHDF filter series and the method of hemodiafiltration employed in the operation of the products. Technological developments in ESRD
+therapy could reduce the value of our intellectual property. Any such reduction could be rapid and unanticipated. We have issued patents
+on our water filtration products and applications in process to cover various applications in residential, commercial, and remote environments. 
+
+As
+of December 31, 2022, we had four U.S. patents, one Canadian patent, one Chinese patent, one French patent, one German patent, one Italian
+patent, one United Kingdom patent, and one European patent. In addition, we have one pending patent application in the United States.
+Our pending US patent application relates to filter technologies, including liquid purification filter systems that are particularly
+suited for use in harsh environments. 
+
+Trademarks 
+
+As
+of December 31, 2022, in the United States, we secured registrations of the trademarks AETHER, ENDOPUR, HYDRAGUARD, and NANOGUARD. In
+the US, we filed trademark application for NEPHROS and BECAUSE WATER MATTERS. In the UK, we secured registrations for the trademark H2H,
+NANOGUARD, NEPHROS HYDRAGUARD, OLPUR, and PATHOGUARD. 
+
+10 
+
+Governmental
+Regulation 
+
+The
+research and development, manufacturing, promotion, marketing, and distribution of our ESRD therapy products in the United States, Europe
+and other regions of the world are subject to regulation by numerous governmental authorities, including the FDA, the European Union
+and analogous agencies. 
+
+United
+States 
+
+The
+FDA regulates the manufacture and distribution of medical devices in the United States pursuant to the Food, Drug, and Cosmetics (FDC)
+Act. All of our ESRD therapy products are regulated in the United States as medical devices by the FDA under the FDC Act. Under the FDC
+Act, medical devices are classified in one of three classes, namely Class I, II or III, on the basis of the controls deemed necessary
+by the FDA to reasonably ensure their safety and effectiveness. 
+
+Class
+ I devices are medical devices for which general controls are deemed sufficient to ensure their safety and effectiveness. General
+ controls include provisions related to (1) labeling, (2) producer registration, (3) defect notification, (4) records and reports
+ and (5) quality service requirements QSR ). 
+
+Class
+ II devices are medical devices for which the general controls for the Class I devices are deemed not sufficient to ensure their safety
+ and effectiveness and require special controls in addition to the general controls. Special controls include provisions related to
+ (1) performance and design standards, (2) post-market surveillance, (3) patient registries and (4) the use of FDA guidelines. 
+
+Class
+ III devices are the most regulated medical devices and are generally limited to devices that support or sustain human life or are
+ of substantial importance in preventing impairment of human health or present a potential, unreasonable risk of illness or injury.
+ Pre-market approval by the FDA is the required process of scientific review to ensure the safety and effectiveness of Class III devices. 
+
+Before
+a new medical device can be introduced to the market, Section 510(k), and Section 515 of the FDC Act require a manufacturer who intends
+to market a medical device to submit a premarket notification (Section 510(k)) or a request for premarket approval (Section 515), to
+the FDA. 
+
+A
+510(k) clearance will be granted if the submitted information establishes that the proposed device is substantially equivalent 
+to a legally marketed Class I or Class II medical device or to a Class III medical device for which the FDA has not called for premarket
+approval under Section 515. The 510(k) clearance process is generally faster and simpler than the premarket approval process. 
+
+Premarket
+approval (PMA) is the FDA s process of scientific and regulatory review to evaluate the safety and effectiveness of Class III medical
+devices. Class III devices are those that support or sustain human life, are of substantial importance in preventing impairment of human
+health, or which present a potential, unreasonable risk of illness or injury, or are new and present unknown safety or effectiveness
+issues or risks. PMA is the most stringent type of device marketing application required by the FDA. To gain approval, the manufacturer
+must present adequate scientific evidence to assure that the device is safe and effective for its intended use(s). 
+
+For
+any devices cleared through the 510(k) clearance process, modifications or enhancements that could significantly affect the safety or
+effectiveness of the device or that constitute a major change to the intended use of the device will require a new 510(k) clearance submission.
+Accordingly, if we do obtain Section 510(k) clearance for any of our ESRD therapy and/or filtration products, we will need to submit
+another Section 510(k) notification if we significantly affect that product s safety or effectiveness through subsequent modifications
+or enhancements. 
+
+11 
+
+All
+of our products have been cleared by the FDA as Class II devices, such as: 
+
+DSU
+ Dual Stage UltraFilter: In June 2009, we received FDA 510(k) clearance of the DSU to be used to filter biological contaminants
+ from water and bicarbonate concentrate used in hemodialysis procedures. 
+
+SSU-D/DSU-D
+ Dual Stage UltraFilter: In July 2011, we received FDA 510(k) clearance of the SSU/DSU to be used to filter water or bicarbonate
+ concentrate used in hemodialysis procedures. 
+
+OLp r
+ H2H Module and OLp r MD 220 Hemodiafilter : In April 2012, we received FDA 510(k) clearance of the OLp r H2H Module
+ and OLp r MD 220 Hemodiafilter for use with a UF controlled hemodialysis machine that provides ultrapure dialysate in accordance
+ with current ANSI/AAMI/ISO standards, for the treatment of patients with chronic renal failure in the United States. 
+
+DSU-H/SSU-H:
+ In October 2014, we received FDA 510(k) clearance of the DSU-H and SSU-H ultrafilters to be used to filter EPA quality drinking
+ water. The filters retain bacteria, viruses, and endotoxin. By providing ultrapure water for patient washing and drinking, the filters
+ aid in infection control. 
+
+S100
+ Point of Use Filter: In April 2016, we received FDA 510(k) clearance of the S100 point-of-use filter to be used to filter
+ EPA quality drinking water. The filters retain bacteria. By retaining bacteria in water for washing and drinking, the filter may
+ aid in infection control. 
+
+HydraGuard:
+ In December 2016, we received FDA 510(k) clearance of the HydraGuard 10 ultrafilter intended to be used to filter
+ EPA quality drinking water. The filter retains bacteria, viruses and endotoxin. By providing ultrapure water for patient washing
+ and drinking, the filter aids in infection control. 
+
+EndoPur:
+ In March 2017, we received FDA 510(k) clearance of the EndoPur ultrafilter intended to be used to filter water used in hemodialysis
+ devices. It assists in providing hemodialysis quality water. The device is not a complete water treatment system but serves to remove
+ biological contaminants. Therefore, it must be used in conjunction with other water treatment equipment (Reverse Osmosis, Deionization,
+ etc.). 
+
+The
+FDC Act requires that medical devices be manufactured in accordance with the FDA s current QSR regulations which require, among
+other things, that: 
+
+the
+ design and manufacturing processes be regulated and controlled by the use of written procedures; 
+
+the
+ ability to produce medical devices which meet the manufacturer s specifications be validated by extensive and detailed testing
+ of every aspect of the process; 
+
+any
+ deficiencies in the manufacturing process or in the products produced be investigated; 
+
+detailed
+ records be kept, and a corrective and preventative action plan be in place; and 
+
+manufacturing
+ facilities be subject to FDA inspection on a periodic basis to monitor compliance with QSR regulations. 
+
+In
+addition to the requirements described above, the FDC Act requires that: 
+
+all
+ medical device manufacturers and distributors register with the FDA annually and provide the FDA with a list of those medical devices
+ which they distribute commercially; 
+
+information
+ be provided to the FDA on death or serious injuries alleged to have been associated with the use of the products, as well as product
+ malfunctions that would likely cause or contribute to death or serious injury if the malfunction were to recur; and 
+
+12 
+
+certain
+ medical devices not cleared with the FDA for marketing in the United States meet specific requirements before they are exported. 
+
+We
+and our contract manufacturers are required to manufacture our products in compliance with current Good Manufacturing Practice (GMP)
+requirements set forth in the QSR. The QSR requires a quality system for the design, manufacture, packaging, labeling, storage, installation,
+and servicing of marketed devices, and it includes extensive requirements with respect to quality management and organization, device
+design, buildings, equipment, purchase and handling of components or services, production and process controls, packaging and labeling
+controls, device evaluation, distribution, installation, complaint handling, servicing, and record keeping. The FDA evaluates compliance
+with the QSR through periodic unannounced inspections that may include the manufacturing facilities of our subcontractors. If the FDA
+believes that we or any of our contract manufacturers, or regulated suppliers, are not in compliance with these requirements, there may
+be a material adverse effect on our manufacturing operations, effecting our ability to sell. 
+
+European
+Union 
+
+The
+European Union began to harmonize national regulations comprehensively for the control of medical devices in member nations in 1993,
+when it adopted its Medical Devices Directive 93/42/EEC. The European Union directive applies to both the manufacturer s quality
+assurance system and the product s technical design and discusses the various ways to obtain approval of a device (dependent on
+device classification), how to properly CE mark a device, and how to place a device on the market. 
+
+In
+2017, the European Union (EU) adopted the EU Medical Device Regulation (Council Regulations 2017/745) which imposes stricter requirements
+for the marketing and sale of medical devices, including new quality system and post-market surveillance requirements. 
+
+As
+defined in EU Medical Device Regulation (Council Regulations 2017/745), the regulatory approach necessary to demonstrate to the European
+Union that the organization has the ability to provide medical devices and related services that consistently meet customer requirements
+and regulatory requirements applicable to medical devices requires the certification of a full quality management system by a notified
+body. 
+
+European
+Union requirements for products are set forth in harmonized European Union standards and include conformity to safety requirements, physical
+and biological properties, construction and environmental properties, and information supplied by the manufacturer. A company demonstrates
+conformity to these requirements, with respect to a product, by pre-clinical tests, biocompatibility tests, qualification of products
+and packaging, risk analysis and well-conducted clinical investigations approved by ethics committees. 
+
+Once
+a manufacturer s full quality management system is determined to be in compliance with ISO 13485/2016 and other statutory requirements,
+and the manufacturer s products conform to harmonized European standards, the notified body will recommend and document such conformity.
+The manufacturer will receive a CE marking and ISO certifications, and then may place a CE mark on the relevant products. The CE mark,
+which stands for Conformit Europ ene, demonstrates compliance with the relevant European Union requirements. Products
+subject to these provisions that do not bear the CE mark cannot be imported to, or sold or distributed within, the European Union. 
+
+Medical
+Devices sold in Europe/ anticipated to be sold in Europe, shall be examined, and classified as: 
+
+Class
+ I: Provided non-sterile or do not have a measuring function; Low Risk 
+
+Class
+ I: Provided sterile and/or have a measuring function; Low/medium risk 
+
+Class
+ IIa: Medium risk 
+
+Class
+ IIb: Medium/high risk 
+
+Class
+ III: High risk 
+
+13 
+
+Currently
+we are in the process to seek approval for CE certification under EU Medical Device Regulation (Council Regulations 2017/745). Once approved,
+the following products will have certification from BSI America for CE marking and adherence to ISO13485 standards as Class IIa (Rule
+3) medical devices: 
+
+SSU-D/DSU-D/SSUmini
+ Ultrafilters : Intended to be used to filter water or bicarbonate concentrate used in hemodialysis procedures. 
+
+Regulatory
+Authorities in Regions Outside of the United States and the European Union 
+
+In
+November 2007 and May 2011, the Therapeutic Products Directorate of Health Canada, the Canadian health regulatory agency, approved our
+OLp r MD220 Hemodiafilter and our DSU, respectively, for marketing in Canada. Other than the Canadian approval of our OLp r
+MD220 Hemodiafilter and DSU products, we have not obtained any regulatory approvals to sell any of our products outside of the United
+States and the European Union and there is no assurance that any such clearance or certification will be issued. 
+
+Requirements
+pertaining to medical devices vary widely from country to country, ranging from no health regulations to detailed submissions such as
+those required by the FDA. Our manufacturing facilities are subject to audits and have been certified to be ISO 13485:2016, which allows
+us to sell our products in the United States and Canada. 
+
+In
+November 2020, we received MDSAP certification, to continue sales and compliance in the United States and Health Canada. The Medical
+Device Single Audit Program (MDSAP) is a program that allows the conduct of a single regulatory audit of a medical device manufacturer s
+quality management system that satisfies the requirements of multiple regulatory jurisdictions. Audits are conducted by Auditing Organizations
+authorized by the participating Regulatory Authorities to audit under MDSAP requirements. The MDSAP is a way that medical device manufacturers
+can be audited once for compliance with the standard and regulatory requirements of up to five different medical device markets: Australia,
+Brazil, Canada, Japan, and the United States. 
+
+Currently,
+we are in the process of expanding our MDSAP certification to include Brazil. Following the expansion of our MDSAP certificate, we will
+be allowed to sell our products in the United States, Canada, Brazil, and other territories around the world, while maintaining our current
+approvals. The time and cost of obtaining new, and maintaining existing, market authorizations from countries outside of North America,
+and the requirements for licensing products in these countries may differ significantly from FDA and/or MDR (European Union) requirements. 
+
+Product
+Liability and Insurance 
+
+The
+production, marketing and sale of our products have an inherent risk of liability in the event of product failure or claim of harm caused
+by product operation. We have acquired product liability insurance for our products in the amount of 3 million. A successful claim in
+excess of our insurance coverage could materially deplete our assets. Moreover, any claim against us could generate negative publicity,
+which could decrease the demand for our products, our ability to generate revenues and our profitability. 
+
+Some
+of our existing and potential agreements with manufacturers of our products and components of our products do or may require us (1) to
+obtain product liability insurance or (2) to indemnify manufacturers against liabilities resulting from the sale of our products. If
+we are not able to maintain adequate product liability insurance, we will be in breach of these agreements, which could materially adversely
+affect our ability to produce our products. Even if we are able to obtain and maintain product liability insurance, if a successful claim
+in excess of our insurance coverage is made, then we may have to indemnify some or all of our manufacturers for their losses, which could
+materially deplete our assets. 
+
+Employees 
+
+As
+of December 31, 2022, we employed a total of 27 full-time employees, including 9 employed in sales/marketing/customer support, 14 in
+logistics, general, and administrative, and 4 in research and development. None of our employees are currently represented by a labor
+union or covered by a collective bargaining agreement and we believe that our relations with our employees are good. During 2022, we
+laid-off 7 employees (approximately 15 of our staff), and experienced limited voluntary turnover. Going forward, we intend to focus
+on maintaining our current good relations with our employees and continuing to develop and explore ways to collaborate with our employees
+and create a well-regarded workplace. 
+
+Available
+Information 
+
+We
+are subject to the reporting requirements of the Securities Exchange Act of 1934, as amended (the Exchange Act ). The Exchange
+Act requires us to file periodic reports, proxy statements and other information with the SEC. The SEC maintains a website that contains
+reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. These materials
+may be obtained electronically by accessing the SEC s website at http://www.sec.gov. 
+
+14 
+
+Item
+1A. Risk Factors 
+
+Risks
+Related to Our Overall Business and Operations 
+
+We
+have a history of operating losses and a significant accumulated deficit, and we may not achieve or maintain profitability in the future. 
+
+As
+of December 31, 2022, we had an accumulated deficit of 142.8 million as a result of historical operating losses. While we believe that
+revenues will increase following our planned sales team expansion, there can be no guarantee of this. We may continue to incur additional
+losses in the future depending on the timing and marketplace acceptance of our products and as a result of operating expenses being higher
+than our gross margin from product sales. We began sales of our first product in March 2004, and we may never realize sufficient revenues
+from the sale of our products or be profitable. Each of the following factors, among others, may influence the timing and extent of our
+profitability, if any: 
+
+the
+ market acceptance of our technologies and products in each of our target markets; 
+
+our
+ ability to effectively and efficiently manufacture, market and distribute our products; 
+
+our
+ ability to sell our products at competitive prices that exceed our per unit costs; and 
+
+our
+ ability to continue to develop products and maintain a competitive advantage in our industry. 
+
+If
+we are unable to achieve profitability, we will need additional capital to fund our operating activities. Such capital is likely to be
+from the sale of shares of our common stock or other equity securities or from loans or other debt securities. However, there is no assurance
+that such capital will be available on favorable terms or at all. 
+
+We
+may be unable to achieve or sustain revenue growth. 
+
+Our
+business is substantially dependent upon sales of the water filter products. Our ability to increase our revenues in future periods will
+depend on our ability to increase sales of our water filter and other products we introduce in the future, which will, in turn, depend
+in part on our success in growing our customer base and reorders from those customers. Our sales from water filters was slightly less
+in fiscal 2022 compared to fiscal 2021 and there is no assurance that we will be able to improve our sales in future periods. If we cannot
+achieve significant revenue growth for an extended period, our financial results will be adversely affected, and our stock price may
+decline. 
+
+We
+face significant challenges in obtaining market acceptance of our products, which could adversely affect our potential sales and revenues. 
+
+Our
+success depends on our ability to both maintain our existing customers and to continue growing our customer base. If we
+are unable to maintain and further grow our customer base, our ability to grow revenue
+will be limited and we will have difficulty achieving profitability. Our ability to grow our customer base also depends on our
+ability to continue increasing achieve market acceptance of our water filter products, including among healthcare facility
+customers, or may not be deemed suitable for other commercial, military, industrial or retail applications. Factors that may affect
+our ability to achieve acceptance of our water filtration products and technologies in the marketplace include whether such products
+will be safe for use, whether they will be effective and whether they will be cost-effective. 
+
+If
+we are not able to successfully scale-up production of our products, then our sales and revenues will suffer. 
+
+In
+order to successfully commercialize our products, we need to be able to produce them in a cost-effective way on a large scale to meet
+commercial demand, while maintaining extremely high standards for quality and reliability. The extent to which we fail to successfully
+commercialize our products will limit our ability to be profitable. 
+
+15 
+
+We
+rely on, and for the foreseeable future expect to continue to rely on, a limited number of independent manufacturers to produce our products.
+Our manufacturers systems and procedures may not be adequate to support our operations and may not be able to achieve the rapid
+execution necessary to exploit the market for our products. If we achieve our goal to increase our product revenue, we will need to also
+increase our supply requirements However, our contracted manufacturers could experience manufacturing and control problems in connection
+with their manufacture of our products, which could disrupt their ability to
+ timely and adequately supply us with product. If we experience any of these problems with respect to our manufacturers scale-ups
+of manufacturing operations, then we may not be able to have our products manufactured and delivered in a timely manner. Our products
+are new and evolving, and our manufacturers may encounter unforeseen difficulties in manufacturing them in commercial quantities or at
+all. 
+
+If
+we cannot develop adequate distribution, customer service and technical support networks, then we may not be able to market and distribute
+our products effectively and/or customers may decide not to order our products. In either case, our sales and revenues will suffer. 
+
+Our
+strategy requires us to distribute our products and provide a significant amount of customer service and maintenance and other technical
+service. To provide these services, we have begun, and will need to continue, to develop a network of distribution and a staff of employees
+and independent contractors in each of the areas in which we intend to operate. We cannot assure that we will be able to organize and
+manage this network on a cost-effective basis. If we cannot effectively organize and manage this network, then it may be difficult for
+us to distribute our products and to provide competitive service and support to our customers, in which case customers may be unable,
+or decide not, to order our products and our sales and revenues will suffer. 
+
+We
+have limited experience selling our products to healthcare facilities, and we might be unsuccessful in increasing our sales. 
+
+Our
+business strategy depends in part on our ability to sell our products to hospitals and other healthcare facilities, including dialysis
+clinics. We have limited experience with respect to sales and marketing. If we are unsuccessful at manufacturing, marketing, and selling
+our products, our operations and potential revenues will be materially adversely affected. 
+
+We
+are dependent on third parties to supply us with our products to us, making us vulnerable to supply problems and price fluctuations. 
+
+We
+rely on third-party suppliers to provide us with certain components of our products. With respect to our proprietary filter material
+used in our DSU-H, SSU-H, S100 and HydraGuard TM and HydraGuard TM Flush filters, we rely on a single source
+supplier. Our agreement with that supplier will expire in 2025 and although our relationship with this supplier is good, there can be
+no assurance that our current agreement will guarantee uninterrupted supply or that we will be able to renew the agreement on favorable
+terms, or at all. We depend on our suppliers to provide us and our customers with materials in a timely manner that meet our and their
+quality, quantity and cost requirements. These suppliers may encounter problems during manufacturing for a variety of reasons, any of
+which could delay or impede their ability to meet our demand and our customers demands. 
+
+Companies
+in the United States and around the world have experienced a disruption in the supply of certain components and raw materials, such as
+resins and polymers, which may adversely affect us and our ability to obtain these components in a timely manner, in the volumes we require,
+or at all. In addition, the prices of these components and other supplies we rely upon in the manufacture of our products may rise. For
+example, we and our suppliers have recently experienced, and may continue to experience, rising costs due to inflation, such as costs
+of materials, labor and freight. If inflation continues to rise, the prices of our components may rise, resulting in increased expenses
+to us that we may not be able to offset by raising the prices of our products. 
+
+Any
+supply interruption from our suppliers or failure to obtain additional suppliers for any of the components used in our products, or price
+increases of these supplies, could have a material adverse effect on our business, financial condition and results of operations. 
+
+We
+operate with a limited senior management team and are dependent on our sales and marketing personnel. Our business could be harmed if
+we are unable to attract and retain personnel necessary for our success. 
+
+We
+operate our business with only one person in senior management, which individual serves as our President Chief Executive Officer,
+as well as our Chief Financial Officer. Our dependence on a single officer to perform multiple functions exposes us to various risks,
+including the risk that one officer may be unable to devote sufficient or timely attention to all aspects of operating our business and
+that in the event of a sudden departure of such officer we may not be able to promptly identify a successor. We do not carry key person
+life insurance on any of our employees. If we are unable to recruit and retain qualified personnel to our senior management teams, we
+will be unlikely to achieve our objectives of continuing to grow our company and our business may otherwise be harmed. 
+
+In
+addition, our need to significantly increase our revenue is also dependent on the personnel in our sales and marketing organization.
+Although we have recently added a number of new sales and marketing professionals, our success will depend on their ability to quickly
+integrate into our business and our ability to develop and retain them as employees. Our ability to increase our sales revenue may be
+materially impaired if we experience attrition in our sales and marketing organization. 
+
+Product
+liability associated with the production, marketing, and sale of our products, and/or the expense of defending against claims of product
+liability, could materially deplete our assets and generate negative publicity which could impair our reputation. 
+
+The
+production, marketing and sale of water-filtration products, particularly to healthcare
+facility customers, have inherent risks of liability in the event of product failure or claim of harm caused by product
+operation. Voluntary recalls could subject us to claims or proceedings by consumers, the FDA or other regulatory authorities which
+may adversely impact our sales and revenues. Furthermore, even meritless claims of product liability may be costly to defend
+against. Although we have acquired product liability insurance for our products, we may not be able to maintain or obtain this
+insurance on acceptable terms or at all. Because we may not be able to obtain insurance that provides us with adequate protection
+against all potential product liability claims, a successful claim in excess of our insurance coverage could materially deplete our
+assets. Moreover, even if we are able to obtain adequate insurance, any claim against us could generate negative publicity, which
+could impair our reputation and adversely affect the demand for our products, our ability to generate sales and our
+profitability. 
+
+Some
+of the agreements that we may enter into with manufacturers of our products and components of our products may require us to obtain product
+liability insurance; or to indemnify manufacturers against liabilities resulting from the sale of our products. For example, the agreement
+with our contract manufacturer CM requires that we obtain and maintain certain minimum product liability insurance coverage
+and that we indemnify our CM against certain liabilities arising out of our products that they manufacture, provided they do not arise
+out of our CM s breach of the agreement, negligence or willful misconduct. If we are not able to obtain and maintain adequate product
+liability insurance, then we could be in breach of these agreements, which could materially adversely affect our ability to produce our
+products and generate revenues. Even if we are able to obtain and maintain product liability insurance, if a successful claim in excess
+of our insurance coverage is made, then we may have to indemnify some or all of our manufacturers for their losses, which could materially
+deplete our assets. 
+
+16 
+
+We
+cannot assure you that our products will be safe or that there will not be product-related deaths, serious injuries or product malfunctions.
+Further, we are required under applicable law to report any circumstances relating to our medically approved products that could result
+in deaths or serious injuries. These circumstances could trigger recalls, class action lawsuits and other events that could cause us
+to incur expenses and may also limit our ability to generate revenues from such products. 
+
+We
+cannot assure you that our products will prove to be safe or that there will not be product-related deaths or serious injuries or product
+malfunctions, which could trigger recalls, class action lawsuits and other events that could cause us to incur significant expenses,
+limit our ability to market our products and generate revenues from such products or cause us reputational harm. Under the FDC Act, we
+are required to submit medical device reports MDRs to the FDA to report device-related deaths, serious injuries and malfunctions
+of medically approved products that could result in death or serious injury if they were to recur. Depending on their significance, MDRs
+could trigger events that could cause us to incur expenses and may also limit our ability to generate revenues from such products. Additionally,
+any of the following could occur: 
+
+information
+ contained in the MDRs could trigger FDA regulatory actions such as inspections, recalls and patient/physician notifications; 
+
+because
+ the reports are publicly available, MDRs could become the basis for private lawsuits, including class actions; and 
+
+if
+ we fail to submit a required MDR to the FDA, the FDA could take enforcement action against us. 
+
+If
+any of these events occur, then we could incur significant expenses and it could become more difficult for us to market and sell our
+products and to generate revenues from sales. Other countries may impose analogous reporting requirements that could cause us to incur
+expenses and may also limit our ability to generate revenues from sales of our products. 
+
+We
+may face significant risks associated with international operations, which could have a material adverse effect on our business, financial
+condition, and results of operations. 
+
+We
+expect to manufacture and to market our products globally. Our international operations are subject to a number of risks, including the
+following: 
+
+fluctuations
+ in exchange rates of the U.S. dollar could adversely affect our results of operations; 
+
+we
+ may face difficulties in enforcing and collecting accounts receivable under some countries legal systems; 
+
+local
+ regulations may restrict our ability to sell our products, have our products manufactured or conduct other operations; 
+
+political
+ instability could disrupt our operations; 
+
+some
+ governments and customers may have longer payment cycles, with resulting adverse effects on our cash flow; and 
+
+some
+ countries could impose additional taxes or restrict the import of our products. 
+
+Any
+one or more of these factors could increase our costs, reduce our revenues, or disrupt our operations, which could have a material adverse
+effect on our business, financial condition, and results of operations. 
+
+The
+COVID-19 pandemic may continue to adversely impact our sales and revenues. 
+
+There
+is uncertainty with respect to our projections regarding the availability of sufficient cash resources in the event that the COVID-19
+pandemic resurges. During the pandemic, we saw decreased demand for our hospital filtration products. In addition, sales to new customers
+were hindered by pandemic-related travel restrictions. Also, our commercial filtration products, which are primarily targeted at the
+hospitality and food service markets, saw a decrease in demand, due to the closure or reduced occupancy of many hotels and restaurants.
+If these decreases in demand were to recur, and we are unable to achieve our revenue plan, we may cut budgeted expenditures as appropriate
+to preserve our available capital resources, which could slow our revenue growth plans. 
+
+17 
+
+Risks
+Related to Government Regulation 
+
+If
+we violate any provisions of the FDC Act or any other statutes or regulations, then we could be subject to enforcement actions by the
+FDA or other governmental agencies. 
+
+We
+face a significant compliance burden under the FDC Act and other applicable statutes and regulations which govern the testing, labeling,
+storage, record keeping, distribution, sale, marketing, advertising and promotion of our medically approved products. If we violate the
+FDC Act or other regulatory requirements (either with respect to our ultrafilters or otherwise) at any time during or after the product
+development and/or approval process, we could be subject to enforcement actions by the FDA or other agencies, including: 
+
+fines; 
+
+injunctions; 
+
+civil
+ penalties; 
+
+recalls
+ or seizures of products; 
+
+total
+ or partial suspension of the production of our products; 
+
+withdrawal
+ of any existing approvals or pre-market clearances of our products; 
+
+refusal
+ to approve or clear new applications or notices relating to our products; 
+
+recommendations
+ that we not be allowed to enter into government contracts; and 
+
+criminal
+ prosecution. 
+
+Any
+of the above could have a material adverse effect on our business, financial condition, and results of operations. 
+
+If
+we develop new water filter products in the future, we may be required to obtain regulatory approvals and clearances in the
+countries in which we intend to sell such products. If we fail to receive, or experience a significant delay in
+receiving, such approvals and clearances, then we may not be able to get our new 
+products to market and enhance our revenues. 
+
+Our current water filter products that we market and sell to healthcare
+facilities and dialysis centers have 510(k) clearance from the FDA. However, we will need to continue developing new products in the future
+to continue to compete in our industry, and such new products may require obtaining regulatory approvals in the U.S. and other jurisdictions
+in which we intend to market them. 
+
+We
+cannot ensure that any new products developed by us in the future, will be
+approved for marketing. The clearance and/or approval processes can be lengthy and uncertain, and each requires substantial commitments
+of our financial resources and our management s time and effort. We may not be able to obtain further CE marking or regulatory
+approval for any of our existing or new products in a timely manner or at all. Even if we do obtain regulatory approval, approval may
+be only for limited uses with specific classes of patients, processes, or other devices. Our failure to obtain, or delays in obtaining,
+the necessary regulatory clearance and/or approvals would prevent us from selling our affected products in the applicable regions. If
+we cannot sell some of our products in such regions, or if we are delayed in selling while waiting for the necessary clearance and/or
+approvals, our ability to generate revenues from these products will be limited. 
+
+Over
+time, we intend to market our products globally. Requirements pertaining to the sale of our products vary widely from country to country.
+It may be very expensive and difficult for us to meet the requirements for the sale of our products in many countries. As a result, we
+may not be able to obtain the required approvals in a timely manner, if at all. If we cannot sell our products in a particular region,
+then the size of our potential market could be reduced, which would limit our potential sales and revenues. 
+
+18 
+
+Significant
+additional governmental regulation could subject us to unanticipated delays that would adversely affect our sales and revenues. 
+
+Our
+business strategy depends in part on our ability to get our products into the market as quickly as possible. Additional laws and regulations,
+or changes to existing laws and regulations that are applicable to our business may be enacted or promulgated, and the interpretation,
+application or enforcement of the existing laws and regulations may change. We cannot predict the nature of any future laws, regulations,
+interpretations, applications or enforcements or the specific effects any of these might have on our business. Any future laws, regulations,
+interpretations, applications, or enforcements could delay or prevent regulatory approval or clearance of our products and our ability
+to market our products. Moreover, changes that result in our failure to comply with the requirements of applicable laws and regulations
+could result in enforcement actions by the FDA and/or other agencies, all of which could impair our ability to have manufactured and
+to sell the affected products. 
+
+If
+we are not able to maintain sufficient quality controls, then the approval or clearance of our products by the European Union, the FDA
+or other relevant authorities could be withdrawn, delayed or denied and our sales and revenues will suffer. 
+
+Approval
+or clearance of our products could be withdrawn, delayed, or denied by the European Union, the FDA and the relevant authorities of other
+countries if our manufacturing facilities do not comply with their respective manufacturing requirements. The European Union imposes
+requirements on quality control systems of manufacturers, which are inspected and certified on a periodic basis and may be subject to
+additional unannounced inspections. Failure by our manufacturers to comply with these requirements could prevent us from marketing our
+products in the European Community. The FDA also imposes requirements through quality system requirements regulations, which include
+requirements for good manufacturing practices. Failure by our manufacturers to comply with these requirements could prevent us from obtaining
+FDA pre-clearance or approval of our products and from marketing such products in the United States. Although the manufacturing facilities
+and processes that we use to manufacture our OLp r MD HDF filter series have been inspected and certified by a worldwide testing
+and certification agency (also referred to as a notified body) that performs conformity assessments to European Union requirements for
+medical devices, they have not been inspected by the FDA. A notified body is a group accredited and monitored by governmental
+agencies that inspects manufacturing facilities and quality control systems at regular intervals and is authorized to carry out unannounced
+inspections. We cannot be sure that any of the facilities or processes we use will comply or continue to comply with their respective
+requirements on a timely basis or at all, which could delay or prevent our obtaining the approvals we need to market our products in
+the European Community and the United States. 
+
+To
+market our products in the European Community, the United States, and other countries, where approved, manufacturers of such products
+must continue to comply or ensure compliance with the relevant manufacturing requirements. Although we cannot control the manufacturers
+of our products, we may need to expend time, resources and effort in product manufacturing and quality control to assist with their continued
+compliance with these requirements. If violations of applicable requirements are noted during periodic inspections of the manufacturing
+facilities of our manufacturers, then we may not be able to continue to market the products manufactured in such facilities and our revenues
+may be materially adversely affected. 
+
+19 
+
+Risks
+Related to our Intellectual Property 
+
+Protecting
+our intellectual property in our technology through patents may be costly and ineffective. If we are not able to adequately secure or
+enforce protection of our intellectual property, then we may not be able to compete effectively and we may not be profitable. 
+
+Our
+future success depends in part on our ability to protect the intellectual property for our technology through patents. We will only be
+able to protect our products and methods from unauthorized use by third parties to the extent that our products and methods are covered
+by valid and enforceable patents or are effectively maintained as trade secrets. Our 4 granted U.S. patents will expire at various times
+from 2023 to 2039, assuming they are properly maintained. 
+
+The
+protection provided by our patents, and patent applications if issued, may not be broad enough to prevent competitors from introducing
+similar products into the market. Our patents, if challenged or if we attempt to enforce them, may not necessarily be upheld by the courts
+of any jurisdiction. Numerous publications may have been disclosed by, and numerous patents may have been issued to, our competitors
+and others relating to methods and devices for dialysis of which we are not aware and additional patents relating to methods and devices
+for dialysis may be issued to our competitors and others in the future. If any of those publications or patents conflict with our patent
+rights, or cover our products, then any or all of our patent applications could be rejected and any or all of our granted patents could
+be invalidated, either of which could materially adversely affect our competitive position. 
+
+Litigation
+and other proceedings relating to patent matters, whether initiated by us or a third party, can be expensive and time-consuming, regardless
+of whether the outcome is favorable to us, and may require the diversion of substantial financial, managerial, and other resources. An
+adverse outcome could subject us to significant liabilities to third parties or require us to cease any related development, product
+sales or commercialization activities. In addition, if patents that contain dominating or conflicting claims have been or are subsequently
+issued to others and the claims of these patents are ultimately determined to be valid, then we may be required to obtain licenses under
+patents of others in order to develop, manufacture, use, import and/or sell our products. We may not be able to obtain licenses under
+any of these patents on terms acceptable to us, if at all. If we do not obtain these licenses, we could encounter delays in, or be prevented
+entirely from using, importing, developing, manufacturing, offering, or selling any products or practicing any methods, or delivering
+any services requiring such licenses. 
+
+20 
+
+If
+we file for or obtain additional patents in foreign countries, we will be subject to laws and procedures that differ from those in the
+United States. Such differences could create additional uncertainty about the level and extent of our patent protection. Moreover, patent
+protection in foreign countries may be different from patent protection under U.S. laws and may not be as favorable to us. Many non-U.S.
+jurisdictions, for example, prohibit patent claims covering methods of medical treatment of humans, although this prohibition may not
+include devices used for such treatment. 
+
+If
+we are not able to secure and enforce protection of our trade secrets through enforcement of our confidentiality and non-competition
+agreements, then our competitors may gain access to our trade secrets, we may not be able to compete effectively, and we may not be profitable.
+Such protection may be costly and ineffective. 
+
+We
+attempt to protect our trade secrets, including the processes, concepts, ideas, and documentation associated with our technologies, through
+the use of confidentiality agreements and non-competition agreements with our current employees and with other parties to whom we have
+divulged such trade secrets. If these employees or other parties breach our confidentiality agreements and non-competition agreements,
+or if these agreements are not sufficient to protect our technology or are found to be unenforceable, then our competitors could acquire
+and use information that we consider to be our trade secrets and we may not be able to compete effectively. Policing unauthorized use
+of our trade secrets is difficult and expensive and, in the event we further expand our operations, the laws of other countries may not
+adequately protect our trade secrets. 
+
+Risks
+Related to Owning Our Common Stock 
+
+Our
+common stock could be further diluted as a result of the issuance of additional shares of common stock, warrants or options. 
+
+In
+the past we have issued common stock and warrants in order to raise capital to help fund our business. We have also issued stock options
+and restricted stock as compensation for services and incentive compensation for our employees, directors, and consultants. We have shares
+of common stock reserved for issuance upon the exercise of certain of these securities and may increase the shares reserved for these
+purposes in the future. Our issuance of additional common stock, options and warrants could affect the rights of our stockholders, could
+reduce the market price of our common stock, or could obligate us to issue additional shares of common stock. 
+
+Market
+sales of large amounts of our common stock, or the potential for those sales even if they do not actually occur, may have the effect
+of depressing the market price of our common stock, the supply of common stock available for resale could be increased which could stimulate
+trading activity and cause the market price of our common stock to drop, even if our business is doing well. Furthermore, the issuance
+of any additional shares of our common stock or securities convertible into our common stock could be substantially dilutive to holders
+of our common stock if they do not invest in future offerings. 
+
+The
+prices at which shares of the common stock trade have been and will likely continue to be volatile. 
+
+During
+the two years ended December 31, 2022, our common stock has traded at prices ranging from a high of 5.14 to a low of 0.91 per share.
+Due to the lack of an active trading market for our common stock, we expect the prices at which our common stock might trade to continue
+to be highly volatile. The expected volatile price of our stock will make it difficult for investors to predict the value of an investment
+in our common stock, to sell shares at a profit at any given time, or to plan purchases and sales in advance. A variety of other factors
+might also affect the market price of our common stock. These include, but are not limited to: 
+
+achievement
+ or rejection of regulatory approvals by our competitors or us; 
+
+publicity
+ regarding actual or potential clinical or regulatory results relating to products under development by our competitors or us; 
+
+delays
+ or failures in initiating, completing, or analyzing clinical trials or the unsatisfactory design or results of these trials; 
+
+announcements
+ of technological innovations or new commercial products by our competitors or us; 
+
+21 
+
+developments
+ concerning proprietary rights, including patents; 
+
+regulatory
+ developments in the United States and foreign countries; 
+
+economic
+ or other crises and other external factors; 
+
+period-to-period
+ fluctuations in our results of operations; 
+
+threatened
+ or actual litigation; 
+
+changes
+ in financial estimates by securities analysts; and 
+
+sales
+ of our common stock. 
+
+We
+are not able to control many of these factors, and we believe that period-to-period comparisons of our financial results will not necessarily
+be indicative of our future performance. 
+
+We
+have never paid dividends and do not intend to pay cash dividends. 
+
+We
+have never paid dividends on our common stock and currently do not anticipate paying cash dividends on our common stock for the foreseeable
+future. Consequently, any returns on an investment in our common stock in the foreseeable future will have to come from an increase in
+the value of the stock itself. As noted above, the lack of an active trading market for our common stock will make it difficult to value
+and sell our common stock. While our dividend policy will be based on the operating results and capital needs of our business, we anticipate
+that all earnings, if any, will be retained to finance our future operations. 
+
+Several
+provisions of the Delaware General Corporation Law, our fourth amended and restated certificate of incorporation, as amended, and our
+second amended and restated bylaws could discourage, delay or prevent a merger or acquisition, which could adversely affect the market
+price of our common stock. 
+
+Several
+provisions of the Delaware General Corporation Law, our fourth amended and restated certificate of incorporation, as amended, and our
+second amended and restated bylaws could discourage, delay or prevent a merger or acquisition that stockholders may consider favorable,
+and the market price of our common stock could be reduced as a result. These provisions include: 
+
+authorizing
+ our board of directors to issue blank check preferred stock without stockholder approval; 
+
+providing
+ for a classified board of directors with staggered, three-year terms; 
+
+prohibiting
+ us from engaging in a business combination with an interested stockholder for a period of three years
+ after the date of the transaction in which the person became an interested stockholder unless certain provisions are met; 
+
+prohibiting
+ cumulative voting in the election of directors; 
+
+limiting
+ the persons who may call special meetings of stockholders; and 
+
+establishing
+ advance notice requirements for nominations for election to our board of directors or for proposing matters that can be acted on
+ by stockholders at stockholder meetings. 
+
+As
+a smaller reporting company with little or no name recognition and with several risks and uncertainties that could impair our business
+operations, we are not likely to generate widespread interest in our common stock. Without widespread interest in our common stock, our
+common stock price may be highly volatile and an investment in our common stock could decline in value. 
+
+Unlike
+many companies with publicly traded securities, we have little or no name recognition in the investment community. We are a relatively
+new company and very few investors are familiar with either our company or our products. We do not have an active trading market in our
+common stock, and one might never develop, or if it does develop, might not continue. 
+
+Additionally,
+the market price of our common stock may fluctuate significantly in response to many factors, many of which are beyond our control. Risks
+and uncertainties, including those described elsewhere in this Risk Factors section could impair our business operations
+or otherwise cause our operating results or prospects to be below expectations of investors and market analysts, which could adversely
+affect the market price of our common stock. As a result, investors in our common stock may not be able to resell their shares at or
+above their purchase price and could lose all of their investment. 
+
+22 
+
+Securities
+class action litigation is often brought against public companies following periods of volatility in the market price of such company s
+securities. We may become subject to this type of litigation in the future. Litigation of this type could be extremely expensive and
+divert management s attention and resources from running our company. 
+
+Our
+directors, executive officers, and Wexford Capital LP Wexford control a significant portion of our stock and, if they
+choose to vote together, could have sufficient voting power to control the vote on substantially all corporate matters. 
+
+As
+of March 1, 2023, Wexford, our largest stockholder, beneficially owned approximately 36 of our outstanding common stock. Collectively,
+Wexford, our directors and our executive officers beneficially owned approximately 40 of our outstanding common stock. As a result of
+this ownership, Wexford has the ability to exert significant influence over our policies and affairs, including the election of directors.
+Wexford, whether acting alone or acting with other stockholders, could have the power to elect all of our directors and to control the
+vote on substantially all other corporate matters without the approval of other stockholders. Furthermore, such concentration of voting
+power could enable Wexford, whether acting alone or acting with other stockholders, to delay or prevent another party from taking control
+of our company even where such change of control transaction might be desirable to other stockholders. The interests of Wexford in any
+matter put before the stockholders may differ from those of any other stockholder. 
+
+Future
+sales of our common stock could cause the market price of our common stock to decline. 
+
+The
+market price of our common stock could decline due to sales of a large number of shares in the market, including sales of shares by Wexford
+or any other large stockholder, or the perception that such sales could occur. These sales could also make it more difficult or impossible
+for us to sell equity securities in the future at a time and price that we deem appropriate to raise funds through future offerings of
+common stock. Future sales of our common stock by stockholders could depress the market price of our common stock. 
+
+23 
+
+Item
+1B. Unresolved Staff Comments 
+
+Not
+required. 
+
+Item
+2. Properties 
+
+Our
+U.S. facilities are located at 380 Lackawanna Place, South Orange, New Jersey 07079 and 3221 Polaris Avenue, Las Vegas, Nevada 89102.
+We use these facilities to house our corporate headquarters, research, manufacturing, and distribution facilities. The operations of
+our commercial filtration division are based in our Las Vegas facility. 
+
+We
+believe our current facilities are adequate to meet our needs, although we may consolidate facilities in the future. We do not own any
+real property for use in our operation or otherwise. 
+
+Item
+3. Legal Proceedings 
+
+There
+are no currently material pending legal proceedings and, as far as we are aware, no governmental authority is contemplating any material
+proceeding to which we are a party or to which any of our properties is subject. 
+
+Item
+4. Mine Safety Disclosures 
+
+Not
+applicable. 
+
+24 
+
+PART
+II 
+
+Item
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Common
+Stock Information 
+
+Our
+common stock is quoted on the Nasdaq Capital Market under the symbol NEPH . Our common stock commenced trading on August
+14, 2019. 
+
+As
+of December 31, 2022, there were approximately 44 holders of record and approximately 1,600 beneficial holders of our common stock. 
+
+Recent
+Sales of Unregistered Securities 
+
+Except
+as previously reported in our Quarterly Reports on Form 10-Q and our Current Reports on Form 8-K, we have not sold any equity securities
+during the year ended December 31, 2022, that were not registered under the Securities Act of 1933, as amended. 
+
+Issuer
+Repurchases of Equity Securities 
+
+There
+were no repurchases of our common stock during the fourth quarter of 2022. 
+
+Equity
+Compensation Plan Information 
+
+See
+Part III, Item 12, under the heading Equity Compensation Plan Information, which is incorporated by reference herein. 
+
+Item
+6. Reserved 
+
+25 
+
+Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The
+following discussion includes forward-looking statements about our business, financial condition and results of operations including
+discussions about management s expectations for our business. These statements represent projections, beliefs and expectations
+based on current circumstances and conditions and in light of recent events and trends, and these statements should not be construed
+either as assurances of performances or as promises of a given course of action. Instead, various known and unknown factors are likely
+to cause our actual performance and management s actions to vary, and the results of these variances may be both material and adverse.
+A list of the known material factors that may cause our results to vary, or may cause management to deviate from its current plans and
+expectations, is included in Item 1A, Risk Factors, of this Annual Report on Form 10-K. The following discussion should
+also be read in conjunction with the consolidated financial statements and notes included in Item 8, Financial Statements and
+Supplemental Data, of this Annual Report on Form 10-K. 
+
+Business
+Overview 
+
+We
+are a commercial-stage company that develops and sells high performance water solutions to the medical and commercial markets. 
+
+Our
+medical water filters, mostly classified as ultrafilters, are used primarily by hospitals for the prevention of infection from waterborne
+pathogens, such as legionella and pseudomonas, and in dialysis centers for the removal of biological contaminants from water and bicarbonate
+concentrate. Because our ultrafilters capture contaminants as small as 0.005 microns in size, they minimize exposure to a wide variety
+of bacteria, viruses, fungi, parasites, and endotoxins. 
+
+Our
+commercial water filters improve the taste and odor of water and reduce biofilm, cysts, particulates, and scale build-up in downstream
+equipment. Our products are marketed primarily to the food service, hospitality, convenience store, and health care markets, and also
+sold into medical institutions to supplement. 
+
+We
+also own a majority stake in Specialty Renal Products, Inc. SRP ), a development-stage medical device company that is focused
+primarily on developing hemodiafiltration HDF technology. On May 13, 2022, the FDA gave 510(k) clearance to SRP s
+second-generation model of the OLp rH2H Hemodiafiltration System, which enables nephrologists to provide HDF treatment to patients
+with end stage renal disease. 
+
+In January 2023, SRP management
+began exploring strategic partnerships to support a commercial launch of the HDF product but was successful in identifying a partner.
+By late February 2023, SRP had nearly exhausted its capital resources. Due to its limited capital and lack of prospects for securing a
+strategic partnership or additional financing, the board of directors of SRP adopted a plan on March 6, 2023 to wind down SRP operations,
+liquidate its remaining assets and dissolve the company. That plan was approved by SRP s stockholders on March 9, 2023. We anticipate
+that SRP s cash resources will be sufficient to satisfy all of its outstanding liabilities other than its obligations to us under
+a loan with an outstanding balance of approximately 1.4 million. Accordingly, we expect that SRP will assign all of its remaining assets,
+including its intellectual property rights in the HDF2 device, to us in partial satisfaction of its outstanding loan balance. Although
+we have no current plans to do so, we may re-evaluate opportunities for HDF in the future. 
+
+As
+a result of our November 2022 sale of substantially all of the assets used in our PDS business, we completely exited the PDS business,
+which we had previously been reporting as a separate reportable operating segment for financial reporting purposes. As a result, we determined
+that our PDS business had met the criteria for discontinued operations as of September 30, 2022. We no longer separately report the PDS
+business as a separate reportable segment in our financial statements including in this Annual Report on Form 10-K for any of the periods
+presented. 
+
+Recent
+Accounting Pronouncements 
+
+We
+are subject to recently issued accounting standards, accounting guidance and disclosure requirements. For a description of these new
+accounting standards, see Note 2 Summary of Significant Accounting Policies, to our consolidated financial statements
+included in Item 8, Financial Statements and Supplementary Data, of this Annual Report on Form 10-K. 
+
+26 
+
+Critical
+Accounting Policies and Estimates 
+
+Our
+discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which
+have been prepared in accordance with accounting principles generally accepted in the United States GAAP ). The preparation
+of financial statements in accordance with GAAP requires application of management s subjective judgments, often requiring estimates
+about the effect of matters that are inherently uncertain and may change in subsequent periods. Our actual results may differ substantially
+from these estimates under different assumptions or conditions. While our significant accounting policies are described in more detail
+in Note 2 Summary of Significant Accounting Policies, to our consolidated financial statements included in Item
+8, Financial Statements and Supplementary Data, of this Annual Report on Form 10-K, we believe that the following accounting
+policies require the application of significant judgments and estimates. 
+
+Inventories 
+
+Our
+inventory reserve requirements are based on various factors including product expiration date and estimates for the future sales of the
+product. Reserve assessments include inventory obsolescence based upon expiration date, damaged, or rejected product, slow-moving products,
+and other considerations. We continue to monitor our inventory reserves amounts and policies, and to update both as required by relevant
+circumstances. 
+
+Results
+of Operations 
+
+Fluctuations
+in Operating Results 
+
+Our
+results of operations have fluctuated significantly from period to period in the past, including recently, and are likely to continue
+to do so in the future. We anticipate that our annual results of operations will be impacted for the foreseeable future by several factors,
+including market acceptance of our products, expense management, and progress in achieving positive operating cash flow. Due to these
+fluctuations, we believe that the period-to-period comparisons of our operating results are not a good indication of our future performance. 
+
+27 
+
+Fiscal
+Year Ended December 31, 2022, Compared to the Fiscal Year Ended December 31, 2021 
+
+The
+following table sets forth our summarized, consolidated results of operations for the years ended December 31, 2022 and 2021 (in thousands
+except percentages): 
+
+Years
+ Ended December 31, 
+ 
+ Increase 
+ 
+ Increase 
+
+2022 
+ 2021 
+ (Decrease) 
+ (Decrease) 
+ 
+ Total net revenues 
+ 9,975 
+ 10,217 
+ (242 
+ (2 
+ 
+ Cost of goods sold 
+ 5,244 
+ 4,584 
+ 660 
+ 14 
+ 
+ Gross margin 
+ 4,731 
+ 5,633 
+ (902 
+ (16 
+ 
+ Gross margin 
+ 47 
+ 55 
+ - 
+ (8 
+ 
+ Research and development expenses 
+ 1,255 
+ 1,498 
+ (243 
+ (16 
+ 
+ Depreciation and amortization expenses 
+ 218 
+ 192 
+ 26 
+ 14 
+ 
+ Selling, general and
+ administrative expenses 
+ 7,593 
+ 7,195 
+ 398 
+ 6 
+ 
+ Operating loss from continuing operations 
+ (4,335 
+ (3,252 
+ (1,083 
+ 33 
+ 
+ Interest expense 
+ (20 
+ (41 
+ 21 
+ 51 
+ 
+ Interest income 
+ 14 
+ 10 
+ 4 
+ 40 
+ 
+ Forgiveness of PPP Loan 
+ - 
+ 482 
+ (482 
+ (100 
+ 
+ Other income, net 
+ 64 
+ 17 
+ 47 
+ 276 
+ 
+ Net loss from continuing
+ operations 
+ (4,277 
+ (2,784 
+ (1,493 
+ 54 
+ 
+ Net loss from discontinued
+ operations 
+ (2,829 
+ (1,083 
+ (1,746 
+ 161 
+ 
+ Net Loss 
+ (7,106 
+ (3,867 
+ (3,239 
+ 84 
+ 
+ Less: undeclared deemed
+ dividend attributable to continuing noncontrolling interest 
+ (276 
+ (240 
+ (36 
+ 15 
+ 
+ Net loss attributable
+ to Nephros, Inc. shareholders 
+ (7,382 
+ (4,107 
+ (3,275 
+ 80 
+
+Net
+Revenues. Our business is reported in two reportable segments: Water Filtration and Renal Products. Our net revenues in each of these
+segments for the year ended December 31, 2022 and 2021
+(in thousands, except percentages) were as follows: 
+
+2022 
+ 2021 
+ Increase 
+ Increase 
+ 
+ Water Filtration 
+ 9,975 
+ 10,217 
+ (242 
+ (2 
+ 
+ Renal Products 
+ - 
+ - 
+ - 
+ - 
+ 
+ Total 
+ 9,975 
+ 10,217 
+ (242 
+ (2 
+
+Total
+net revenues in the Water Filtration segment decreased 2 in the year ended December 31, 2022. 
+
+28 
+
+Gross
+Profit Margin 
+
+2022 
+ 2021 
+ 
+ Increase
+ (Decrease) 
+ 
+ Water Filtration 
+ 47 
+ 55 
+ (8 
+ 
+ Renal Products 
+ - 
+ - 
+ - 
+ 
+ Total 
+ 47 
+ 55 
+ (8 
+
+Consolidated
+gross profit margin was approximately 47 for the year ended December 31, 2022, compared to approximately 55 for the year ended December
+31, 2021. The decrease of approximately 8 was driven by increased shipping costs, as well as inventory reserve increases charged to
+expense, for expirations, certain product obsolescence and adjustments to inventory counts. Responding to supply chain cost increases,
+we implemented a broad price increase beginning June 1, 2022, which helped to offset these expense increases. Our gross margins returned
+to 59 in the quarter ended December 31, 2022, well within our target range of 55-60 . 
+
+Research
+and Development Expenses 
+
+Research
+and development expenses by segment for the year ended December 31, 2022 and 2021 (in thousands,
+except percentages) were as follows: 
+
+2022 
+ 2021 
+ 
+ Increase
+ (Decrease) 
+ 
+ Increase
+ (Decrease) 
+ 
+ Water Filtration 
+ 879 
+ 1,251 
+ (372 
+ (30 
+ 
+ Renal Products 
+ 376 
+ 247 
+ 129 
+ 52 
+ 
+ Total 
+ 1,255 
+ 1,498 
+ (243 
+ (16 
+
+Consolidated
+research and development expenses decreased 16 primarily due to decreased R D investment in the Water Filtration segment. 
+
+Depreciation
+and Amortization Expense 
+
+Depreciation
+and amortization expenses were 0.2 million for each of the years ended December 31, 2022 and 2021. 
+
+Selling,
+General and Administrative Expenses 
+
+Selling,
+general and administrative expenses by segment for the
+year ended December 31, 2022 and 2021 (in thousands, except percentages) were as follows: 
+
+2022 
+ 2021 
+ 
+ Increase
+ (Decrease) 
+ 
+ Increase
+ (Decrease) 
+ 
+ Water Filtration 
+ 7,328 
+ 7,124 
+ 204 
+ 3 
+ 
+ Renal Products 
+ 265 
+ 71 
+ 194 
+ 273 
+ 
+ Total 
+ 7,593 
+ 7,195 
+ 398 
+ 6 
+
+Consolidated
+selling, general and administrative expenses increased 0.4 million or 6 , primarily due to increased sales headcount and associated
+travel and recruiting costs. 
+
+29 
+
+Interest
+Expense 
+
+Interest
+expense was approximately 20,000 for the year ended December 31, 2022 compared to 41,000 for the year ended December 31, 2021. This
+reduction is primarily related to a lower principal balance of the company s secured note payable. 
+
+Interest
+Income 
+
+Interest
+income was approximately 14,000 for the year ended December 31, 2022 compared to approximately 10,000 for the ended December 31, 2021.
+The increase in interest income is due to higher interest rates earned on invested cash balances. 
+
+Extinguishment
+of PPP loan 
+
+Our
+outstanding PPP loan was forgiven in January 2021 resulting in an extinguishment gain of approximately 482,000. 
+
+Other
+Income (Expense), net 
+
+Other
+income was approximately 64,000 for the year ended December 31, 2022, compared to 17,000 for the year ended December 31, 2021. This
+increase is primarily related to the release of the cumulative translation adjustment from accumulated
+other comprehensive income (loss) on the liquidation of a foreign entity , related to the closure in the second quarter of 2022,
+of Nephros International, a wholly owned subsidiary of Nephros, Inc. 
+
+Loss
+from discontinued operations 
+
+Loss
+from discontinued operations was approximately 2.8 million for the year ended December 31, 2022, compared to approximately 1.1 million
+for the year ended December 31, 2021. The discontinued operations are related to the company s former PDS operating segment. The
+increased loss is primarily due to the impairment of the net assets of PDS that was sold, and reported in the third quarter of 2022 that
+totaled approximately 1.4 million. 
+
+Liquidity
+and Capital Resources 
+
+The
+following table summarizes our liquidity and capital resources as of December 31, 2022 and 2021 and is intended to supplement the more
+detailed discussion that follows. The amounts stated are expressed in thousands. 
+
+December
+ 31, 
+ 
+ Liquidity
+ and Capital Resources 
+ 2022 
+ 2021 
+ 
+ Cash and cash equivalents 
+ 3,634 
+ 6,973 
+ 
+ Other current assets 
+ 4,627 
+ 6,661 
+ 
+ Working capital 
+ 6,849 
+ 11,244 
+ 
+ Stockholders equity 
+ 8,881 
+ 14,749 
+
+We
+operate under an Investment, Risk Management and Accounting Policy adopted by our Board of Directors. Such policy limits the types of
+instruments or securities in which we may invest our excess funds: U.S. Treasury Securities; Certificates of Deposit issued by money
+center banks; Money Funds by money center banks; Repurchase Agreements; and Eurodollar Certificates of Deposit issued by money center
+banks. This policy provides that our primary objectives for investments are the preservation of principal and achieving sufficient liquidity
+to meet our forecasted cash requirements. In addition, provided that such primary objectives are met, we may seek to achieve the maximum
+yield available under such constraints. 
+
+At
+December 31, 2022, we had an accumulated deficit of 142.8 million and we expect to incur additional operating losses from operations
+until such time, if ever, that we are able to increase product sales and/or licensing revenue to achieve profitability. 
+
+30 
+
+Based
+on cash that is available for our operations and projections of our future operations, as well as our significantly reduced cash burn
+rates over the past 6 months, we believe that our existing cash resources together with our anticipated revenue, will be sufficient to
+fund our current operating plan through at least the next 12 months from the date of issuance of the consolidated financial statements
+in this Annual Report on Form 10-K. Additionally, our operating plans are designed to help control operating costs, to increase revenue
+and to raise additional capital until such time as we generate sufficient cash flows to fund operations. If there were a decrease in
+the demand for our products due to either economic or competitive conditions, or if we are otherwise unable to achieve our plan or achieve
+our anticipated operating results, there could be a significant reduction in liquidity due to our possible inability to cut costs sufficiently.
+ In such event, the Company may need to take further actions to reduce its discretionary expenditures,
+including further reducing headcount, reducing spending on R D projects and reducing other variable costs. 
+
+Our
+future liquidity sources and requirements will depend on many other factors, including: 
+
+the
+ market acceptance of our products, and our ability to effectively and efficiently produce, market and sell our products; 
+
+the
+ costs involved in filing and enforcing patent claims and the status of competitive products; and 
+
+the
+ cost of litigation, including potential patent litigation and any other actual or threatened litigation. 
+
+We
+expect to put our current capital resources toward the development, marketing, and sales of our water filtration products and working
+capital purposes. 
+
+Net
+cash used in operating activities was 3.2 million for the year ended December 31, 2022 compared to 1.4 million for the year ended December
+31, 2021, an increase of 1.8 million. This increase of 1.8 million is due primarily to an increase in the net loss incurred of 3.2
+million, partially offset by approximately 1.4 million in non-cash charges for impairment of assets held for sale. 
+
+Net
+cash used in investing activities was 0.1 million for the year ended December 31, 2022 compared to 0.1 million for the year ended December
+31, 2021. 
+
+Net
+cash provided by financing activities was approximately 43,000 for the year ended December 31, 2022. This was primarily from proceeds
+from the exercise of warrants of 0.2 million and from the sale to Nephros of SRP preferred shares of 0.2 million, offset partially
+by payments of 0.3 million on our secured note, payments of employee taxes on restricted stock of approximately 31,000, principal
+payments of approximately 3,000 on our finance lease obligation and principal payments of approximately 3,000 on our equipment
+financing debt. 
+
+Net
+cash provided by financing activities of 0.2 million for the year ended December 31, 2021 resulted from proceeds from the exercise of
+warrants and stock options of 0.5 million partially offset by payments on our secured note payable of 0.3 million. 
+
+Purchase
+Commitments 
+
+In
+exchange for the rights granted under the License and Supply Agreement with Medica (see Note 10 License and Supply Agreement,
+net), the Company agreed to make certain minimum annual aggregate purchases from Medica over the term of the License and Supply Agreement.
+For the year ended December 31, 2022, the Company has agreed to make minimum annual aggregate purchases from Medica of 3.5 million
+(approximately 3.7 million). For the year ended December 31, 2022, aggregate purchase commitments
+totaled 3.2 million (approximately 3.4 million). The company has agreed with Medica that it will make-up the 0.3 purchase
+shortfall based on anticipated future revenues. 
+
+Future
+purchase commitments under the License and Supply Agreement with Medica are as follows: 
+
+2023:
+ 3,625,000 
+
+2024:
+ 3,825,000 
+
+2025:
+ 4,000,000 
+
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+Not
+required for smaller reporting companies. 
+
+Item
+8. Financial Statements and Supplementary Data 
+
+31 
+
+Report of Independent Registered Public Accounting Firm 
+
+To
+the Board of Directors and Stockholders of 
+
+ Nephros,
+Inc. 
+
+Opinion
+on the Consolidated Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Nephros, Inc. (the Company as of December
+31, 2022 and 2021, and the related consolidated statements of operations and comprehensive loss, changes in stockholders equity,
+and cash flows for each of the two years in the period ended December 31, 2022, and the related notes (collectively referred to as the
+ consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in all material
+respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows
+for each of the two years in the period ended December 31, 2022, in conformity with accounting principles generally accepted in the United
+States of America. 
+
+Basis
+for Opinion 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company
+in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission
+and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.
+The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part
+of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing
+an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements.
+We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matter 
+
+The
+critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that
+was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material
+to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication
+of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are
+not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or
+disclosures to which it relates. 
+
+Inventory
+Valuation 
+
+Critical
+Audit Matter Description 
+
+As
+described in Note 2 to the financial statements, inventory consists of finished goods and raw materials and is valued at the lower of
+cost or net realizable value using the first-in, first-out method. The Company s inventory reserve requirements are based on various
+factors including product expiration date and estimates for the future sales of the product. Reserve assessments include inventory obsolescence
+based upon expiration date, damaged or rejected product, slow-moving products, and other considerations. 
+
+We
+identified the assessment of the excess and obsolete inventory reserve as a critical audit matter. The principal consideration for our
+determination that this is a critical audit matter is the significant judgment by management to estimate the excess and obsolete inventory
+reserve, which led to a high degree of auditor judgment, subjectivity and effort in performing procedures to evaluate management s
+significant assumptions. 
+
+How
+We Addressed the Matter in Our Audit 
+
+Addressing
+the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the financial
+statements. The primary procedures we performed to address this critical audit matter included: 
+
+testing
+ management s process for estimating the excess and obsolete inventory reserve, including
+ evaluating the appropriateness of the approach utilized and underlying assumptions 
+ 
+ testing
+ the mathematical accuracy of the excess and obsolete inventory reserve calculation 
+ 
+ testing
+ the completeness and accuracy of underlying data used in the analysis, including historical
+ usage and inventory age 
+ 
+ developing
+ an independent expectation of management s estimate, by performing sensitivity analyses
+ to evaluate changes in the estimate that result from changes in management s significant
+ assumptions 
+
+/s/
+
+We have served as the Company s
+ auditor since 2015. 
+
+Massachusetts 
+
+March 23, 2023 
+
+32 
+
+NEPHROS,
+INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+ (In
+thousands, except share and per share amounts) 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Accounts receivable, net 
+
+Inventory 
+
+Prepaid expenses and other current assets 
+
+Current assets associated with discontinued operations 
+ - 
+
+Total current assets 
+
+Property and equipment, net 
+
+Lease right-of-use assets 
+
+Intangible assets, net 
+
+Goodwill 
+
+License and supply agreement, net 
+
+Other assets 
+
+Non-current assets associated with discontinued operations 
+ - 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Current portion of secured note payable 
+
+Accounts payable 
+
+Accrued expenses 
+
+Current portion of lease liabilities 
+
+Current liabilities associated with discontinued operations 
+ - 
+
+Total current liabilities 
+
+Secured note payable, net of current portion 
+ - 
+
+Equipment financing, net of current portion 
+
+Lease liabilities, net of current portion 
+
+Non-current liabilities associated with discontinued operations 
+ - 
+
+TOTAL LIABILITIES 
+
+COMMITMENTS AND CONTINGENCIES (Note 19) 
+ - 
+ - 
+
+STOCKHOLDERS EQUITY: 
+
+Preferred stock, par value; shares authorized at December 31, 2022 and 2021; shares issued and outstanding at December 31, 2022 and 2021 
+ - 
+ - 
+ 
+ Common stock, par value; shares authorized at December 31, 2022 and 2021; and shares issued and outstanding at December 31, 2022 and 2021, respectively 
+
+Additional paid-in capital 
+
+Accumulated other comprehensive income 
+ - 
+
+Accumulated deficit 
+
+Subtotal 
+
+Noncontrolling interest 
+
+TOTAL STOCKHOLDERS EQUITY 
+
+TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+33 
+
+NEPHROS,
+INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+
+ (In
+thousands, except share and per share amounts) 
+
+2022 
+ 2021 
+
+Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ Net revenue: 
+
+Product revenues 
+
+Royalty and other revenues 
+
+Total net revenues 
+
+Cost of goods sold 
+
+Gross Margin 
+
+Operating expenses: 
+
+Research and development 
+
+Depreciation and amortization 
+
+Selling, general and administrative 
+
+Total operating expenses 
+
+Operating loss from continuing operations 
+
+Other (expense) income: 
+
+Interest expense 
+
+Interest income 
+
+Extinguishment of PPP loan 
+ - 
+
+Other income, net 
+
+Total other income: 
+
+Loss from continuing operations 
+
+Net loss from discontinued operations 
+
+Net loss 
+
+Less: undeclared deemed dividend attributable to noncontrolling interest 
+
+Net loss attributable to Nephros, Inc. shareholders 
+
+Net loss per common share, basic and diluted from continuing operations 
+
+Net loss per common share, basic and diluted from discontinued operations 
+
+Net loss per common share, basic and diluted 
+
+Net loss per common share, basic and diluted, attributable to continuing noncontrolling interest 
+
+Net loss per common share, basic and diluted, attributable to Nephros, Inc, shareholders 
+
+Weighted average common shares outstanding, basic and diluted 
+
+Comprehensive loss: 
+
+Net loss 
+
+Other comprehensive loss, foreign currency translation adjustments, net of tax 
+
+Comprehensive loss 
+
+Comprehensive loss attributable to continuing noncontrolling interest 
+
+Comprehensive loss attributable to Nephros, Inc. shareholders 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+34 
+
+NEPHROS,
+INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ (In
+thousands, except share amounts) 
+
+Common Stock 
+ Additional Paid-in 
+ Accumulated Other Comprehensive 
+ Accumulated 
+ 
+ Noncontrolling 
+ Total Stockholders 
+
+Shares 
+ Amount 
+ Capital 
+ Income 
+ Deficit 
+ Subtotal 
+ Interest 
+ Equity 
+ 
+ Balance, December 31, 2020 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+
+Net unrealized losses on foreign currency translation, net of tax 
+ - 
+ - 
+ - 
+ 
+ - 
+ 
+ - 
+
+Issuance of common stock for asset acquisition (see Note 3) 
+ 
+ - 
+ 
+ - 
+ - 
+ 
+ - 
+
+Restricted stock vesting 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Exercise of warrants 
+ 
+ - 
+ 
+ - 
+ - 
+ 
+ - 
+
+Exercise of stock options 
+ 
+ - 
+ 
+ - 
+ - 
+ 
+ - 
+
+Cashless exercise of options 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Cashless exercise of warrants 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Stock-based compensation 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Balance, December 31, 2021 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+Change in non-controlling interest 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Restricted stock vesting 
+
+- 
+ 
+ - 
+ 
+ Elimination of cumulative translation adjustment, upon closing of wholly owned foreign subsidiary 
+ 
+ - 
+ - 
+ 
+ - 
+ 
+ - 
+
+Exercise of warrants 
+ 
+ - 
+ 
+ - 
+ - 
+ 
+ - 
+
+Restricted shares withheld for employee taxes 
+
+Stock-based compensation 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Balance, December 31, 2022 
+
+- 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+35 
+
+NEPHROS,
+INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ (In
+thousands) 
+
+2022 
+ 2021 
+
+Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ OPERATING ACTIVITIES: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation of property and equipment 
+
+Amortization of intangible assets, license and supply agreement and finance lease right-of-use asset 
+
+Stock-based compensation 
+
+Inventory obsolescence charge 
+
+Extinguishment of PPP loan 
+ - 
+
+Increase (Decrease) in provision for bad debt 
+
+Impairment of assets held for sale 
+ 
+ - 
+ 
+ Gain (Loss) on foreign currency transactions 
+
+Change in right-of-use asset 
+
+Decrease (Increase) in operating assets: 
+
+Accounts receivable 
+
+Inventory 
+
+Prepaid expenses and other current assets 
+
+Other assets 
+ 
+ - 
+ 
+ (Decrease) Increase in operating liabilities: 
+
+Accounts payable 
+
+Accrued expenses 
+
+Lease liabilities 
+
+Net cash used in operating activities 
+
+INVESTING ACTIVITIES: 
+
+Purchase of property and equipment 
+
+Payment of direct transaction costs for asset acquisition 
+ - 
+
+Net cash used in investing activities 
+
+FINANCING ACTIVITIES: 
+
+Proceeds from sale of subsidiary preferred shares to noncontrolling interest 
+ 
+ - 
+ 
+ Payments on secured note payable 
+
+Principal payments on finance lease liability 
+
+Principal payments on equipment financing 
+
+Payments to employee taxes on restricted stock 
+ 
+ - 
+ 
+ Proceeds from exercise of warrants 
+
+Proceeds from exercise of options 
+ - 
+
+Net cash provided by financing activities 
+
+Effect of exchange rates on cash and cash equivalents 
+
+Net decrease in cash and cash equivalents 
+
+Cash and cash equivalents, beginning of year 
+
+Cash and cash equivalents, end of year 
+
+Supplemental disclosure of cash flow information 
+
+Cash paid for interest expense 
+
+Cash paid for income taxes 
+ - 
+
+Supplemental disclosure of noncash investing and financing activities 
+
+Right-of-use asset obtained in exchange for operating lease liability 
+
+Issuance of common shares for asset acquisition 
+ - 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+36 
+
+NEPHROS,
+INC. AND SUBSIDIARIES 
+
+NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+is shown on the consolidated balance sheet as
+noncontrolling interest. All intercompany accounts and transactions were eliminated in the preparation of the accompanying consolidated
+financial statements. 
+
+shares of its Series A Preferred Stock at a price of 
+per share, resulting in total gross proceeds of .
+See Note 17 Stockholders Equity Noncontrolling Interest, below. In addition to the funds
+provided by the sale of these additional shares of Series A Preferred Stock, the Company and SRP continue to maintain a loan
+agreement under which the Company agreed to lend up to 
+million to SRP, including the 
+million borrowed during the year ended December 31, 2020. These loaned funds were used to fund SRP s operating activities
+through the recent FDA 510(k) clearance process of SRP s second-generation hemodiafiltration system, which was initially
+submitted to the FDA on February 24, 2021 and which received 510(k) clearance on May 13, 2022. As of December 31, 2022, the
+outstanding balance of this loan, including accrued interest, was approximately 
+million. It is not expected that this million will be repaid, given the recent decision to wind down SRP s business . 
+
+The
+Company has sustained operating losses and expects such losses to continue over the next several quarters. In addition, net cash from
+operations has been negative since inception, generating an accumulated deficit of 
+ million as of December 31, 2022. These operating
+losses and negative cash flows raise substantial doubt of the company s ability to continue as a going concern. However, during
+the second half of 2022, the Company took certain actions to mitigate these conditions, including headcount and other expense reductions,
+the sale of PDS assets and discontinuance of PDS operations, customer price increases, and the recruiting and acquisition of additional
+sales staff to grow revenues. The Company believes these actions, when fully implemented, will alleviate the substantial doubt as to
+the Company s ability to continue as a going concern. Furthermore, based on these actions, as well as the cash that is available
+for the Company s operations and projections of future Company operations, the Company believes that its cash balances will be
+sufficient to fund its current operating plan through at least the next 12 months from the date of issuance of the accompanying consolidated
+financial statements. In the event that operations do not meet expectations, the Company may need to further reduce discretionary expenditures
+such as headcount, R D projects, and other variable costs, to alleviate any remaining substantial doubt as to the Company s
+ability to continue as a going concern. 
+
+While
+significant progress has been made against the COVID-19 pandemic, some uncertainty remains with respect to the Company s projections
+regarding the availability of sufficient cash resources, due to the possibility that COVID-19 infections could increase again and cause
+further disruption to economic conditions. During the pandemic, particularly during calendar year 2020, the Company saw decreased demand
+for its hospital filtration products, both in programmatic business and emergency pathogen outbreak response. In addition, sales to new
+customers during 2020 including water filtration and pathogen detection products were hindered by pandemic-related travel
+restrictions. Also in 2020, the Company s commercial filtration products, which are primarily targeted at the hospitality and food
+service markets, saw a decrease in demand, due to the closure of many hotels and restaurants. The Company believes that broad vaccine
+distribution and increased population immunity has reduced the probability of further significant negative COVID-19 impacts, but if these
+decreases in demand return and the Company is unable to achieve its revenue plan, the Company may need to reduce budgeted expenditures
+as appropriate to preserve its available capital resources, which could slow its revenue growth plans. 
+
+B 
+
+C 
+
+Total 
+
+As
+of December 31, 2022 and 2021, the following customers accounted for the following percentages of the Company s accounts receivable,
+respectively: 
+
+Customer 
+ 2022 
+ 2021 
+ 
+ A 
+
+B 
+
+D 
+
+C 
+
+Total 
+
+and as of December 31, 2022 and 2021, respectively. 
+
+The
+Company adheres to ASC 360 and periodically evaluates whether current facts or circumstances indicate that the carrying value of its
+depreciable assets to be held and used may not be recoverable. If such circumstances are determined to exist, an estimate of undiscounted
+future cash flows produced by the long-lived assets, or the appropriate grouping of assets, is compared to the carrying value to determine
+whether impairment exists. If an asset is determined to be impaired, the loss is measured based on the difference between the asset s
+fair value and its carrying value. For long-lived assets, the estimate of fair value is based on various valuation techniques, including
+a discounted value of estimated future cash flows. The Company reports an asset to be disposed of at the lower of its carrying value
+or its fair value less costs to sell. For the year ended December 31, 2022, See Note 4 Discontinued Operations, for a discussion of the
+Company s significant accounting policy surrounding the sale of substantially all of the Company s PDS business and related
+impairment charge. There were no impairment losses for long-lived assets recorded for the year ended December 31, 2021. 
+
+and 
+for the years ended December 31, 2022 and 2021, respectively. 
+
+for the year ended December 31, 2022, is primarily related to the
+release of the cumulative translation adjustment from accumulated other comprehensive income (loss) on the liquidation of a foreign entity
+and of gains on foreign currency transactions related to the closure in the second quarter of 2022 of Nephros International, a
+wholly owned subsidiary of Nephros, Inc. Other income of million for the year ended December 31, 2021, is primarily due to the extinguishment
+of the U.S. Small Business Administration s Paycheck Protection Plan PPP loan. 
+
+ASC
+740 prescribes, among other things, a recognition threshold and measurement attributes for the financial statement recognition and measurement
+of uncertain tax positions taken or expected to be taken in a company s income tax return. ASC 740 utilizes a two-step approach
+for evaluating uncertain tax positions. Step one, or recognition, requires a company to determine if the weight of available evidence
+indicates a tax position is more likely than not to be sustained upon audit, including resolution of related appeals or litigation processes,
+if any. Step two, or measurement, is based on the largest amount of benefit that is more likely than not to be realized on settlement
+with the taxing authority. The Company is subject to income tax examinations by major taxing authorities for all tax years subsequent
+to 2016. During the years ended December 31, 2022 and 2021, the Company recognized no adjustments for uncertain tax positions. However,
+management s conclusions regarding this policy may be subject to review and adjustment at a later date based on factors including,
+but not limited to, on-going analyses of and changes to tax laws, regulation and interpretations, thereof. 
+
+The
+Coronavirus Aid, Relief, and Economic Security Act (the CARES Act) was enacted into law on March 27, 2020. The act contains several tax
+relief and economic stimulus provisions. The enactment of the CARES Act did not have a material impact on the Company s financial
+statements. 
+
+See
+Note 15 Income Taxes for further discussion. 
+
+Shares underlying warrants outstanding 
+ - 
+
+Unvested restricted stock 
+ - 
+
+shares of the Company s common stock to GenArraytion, reflecting an aggregate purchase price of million. The purchase price,
+including direct acquisition costs of approximately , was allocated among the acquired assets which include intellectual property
+and equipment, based upon their relative fair values at the date of acquisition. 
+
+Fifty
+percent of the common shares issued were subject to a risk of forfeiture which lapsed during the three months ended September
+30, 2021. Pursuant to the purchase agreement with GenArraytion, the Company also agreed to make royalty payments to GenArraytion equal
+to of net sales of certain products by the Company over the next five years. However, as a result of the Company s sale of its
+PDS business to a third party, the Company will no longer make any net sales of GenArraytion products during such royalty period. (See
+Note 4 - Discontinued Operations ). 
+
+The
+total consideration of million was allocated as follows to the acquired assets: 
+
+Equipment 
+
+Total consideration 
+
+The
+acquired intellectual property was being amortized over its estimated useful life of years. With the sale of the PDS assets announced
+on October 11, 2022, this asset was classified as held-for-sale at the period ended September 30, 2022, and then tested for impairment
+and subsequently written down to . (See Note 4 Discontinued Operations). 
+
+Gross margin 
+
+Research and development expenses 
+
+Depreciation and amortization expense 
+ - 
+
+Selling, general and administrative expenses 
+
+Total operating expenses 
+
+Operating loss from discontinued operations 
+
+Impairment of assets held for sale 
+ 
+ - 
+ 
+ Loss from discontinued operations 
+
+On
+October 4, 2022, the Company entered into a definitive asset purchase agreement with a third party pursuant to which the Company agreed
+to sell substantially all of the assets used in the Company s PDS business. in cash at the closing, and will receive potential royalties payable to Nephros for a seven -year period commencing
+on subject to a minimum gross margin threshold. As such, the potential royalties payable to the Company are a gain contingency
+as they pertain to an uncertain event that will be resolved in future reporting periods. As a result, the Company will recognize the
+gain contingency when it is probable the contingency will be resolved, which is ultimately when settled. The Company determined all of
+the required criteria for held-for-sale and discontinued operations classification were met as of September 30, 2022. During the third
+quarter as part of presenting these assets and liabilities as held-for-sale in the Condensed Consolidated Balance Sheets, the Company
+evaluated the disposal group including the relevant intangible assets for impairment. Based upon the selling price less the costs of
+sale, the Company determined the net carrying value of the assets held for sale were impaired, and the value of the asset group to be
+sold was . 
+
+Prepaid expenses 
+
+Operating lease right of use assets 
+ - 
+ 
+ Total current assets associated with discontinued operations 
+
+Property and equipment 
+
+Operating lease right of use assets 
+
+Intangible assets, net 
+
+Other assets 
+
+Total non-current assets associated with discontinued operations 
+
+Current portion of operating lease liabilities 
+
+Total current liabilities associated with discontinued operations 
+
+Lease liabilities, net of current portion 
+
+Total non-current liabilities associated with discontinued operations 
+
+Amortization 
+ 
+ - 
+ 
+ Stock compensation 
+
+Impairment of assets held-for-sale 
+ 
+ - 
+ 
+ Operating lease right-of-use assets 
+
+Purchases of property and equipment 
+
+During
+year ended December 31, 2022, of right-of-use assets related to discontinuing operations were obtained in exchange for operating
+lease liabilities. 
+
+Royalty revenue under the License Agreement with Bellco 
+ - 
+
+Royalty revenue under the Sublicense Agreement with CamelBak (1) 
+ - 
+
+Total royalty and other revenues 
+
+(1) 
+
+Bellco
+License Agreement 
+
+On
+June 27, 2011, the Company entered into a License Agreement (as thereafter amended, the License Agreement ), effective July
+1, 2011, with Bellco S.r.l. Bellco ), an Italy-based supplier of hemodialysis and intensive care products, for the manufacturing,
+marketing and sale of the Company s patented mid-dilution dialysis filters (the Products ). Under the License Agreement,
+the Company granted Bellco a license to manufacture, market and sell the Products under its own name, label, and CE mark in certain countries
+on an exclusive basis, and to do the same on a non-exclusive basis in certain other countries. Under the License Agreement with Bellco,
+the Company received upfront payments which were previously deferred and subsequently recognized as license revenue over the term of
+the License Agreement. In addition, the License Agreement also provided for the payment of certain royalties to the Company based on
+the number of units of Products sold per year in the covered territory. The License Agreement expired in accordance with its terms on
+December 31, 2021. 
+
+Other
+Revenue Other revenues are derived from sales of services to customers, which primarily include installation, training and testing
+on product and equipment sold to certain customers. 
+
+- 
+ - 
+ 
+ Money market funds 
+ 
+ - 
+ - 
+ 
+ Cash and cash equivalents 
+ 
+ - 
+ - 
+
+December 31, 2021 
+
+Cash 
+ 
+ - 
+ - 
+ 
+ Money market funds 
+ 
+ - 
+ - 
+ 
+ Cash and cash equivalents 
+ 
+ - 
+ - 
+
+Assets
+and Liabilities Not Measured at Fair Value on a Recurring Basis 
+
+The
+carrying amounts of cash and cash equivalents, accounts receivable, accounts payable and accrued expenses approximate fair value as of
+December 31, 2022 and 2021 due to the short-term maturity of these instruments. 
+
+The
+carrying amounts of the secured long-term note payable, lease liabilities and equipment financing approximate fair value as of December
+31, 2022 and 2021 because those financial instruments bear interest at rates that approximate current market rates for similar agreements
+with similar maturities and credit. 
+
+Raw material 
+
+Work in process 
+ 
+ - 
+ 
+ Total inventory 
+
+- years 
+
+Capitalized internal use software and website development 
+ years 
+ 
+ - 
+ 
+ Computer equipment 
+ - years 
+
+Furniture and fixtures 
+ years 
+
+Leasehold improvements 
+ years 
+
+Property and equipment, gross 
+
+Less: accumulated depreciation 
+
+Property and equipment, net 
+
+Depreciation
+related to equipment utilized in the manufacturing process is recognized in cost of goods sold on the consolidated statements of operations
+and comprehensive loss. Depreciation related to equipment utilized in research and development is recognized in research and development
+on the consolidated statements of operations and comprehensive loss. Equipment is capitalized due to various uses inclusive of R D.
+Depreciation expense for the years ended December 31, 2022 and 2021 was approximately and , respectively. Approximately
+ of depreciation expense has been recognized in cost of goods sold for the year ended December 31, 2022. Approximately 
+of depreciation expense has been recognized in cost of goods sold for the year ended December 31, 2021. Approximately and 
+of depreciation expense was recognized in research and development expense for the periods ended December 31, 2022 and December 31, 2021
+respectively. 
+
+Customer relationships 
+
+Total intangible assets 
+
+The
+Company recognized amortization expense of approximately for the years ended December 31, 2022 and December 31, 2021 in selling,
+general and administrative expenses on the accompanying consolidated statement of operations and comprehensive loss. 
+
+2024 
+
+2025 
+
+2026 
+
+2027 
+
+The
+Company recognized approximately million in intangible asset impairment charges during the year ended December 31, 2022, related
+to the fair value of assets held for sale. (See Note 4 Discontinued Operations). 
+
+Goodwill 
+
+Goodwill
+had a carrying value on the Company s consolidated balance sheets of million at December 31, 2022 and 2021, respectively.
+Goodwill has been allocated to the Water Filtration segment. The Company concluded the carrying value of goodwill was not impaired as
+of December 31, 2022, or 2021 as the Company determined that it was not more likely than not that the fair value of goodwill was less
+than its carrying value. 
+
+In
+exchange for the license, the gross value of the intangible asset capitalized was million. License and supply agreement, net, on
+the consolidated balance sheet is million and million as of December 31, 2022 and 2021, respectively. Accumulated amortization
+is million and million as of December 31, 2022 and 2021, respectively. The intangible asset is being amortized as an expense
+over the life of the License and Supply Agreement. Amortization expense of million was recognized in each of the years ended December
+31, 2022 and 2021 on the consolidated statement of operations and comprehensive loss. 
+
+As
+of September 2013, the Company has an understanding with Medica whereby the Company has agreed to pay interest to Medica at a annual
+rate calculated on the principal amount of any outstanding invoices that are not paid pursuant to the original payment terms. There was
+ interest recognized for the years ended December 31, 2022 or 2021. 
+
+In
+addition, for the period beginning April 23, 2014 through December 31, 2025, the Company will pay Medica a royalty rate of of net
+sales of the filtration products sold, subject to reduction as a result of a supply interruption pursuant to the terms of the License
+and Supply Agreement. Royalty expense of million for the years ended December 31, 2022 and 2021, respectively, was recognized and
+is included in cost of goods sold on the consolidated statement of operations and comprehensive loss. Approximately and 
+of this royalty expense was included in accounts payable as of December 31, 2022 and 2021, respectively. 
+
+million. As of December 31, 2022 and 2021, the principal balance of the Secured Note was million and 
+million, respectively. 
+
+The
+Secured Note has a maturity date of . The unpaid principal balance accrues interest at a rate of per annum. The Secured Note is subject to terms and conditions
+of and is secured by security interests granted by the Company in favor of Tech Capital under the Loan and Security Agreement entered
+into on August 17, 2017 and subsequently amended on December 20, 2019 (the Loan Agreement ). An event of default under such
+Loan Agreement is an event of default under the Secured Note and vice versa. 
+
+During
+each of the years ended December 31, 2022 and 2021, the Company made payments under the Secured Note of approximately million. Included
+in the total payments made, approximately and was recognized as interest expense on the consolidated statement of operations
+and comprehensive loss for the year ended December 31, 2022 and 2021, respectively. 
+
+Total 
+
+million PPP loan ). Under the terms of the PPP, certain amounts of the loan may be forgiven if they
+are used for qualifying expenses during the first 24 weeks of the loan. On January 14, 2021, the U.S Small Business Administration notified
+the Company that, in accordance with the PPP terms, the PPP loan was forgiven in full, including all principal and interest outstanding
+as of the date of forgiveness. As such, million has been recognized as an extinguishment of debt on the Company s consolidated
+statement of operations and comprehensive loss. The SBA reserves the right to audit any PPP loan, regardless of size. These audits may
+occur after forgiveness has been granted. In accordance with the Cares Act. All borrowers are required to maintain the PPP loan documentation
+for six years after the PPP loan was forgiven or repaid in full and to provide that documentation to the SBA upon request. 
+
+year to years. 
+
+Lease
+cost, as presented below, includes costs associated with leases for which right-of-use ROU assets have been recognized
+as well as short-term leases. 
+
+Finance lease cost: 
+
+Amortization of right-of-use assets 
+
+Interest on lease liabilities 
+
+Total finance lease cost 
+
+Variable lease cost 
+
+Total lease cost 
+
+Financing cash flows from finance leases 
+
+Finance lease right-of-use assets 
+
+Current portion of operating lease liabilities 
+
+Operating lease liabilities, net of current portion 
+
+Total operating lease liabilities 
+
+Current portion of finance lease liabilities 
+
+Finance lease liabilities, net of current portion 
+
+Total finance lease liabilities 
+
+Weighted average remaining lease term 
+
+Operating leases 
+ years 
+ years 
+ 
+ Finance leases 
+ years 
+ years 
+
+Weighted average discount rate 
+
+Operating leases 
+
+Finance leases 
+
+2024 
+
+2025 
+ 
+ - 
+ 
+ 2026 
+ 
+ - 
+ 
+ 2027 
+ 
+ - 
+ 
+ Total future minimum lease payments 
+
+Less imputed interest 
+ 
+ - 
+ 
+ Total 
+
+Accrued directors fees 
+ 
+ - 
+ 
+ Accrued legal 
+
+Accrued sales commission 
+
+Accrued sales tax payable 
+
+Accrued franchise tax 
+
+Accrued other 
+
+Accrued expenses 
+
+income tax current or deferred tax benefit or expense recognized during the years ended December 31, 2022 and 2021. 
+
+State taxes 
+
+Expired NOLs and credits 
+
+Stock-based compensation 
+
+Federal research and development credits 
+
+Foreign Rate Differential 
+ 
+ - 
+ 
+ Other 
+
+Paycheck protection loan forgiveness 
+ - 
+
+Valuation allowance 
+
+Effective tax rate 
+ - 
+ - 
+
+Research and development credits 
+
+Nonqualified stock option compensation expense 
+
+Lease liabilities 
+
+Capital loss carryforwards 
+ 
+ - 
+ 
+ Fixed and intangible basis difference 
+ 
+ - 
+ 
+ Other temporary book - tax differences 
+
+Total deferred tax assets 
+
+Deferred tax liabilities: 
+
+Lease right-of-use assets 
+
+Fixed and intangible asset basis difference 
+ - 
+
+Total deferred tax liabilities 
+
+Deferred tax assets, net 
+
+Valuation allowance for deferred tax assets 
+
+Net deferred tax assets after valuation allowance 
+ - 
+ - 
+
+A
+valuation allowance has been recognized to offset the Company s net deferred tax asset as it is more likely than not that such
+net asset will not be realized. The Company primarily considered its historical loss and potential Internal Revenue Code Section 382
+limitations to arrive at its conclusion that a valuation allowance was required. The Company s valuation allowance increased 
+approximately million 
+from December 31, 2021 to December 31, 2022. 
+
+At
+December 31, 2022, the Company had Federal income tax net operating loss carryforwards of million and State income tax net operating
+loss carryforwards of million. The Company had Federal research and development tax credit carryforwards of million at December
+31, 2022. The Company s net operating losses and research and development tax credits may ultimately be limited by Section 382
+of the Internal Revenue Code and, as a result, the Company may be unable to offset future taxable income (if any) with losses, or its
+tax liability with credits, before such losses and credits expire. Included in the Federal net operating loss carryforwards are 
+million of losses generated from 2018 onward that have an indefinite carryover period. The remaining Federal and New Jersey net operating
+loss carryforwards and Federal and New Jersey tax credit carryforwards will expire at various times between 2022 and 2038 unless utilized. 
+
+The
+Company has analyzed the tax positions taken or expected to be taken in its tax returns and concluded it has no liability related to
+uncertain tax positions. The Company is subject to income tax examinations by major taxing authorities for all tax years subsequent to
+2017 and does not anticipate a change in its uncertain tax positions within the next twelve months. The Company s policy is to
+report interest and penalties, if any, related to unrecognized tax benefits in income tax expense. 
+
+shares of common stock were approved for issuance pursuant to stock
+options, restricted stock and other equity incentive awards to the Company s employees, directors and consultants. The maximum
+contractual term for stock options granted under the 2015 Plan is years. 
+
+As
+of December 31, 2022, options to purchase shares of common stock had been issued to employees under the 2015 Plan and were
+outstanding. Taking into account
+all options and restricted stock granted under the 2015 Plan, there are shares available for future grant under the 2015 Plan.
+Generally, grants vest based on a service condition only and vest between two to . 
+
+The
+Company s previously adopted and approved plan, the 2004 Stock Incentive Plan 2004 Plan ), expired in the year ended
+December 31, 2014. As of December 31, 2022, options to purchase shares of common stock had been issued to employees under the
+2004 Plan and were outstanding. No shares are available
+for future grants under the 2004 Plan. Options currently outstanding are fully vested. 
+
+Stock
+Options 
+
+The
+Company has elected to recognize forfeitures as they occur. Stock-based compensation expense recognized for the years ended December
+31, 2022 and 2021 was million and million, respectively. 
+
+For
+the year ended December 31, 2022, million and approximately are included in selling, general and administrative expenses
+and research and development expenses, respectively, on the accompanying consolidated statement of operations and comprehensive loss.
+For the year ended December 31, 2021, million and approximately are included in selling, general and administrative expenses
+and research and development expenses, respectively, on the accompanying consolidated statement of operations and comprehensive loss. 
+
+Options granted 
+
+Options forfeited or expired 
+
+Options exercised 
+
+Outstanding at December 31, 2021 
+
+Options granted 
+
+Options forfeited or expired 
+
+Options exercised 
+ - 
+ - 
+ 
+ Outstanding at December 31, 2022 
+
+Vested and expected to vest at December 31, 2021 
+
+Exercisable at December 31, 2022 
+
+Vested and expected to vest at December 31, 2022 
+
+Risk-Free Interest Rates 
+
+Expected Life (in years) 
+
+Expected Dividend Yield 
+
+Expected
+volatility is based on historical volatility of the Company s common stock at the time of grant. The risk-free interest rate is
+based on the U.S. Treasury yields in effect at the time of grant for periods corresponding with the expected life of the options. For
+the expected life, the Company is using the simplified method as described in the SEC Staff Accounting Bulletin 107. This method assumes
+that stock option grants will be exercised based on the average of the vesting periods and the option s life. 
+
+The
+weighted-average fair value of options granted in 2022 and 2021 is and , respectively. The aggregate intrinsic values of stock
+options outstanding and stock options vested or expected to vest as of December 31, 2022 was approximately for each. A stock option
+has intrinsic value, at any given time, if and to the extent that the exercise price of such stock option is less than the market price
+of the underlying common stock at such time. The weighted-average remaining contractual life of options vested or expected to vest as
+of December 31, 2022 was years. 
+
+The
+intrinsic values of stock options exercised was approximately for the year ended December 31, 2021. stock options were exercised
+for the year ended December 31, 2022. 
+
+As
+of December 31, 2022, there was million of total unrecognized compensation cost related to unvested share-based compensation awards
+granted under the equity compensation plans which will be amortized over the weighted average remaining requisite service period of 
+years. 
+
+There
+was tax benefit related to expense recognized in the twelve months ended December 31, 2022 and 2021, as the Company is in a net operating
+loss position. 
+
+Restricted
+Stock 
+
+The
+Company has issued restricted stock as compensation for the services of certain employees and non-employee directors. The grant date
+fair value of restricted stock is based on the fair value of the common stock on the date of grant, and compensation expense is recognized
+based on the period in which the restrictions lapse. 
+
+Vested 
+
+Nonvested at December 31, 2021 
+
+Granted 
+ - 
+ - 
+ 
+ Vested 
+
+Forfeited 
+
+Nonvested at December 31, 2022 
+ - 
+ - 
+
+The
+total fair value of restricted stock that vested during the years ended December 31, 2022 and 2021 was million and million,
+respectively. 
+
+Total
+stock-based compensation expense for restricted stock was approximately and for the year ended December 31, 2022 and
+2021, respectively and is recognized in selling, general and administrative expenses on the accompanying consolidate statement of operations
+and comprehensive loss. 
+
+Approximately
+ of restricted stock was granted to employees during the year ended December 31, 2021 for services rendered during the year ended
+December 31, 2020. 
+
+As
+of December 31, 2022, there was unrecognized compensation expense related to restricted stock-based awards granted under the equity
+compensation plans, and during the year ended December 31, 2022, shares of restricted stock were forfeited as the conditions on
+the vesting of the restricted stock could not be met. 
+
+As
+of December 31, 2021, there was approximately of unrecognized compensation expense related to the restricted stock awards which
+will be amortized over the weighted average remaining requisite service period of years. 
+
+The
+aggregate shares of common stock legally issued and outstanding as of December 31, 2021 is greater than the aggregate shares of common
+stock outstanding for accounting purposes by the amount of unvested restricted shares. 
+
+SRP
+Equity Incentive Plan 
+
+SRP s
+2019 Equity Incentive Plan (the SRP Plan was approved on May 7, 2019 under which shares of SRP s common
+stock are reserved for the issuance of options, restricted stock and other stock awards. 
+
+There
+were SRP stock options granted during the year ended December 31, 2022. SRP issued shares of restricted stock pursuant to the
+SRP Plan during year ended December 31, 2022. Stock-based compensation expense related to the SRP stock grants was approximately 
+for the year ended December 31, 2022 and was included in selling, general and administrative expenses on the accompanying consolidated
+statement of operations and comprehensive loss. 
+
+Granted 
+
+Vested 
+
+Nonvested at December 31, 2022 
+
+SRP
+stock grants are expensed over the respective vesting period, which was based on a service condition. Stock-based compensation expense
+related to the SRP stock grants is presented by the Company as noncontrolling interest on the consolidated balance sheets as of December
+31, 2022. 
+
+shares of common stock to acquire of GenArraytion. The purchase price was million,
+including transaction costs of approximately , and was allocated among the acquired assets based upon their relative fair values
+at the date of acquisition. Fifty percent of the common shares issued were subject to a risk of forfeiture which lapsed during
+the three months ended September 30, 2021. 
+
+Noncontrolling
+Interest 
+
+Pursuant
+to the terms and conditions of a Series A Preferred Stock Purchase Agreement, dated September 9, 2018, among SRP and the purchasers identified
+therein (the SRP Purchase Agreement ), SRP sold to such purchasers an aggregate of shares of its Series A Preferred
+Stock (the Series A Preferred at a price of per share resulting in total gross proceeds of million. On February
+1, 2022, SRP entered into a First Amendment to the SRP Purchase Agreement (the SRP Amendment with the holders of its outstanding
+shares of Series A Preferred. The purpose of the SRP Amendment was to permit SRP to sell up to an additional shares of Series
+A Preferred at one or more closings to occur by February 28, 2022, and on the same terms and conditions as otherwise set forth in the
+SRP Purchase Agreement. Pursuant to the SRP Amendment, on February 4, 2022, SRP conducted a closing in which it sold shares of
+Series A Preferred, resulting in gross proceeds of . Approximately of the proceeds were recorded as an increase to the
+equity of the non-controlling interests. The Company purchased shares of SRP s Series A Preferred at such closing and, as
+a result, maintained its stock ownership position in SRP. The other purchasers at the February 4, 2022 closing included the Company s
+Chief Executive Officer, who purchased shares, and Lambda Investors LLC Lambda ), an affiliate of Wexford Capital,
+which beneficially owns approximately of the Company s common stock, which purchased shares of SRP s Series A
+Preferred. Such purchases were made on the same terms as all other purchasers. In addition to the funds provided by the SRP Purchase
+Agreement, Nephros and SRP continue to maintain a loan agreement under which Nephros agreed to lend up to million to SRP, including
+the million borrowed during the year ended December 31, 2020. These loaned funds were used to fund SRP s operating activities
+through the recent FDA 510(k) clearance process of SRP s second-generation hemodiafiltration system, which was initially submitted
+to the FDA on February 24, 2021 and which received 510(k) clearance on May 13, 2022. As of December 31, 2022, the outstanding balance
+of this loan, including accrued interest, was million. 
+
+Each
+share of SRP Series A Preferred is initially convertible into one share of SRP common stock, subject to adjustment for stock splits and
+recapitalization events. Subject to customary exempt issuances, in the event SRP issues additional shares of its common stock or securities
+convertible into common stock at a per share price that is less than the original purchase price of the Series A Preferred, the conversion
+price of the Series A Preferred will automatically be reduced to such lower price. 
+
+In
+the event of any voluntary or involuntary liquidation, dissolution or winding up of SRP, the holders of the Series A Preferred are entitled
+to be paid out of the assets of SRP available for distribution to its stockholders or, in the case of a deemed liquidation event, out
+of the consideration payable to stockholders in such deemed liquidation event or the available proceeds, before any payment shall be
+made to the holders of SRP common stock by reason of their ownership thereof, an amount per share equal to one times (1x) the Series
+A Preferred original issue price, plus any accruing dividends accrued but unpaid thereon, whether or not declared, together with any
+other dividends declared but unpaid thereon (the Series A Liquidation Preference ). If upon any such liquidation, dissolution
+or winding up of SRP or deemed liquidation event, the assets of SRP available for distribution to its stockholders shall be insufficient
+to pay the Series A Liquidation Preference in full, the holders of Series A Preferred shall share ratably in any distribution of the
+assets available for distribution in proportion to the respective amounts which would otherwise be payable in respect of the shares held
+by them upon such distribution if all amounts payable on or with respect to such shares were paid in full. After the full payment of
+the Series A Liquidation Preference, the holders of the Series A Preferred and the holders of common stock will share ratably in any
+remaining proceeds available for distribution on an as-converted to common stock basis. 
+
+Each
+share of Series A Preferred accrues dividends at the rate per annum of per share. The accruing dividends shall accrue from day
+to day, whether or not declared, and shall be cumulative and shall be payable only when, as, and if declared by the Board. 
+
+Holders
+of Series A Preferred shall be entitled to cast the number of votes equal to the number of whole shares of common stock into which the
+shares of Series A Preferred held by such holder are convertible as of the record date for determining stockholders entitled to vote.
+Except as provided by law or by the other provisions, the holders of Series A Preferred vote together with the holders of common stock
+as a single class. Notwithstanding the foregoing, for as long as at least shares of Series A Preferred are outstanding, SRP is
+required to obtain the affirmative vote or written consent of a majority of the Series A Preferred in order to effect certain corporate
+transactions, including without limitation, the issuance of any securities senior to or on parity with the Series A Preferred, a liquidation
+or deemed liquidation of SRP, amendments to SRP s charter documents, the issuance of indebtedness in excess of , any annual
+budget for the Company s operations, and the hiring or firing of any executive officers of SRP. In addition, the holders of the
+Series A Preferred are entitled to elect two members of SRP s board of directors. 
+
+The
+noncontrolling interest in SRP held by holders of the Series A Preferred has been classified as equity on the accompanying consolidated
+interim balance sheet, as the noncontrolling interest is redeemable only upon the occurrence of events that are within the control of
+the Company. 
+
+In
+March 2023, the board of directors of SRP adopted, and the stockholders of SRP approved, a plan to wind up SRP s operations and
+dissolve. See Note 21 Subsequent Event, below. 
+
+Warrants 
+
+The
+Company accounts for stock warrants as either equity instruments or derivative liabilities depending on the specific terms of the warrant
+agreement. As of December 31, 2021 all of the Company s outstanding warrants were classified as equity. There are no outstanding
+warrants at December 31, 2022. 
+
+- 
+
+March 2017 private placement warrants 
+
+- 
+
+Warrants
+Exercised During 2022 and 2021 
+
+During
+the year ended December 31, 2022, warrants to purchase shares of the Company s common stock were exercised, resulting in
+proceeds of million and the issuance of shares of the Company s common stock. Of the warrants exercised during the
+year ended December 31, 2022, warrants to purchase shares of the Company s common stock were exercised by members of management,
+resulting in proceeds of approximately . Warrants to purchase shares of the Company s common stock expired unexercised,
+during the year ended December 31, 2022. 
+
+During
+the year ended December 31, 2021, the Company issued an aggregate of shares of its common stock upon the exercise of outstanding
+warrants relating to an aggregate of shares of common stock. Of such shares issued, were issued in cash exercises
+resulting in gross proceeds to the Company of million (the Cash Exercises and shares were issued in connection
+with cashless (net) exercises of outstanding warrant relating to shares of common stock (the Cashless Exercises ).
+Among the shares issued in connection with the Cash Exercises, shares were issued to the Company s largest stockholder,
+which resulted in proceeds to the Company of million. Among the Cashless Exercises, shares of common stock were issued to
+persons affiliated with members of the Company s management upon the exercise of warrants relating to shares. 
+
+of employee contributions to the SIMPLE IRA Plan, up to of each employee s salary. The Company contributed and
+expensed approximately and to the SIMPLE IRA in 2022 and 2021, respectively. 
+
+million (approximately 
+million). For the year ended December 31, 2022, the Company s aggregate purchase commitments totaled 
+million (approximately 
+million). The company has agreed with Medica that it will make-up the 0.3 purchase shortfall based on anticipated future
+revenues. 
+
+Future
+purchase commitments to under the License and Supply Agreement with Medica are as follows: 
+
+2023:
+
+2024:
+
+2025:
+
+The
+Company s chief operating decision maker evaluates the financial performance of the Company s segments based upon segment
+revenues, gross margin and operating expenses which include research and development and selling, general and administrative expenses.
+Items below loss from operations are not reported by segment, since they are excluded from the measure of segment profitability reviewed
+by the Company s chief operating decision maker. The Company does not report balance sheet information by segment since such information
+is not reviewed by the Company s chief operating decision maker. 
+
+The
+accounting policies for the Company s segments are the same as those described in Item 7, Management s Discussion
+and Analysis of Financial Condition and Results of Operations Critical Accounting Policies and Estimates of this Annual
+Report on Form 10-K and Note 2 Summary of Significant Accounting Policies. 
+
+- 
+
+Gross margin 
+ 
+ - 
+
+Research and development expenses 
+
+Depreciation and amortization expense 
+ 
+ - 
+
+Selling, general and administrative expenses 
+
+Total operating expenses 
+
+Loss from continuing operations 
+
+Year
+ Ended December 31, 2021 
+
+Water 
+ Filtration 
+ Renal 
+ Products 
+ Nephros, Inc. 
+ Consolidated 
+ 
+ Total net revenues 
+ 
+ - 
+
+Gross margin 
+ 
+ - 
+
+Research and development expenses 
+
+Depreciation and amortization
+ expense 
+ 
+ - 
+
+Selling, general and administrative
+ expenses 
+
+Total operating expenses 
+
+Loss from continuing operations 
+
+As
+of December 31, 2022, million of total assets in the Renal Products segment consisted of cash received from the loan agreement between
+Nephros and SRP. 
+
+million.
+As a result, the Company does not expect to receive cash repayment of such indebtedness, but anticipates that all of SRP s
+remaining assets, including all of its rights and interests in and to the technology and assets related to its second generation HDF
+product, will be assigned to the Company in partial satisfaction of such indebtedness. The holders of SRP s outstanding common
+stock and preferred stock are not expected to receive any return of capital from the liquidation of SRP. 
+
+60 
+
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+There
+were no disagreements with the accountants during 2022 or 2021. 
+
+Item
+9A. Controls and Procedures 
+
+Disclosure
+Controls and Procedures 
+
+Disclosure
+controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in the
+reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in
+the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to
+ensure that information required to be disclosed in company reports filed or submitted under the Exchange Act is accumulated and communicated
+to management, including the Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. 
+
+As
+required by Rules 13a-15 and 15d-15 under the Exchange Act, the Chief Executive Officer and Chief Financial Officer carried out an evaluation
+of the effectiveness of the design and operation of the disclosure controls and procedures as of December 31, 2022. Based upon this evaluation,
+the Chief Executive Officer and Chief Financial Officer has concluded that the disclosure controls and procedures were effective as of
+December 31, 2022. Accordingly, management believes that the financial statements included in this Annual Report on Form 10-K present
+fairly in all material respects the financial position, results of operations and cash flows for the period presented. 
+
+Management s
+Report on Internal Control Over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f). Under the supervision of the Chief Executive Officer and Chief Financial Officer, management conducted
+an evaluation of the effectiveness of the internal control over financial reporting as of December 31, 2022 based on the framework set
+forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated Framework .
+Based on the assessment, management concluded that as of December 31, 2022, the internal control over financial reporting was effective
+as of December 31, 2022. 
+
+Changes
+in Internal Control Over Financial Reporting 
+
+There
+were no changes in the internal control over financial reporting that occurred during the most recent fiscal quarter that materially
+affected, or are reasonably likely to materially affect, the internal control over financial reporting. 
+
+Item
+9B. Other Information 
+
+On March 6 2023, the Board of Directors of Specialty
+Renal Products, Inc. SRP ), the Company s subsidiary, approved a plan to wind down SRP s operations, liquidate
+SRP s remaining assets and dissolve the company, which plan was approved by SRP s stockholders on March 9, 2023. As of such
+date, the SRP Board of Directors believes that SRP s cash resources are sufficient to satisfy the company s outstanding liabilities,
+other than its obligations under the loan agreement between SRP and the Company pursuant to which SRP has an existing balance of outstanding
+principal and accrued interest of approximately 1.4 million. As a result, the Company does not expect to receive cash repayment of such
+indebtedness, but anticipates that all of SRP s remaining assets, including all of its rights and interests in and to the technology
+and assets related to its second generation HDF product, will be assigned to the Company in partial satisfaction of such indebtedness. 
+
+61 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers and Corporate Governance 
+
+The
+information set forth under the captions Proposal No. 1 Election of Directors, Corporate Governance 
+and Delinquent Section 16(a) Reports in the 2022 Proxy Statement is incorporated herein by reference. 
+
+Item
+11. Executive Compensation 
+
+The
+information set forth under the caption Compensation Matters in the 2023 Proxy Statement is incorporated herein by reference. 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+The
+information set forth under the captions Stock Ownership of Management and Principal Stockholders and Compensation
+Matters in the 2023 Proxy Statement is incorporated herein by reference. 
+
+Item
+13. Certain Relationships and Related Transactions, and Director Independence 
+
+The
+information set forth under the captions Corporate Governance and Certain Relationships and Related Transactions 
+in the 2022 Proxy Statement is incorporated herein by reference . 
+
+Item
+14. Principal Accounting Fees and Services 
+
+The
+information set forth under the caption Proposal No. 2 Ratification of Selection of Independent Registered Public Accounting
+Firm in the 2023 Proxy Statement is incorporated herein by reference. 
+
+62 
+
+PART
+IV 
+
+Item
+15. Exhibits, Financial Statement Schedules 
+
+(a)
+Documents filed as part of this report: 
+
+(1)
+Consolidated Financial Statements of Nephros, Inc. 
+
+Report
+of independent registered public accounting firm, Baker Tilly US, LLP. 1 Highwood Drive, Tewksbury, MA 01876, Firm ID - 
+ 
+ Consolidated balance sheets as of December 31, 2022 and 2021. 
+ 
+ Consolidated statements of operations and comprehensive loss for the years ended December 31, 2022 and 2021. 
+ 
+ Consolidated statements of changes in stockholders equity for the years ended December 31, 2022 and 2021. 
+ 
+ Consolidated statements of cash flows for the years ended December 31, 2022 and 2021. 
+ 
+ Notes to consolidated financial statements. 
+
+(2)
+Exhibits: 
+
+Exhibit 
+ No. 
+ 
+ Description 
+ 
+ 2.1 
+ 
+ Agreement for Purchase and Sale of Assets, dated October 4, 2022, by and between Nephros, Inc. and BWSI, LLC, incorporated by reference to Exhibit 2.1 to Nephros Inc. s Current Report on Form 8-K, filed with the SEC on November 21, 2022 (pursuant to Item 601(b)(2)(ii) of Regulation S-K, certain information contained in this Exhibit 2.1 has been redacted as indicated therein). 
+
+3.1 
+ 
+ Conformed Copy of the Fourth Amended and Restated Certificate of Incorporation, incorporating those Certificates of Amendment dated June 4, 2007; June 29, 2007; November 13, 2007; October 23, 2009; March 10, 2011; March 11, 2011 and July 8, 2019, incorporated by reference to Exhibit 3.1 to Nephros, Inc. s Quarterly Report on Form 10-K for the quarter ended June 30, 2019, filed with the SEC on August 7, 2019. 
+
+3.2 
+ 
+ Second Amended and Restated By-Laws of the Registrant, incorporated by reference to Exhibit 3.1 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on December 3, 2007. 
+
+4.1 
+ 
+ Specimen of Common Stock Certificate of the Registrant, incorporated by reference to Exhibit 4.1 to Nephros, Inc. s Amendment No. 1 to Registration Statement on Form S-1/A (Reg. No. 333-116162), filed with the SEC on July 20, 2004. 
+
+4.2 
+ 
+ Description of Capital Stock, incorporated by reference to Exhibit 4.5 to Nephros, Inc. s Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 27, 2020. 
+
+10.1 
+ 
+ Nephros, Inc. 2004 Stock Incentive Plan, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Amendment No. 1 to Registration Statement on Form S-1/A (Reg. No. 333-116162), filed with the SEC on July 20, 2004. 
+
+10.2 
+ 
+ Amendment No. 1 to Nephros, Inc. 2004 Stock Incentive Plan, incorporated by reference to Exhibit 4.3 to Nephros, Inc. s Registration Statement on Form S-8 (Reg. No. 333-127264), filed with the SEC on August 5, 2005. 
+
+10.3 
+ 
+ Amendment No. 2 to Nephros, Inc. 2004 Stock Incentive Plan, incorporated by reference to Exhibit 10.7 to Nephros, Inc. s Quarterly Report on Form 10-QSB for the quarter ended September 30, 2007, filed with the SEC on November 13, 2007. 
+
+63 
+
+10.4 
+ 
+ Amendment No. 3 to Nephros, Inc. 2004 Stock Incentive Plan, incorporated by reference to Exhibit 10.51 to Nephros, Inc. s Annual Report on Form 10-K for the year ended December 31, 2008, filed with the SEC on March 31, 2009 
+
+10.5 
+ 
+ Amendment No. 4 to Nephros, Inc. 2004 Stock Incentive Plan, incorporated by reference to Exhibit A to Nephros, Inc. s Definitive Proxy Statement, filed with the SEC on December 2, 2010. 
+
+10.6 
+ 
+ Amendment No. 5 to Nephros, Inc. 2004 Stock Incentive Plan, incorporated by reference to Appendix A to Nephros, Inc. s Definitive Proxy Statement, filed with the SEC on April 11, 2013. 
+
+10.7 
+ 
+ Amendment No. 6 to Nephros, Inc. 2004 Stock Incentive Plan, dated June 14, 2013, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended June 30, 2013, filed with the SEC on August 13, 2013. 
+
+10.8 
+ 
+ Nephros, Inc. 2015 Equity Incentive Plan, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015, filed with the SEC on May 15, 2015. 
+
+10.9 
+ 
+ Form of Incentive Stock Option Agreement under the 2015 Equity Incentive Plan, incorporated by reference to Exhibit 10.3 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015, filed with the SEC on May 15, 2015. 
+
+10.10 
+ 
+ Form of Non-Qualified Stock Option Agreement under the 2015 Equity Incentive Plan, incorporated by reference to Exhibit 10.4 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015, filed with the SEC on May 15, 2015. 
+
+10.11 
+ 
+ Form of Restricted Stock Agreement under the 2015 Equity Incentive Plan, incorporated by reference to Exhibit 10.5 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015, filed with the SEC on May 15, 2015. 
+
+10.12 
+ 
+ Form of Restricted Stock Unit Agreement under the 2015 Equity Incentive Plan, incorporated by reference to Exhibit 10.6 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015, filed with the SEC on May 15, 2015. 
+
+10.13 
+ 
+ Nephros, Inc. Director Compensation Policy, incorporated by reference to Exhibit 10.15 to Nephros, Inc. s Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on February 26, 2018. 
+
+10.14 
+ 
+ License and Supply Agreement, dated April 23, 2012, between the Registrant and Medica S.p.A., incorporated by reference to Exhibit 10.1 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on April 26, 2012. 
+
+10.15 
+ 
+ Second Amendment to License and Supply Agreement, dated May 4, 2015, between the Registrant and Medica S.p.A., incorporated by reference to Exhibit 10.4 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended June 30, 2015, filed with the SEC on August 10, 2015. 
+
+10.16 
+ 
+ Third Amendment to License and Supply Agreement, dated May 5, 2017, between the Registrant and Medica S.p.A., incorporated by reference to Exhibit 10.4 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2017, filed with the SEC on May 9, 2017. 
+
+10.17 
+ 
+ Fourth Amendment to License and Supply Agreement, dated September 26, 2017, between the Registrant and Medica S.p.A., incorporated by reference to Exhibit 10.1 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on September 27, 2017. 
+
+64 
+
+10.18 
+ 
+ Sublicense Agreement, dated May 6, 2015, between the Registrant and CamelBak Products, LLC, incorporated by reference to Exhibit 10.5 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended June 30, 2015, filed with the SEC on August 10, 2015.+ 
+
+10.19 
+ 
+ Second Amendment to Sublicense Agreement, dated January 30, 2019, between the Registrant and CamelBak Products, LLC, incorporated by reference to Exhibit 10.24 to Nephros, Inc s Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on March 12, 2019. 
+
+10.20 
+ 
+ Registration Rights Agreement, dated September 19, 2007, among the Registrant and the Holders, incorporated by reference to Exhibit 10.3 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on September 25, 2007. 
+
+10.21 
+ 
+ Form of Registration Rights Agreement, between the Registrant and Wexford Capital LP, incorporated by reference to Exhibit 10.57 to Nephros, Inc. s Registration Statement on Form S-1 (Reg. No. 333-169728), filed with the SEC on October 1, 2010. 
+
+10.22 
+ 
+ Registration Rights Agreement, dated February 4, 2013, between the Registrant and Wexford Capital LP, incorporated by reference to Exhibit 10.68 to Nephros, Inc. s Registration Statement on Form S-1 (Reg. No. 333-187036), filed with the SEC on March 4, 2013. 
+
+10.35 
+ 
+ First Amendment to Registration Rights Agreement, dated May 23, 2013, between the Registrant and Wexford Capital LP, incorporated by reference to Exhibit 10.1 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended June 30, 2013, filed with the SEC on August 13, 2013. 
+
+10.24 
+ 
+ Registration Rights Agreement, dated November 12, 2013, between the Registrant and Wexford Capital LP, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on November 14, 2013. 
+
+10.25 
+ 
+ First Amendment to Registration Rights Agreement, dated April 14, 2014, between the Registrant and Wexford Capital LP, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2014, filed with the Securities and Exchange Commission on May 14, 2014. 
+
+10.26 
+ 
+ Registration Rights Agreement, dated August 29, 2014, between the Registrant and Wexford Capital LP, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on September 3, 2014. 
+
+10.27 
+ 
+ First Amendment to Registration Rights Agreement, dated September 23, 2014, between the Registrant and Wexford Capital LP, incorporated by reference to Exhibit 10.5 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended September 30, 2014, filed with the SEC on November 13, 2014. 
+
+10.28 
+ 
+ Registration Rights Agreement dated March 17, 2017, among the Registrant and the Purchasers identified therein, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on March 23, 2017. 
+
+10.29 
+ 
+ Series A Preferred Stock Purchase Agreement, dated September 5, 2018, among Specialty Renal Products, Inc. and the Purchasers identified therein, incorporated by reference to Exhibit 10.1 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended September 30, 2018, filed with the SEC on November 8, 2018. 
+
+10.30 
+ 
+ Amended and Restated Certificate of Incorporation for Specialty Renal Products, Inc., dated September 5, 2018, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended September 30, 2018, filed with the SEC on November 8, 2018. 
+
+65 
+
+10.31 
+ 
+ Amendment dated December 10, 2018, to Amended and Restated Certificate of Incorporation of Specialty Renal Products, Inc., incorporated by reference to Exhibit 10.1 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on December 10, 2018. 
+
+10.32 
+ 
+ Investor Rights Agreement, dated September 5, 2018, among Specialty Renal Products, Inc. and the Purchasers identified therein, incorporated by reference to Exhibit 10.3 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended September 30, 2018, filed with the SEC on November 8, 2018. 
+
+10.33 
+ 
+ Voting Agreement, dated September 5, 2018, among Specialty Renal Products, Inc. and the Purchasers identified therein, incorporated by reference to Exhibit 10.4 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended September 30, 2018, filed with the SEC on November 8, 2018. 
+
+10.34 
+ 
+ Right of First Refusal and Co-Sale Agreement, dated September 5, 2018, among Specialty Renal Products, Inc. and the Purchasers identified therein, incorporated by reference to Exhibit 10.5 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended September 30, 2018, filed with the SEC on November 8, 2018. 
+
+10.35 
+ 
+ Amended and Restated Loan and Security Agreement, dated May 26, 2020, by and between Tech Capital, LLC and the Registrant, incorporated by reference to Exhibit 10.2 to Nephros Inc. s Quarterly Report on Form 10-Q for the quarter ended June 30, 2020, filed with the SEC on August 5, 2020. 
+
+10.36 
+ 
+ Amended and Restated Secured Promissory Note (Single Advance Non-Revolving), dated May 26, 2020, issued by the Registrant, incorporated by reference to Exhibit 10.3 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended June 30, 2020, filed with the SEC on August 5, 2020. 
+
+10.37 
+ 
+ Employment Agreement between the Registrant and Andrew Astor, dated August 23, 2020, incorporated by reference to Exhibit 10.1 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, filed with the SEC on November 5, 2020. 
+
+10.38 
+ 
+ Loan Agreement between the Registrant and Specialty Renal Products, dated October 7, 2020, incorporated by reference to Exhibit 10.1 to Nephros, Inc. s Current Report on Form 8-K filed with the SEC on October 13, 2020. 
+
+10.39 
+ 
+ 8 Convertible Promissory Note, from Specialty Renal Products, Inc. to the Registrant, dated October 7, 2020, incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Current Report on Form 8-K, filed with the SEC on October 13, 2020. 
+
+10.40 
+ 
+ Letter Agreement, dated November 30, 2020, between Wesley S. Lobo and the Registrant (incorporated by reference to Exhibit 10.55 to Nephros, Inc. s Annual Report on From 10-K for the year ended December 31, 2020). 
+
+10.41 
+ 
+ First Amendment to Loan Agreement dated January 19, 2022, between the Company and Specialty Renal Products, Inc. (incorporated by reference to Exhibit 10.1 to Nephros Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2022). 
+
+10.42 
+ 
+ First Amendment to Series A Preferred Stock Purchase Agreement, dated February 1, 2022, among Specialty Renal Products, Inc. and the Purchaser parties identified therein (incorporated by reference to Exhibit 10.2 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2022). 
+
+10.43 
+ 
+ Certificate of Amendment to Amended and Restated Certificate of Incorporation of Specialty Renal Products, Inc., dated February 4, 2022 (incorporated by reference to Exhibit 10.3 to Nephros, Inc. s Quarterly Report on Form 10-Q for the quarter ended March 31, 2022). 
+
+21.1 
+ 
+ List of Subsidiaries of Nephros, Inc. 
+
+23.1 
+ 
+ Consent of Baker Tilly US, LLP Independent Registered Public Accounting Firm. 
+
+24.1 
+ 
+ Power of Attorney (included on the signature page). 
+
+31.1 
+ 
+ Certification by the Chief Executive Officer and Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+ 
+ Certification by the Chief Executive Officer and Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101 
+ 
+ Interactive
+ Data File. 
+
+Filed
+ herewith. 
+
+Management
+ contract or compensatory plan arrangement. 
+ 
+ + 
+ Confidential
+ treatment has been granted for certain portions omitted from this exhibit pursuant to Rule 24b-2 under the Securities Exchange Act
+ of 1934, as amended. 
+
+Item
+16. Form 10-K Summary 
+
+Not
+applicable. 
+
+66 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+NEPHROS,
+ INC. 
+ 
+ Date:
+ March 23, 2023 
+
+By: 
+ /s/
+ Andrew Astor 
+
+Name: 
+ Andrew
+ Astor 
+
+Title: 
+ President,
+ Chief Executive Officer and Chief Financial Officer (Principal Executive and Financial Officer) 
+
+POWER
+OF ATTORNEY 
+
+We,
+the undersigned directors and officers of Nephros, Inc., hereby severally constitute and lawfully appoint Andrew Astor, our true and
+lawful attorney-in-fact with full power to him to sign for us, in our names in the capacities indicated below, the Annual Report on Form
+10-K for the fiscal year ended December 31, 2022 of Nephros, Inc. and any and all amendments thereto, and to file the same with all exhibits
+thereto, and all other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorney-in-fact
+and agent, full power and authority to do and perform each and every act and thing requisite and necessary to be done, as fully to all
+intents and purposes as such person might or could do in person, hereby ratifying and confirming all that said attorney-in-fact and agent,
+or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Andrew Astor 
+ 
+ President,
+ Chief Executive Officer and Chief Financial Officer 
+ 
+ March 23, 2023 
+ 
+ Andrew
+ Astor 
+ 
+ (Principal
+ Executive and Financial Officer) 
+
+/s/
+ Arthur H. Amron 
+ 
+ Director 
+ 
+ March 23, 2023 
+ 
+ Arthur
+ H. Amron 
+
+/s/
+ Oliver Spandow 
+ 
+ Director 
+ 
+ March 23, 2023 
+ 
+ Oliver
+ Spandow 
+
+/s/
+ Alisa Lask 
+ 
+ Director 
+ 
+ March 23, 2023 
+ 
+ Alisa
+ Lask 
+
+/s/Joe
+ Harris 
+ 
+ Director 
+ 
+ March 23, 2023 
+ 
+ Joe
+ Harris 
+
+67 
+
+<EX-21.1>
+ 2
+ ex21-1.htm
+
+Exhibit 21.1 
+
+Subsidiaries of Nephros, Inc. 
+
+Name 
+ 
+ Jurisdiction 
+ 
+ Percentage
+ Equity 
+ 
+ Biocon
+ 1, LLC 
+ 
+ Nevada 
+ 
+ 100 
+ 
+ Aether
+ Water Systems, LLC 
+ 
+ Nevada 
+ 
+ 100 
+ 
+ Specialty
+ Renal Products, Inc. 
+ 
+ Delaware 
+ 
+ 62.5 
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ ex23-1.htm
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+We hereby consent to the incorporation by reference
+in the Registration Statements of Nephros, Inc. on Form S-8 (Nos 333-127264; 333-148236; 333-188592; 333-205167; 333-223849; 333-232707,
+333-238563 and 333-256712) and on Form S-3 (Nos 333-225109, 333-232708, 333-234528 and 333-259370), of our report dated March 23, 2023,
+relating to the consolidated financial statements of Nephros, Inc. and Subsidiaries, as of and for the years ended December 31, 2022 and
+2021, which appears in this Annual Report on Form 10-K for the year ended December 31, 2022. 
+
+/s/ Baker Tilly US, LLP 
+
+Tewksbury, Massachusetts 
+
+March 23, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ ex31-1.htm
+
+Exhibit 31.1 
+
+CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER AND CHIEF
+FINANCIAL OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+I, Andrew Astor, certify that: 
+
+(1) 
+ I have reviewed this Annual Report on Form 10-K of Nephros, Inc.; 
+
+(2) 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+(3) 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects, the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+(4) 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of the annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+(5) 
+ I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: March 23, 2023 
+
+/s/
+Andrew Astor 
+
+Andrew Astor 
+
+President, Chief Executive Officer and Chief Financial Officer 
+
+(Principal Executive and Financial Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 5
+ ex32-1.htm
+
+Exhibit 32.1 
+
+CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER AND CHIEF
+FINANCIAL OFFICER 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report on Form 10-K
+of Nephros, Inc. (the Company for the fiscal year ended December 31, 2022 as filed with the Securities and Exchange Commission
+on the date hereof (the Report ), I, Andrew Astor, President, Chief Executive Officer and Chief Financial Officer of the
+Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my
+knowledge: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: March 23, 2023 
+
+/s/ Andrew Astor 
+
+Andrew Astor 
+
+President, Chief Executive Officer and Chief Financial Officer 
+
+(Principal Executive and Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 6
+ neph-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ neph-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ neph-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ neph-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

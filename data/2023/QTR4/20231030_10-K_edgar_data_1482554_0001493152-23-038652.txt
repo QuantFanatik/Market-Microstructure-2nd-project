@@ -1,0 +1,2456 @@
+<Header>
+<FileStats>
+    <FileName>20231030_10-K_edgar_data_1482554_0001493152-23-038652.txt</FileName>
+    <GrossFileSize>4665622</GrossFileSize>
+    <NetFileSize>93314</NetFileSize>
+    <NonText_DocumentType_Chars>856400</NonText_DocumentType_Chars>
+    <HTML_Chars>1258635</HTML_Chars>
+    <XBRL_Chars>1009610</XBRL_Chars>
+    <XML_Chars>1329200</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-038652.hdr.sgml : 20231030
+<ACCEPTANCE-DATETIME>20231030143327
+ACCESSION NUMBER:		0001493152-23-038652
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		54
+CONFORMED PERIOD OF REPORT:	20230731
+FILED AS OF DATE:		20231030
+DATE AS OF CHANGE:		20231030
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hartford Great Health Corp.
+		CENTRAL INDEX KEY:			0001482554
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				205422795
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54439
+		FILM NUMBER:		231359643
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8832 GLENDON WAY
+		CITY:			ROSEMEAD
+		STATE:			CA
+		ZIP:			91770
+		BUSINESS PHONE:		626-656-6192
+
+	MAIL ADDRESS:	
+		STREET 1:		8832 GLENDON WAY
+		CITY:			ROSEMEAD
+		STATE:			CA
+		ZIP:			91770
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Photoamigo, Inc.
+		DATE OF NAME CHANGE:	20100128
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-038652.txt : 20231030
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 
+
+FORM
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended , 
+
+TRANSITION
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from _____ to _____ 
+
+Commission file number 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+ 
+ (I.R.S. Employer 
+ 
+ incorporation or organization) 
+ 
+ Identification No.) 
+
+, , 
+
+(Address of principal executive offices) 
+ 
+ (Zip Code) 
+
+Registrant s telephone number, including
+area code) 
+
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. No 
+
+Indicate by check mark whether the issuer (1) filed
+all reports required to be filed by Sections 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days. No 
+
+Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of
+this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+No 
+
+Indicate by checkmark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to
+the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. 
+
+January 31, 2023 the last business day of the Registrant s
+most recently completed second fiscal quarter, the aggregate market value of the voting common stock held by non-affiliates of the Registrant
+(without admitting that any person whose shares are not included in such calculation is an affiliate) was 
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See the definitions of large
+accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+
+Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. 
+
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based
+compensation received by any of the registrant s executive o cers during the relevant recovery period pursuant to
+ 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+
+OTC Markets Group 
+
+Securities registered pursuant to Section 12(g) of
+the Act: Common Stock, Par value 0.001 
+
+State the number of shares outstanding of each of
+the issuer s classes of common equity, as of the latest practicable date: shares of common stock outstanding as of October
+30, 2023. 
+
+TABLE OF CONTENTS 
+
+PART I 
+
+ITEM 1: 
+ BUSINESS 
+ 4 
+ 
+ ITEM 1A: 
+ RISK FACTORS 
+ 6 
+ 
+ ITEM 1B: 
+ UNRESOLVED STAFF COMMENTS 
+ 6 
+ 
+ ITEM 2: 
+ PROPERTIES 
+ 6 
+ 
+ ITEM 3: 
+ LEGAL PROCEEDINGS 
+ 6 
+ 
+ ITEM 4: 
+ MINE SAFETY DISCLOSURES 
+ 6 
+
+PART II 
+
+ITEM 5: 
+ MARKET FOR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND PURCHASES OF EQUITY SECURITIES 
+ 7 
+ 
+ ITEM 6: 
+ SELECTED FINANCIAL DATA 
+ 8 
+ 
+ ITEM 7: 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+ 9 
+ 
+ ITEM 7A. 
+ QUANTATIVE AND QUALATATIVE DISCLOSURES ABOUT MARKET RISK 
+ 13 
+ 
+ ITEM 8: 
+ FINANCIAL STATEMENTS 
+ 14 
+ 
+ ITEM 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 29 
+ 
+ ITEM 9A. 
+ CONTROLS AND PROCEDURES 
+ 29 
+ 
+ ITEM 9B: 
+ OTHER INFORMATION 
+ 30 
+
+PART III 
+
+ITEM 10: 
+ DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+ 30 
+ 
+ ITEM 11: 
+ EXECUTIVE COMPENSATION 
+ 32 
+ 
+ ITEM 12: 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 33 
+ 
+ ITEM 13: 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 33 
+ 
+ ITEM 14: 
+ PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 34 
+
+PART IV 
+
+ITEM 15: 
+ EXHIBITS 
+ 34 
+
+SIGNATURES 
+ 35 
+
+ADDITIONAL INFORMATION 
+
+Descriptions of agreements or other documents contained
+in this report are intended as summaries and are not necessarily complete. Please refer to the agreements or other documents filed or
+incorporated herein by reference as exhibits. Please see the exhibit index at the end of this report for a complete list of those exhibits. 
+
+2 
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This report contains forward-looking statements 
+within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are subject to risks and uncertainties and
+are based on the beliefs and assumptions of management and information currently available to management. The use of words such as believes ,
+ expects , anticipates , intends , plans , estimates , should ,
+ likely or similar expressions, indicates a forward-looking statement. 
+
+The identification in this report of factors that
+may affect future performance and the accuracy of forward-looking statements is meant to be illustrative and by no means exhaustive. All
+forward-looking statements should be evaluated with the understanding of their inherent uncertainty. 
+
+Factors that could cause actual results to differ
+materially from those expressed or implied by forward-looking statements include, but are not limited to: 
+
+The worldwide economic situation; 
+
+Any change in interest rates or inflation; 
+
+The willingness and ability of third parties to honor their contractual commitments; 
+
+The Company s ability to raise additional capital, as it may be affected by current conditions in the stock market and competition for risk capital; 
+
+The Company s capital costs, as they may be affected by delays or cost overruns; 
+
+The Company s costs of production; 
+
+Environmental and other regulations, as the same presently exist or may later be amended; 
+
+The Company s ability to identify, finance and integrate any future acquisitions; and 
+
+The volatility of the Company s stock price. 
+
+3 
+
+PART I 
+
+ITEM 1. BUSINESS. 
+
+General 
+
+Hartford Great Health Corp. the Company ,
+ Hartford we , us or our was incorporated in the State of Nevada on April 2, 2008 Inception)
+under the name PhotoAmigo, Inc. It changed its name to Hartford Great Health Corp. on August 20, 2018, and since then we have been engaged
+in activities to formulate and implement our business plan as set forth below. 
+
+Overview 
+
+Up until August 2018, we provided social networking
+and photo sharing from the website PhotoAmigo.com. We also maintained the domain names PhotoAmigo.net, fotoamigo.com and fotoamigo.net.
+These domain names all redirect incoming traffic to our main website, PhotoAmigo.com. 
+
+In August 2018, the Company changed its future plans
+of operations. Through its wholly owned subsidiary - Hangzhou Hartford Comprehensive Health Management, Ltd HZHF) and HZHF s
+60 percent owned subsidiary - Hangzhou Longjing Qiao Fu Vacation Hotel Co., Ltd. HZLJ ), and through Shanghai Hartford Comprehensive
+Health Management, Ltd. HFSH and its 90 percent owned subsidiary - Shanghai Qiao Garden International Travel Agency Qiao
+Garden Int l Travel ), the Company engages in hospitality industry in China. Qiao Garden Int l Travel was disposed on
+December 31, 2020, see note 4 Acquisitions and Disposals. 
+
+The Company started to engage in early childhood education
+industry at Hartford International Education Technology Co., Ltd HF Int l Education ). HFSH originally held 75.5 
+ownership of HF Int l Education and maintains control over HF Int l Education. During the board meeting in 2021, SH Jingyu
+and another noncontrolling shareholders sold a total of 14.5 equity at zero value to HFSH. As a result, HFSH holds 90 of HF Int l
+Education and a total of 10 equity is held by two individual noncontrolling shareholders. On July 24, 2019 and March 23, 2020, HF Int l
+Education established two 100 owned subsidiaries, Pudong Haojin Childhood Education Ltd. PDHJ and Shanghai Hongkou HaiDeFuDe
+Childcare Co., Ltd.( HDFD ), respectively, to operate the early childhood education service under the brand name of HaiDeFuDe 
+in Shanghai, China. On July 20, 2020, HF Int l Education entered an agreement with two individuals to acquire the whole ownership
+of Shanghai Gelinke Childcare Education Center Gelinke ). Gelinke temporally ceased its operations by the end of August
+2021. On August 31, 2021, PDHJ established one 96 owned subsidiary, Shanghai HDFD Zhongli Education Technology Co., Ltd. Zhongli ),
+two individual investors hold the remaining 4 ownership, see note 4 Acquisitions and Disposals. 
+
+In March 2021, HF Int l Education entered agreements
+with Hartford Health Management (Shanghai), Co. Ltd. HFHM ). HFHM purchased seven education intellectual property
+copy rights and ten HaiDeFuDe registered trademarks from HF Int l Education for a total amount of RMB1.2M and RMB1.0M,
+respectively. As a part of the purchase agreement, HFHM was originally agreed to be paid the 90 of gross tuition income from the three
+childcare centers. Due to impacts from the pandemic and new regulations issued by Chinese government in education industry, HF Int l
+Education occurred significant loss from operation. Both parties mutually agreed to amend the fee to 20 on July 2022, the amended rate
+is retrospectively applicable to June 1, 2021. 
+
+The following business plan was based on research
+and discussions between the board and third party suppliers and experts. Only preliminary activities relating to the following objectives
+have been undertaken and therefore, there is no assurance that any of the proposed activities set forth below will be started by the Company
+or if started will be successful. 
+
+Strategy 
+
+The initial plan focuses on the development
+of the Sino-U.S. health industry in the following four areas: 
+
+A. International Anti-Aging Membership Program, 
+
+ B. Artificial Intelligence and Medical Equipment
+Sales, 
+
+ C. Mobile Lifestyle Health Wellness
+Management Platform, 
+
+ D. Integrated Health Management of Metabolic
+Diseases. 
+
+The Company has also expanded its strategy into the
+hospitality industry, focusing on hotels, restaurants, and travel arrangements. The Company plans to integrate hospitality with health
+management through its membership-based program by arranging travel accommodations for Chinese citizen members to the United States to
+obtain stem cell beauty treatments. 
+
+The initial plan in early 2019 that focused on the
+development of the Sino-U.S. health industry in the areas of International Anti-Aging membership based program; Artificial Intelligence
+and Medical Equipment Sales; Mobile Lifestyle Management Platform; and Integrated management of metabolic diseases have been put on hold
+due to economic uncertainties caused by the increasing tension between the US and China international relation. 
+
+4 
+
+Near the end of 2019, the Company has found another
+opportunity to expand its market reach in the Chinese childhood education industry. The Company plans to formulate a proprietary early
+childhood education center management model beginning with the opening of several early childhood education centers in the greater Shanghai
+area with the goal of demonstrating the management model in action in order to attract interest from potential franchisees. Currently,
+there are three early child education and development center in operation despite the economic slowdown during the pandemic. The Three-child
+policy announced on May 1, 2021, by Chinese government further increases the market opportunities in early childhood education
+industry. On July 24, 2021, the Chinese government announced a Double-Reduction education policy to be taken effective on
+August 31, 2021. This new education policy has since impacted the Company s early childhood education business. Due to China s
+zero-Covid policy implementation during the pandemic as well as Covid-19 lockdown for over two months in Greater Shanghai, childcare and
+childhood education center were forced to halt operations; therefore, the Company decides to divert its plan from childcare and childhood
+educational development industry. On August 1, 2022, HFSH entered a contract with a related party, Shanghai Oversea Chinese Culture Media
+Ltd. SH Oversea ), to sell 90 percent ownership of HF Int l Education and its subsidiaries for 900 (RMB 5,850). On
+August 1, 2022, HFUS entered a contract with SH Oversea and another individual, to sell 100 percent ownership of HZHF and its subsidiaries
+for 1,000 (RMB 6,500). The company s sole subsidiary, HFSH is currently working with herbal manufacturers to develop new herbal
+health supplement products for wholesale distribution in China. Due to deflation in China, the expected marketing and product launch date
+has been pushed back towards end of this year. 
+
+There can be no assurance following consummation of
+any of the business ventures will develop into a going concern or, if the business is already operating, that it will continue to operate
+successfully. Many of the potential business opportunities available to the Company may involve new and untested products, processes or
+market strategies which may not ultimately prove successful. 
+
+The Company s independent auditors have issued
+a report raising substantial doubt about the Company s ability to continue as a going concern. At present, the Company has limited
+operations and the continuation of the Company as a going concern is dependent upon financial support from its stockholders, its ability
+to obtain necessary equity financing to continue operations and/or to successfully locate and negotiate with a business entity for the
+combination of that target company with the Company. There is no assurance that the Company will ever be profitable. 
+
+5 
+
+Employees 
+
+As of October 30, 2023, we have 5 employees. 
+
+ITEM 1A. RISK FACTORS 
+
+As a smaller reporting company as defined
+by Item 8 of Regulation S-K, the Company is not required to provide information required by this Item. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM 2. PROPERTIES 
+
+Hartford Great Health Corp. uses the offices of its
+Chief Executive Officer, at 8832 Glendon Way, Rosemead, CA 91770, for its minimal office facility needs for no consideration. 
+
+Due to the discontinued operation in August 2022,
+we currently do not lease or own any real property. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+We were not subject to any other legal proceedings
+during the twelve months ended July 31, 2023, and are not currently subject to any legal proceedings, and to the best of our knowledge,
+no such proceeding is threatened, the results of which would have a material impact on our results of operation or financial condition.
+Nor, to the best of our knowledge, are any of our officers or directors involved in any legal proceedings in which we are an adverse party. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+Not applicable to our Company. 
+
+6 
+
+PART II 
+
+ITEM 5. MARKET FOR COMMON EQUITY. RELATED STOCKHOLDER
+MATTERS AND PURCHASES OF EQUITY SECURITIES 
+
+Market Information 
+
+There has only been limited trading for the Company s
+Common Stock since it was quoted on OTC Markets. There is no assurance that an active trading market will ever develop or, if such a market
+does develop, that it will continue. The Securities and Exchange Commission has adopted Rule 15g-9 which establishes the definition of
+a penny stock, for purposes relevant to the Company, as any equity security that has a market price of less than 5.00 per
+share or with an exercise price of less than 5.00 per share, subject to certain exceptions. For any transaction involving a penny stock,
+unless exempt, the rules require: (i) that a broker or dealer approve a person s account for transactions in penny stocks and (ii)
+the broker or dealer receive from the investor a written agreement to the transaction, setting forth the identity and quantity of the
+penny stock to be purchased. In order to approve a person s account for transactions in penny stocks, the broker or dealer must
+(i) obtain financial information and investment experience and objectives of the person and (ii) make a reasonable determination that
+the transactions in penny stocks are suitable for that person and that person has sufficient knowledge and experience in financial matters
+to be capable of evaluating the risks of transactions in penny stocks. The broker or dealer must also deliver, prior to any transaction
+in a penny stock, a disclosure schedule prepared by the Commission relating to the penny stock market, which, in highlight form, (i) sets
+forth the basis on which the broker or dealer made the suitability determination and (ii) that the broker or dealer received a signed,
+written agreement from the investor prior to the transaction. Disclosure also has to be made about the risks of investing in penny stocks
+in both public offerings and in secondary trading, and about commissions payable to both the broker-dealer and the registered representative,
+current quotations for the securities and the rights and remedies available to an investor in cases of fraud in penny stock transactions.
+Finally, monthly statements have to be sent disclosing recent price information for the penny stock held in the account and information
+on the limited market in penny stocks. 
+
+Because of these regulations, broker-dealers may encounter
+difficulties in their attempt to buy or sell shares of our common stock, which may affect the ability of our shareholders to sell their
+shares in the secondary market and have the effect of reducing the level of trading activity in the secondary market. These additional
+sales practice and disclosure requirements could impede the sale of our common stock in the market place. In addition, the liquidity for
+our common stock may be decreased, with a corresponding decrease in the price of our common stock. Our shares are likely to be subject
+to such penny stock rules for the foreseeable future. 
+
+On October 30, 2023, the closing price of our
+common stock reported on the OTC Markets was 0.88 per share. The following table sets forth, for each of the quarterly periods indicated,
+the high and low sales prices of our common stock, as reported on the OTC Markets. 
+
+Fiscal 2023 
+ Low 
+ High 
+ 
+ First Quarter 
+ 0.16 
+ 0.16 
+ 
+ Second Quarter 
+ 0.16 
+ 0.16 
+ 
+ Third Quarter 
+ 0.03 
+ 1.10 
+ 
+ Fourth Quarter 
+ 0.88 
+ 1.10 
+
+Fiscal 2024 
+ Low 
+ High 
+ 
+ First Quarter 
+ 0.88 
+ 0.88 
+
+Holders 
+
+As of October 30, 2023, a total of 100,108,000 shares
+of our common stock were outstanding and there were approximately 52 holders of record. 
+
+7 
+
+Penny Stock Rules 
+
+Due to the price of our common stock, as well as the
+fact that we are not listed on Nasdaq or a national securities exchange, our stock is characterized as penny stocks under
+applicable securities regulations. Our stock will therefore be subject to rules adopted by the Securities and Exchange Commission SEC regulating broker-dealer practices in connection with transactions in penny stocks. The broker or dealer proposing to affect a transaction
+in a penny stock must furnish his customer a document containing information prescribed by the SEC and obtain from the customer an executed
+acknowledgment of receipt of that document. The broker or dealer must also provide the customer with pricing information regarding the
+security prior to the transaction and with the written confirmation of the transaction. The broker or dealer must also disclose the aggregate
+amount of any compensation received or receivable by him in connection with such transaction prior to consummating the transaction and
+with the written confirmation of the trade. The broker or dealer must also send an account statement to each customer for which he has
+executed a transaction in a penny stock each month in which such security is held for the customer s account. The existence of these
+rules may have an effect on the price of our stock, and the willingness of certain brokers to effect transactions in our stock. 
+
+Transfer Agent 
+
+We have appointed Signature Stock Transfer, Inc.,
+as the transfer agent for our common stock. The principal office of Signature Stock Transfer is located at 16801 Addison Road, Suite 247,
+Addison, Texas 75001 and its telephone number is (972) 612-4120. 
+
+Dividend Policy 
+
+We have never declared or paid dividends on our common
+stock. Payment of future dividends, if any, will be at the discretion of our Board of Directors after taking into account various factors,
+including the terms of any credit arrangements, our financial condition, operating results, current and anticipated cash needs and plans
+for expansion. At the present time, we intend to retain any earning in our business, and therefore do not anticipate paying dividends
+in the foreseeable future. 
+
+Recent Sales of Unregistered Securities; Use of
+Proceeds from Unregistered Securities 
+
+None 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+As a smaller reporting company as defined
+by Item 8 of Regulation S-K, the Company is not required to provide information required by this Item. 
+
+8 
+
+ITEM 7. MANAGEMENTS S DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+
+The following discussion and analysis were prepared
+to supplement information contained in the accompanying financial statements and is intended to explain certain items regarding the financial
+condition as of July 31, 2023, and the results of operations for the years ended July 31, 2023, and 2022. It should be read in conjunction
+with the audited financial statements and notes thereto contained in this report. 
+
+Overview of the Business 
+
+Hartford Great Health Corp. was originally incorporated
+in the State of Nevada on April 2, 2008, under the name PhotoAmigo, Inc. It changed its name to Hartford Great Health Corp. on August
+22, 2018, and since then we have been engaged in activities to formulate and implement our business plan as set forth below. 
+
+Ability to continue as a going concern . 
+
+The independent registered public accounting firms 
+reports on our financial statements as of July 31, 2023 and 2022, includes a going concern explanatory paragraph that describes
+substantial doubt about the Company s ability to continue as a going concern. Management s plans in regard to the factors
+prompting the explanatory paragraph are discussed in the financial statements, including footnotes thereto. 
+
+Plan of Operation 
+
+As of July 31, 2023, the company has issued a total
+of 100,108,000 shares of common stock. On December 11, 2018, 96,090,000 shares of common stock were issued at the price of 0.02 per share
+to raise an additional 1,921,800 in capital. On November 24, 2020, the Company issued additional 1,000,000 shares of common stock to
+a significant shareholder of the Company at 0.02 per share. 
+
+On December 28, 2018, the Company acquired Hangzhou
+Hartford Comprehensive Health Management, Ltd HZHF ). On March 22, 2019, the Company acquired 60 percent of Hangzhou Longjing
+Qiao Fu Vacation Hotel Co., Ltd. HZLJ ). On March 20, 2019, the Company acquired Shanghai Hartford Comprehensive Health
+Management, Ltd. HFSH with 90 percent of Shanghai Qiao Garden International Travel Agency Qiao Garden Int l
+Travel ), which was disposed on December 31, 2020, and formed a joint venture entity, Hartford International Education Technology
+Co., Ltd HF Int l Education ). 
+
+The subsidiary of HFUS in Shanghai (HFSH) advances
+operating funds from two related party entities, SH Qiao Hong and SH Oversea Chinese Culture Media Ltd. The main purpose of the funding
+is to invest in Hartford International Education Technology (Shanghai) Co., Ltd. (HF Int l Education). Upon signing of supplemental
+agreement, HFUS currently holds 75.5 ownership of HF Int l Education and maintains control over HF Int l Education. On July
+24, 2019, HF Int l Education established a 100 owned subsidiary, Pudong Haojin Childhood Education Ltd. PDHJ ). On
+October 28, 2019, PDHJ had its childhood education center opened. On March 23, 2020, HF Int l Education established Shanghai Hongkou
+HaiDeFuDe Childcare Co., Ltd.( HDFD and was approved the business license to conduct childcare operations in Shanghai, China.
+On July 20, 2020, HF Int l Education entered an agreement with two individuals to acquire the whole ownership of Shanghai Gelinke
+Childcare Education Center Gelinke ). During the board meeting, SH Jingyu and another noncontrolling shareholders also sold
+a total of 14.5 equity at zero value to HFSH. As a result, HFSH holds 90 of HF Int l Education and a total of 10 equity is held
+by two individual noncontrolling shareholders. 
+
+HF Int l Education has developed an enhanced
+model of childcare franchise management program and registered a new brand name, HaiDeFuDe . HF Int l Education has
+recruited a team of knowledgeable childcare teachers to develop series of independent textbooks designed to targeted age of young children
+and register for the copyrights for these textbooks in September of 2020. Since then, HF Int l Education has begun marketing and
+promoting the enhanced model of franchise operation and management packaged program, under HaiDeFuDe brand, to an initial
+of 50 franchisees throughout different regions of China. To achieve that, HF Int l Education has incorporated existing market resources
+throughout other major cities and provinces in China. The promotion of HF Int l Education franchise operation and management model
+was expected to attract other childcare education centers to join the HaiDeFuDe brand, and HF Int l Education expected
+to generate revenue from franchise and management fees. 
+
+9 
+
+Due to continued market uncertainties during the pandemic,
+the board of HFSH adopted a new management approach to ease cash flow and reduce operation loss. In March 2021, HF Int l Education
+entered agreements with Hartford Health Management (Shanghai), Co. Ltd. HFHM ). HFHM purchased seven education intellectual
+property copy rights and ten HaiDeFuDe registered trademarks from HF Int l Education for a total amount of RMB1.2M
+and RMB1.0M, respectively. In June 2021, HF Int l Education and its three subsidiaries entered license agreements with HFHM for
+the rights to use the intellectual Properties (the IPs HFHM owns. The IPs cover in the license agreements are four sets
+of curriculum structure designed and fifteen trademarks including HaiDeFuDe registered trademarks purchased from HF Int l
+Education. As a return, on a monthly basis, HF Int l Education and its subsidiaries pays 20 of its tuition revenue generated to
+HFHM as license usage fee. 
+
+However, due to China s continual of zero-Covid
+policy implementation this year as well as Covid-19 lockdown for over two months in Greater Shanghai, childcare and childhood education
+center were forced to halt operations; therefore, the Company decides to divert its plan from childcare and childhood educational development
+industry. On August 1, 2022, HFSH entered a contract with a related party, Shanghai Oversea Chinese Culture Media Ltd. SH Oversea ),
+to sell 90 percent ownership of HF Int l Education and its subsidiaries for 900 (RMB 5,850). On August 1, 2022, HFUS entered a
+contract with SH Oversea and another individual, to sell 100 percent ownership of HZHF and its subsidiaries for 1,000 (RMB 6,500). The
+company s sole subsidiary, HFSH is currently working with herbal manufacturers to develop new herbal health supplement products
+for wholesale distribution in China. The expected marketing and product launch date is push out to end of this year due to deflation in
+China. 
+
+Liquidity and Capital Resources 
+
+As of July 31, 2023, we had negative working capital
+of 4,490,436 comprised of current assets of 7,037 and current liabilities of 4,497,473. This represents a decrease of 1,950,219 in
+the working capital balance from the July 31, 2022 negative amount of 6,440,655. The decrease was primarily because the disposal of operations
+in hospitality housing and childhood education care services on August 1, 2022. see note 4 Acquisitions and Disposals. 
+
+We believe that our funding requirements for the next
+twelve months will be in excess of 175,000. We are currently seeking for further funding through related parties loan and finance. 
+
+As of July 31, 2023, the company has issued a total
+of 100,108,000 shares of common stock. On December 11, 2018, 96,090,000 shares of common stock were issued at the price of 0.02 per share
+to raise an additional 1,921,800 in capital. On November 24, 2020, the Company issued additional 1,000,000 shares of common stock to
+a significant shareholder of the Company at 0.02 per share. 
+
+We will seek additional financing in the form of debt
+or equity. There is no assurance that we will be able to obtain any needed financing on favorable terms, or at all, or that we will find
+qualified purchasers for the sale of our stock. Any sales of our securities would dilute the ownership of our existing investors. 
+
+Cash Flows Year Ended July 31, 2023 Compared
+to Year Ended July 31, 2022 
+
+Operating Activities 
+
+During the year ended July 31, 2023, 123,363 used
+in operating activities compared to 860,832 used in the operations during the year ended July 31, 2022. 
+
+During the year ended July 31, 2023, we recorded net
+income of 396,903, adjusted by subsidiary disposal gain of 539,230, related party payables increased by 17,789 as a result of interest
+accrued for related party notes payable and offset by other current payable decreased by 6,628. 
+
+During the year ended July 31, 2022, we recorded loss
+from continuing operation of 190,430, other current payable increased by 9,564, related party payables net with receivables decreased
+by 2,500, and 677,466 net cash used in operating activities from discontinued operations. 
+
+10 
+
+Investing activities 
+
+The cash used in investing activities was 4,938 for the year
+ended July 31, 2023 as a result of the disposal of the subsidiaries. see note 4 Acquisitions and Disposals. 
+
+Cash used in investing activities was 145,048 for
+the year ended July 31, 2022. The cash used in investing activities was primarily due to the expenditure of leasehold improvements in
+HF Int l Education, one of the discontinued operations. 
+
+Financing activities 
+
+Cash provided by financing activities was 115,568 
+for the year ended July 31, 2023 as compared to 972,267 cash provided by financing activities for the year ended July 31, 2022. The cash
+flows provided by financing activities during the year ended July 31, 2023 was from the proceeds of notes payable and funding support
+from related parties. The notes payable was borrowed from one related party with 5 annual interest rate. See Note 6 Related Party Transactions. 
+
+The cash flows provided by financing activities for
+year ended July 31,2022 was primarily attributable to 788,673 funding support from related parties, 145,000 proceeds of notes payable
+and 38,594 net cash provided by financing activities from discontinued operations. The notes payable was borrowed from one related party
+with 5 annual interest rate. 
+
+Equity and Capital Resources 
+
+We have incurred losses since inception of our business
+and, as of July 31, 2023, we had an accumulated deficit of 7,003,717 compared to 7,400,620 at the previous year end. To date, we have
+funded our operations through short-term debt and equity financing. 
+
+Impacted by Covid-19 pandemic and the government regulation
+implemented in education industry and the restrictions posted by the Chinese government to control the pandemic in China since 2021, to
+avoid further operation losses, on August 1, 2022, we disposed the main operational entities in China. Consequently, we are dependent
+on the proceeds from future debt or equity investments to implement our future business plan. If we are unable to raise sufficient capital,
+we will be required to delay or forego most of our business plan, which would have a material adverse effect on our anticipated results
+from operations and financial condition. There is no assurance that we will be able to obtain necessary amounts of additional capital
+or that our estimates of our capital requirements will prove to be accurate. 
+
+Future Capital Expenditures 
+
+As of July 31, 2023, we have no future capital expenditures
+plan for next twelve months. 
+
+Off-Balance Sheet Arrangements 
+
+As of and subsequent to July 31, 2023, we have no
+off-balance sheet arrangements. 
+
+Contractual Commitments 
+
+As of July 31, 2023, we have no material contractual
+commitments. 
+
+11 
+
+Results of Operations- Year Ended July 31, 2023
+Compared to Year Ended July 31, 2022 
+
+Operating Expenses: Operating expenses
+decreased to 123,650 for the year ended July 31, 2023, compared to 177,913 during the comparable period of 2022. The decrease of operating
+expenses was due to the reduction of payroll and professional expenses occurred in US as a result of the downsize of business operation. 
+
+Other Income (Expense): Other expense,
+net amount of 521,353 for the year ended July 31, 2023, compared to 11,717 of other expense for the corresponding period of 2022. Other
+income for the year ended July 31, 2023 was mainly resulted from the gain on disposal of subsidiaries offset by interest expenses. Other
+expense for the year ended July 31, 2022 was mainly resulted from interest expenses. 
+
+Net income (loss) from continuing operations:
+ Net income from continuing operations increased to 396,903 for the year ended July 31, 2023, compared to net loss from continuing
+operations of 190,430 for the corresponding period of 2022 as result of above. 
+
+Net Loss from discontinued operations, net of
+tax: We realized 1,582,152 net operation loss, including 561,262 revenue, 677,093 cost of revenue and 1,579,922 operating
+expenses and 113,601 other income for the year ended July 31, 2022, from two industry segments, the hospitality housing in HZLJ and childhood
+education care services in HF Int l Education. These two business operations have been disposed on August 1, 2022. (see note 4 Acquisitions
+and Disposals) 
+
+Net Loss Attributable to Noncontrolling Interest:
+ For the year ended July 31, 2023, zero net loss attributable to Noncontrolling interest of compared to 193,481 for the corresponding
+period of 2022. The loss was allocated based on the ownership percentage of noncontrolling interest. (see note 4 Acquisitions and Disposals) 
+
+Net income (loss) Attributable to Hartford Great
+Health Corp: We recorded a net income of 396,903 or 0.00 per share for the year ended July 31, 2023, compared to a net loss
+of 1,579,101 or (0.02) per share for the year ended July 31, 2022, a decrease in losses of 1,976,004 due to the factors discussed
+above. 
+
+12 
+
+Accounting Policies and Pronouncements 
+
+Critical Accounting Policies and Estimates 
+
+Our consolidated financial statements are prepared
+in accordance with GAAP. GAAP requires us to make estimates and assumptions that affect the reported amounts in our consolidated financial
+statements. Critical accounting estimates are those that management believes are the most important to the portrayal of our financial
+condition and results and require the most difficult, subjective or complex judgments, often as a result of the need to make estimates
+about the effect of matters that are inherently uncertain and that have had, or are reasonably likely to have, a material impact on our
+financial condition or results of operations. Judgments and uncertainties may result in materially different amounts being reported under
+different conditions or using different assumptions. See Part II, Item 8 Financial Statements Note 1 Summary
+of Significant Accounting Policies for a summary of our significant accounting policies. 
+
+The following summarizes our most significant critical
+accounting estimates: 
+
+Foreign Currency: The accounts of the Company s
+foreign subsidiaries are translated in accordance with FASB ASC 830. Foreign currency transaction gains and losses are recognized in other
+expense, net, at the time they occur. Net foreign currency exchange gains or losses resulting from the translation of assets and liabilities
+of foreign subsidiaries whose functional currency is not the U.S. dollar are recorded as a part of accumulated other comprehensive loss
+in stockholders equity. The Company does not undertake hedging transactions to cover its foreign currency exposure. 
+
+Revenue Recognition: The Company adopted ASC
+Topic 606 Revenue from Contracts with Customers Topic 606) on August 1, 2019, applying the modified retrospective method to all
+contracts that were not completed as of August 1, 2019. Revenue is recognized when control of promised goods or services is transferred
+to our customers in an amount of consideration to which we expect to be entitled to in exchange for those goods or services. We follow
+the five steps approach for revenue recognition under Topic 606: (i) identify the contract(s) with a customer, (ii) identify the performance
+obligations in the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations
+in the contract, and (v) recognize revenue when (or as) we satisfy a performance obligation. Billings to customers for which services
+are not rendered are considered deferred revenue. ASC 606 has no material impacts on the Company s financial positions. The Company s
+revenue is recognized when it satisfies a single performance obligation by transferring control of its products or providing services
+to a customer. The Company s general payment terms are short-term in duration. The Company does not have significant financing components
+or payment terms. 
+
+a. 
+ Early childhood education services: HF Int l Education generates revenue from childhood education classes provided to its customers. The educational services consist of parent-child and bilingual childcare classes. Each contract of educational classes is accounted for as a single performance obligation which is satisfied proportionately over the service period. Tuition fee is generally collected in advance and is initially recorded as deferred revenue and transferred to contract liabilities after trial period. Refunds are provided to parents if they decide within the trial period that they no longer want to take the class. After the trial period, if a parent withdraws from a class, usually only that unearned portion of the fee is available to be returned. Nil of revenue has been generated during the year end July 31, 2023. For the year ended July 31, 2022, 509,920 of revenue were derived from early childhood education classes provided. 
+
+b. 
+ Hospitality services: HZLJ generates revenue primarily from the room rentals, sale of food and beverage and other miscellaneous hospitality services. The Company recognizes room rental and services daily as services are provided. Under ASC 606, the pattern and timing of recognition of income from hotel facility is consistent with the prior accounting model. 
+
+Impacted by the Covid-19 pandemic and Chinese regulation
+on education industry, both early childhood education services and hospitality services have been sold on August 1, 2022. Thus, there
+was no revenue recognized from the two-revenue-stream for the year ended July 31, 2023. 
+
+Recent Accounting Pronouncements. 
+
+See Part II, Item 8 Financial Statements
+ Note 1 Summary of Significant Accounting Policies Recent Accounting Pronouncements for a full description
+of recent accounting pronouncements including the respective expected dates of adoption and expected effects on the Company s consolidated
+financial position, results of operations or liquidity. 
+
+Item 7A. Quantitative and Qualitative Disclosures
+About Market Risk 
+
+As a smaller reporting Company as defined
+by Item 8 of Regulation S-K, the Company is not required to provide information required by this Item. 
+
+13 
+
+ITEM 8. FINANCIAL STATEMENTS 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+Shareholders and Board of Directors 
+
+ Hartford Great Health Corp. 
+
+Opinion on the Consolidated Financial Statements 
+
+We have audited the accompanying consolidated balance
+sheets of Hartford Great Health Corp. and subsidiary (the Company as of July 31, 2023 and 2022, the related consolidated
+statements of operation and comprehensive income (loss), changes in stockholders deficit and cash flows for each of the two years
+in the period ended July 31, 2023, and the related notes to the consolidated financial statements. In our opinion, the consolidated financial
+statements present fairly, in all material respects, the financial position of the Company as of July 31, 2023 and 2022, and the results
+of its operations and its cash flows for each of the two years in the period ended July 31, 2023 , in conformity with accounting
+principles generally accepted in the United States of America. 
+
+Going Concern Uncertainty 
+
+The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern. As described in Note 2 to the consolidated financial statements,
+the Company has suffered recurring losses from operations and has a net capital deficiency that raise substantial doubt about its ability
+to continue as a going concern. Management s evaluation of the events and conditions and management s plans regarding these
+matters are also described in Note 2. The consolidated financial statements do not include any adjustments that might result from the
+outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements
+based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide
+a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is a
+matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated
+to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and
+(2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters. 
+
+/s/ 
+
+We have served as the Company s auditor since
+2019. 
+
+ PCAOB ID: 
+
+October 30, 2023 
+
+14 
+
+HARTFORD GREAT HEALTH CORP. 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+July 31, 2023 
+ July 31, 2022 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash and cash equivalents 
+
+Prepaid and Other current receivables 
+
+Related party receivable 
+
+Current assets held for sale 
+ - 
+
+Total Current Assets 
+
+Non-current Assets 
+
+Property and equipment, net 
+
+Total Non-current Assets 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current Liabilities 
+
+Related party loan and payables 
+
+Other current payable 
+
+Current liabilities held for sale 
+ - 
+
+Total Current Liabilities 
+
+Long-term liabilities held for sale 
+ - 
+ - 
+ 
+ TOTAL LIABILITIES 
+
+Commitments and contingencies 
+ - 
+ - 
+ 
+ Stockholders Deficit 
+
+Preferred stock - par value, shares authorized, shares issued and outstanding 
+ - 
+ - 
+ 
+ Common stock - par value, shares authorized, shares outstanding at both of July 31, 2023 and 2022. 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Accumulated other comprehensive loss 
+
+Noncontrolling interest 
+ - 
+
+Total Stockholders Deficit 
+
+TOTAL LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+15 
+
+HARTFORD GREAT HEALTH CORP. 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+2023 
+ 2022 
+
+Years ended July 31, 
+
+2023 
+ 2022 
+ 
+ Selling, general and administrative 
+
+Total operating cost and expenses 
+
+Operating Loss 
+
+Other Income (Expense) 
+
+Interest (expense) income, net 
+
+Gain on disposal of subsidiaries 
+ 
+ - 
+ 
+ Other income, net 
+
+Other (expense) income, net 
+
+(Loss) income before income taxes 
+
+Income Tax Expense 
+
+Net (loss) income from continuing operations 
+
+Less: net income from continuing operations attributable to noncontrolling Interest 
+ - 
+ - 
+ 
+ Net (loss) income from continuing operations Attributable to Hartford Great Health Corp 
+
+Income loss from discontinued operations, net of income taxes 
+ - 
+
+Less: net loss from discontinued operations attributable to noncontrolling Interest 
+ - 
+
+Net loss from discontinued operations Attributable to Hartford Great Health Corp 
+ - 
+
+Net loss per common share: 
+
+Continuing operations 
+
+Discontinued operations 
+ - 
+
+Basic and Diluted 
+
+Weighted average shares outstanding: 
+
+Basic and diluted 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+16 
+
+HARTFORD GREAT HEALTH CORP. 
+
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(LOSS) 
+
+2023 
+ 2022 
+
+Years ended July 31, 
+
+2023 
+ 2022 
+ 
+ Net income (Loss) 
+
+Other Comprehensive income, net of income tax 
+
+Foreign currency translation adjustments 
+
+Total other comprehensive income 
+
+Less: total other comprehensive (loss) income attributable to noncontrolling interest 
+
+Total Other Comprehensive income Attributable to Hartford Great Health Corp 
+
+Total Comprehensive income (loss) 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+17 
+
+HARTFORD GREAT HEALTH CORP. 
+
+ CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS 
+EQUITY (DEFICIT) 
+
+ for the years ended July 31, 2023 and 2022 
+
+Shares 
+ Amount 
+ Capital 
+ (Deficit) 
+ loss 
+ Interest 
+ (Deficit) 
+
+Accumulated 
+ 
+ Total 
+
+Additional 
+ 
+ Other 
+ 
+ Stockholders 
+
+Common Stock 
+ Paid - in 
+ Accumulated 
+ Comprehensive 
+ Noncontrolling 
+ Equity 
+
+Shares 
+ Amount 
+ Capital 
+ (Deficit) 
+ loss 
+ Interest 
+ (Deficit) 
+ 
+ Balance, July 31, 2021 
+
+Net (loss) from continuing operations 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Net (loss) from discontinued operations 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Investment from noncontrolling interest 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Foreign currency translation adjustment 
+ - 
+ - 
+ - 
+ - 
+
+Balance, July 31, 2022 
+
+Balance 
+
+Net income 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Net (loss) from continuing operations 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Disposal of subsidiaries 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Foreign currency translation adjustment 
+ - 
+ - 
+ - 
+ - 
+
+Balance, July 31, 2023 
+
+- 
+
+Balance 
+
+- 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+18 
+
+HARTFORD GREAT HEALTH CORP. 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+2023 
+ 2022 
+
+Years ended July 31, 
+
+2023 
+ 2022 
+ 
+ Cash flows from operating activities: 
+
+Net income (loss) 
+
+Adjustments to reconcile net income (loss) to net cash used in operating activities: 
+
+Depreciation 
+ 
+ - 
+ 
+ Disposal of subsidiaries 
+ 
+ - 
+ 
+ Changes in operating assets and liabilities: 
+
+Prepaid and Other current receivables 
+ 
+ - 
+ 
+ Related party receivables and payables 
+
+Other current payable 
+
+Net cash (used in) provided by operating activities from continuing operations 
+
+Net cash used in operating activities from discontinued operations 
+ - 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities: 
+
+Disposal of subsidiaries 
+ 
+ - 
+ 
+ Net cash used in investing activities from continuing operations 
+ 
+ - 
+ 
+ Net cash used in investing activities from discontinued operations 
+ - 
+
+Net cash used in investing activities 
+
+Cash flows from financing activities: 
+
+Proceeds of related party notes payable 
+
+Advances from related parties 
+
+Net cash provided by financing activities from continuing operations 
+
+Net cash provided by financing activities from discontinued operations 
+ - 
+
+Net cash provided by financing activities 
+
+Effect of exchange rate changes on cash from continuing operations 
+
+Effect of exchange rate changes on cash from discontinued operations 
+ - 
+
+Net change in Cash and cash equivalents from continuing operations 
+
+Net change in Cash and cash equivalents from discontinued operations 
+ - 
+
+Cash and cash equivalents at beginning of period 
+
+Cash and cash equivalents at end of period 
+
+Supplemental Cash Flow Information 
+
+Interest paid 
+ - 
+ - 
+ 
+ Income taxes paid 
+
+As of July 31, 2022, Cash and cash equivalents consisted held by continuing operations and held for sales which was included as current assets held for sale on balance sheet. 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+19 
+
+HARTFORD GREAT HEALTH CORP. 
+
+ Notes to Financial Statements 
+
+ For the Years Ended July 31, 2023 and 2022 
+
+percent owned subsidiary - Hangzhou Longjing Qiao Fu Vacation Hotel
+Co., Ltd. HZLJ ), and through Shanghai Hartford Comprehensive Health Management, Ltd. HFSH and its percent
+owned subsidiary - Shanghai Qiao Garden International Travel Agency Qiao Garden Int l Travel ), the Company engages
+in hospitality industry in China. Qiao Garden Int l Travel was disposed on December 31, 2020, see note 4 Acquisitions and Disposals. 
+
+The Company started to engage in early childhood education
+industry at Hartford International Education Technology Co., Ltd HF Int l Education ). On July 24, 2019 and March
+23, 2020, HF Int l Education established two owned subsidiaries, Pudong Haojin Childhood Education Ltd. PDHJ and Shanghai Hongkou HaiDeFuDe Childcare Co., Ltd.( HDFD ), respectively, to operate the early childhood education service
+under the brand name of HaiDeFuDe in Shanghai, China. On July 20, 2020, HF Int l Education entered an agreement with
+two individuals to acquire the whole ownership of Shanghai Gelinke Childcare Education Center Gelinke ). Gelinke temporally
+ceased its operations by the end of August 2021. On August 31, 2021, PDHJ established one owned subsidiary, Shanghai HDFD Zhongli
+Education Technology Co., Ltd. Zhongli ), two individual investors hold the remaining ownership, see note 4 Acquisitions
+and Disposals. 
+
+Impacted by the government regulation implemented
+in education industry and the restrictions posted by the Chinese government to control the pandemic in China since 2021, to avoid further
+operation losses, on August 1, 2022, HFSH entered a contract with a related party, Shanghai Oversea Chinese Culture Media Ltd. SH
+Oversea ), to sell percent ownership of HF Int l Education and its subsidiaries for (RMB ). On August 1, 2022,
+HFUS entered a contract with SH Oversea and another individual, to sell percent ownership of HZHF and its subsidiaries for 
+(RMB ). See note 4 Acquisitions and Disposals. 
+
+insured by the People s
+Bank of China Financial Stability Bureau FSD ). In the United States, the standard insurance amount is USD per depositor
+in a bank insured by the Federal Deposit Insurance Corporation FDIC ). Financial instruments that potentially subject the
+Company to significant concentrations of credit risk are cash and cash equivalents and accounts receivable. As of July 31, 2023 and 2022,
+respectively, none of the Company s cash and cash equivalents held by financial institutions was uninsured. With respect to accounts
+receivable, the Company generally does not require collateral and does not have an allowance for doubtful accounts. 
+
+- 
+ 
+ Office equipment and vehicles 
+ 
+ - 
+ 
+ Computer software 
+ 
+ - 
+
+Expenditures for repairs and maintenance are charged
+to expense as incurred. 
+
+advertising expenses were incurred, respectively. 
+
+The Company s subsidiary does not receive any preferential tax treatment from local government. The Company has been in loss position
+for years and zero balances of tax provisions, deferred tax assets and liabilities as of the reporting periods ended. The tax reforms
+have no significant impacts on the Company. 
+
+of revenue was derived from early childhood education classes provided. 
+
+b) 
+ Hospitality services: HZLJ generates revenue primarily from the room rentals, sale of food and beverage and other miscellaneous hospitality services. The Company recognizes room rental and services daily as services are provided. Under ASC 606, the pattern and timing of recognition of income from hotel facility is consistent with the prior accounting model. 
+
+Impacted by the Covid-19 pandemic and Chinese regulation
+on education industry, both early childhood education services and hospitality services have been sold on August 1, 2022. Thus, there
+was no revenue recognized from the two-revenue-stream for the year ended July 31, 2023. See Note 4 Acquisitions and Disposals. 
+
+and and generated not enough/negative cash
+flows from operating activities as of and for the years ended July 31, 2023 and 2022, respectively. These conditions raise substantial
+doubt about the ability of Hartford Great Health Corp. to continue as a going concern. 
+
+In view of these matters, continuation as a going
+concern is dependent upon several factors, including the availability of debt or equity funding upon terms and conditions acceptable to
+Hartford Great Health Corp., and ultimately achieving profitable operations. Management believes that Hartford Great Health Corp. s
+business plan provides it with an opportunity to continue as a going concern. However, management cannot provide assurance that Hartford
+Great Health Corp. will meet its objectives and be able to continue in operation. 
+
+The financial statements do not include any adjustments
+to reflect the possible future effects on the recoverability and classification of assets or the amounts and classification of liabilities
+that may result from the possible inability of Hartford Great Health Corp. to continue as a going concern. 
+
+shares
+of preferred stock with a par value of per share. shares of preferred stock have been issued or outstanding since Inception
+(April 2, 2008). 
+
+Common Stock 
+
+The Company is authorized to issue shares
+of common stock with a par value of per share. On November 24, 2020, the Company issued shares of common stock to a significant
+shareholder of the Company at per share. The company had a total of shares of common stock issued and outstanding at
+both of July 31, 2023 and 2022. 
+
+percent equity interest of Shanghai Luo Sheng International Trade Ltd. SH Luosheng ). On August 1, 2022, HFSH decided
+to withdraw from the agreement entered in January 2019 to acquire percent equity interest of Shanghai Luo Sheng International Trade
+Ltd. SH Luosheng ). There was no penalty levied or to be levied due to delayed execution or inexecution. 
+
+Impacted by the government regulation newly implemented
+in education industry and the restrictions posted by the Chinese government to control the pandemic in China since 2021, the Company s
+business hasn t been developed as planned and occurred significant loss from the early child education practice. To avoid further
+operation losses, subsequently on August 1, 2022, HFSH entered a contract with a related party, Shanghai Oversea Chinese Culture Media
+Ltd. SH Oversea ), to sell percent ownership of HF Int l Education and its subsidiaries for (RMB ). On
+August 1, 2022, HFUS entered a contract with SH Oversea and another individual, to sell percent ownership of HZHF and its subsidiaries
+for (RMB ). 
+
+Prepaid and Other current receivables 
+
+Related party receivable 
+
+Inventory 
+
+Property and equipment - Net 
+
+ROU assets-Operating lease 
+
+Other assets 
+
+Related party loan and payables 
+
+Contract liabilities 
+
+Lease liabilities, current and noncurrent 
+
+Other current payable 
+
+Other liabilities 
+
+Noncontrolling interest 
+
+Net assets (liabilities) of the subsidiaries, excluding noncontrolling interest 
+
+Consideration 
+
+Gain on disposal of the subsidiaries 
+
+Prepaid and Other current receivables 
+
+Related party receivable 
+
+Inventory 
+
+Property and equipment, net 
+
+ROU assets-operating lease 
+
+Other assets 
+
+Total Assets held for sale 
+
+Liabilities 
+
+Current Liabilities 
+
+Related party loan and payables 
+
+Contract liabilities 
+
+Lease liabilities, current and noncurrent 
+
+Other current payable 
+
+Other liabilities 
+
+Total Liabilities held for sale 
+
+The Pro Forma Condensed Consolidated Financial
+Statements for the years ended July 31, 2022 and 2021 have been derived from the historical audited Consolidated Financial Statements
+included in the Annual Report on Form 10-K for the year ended July 31, 2022 filed with the SEC on November 14, 2022. The Pro Forma
+Condensed Consolidated Statement of Operations for the years ended July 31, 2022 and 2021 give effect to the dispositions as if they had
+occurred on August 1, 2020, the beginning of the earliest period presented. The Pro Forma Condensed Consolidated Balance Sheet
+as of July 31, 2022 gives effect to the dispositions as if they had occurred on July 31, 2022. 
+
+The Pro Forma Condensed Consolidated Financial
+Statements were prepared for illustrative and informational purposes only and are not intended to represent what our results of operations
+or financial position would have been had the disposition occurred on the dates indicated. The Pro Forma Condensed Consolidated
+Financial Statements also should not be considered indicative of our future results of operations or financial position. The actual financial
+position and results of operations may differ significantly from the pro forma amounts reflected herein due to a variety of factors. The Pro Forma Condensed Consolidated Financial Information does not reflect the realization of any expected cost savings, synergies,
+or dis-synergies as a result of the dispositions. 
+
+The Pro Forma Condensed Consolidated Financial
+Statements and accompanying notes should be read in connection with the historical audited Consolidated Financial Statements and accompanying
+notes as of and for the years ended July 31, 2022 and 2021, which are included in the Annual Report on Form 10-K for the year ended July
+31, 2022. 
+
+PRO FORMA CONDENSED CONSOLIDATED STATEMENT
+OF OPERATIONS 
+
+- 
+
+- 
+ - 
+ 
+ Service revenue 
+
+- 
+
+- 
+ - 
+ 
+ Total revenue 
+
+- 
+
+- 
+ - 
+ 
+ Operating cost and expenses 
+
+Cost of tuition revenue 
+
+- 
+
+- 
+ - 
+ 
+ Cost of service revenue 
+
+- 
+
+- 
+ - 
+ 
+ Cost of revenue 
+
+- 
+
+- 
+ - 
+ 
+ Depreciation and amortization 
+
+- 
+
+- 
+ - 
+ 
+ Selling, general and administrative 
+
+- 
+
+Goodwill impairment 
+ - 
+ 
+ - 
+
+- 
+ - 
+ 
+ Total operating cost and expenses 
+
+- 
+
+Operating Loss 
+
+- 
+
+Other Income (Expense) 
+
+- 
+
+- 
+ 
+ Interest (expense), net 
+
+- 
+
+Gain (loss) on disposal of subsidiary 
+ - 
+
+Other income, net 
+
+Other income, net 
+
+Loss before income taxes 
+
+Income Tax Expense 
+
+- 
+
+Net Loss 
+
+Less: net loss attributable to 
+
+noncontrolling Interest 
+
+- 
+
+- 
+ 
+ Net Loss Attributable to Hartford Great 
+
+Health Corp 
+
+Net loss per common share: 
+
+Basic and Diluted 
+
+Weighted average shares outstanding: 
+
+Basic and diluted 
+
+PRO FORMA CONDENSED CONSOLIDATED BALANCE SHEET 
+
+ As of July 31, 2022 
+
+Less: Discontinued 
+ Pro Forma Continuing 
+
+Historical 
+ Operations 
+ Operations 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash and cash equivalents 
+ 
+ - 
+
+Prepaid and Other current receivables 
+ 
+ - 
+
+Related party receivable 
+ 
+ - 
+
+Current assets held for sale 
+
+- 
+ 
+ Total Current Assets 
+
+Non-current Assets 
+
+Property and equipment, net 
+ 
+ - 
+
+Total Non-current Assets 
+ 
+ - 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current Liabilities 
+
+Related party loan and payables 
+ 
+ - 
+
+Other current payable 
+ 
+ - 
+
+Current liabilities held for sale 
+
+- 
+ 
+ Total Current Liabilities 
+
+TOTAL LIABILITIES 
+
+Commitments and contingencies 
+ - 
+
+Stockholders Equity (Deficit) 
+
+Preferred stock - par value, shares authorized, shares issued and outstanding 
+ - 
+ 
+ - 
+ 
+ Common stock - par value, shares authorized, shares outstanding at July 31, 2022. 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Accumulated other comprehensive loss 
+
+Noncontrolling interest 
+
+- 
+ 
+ Total Stockholders Deficit 
+
+TOTAL LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+related party receivable
+due from SH Oversea in relation to the disposal consideration. 
+
+As of July 31, 2022, related party receivables
+were allocated to current assets held for sales. See Note 4 Acquisitions and Disposals. The remaining related party receivable of 
+as of July 31, 2022, primarily represents the operating advances made to the affiliates which are managed by the same management team.
+These advances do not bear interest and are considered due on demand 
+
+Related Party Payables and loans 
+
+As of July 31, 2023 and 2022, amounts of 
+and , are payable to SH Qiaohong, respectively. The balances were mainly funding support from SH Qiaohong for operation. The funding
+support bears no interest and due on demand. 
+
+HFSH had payable balances to Shanghai Oversea Chinese
+Culture Media Ltd. SH Oversea ), an entity managed by the same management team, in the amounts of and 
+as of July 31, 2023 and 2022, respectively. The payable is funding support from SH Oversea for operation, bears no interest and due on
+demand. 
+
+HFUS borrowed in form of a short-term loan at per
+annum from a related party, Hartford Hotel Investment Inc., an entity managed by the same management team. and of interest
+expenses were recorded during the year ended July 31, 2023 and 2022, respectively. As of July 31, 2023 and 2022, the unpaid principal
+and interest amount of and , respectively, will be due on demand. 
+
+The remaining related party payable of and
+ as of July 31, 2023 and 2022, respectively, represents the unpaid portion of operating advances made to the Company by affiliates
+which are managed by the same management team. These advances do not bear interest and are considered due on demand. 
+
+As of July 31, 2022, related party payables
+were allocated to current liabilities held for sales. See Note 4 Acquisitions and Disposals. 
+
+Other Related Party Transactions 
+
+Office space at Rosemead, CA is provided to Hartford
+Great Health Corp. at no cost by the sole executive officer. No provision for these costs has been included in these financial statements
+as the amounts are not material. 
+
+for both of
+the years ended July 31, 2023 and 2022, due to the loss position for the years since inception. 
+
+- 
+ 
+ 31-Jul-23 
+
+- 
+
+State income tax rate 
+
+Foreign tax difference 
+
+Non-taxable item adjustment 
+ - 
+ - 
+ 
+ GILTI 
+ - 
+ - 
+ 
+ Valuation allowance 
+
+Others 
+
+Effective tax rate 
+
+At this time, the Company is unable to determine if
+it will be able to benefit from its deferred tax asset. There are limitations on the utilization of net operating loss carry-forwards,
+including a requirement that losses be offset against future taxable income, if any. In addition, there are limitations imposed by certain
+transactions which are deemed to be ownership changes. Accordingly, a full valuation allowance has been established for the entire deferred
+tax asset. Other temporary differences and estimated permanent differences are considered immaterial. Open tax years subject to examination
+by the IRS range from August 1, 2018 to the present. The Company has no uncertain tax positions. 
+
+The Company has been in loss position for years since
+inception and zero balances of deferred tax assets and liabilities as of the reporting periods ended. 
+
+There was no GILTI tax for the Company for the years
+ended July 31, 2023 and 2022 due to the operation losses incurred. 
+
+- 
+
+Operating loss 
+
+Loss before tax 
+
+Net Loss Attributable to Hartford Great Health Corp 
+
+Total assets (excluding Intercompany balances) 
+
+Assets allocated to held for sale 
+
+- 
+
+28 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+Not Applicable. 
+
+Item 9A. Controls and Procedures. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+An evaluation was performed under the supervision
+of our management, including our Chief Executive Officer and Chief Financial Officer (principal financial officer), of the effectiveness
+of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act)
+as of the end of the period covered by this Annual Report. Based on that evaluation, our management, including our Chief Executive Officer
+and Chief Financial Officer, concluded that, as of July 31, 2023, our disclosure controls and procedures were not effective to ensure
+that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized
+and reported within the time periods specified in the SEC s rules and forms due to material weaknesses in our internal controls
+described below. 
+
+Management s Annual Report on Internal Control
+Over Financial Reporting. 
+
+Our management is responsible for establishing and
+maintaining adequate internal control over financial reporting as defined in Exchange Act Rule 13a-15(f). Our internal control system
+is intended to provide reasonable assurance to our management and board of directors regarding the preparation and fair presentation of
+published financial statements and that we have controls and procedures designed to ensure that the information required to be disclosed
+by us in our reports that we will be required to file under the Exchange Act is accumulated and communicated to our management as appropriate
+to allow timely and informed decisions regarding financial disclosure. 
+
+Our management assessed the effectiveness of our internal
+control over financial reporting as of July 31, 2023. Based on this assessment, management believes that as of July 31, 2023, our internal
+control over financial reporting was not effective based on those criteria. 
+
+Management s assessment identified several material
+weaknesses in our internal control over financial reporting. These material weaknesses include the following: 
+
+Lack of proper authorization and approval procedures on significant business transactions. 
+
+Lack of competence accounting personnel at entity level and proper segregation of duties implemented. 
+
+Inherent Limitations Over Internal Controls 
+
+Our management, including our Chief Executive Officer
+and Chief Financial Officer, does not expect that our disclosure controls and procedures or our internal controls will prevent all errors
+and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that
+the objectives of the control system are met. Our control systems are designed to provide such reasonable assurance of achieving their
+objectives. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls
+must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can
+provide absolute assurance that all control issues and instances of fraud, if any, within our Company have been detected. These inherent
+limitations include, but are not limited to, the realities that judgments in decision-making can be faulty and that breakdowns can occur
+because of simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of
+two or more people, or by management override of the control. The design of any system of controls also is based in part upon certain
+assumptions about the likelihood of future events and there can be no assurance that any design will succeed in achieving its stated goals
+under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance
+with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements
+due to error or fraud may occur and not be detected. 
+
+29 
+
+Changes in Internal Control Over Financial Reporting. 
+
+We have made no change in our internal control over
+financial reporting during the last fiscal year that has materially affected, or is reasonably likely to materially affect, our internal
+control over financial reporting. 
+
+Attestation Report of the Registered Public Accounting
+Firm. 
+
+This annual report does not include an attestation
+report of our independent registered public accounting firm regarding internal control over financial reporting. Management s report
+was not subject to attestation by our independent registered public accounting firm pursuant to temporary rules of the SEC that permit
+us to provide only management s report in this annual report on Form 10-K. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE
+GOVERNANCE 
+
+Directors and Executive Officers 
+
+The following individual presently serves as our officers
+and directors: 
+
+Board 
+ 
+ Name and 
+
+Position 
+ 
+ Municipality of Residence 
+ 
+ Age 
+ 
+ Positions With the Company 
+ 
+ Held Since 
+
+President, Chief Executive Officer 
+
+Rose Hong Wang Los Angeles, CA 
+ 
+ 51 
+ 
+ and Director 
+ 
+ 2021 
+
+Chief Financial Officer, Secretary and 
+
+Sheng-Yih Chang Los Angeles, CA 
+ 
+ 52 
+ 
+ Director 
+ 
+ 2018 
+ 
+ Yuan Lu Shanghai, CHINA 
+ 
+ 37 
+ 
+ Director 
+ 
+ 2019 
+ 
+ Xin Dong Los Angeles, CA 
+ 
+ 39 
+ 
+ Director 
+ 
+ 2018 
+
+Each of the directors will serve until the next annual
+meeting of stockholders of the Company and until such director s successor is elected and qualified or until such director s
+earlier death, resignation or removal. The following is information concerning the business backgrounds of each member of the board of
+directors: 
+
+Rose Hong Wang. From March 2018 to the
+present Ms. Wang has been Chief Financial Officer and Director of Hartford Hotel Investment Inc., Rosemead, CA, USA. In addition, since
+June 2010 to the present she has been Vice President and Director of Shanghai Qiao Garden Group Overseas Branch, CA, USA. From September
+2006 to May 2010 she was the Assistant General Manager of Qiao Garden Group Investment Inc., CA, USA, In December 1998 Ms. Wang immigrated
+to the USA. From December 1996 to September 1998, she was the Assistant General Manager of Shanghai Watanabe Asset Management Co., Ltd.,
+China. From September 1993 thru July 1995, she Studied Language and Literature at Shanghai International Studies University, China. In
+July 1990, Ms. Wang received her Bachelor s Degree with Music Major from Xinjiang Normal University, China. 
+
+30 
+
+Sheng Yih Chang. Mr. Chang has served
+as the General Manager at Hartford Hotel, a commercial hotel in Rosemead California since March 2018. Mr. Chang served as a Product Manager
+at Jowett Group, a textile manufacturing company in the USA, from November 2015 through September 2017, as an Operational Manager and
+General Manager at A-Concepts Designs, a houseware supplier company in the USA, from January 2004 through October 2015, as a General Manager
+at Long Arch International, a carving crafts supplier in the USA, from December 2000 through December 2003, as a Sales Manager at EZ Wholesale,
+a general merchandise wholesaler in the USA, from July 1998 through November 2000, and as a technician at Richcom Computer Corporation,
+a computer service provider in China, from July 1996 through November 1997. Mr. Chang studied electrical engineering at the University
+of British Columbia and holds a Bachelor of Science in Electrical Engineering from California State University, Northridge. 
+
+Yuan Lu . Ms. Lu graduated in 2008 with
+a Bachelor s Degree from Anhui University of Technology in China majoring in International Trade and Economics. In 2013, Ms. Lu
+earned a Master s Degree in International Language Arts from Shanghai University of Finance and Economics in China. From 2008-2009,
+Ms. Lu was an Assistant Teacher at New Channel International Educated Group, Ltd. From 2009-2010, Ms. Lu was a Customs Broker and Procurement
+Buyer at Shanghai Pan-Resources Imp Exp Co., Ltd. From 2010 through the present, Ms. Lu has served as the Assistant CEO at Shanghai
+Overseas Chinese Culture Media Co., Ltd. 
+
+Xin Dong. Mr. Dong has served as the
+Executive Director and General Manager of Shanghai Huitong Health Management Company, a senior care and traditional health management
+company, in China since September 2017. From July 2016 through August 2017, Mr. Dong acted as the Vice President and General Manager of
+Shanghai Huicai Financial Information Service Co., Ltd., a financial service and small loan company, in China. Mr. Dong has also served
+as the General Manager of Shenzhen Maoli International Trading Co., Ltd., an international trading company in Shenzhen, China, from April
+2012 through June 2016, and as a Project Manager and Market Representative at Nanjing Hongyuan Electronic Technology Company, an electronics
+manufacturing company, from July 2007 through March 2012. Mr. Dong holds a Masters in International Finance and Trade from Shanghai Jiaotong
+University and a degree in Computer Science from Jiangsu University. 
+
+Term of office 
+
+All officers and directors listed above will remain
+in office until the next annual meeting of our stockholders, and until their successors have been duly elected and qualified or until
+removed from office in accordance with our bylaws. There are no agreements with respect to the election of Directors. We have not compensated
+our Directors for service on our Board of Directors, any committee thereof, or reimbursed for expenses incurred for attendance at meetings
+of our Board of Directors and/or any committee of our Board of Directors. Officers are appointed annually by our Board of Directors and
+each Executive Officer serves at the discretion of our Board of Directors. We do not have any standing committees. Our Board of Directors
+may in the future determine to pay Directors fees and reimburse Directors for expenses related to their activities. 
+
+None of our Officers and/or Directors have filed any
+bankruptcy petition, been convicted of or been the subject of any criminal proceedings or the subject of any order, judgment or decree
+involving the violation of any state or federal securities laws within the past five (5) years. 
+
+Director Independence 
+
+The Board consists of four members, of which Yuan
+Lu and Xin Dong meet the independence requirements of the Nasdaq Stock Market as currently in effect. 
+
+31 
+
+Committees and Terms 
+
+The Board of Directors (the Board has
+not established any committees. The Company will notify its shareholders for an annual shareholder meeting and that they may present proposals
+for inclusion in the Company s proxy statement to be mailed in connection with any such annual meeting; such proposals must be received
+by the Company at least 90 days prior to the meeting. No other specific policy has been adopted in regard to the inclusion of shareholder
+nominations to the Board of Directors. 
+
+Code of Ethics 
+
+To date, we have not adopted a Code of Ethics applicable
+to our principal executive officer and principal financial officer because the Company has no meaningful operations within the United
+States of America. The Company does not believe that a formal written code of ethics is necessary at this time. We expect that the Company
+will adopt a code of ethics if and when the Company successfully completes a business combination that results in the acquisition of an
+on-going business and thereby commences operations within the United States. 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+No officer or director has received annual compensation
+since the beginning of the fiscal year, starting August 1, 2022. There has been no compensation awarded to, earned by, or paid to the
+named executive officer or director. There is no compensation to the executive officers planned for the next year. 
+
+Employment Agreements 
+
+As of July 31, 2023, all employees and officers in
+China have entered into employment agreements with the Company s subsidiaries. However, the Company has not entered into employment
+agreements with any of its executive officers in the US as of July 31, 2023. 
+
+Anticipated Officer and Director Remuneration 
+
+During the year ended July 31, 2023, the Company has
+not paid any compensation owed to any officer or director. The Company intends to begin to pay annual salaries to all its officers and
+will pay an annual stipend to its directors when, and if, it completes a primary public offering for the sale of securities and/or the
+Company reaches profitability, experiences positive cash flow and/or obtains additional funding. At such time, the Company anticipates
+offering cash and non-cash compensation to officers and directors. In addition, although not presently offered, the Company anticipates
+that its officers and directors will be provided with a group health, vision and dental insurance program at subsidizes rates, or at the
+sole expense of the Company, as may be determined on a case-by-case basis by the Company in its sole discretion. 
+
+Stock Option Plan 
+
+We do not have a stock option plan and we have not
+issued any warrants, options or other rights to acquire our securities. However, we may adopt an incentive and non-statutory stock option
+plan in the future. 
+
+Employee Pension, Profit Sharing or other Retirement
+Plans 
+
+We do not have a defined benefit, pension plan, profit
+sharing or other retirement plan, although we may adopt one or more of such plans in the future. 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+We are not registered under the Securities Exchange
+Act of 1934, as amended, and are not subject to the reporting requirements of Section 16(a). 
+
+32 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+As of October 30, 2023, there are a total of 100,108,000
+shares of our common stock outstanding, our only class of voting securities currently outstanding. The following table describes the ownership
+of our voting securities by: (i) each of our officers and directors; (ii) all of our officers and directors as a group; and (iii) each
+shareholder known to us to own beneficially more than 5 of our common stock. All ownership is direct, unless otherwise stated. 
+
+Shares 
+
+Beneficially 
+ Percentage 
+ 
+ Name of Beneficial Owner 
+ Address of Beneficial Owner 
+ Owned Number 
+ ) 
+
+RM 3806 218 WUSONG RD, HONGKOU DISTRICT 
+
+YUAN LU 
+ SHANGHAI, CHINA 
+ 32,440,000 
+ 32.4 
+ 
+ ROSE HONG WANG 
+ 729 CARRIAGE HOUSE DRIVE, ARCADIA, CA 91006 
+ 11,000,000 
+ 11.0 
+ 
+ XIN DONG 
+ 8832 GLENDON WAY, ROSEMEAD, CA 91770 
+ 2,400,000 
+ 2.4 
+ 
+ SHENG-YIH CHANG 
+ 8832 GLENDON WAY, ROSEMEAD, CA 91770 
+ 1,000,000 
+ 1.0 
+
+Total Officers and Directors (4) 
+ 46,840,000 
+ 46.8 
+
+Each shareholder known to us to own beneficially more
+than 5 of our common stock: 
+
+Shares 
+
+Beneficially 
+ Percentage 
+ 
+ Name of Beneficial Owner 
+ Address of Beneficial Owner 
+ Owned Number 
+ ) 
+
+LIANYUE SONG 
+ 8832 GLENDON WAY, ROSEMEAD, CA 91770 
+ 20,000,000.00 
+ 20.0 
+
+RM 218 WUSONG ROAD, HONGKOU DISTRICT, 
+
+DANFENG GU 
+ SHANGHAI, CHINA 
+ 8,300,000.00 
+ 8.3 
+
+1F QIAO GARDEN 73 WUHUA RD, HONGKOU 
+
+JIAMIN ZHU 
+ DISTRICT, SHANGHAI, CHINA 
+ 8,000,000.00 
+ 8.0 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS,
+AND DIRECTOR INDEPENDENCE 
+
+US office space is provided to Hartford Great Health
+Corp. at no additional cost by the sole executive officer. No provision for these costs has been included in these financial statements
+as the amounts are not material. 
+
+33 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The following table sets forth fees billed by our
+principal accounting firms of Simon Edward, LLP in the last two years ended July 31, 2023: 
+
+2023 
+ 2022 
+ 
+ Audit Fees 
+ 10,500 
+ 26,000 
+ 
+ Audit Related Fees 
+ 7,500 
+ 13,500 
+ 
+ All other fees 
+ - 
+ - 
+ 
+ Total Fees 
+ 18,000 
+ 39,500 
+
+It is the policy of our Board of Directors to engage
+the principal accounting firm selected to conduct the financial audit for our company and to confirm, prior to such engagement, that such
+principal accounting firm is independent of our company. All services of the principal accounting firm reflected above were approved by
+the Board of Directors. 
+
+PART IV 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENTS SCHEDULES 
+
+The following documents are filed as part of this
+Annual Report: 
+
+1. 
+ Consolidated Financial Statements 
+
+Our consolidated financial statements are listed under
+Part II, Item 8, of this Annual Report. 
+
+2. 
+ Financial Statement Schedules 
+
+All financial statement schedules have been omitted
+because they are not required or are not applicable, or the required information is shown in our Consolidated Financial Statements or
+the notes thereto. 
+
+3. 
+ Exhibits 
+
+The following exhibits are filed with or incorporated
+by referenced in this report: 
+
+21.1 Subsidiaries of the Company 
+
+31.1 Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 for Rose Hong Wang. 
+
+31.2 Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 for Sheng-Yih Chang 
+
+32 Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 for Rose Hong Wang and Sheng-Yih Chang 
+
+101.INS Inline XBRL Instance Document 
+
+ 101.SCH Inline XBRL Taxonomy Extension Schema Document 
+
+ 101.CAL Inline XBRL Taxonomy Extension Calculation
+Linkbase Document 
+
+ 101.DEF Inline XBRL Taxonomy Extension Definition
+Linkbase Document 
+
+ 101.LAB Inline XBRL Taxonomy Extension Label Linkbase
+Document 
+
+ 101.PRE Inline XBRL Taxonomy Extension Presentation
+Linkbase Document 
+
+ 104 Cover Page Interactive Data File (embedded within
+the Inline XBRL document) 
+
+Filed herewith 
+
+34 
+
+SIGNATURES 
+
+Pursuant to the requirements
+of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+HARTFORD GREAT HEALTH CORP. 
+
+Date: October 30, 2023 
+ By: 
+ /s/ ROSE HONG WANG 
+
+Rose Hong Wang 
+
+Chief Executive Officer 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934 this report has been signed below by the following persons on behalf of the registrant and in the
+capacities and on the dates indicated. 
+
+Name 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Rose Hong Wang 
+ 
+ Chief Executive Officer, President, Dir. 
+ 
+ October 30, 2023 
+ 
+ Rose Hong Wang 
+ 
+ (Principal Executive Officer) 
+
+/s/ Sheng-Yih Chang 
+ 
+ Chief Financial Officer 
+ 
+ October 30, 2023 
+ 
+ Sheng-Yih Chang 
+ 
+ (Principal Accounting Officer) 
+
+/s/ Yuan Lu 
+ 
+ Director 
+ 
+ October 30, 2023 
+ 
+ Yuan Lu 
+
+/s/ Xin Dong 
+ 
+ Director 
+ 
+ October 30, 2023 
+ 
+ Xin Dong 
+
+35 
+
+<EX-21.1>
+ 2
+ ex21-1.htm
+
+Exhibit 21.1 
+
+SUBSIDIARIES OF THE COMPANY 
+
+The following is a list of subsidiaries of the Company
+as of July 31, 2023, omitting subsidiaries which, considered in the aggregate, would not constitute a significant subsidiary. 
+
+State or Other Jurisdiction 
+
+of Incorporation or 
+ 
+ Subsidiaries 
+ 
+ Organization 
+
+Hartford Great Health Management (Shanghai) Ltd. HFSH 
+ 
+ Shanghai, China 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ ex31-1.htm
+
+Exhibit 31.1 
+
+Certification of Chief Executive Officer 
+
+ Pursuant to Section 302 of the Sarbanes-Oxley Act
+of 2002 
+
+ and Rules 13a-14 and 15d-14 under the Securities
+Exchange Act of 1934 
+
+I, Rose Hong Wang, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of Hartford Great Health Corp.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15(d)-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financing reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 30, 2023 
+
+/s/
+ ROSE HONG WANG 
+
+Rose Hong Wang 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex31-2.htm
+
+Exhibit 31.2 
+
+Certification of Chief Financial Officer 
+
+ Pursuant to Section 302 of the Sarbanes-Oxley Act
+of 2002 
+
+ and Rules 13a-14 and 15d-14 under the Securities
+Exchange Act of 1934 
+
+I, Sheng-Yih Chang, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of Hartford Great Health Corp.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15(d)-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financing reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 30, 2023 
+
+/s/ Sheng-Yih Chang 
+
+Sheng-Yih Chang 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ ex32.htm
+
+Exhibit 32 
+
+Certification of Periodic Financial Report by the
+Chief Executive Officer and 
+
+ Chief Financial Officer Pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002 
+
+Solely for the purposes of complying
+with 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, we, the undersigned Chief Executive Officer
+and Chief Financial Officer of Hartford Great Health Corp. (the Company ), hereby certify, based on our knowledge, that the
+Annual Report on Form 10-K of the Company for the year ended July 31, 2023 (the Report fully complies with the requirements
+of Section 13(a) of the Securities Exchange Act of 1934 and that the information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Date: October 30, 2023 
+
+/s/ ROSE HONG WANG 
+
+Rose Hong Wang 
+
+Chief Executive Officer 
+
+Date: October 30, 2023 
+
+/s/ SHENG-YIH CHANG 
+
+Sheng-Yih Chang 
+
+Chief Financial Officer 
+
+</EX-32>
+
+<EX-101.SCH>
+ 7
+ hfus-20230731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ hfus-20230731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ hfus-20230731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ hfus-20230731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

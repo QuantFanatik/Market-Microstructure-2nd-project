@@ -1,0 +1,1469 @@
+<Header>
+<FileStats>
+    <FileName>20230620_10-K_edgar_data_1858258_0001193125-23-169904.txt</FileName>
+    <GrossFileSize>2230893</GrossFileSize>
+    <NetFileSize>181069</NetFileSize>
+    <NonText_DocumentType_Chars>601671</NonText_DocumentType_Chars>
+    <HTML_Chars>554260</HTML_Chars>
+    <XBRL_Chars>434029</XBRL_Chars>
+    <XML_Chars>406858</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-23-169904.hdr.sgml : 20230620
+<ACCEPTANCE-DATETIME>20230620120416
+ACCESSION NUMBER:		0001193125-23-169904
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		46
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230620
+DATE AS OF CHANGE:		20230620
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Franklin Templeton Holdings Trust
+		CENTRAL INDEX KEY:			0001858258
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6221]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41435
+		FILM NUMBER:		231024136
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE FRANKLIN PARKWAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94403
+		BUSINESS PHONE:		(650) 312-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE FRANKLIN PARKWAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Franklin Holdings Trust
+		DATE OF NAME CHANGE:	20210421
+
+</SEC-Header>
+</Header>
+
+ 0001193125-23-169904.txt : 20230620
+
+10-K
+ 1
+ d498366d10k.htm
+ 10-K
+
+10-K 
+
+Table of Contents 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended , 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission File Number: 
+
+FRANKLIN RESPONSIBLY SOURCED GOLD ETF 
+
+A SERIES OF 
+
+SPONSORED BY FRANKLIN HOLDINGS, LLC 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(I.R.S. Employer
+
+Identification No.)
+
+, CA 
+
+) 
+
+(Address of principal executive offices, telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Securities registered pursuant to Section 12(g) of the Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T
+ during 232.405 of this chapter) the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated
+ filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company , and emerging growth company in Rule 12b-2
+ of the Exchange Act. 
+
+Large Accelerated Filer 
+
+Accelerated Filer 
+
+Smaller Reporting Company 
+
+Emerging Growth Company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+
+ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2
+ of the Exchange Act). Yes No 
+ As of September 30, 2022, the last business day of the registrant s most recently completed second fiscal quarter, the aggregate market value of the registrant s shares held by non-affiliates
+ of the registrant was , based upon the last reported sales price for such date on the NYSE Arca, Inc. 
+ The
+ registrant had outstanding shares as of June 14, 2023. 
+
+Table of Contents 
+
+Glossary of Defined Terms The abbreviations and acronyms used in this Form 10-K are defined below: Administrator BNYM, a banking corporation organized under the laws of the State of New York. Allocated Gold Account Agreement The agreement between the Trust and the Custodian which establishes the Fund Allocated Account. The Allocated Gold Account Agreement and the Unallocated Gold Account Agreement are sometimes referred to together as the Custody Agreements. Authorized Participant A person who (1) is a registered broker-dealer or other securities market participant such as a bank or other financial institution which is not required to register as a broker-dealer to engage in securities transactions, (2) is a participant in DTC, (3) has entered into a Participant Agreement with the Administrator and (4) has established an unallocated account with the Custodian or another LPMCL clearing bank. Only Authorized Participants may place orders to create or redeem one or more Creation Units. BNYM BNYM is the Administrator and Transfer Agent of the Fund. BNYM also serves as the custodian of the Fund s cash, if any. Book-Entry System The Federal Reserve Treasury Book-Entry System for United States and federal agency securities. Business Day Any day the Fund s Listing Exchange is open for business. CEA The Commodity Exchange Act of 1936, as amended. CFTC The Commodity Futures Trading Commission, established under the CEA. The CFTC is an independent agency of the United States Government with the mandate to regulate commodity interests, including commodity futures and option and swap markets in the United States. Code The United States Internal Revenue Code of 1986, as amended. Creation Unit A block of 50,000 Shares or more or such other amount as established from time to time by the Sponsor. Multiple blocks are called Creation Units. Creation Unit Gold Delivery Amount The total deposit of gold bullion required to create a Creation Unit. The Creation Unit Gold Delivery Amount is the number of ounces of gold bullion required to be delivered to the Fund by an Authorized Participant in connection with a creation order for a single Creation Unit. The Creation Unit Gold Delivery Amount also refers to the amount of gold bullion to be paid out by the Fund in connection with the redemption of a Creation Unit. Custodian JPMorgan Chase Bank, N.A., London branch. Custody Agreements The Allocated Gold Account Agreement together with the Unallocated Gold Account Agreement. Declaration of Trust The agreement and declaration of trust entered into by the Sponsor and the Trustee under which the Trust is formed and which sets forth the rights and duties of the Sponsor and the Trustee, as such agreement and declaration of trust may be amended or restated from time to time. DTC The Depository Trust Company. DTC is a limited purpose trust company organized under New York law, a member of the U.S. Federal Reserve System and a clearing agency registered with the SEC pursuant to the provisions of Section 17A of the Exchange Act. DTC will act as the securities depository for the Shares. DTC Participant A participant in DTC, such as a bank, broker, dealer or trust company. Exchange Act The Securities Exchange Act of 1934, as amended. FCA The Financial Conduct Authority, an independent non-governmental body which exercises statutory regulatory power under the FS Act and which regulates the major participating members of the LBMA in the United Kingdom. FS Act The Financial Services Act 2012. Fund Allocated Account The allocated gold bullion account of the Trust established with the Custodian on behalf of the Fund by the Allocated Gold Account Agreement. The Fund Allocated Account will be used to hold the gold bullion that is transferred from the Fund Unallocated Account to be held by the Fund in allocated form (i.e., as individually identified bars of gold bullion). Fund Unallocated Account The unallocated gold bullion account of the Trust established with the Custodian on behalf of the Fund by the Unallocated Gold Account Agreement. The Fund Unallocated Account will be used to facilitate the transfer of gold bullion in and out of the Fund. Specifically, it will be used to transfer gold bullion deposits and gold bullion redemption distributions between Authorized Participants and the Fund in connection with the creation and redemption of Creation Units and in connection with sales of gold bullion for the Fund. Gold Price Generally the LBMA Gold Price PM. 
+
+Table of Contents 
+
+Guidance The LBMA s Responsible Gold Guidance. IBA The ICE Benchmark Administration Limited, an independent specialist benchmark administrator who provides the price platform, methodology and overall administration and governance for the LBMA Gold Price. Indirect Participants Those banks, brokers, dealers, trust companies and others who maintain, either directly or indirectly, a custodial relationship with a DTC Participant. Initial AP JP Morgan Securities LLC. LBMA The London Bullion Market Association. The LBMA is the trade association that acts as the coordinator for activities conducted on behalf of its members and other participants in the London bullion market. In addition to coordinating market activities, the LBMA acts as the principal point of contact between the market and its regulators. A primary function of the LBMA is its involvement in the promotion of refining standards by maintenance of the London Good Delivery Lists, which are the lists of LBMA accredited melters and assayers of gold. Further, the LBMA coordinates market clearing and vaulting, promotes good trading practices and develops standard documentation. The major participating members of the LBMA are regulated by the FSA in the United Kingdom under the FS Act. LBMA Gold Price The price per troy ounce of gold bullion for delivery in London through a member of the LBMA stated in USDs and set via an electronic auction process run twice daily at 10:30 a.m. and 3:00 p.m. London time each Business Day as calculated and administered by the IBA. LBMA Gold Price PM The 3:00 p.m. London time LBMA Gold Price. Listing Exchange NYSE Arca, Inc. or other primary U.S. national securities exchange on which Shares are listed. London Good Delivery Bar A bar of gold bullion meeting the London Good Delivery Standards. London Good Delivery Standards The specifications for weight, dimensions, fineness (or purity), identifying marks and appearance of gold bars as set forth in The Good Delivery Rules for Gold and Silver Bars published by the LBMA. The London Good Delivery Standards are described in The Gold Industry The London Bullion Market. London PM Fix The afternoon gold fixing price per troy ounce of gold for delivery in London through a member of the LBMA authorized to effect such delivery, stated in USDs. The London PM Fix was discontinued as of March 20, 2015 and is no longer calculated. The London PM Fix was replaced by the LBMA Gold Price PM. LPMCL The London Precious Metals Clearing Limited. Marketing Agent Franklin Distributors, LLC, a registered as a broker-dealer under the Exchange Act, and a member in good standing of the Financial Industry Regulatory Authority, has been appointed to assist the Sponsor with certain marketing activities. NAV The net asset value of the Fund or a Share of the Fund. See Prospectus Summary The Offering Net Asset Value for a description of how the NAV of the Fund and the NAV per Share are calculated. OTC The global Over-the-Counter market for the trading of gold which consists of transactions in spot, forwards, options and other derivatives. Participant Agreement An agreement entered into by each Authorized Participant with respect to the Fund which provides the procedures for the creation and redemption of Creation Units and for the delivery of the gold bullion required for such creations and redemptions. SEC The U.S. Securities and Exchange Commission. Securities Act The Securities Act of 1933, as amended. Seed Creation Units The Creation Units issued to the Initial AP in exchange for the deposit into the Fund of ounces of gold bullion in connection with the initial operation of the Fund. Shareholders Owners of beneficial interests in the Shares. Shares Units of fractional undivided beneficial interest in and ownership of the Fund which are issued by the Trust. Sponsor Franklin Holdings, LLC formed on July 21, 2021 under the Delaware General Corporation Law. Sponsor Agreement The agreement between the Trust and the Sponsor setting forth, among other things, the Sponsor s compensation for its services as Sponsor of the Trust. 
+ A-2 
+
+Table of Contents 
+
+tonne One metric tonne which is equivalent to 1,000 kilograms or 32,150.7465 troy ounces. Transfer Agent BNYM. Trust The Franklin Templeton Holdings Trust, a statutory trust formed on April 19, 2021 under Delaware statutory law as set forth in the Declaration of Trust. Trustee Delaware Trust Company, a subsidiary of the Corporation Service Company. Unallocated Gold Account Agreement The agreement between the Trust and the Custodian which establishes the Fund Unallocated Account. The Allocated Gold Account Agreement and the Unallocated Gold Account Agreement are sometimes referred to together as the Custody Agreements. U.S. Shareholder A Shareholder that is (1) an individual who is treated as a citizen or resident of the United States for U.S. federal income tax purposes; (2) a business entity treated as a corporation for U.S. federal income tax purposes that is created or organized in or under the laws of the United States or any political subdivision thereof; (3) an estate, the income of which is includible in gross income for U.S. federal income tax purposes regardless of its source; or (4) a trust, if a court within the United States is able to exercise primary supervision over the administration of the trust and one or more U.S. persons have the authority to control all substantial decisions of the trust. Weekday each calendar day other than a Saturday or Sunday. Cautionary Note Regarding Forward-Looking Statements This annual report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended Exchange Act ), and such forward-looking statements involve risks and uncertainties. All statements (other than statements of historical fact) included in this Form 10-K that address activities, events or developments that may occur in the future, including such matters as future gold prices, gold sales, costs, objectives, changes in commodity prices and market conditions (for gold and the shares), the Fund s operations, the Sponsor s plans and references to the Fund s future success and other similar matters are forward-looking statements. Words such as could, would, may, expect, intend, estimate, predict, and variations on such words or negatives thereof, and similar expressions that reflect our current views with respect to future events and Fund performance, are intended to identify such forward-looking statements. These forward-looking statements are only predictions, subject to risks and uncertainties that are difficult to predict and many of which are outside of our control, and actual results could differ materially from those discussed. Forward-looking statements involve risks and uncertainties that could cause actual results or outcomes to differ materially from those expressed therein. We express our estimates, expectations, beliefs, and projections in good faith and believe them to have a reasonable basis. However, we make no assurances that such estimates, expectations, beliefs, or projections will be achieved or accomplished. These forward-looking statements are based on assumptions about many important factors that could cause actual results to differ materially from those in the forward-looking statements. We do not intend to update any forward-looking statements even if new information becomes available or other events occur in the future, except as required by the federal securities laws. 
+ A-3 
+
+Table of Contents 
+
+FRANKLIN RESPONSIBLY SOURCED GOLD ETF A SERIES OF FRANKLIN TEMPLETON HOLDINGS TRUST Table of Contents 
+
+Page 
+
+PART I 
+
+Item 1. 
+ 
+ Business 
+ 
+ 1 
+
+Description of the Trust 
+ 
+ 1 
+
+Description of the Shares 
+ 
+ 3 
+
+The Sponsor 
+ 
+ 4 
+
+The Trustee 
+ 
+ 4 
+
+The Cash Custodian 
+ 
+ 5 
+
+The Gold Custodian 
+ 
+ 5 
+
+Creation and Redemption of Shares by Authorized Participants 
+ 
+ 7 
+
+Item 1A. 
+ 
+ Risk Factors 
+ 
+ 9 
+
+Item 1B. 
+ 
+ Unresolved Staff Comments 
+ 
+ 15 
+
+Item 2. 
+ 
+ Properties 
+ 
+ 15 
+
+Item 3. 
+ 
+ Legal Proceedings 
+ 
+ 15 
+
+Item 4. 
+ 
+ Mine Safety Disclosures 
+ 
+ 15 
+
+PART II 
+
+Item 5. 
+ 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 16 
+
+Item 6. 
+ 
+ [Reserved] 
+ 
+ 16 
+
+Item 7. 
+ 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 17 
+
+Item 7A. 
+ 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 
+ 19 
+
+Item 8. 
+ 
+ Financial Statements and Supplementary Data 
+ 
+ 19 
+
+Item 9. 
+ 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 19 
+
+Item 9A. 
+ 
+ Controls and Procedures 
+ 
+ 20 
+
+Item 9B. 
+ 
+ Other Information 
+ 
+ 20 
+
+Item 9C. 
+ 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 
+ 20 
+
+PART III 
+
+Item 10. 
+ 
+ Directors, Executive Officers and Corporate Governance 
+ 
+ 21 
+
+Item 11. 
+ 
+ Executive Compensation 
+ 
+ 21 
+
+Item 12. 
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 21 
+
+Item 13. 
+ 
+ Certain Relationships and Related Transactions and Director Independence 
+ 
+ 21 
+
+Item 14. 
+ 
+ Principal Accounting Fees and Services 
+ 
+ 21 
+
+PART IV 
+
+Item 15. 
+ 
+ Exhibits and Financial Statements Schedules 
+ 
+ 22 
+
+Item 16. 
+ 
+ Form 10-K Summary 
+ 
+ 23 
+
+Table of Contents 
+
+PART I Item 1. Business DESCRIPTION OF THE TRUST The Franklin Templeton Holdings Trust (the Trust was organized as a Delaware statutory trust on April 19, 2021 and is governed by the Agreement and Declaration of Trust dated as of May 10, 2022. Franklin Holdings, LLC is the Sponsor of the Trust (the Sponsor ). The Trust currently offers a single series, the Franklin Responsibly Sourced Gold ETF (the Fund ). The Fund issues common units of beneficial interest Shares ), which represent units of fractional undivided beneficial interest in and ownership of the Fund. The Shares are listed on NYSE Arca, Inc. NYSE Arca under the symbol FGDL. Shares are not obligations of, and are not guaranteed by, the Sponsor or any of its subsidiaries or affiliates. The investment objective of the Fund is for the Shares to reflect the performance of the price of gold bullion, less the Fund s expenses. The assets of the Fund include only gold bullion and cash, if any. The Fund seeks to hold only responsibly sourced gold in the Fund s allocated account. The Fund defines responsibly sourced gold for this purpose as London Good Delivery gold bullion bars that were refined on or after January 1, 2012 (referred to herein as post-2012 gold and London Good Delivery gold bullion bars refined prior to January 1, 2012 referred to herein as pre-2012 gold ). All post-2012 gold has been refined in accordance with London Bullion Market Association s LBMA Responsible Gold Guidance (the Gold Guidance ). To facilitate this, in transferring gold into and out of the Fund s allocated account, the Custodian will, on a best efforts basis and subject to available liquidity, seek to allocate post-2012 gold. If, due to a lack of liquidity, the Custodian is unable to allocate post-2012 gold to the Fund s allocated account, the Custodian will do so as soon as reasonably practicable. Therefore, under normal market conditions, the Fund expects to hold only post-2012 gold in the Fund s allocated account. The Fund, however, may temporarily deviate from this policy in unusual market conditions, such as in the event of a temporary supply constraint or lack of availability, in which case the Fund will seek to come back into conformity with the policy as soon as reasonably practical. The Fund issues Shares on a continuous basis. The Fund issues and redeems Shares from time to time in Creation Units only to Authorized Participants in exchange for the delivery to the Fund, or the distribution by the Fund, of the amount of gold bullion represented by the Creation Units being created or redeemed. This amount is based on the combined NAV of the number of Shares included in the Creation Units being created or redeemed, as applicable, determined on the day the order to create or redeem Creation Units is accepted, as described in the Creations and Redemptions section of the Fund s prospectus. BNY Mellon Asset Servicing, a division of The Bank of New York Mellon, or BNYM, is the Administrator (the Administrator and Transfer Agent (the Transfer Agent of the Fund. BNYM also serves as the custodian of the Fund s cash (the Cash Custodian ), if any. JPMorgan Chase Bank, N.A., London branch JPMorgan ), is the custodian (the Gold Custodian of the Trust s gold bullion. Delaware Trust Company, a subsidiary of the Corporation Services Company, is the sole trustee of the Trust (the Trustee ). Franklin Distributors LLC is the marketing agent of the Trust (the Marketing Agent ). The Fund is not managed like a corporation or an active investment vehicle. It does not have any officers, directors or employees. The Trust is not registered as an investment company under the 1940 Act, and is not required to register under such act. The Fund does not and will not hold or trade in commodity futures contracts regulated under the Commodity Exchange Act CEA ). The Fund is not a commodity pool for purposes of the CEA and none of the Sponsor, Trustee or the Marketing Agent is subject to regulation by the Commodity Futures Trading Commission as a commodity pool operator or a commodity trading advisor under the CEA in connection with the shares. The Trust The Trust is organized as a Delaware statutory trust. Delaware Trust Company, a subsidiary of the Corporation Service Company, is the Trustee of the Trust. The Trust was formed and is operated in a manner such that a series is liable only for obligations attributable to such series. This means that Shareholders of the Fund are not subject to the losses or liabilities of any other series as may be created from time to time and shareholders of any such other series are not subject to the losses or liabilities of the Fund. Accordingly, the debts, liabilities, obligations and expenses (collectively, Claims incurred, contracted for or otherwise existing solely with respect to the Fund are enforceable only against the assets of the Fund and not against any other series as may be established or the Trust generally. This limitation on liability is referred to as the Inter- Series Limitation on Liability. The Inter-Series Limitation on Liability is expressly provided for under the Delaware Statutory Trust Act, which provides that if certain conditions are met, then the debts of any particular series will be enforceable only against the assets of such series and not against the assets of any other series or the Trust generally. For the avoidance of doubt, the Inter-Series Limitation on Liability applies to each series of the Trust, including the Fund and any other series that may be established. The Fund expects to create and redeem Shares from time to time but only in Creation Units (a Creation Unit equals a block of 50,000 Shares). The number of outstanding Shares is expected to increase and decrease from time to time as a result of the creation and redemption of Creation Units. The creation and redemption of Creation Units requires the delivery to the Fund or the distribution by the Fund of the amount of gold bullion represented by the Creation Units being created or redeemed. The total amount of gold bullion required for the creation of Creation Units will be based on the combined NAV of the number of Creation Units being created or redeemed. The initial amount of gold bullion required for deposit with the Fund to create Shares was 669.488 ounces per Creation Unit. The number of ounces of gold bullion required to create a Creation Unit or to be delivered upon the redemption of a Creation Unit gradually decreases over time, due to the accrual of the Fund s expenses and the sale of the Fund s gold bullion to pay the Fund s expenses. This is because the Shares comprising a Creation Unit will represent a decreasing amount of gold bullion due to the sale of the Fund s gold bullion to pay the Fund s expenses. Creation Units may be created or redeemed only by Authorized Participants, who will pay a transaction fee of 500 for each order to create or redeem Creation Units. Authorized Participants may sell to other investors all or part of the Shares included in the Creation Units they purchase from the Fund. The number of Shares in a Creation Unit, and the transaction fee associated with such Creation Units, may be changed by the Sponsor at any time in its sole discretion. In addition, the Sponsor may waive the transaction fee on the creation or redemption of Creation Units for one or more Authorized Participants from time to time in its sole discretion. Fund Expenses The Fund s only ordinary recurring expense is the fee paid to the Sponsor at an annual rate of 0.15 of the daily net asset value of the Fund, so that the Fund s total annual expense ratio is expected to be equal to 0.15 . 
+ 1 
+
+Table of Contents 
+
+In exchange for the Sponsor s fee, the Sponsor has agreed to assume the ordinary fees and expenses incurred by the Fund, including but not limited to the following: fees charged by the Administrator, the Custodian and the Trustee, NYSE Arca listing fees, typical maintenance and transaction fees of the DTC, SEC registration fees, printing and mailing costs, audit fees and expenses, up to 500,000 per annum in legal fees and expenses and applicable license fees. The Sponsor bears expenses in connection with the issuance and distribution of the securities being registered. The Sponsor is not required to pay any extraordinary or non-routine expenses. Extraordinary expenses are fees and expenses which are unexpected or unusual in nature, such as legal claims and liabilities and litigation costs or indemnification or other unanticipated expenses. Extraordinary fees and expenses also include material expenses which are not currently anticipated obligations of the Fund. The Fund will be responsible for the payment of such expenses to the extent any such expenses are incurred. Routine operational, administrative and other ordinary expenses are not deemed extraordinary expenses. The Fund will sell gold on an as-needed basis to pay the Sponsor s fee. In certain exceptional cases the Fund will pay for certain expenses. These exceptions include expenses not assumed by the Sponsor (described in the immediately preceding paragraph), taxes and governmental charges, expenses and costs of any extraordinary services performed by the Trustee or the Sponsor on behalf of the Fund or action taken by the Trustee or the Sponsor to protect the Fund or the interests of Shareholders, indemnification of the Sponsor under the Declaration of Trust, and legal expenses in excess of 500,000 per year. The Sponsor may determine in its sole discretion to assume legal fees and expenses of the Fund in excess of the 500,000 per annum stipulated in the Sponsor Agreement. The Fund s organizational and offering costs are borne by the Sponsor and, as such, are the sole responsibility of the Sponsor. The Sponsor will not seek reimbursement or otherwise require the Fund, the Trust, the Trustee or any Shareholder to assume any liability, duty or obligation in connection with any such organizational and offering costs. Valuation of Gold and Computation of Net Asset Value The NAV is computed based upon the total value of the assets of the Fund (i.e., gold and cash) less its liabilities. To determine the Fund s NAV, the Administrator will value the gold bullion held by the Fund on the basis of the LBMA Gold Price PM as published by the IBA. IBA operates electronic auctions for spot, unallocated loco London gold, providing a market-based platform for buyers and sellers to trade. The auctions are run at 10:30 a.m. and 3:00 p.m. London time for gold. The final auction prices are published to the market as the LBMA Gold Price AM and the LBMA Gold Price PM, respectively. The Administrator will calculate the NAV on each day NYSE Arca is open for regular trading, at the earlier LBMA Gold Price PM for the day or 12:00 PM New York time. If no LBMA Gold Price (AM or PM) is made on a particular evaluation day or if the LBMA Gold Price PM has not been announced by 12:00 PM New York time on a particular evaluation day, the next most recent LBMA Gold Price AM or PM will be used in the determination of the NAV, unless the Sponsor determines that such price is inappropriate to use as the basis for such determination. Once the value of the gold bullion has been determined, the Administrator subtracts all estimated accrued expenses and other liabilities of the Fund from the total value of the gold bullion and any cash of the Fund. The resulting figure is the NAV. The Administrator determines the NAV per Share by dividing the NAV of the Fund by the number of Shares outstanding as of the close of trading on NYSE Arca. Impact of Fund Expenses on the Fund s Net Asset Value The daily opening Net Asset Value of the Fund is used to compute the Sponsor Fee (defined below), and the Administrator subtracts from the opening Net Asset Value of the Fund the amount of accrued Sponsor Fee. The Sponsor will sell the Fund s gold bullion as necessary to pay the Fund s expenses. When selling gold bullion to pay expenses, the Sponsor will endeavor to sell the smallest amounts of gold bullion needed to pay expenses in order to minimize the Fund s holdings of assets other than gold bullion and will endeavor to sell at the LBMA Gold Price PM. The Sponsor will place orders with gold bullion dealers (which may include the Custodian). Each outstanding Share represents a fractional, undivided interest in the gold bullion held by the Fund. The Fund does not generate any income and regularly sells gold bullion to pay for its ongoing expenses. Therefore, the amount of gold bullion represented by each Share will gradually decline over time. This is also true with respect to Shares that are issued in exchange for additional deposits of gold bullion into the Fund, as the amount of gold bullion required to create Shares proportionately reflects the amount of gold bullion represented by the Shares outstanding at the time of creation. Assuming a constant gold price, the trading price of the Shares is expected to gradually decline relative to the price of gold as the amount of gold bullion represented by the Shares gradually declines. Termination of the Trust The Sponsor may terminate the Trust or the Fund in its sole discretion. The Sponsor will give written notice of the termination of the Trust or the Fund, specifying the date of termination, to Shareholders of the Trust or the Fund, as applicable, at least 30 days prior to the termination of the Trust or the Fund. The Sponsor will, within a reasonable time after such termination, sell all of the gold bullion not already distributed to Authorized Participants redeeming Creation Units, if any, in such a manner so as to effectuate orderly sales and a minimal market impact. The Sponsor shall not be liable for or responsible in any way for depreciation or loss incurred by reason of any sale or sales made in accordance with the provisions of the Declaration of Trust. The Sponsor may suspend its sales of the gold bullion upon the occurrence of unusual or unforeseen circumstances, including, but not limited to, a suspension in trading of gold. Amendments The Declaration of Trust can be amended by the Sponsor in its sole discretion and without the Shareholders consent by making an amendment, a supplement thereto, or an amended and restated declaration of trust. Any such restatement, amendment and/or supplement hereto shall be effective on such date as designated by the Sponsor in its sole discretion. Fiscal Year The fiscal year of the Fund ends on March 31 of each year. Not a Regulated Commodity Pool The Fund is not regulated by the CFTC under the CEA as a commodity pool, and is not operated by a CFTC-regulated commodity pool operator. Investors in the Fund do not receive the regulatory protections afforded to investors in regulated commodity pools. 
+ 2 
+
+Table of Contents 
+
+DESCRIPTION OF THE SHARES The beneficial interest in the Trust may be divided into one or more series. The Fund is one such series. Each share of a series of the Trust shall represent an equal beneficial interest in the net assets of such series, and each holder of shares of a series shall be entitled to receive such holder s pro rata share of distributions of income and capital gains, if any, made with respect to such series. Upon redemption of the shares of any series, the applicable shareholder shall be paid solely out of the fund s and property of such series of the Trust. All shares are fully paid and non-assessable. Description of Limited Rights The shares do not represent a traditional investment and should not be viewed as similar to shares of a corporation operating a business enterprise with management and a board of directors. Holders of the shares do not have the statutory rights normally associated with the ownership of shares of a corporation, including, for example, the right to bring oppression or derivative actions. All shares are of the same class with equal rights and privileges. Each share is transferable, is fully paid and non-assessable and entitles the holder to vote on the limited matters upon which investors may vote under the Trust s agreement. The shares are entitled to be redeemed or exchanged for gold. The shares do not entitle their holders to any conversion or pre-emptive rights or redemption rights for single shares. Redemption of Shares The shares may be redeemed by or through an Authorized Participant in large aggregations of Shares referred to as Creation Units. See Creation and Redemption of Shares by Authorized Participants for details. Distributions No Share shall have any priority or preference over any other Share of the same series with respect to dividends or distributions of the Trust or otherwise. All dividends and distributions shall be made ratably among all Shareholders of a series from the assets held with respect to such Series according to the number of Shares of such Series held of record by such Shareholders on the record date for any dividend or distribution or on the date of termination of the Trust, as the case may be. Voting Rights Under the Declaration of Trust, shareholders have no voting rights except as the Sponsor may consider desirable and so authorize in its sole discretion from time to time. Book-Entry Form DTC will act as securities depository for the Shares. DTC is a limited-purpose trust company organized under the laws of the State of New York, a member of the Federal Reserve System, a clearing corporation within the meaning of the New York Uniform Commercial Code, and a clearing agency registered pursuant to the provisions of Section 17A of the Exchange Act. DTC was created to hold securities of DTC Participants and to facilitate the clearance and settlement of transactions in such securities among the DTC Participants through electronic book-entry changes. This eliminates the need for physical movement of securities certificates. DTC Participants include securities brokers and dealers, banks, trust companies, clearing corporations, and certain other organizations, some of whom (and/or their representatives) own DTC. Access to the DTC system is also available to others such as banks, brokers, dealers and trust companies that clear through or maintain a custodial relationship with a DTC Participant, either directly or indirectly. DTC is expected to agree with and represent to the DTC Participants that it will administer its Book-Entry System in accordance with its rules and bylaws and the requirements of law. Individual certificates will not be issued for the Shares. Instead, one or more global certificates will be signed by the Administrator and the Sponsor on behalf of the Fund, registered in the name of Cede Co., as nominee for DTC, and deposited with the Administrator on behalf of DTC. The global certificates will evidence all of the Shares outstanding at any time. The representations, undertakings and agreements made on the part of the Fund in the global certificates are made and intended for the purpose of binding only the Fund and not the Administrator or the Sponsor individually. Upon the settlement date of any creation, transfer or redemption of Shares, DTC will credit or debit, on its book-entry registration and transfer system, the amount of the Shares created, transferred or redeemed to the accounts of the appropriate DTC Participants. The Administrator and the Authorized Participants will designate the accounts to be credited and charged in the case of creation or redemption of Shares. Beneficial ownership of the Shares will be limited to DTC Participants, Indirect Participants and persons holding interests through DTC Participants and Indirect Participants. Owners of beneficial interests in the Shares will be shown on, and the transfer of ownership will be effected only through, records maintained by DTC (with respect to DTC Participants), the records of DTC Participants (with respect to Indirect Participants), and the records of Indirect Participants (with respect to Shareholders that are not DTC Participants or Indirect Participants). Shareholders are expected to receive from or through the DTC Participant maintaining the account through which the Shareholder has purchased their Shares a written confirmation relating to such purchase. Shareholders that are not DTC Participants may transfer the Shares through DTC by instructing the DTC Participant or Indirect Participant through which the Shareholders hold their Shares to transfer the Shares. Shareholders that are DTC Participants may transfer the Shares by instructing DTC in accordance with the rules of DTC. Transfers will be made in accordance with standard securities industry practice. DTC may decide to discontinue providing its service with respect to Creation Units and/or the Shares by giving notice to the Administrator and the Sponsor. Under such circumstances, the Administrator and the Sponsor will either find a replacement for DTC to perform its functions at a comparable cost or, if a replacement is unavailable, terminate the Fund. The rights of the Shareholders generally must be exercised by DTC Participants acting on their behalf in accordance with the rules and procedures of DTC. Because the Shares can only be held in book-entry form through DTC and DTC Participants, investors must rely on DTC, DTC Participants and any other financial intermediary through which they hold the Shares to receive the benefits and exercise the rights described in this section. Investors should consult with their broker or financial institution to find out about procedures and requirements for securities held in book-entry form through DTC. 
+ 3 
+
+Table of Contents 
+
+Share Splits If the Sponsor believes that the per Share price in the secondary market for Shares has fallen outside a desirable trading price range, the Sponsor may cause the Fund to declare a split or reverse split in the number of Shares outstanding and to make a corresponding change in the number of Shares constituting a Creation Unit. Delivery of Gold to and from the Fund The Custodian is required to use reasonable care in selecting sub-custodians and will monitor the conduct of each sub-custodian, and, where it is legally permissible to do so, promptly advise the Fund of any difficulties or problems existing with respect to such sub-custodian of which the Custodian is aware. The Custodian is obliged under the Allocated Gold Account Agreement to use commercially reasonable efforts to obtain delivery of gold bullion from those sub-custodians appointed by it. Under the Allocated Gold Account Agreement, except for an obligation on the part of the Custodian to use commercially reasonable efforts to obtain delivery of the Fund s gold bullion bars from any sub-custodians appointed by the Custodian, the Custodian is not liable for the acts or omissions, or for the solvency, of its sub-custodians unless the selection of such sub-custodians was made by the Custodian fraudulently or negligently. THE SPONSOR The Sponsor of the Trust and the Fund is Franklin Holdings, LLC. The Sponsor is a Delaware limited liability company and was formed July 21, 2021. Franklin Resources, Inc., a corporation registered under Delaware law, is the ultimate parent company of the Sponsor. The Sponsor is responsible for establishing the Fund and for the registration of the Shares. The Sponsor generally oversees the performance of the Fund s principal service providers, but does not exercise day-to-day oversight over such service providers. The Sponsor, with assistance and support from the Administrator, is responsible for preparing and filing periodic reports on behalf of the Fund with the SEC and will provide any required certification for such reports. The Sponsor will designate the independent registered public accounting firm of the Fund and may from time to time employ legal counsel for the Fund. The Marketing Agent assists the Sponsor in marketing the Shares. The Marketing Agent is an affiliate of the Sponsor. The Sponsor maintains a public website on behalf of the Fund, containing information about the Fund and the Shares. The Fund s website is https://www.franklintempleton.com/investor/investments-and-solutions/investment-options/etfs/. Liability of the Sponsor and Indemnification The Sponsor is not liable to the Trust, Fund, or any series of the Trust, the Trustee or any Shareholder for any action taken or for refraining from taking any action in good faith, or for errors in judgment or for depreciation or loss incurred by reason of the sale of any gold bullion or other assets of the Fund or the Trust. However, the preceding liability exclusion will not protect the Sponsor against any liability resulting from its own gross negligence, bad faith, or willful misconduct. The Sponsor and each of its shareholders, members, directors, officers, employees, affiliates and subsidiaries are indemnified by the Trust and held harmless against any losses, liabilities or expenses incurred in the performance of its duties under the Declaration of Trust without gross negligence, bad faith, or willful misconduct. The Sponsor may rely in good faith on any paper, order, notice, list, affidavit, receipt, evaluation, opinion, endorsement, assignment, draft or any other document of any kind prima facie properly executed and submitted to it by the Trustee, the Trustee s counsel or by any other person for any matters arising under the Declaration of Trust. The Sponsor shall in no event be deemed to have assumed or incurred any liability, duty, or obligation to any Shareholder or to the Trustee other than as expressly provided for in the Declaration of Trust. Such indemnity includes payment from the Trust of the costs and expenses incurred in defending against any indemnified claim or liability under the Declaration of Trust. THE TRUSTEE Delaware Trust Company, a subsidiary of the Corporation Service Company, serves as Trustee of the Trust. The Trustee s principal offices are located at 251 Little Falls Drive, Wilmington, DE 19808. The structure of the Trust and the number and/or identity of the Trustee may be amended in the future via amendments to the Trust s Certificate of Trust and the Declaration of Trust. The Trustee s Role Liability of the Trustee and indemnification The Trustee is not liable or accountable to the Trust or any other person or under any agreement to which the Trust or any series of the Trust is a party, except for a Trustee s breach of its obligations pursuant to the Declaration of Trust or its own willful misconduct, bad faith or gross negligence. The Trustee and each of its officers, affiliates, directors, employees, and agents will be indemnified by the Trust from and against any losses, claims, taxes, damages, reasonable expenses, and liabilities incurred with respect to the creation, operation or termination of the Trust, the execution, delivery or performance of the Declaration of Trust or the transactions contemplated thereby; provided that the indemnified party acted without willful misconduct, bad faith or gross negligence. Duties The Trustee has none of the duties or liabilities of the Sponsor. The duties of the Trustee shall be limited to (i) accepting legal process served on the Trust in the State of Delaware, (ii) the execution of any certificates required to be filed with the Secretary of State of the State of Delaware which the Trustee is required to execute under Section 3811 of the Delaware Statutory Trust Act, and (iii) any other duties specifically allocated to the Trustee in the Declaration of Trust or agreed in writing with the Sponsor from time to time. Resignation, discharge or removal of Trustee; successor trustees The Trustee may resign at any time by giving at least 60 days advance written notice to the Trust, provided that such resignation will not become effective until such time as a successor Trustee has accepted appointment as Trustee of the Trust. The Sponsor may remove a Trustee at any time by giving at least 60 days advance written notice to the Trustee, provided that such removal will not become effective until such time as a successor Trustee has accepted appointment as Trustee of the Trust. 
+ 4 
+
+Table of Contents 
+
+Upon effective resignation or removal, the Trustee will be discharged of its duties and obligations. THE CASH CUSTODIAN BNYM serves as the custodian of the Fund s cash, if any. Pursuant to the BNYM Custody Agreement, BNYM has agreed to establish and maintain one or more cash accounts for the Fund. BNYM shall also maintain books and records segregating the assets of the Fund from the assets of any other series of the Trust. With respect to all cash held pursuant to the BNYM Custody Agreement, BNYM shall, unless otherwise instructed to the contrary, (a) receive all income and other payments and advise the Fund as promptly as practicable of any such amounts due but not paid; and (b) endorse for collection checks, drafts or other negotiable instruments. THE GOLD CUSTODIAN JPMorgan serves as the Custodian for the Fund s gold bullion. JPMorgan is a National Association incorporated in the United States of America. Its London office is located at 25 Bank St, Canary Wharf, London E14 5JP, United Kingdom. While the UK operations of the Custodian are regulated by the FCA in the United Kingdom, the custodial services provided by the Custodian are presently not a regulated activity subject to the rules of the FCA. The Custodian is responsible for safekeeping the Fund s gold bullion. The Custodian facilitates the transfer of gold bullion into and out of the Fund through the unallocated gold bullion accounts it may maintain for each Authorized Participant or unallocated gold accounts that may be maintained for an Authorized Participant by another London Precious Metals Clearing Limited LPMCL clearing bank, and through the unallocated and allocated gold bullion accounts it maintains for the Fund. The Custodian is responsible for allocating specific bars of gold bullion to the Fund Allocated Account. The Custodian provides the Fund with regular reports detailing the gold bullion transfers into and out of the Fund Unallocated Account and the Fund Allocated Account and identifying the gold bullion bars held in the Fund Allocated Account. The Custodian and its affiliates may from time to time purchase or sell gold bullion or Shares for their own accounts, as agents for their customers and for accounts over which they exercise investment discretion. The Custodian holds the gold bullion deposited with and held for the account of the Fund at its nominated vault premises, except when the gold bullion has been allocated in the vault of a sub-custodian solely for temporary custody and safekeeping. If held by a sub-custodian, the Custodian has agreed that it will use commercially reasonable efforts promptly to transport the gold bullion from the sub-custodian s vault to the Custodian s vault, at the Custodian s cost and risk. Unless otherwise agreed by the Fund, such vaults will be located within the United Kingdom. The Custodian is a market maker, clearer and approved weigher of gold under the rules of the LBMA. The Custodian, as instructed by the Sponsor or the Fund, is authorized to accept, on behalf of the Fund, deposits of gold bullion in unallocated form. Acting on standing instructions given by the Sponsor or the Fund, the Custodian allocates gold bullion deposited in unallocated form with the Fund by selecting bars of gold bullion for deposit to the Fund Allocated Account from unallocated bars which the Custodian holds or by instructing a sub-custodian to allocate bars from unallocated bars held by the sub-custodian. All gold bullion allocated to the Fund must conform to the rules, regulations, practices and customs of the LBMA, and the Custodian must replace any non-conforming gold bullion with conforming gold bullion as soon as reasonably practicable. In addition, the Custodian has undertaken to seek to replace any pre-2012 gold in the Fund Allocated Account with post-2012 gold as soon as reasonably practicable. The gold bullion bars in an allocated gold bullion account are specific to that account and are identified by a list which shows, for each gold bullion bar, the refiner, assay or fineness, serial number and gross and fine weight. Gold bullion held in the Fund Allocated Account is the property of the Fund and is not traded, leased or loaned under any circumstances. The gold bullion bars held in an unallocated account are not segregated from the Custodian s assets. The account holder therefore has no ownership interest in any specific bars of gold bullion that the unallocated account s bullion dealer holds or owns. The account holder is an unsecured creditor of the bullion dealer, and credits to an unallocated account are at risk of the bullion dealer s insolvency, in which event it may not be possible for a liquidator to identify any gold bullion held in an unallocated account as belonging to the account holder rather than to the bullion dealer. The Trust, on behalf of the Fund, and the Custodian have entered into Custody Agreements which establish the Fund Unallocated Account and the Fund Allocated Account. The Fund Unallocated Account is used for several purposes. It is used to facilitate the transfer of gold bullion deposits and gold bullion redemption distributions between Authorized Participants and the Fund in connection with the creation and redemption of Creation Units. It is also used for sales of gold bullion to pay the Fund s expenses, and when gold bullion is transferred into and out of the Fund. The Custodian is instructed to allocate all gold bullion deposited with the Fund to the Fund Allocated Account by the close of business on each Business Day. The Custodian is required to use reasonable care in selecting sub-custodians and will monitor the conduct of each sub-custodian, and, where it is legally permissible to do so, promptly advise the Trust of any difficulties or problems existing with respect to such sub-custodian of which the Custodian is aware. The Custodian is obliged under the Allocated Gold Account Agreement to use or to procure any sub-custodian to use commercially reasonable efforts to promptly transport gold bullion held for the Fund to the Custodian s London vault premises at Custodian s cost and risk. Under the Allocated Gold Account Agreement, the Custodian is liable in contract, tort or otherwise for any loss, damage or expense suffered directly or indirectly by the Fund as a result of any act or omission of any sub-custodian or bankruptcy or insolvency event of any sub-custodian appointed by the Custodian. Under the customs and practices of the London bullion market, allocated gold bullion is held by custodians and, on their behalf, by sub-custodians under arrangements that permit each entity for which gold bullion is being held: (1) to request from the entity s custodian (and a custodian or sub-custodian to request from its sub-custodian) a list identifying each gold bullion bar being held and the identity of the particular custodian or sub-custodian holding the gold bullion bar and (2) to request the entity s custodian to withdrawal the entity s gold within two business days following demand for withdrawal. Each custodian or sub-custodian is obligated under the customs and practices of the London bullion market to provide the bar list and the identification of custodians and sub-custodians referred to in (1) above, and each custodian is obligated to release gold as requested. The Sponsor, the Fund and the Custodian have entered into custody agreements which accurately reflect the roles and liabilities of each party. The Custodian has agreed to maintain insurance in connection with the storage of the Fund s precious metal under the Custody Agreements, including covering any loss of gold, on such terms and conditions as it considers appropriate, which may not cover the full amount of gold. The Fund will not be a beneficiary of any such insurance and does not have the ability to dictate the nature or amount of the coverage. Therefore, Shareholders cannot be assured that the Custodian maintains adequate insurance or any insurance with respect to the gold bullion held by the Custodian on behalf of the Fund. 
+ 5 
+
+Table of Contents 
+
+The Custodian has agreed to permit, and to procure that any sub-custodian permit, the Sponsor and the Trust and their designated representatives , independent public accountants and bullion auditors access to the Custodian s premises upon reasonable notice during normal business hours, to examine on the Custodian s premises the gold bullion held by the Custodian and such records as they may reasonably require to perform their respective duties with regard to investors in the Fund s Shares. The Sponsor s officers and/or properly designated representatives will verify the Fund s holdings at least annually. The independent public accountants endeavor to examine the gold bullion held by the Custodian in person at least annually, but are under no legal obligation to do so. Custody Agreements The Allocated Gold Account Agreement and the Unallocated Gold Account Agreement between the Trust, on behalf of the Fund, and the Custodian establishes the Fund Allocated Account and the Fund Unallocated Account, respectively. These agreements are sometimes referred to together as the Custody Agreements. The following is a description of the material terms of the Custody Agreements. As the Custody Agreements are similar in form, they are discussed together, with material distinctions between the agreements noted. Deposits into the Fund Unallocated Account The Fund may deposit gold into an Unallocated Account by procuring a book-entry transfer: (i) to the Custodian by arranging that its account with a third party in which the Custodian holds gold is credited with an amount of gold equal to the amount of gold to be recorded in the Fund Unallocated Account; or (ii) to the Fund Unallocated Account by the Fund arranging that a third party for whom the Custodian maintains an account holding gold instructs the Custodian to debit from its account with the Custodian an amount of gold and to credit such amount to the Fund Unallocated Account; or by the delivery of gold to the Custodian at its nominated London vault premises. No interest will be paid by the Custodian on any credit balance to the Fund Unallocated Account. Withdrawals from the Fund Unallocated Account The Custodian transfers gold bullion from the Fund Unallocated Account only in accordance with the Trust s instructions to the Custodian. A withdrawal of gold bullion from the Fund Unallocated Account may only be made (1) by transfer to an Authorized Participant account relating to the same kind of gold and having the same denomination as that which the Fund Unallocated Account relates when Shares are redeemed by an Authorized Participant; (2) by transfer of gold to the allocated account; (3) by a book-entry transfer by a debit by the Custodian of an amount of gold from the Fund Unallocated Account and credit of such amount to an account maintained by the Custodian for another client or instructing credit of such amount to an account maintained by a third party or (4) by the collection of gold from the Custodian s vault. Any gold bullion made available in physical form will be in a form which complies with the rules, regulations, practices and customs of the LBMA, the Bank of England or any applicable regulatory body, or in such other form as may be agreed between the Administrator and the Custodian, and in all cases will comprise one or more whole gold bullion bars selected by the Custodian. The Custody Agreements provide for the full allocation of all gold bullion received from the Authorized Participants or other third parties and credited to the Fund Unallocated Account at the end of each Business Day. Deposits into the Fund Allocated Account With respect to gold bullion delivered by Authorized Participants, the Custodian receives transfers of gold bullion into the Fund Allocated Account only at the Trust s instructions by (1) procuring a book-entry transfer: (a) to the Custodian by arranging that the Custodian s account with a Sub-Custodian with which the Custodian holds gold for the Fund is credited with the specific gold bullion (identified, whether by bar serial numbers or otherwise) to be recorded in the Fund s Allocated Account; (b) to the Fund s Allocated Account by the Fund arranging that a third party for whom the Custodian maintains an allocated account holding gold bullion instructs the Custodian to debit from its allocated account with the Custodian and to credit to the Fund s Allocated Account the specific gold bullion (identified, whether by bar serial numbers or otherwise) to be recorded in the Fund s Allocated Account; or (iii) to the Fund s Allocated Account by agreeing with the Custodian that, in relation to the specific gold bullion (identified, whether by bar serial numbers or otherwise) which the Custodian holds on an allocated basis for its own account and which is of the type which the Custodian has agreed to hold for the Fund, the Custodian debits from its account record of its own gold bullion and credits to the Fund s Allocated Account such gold bullion (identified, whether by bar serial numbers or otherwise); or (2) the delivery of gold bullion to the Custodian at its nominated vault premises at the Fund s expense and risk. Withdrawals from the Fund Allocated Account The Custodian transfers gold bullion from the Fund Allocated Account only in accordance with the Trust s instructions. Generally, the Custodian transfers gold bullion from the Fund Allocated Account only by a debit by the Custodian of specific gold bullion (identified, whether by bar serial numbers or otherwise) from the Fund s Allocated Account and (1) a book-entry transfer by a debit by: (a) the Custodian instructing credit of such gold bullion to the account specified by the Fund and maintained by the Custodian s sub-custodian, (b) credit by the Custodian of such gold bullion to an allocated account maintained by the Custodian for another of its clients (as specified by the Fund), or (c) where pursuant to a separate agreement with the Custodian, credit by the Custodian of such gold bullion to its account record of gold bullion which the Custodian holds on an allocated basis for the Custodian s own account; or (2) the collection of such gold bullion from certain specified vaults at the Fund s expense and risk. The Trust and the Custodian expect that the Trust will withdraw gold bullion physically from the Fund Allocated Account (rather than by crediting it to the Fund Unallocated Account and instructing a further transfer from that account) only in exceptional circumstances, such as if, for some unforeseen reason, it was not possible to transfer gold bullion in unallocated form. Exclusion of Liability The Custodian will adhere to the standards of a Reasonable and Prudent Custodian (as defined in the Agreement) in the performance of its duties under the Custody Agreements and is only responsible for any loss or damage suffered by the Fund as a direct result of any negligence, fraud, or willful default on the part of the Custodian in the performance of the duties under the Custody Agreements. The Custodian s liability is further limited to the market value of the gold bullion held in the Fund Allocated Account and the amount of the gold bullion credited to the Fund Unallocated Account at the time of such negligence, fraud, or willful default. Furthermore, the Custodian has no duty to make or take or to require any sub-custodian selected by it to make or take any special arrangements or precautions beyond those required by the Custody Agreements. In the event of a loss caused by the failure of the Custodian or a sub-custodian to exercise reasonable care, the Trust, on behalf of the Fund, has the right to seek recovery from the Custodian in breach. The Custodian is not liable for any delay in performance or any non-performance of any of its obligations under the Custody Agreements by reason of any cause beyond the Custodian s reasonable control, including any breakdown, malfunction or failure of, or in connection with, any communication, computer, transmission, cyber attack, clearing or settlement facilities, industrial action, war, civil war, hostilities, epidemic, pandemic, revolution, rebellion, insurrection, civil strife, acts, rules and regulations of any governmental or supra national bodies or authorities or relevant regulatory or self-regulatory organizations. 
+ 6 
+
+Table of Contents 
+
+Indemnity The Custodian will be indemnified by the Fund on demand against all costs and expenses, damages, liabilities and losses which the Custodian may suffer or incur, directly in connection with the Custody Agreement except to the extent that such sums are due directly to the Custodian s negligence, willful default, fraud, or material breach of the Custody Agreement. Termination Any party may terminate the Custody Agreement by giving not less than one hundred twenty (120) business days written notice to the other parties; and the Custody Agreement shall terminate automatically, without further notice or action by any party, upon a bankruptcy or insolvency event. THE MARKETING AGENT Franklin Distributors, LLC is the Marketing Agent of the Fund. The Marketing Agent is an affiliate of the Sponsor and has its principal address at One Franklin Parkway, San Mateo, CA 94403-1906. The Marketing Agent and its affiliates may from time to time purchase or sell gold or Shares for their own account, as agent for their customers and for accounts over which they exercise investment discretion. The Marketing Agent is responsible for marketing the Fund and the Shares on a continuous basis. Among other things, the Marketing Agent will assist the Sponsor in: (1) developing a marketing plan for the Fund on an ongoing basis; (2) preparing marketing materials regarding the Shares, including the content on the Fund s website; (3) executing the marketing plan for the Fund; (4) conducting public relations activities related to the marketing of Shares; and (5) incorporating gold into its strategic and tactical exchange-traded fund research. CREATION AND REDEMPTION OF SHARES BY AUTHORIZED PARTICIPANTS The Fund creates and redeems Shares from time to time, but only in one or more Creation Units (a Creation Unit equals a block of 50,000 Shares). The creation and redemption of Creation Units is only made in exchange for the delivery to the Fund or the distribution by the Fund of the amount of gold bullion represented by the Creation Units being created or redeemed. The amount of gold bullion required to be delivered to the Fund in connection with any creation, or paid out upon redemption, is based on the combined NAV of the number of Shares included in the Creation Units being created or redeemed as determined on the day the order to create or redeem Creation Units is properly received and accepted. The standard settlement cycle for most broker-dealer securities transactions is two business days, T+2 (the trade date plus two business days). Authorized Participants are the only persons that may place orders to create and redeem Creation Units. To become an Authorized Participant, a person must enter into a Participant Agreement with the Sponsor and the Administrator. The Participant Agreement and the related procedures attached thereto may be amended by the Administrator and the Sponsor without the consent of any Shareholder or Authorized Participant. Authorized Participants who make deposits with the Fund in exchange for Creation Units receive no fees, commissions or other form of compensation or inducement of any kind from either the Sponsor or the Fund, and no such person has any obligation or responsibility to the Sponsor or the Fund to effect any sale or resale of Shares. The initial Authorized Participant is a statutory underwriter under Section 2(a)(11) of the Securities Act. Authorized Participants are cautioned that some of their activities will result in their being deemed participants in a distribution in a manner which would render them statutory underwriters and subject them to the prospectus- delivery and liability provisions of the Securities Act, as described in the section Plan of Distribution in the Fund s prospectus. Prior to initiating any creation or redemption order, an Authorized Participant must have an existing unallocated account with a LPMCL clearing bank identified by the Authorized Participant to the Custodian and the Sponsor, or an agreement with the Custodian itself establishing an unallocated account in London. An unallocated account is an account with a bullion dealer, which may also be a bank, to which a fine weight amount of gold bullion is credited. Transfers to or from an unallocated account are made by crediting or debiting the number of ounces of gold bullion being deposited or withdrawn. The account holder is entitled to direct the bullion dealer to deliver an amount of physical gold bullion equal to the amount of gold bullion standing to the credit of the unallocated account holder. Gold bullion held in an unallocated account is not segregated from the Custodian s assets. The account holder therefore has no ownership interest in any specific bars of gold bullion that the bullion dealer holds or owns. The account holder is an unsecured creditor of the bullion dealer, and credits to an unallocated account are at risk of the bullion dealer s insolvency, in which event it may not be possible for a liquidator to identify any gold bullion held in an unallocated account as belonging to the account holder rather than to the bullion dealer. Certain Authorized Participants are able to participate directly in the gold bullion market and the gold futures market. In some cases, an Authorized Participant may from time to time acquire gold from or sell gold to its affiliated gold trading desk, which may profit in these instances. The Sponsor believes that the size and operation of the gold bullion market make it unlikely that an Authorized Participant s direct activities in the gold or securities markets will impact the price of gold or the price of the Shares. Authorized Participants must be DTC Participants and must be registered as broker- dealers under the Exchange Act, and regulated by the Financial Industry Regulatory Authority FINRA ), or must be exempt from being or otherwise must not be required to be to regulated or registered, and must be qualified to act as brokers or dealers in the states or other jurisdictions where the nature of their business so requires. Each Authorized Participant will have its own set of rules and procedures, internal controls and information barriers as it determines is appropriate in light of its own business and the regulatory regime applicable thereto. Authorized Participants may act for their own accounts or as agents for broker-dealers, custodians and other securities market participants that wish to create or redeem Creation Units. An order for one or more Creation Units may be placed by an Authorized Participant on behalf of multiple clients. Persons interested in purchasing Creation Units should contact the Sponsor or the Administrator to obtain the contact information for the Authorized Participants. Shareholders who are not Authorized Participants will only be able to redeem their Shares through an Authorized Participant. All gold bullion must be delivered by Authorized Participants to the Fund and distributed by the Fund in unallocated form through credits and debits between Authorized Participants unallocated accounts and the Fund Unallocated Account. All gold represented by a credit to any unallocated account represents a right to receive a specified quantity of fine ounces of gold. Under the Participant Agreement with respect to each Authorized Participant, the Sponsor has agreed to indemnify the Authorized Participants against certain liabilities, including liabilities under the Securities Act, and to contribute to the payments the Authorized Participants may be required to make in respect of those liabilities. The following description of the procedures for the creation and redemption of Creation Units is only a summary and investors should review the description of the procedures for the creation and redemption of Creation Units set forth in the Declaration of Trust, the Administration Agreement and the form of Participant Agreement, each of which has been filed as an exhibit to the Fund s registration statement. 
+ 7 
+
+Table of Contents 
+
+Creation Procedures On any Business Day, an Authorized Participant may place an order with the Administrator to create one or more Creation Units. Purchase orders must be placed with the Administrator no later than 3:59:59 p.m. New York time. The day on which the Administrator receives a valid purchase order is the purchase order date. Prior to the delivery of Creation Units for a purchase order, the Authorized Participant must also have wired to the Administrator the non-refundable transaction fee due for the purchase order. Determination of Required Deposits The total deposit required to create each Creation Unit, or a Creation Unit Gold Delivery Amount , is an amount of gold and cash, if any, that is in the same proportion to the total assets of the Fund (net of estimated accrued expenses and other liabilities) on the date the order to purchase is properly received as the number of Shares to be created under the purchase order is in proportion to the total number of Shares outstanding on the date the order is received. Delivery of Required Deposits An Authorized Participant who places a purchase order is responsible for transferring the Creation Unit Gold Delivery Amount to the Fund Unallocated Account on the second Business Day in London following the purchase order date. Upon receipt of the Creation Unit Gold Delivery Amount, the Administrator will direct DTC to credit the number of Creation Units ordered to the Authorized Participant s DTC account. The expense and risk of delivery, ownership and safekeeping of gold bullion until such gold bullion has been received by the Fund will be borne solely by the Authorized Participant. The Custodian transfers the Creation Unit Gold Delivery Amount from the Fund Unallocated Account to the Fund Allocated Account by allocating to the Fund Allocated Account specific bars of gold which the Custodian holds, or instructing a sub-custodian to allocate specific bars of gold held by or for the sub-custodian. As noted above, the Custodian will, on a best efforts basis and subject to available liquidity, seek to allocate post-2012 gold to the Fund Allocated Account. Gold bullion held in the Fund s allocated account is the property of the Fund and is not traded, leased or loaned under any circumstances. The Custodian will use reasonable commercial efforts to minimize the amount of gold bullion held in the Fund Unallocated Account at all times during each London business day; however, all Shareholders will be exposed to the risks of unallocated gold bullion until the Custodian completes the allocation process. Rejection of Purchase Orders The Fund has the right, but not the obligation, to reject a purchase order if (i) the order is not in proper form as described in the Participant Agreement, (ii) the fulfillment of the order, in the opinion of its counsel, might be unlawful, (iii) if the Fund determines that acceptance of the order from an Authorized Participant would expose the Fund to credit risk; or (iv) circumstances outside the control of the Administrator, the Sponsor or the Custodian make the purchase, for all practical purposes, not feasible to process. Redemption Procedures The procedures by which an Authorized Participant can redeem one or more Creation Units mirror the procedures for the creation of Creation Units. On any Business Day, an Authorized Participant may place an order with the Administrator to redeem one or more Creation Units. Redemption orders must be placed with the Administrator no later than 3:59:59 p.m. New York time. A redemption order so received is effective on the date it is received in satisfactory form by the Administrator. The day on which the Administrator receives a valid redemption order is the redemption order date. Determination of Redemption Distribution The redemption distribution from the Fund consists of a credit to the redeeming Authorized Participant s unallocated account in the amount of the Creation Unit Gold Delivery Amount. The Creation Unit Gold Delivery Amount for redemptions is the number of ounces of gold held by the Fund to be paid out upon redemption of a Creation Unit. The Sponsor anticipates that in the ordinary course of the Fund s operations there will be no cash distributions made to Authorized Participants upon redemptions. Delivery of Redemption Distribution The redemption distribution due from the Fund is delivered to the Authorized Participant on the second Business Day following the redemption order date if, by 10:00 A.M. New York time on such second Business Day, the Administrator s DTC account has been credited with the Creation Units to be redeemed. The Custodian transfers the redemption amount from the Fund Allocated Account to the Fund Unallocated Account and, thereafter, to the redeeming Authorized Participant s unallocated account. The Authorized Participant and the Fund are each at risk in respect of gold bullion credited to their respective unallocated accounts in the event of the Custodian s insolvency. Suspension or Rejection of Redemption Orders The Fund may, in its discretion, and will when directed by the Sponsor, suspend the right of redemption, or postpone the redemption settlement date: (1) for any period during which NYSE Arca is closed other than customary weekend or holiday closings, or trading on NYSE Arca is suspended or restricted, (2) for any period during which an emergency exists as a result of which delivery, disposal or evaluation of gold bullion is not reasonably practicable, or (3) for such other period as the Sponsor determines to be necessary for the protection of the Shareholders. The Fund has the right, but not the obligation, to reject a redemption order if (i) the order is not in proper form as described in the Participant Agreement, (ii) the fulfillment of the order, in the opinion of its counsel, might be unlawful, (iii) if the Fund determines that acceptance of the order from an Authorized Participant would expose the Fund to credit risk, or (iv) circumstances outside the control of the Administrator, the Sponsor or the Custodian make the redemption, for all practical purposes, not feasible to process. The Sponsor will not be liable to any person or liable in any way for any loss or damages that may result from any such suspension, postponement or rejection. 
+ 8 
+
+Table of Contents 
+
+Creation and Redemption Transaction Fee An Authorized Participant is required to pay a transaction fee of 500 per order to create or redeem Creation Units. An order may include multiple Creation Units. The transaction fee may be changed from time to time at the sole discretion of the Sponsor and upon written notice to the Authorized Participant, which notice may be provided by disclosure in the Fund s prospectus. In addition, the Sponsor may waive the transaction fee on the creation or redemption of Creation Units for one or more Authorized Participants from time to time in its sole discretion. For example, the Sponsor may determine to waive the transaction fees for the Fund when the Sponsor believes that such waiver is in the best interest of the Fund. When determining whether to waive transaction fees, the Sponsor may consider a number of factors including, but not limited to, whether waiving the fee will facilitate the launch of the Fund or improve the quality of the secondary trading market for the Shares. The Sponsor will notify Authorized Participants of any change in this plan. Item 1A. Risk Factors An investment in the Fund is subject to market risk with respect to the gold markets. Market risk refers to the risk that the market price of gold bullion held by the Trust may go up and down, sometimes rapidly or unpredictably. The market price of the gold bullion has been historically unpredictable. The Fund is not a diversified investment and, therefore, may be more volatile than other investments. An investment in the Fund is not intended as a complete investment plan. Because the Fund principally holds only gold bullion, an investment in the Fund may be more volatile than an investment in a more broadly diversified portfolio and may fluctuate substantially over time. The price of gold can be volatile because gold is comparatively less liquid than other commodities. An investment in the Fund may be deemed speculative. An investment in the Fund should be considered only by persons financially able to maintain their investment and who can bear the risk of loss associated with an investment in the Fund. Investors should review closely the objective and strategy, the investment and operating restrictions of the Fund and familiarize themselves with the risks associated with an investment in the Fund. Adverse developments in gold bullion trading prices may affect the value of an investment in the Fund. One or more factors such as global gold supply and demand, exchange rate and interest rate volatility and inflation expectations may lead to a decrease in gold bullion trading prices. A decline in prices of gold would have a negative impact on the Fund s NAV and Shares. Economic or other events could result in large-scale sales of gold, which could decrease the price of gold and the value of an investment in the Fund. Large-scale distress sales of gold may have a negative impact on the price of gold and reduce the value of an investment in the Fund. The 2008 financial crisis resulted in significantly depressed prices of gold, primarily due to forced sales and deleveraging by institutional investors. Future events or crises may similarly affect gold s price performance, which would, in turn, adversely affect an investment in the Fund. The Fund is subject to the risk that the Fund s gold bullion may be sold at low prices to pay expenses. The Fund s gold bullion may be sold by the Sponsor to pay Fund expenses that are due regardless of the current gold prices. The Fund is not an actively managed investment and does not produce income that could be used to pay expenses. The Sponsor will make no attempt to buy or sell gold bullion to protect against or to take advantage of fluctuations in the price of gold. Therefore, the Fund s gold bullion may be sold at a time when the gold price is low, which could result in a loss to the Fund. Temporary increases in the price of gold due to purchases of gold bullion to deliver to the Fund in exchange for Creation Units may adversely affect the Fund. Purchasing activity associated with acquiring the gold bullion required for deposit into the Fund in connection with the creation of Creation Units, and purchasing activity of other market participants, may temporarily increase the market price of gold, which would likely result in higher prices for the Shares. Other market participants may attempt to benefit from an increase in the market price of gold that may result from increased purchasing activity of gold connected with the issuance of Creation Units. Consequently, the market price of gold may decline immediately after Creation Units are created. If the price of gold declines, it will have a negative impact on the value of the Fund. The price of gold may be affected by the sale of gold by exchange-traded funds ETFs or other exchange-traded vehicles tracking gold markets. Large redemptions of the securities of existing ETFs or other exchange-traded vehicles tracking gold markets, which represent a significant proportion of demand for physical gold bullion, could negatively affect gold bullion prices and the price and NAV of the value of the Fund s Shares. Substantial sales of gold by the official sector could adversely affect an investment in the Shares. The official sector (i.e., central banks, other governmental agencies and multi-lateral institutions) buy, sell and hold gold as part of their reserve assets. The official sector holds a significant amount of gold, most of which is held in vaults and is not bought, sold, leased, swapped or otherwise mobilized in the open market. In the event that future economic, political or social conditions or pressures require members of the official sector to liquidate their gold assets all at once or in an uncoordinated manner, the demand for gold might not be sufficient to accommodate the sudden increase in the supply of gold to the market. This could decrease the price of gold significantly, which would adversely affect an investment in the Fund. Potential discrepancies in the calculation of the LBMA Gold Price PM, as well as any future changes to the LBMA Gold Price PM, could offset the value of the gold bullion held by the Fund and could have an adverse effect on the methodology used to calculate an investment in the Fund. The LBMA Gold Price is determined twice each Business Day (10:30 a.m. and 3:00 p.m. London time) by the participants in a physically settled, electronic and tradable auction administered by the IBA. The IBA oversees a bidding process that determines the price of gold by matching buy and sell orders submitted by the participants for the applicable auction time. The Fund s NAV is determined each day that the Fund s principal market, NYSE Arca, is open for regular trading, based on the price of gold per ounce applied against the number of ounces of gold owned by the Fund. In determining the Fund s NAV, the Administrator generally will value the gold bullion held by the Fund based on the 3:00 p.m. LBMA Gold Price (which is commonly referred to as the LBMA Gold Price PM). In the event that the LBMA Gold Price PM does not prove to be an accurate benchmark and the LBMA Gold Price PM varies materially from the price determined by other mechanisms, the Fund s NAV and the value of an investment in the Shares could be adversely affected. Any future developments in the benchmark, to the extent they have a material impact on the LBMA Gold Price PM, could adversely affect the Fund s NAV and the value of an investment in the Shares. 
+ 9 
+
+Table of Contents 
+
+Further, the calculation of the LBMA Gold Price PM is not an exact process. Rather, it is based upon a procedure of matching orders from participants in the auction process and their customers to sell gold with orders from participants in the auction process and their customers to buy gold at particular prices. The LBMA Gold Price PM does not therefore purport to reflect each buyer or seller of gold in the market, nor does it purport to set a definitive price for gold at which all orders for sale or purchase will take place on that particular day or time. All orders placed into the auction process by the participants will be executed on the basis of the price determined pursuant to the LBMA Gold Price PM auction process (provided that orders may be cancelled, increased or decreased while the auction is in progress). It is possible that electronic failures or other unanticipated events may occur that could result in delays in the announcement of, or the inability of the system to produce, an LBMA Gold Price PM on any given date. If concerns about the integrity or reliability of the LBMA Gold Price PM arise, even if eventually shown to be without merit, such concerns could adversely affect investor interest in gold and therefore adversely affect the price of gold and the value of an investment in the Shares. Because the Fund s NAV is determined using the LBMA Gold Price PM, discrepancies in or manipulation of the calculation of the LBMA Gold Price PM could have an adverse impact on the value of an investment in the Shares. Furthermore, any concern about the integrity or reliability of the pricing mechanism could disrupt trading in gold and products using the LBMA Gold Price PM, such as the Shares. In addition, these concerns could potentially lead to both changes in the manner in which the LBMA Gold Price PM is calculated and/or the discontinuance of the LBMA Gold Price PM altogether. Each of these factors could lead to less liquidity or greater price volatility for gold and products using the LBMA Gold Price PM, such as the Shares, or otherwise could have an adverse impact on the trading price of the Shares. RISKS RELATED TO THE SHARES The Fund is a passive investment vehicle and is not actively managed. The Fund is not actively managed, meaning it does not manage its portfolio to sell gold bullion at times when its price is high, or to acquire gold bullion at low prices in the expectation of future price increases. Also, the Fund does not use any of hedging techniques to attempt to reduce the risks of losses resulting from gold price decreases. An investment in the Fund has inherent costs, which may detract significantly from Fund s investment results. There are two types of costs involved in buying and selling shares, which apply to all securities transactions effectuated on an exchange. When buying or selling Shares through a broker or other intermediary, you will likely incur a brokerage commission or other charges imposed by that broker or intermediary. In addition, you may incur the cost of the spread, that is, the difference between what investors or market makers are willing to pay for Shares (the bid price) and the price at which they are willing to sell Shares (the ask price). Because of the costs inherent in buying or selling Shares, frequent trading may detract significantly from investment results and an investment in Shares may not be advisable for investors who anticipate regularly making small investments. The Fund is subject to responsible sourcing due diligence risk. The Fund seeks to hold only responsibly sourced gold bullion (as defined herein) in its allocated account. The LBMA s Gold Guidance Gold Guidance establishes minimum requirements that are mandatory along the entire gold supply chain for all Good Delivery refiners wishing to trade with the London bullion market. These standards are intended to ensure, among other things, that gold is mined through verified supply chains that meet certain internationally recognized ethical standards. For example, approved LBMA refiners are required to demonstrate their efforts to combat money laundering, financing of terrorism and human rights abuses, and to respect the environment globally. The LBMA s Responsible Sourcing Programme Responsible Sourcing Programme provides a governance and audit framework for monitoring compliance with the Gold Guidance. The Gold Guidance and the LMBA s Responsible Sourcing Programme include tailored due diligence standards with respect to various types of gold, including mined and recycled gold. However, the Gold Guidance and the Responsible Sourcing Programme may not work as intended or may be less effective in the case of recycled gold as the ultimate source(s) of recycled gold may not be identifiable. Specifically, the Gold Guidance sets forth due diligence expectations for recycled gold including documentation required to give assurance of origin and legality. In an effort to enhance efficacy, the due diligence requirements with respect the refiner s assessment of the recycled gold supplier as set forth in the Gold Guidance are expected to cover all precious metals activities carried out by the supplier rather than refiner s direct supply chains only. In addition, the Gold Guidance categorizes types of recycled gold by the level of risk posed and provides additional due diligence and enhanced due diligence guidance per category and includes requirements for secondary refiners supplying recycled melted gold to LBMA Good Delivery refiners to undergo independent assurance on conformance with an Organisation for Economic Cooperation and Development OECD approved responsible sourcing scheme. There is no guarantee that the Gold Guidance or the Responsible Sourcing Programme will be implemented as intended, and there may be instances of non-compliance that are undetected. While the Fund endeavors to hold only responsibly sourced gold, from time to time, in certain circumstances the Fund may hold pre-2012 gold, including, for example, due to a temporary supply constraint or lack of availability. In those circumstances, the Custodian will seek to replace any pre-2012 gold in the Fund s allocated account with post-2012 gold as soon as reasonably practicable. With respect to gold bars refined by a LBMA Good Delivery refiner, to the extent that the gold bars are refined during the period of time that the refiner is on the LBMA Good Delivery current list, the subsequent removal of that refiner from the LBMA Good Delivery Current List to the LBMA Good Delivery Former List does not impact the status of those gold bars as London Good Delivery bars (i.e., such bars continue to be deemed London Good Delivery bars) and, therefore, those bars can continue to be held by the Fund. Neither the Sponsor nor the Fund is responsible for setting, implementing or enforcing the LBMA s Good Delivery standards and may have limited or no ability to independently verify gold sourcing due diligence undertaken by the LBMA. Similarly, the Fund and the Sponsor cannot guarantee all gold held by the Fund, including gold derived from recycled sources, is 100 ethically sourced or compliant with the Gold Guidance. The Fund is not an actively managed investment vehicle. The Sponsor does not make any decision or assessment related to gold sourcing based on its subjective judgment. An active and liquid market for the Shares of the Fund may not be sustained. Although the Shares are listed for trading on NYSE Arca, there is no guarantee that an active trading market will develop. Shareholders therefore have limited access to information about prior market history on which to base their investment decision. If an active trading market for the Shares does not develop, the market prices and liquidity of the Shares may be adversely affected. If an investor needs to sell Shares at a time when no active market for Shares exists, or there is a halt in trading of securities generally or of the Shares, this will most likely adversely affect the price the investor receives for the Shares (assuming the investor is able to sell them). Even if an active trading market for the Shares develops, the market value for the Shares may be highly volatile and could be subject to wide fluctuations after this offering, and therefore, it is difficult to predict the price at which the Shares will trade. 
+ 10 
+
+Table of Contents 
+
+The Shares may trade at a price which is at, above or below the NAV per Share and any discount or premium in the trading price relative to the NAV per Share may widen as a result of non-concurrent trading hours between the Commodity Exchange Inc. (the COMEX and NYSE Arca. The Shares may trade at, above or below the NAV per Share. The NAV per Share fluctuates with changes in the market value of the Fund s assets. The trading price of the Shares fluctuates in accordance with changes in the NAV per Share as well as market supply and demand. The amount of the discount or premium in the trading price relative to the NAV per Share may be influenced by non-concurrent trading hours between the COMEX and NYSE Arca. While the Shares trade on NYSE Arca until 4:00 p.m. Eastern standard time, liquidity in the global gold market may be reduced after the close of the COMEX at 1:30 p.m. Eastern standard time. As a result, after 1:30 p.m. Eastern standard time, trading spreads, and the resulting premium or discount, on the Shares may widen. However, because Shares can be created and redeemed in Creation Units at NAV, the Sponsor believes that large discounts or premiums to the NAV of the Fund are not likely to be sustained over the long term. While the creation/redemption feature is designed to make it more likely that Shares normally will trade on stock exchanges at prices close to the Fund s next calculated NAV, exchange prices are not expected to correlate exactly with the Fund s NAV due to timing reasons, supply and demand imbalances and other factors. In addition, disruptions to creations and redemptions, including disruptions at market makers or Authorized Participants, or to market participants or during periods of significant market volatility, may result in trading prices for Shares that differ significantly from NAV. If the process of creation and redemption of Creation Units encounters any unanticipated difficulties, or unanticipated operational or trading problems arise, the possibility for arbitrage transactions intended to keep the price of the Shares closely linked to the price of gold may not exist and, as a result, the price of the Shares may fall. If the process for the creation and redemption of Shares by Authorized Participants (which depends on, among other things, timely transfers of gold bullion to and by the Custodian) encounters any unanticipated difficulties, potential market participants who would otherwise be willing to purchase or redeem Creation Units to take advantage of arbitrage opportunities may not do so. In addition, there may be unanticipated problems or issues with respect to the mechanics of the Fund s operations or the trading of the Shares that could adversely affect the Fund. To the extent that unanticipated operational or trading problems or other similar issues arise, the Sponsor s past experience and qualifications may not be suitable for solving these problems or issues. In these cases, the liquidity of the Shares may decline and the price of the Shares may fluctuate independently of the price of gold and may fall. The amount of gold represented by each Share will decrease over the life of the Fund due to the sales of gold necessary to pay the Sponsor s Fee and Fund expenses. Without increases in the price of gold sufficient to compensate for that decrease, the price of the Shares will also decline and you will lose money on your investment in Shares. Each outstanding Share represents a fractional, undivided interest in the gold bullion held by the Fund. The Fund does not generate any income and regularly sells gold bullion to pay for its ongoing expenses. Therefore, the amount of gold bullion represented by each Share will gradually decline over time. This is also true with respect to Shares that are issued in exchange for additional deposits of gold bullion into the Fund, as the amount of gold bullion required to create Shares proportionately reflects the amount of gold bullion represented by the Shares outstanding at the time of creation. Assuming a constant gold price, the trading price of the Shares is expected to gradually decline relative to the price of gold as the amount of gold bullion represented by the Shares gradually declines. Investors should be aware that the gradual decline in the amount of gold bullion represented by the Shares will occur regardless of whether the trading price of the Shares rises or falls in response to changes in the price of gold. The ordinary operating expenses of the Fund, which accrue daily, are described in this annual report. The Fund may be subject to certain liabilities (for example, as a result of litigation) that have not been assumed by the Sponsor. The Fund will sell gold bullion to pay those expenses, unless the Sponsor agrees to pay such expenses. An investment in the Shares may be adversely affected by competition from other methods of investing in gold. The Fund competes with other financial vehicles, including traditional debt and equity securities issued by companies in the gold industry and other securities backed by or linked to gold, direct investments in gold and investment vehicles similar to the Fund. Market and financial conditions, and other conditions beyond the Sponsor s control, may make it more attractive to invest in other financial vehicles or to invest in gold directly, which could limit the market for the Shares and reduce the liquidity of the Shares. The liquidation of the Fund or the Trust may occur at a time when the disposition of the Fund s gold will result in losses to investors in Shares. The Trust may have a limited duration in certain circumstances. Upon termination of the Fund or the Trust, the Trustee will sell gold in the amount necessary to cover all expenses of liquidation, and to pay any outstanding liabilities of the Fund. Sales of gold in connection with the liquidation of the Fund at a time of low prices will likely result in losses, or adversely affect your gains, on your investment in Shares. The Fund may be required to terminate and liquidate at a time that is disadvantageous to Shareholders. Redemption orders may be subject to rejection, suspension or postponement. The Fund has the right, but not the obligation, to reject any Redemption Order if (i) the order is not in proper form as described in the Participant Agreement, (ii) the fulfillment of the order, in the opinion of its counsel, might be unlawful, (iii) if the Fund determines that acceptance of the order from an Authorized Participant would expose it to credit risk, or (iv) circumstances outside the control of the Administrator, the Sponsor or the Custodian make the redemption, for all practical purposes, not feasible to process. The Fund may, in its discretion, and will, when directed by the Sponsor, suspend the right of redemption, or postpone the redemption settlement date: (1) for any period during which NYSE Arca is closed other than customary weekend or holiday closings, or trading on NYSE Arca is suspended or restricted, (2) for any period during which an emergency exists as a result of which delivery, disposal or evaluation of gold bullion is not reasonably practicable, or (3) for such other period as the Sponsor determines to be necessary for the protection of the Shareholders. The Sponsor will not be liable to any person or liable in any way for any loss or damages that may result from any such rejection, suspension or postponement. The liquidity of the Fund s Shares may be affected by the withdrawal of Authorized Participants and substantial redemptions by Authorized Participants. If one or more Authorized Participants that have substantial interests in the Fund withdraws from participation, the liquidity of the Shares will likely decrease, which could adversely affect the market price of the Shares. The liquidity of the Shares also may be affected by substantial redemptions by Authorized Participants related to or independent of the withdrawal from participation of Authorized Participants. In the event that there are substantial redemptions of Shares or one or more Authorized Participants with a substantial interest in the Shares withdraws from participation, the liquidity of the Shares will likely decrease, which could adversely affect the market price of the Shares and result in your incurring a loss on your investment. 
+ 11 
+
+Table of Contents 
+
+Shareholders do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act or the protections afforded by the CEA. The Trust is not registered as an investment company under the 1940 Act and is not required to register under such act. Consequently, shareholders do not have the regulatory protections provided to investors in registered investment companies. Furthermore, the Fund is not a commodity pool for purposes of the CEA, and none of the Sponsor, the Trustee, or the Marketing Agent is subject to regulation by the CFTC as a commodity pool operator in connection with the Shares or a commodity trading advisor in connection with the Shares. Consequently, shareholders do not have the regulatory protections provided to investors in CEA-regulated instruments or commodity pools. Shareholders do not have the rights enjoyed by investors in certain other vehicles. Shareholders are not entitled to the same rights as shares issued by a corporation (including, for example, the right to bring oppression or derivative actions). By acquiring Shares, you are not acquiring the right to elect directors, to receive dividends, to vote on certain matters regarding the issuer of your Shares or to take other actions normally associated with the ownership of shares of a corporation. NYSE Arca may halt trading in the Shares, which would adversely impact your ability to sell your Shares. Trading in the Shares may be halted due to market conditions or for other reasons. For example, trading of the Shares may be halted by NYSE Arca in accordance with its rules and procedures, for reasons that, in the view of NYSE Arca, make trading in the Shares inadvisable. Trading may also be halted by NYSE Arca in the event certain information about the value of the Shares or the NAV is not made available as required by such rules and procedures. In addition, shares of the Fund may trade in the secondary market at times when the Fund does not accept orders to purchase or redeem Shares. At such times, Shares may trade in the secondary market with more significant premiums or discounts than might be experienced at times when the Fund accepts purchase and redemption orders. Also, trading generally on NYSE Arca is subject to trading halts caused by extraordinary market volatility pursuant to circuit breaker rules that require trading to be halted for a specified period based on a specified market decline. There can be no assurance that the requirements necessary to maintain the listing of the Shares will continue to be met or will remain unchanged. The Fund will be dissolved if the Shares are delisted from NYSE Arca and are not approved for listing on another national securities exchange within five Business Days of their delisting. The Trust is an emerging growth company and it cannot be certain if the reduced disclosure requirements applicable to emerging growth companies will make the Shares less attractive to investors. The Trust is an emerging growth company as defined in the Jumpstart Our Business Act JOBS Act ). For as long as the Trust continues to be an emerging growth company it may choose to take advantage of certain exemptions from various reporting requirements applicable to other public companies but not to emerging growth companies, which include, among other things: 
+
+exemption from the auditor attestation requirements under Section 404(b) of the Sarbanes-Oxley Act; 
+
+reduced disclosure obligations regarding executive compensation in the Trust s periodic reports and audited financial statements; 
+
+exemptions from the requirements of holding advisory say-on-pay votes on executive compensation and shareholder advisory votes on golden parachute compensation; and 
+
+exemption from any rules requiring mandatory audit firm rotation and auditor discussion and analysis and, unless otherwise determined by the SEC, any new audit rules adopted by the Public Company Accounting Oversight Board. The Trust expects to remain an emerging growth company until the earliest of: (i) last day of the fiscal year following the fifth anniversary after its initial public offering of Shares occurs, (ii) the last day of the fiscal year in which it has annual gross revenue of 1.24 billion or more, or (iii) the date on which it is deemed to be a large accelerated filer under the federal securities laws. Under the JOBS Act, emerging growth companies are also permitted to elect to delay adoption of new or revised accounting standards until companies that are not subject to periodic reporting obligations are required to comply, if such accounting standards apply to non-reporting companies. The Trust cannot predict if investors will find an investment in the Trust less attractive if it relies on these exemptions. RISKS RELATED TO THE CUSTODY OF GOLD The Fund will rely on the Custodian for the safekeeping of essentially all of the Fund s gold bullion. As a result, failure by the Custodian to exercise due care in the safekeeping of the Fund s gold bullion could result in a loss to the Fund. The Fund will be reliant on the Custodian for the safekeeping of its gold bullion. The Administrator is not liable for the acts or omissions of the Custodian. The Administrator has no obligation to monitor the activities of the Custodian other than to receive and review reports prepared by the Custodian pursuant to the Custody Agreements. In addition, the ability to monitor the performance of the Custodian may be limited because under the Custody Agreements the Trust and the Sponsor and any accountants or other inspectors selected by the Sponsor have only limited rights to visit the premises of the Custodian for the purpose of examining the Fund s gold bullion and certain related records maintained by the Custodian. As a result of the above, any failure by the Custodian to exercise due care in the safekeeping of the Fund s gold bullion may not be detectable or controllable by the Administrator and could result in a loss to the Fund. The value of the Shares will be adversely affected if gold owned by the Fund is lost or damaged in circumstances in which the Fund is not in a position to recover the corresponding loss. The Custodian is responsible to the Fund for loss or damage to the Fund s gold only under limited circumstances. The Custody Agreements contemplate that the Custodian will be responsible to the Fund only if it acts with negligence, fraud or in willful default of its obligations under the Custody Agreements. The Custodian has no obligation to replace any gold lost under circumstances for which the Custodian is liable to the Fund. The Custodian s liability to the Fund, if any, will be limited to the value of any gold lost, or the amount of any balance held on an unallocated basis, at the time of the Custodian s negligence, fraud or willful default, or at the time of the act or omission giving rise to the claim. 
+ 12 
+
+Table of Contents 
+
+In addition, because the Custody Agreements are governed by English law, any rights which the holders of the Shares may have against the Custodian will be different from, and may be more limited than, those that could have been available to them under the laws of a different jurisdiction. The choice of English law to govern the Custody Agreements, however, is not expected to affect any rights that the holders of the Shares may have against the Fund. Any loss of gold owned by the Fund will result in a corresponding loss in the NAV of the Fund and it is reasonable to expect that such loss will also result in a decrease in the value at which the Shares are traded on NYSE Arca. Although the terms of the Custody Agreements concerning the Fund s gold are expressly governed by English law, a court hearing any legal dispute concerning that arrangement may disregard that choice of law and apply U.S. law, in which case the ability of the Fund to seek legal redress against the Custodian may be impaired. The obligations of the Custodian under the Custody Agreements are governed by English law. The Trust is a Delaware statutory trust. Any U.S., Delaware or other court situated in the United States may have difficulty interpreting English law, LBMA rules or the customs and practices in the London custody market. It may be difficult or impossible for the Fund to sue the Custodian in a U.S., Delaware or other court situated in the United States. In addition, it may be difficult, time consuming and/or expensive for the Fund to enforce in a foreign court a judgment rendered by a U.S., Delaware or other court situated in the United States. Shareholders and Authorized Participants lack the right under the Custody Agreements to assert claims directly against the Custodian, which significantly limits their options for recourse. Neither the shareholders nor any Authorized Participant will have a right under the Custody Agreements to assert a claim against the Custodian. Gold transferred to the Fund in connection with the creation transactions may not be of the quality required under applicable contractual arrangements. The Fund will sustain a loss if the Fund issues Shares in exchange for gold of inferior quality and that loss will adversely affect the value of all existing Shares. The Fund s arrangements with the Custodian contemplate that the Custodian must undertake certain tasks in connection with the inspection of gold delivered by Authorized Participants in exchange for Creation Units. The Custodian s inspection includes review of the corresponding bar list to ensure that it accurately describes the weight, fineness, refiner marks and bar numbers appearing on the gold bars, but does not include any chemical or other tests designed to verify that the gold received does, in fact, meet the purity requirements referred to in the applicable contractual arrangements. Accordingly, such inspection procedures may not prevent the deposit of gold that fails to meet these purity standards. Each Authorized Participant that deposits gold in the Fund is liable to the Fund if that gold does not meet the requirements applicable to transactions in Creation Units. The Custodian will not be responsible or liable to the Fund or to any investor in the event any gold otherwise properly inspected by it does not meet the purity requirements. To the extent that Creation Units are issued in exchange for gold of inferior quality and the Fund is not able to recover damages from the Authorized Participant that deposited that gold, the total value of the assets of the Fund will be adversely affected and, with it, the Fund s NAV. In these circumstances, it is reasonable to expect that the value at which the Shares trade on NYSE Arca will also be adversely affected. The Fund s lack of insurance protection and the shareholders limited rights of legal recourse against the Fund, the Trustee, the Marketing Agent, the Sponsor, the Custodian and any sub-custodian expose the shareholders to the risk of loss of the Fund s gold for which no person is liable. The Fund does not insure its gold. The Custodian maintains insurance on such terms and conditions as it considers appropriate in connection with its custodial obligations under the Custody Agreements and is responsible for all costs, fees and expenses arising from the insurance policy or policies. The Fund is not a beneficiary of any such insurance and does not have the ability to dictate the existence, nature or amount of coverage. Therefore, shareholders cannot be assured that the Custodian maintains adequate insurance or any insurance with respect to the gold held by the Custodian on behalf of the Fund. In addition, the Custodian Agreement does not require any direct or indirect sub-custodians to be insured or bonded with respect to their custodial activities or in respect of the gold held by them on behalf of the Fund. Further, shareholders legal recourse against the Fund, the Trustee, the Sponsor, the Custodian, and any sub-custodians is limited. Consequently, a loss may be suffered with respect to the Fund s gold which is not covered by insurance and for which no person is liable in damages. Resignation of the Custodian would likely lead to the termination of the Fund if no successor is appointed. The Fund and the Custodian may each terminate any Custody Agreement. The Sponsor would likely terminate and liquidate the Fund if the Custody Agreements are terminated and no successor custodian is appointed by the Sponsor. No assurance can be given that the Sponsor would be able to find an acceptable replacement custodian. The gold bullion custody operations of the Custodian are not subject to specific governmental regulatory supervision. The Custodian is responsible for the safekeeping of the Fund s gold bullion and also facilitates the transfer of gold bullion into and out of the Fund. Although the Custodian is a market maker, clearer and approved weigher under the rules of the LBMA (which sets out good practices for participants in the bullion market), the LBMA is not an official or governmental regulatory body. Furthermore, although the Custodian is generally regulated under the UK by the Prudential Regulatory Authority and the Financial Conduct Authority, such regulations do not directly cover the Custodian s gold bullion custody operations in the UK. Accordingly, the Fund depends on the Custodian to comply with the best practices of the LBMA and to implement satisfactory internal controls for its gold bullion custody operations to keep the Fund s gold bullion secure. 
+ 13 
+
+Table of Contents 
+
+TAX RISKS If a U.S. investor who or that is an individual, estate or trust (each referred to in this paragraph and the next paragraph as an individual sells or exchanges Shares held for more than a year, any gain recognized on the sale or exchange generally will be subject to U.S. federal income tax at a maximum rate of 28 rather than the lower maximum rates applicable to most other long-term capital gains an individual recognizes. Gains recognized by an individual from the sale of collectibles, which term includes gold held for more than one year, are subject to U.S. federal income tax at a maximum rate of 28 rather than the lower maximum rates applicable to most other long-term capital gains individuals recognize (currently a maximum of 20 for individuals). For these purposes, gain an individual recognizes on the sale of an interest in a grantor trust that holds collectibles (such as the Fund) is treated as gain recognized on the sale of the collectibles, to the extent the gain is attributable to unrealized appreciation in value of the collectibles. Therefore, any gain recognized by an individual U.S. investor attributable to a sale or exchange of shares held for more than one year, or attributable to the Fund s sale of any gold that the U.S. investor is treated (through its ownership of Shares) as having held for more than one year, generally will be subject to U.S. federal income tax at a maximum rate of 28 . The tax rates for capital gains recognized on the sale of assets held by an individual U.S. investor for one year or less, or by a taxpayer other than an individual, are generally the same as those at which ordinary income is taxed. A U.S investor will be required to recognize gain or loss upon a sale of gold by the Fund (as discussed above), even though some or all of the proceeds of such sale are used by the Sponsor to pay the Fund s expenses. U.S. investors may deduct their respective pro rata shares of each expense incurred by the Fund to the same extent as if they directly incurred such an expense. U.S. investors who are individual, estate or trust, however, may be required to treat some or all of the expenses of the Fund as miscellaneous itemized deductions. An individual U.S. investor may not deduct miscellaneous itemized deductions for tax years beginning after December 31, 2017 and before January 1, 2026. For tax years beginning after December 31, 2025, an individual U.S. investor may deduct certain miscellaneous itemized deductions only to the extent they exceed 2 of adjusted gross income. In addition, such deductions may be subject to phase-outs and other limitations under applicable provisions of the Internal Revenue Code of 1986, as amended, and the Treasury regulations thereunder and, if the U.S. investor is an individual subject to the U.S. federal alternative minimum tax, may not be deductible at all. GENERAL RISKS The Fund is exposed to various operational risks. The Fund is exposed to various operational risks, including human error, information technology failures and failure to comply with formal procedures intended to mitigate these risks, and is particularly dependent on electronic means of communicating, record-keeping and otherwise conducting business. In addition, the Fund generally exculpates, and in some cases indemnifies, counterparties with respect to losses arising from unforeseen circumstances and events, which may include the interruption, suspension or restriction of trading on or the closure of NYSE Arca, power or other mechanical or technological failures or interruptions, computer viruses, communications disruptions, work stoppages, natural disasters, fire, war, terrorism, riots, rebellions or other circumstances beyond its or its counterparties control. Accordingly, the Fund generally bears the risk of loss with respect to these unforeseen circumstances and events to the extent relating to the Fund or the Shares. Although it is expected that the Fund s direct counterparties will generally have disaster recovery or similar programs or safeguards in place to mitigate the effect of such unforeseen circumstances and events, these safeguards may not be in place for all parties whose activities may affect the Fund s performance, and these safeguards, even if implemented, may not be successful in preventing losses associated with such unforeseen circumstances and events. Moreover, the systems and applications on which the Fund relies may not continue to operate as intended. In addition to potentially causing performance failures at, or direct losses to, the Fund, any such unforeseen circumstances and events or operational failures may further distract the counterparties or personnel on which the Fund relies, reducing their ability to conduct the activities on which the Fund is dependent. These risks cannot be fully mitigated or prevented, and further efforts or expenditures to do so may not be cost-effective, whether due to reduced benefits from implementing additional or redundant safeguards or due to increases in associated maintenance requirements and other expenses that may make it costlier for the Fund to operate in more typical circumstances. Market disruption events or extraordinary events could cause a disruption in the operation of the Fund and its secondary market. From time to time, unexpected events may disrupt the operations of the Fund. These events are referred to as either Market Disruption Events or Extraordinary Events depending largely on their significance and potential impact on the Fund. The occurrence of any Market Disruption Event or Extraordinary Event could have a material adverse impact on the Fund, the trading of Shares, and the value of an investment in the Shares. Examples of Market Disruption Events or Extraordinary Events include disruptions in the trading of gold, as well as delays or disruptions in the publication of the LBMA Gold Price. The occurrence of a Market Disruption Event or Extraordinary Event may result in, among other things (i) a disruption or change in the calculation of the LBMA Gold Price, (ii) the suspension or cancellation of creation and redemption transactions, and/or (iii) disruptions or halts in secondary market trading. Market Disruption Events and Extraordinary Events could also cause secondary market trading of Shares to be disrupted or halted for short or event long periods of time. To the extent trading continues during a Market Disruption Event or Extraordinary Event, it is expected that trading would be more volatile and that Shares would trade at wider discounts or premiums to net asset value. The occurrence of any Market Disruption Event or Extraordinary Event could have a material adverse impact on the Fund or its performance. The service providers engaged by the Fund may not carry adequate insurance to cover claims against them by the Fund, which could adversely affect the value of the Fund s net assets. The Administrator, the Custodian, and other service providers engaged by the Fund maintain such insurance as they deem adequate with respect to their respective businesses. Shareholders cannot be assured that any of the aforementioned parties will maintain any insurance with respect to the Fund s assets held or the services that such parties provide to the Fund or that such insurance is sufficient to satisfy any losses incurred by them in respect of their relationship with the Fund. Accordingly, the Fund will have to rely on the efforts of the service provider to recover from its insurer compensation for any losses incurred by the Fund in connection with such arrangements. The Fund s obligation to indemnify certain of its service providers could adversely affect an investment in the Shares. The Fund has agreed to indemnify certain of its service providers, including the Custodian, the Sponsor and the Trustee, for certain liabilities incurred by such parties in connection with their respective agreements to provide services for the Fund. In the event the Fund is required to indemnify any of its service providers, the Fund may be required to sell gold bullion to cover such expenses and its NAV would be reduced accordingly, thus adversely affecting an investment in the Shares. Potential conflicts of interest may arise among the Sponsor or its affiliates and the Fund. The Sponsor manages the Fund s business and affairs. Conflicts of interest may arise among the Sponsor and its affiliates, on the one hand, and the Fund and its shareholders, on the other hand. As a result of these conflicts, the Sponsor may favor its own interests and the interests of its affiliates over those of the Fund and its shareholders. These potential conflicts include, among others: 
+
+The Trust, on behalf of the Fund, has agreed to indemnify the Sponsor and its affiliates pursuant to the terms of the Declaration of Trust. 
+
+The Sponsor, its affiliates and their officers and employees are not prohibited from engaging in other businesses or activities, including those that might be in direct competition with the Fund. 
+ 14 
+
+Table of Contents 
+
+There are actual and potential conflicts of interest inherent in the Fund s structure that you should consider before purchasing Shares, and the Sponsor has not established formal procedures to resolve all potential conflicts of interest. The Fund is externally operated and does not have a board of directors or its own executive officers. Consequently, investors may be reliant on the good faith of the respective parties to resolve a conflict of interest equitably. The Sponsor is not required to devote its time or resources exclusively to the management of the business and affairs of the Fund and may engage in other business interests and activities similar to or in addition to those relating to the activities to be performed for the Fund. The officers of the Sponsor may buy or sell gold bullion or other products or securities similar to the Shares for their own personal trading accounts (subject to certain internal trading policies and procedures). The Sponsor, its partners, employees, associates and affiliates are permitted to carry on activities competitive with those of the Fund or buy, sell or trade in assets and portfolio securities of the Fund or of other investment funds. In addition, the Sponsor and its affiliates may create products similar to the Fund that are competitive with the Fund. Loss of intellectual property rights related to the Fund, or competing claims over ownership of those rights, could adversely affect the Fund and an investment in the Shares. Third parties may allege or assert ownership of intellectual property rights that may be related to the design, structure and operations of the Fund. To the extent any claims of such ownership are brought or any proceedings are instituted to assert such claims, the negotiation, litigation or settlement of such claims, or the ultimate disposition of such claims in a court of law if a suit is brought, may adversely affect the Fund and an investment in the Shares, for example, resulting in expenses or damages or the termination of the Fund. Item 1B. Unresolved Staff Comments Not applicable. Item 2. Properties Not applicable. Item 3. Legal Proceedings From time to time, the Trust and/or the Fund may be a party to certain legal proceedings in the ordinary course of business. As of June 20, 2023, the Trust and the Fund are not subject to any material legal proceedings, nor, to our knowledge, are any material legal proceeding threatened against the Trust or Fund. Item 4. Mine Safety Disclosures Not applicable. 
+ 15 
+
+Table of Contents 
+
+PART II Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+(a) 
+ Franklin Responsibly Sourced Gold ETF Shares are listed on the NYSE Arca under the symbol FGDL and have been listed since June 20, 2022. 
+
+(b) 
+ Not applicable. 
+
+(c) 
+ The Trust does not purchase Shares directly from its Shareholders. In connection with its redemption of Creation Units held by Authorized Participants, the Trust redeemed 0 Creation Units (comprising 0 Shares) during the quarter ended March 31, 2023. The following table summarizes the redemptions by Authorized Participants during the period: 
+
+Period 
+ 
+ Total Shares Redeemed 
+
+Average Price Per Share 
+
+January 1, 2023 January 31, 2023 
+
+February 1, 2023 February 28, 2023 
+
+March 1, 2023 March 31, 2023 
+
+TOTAL 
+
+Item 6. [Reserved] 
+ 16 
+
+Table of Contents 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations The following discussion should be read in conjunction with the condensed financial statements and the notes thereto of the Fund, included elsewhere in this annual report on Form 10-K. Forward-Looking Information This annual report on Form 10-K, including this Management s Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, and such forward-looking statements involve risks and uncertainties. All statements (other than statements of historical fact) included in this Form 10-K that address activities, events or developments that may occur in the future, including such matters as future gold prices, gold sales, costs, objectives, changes in commodity prices and market conditions (for gold and the shares), the Fund s operations (including the effects thereon related to the coronavirus COVID-19 pandemic), the Sponsor s plans and references to the Fund s future success and other similar matters are forward-looking statements. Words such as could, would, may, expect, intend, estimate, predict, and variations on such words or negatives thereof, and similar expressions that reflect our current views with respect to future events and Fund performance, are intended to identify such forward-looking statements. These forward-looking statements are only predictions, subject to risks and uncertainties that are difficult to predict and many of which are outside of our control, and actual results could differ materially from those discussed. Forward-looking statements involve risks and uncertainties that could cause actual results or outcomes to differ materially from those expressed therein. We express our estimates, expectations, beliefs, and projections in good faith and believe them to have a reasonable basis. However, we make no assurances that management s estimates, expectations, beliefs, or projections will be achieved or accomplished. These forward-looking statements are based on assumptions about many important factors that could cause actual results to differ materially from those in the forward-looking statements. Such factors are discussed in: Part II, Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations of this Form 10-K; Part I, Item 1A. Risk Factors of this Form 10-K, and other parts of this Form 10-K. We do not intend to update any forward-looking statements even if new information becomes available or other events occur in the future, except as required by the federal securities laws. Organization and Trust Overview The Franklin Templeton Holdings Trust (the Trust was organized as a Delaware statutory trust on April 19, 2021. Franklin Holdings, LLC is the Sponsor of the Trust (the Sponsor ). The Trust currently offers a single series, the Franklin Responsibly Sourced Gold ETF (the Fund ). The Fund issues common units of beneficial interest Shares ), which represent units of fractional undivided beneficial interest in and ownership of the Fund. The Shares are listed on NYSE Arca, Inc. NYSE Arca under the symbol FGDL. Shares are not obligations of, and are not guaranteed by, the Sponsor or any of its subsidiaries or affiliates. The investment objective of the Fund is for the Shares to reflect the performance of the price of gold bullion, less the Fund s expenses. The assets of the Fund include only gold bullion and cash, if any. The Fund seeks to hold only responsibly sourced gold in the Fund s allocated account. The Fund defines responsibly sourced gold for this purpose as London Good Delivery gold bullion bars that were refined on or after January 1, 2012 (also referred to herein as post-2012 gold ). All post-2012 gold has been refined in accordance with London Bullion Market Association s LBMA Responsible Gold Guidance (the Gold Guidance ), described further herein. To facilitate this, in transferring gold into and out of the Fund s allocated account, the Custodian will, on a best efforts basis and subject to available liquidity, seek to allocate post-2012 gold. If, due to a lack of liquidity, the Custodian is unable to allocate post-2012 gold to the Fund s allocated account, the Custodian will do so as soon as reasonably practicable. The Fund issues Shares on a continuous basis. Shares are issued by the Fund only in one or more blocks of 50,000 Shares (a block of 50,000 Shares is called a Creation Unit in exchange for gold from Authorized Participants, which is then allocated to the Fund and stored safely by the Custodian. The Fund issues and redeems Creation Units on an ongoing basis at Net Asset Value to Authorized Participants who have entered into an agreement with the Sponsor and the Administrator. The Fund pays the Sponsor a fee that will accrue daily at an annualized rate equal to 0.15 of the daily Net Asset Value of the Fund, paid monthly in arrears (the Sponsor Fee ). The Sponsor Fee is accrued in and payable in U.S. dollars. The NAV is computed based upon the total value of the assets of the Fund (i.e., gold and cash) less its liabilities. To determine the Fund s NAV, the Administrator will generally value the gold bullion held by the Fund on the basis of the LBMA Gold Price PM as published by the IBA. IBA operates electronic auctions for spot, unallocated loco London gold, providing a market-based platform for buyers and sellers to trade. The auctions are run at 10:30 a.m. and 3:00 p.m. London time for gold. The final auction prices are published to the market as the LBMA Gold Price AM and the LBMA Gold Price PM, respectively. The Administrator will calculate the NAV on each day NYSE Arca is open for regular trading, at the earlier LBMA Gold Price PM for the day or 12:00 PM New York time. If no LBMA Gold Price (AM or PM) is made on a particular evaluation day or if the LBMA Gold Price PM has not been announced by 12:00 PM New York time on a particular evaluation day, the next most recent LBMA Gold Price AM or PM will be used in the determination of the NAV, unless the Sponsor determines that such price is inappropriate to use as the basis for such determination. Once the value of the gold bullion has been determined, the Administrator subtracts all estimated accrued expenses and other liabilities of the Fund from the total value of the gold bullion and any cash of the Fund. The resulting figure is the NAV. The Administrator determines the NAV per Share by dividing the NAV of the Fund by the number of Shares outstanding as of the close of trading on NYSE Arca. Critical Accounting Policy The financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial statements relies on estimates and assumptions that impact the Fund s financial position and results of operations. These estimates and assumptions affect the Fund s application of accounting policies. Below we describe the valuation of gold bullion, a critical accounting policy that we believe is important to understanding the results of operations and financial position. In addition, please refer to Note 2 to the financial Statements for further discussion of the Fund s accounting policies. 
+ 17 
+
+Table of Contents 
+
+Results of Operations For the Period May 24, 2022 to March 31, 2023 For the period from May 24, 2022 (Date of inception) to March 31, 2023, 4,300,000 Shares (inclusive of two Creation Units that were created upon the initial seeding of the Fund) were issued in exchange for 57,542.226 ounces of gold. The Fund s NAV per Share began the period at 25.00 and ended the period at 26.48. The increase in NAV per Share was due to a higher price of gold of 1,979.70 at period end, which represented an increase of 6.03 from 1,867.10 at May 24, 2022. The change in net assets from operations for the period ended March 31, 2023 was 9,685,812, which was due to (i) the Sponsor Fee of (53,931), (ii) net realized gain from gold sold to pay expenses of 148 and (iii) a net change in unrealized appreciation on investment in gold of 9,739,595. Other than the Sponsor Fee the Fund had no expenses during the period ended March 31, 2023. At March 31, 2023, the Custodian held 57,519.498 ounces of gold on behalf of the Fund in its vault, with a market value of 113,871,350 (cost: 104,131,755) based on the LBMA Gold Price PM at period end. Liquidity and Capital Resources The Fund is not aware of any trends, demands, commitments, events or uncertainties that are reasonably likely to result in material changes to its liquidity needs. The Fund s only ordinary recurring expense is the fee paid to the Sponsor at an annual rate of 0.15 of the daily net asset value of the Fund. The Sponsor s annual fee accrues daily and is payable by the Fund monthly in arrears. In exchange for the Sponsor s fee, the Sponsor has agreed to assume the ordinary fees and expenses incurred by the Fund, including but not limited to the following: fees charged by the Administrator, the Custodian and the Trustee, NYSE Arca listing fees, typical maintenance and transaction fees of the DTC, SEC registration fees, printing and mailing costs, audit fees and expenses, up to 500,000 per annum in legal fees and expenses and applicable license fees. The Sponsor may determine in its sole discretion to assume legal fees and expenses of the Fund in excess of the 500,000 per annum stipulated in the Sponsor Agreement. The Sponsor is not required to pay any extraordinary or non-routine expenses. Extraordinary expenses are fees and expenses which are unexpected or unusual in nature, such as legal claims and liabilities and litigation costs or indemnification or other unanticipated expenses. Extraordinary fees and expenses also include material expenses which are not currently anticipated obligations of the Fund. The Fund will be responsible for the payment of such expenses to the extent any such expenses are incurred. Routine operational, administrative and other ordinary expenses are not deemed extraordinary expenses. The Fund will sell gold on an as-needed basis to pay the Sponsor s fee. The Administrator will, at the direction of the Sponsor, sell the Fund s gold as necessary to pay the Fund s expenses not otherwise assumed by the Sponsor. When selling gold to pay the Sponsor s fee and other expenses, if any, the Administrator endeavors to sell the exact amount of gold needed to pay expenses to minimize the Fund s holdings of cash. At March 31, 2023, the Fund did not have any cash balances. The Fund as well as the Sponsor and its service providers are vulnerable to the effects of geopolitical events and the continuation of the war in Ukraine or other hostilities. Geopolitical events and the continuation of the hostilities in Ukraine or other hostilities could disrupt and potentially impact the business activities of the Sponsor and its service providers and have an adverse effect on the Fund. Global or regional military conflicts or acts of aggression, including Russia s military invasion of Ukraine in February 2022 as discussed further below, may negatively affect global expectations for economic growth, exacerbate inflationary pressures, disrupt trading markets and/or supply chains and result in protracted volatility, which could have an adverse effect on the value of the Fund s investments. Specifically, in the aftermath of Russia s invasion of Ukraine, gold prices experienced increased volatility. The extent and duration of Russia s military actions and the repercussions of such actions (including any retaliatory actions or countermeasures that may be taken by countries or entities subject to sanctions, including cyber attacks) are impossible to predict. These and any related events could significantly impact the Fund s performance and the value of an investment in the Fund. On March 7, 2022, the LBMA suspended six Russian gold and silver refiners from its Good Delivery List until further notice in light of sanctions imposed on Russia by the U.S., European Union and other countries in response to Russia s invasion of Ukraine. As a result, while existing gold bars from these refiners are considered acceptable, newly minted gold bars produced by such refiners are effectively banned from trading in the loco London market. Russia is a significant producer of gold (estimates indicate Russia produces approximately 330 tonnes of gold per year, accounting for around 9 of global production); however, per the LBMA, as of the end December 2022, the amount of gold held in London vaults was 9,053 tonnes (a 1.3 decrease on previous month), valued at 527.5 billion, which equates to approximately 724,208 gold bars. Accordingly, as of the date of this report, the Fund does not expect that the suspension of Russian refiners to have a material impact on the supply of LBMA Good Delivery gold available to the Fund and other market participants. Any potential escalation of the conflict could negatively impact the Fund. In addition, similar events in the future, particularly where unanticipated by markets, could cause volatility in precious metals markets and the price of gold and may have a negative impact on the Fund s performance and the value of an investment in the Shares. Following an announcement at the G7 Summit to collectively ban the import of Russian gold, the UK passed regulations which prohibit the direct or indirect (i) import of gold that originated in Russia, (ii) acquisition of gold that originated in Russia or is located in Russia and (iii) supply or delivery of gold that originated in Russia, all after July 21, 2022. Similarly, US regulations prohibit the import of gold of Russian origin into the United States on or after June 28, 2022 and EU regulations prohibit the direct or indirect import, purchase or transfer of gold if it originates in Russia and has been exported from Russia after July 22, 2022. The responses of countries and political bodies to Russia s actions, the larger overarching tensions, and Ukraine s military response and the potential for wider conflict may increase financial market volatility generally, have adverse effects on regional and global economic markets, and cause volatility in the price of gold and the price of the Shares. In addition, the conflict in Ukraine, along with global political fallout and implications including sanctions, shipping disruptions, collateral war damage, and a potential expansion of the conflict beyond Ukraine s borders, could disturb the gold market. War and other geopolitical events in eastern Europe, including but not limited to Russia and Ukraine, may cause volatility in commodity prices including precious metals prices. These events are unpredictable and may lead to extended periods of price volatility. As of the date of this report, the impact of the conflict in Ukraine, including the regulatory responses to such conflict, have not materially affected the operations of the Fund and have not materially impacted the price of gold or the share price of the Fund. Off-Balance Sheet Arrangements The Fund does not have any off-balance sheet arrangements. 
+ 18 
+
+Table of Contents 
+
+Analysis of Movements in the Price of Gold As movements in the price of gold are expected to directly affect the price of the Fund s shares, it is important for investors to understand and follow movements in the price of gold. Past movements in the gold price are not indicators of future movements. The following chart shows movements in the price of gold based on the LBMA Gold Price PM in U.S. dollars per ounce over the period from July 1, 2022 (the first date the Fund s shares were listed and began trading on the NYSE Arca) to March 31, 2023. 
+
+The average, high, low and end-of-period gold prices based on the LBMA Gold Price PM for are as below: 
+
+Period 
+ 
+ Average 
+
+High 
+
+Date 
+
+Low 
+
+Date 
+
+End of period 
+
+Last business day (1) 
+
+July 1, 2022 to March 31, 2023 
+
+1,781.90 
+
+1,993.80 
+
+March 24, 2023 
+
+1,628.75 
+
+November 3, 2022 
+
+1,979.70 
+
+March 31, 2023 
+
+(1) 
+ The end of period gold price is the LBMA Gold Price PM on the last business day of the period. Item 7A. Quantitative and Qualitative Disclosures about Market Risk The Fund is a passive investment vehicle. It is not actively managed. The investment objective of the Fund is for the Shares to reflect the performance of the price of gold bullion, less the Fund s expenses. Accordingly, fluctuations in the price of gold will affect the value of the Fund s Shares. Item 8. Financial Statements and Supplementary Data The following summarized (unaudited) quarterly financial information presents the results of operations and other data for the three-month periods ended June 30, September 30, December 31, 2022 and March 31, 2023: 
+
+Three Months Ended (unaudited) 
+
+Expenses 
+ 
+ June 30, 2022 
+
+September 30, 2022 
+
+December 31, 2022 
+
+March 31, 2023 
+
+For the period from May 24, 2022 (Date of inception) to March 31, 2023 
+
+Sponsor s fee 
+
+10 
+
+11,531 
+
+16,174 
+
+26,216 
+
+53,931 
+
+Total expenses 
+
+10 
+
+11,531 
+
+16,174 
+
+26,216 
+
+53,931 
+
+Net investment loss 
+
+(10) 
+
+(11,531) 
+
+(16,174) 
+
+(26,216) 
+
+(53,931) 
+
+Net realized and change in unrealized gain (loss) on investment in gold 
+
+Net realized gain (loss) from gold sold for rebalancing and to pay expenses 
+
+(384) 
+
+(276) 
+
+808 
+
+148 
+
+Net change in unrealized appreciation (depreciation) on investment in gold 
+
+(67,081) 
+
+(2,355,378) 
+
+3,481,526 
+
+8,680,528 
+
+9,739,595 
+
+Net realized and change in unrealized gain (loss) on investment in gold 
+
+(67,081) 
+
+(2,355,762) 
+
+3,481,250 
+
+8,681,336 
+
+9,739,743 
+
+Net increase (decrease) in net assets resulting from operations 
+
+(67,091) 
+
+(2,367,293) 
+
+3,465,076 
+
+8,655,120 
+
+9,685,812 
+
+Net increase (decrease) in net assets per Share (a) 
+
+(0.67) 
+
+(1.77) 
+
+1.87 
+
+6.04 
+
+5.47 
+
+(a) 
+ Net increase (decrease) in net assets per Share based on average shares outstanding during the period. Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure There have been no changes in accountants and no disagreements with accountants on any matter of accounting principles or practices or financial statement disclosures during the fiscal year ended March 31, 2023. 
+ 19 
+
+Table of Contents 
+
+Item 9A. Controls and Procedures Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures This annual report does not include a report of conclusion regarding the effectiveness of disclosure controls and procedures due to a transition period established by rules of the Securities and Exchange Commission for newly public companies. Management s Report on Internal Control over Financial Reporting This annual report does not include a report of management s assessment regarding internal control over financial reporting due to a transition period established by rules of the Securities and Exchange Commission for newly public companies. Item 9B. Other Information Not applicable. Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections Not applicable. 
+ 20 
+
+Table of Contents 
+
+PART III Item 10. Directors, Executive Officers and Corporate Governance The Trust does not have any directors, officers or employees. The following persons, in their respective capacities as directors or executive officers of the Sponsor, a Delaware limited liability company, perform certain functions with respect to the Trust that, if the Trust had directors or executive officers, would typically be performed by them. David Mann President and Chief Executive Officer Matthew Hinkle Chief Financial Officer Vivek Pai Chief Accounting Officer and Treasurer Todd Mathias Vice President Navid Tofigh Vice President and Secretary Julie Patel Vice President and Assistant Secretary Ryan Wheeler Assistant Treasurer Ajay Narayan Assistant Treasurer Jeff White Assistant Treasurer The Trust does not have a code of ethics as it does not have any directors, officers or employees. The Sponsor has a code of ethics (the Code of Ethics that applies to its executive officers, including its Principal Executive Officer, Principal Financial Officer and Treasurer, who perform certain functions with respect to the Trust that, if the Trust had executive officers would typically be performed by them. The Code of Ethics is available at https://www.franklinresources.com/governance/corporate-governance-documents. The Sponsor s Code of Ethics is intended to be a codification of the business and ethical principles that guide the Sponsor, and to deter wrongdoing, to promote (1) honest and ethical conduct (including the ethical handling of actual or apparent conflicts of interest), (2) full, fair, accurate, timely and understandable disclosure in public reports, documents and communications, (3) compliance with applicable laws and governmental rules and regulations, (4) the prompt internal reporting of violations of the Code of Ethics and (5) accountability for adherence to the Code of Ethics. Item 11. Executive Compensation The Trust does not have directors or executive officers. The only ordinary expense paid by the Fund is the Sponsor s fee. Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters Securities Authorized for Issuance under Equity Compensation Plans: Not applicable. Security Ownership of Certain Beneficial Owners and Management: (a) As of March 31, 2023, the following shareholder was known by the Sponsor to be the beneficial owner of more than five percent of the Fund s shares: 
+
+Name of beneficial owner 
+ 
+ Amount 
+
+Percent ownership 
+
+Franklin Resources, Inc. 
+
+54,960,600 
+
+48.27 
+ 
+ (b) Not applicable. Item 13. Certain Relationships and Related Transactions and Director Independence Not applicable. Item 14. Principal Accounting Fees and Services Fees for services performed by PricewaterhouseCoopers LLP PwC ), as paid by the Sponsor from the Sponsor fee, for the period ended March 31, 2023, were: 
+
+2023 
+
+Audit fees 
+
+105,000 
+
+Audit-related fees 
+
+Tax fees 
+
+All other fees 
+
+Total 
+
+105,000 
+
+For the period from May 24, 2022 (Date of Inception) to March 31, 2023. In the table above, in accordance with the SEC s definitions and rules, Audit Fees are fees paid to PwC for professional services for the audit of the Fund s financial statements included in the Form 10-K and review of financial statements included in the Forms 10-Q, and for services that are normally provided by the accountants in connection with regulatory filings or engagements. Audit Related Fees are fees for assurance and related services that are reasonably related to the performance of the audit or review of the Fund s financial statements. 
+ 21 
+
+Table of Contents 
+
+PART IV Item 15. Exhibits and Financial Statements Schedules Financial Statements See Index to Financial Statements on Page F-1 for a list of the financial statements being filed herein. Exhibits EXHIBIT INDEX 
+
+Exhibit No. 
+ 
+ Description of Exhibit 
+
+3.1 
+ 
+ Declaration of Trust is incorporated by reference to Exhibit 3.1 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on June 10, 2022 
+
+3.2 
+ 
+ Certificate of Trust is incorporated by reference to Exhibit 3.2 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on June 10, 2022 
+
+3.3 
+ 
+ Amendment to Certificate of Trust is incorporated by reference to Exhibit 3.3 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on June 10, 2022 
+
+5.1 
+ 
+ Opinion of Stradley, Ronon, Stevens Young as to legality is incorporated by reference to Exhibit 5.1 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on June 10, 2022 
+
+8.1 
+ 
+ Opinion of Stradley, Ronon, Stevens Young as to tax matters is incorporated by reference to Exhibit 8.1 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on June 10, 2022 
+
+10.1 
+ 
+ Trust Allocated Gold Account Agreement is incorporated by reference to Exhibit 10.1 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on June 10, 2022 
+
+10.2 
+ 
+ Trust Unallocated Gold Account Agreement is incorporated by reference to Exhibit 10.2 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on June 10, 2022 
+
+10.3 
+ 
+ Custody Agreement (Cash) with The Bank of New York Mellon is incorporated by reference to Exhibit 10.3 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on April 25, 2022 
+
+10.4 
+ 
+ License Agreement with The Bank of New York Mellon is incorporated by reference to Exhibit 10.4 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on April 25, 2022 
+
+10.5 
+ 
+ Transfer Agency Agreement with The Bank of New York Mellon is incorporated by reference to Exhibit 10.5 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on April 25, 2022 
+
+10.6 
+ 
+ Fund Administration and Accounting Agreement with The Bank of New York Mellon is incorporated by reference to Exhibit 10.6 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on April 25, 2022 
+
+10.7 
+ 
+ Form of Authorized Participant Agreement is incorporated by reference to Exhibit 10.7 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on April 25, 2022 
+
+10.8 
+ 
+ Sponsor Agreement is incorporated by reference to Exhibit 10.8 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on June 10, 2022 
+
+24.1 
+ 
+ Powers of Attorney are incorporated by reference to Exhibit 24.1 of the Registration Statement on Form S-1 (File No. 333-264468) filed by the Trust on April 25, 2022 
+
+31.1 
+ 
+ Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of Principal Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+32.2 
+ 
+ Certification of Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 22 
+
+Table of Contents 
+
+101.INS 
+ 
+ XBRL Instance Document 
+
+101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+
+104 
+ 
+ Cover Page Interactive Data File (embedded within the Inline XBRL document) 
+
+Filed herewith. Item 16. Form 10-K Summary Not applicable. 
+ 23 
+
+Table of Contents 
+ 
+ FRANKLIN RESPONSIBLY SOURCED GOLD ETF 
+
+ A SERIES OF FRANKLIN TEMPLE HOLDINGS TRUST 
+
+ Index to Financial Statements 
+
+Page
+
+Report of Independent Registered Public Accounting Firm (Auditor PCAOB # 
+
+F-2
+
+Statement of Assets and Liabilities at March 31, 2023 
+
+F-3
+
+Schedule of Investments at March 31, 2023 
+
+F-4
+
+Statement of Operations for the period from May 24, 2022 (Date of Inception) to March 31, 2023 
+
+F-5
+
+Statement of Cash Flows for the period from May 24, 2022 (Date of Inception) to March 31, 2023 
+
+F-6
+
+Statement of Changes in Net Assets for the period from May 24, 2022 (Date of Inception) to March 31, 2023 
+
+F-7
+
+Notes to Financial Statements 
+
+F-8
+
+F-1
+
+Table of Contents 
+ Report of Independent Registered Public Accounting Firm 
+
+ To the Sponsor of Franklin Templeton Holdings Trust and Shareholders of Franklin Responsibly Sourced Gold ETF 
+ Opinion on the Financial Statements 
+
+ We have audited the accompanying statement of asset and liabilities, including the schedule of investments, of Franklin Responsibly Sourced Gold ETF (the Fund as of March 31, 2023, and the related statements of operations, of cash flows and of changes in net assets for the period from May 24, 2022 (date of inception) to March 31, 2023, including the related notes (collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Fund as of March 31, 2023, and the results of its operations, its cash flows and changes in its net assets for the period from May 24, 2022 (date of inception) to March 31, 2023 in conformity with accounting principles generally accepted in the United States of America. 
+ Basis for Opinion 
+
+ These financial statements are the responsibility of the Sponsor s management. Our responsibility is to express an opinion on the Fund s financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Fund in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audit of these financial statements in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Fund is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Fund s internal control over financial reporting. Accordingly, we express no such opinion. 
+ Our
+ audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by the Sponsor s management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+/s/ 
+
+June 20, 2023 We have served as the auditor of one or more investment companies in Franklin Templeton Group of Funds since 1948. 
+ 
+ F-2
+
+Table of Contents 
+
+FRANKLIN RESPONSIBLY SOURCED GOLD ETF 
+
+ A SERIES OF FRANKLIN TEMPLETON HOLDINGS TRUST 
+
+ Statement of Assets and Liabilities 
+
+March 31, 2023
+
+Assets
+
+Investment in gold, at fair value (a)
+
+Total assets
+
+Liabilities
+
+Sponsor s fee payable
+
+Commitments and contingent liabilities (Note 7)
+
+Total liabilities
+
+Net assets
+
+Shares issued and outstanding (b)
+
+Net asset value per Share
+
+(a) 
+ . 
+
+(b) 
+ 
+ See accompanying notes to the financial statements. 
+
+F-3
+
+Table of Contents 
+
+FRANKLIN RESPONSIBLY SOURCED GOLD ETF 
+
+ A SERIES OF FRANKLIN TEMPLETON HOLDINGS TRUST 
+
+ Schedule of Investments 
+
+ March 31, 2023 
+
+Ounces of Gold
+
+Cost
+
+Fair Value
+
+of Net Assets
+
+Investment in gold
+
+Total investments
+
+Liabilities in excess of other assets
+
+() 
+
+() 
+
+Net assets
+
+See accompanying notes to the financial statements. 
+
+F-4
+
+Table of Contents 
+
+FRANKLIN RESPONSIBLY SOURCED GOLD ETF 
+
+ A SERIES OF FRANKLIN TEMPLETON HOLDINGS TRUST 
+
+ Statement of Operations 
+
+For the period
+
+ from May 24,
+
+ 2022 (Date of
+
+ inception) to
+
+ March 31, 2023
+
+Expenses
+
+Sponsor s fee
+
+Total expenses
+
+Net investment loss
+
+() 
+
+Net realized and change in unrealized gain (loss) on investment in gold
+
+Net realized gain (loss) from gold sold for rebalancing and to pay expenses
+
+Net change in unrealized appreciation (depreciation) on investment in gold
+
+Net realized and change in unrealized gain (loss) on investment in gold
+
+Net increase (decrease) in net assets resulting from operations
+
+Net increase (decrease) in net assets per Share (a)
+
+(a) 
+ 
+ See accompanying notes to the financial statements. 
+
+F-5
+
+Table of Contents 
+
+FRANKLIN RESPONSIBLY SOURCED GOLD ETF 
+
+ A SERIES OF FRANKLIN TEMPLETON HOLDINGS TRUST 
+
+ Statement of Cash Flows 
+
+For the period
+
+ from May 24,
+
+ 2022 (Date of
+
+ inception) to
+
+ March 31, 2023
+
+Cash Flows from Operating Activities:
+
+Proceeds from gold bullion sold to pay expenses
+
+Expenses - Sponsor s fee paid
+
+() 
+
+Net cash provided by (used in) operating activities
+
+Increase (decrease) in cash
+
+Cash, beginning of period
+
+Cash, end of year
+
+Reconciliation of Net Increase (Decrease) in Net Assets Resulting from Operations to Net Cash Provided by (Used in) Operating Activities:
+
+Net increase (decrease) in net assets resulting from operations
+
+Adjustments to reconcile net increase (decrease) in net assets resulting from operations to net cash provided by (used in) operating activities:
+
+Proceeds from gold bullion sold to pay expenses
+
+Net realized (gain) loss
+
+() 
+ 
+ Net change in unrealized (appreciation) depreciation
+
+() 
+ 
+ Change in operating assets and liabilities:
+
+Sponsor s fees payable
+
+Net cash provided by (used in) operating activities
+
+Supplemental disclosure of non-cash
+ information:
+
+Gold bullion contributed for Shares issued
+
+Gold bullion distributed for Shares redeemed
+
+See accompanying notes to the financial statements. 
+
+F-6 
+
+Table of Contents 
+
+FRANKLIN RESPONSIBLY SOURCED GOLD ETF 
+
+ A SERIES OF FRANKLIN TEMPLETON HOLDINGS TRUST 
+
+ Statement of Changes in Net Assets 
+
+For the period
+
+ from May 24,
+
+ 2022 (Date of
+
+ inception) to
+
+ March 31, 2023
+
+Net assets, beginning of period
+
+Net investment loss
+
+() 
+ 
+ Net realized gain (loss) from gold sold to pay expenses
+
+Net change in unrealized appreciation (depreciation) on investment in gold
+
+Net increase (decrease) in net assets resulting from operations
+
+Capital Share Transactions:
+
+Contributions for Shares issued
+
+Distributions for Shares redeemed
+
+Net increase in net assets from capital share transactions
+
+Net assets, end of period
+
+See accompanying notes to the financial statements. 
+
+F-7 
+
+Table of Contents 
+
+FRANKLIN RESPONSIBLY SOURCED GOLD ETF 
+
+ A SERIES OF FRANKLIN TEMPLETON HOLDINGS TRUST 
+
+ Notes to Financial Statements 
+
+ Shares Creation Units in exchange for gold. The Fund issues Shares in Creation Units on a continuous basis at the applicable NAV per Share on the creation order date. Except when aggregated in Creation Units, the Shares are not redeemable securities. 
+ The Fund is an emerging growth company as that term is used in the Securities Act of 1933, as amended (the Securities Act ), and, as such, the Fund may elect to comply with certain reduced public company reporting requirements. 
+ On May 24, 2022, the initial Authorized Participant, JP Morgan Securities LLC (the Initial AP ), purchased Shares at a per-Share
+ price of (the Seed Creation Units ). Total proceeds to the Fund from the sale of the Seed Creation Units were ounces of gold. The value of gold deposited with the Fund was based on the LBMA Gold Price PM on May 24, 2022 of per ounce of gold. Delivery of the Seed Creation Units was made on May 26, 2022. 
+ The statement of assets and liabilities and schedule of investments at March 31, 2023 and the statement of operations, cash flows and changes in net assets for the period ended March 31, 2023, have been prepared on behalf of the Fund and are audited. In the opinion of management of the Sponsor of the Trust, all adjustments (which include normal recurring adjustments) necessary to present fairly the financial position and results of operations for the period ended March 31, 2023 have been made. 
+ As the fund had no operations prior to the initial seeding on May 24, 2022, comparative statements for prior year have not been included. 
+ The fiscal year of the Fund is March 31st. 
+
+of the NAV of the Fund Sponsor fee ). The Sponsor fee is calculated on a daily basis (accrued at 1/365 of the applicable percentage of total net assets on that day) and is payable by the Fund monthly in arrears. The Fund s expenses will reduce the NAV of the Fund. In exchange for the Sponsor s fee, the Sponsor has agreed to assume the ordinary fees and expenses incurred by the Fund, including but not limited to the following: fees charged by the Administrator, the Custodian and the Trustee, NYSE Arca listing fees, typical maintenance and transaction fees of the DTC, U.S. Securities and Exchange Commission SEC registration fees, printing and mailing costs, audit fees and expenses, up to per annum in legal fees and expenses and applicable license fees. 
+ The Sponsor is not required to pay any extraordinary or non-routine
+ expenses. Extraordinary expenses are fees and expenses which are unexpected or unusual in nature, such as legal claims and liabilities and litigation costs or indemnification or other unanticipated expenses. Extraordinary fees and expenses also include material expenses which are not currently anticipated obligations of the Fund. Routine operational, administrative and other ordinary expenses are not deemed extraordinary expenses. The Fund will sell gold on an as-needed
+ basis to pay the Sponsor s fee. 
+ Shares). The creation and redemption of Creation Units is only made in exchange for the delivery to the Fund or the distribution by the Fund of the amount of gold bullion represented by the Creation Units being created or redeemed. The amount of gold bullion required to be delivered to the Fund in connection with any creation, or paid out upon redemption, is based on the combined NAV of the number of Shares included in the Creation Units being created or redeemed as determined on the day the order to create or redeem Creation Units is properly received and accepted. The standard settlement cycle for most broker-dealer securities transactions is two business days, (the trade date plus two business days). Authorized Participants are the only persons that may place orders to create and redeem Creation Units. All gold bullion must be delivered by Authorized Participants to the Fund and distributed by the Fund in unallocated form through credits and debits between Authorized Participants unallocated accounts and the Fund Unallocated Account. All gold bullion must be of at least a minimum fineness (or purity) of and otherwise conform to the rules, regulations, practices and customs of the LBMA, including the specifications for a London Good Delivery Bar. The Transfer Agent receives a transaction processing fee in connection with orders from Authorized Participants to create or redeem Creation Units in the amount of per order. These transaction processing fees are paid directly by the Authorized Participants and not by the Fund. 
+ Prior to initiating any creation or redemption order, an Authorized Participant must have an existing unallocated account with a London Precious Metals Clearing Limited LPMCL clearing bank identified by the Authorized Participant to the Custodian and the Sponsor, or an agreement with the Custodian itself establishing an unallocated account in London. An unallocated account is an account with a bullion dealer, which may also be a bank, to which a fine weight amount of gold bullion is credited. Transfers to or from an unallocated account are made by crediting or debiting the number of ounces of gold bullion being deposited or withdrawn. The account holder is entitled to direct the bullion dealer to deliver an amount of physical gold bullion equal to the amount of gold bullion standing to the credit of 
+
+Creation of Shares 
+
+Redemption of Shares
+
+Balance at March 31, 2023
+
+The date represents the Initial Seed Creation. 
+
+Includes initial seed creation of shares for an amount of . 
+
+Gold received for the creation of Shares 
+
+Gold distributed for the redemption of Shares
+
+Principal on gold sales to pay expenses
+
+() 
+
+() 
+ 
+ Net realized gain (loss) from gold transferred to pay expenses
+
+Net change in unrealized appreciation (depreciation) on investment in gold
+
+Balance at March 31, 2023
+
+The date represents the Initial Seed Creation. 
+
+Includes gold received towards initial seed creation of ounces for an amount of . 
+ shares of the Fund were held by the related party. 
+ The Sponsor of the Trust is Franklin Holdings, LLC. The Sponsor is responsible for establishing the Trust and for the registration of the Shares. The Sponsor generally oversees the performance of the Fund s principal service providers but does not exercise day-to-day
+
+ oversight over such service providers. The Sponsor, with assistance and support from the Administrator, is responsible for preparing and filing periodic reports on behalf of the Fund with the SEC and will provide any required certification for such reports. The Sponsor will designate the independent registered public accounting firm of the Fund and may from time to time employ legal counsel for the Fund. 
+ Franklin Distributors, LLC serves as the Marketing Agent of the Fund. The Sponsor and the Marketing Agent are affiliates and each is considered to be a related party to the Trust and the Fund. Franklin Resources, Inc. FRI is the ultimate parent company of the Sponsor and the Marketing Agent. FRI is the holding company for various subsidiaries that together are referred to as Franklin Templeton Investments. 
+
+per annum in legal fees and expenses and applicable license fees. The Sponsor bears expenses in
+ connection with the issuance and distribution of the securities being registered. The Sponsor is not required to pay any extraordinary or non-routine
+ expenses. 
+ 
+ (a)
+
+Net investment loss (b)
+
+() 
+ 
+ Net realized and unrealized gain (loss) on investment in gold
+
+Net change in net assets from operations
+
+Net asset value per Share, end of period
+
+Total return, at net asset value (c)
+
+Ratio to average net assets (d)
+
+Net investment loss
+
+() 
+ 
+ Net expenses
+
+(a) 
+ The amount represents the initial Seed Creation. 
+
+(b) 
+ Calculated using average Shares outstanding. 
+
+(c) 
+ Calculation based on the change in net asset value of a Share during the period. Total return for periods of less than a year are not annualized. 
+
+(d) 
+ Annualized. 
+ 
+ F-11 
+
+Table of Contents 
+
+F-12 
+
+Table of Contents 
+
+Signatures Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Franklin Holdings, LLC Sponsor of the Franklin Templeton Holdings Trust (registrant) 
+
+By: 
+ 
+ /s/ David Mann 
+
+David Mann 
+
+President and Chief Executive Officer 
+
+(serving in the capacity of principal executive officer) 
+
+By: 
+ 
+ /s/ Matthew Hinkle 
+
+Matthew Hinkle 
+
+Chief Financial Officer 
+
+(serving in the capacity of principal financial officer) 
+ Date: June 20, 2023 
+
+The registrant is a trust and the person is signing in his capacity as an officer of Franklin Holdings, LLC, the Sponsor of the registrant. 
+
+<EX-31.1>
+ 2
+ d498366dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+ Certification of Principal Executive Officer 
+ Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ I, David Mann, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of Franklin Templeton
+Holdings Trust (the Trust or registrant 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is
+being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this
+report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that
+occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in
+the registrant s internal control over financial reporting. 
+
+By: 
+ 
+ /s/ David Mann 
+
+David Mann 
+
+President and Chief Executive Officer 
+
+(serving in the capacity of principal executive officer) 
+ Date: June 20, 2023 
+
+The originally executed copy of this Certification will be maintained at the Sponsor s offices and will be
+made available for inspection upon request. 
+
+The registrant is a trust and the person is signing in his capacity as an officer of Franklin Holdings, LLC,
+the Sponsor of the Registrant. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ d498366dex312.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 
+ Certification of Principal Financial Officer 
+ Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ I, Matthew Hinkle, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of Franklin Templeton
+Holdings Trust (the Trust or registrant 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is
+being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this
+report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that
+occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in
+the registrant s internal control over financial reporting. 
+
+By: 
+ 
+ /s/ Matthew Hinkle 
+
+Matthew Hinkle 
+
+Chief Financial Officer 
+
+(serving in the capacity of principal financial officer) 
+ Date: June 20, 2023 
+
+The originally executed copy of this Certification will be maintained at the Sponsor s offices and will be
+made available for inspection upon request. 
+
+The registrant is a trust and the person is signing in his capacity as an officer of Franklin Holdings, LLC,
+the Sponsor of the Registrant. 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ d498366dex321.htm
+ EX-32.1
+
+EX-32.1 
+
+Exhibit 32.1 
+ Certification of Principal Executive Officer 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ In connection with this Annual Report on Form 10-K for the fiscal year ended March 31, 2023 (the
+ Report of Franklin Templeton Holdings Trust (the Registrant as filed with the U.S. Securities and Exchange Commission on the date hereof, I, David Mann, the Principal Executive Officer of the Sponsor of the Registrant,
+hereby certify, to the best of my knowledge, that: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934, as amended; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and
+results of operations of the Registrant. 
+
+By: 
+ 
+ /s/ David Mann 
+
+David Mann 
+
+President and Chief Executive Officer 
+
+(serving in the capacity of principal executive officer) 
+ Date: June 20, 2023 
+
+The originally executed copy of this Certification will be maintained at the Sponsor s offices and will be
+made available for inspection upon request. 
+
+The registrant is a trust and the person is signing in his capacity as an officer of Franklin Holdings, LLC,
+the Sponsor of the Registrant. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ d498366dex322.htm
+ EX-32.2
+
+EX-32.2 
+
+Exhibit 32.2 
+ Certification of Principal Financial Officer 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ In connection with this Annual Report on Form 10-K for the fiscal year ended March 31, 2023 (the
+ Report of Franklin Templeton Holdings Trust (the Registrant as filed with the U.S. Securities and Exchange Commission on the date hereof, I, Matthew Hinkle, the Principal Financial Officer of the Sponsor of the Registrant,
+hereby certify, to the best of my knowledge, that: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934, as amended; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and
+results of operations of the Registrant. 
+
+By: 
+ 
+ /s/ Matthew Hinkle 
+
+Matthew Hinkle 
+
+Chief Financial Officer 
+
+(serving in the capacity of principal financial officer) 
+ Date: June 20, 2023 
+
+The originally executed copy of this Certification will be maintained at the Sponsor s offices and will be
+made available for inspection upon request. 
+
+The registrant is a trust and the person is signing in his capacity as an officer of Franklin Holdings, LLC,
+the Sponsor of the Registrant. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ fgld-20230331.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ fgld-20230331_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ fgld-20230331_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ fgld-20230331_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

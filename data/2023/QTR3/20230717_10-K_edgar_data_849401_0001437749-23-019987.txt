@@ -1,0 +1,1798 @@
+<Header>
+<FileStats>
+    <FileName>20230717_10-K_edgar_data_849401_0001437749-23-019987.txt</FileName>
+    <GrossFileSize>4750699</GrossFileSize>
+    <NetFileSize>112504</NetFileSize>
+    <NonText_DocumentType_Chars>924697</NonText_DocumentType_Chars>
+    <HTML_Chars>1163388</HTML_Chars>
+    <XBRL_Chars>1289249</XBRL_Chars>
+    <XML_Chars>1153576</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-23-019987.hdr.sgml : 20230717
+<ACCEPTANCE-DATETIME>20230714201333
+ACCESSION NUMBER:		0001437749-23-019987
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		65
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230717
+DATE AS OF CHANGE:		20230714
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADM TRONICS UNLIMITED, INC.
+		CENTRAL INDEX KEY:			0000849401
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		IRS NUMBER:				221896032
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17629
+		FILM NUMBER:		231090286
+
+	BUSINESS ADDRESS:	
+		STREET 1:		224 S PEGASUS AVE
+		CITY:			NORTHVALE
+		STATE:			NJ
+		ZIP:			07647
+		BUSINESS PHONE:		2017676040
+
+	MAIL ADDRESS:	
+		STREET 1:		224 S PEGASUS AVE
+		CITY:			NORTHVALE
+		STATE:			NJ
+		ZIP:			07647
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADM TRONICS UNLIMITED INC/DE
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0001437749-23-019987.txt : 20230717
+
+10-K
+ 1
+ admt20230331_10k.htm
+ FORM 10-K
+
+admt20230331_10k.htm 
+
+FORM 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, DC 20549 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES 
+
+ EXCHANGE ACT OF 1934 
+
+For the fiscal year ended 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES 
+
+ EXCHANGE ACT OF 1934 
+
+For the transition period from __________ to __________ 
+
+COMMISSION FILE NUMBER 
+
+(Name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+
+(I.R.S. Employer Identification No.) 
+
+incorporation or organization) 
+
+, , 
+
+ (Address of Principal Executive Offices) (Zip Code) 
+
+Registrant's telephone number ) 
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: None 
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: 
+
+(Title of Class) 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 229.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+No 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). 
+
+Yes No 
+
+The aggregate market value of voting stock held by non-affiliates of the registrant as of September 30, 2022, the last business day of the registrant s most recently completed second fiscal quarter was . 
+
+The number of shares of the Common Stock outstanding as of July 14, 2023 was . 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Not applicable. 
+
+FORWARD LOOKING STATEMENTS 
+
+This Annual Report on Form 10-K contains various forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and information that is based on management's beliefs as well as assumptions made by and information currently available to management. Although we believe that the expectations reflected in such forward-looking statements are reasonable, we can give no assurance that such expectations will prove to be correct. When used in this report, the words "anticipate," "believe," "estimate," "expect," "predict," "project" and similar expressions are intended to identify forward-looking statements. We cannot guarantee the accuracy of the forward-looking statements, and you should be aware that our actual results could differ materially from those contained in the forward-looking statements due to a number of factors, including the statements under "Risk Factors" set forth in "Item 1 - Description of Business" and the statements under "Critical Accounting Policies" set forth in "Item 6 - Management's Discussion and Analysis or Plan of Operation." Due to these uncertainties and risks, readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this Annual Report on Form 10-K. 
+
+Unless otherwise indicated in this prospectus, references to "we," "us," "our" or the "Company" refer to ADM Tronics Unlimited, Inc. and its subsidiaries. 
+
+PART I 
+
+ ITEM 1. BUSINESS 
+
+COMPANY OVERVIEW 
+
+The Company is a technology-based developer and manufacturer of diversified lines of products and derives revenue from the production and sale of electronics for medical devices and other applications; environmentally safe chemical products for industrial, medical and cosmetic uses; and, research, development, regulatory and engineering services. 
+
+The Company is a corporation that was organized under the laws of the State of Delaware on November 24, 1969. Our operations are conducted through ADM Tronics Unlimited, Inc. ("ADM") and its subsidiary Sonotron Medical Systems, Inc. ("SMI"). 
+
+COMPANY PRODUCTS AND SERVICES 
+
+ELECTRONICS FOR MEDICAL DEVICES AND OTHER APPLICATIONS 
+
+We develop and manufacture electronic technologies for non-invasive, electrotherapeutic and diagnostic medical devices as well as for veterinary and other applications. The products are manufactured at our Northvale facility which is an FDA-Registered Medical Device Manufacturing facility. We develop and manufacture our own proprietary products as well as on a contract basis for other companies. 
+
+CONTRACT MANUFACTURING 
+
+The Company derives revenues from contract manufacturing of electronic medical and other devices from non-affiliated customers. As of March 31, 2022, we had approximately 926,000 of back-log for electronic product orders. 
+
+ENVIRONMENTALLY SAFE CHEMICAL PRODUCTS FOR INDUSTRIAL USES 
+
+We develop, manufacture, and sell chemical products to industrial users. Such products consist primarily of the following: 
+
+Water-based primers and adhesives; 
+
+Water-based coatings and resins; 
+
+Water-based chemical additives; and 
+
+Anti-static conductive paints, coating and other products. 
+
+Water-based primers and adhesives are chemical compounds used to bind different plastic films, metal foils and papers. Examples are the binding of polyethylene to polyester, nylon, vinyl, aluminum, polypropylene, paper and cellophane. Our water-based primers and adhesives are similar in function to solvent-based primers that are widely used to bind plastic films, papers and foils. Solvent-based systems have come under criticism since they have been found to be highly pollutant, dangerous to health and generally caustic in nature. Based upon our experience since 1969, including information furnished to us by certain of our customers, we believe that water-based systems have no known polluting effects and pose no known health hazards. There can, of course, be no assurance that any governmental restrictions will not be imposed on our water-based products or that such products will be accepted as replacements for solvent-based products. 
+
+Water-based coatings and resins for the printing industry are used to impart properties to the printed substrate. Our coatings and resins can be used to coat printed material for glossy or aesthetic appeal to make such material virtually impervious to certain types of grease and to impart other characteristics required or desired for various products and specifications. 
+
+Certain of our water-based chemical additives are used to impart properties to inks and other chemical products used in the food packaging and printing industries. These additives are used for their ability to improve the performance of such products. 
+
+Through Anti-Static Industries, the assets of which were acquired in July 2009, we now develop and manufacture a full line of anti-static products for commercial and industrial use through a division of our company that we refer to as Antistatic Industries . Antistatic Industries develops and distributes proprietary conductive paints, coatings and other products and accessories which can be used by electronics, computer, pharmaceutical and chemical companies to prevent, reduce or eliminate static electricity. Many industries are concerned with static electricity as it can be hazardous to personnel and damage corporate facilities, computers, electronic equipment and valuable parts. Antistatic Industries has a wide range of products including paints, hoses, garments, floor mats, rugs, strapping, tapes, hook-and-loop, adhesive products and many other specialized items, all with conductive properties. Antistatic Industries has also pioneered low volatile organic compound conductive and antistatic paint and coating formulations that can be used as replacements for paints and coatings made from hazardous solvents. Antistatic Industries seeks to continually develop new products through research and development for new and current customers to aid in their quest for maximum protection with less waste and rejects in their manufacturing processes by reducing or eliminating static electricity. 
+
+None of our chemical products are protected by patents, although the names of some of such products have been protected by trademarks. We do not believe that any such trademarks are material to our business. As of March 31, 2022, the dollar amount of backlog orders for our chemical products believed by us to be firm was not material. 
+
+MEDICAL AND COSMETIC PRODUCTS 
+
+The Company has developed several medical and cosmetic topical products. The Company s proprietary water-based, adhesive and related topical formulations are used for maxillofacial prosthetic medical applications and for professional makeup applications primarily for special makeup effects for film, TV and theatrical productions. 
+
+1
+
+RESEARCH, DEVELOPMENT, REGULATORY AND ENGINEERING SERVICES 
+
+The Company provides research, development, regulatory and engineering services to unaffiliated customers for the design, development and manufacturing of medical devices, electronics and other technologies and products (the Engineering Services ). The Engineering Services are provided by the Company to customers both on a fee-for-services basis and on a project basis. 
+
+CUSTOMERS 
+
+During the year ended March 31, 2023 and 2022, two customers accounted for 40 and 51 , respectively, of our net revenue. As of March 31, 2023 and 2022, two customers accounted for 75 and three customers accounted for 75 , respectively of our accounts receivable. The loss of these major customers could have a material impact on our operations and cash flow. 
+
+MARKETING AND DISTRIBUTION 
+
+A majority of our product sales are distributed to customers directly from our headquarters in Northvale, NJ. Customers place purchase orders with us and products are then shipped via common carrier delivery on a "FOB shipping point" basis. A portion of the sales are accomplished through distributors who place purchase orders with us for certain quantities of our products which are shipped by common carrier to the distributor's respective warehouses. These stocking distributors then ship product to the ultimate customer via common carrier from their inventory of our products. Our contract manufacturing customers place orders with us for certain quantities of their products they desire to have us manufacture, typically providing a deposit with each order. Engineering Services are provided through written agreements with customers both on a fee-for-services basis and a project basis. 
+
+MANUFACTURER AND SUPPLIERS 
+
+MANUFACTURER 
+
+ADM manufactures its electronic and chemical products and other customers electronic products at its facilities located in Northvale, New Jersey. 
+
+Under contract manufacturing agreements, all inventions, patentable or otherwise, trade secrets, discoveries, ideas, writings, technology, know-how, improvements or other advances or findings relating to the entities' products and technologies shall be and become the exclusive proprietary and confidential information of such entity or any person to whom such entity may have assigned rights therein. ADM has no rights in any such proprietary or confidential information and is prohibited from using or disclosing any of such proprietary or confidential information for its own benefit or purposes, or for the benefit or purpose of any other person other than the entity without such entity's prior written consent. ADM has also agreed to cooperate with each entity in securing for it any patents, copyrights, trademarks or the like which it may seek to obtain in connection therewith. If ADM breaches any of the confidentiality agreements contained in the manufacturing agreement, or if these agreements are not sufficient to protect the entity's technology or are found to be unenforceable, the entity's competitors could acquire and use information that it considers to be our trade secrets and the entity may not be able to compete effectively. 
+
+As a manufacturer of medical devices, ADM is required to comply with quality requirements, which require manufacturers, including third-party manufacturers, to follow stringent design, testing, control, documentation and other quality assurance procedures during all aspects of the manufacturing process. In addition, our manufacturing facility is required to be registered as a medical device manufacturing facility with the FDA and is subject to inspection by the FDA. The Company has been registered by the FDA as a Registered Medical Device Establishment since 1988 allowing it to manufacture medical devices in accordance with procedures outlined in FDA regulations, which include quality control and related activities. Such registration is renewable annually and although we do not believe that the registration will fail to be renewed by the FDA, there can be no assurance of such renewal. 
+
+SUPPLIERS 
+
+We purchase the raw materials, parts, components and other items required to manufacture our products. We rely on a limited number of suppliers for such raw materials, parts, components and other items. Although there are many suppliers for each of these raw materials, parts, components and other items, we are dependent on a limited number of suppliers for many of the significant raw materials and components due to our customers requirements. We do not have any long-term or exclusive purchase commitments with any of our suppliers. The failure to maintain existing relationships with suppliers or to establish new relationships in the future could also negatively affect our ability to obtain raw materials and components used in the products in a timely manner. If we are unable to obtain ample supply of product from our existing suppliers or alternative sources of supply, we may be unable to satisfy orders which could reduce our revenues and adversely affect relationships with our customers. Accordingly, in order to satisfy its customers' needs, we have maintained an inventory ranging, in dollar amounts, from 15 to 30 of sales of chemical products in the form of either raw materials or finished goods. Starting in 2020 there has been a worldwide shortage of certain electronic components used in the manufacture of circuit boards used in the devices produced by the Company. There has also been a shortage in certain chemical raw materials. This has resulted in delays in the ability of the Company to manufacture products and, in some cases, raw material costs have consequently increased, affecting margins. In response, we have actively sought other suppliers and alternate raw materials to reduce the impact of the shortage on our production capabilities, although in many cases these efforts have had limited results. Such shortages are continuing and there can be no assurance as to when the shortages will be resolved. 
+
+2
+
+RESEARCH AND DEVELOPMENT 
+
+During our fiscal years ended March 31, 2023 and 2022, research and development expenses with respect to company-sponsored research and development activities were 541,184 and 615,926, respectively. During such fiscal years, we did not expend any funds on customer-sponsored research and development activities with respect thereto, other than contracted research and development from engineering services customers. 
+
+COMPETITION 
+
+Our businesses are highly competitive and substantially all of our competitors possess greater experience, financial resources, operating history and marketing capabilities than us. Although we do not believe that there are one or more dominant competitors in such industries, there can be no assurance that we will be able to effectively compete with any or all of our competitors on the basis of price, service or otherwise. Competitors may be better able to withstand a change in conditions and throughout the economy as a whole. In addition, current and anticipated future consolidation among our competitors and customers may cause us to lose market share as well as put downward pressure on pricing. Furthermore, there is a trend in industry toward relocation of manufacturing facilities to lower-cost regions such as Asia. Such relocation may permit some of our competitors to lower their costs and improve their competitive position. If we do not compete successfully, our business, operating margins, financial condition, cash flows and profitability could be adversely affected. 
+
+Our results of operations depend, in part, on our ability to expand our product offerings. We are committed to remaining a competitive producer and believe that our portfolio of new or re-engineered products is strong. However, we may not be able to develop new products, re-engineer existing products successfully or bring them to be competitive, we may not be able to continue to attract and retain customers to which we sell our products. 
+
+INSURANCE 
+
+The Company may be exposed to potential product liability claims by those who use our products. Therefore, we maintain a general liability insurance policy, which includes aggregate product liability coverage of 3,000,000 for certain of our products. We believe that our present insurance coverage is adequate for the types of products we currently market. There can be no assurance, however, that such insurance will be sufficient to cover potential claims or that the present level of coverage will be available in the future at a reasonable cost. 
+
+ITEM 1A. RISK FACTORS 
+
+An investment in our stock involves a high degree of risk. You should carefully consider the following information, together with other information in this annual report, before buying shares of our stock. If any of the following risks or uncertainties occur, our business, financial condition and results of operations could be materially and adversely affected, the trading price of our stock could decline and you may lose all or a part of the money you paid to buy our stock. 
+
+RISKS RELATING TO OUR OPERATIONS 
+
+NEW ENVIRONMENTAL OR OTHER REGULATIONS COULD INCREASE THE COMPANY'S OPERATING COSTS. 
+
+Like other manufacturers, the Company is subject to a broad range of Federal, state and local laws and requirements, including those governing discharges in the air and water, the handling and disposal of solid and hazardous substances and wastes, the remediation of contamination associated with the release of hazardous substances, work place safety and equal employment opportunities. We have made expenditures to comply with such laws and requirements. We believe, based on information currently available to management, that we are in compliance with applicable environmental and other legal requirements and that we will not require material capital expenditures to maintain compliance with such requirements in the foreseeable future. Governmental authorities have the power to enforce compliance with such laws and regulations, and violators may be subject to penalties, injunctions or both. Third parties may also have the right to enforce compliance with such laws and regulations. As ADM develops new products, those products may become subject to additional review and approval requirements governing the sale and use of its products. Although our manufacturing processes do not currently result in the generation of hazardous wastes, this may not always be the case and material costs or liabilities may be incurred by us in the future as a result of the manufacturing operations. It is also possible that other developments, such as additional or increasingly strict requirements of laws and regulations of these types, or enforcement policies there under, could significantly increase our costs of operations. 
+
+3
+
+BECAUSE WE USE VARIOUS MATERIALS AND SUBSTANCES IN MANUFACTURING OUR CHEMICAL PRODUCTS, OUR PRODUCTION FACILITIES ARE SUBJECT TO OPERATING HAZARDS THAT COULD CAUSE PERSONAL INJURY AND LOSS OF LIFE, SEVERE DAMAGE TO, OR DESTRUCTION OF, PROPERTY AND EQUIPMENT AND ENVIRONMENTAL CONTAMINATION. 
+
+We are dependent on the continued operation of our production and distribution facility. This facility is subject to hazards associated with the manufacture, handling, storage and transportation of chemical materials and products, including natural disasters, mechanical failure, unscheduled downtime, labor difficulties, transportation interruptions, and environmental hazards, such as spills, discharges or releases of toxic or hazardous substances and remediation complications. These hazards can cause personal injury and loss of life, severe damage to, or destruction of, property and equipment and environmental contamination and other environmental damage and could have a material adverse effect on our financial condition. In addition, due to the nature of our business operations, we could become subject to scrutiny from environmental action groups. 
+
+FAILURE TO DEVELOP NEW CHEMICAL PRODUCTS AND/OR IMPROVE OUR EXISTING PRODUCTS WILL MAKE US LESS COMPETITIVE. 
+
+Our results of operations depend, in part, on our ability to expand our product offerings. We are committed to remaining a competitive producer and believe that our portfolio of new or re-engineered products is strong. However, we may not be able to continue to develop new products, re-engineer our existing products successfully or bring them to market in a timely manner. While we believe that the products, pricing and services we offer customers are competitive, we may not be able to continue to attract and retain customers to whom we sell our products. 
+
+FAILURE TO MAKE CONTINUED IMPROVEMENTS IN OUR PRODUCTIVITY COULD HURT OUR COMPETITIVE POSITION. 
+
+In order to obtain and maintain a competitive position, we believe that we must continue to make improvements in our productivity. When we invest in new technologies or processes, we face risks related to cost overruns and unanticipated technical difficulties. Our inability to anticipate, respond to or utilize changing technologies could have a material adverse effect on our business and our results of operations. 
+
+CHANGES IN OUR CUSTOMERS' PRODUCTS COULD REDUCE THE DEMAND FOR OUR CHEMICAL PRODUCTS, WHICH MAY DECREASE OUR NET SALES AND OPERATING MARGINS. 
+
+Our chemical products are used for a broad range of applications by our customers. Changes, including technological changes, in our customers' products or processes may make our chemical products unnecessary, which would reduce the demand for those products. Other customers may find alternative materials or processes that no longer require our products. If the demand for our chemical products is reduced, our net sales and operating margins may be reduced as well. 
+
+WE HAVE FEW PROPRIETARY RIGHTS WITH RESPECT TO OUR CHEMICAL PRODUCTS, THE LACK OF WHICH MAY MAKE IT EASIER FOR OUR COMPETITORS TO COMPETE AGAINST US. 
+
+None of our chemical products are protected by patents. We do attempt to protect the names of some of our chemical products through trademarks and some of our other limited proprietary property through trade secret, nondisclosure and confidentiality measures; however, such protections may not preclude competitors from developing similar technologies. 
+
+CUSTOMERS OUTSOURCE THE MANUFACTURING OF THEIR PRODUCTS TO US AND IF OUR OPERATIONS ARE INTERRUPTED OR IF OUR ORDERS EXCEED OUR MANUFACTURING CAPABILITIES, THEY MAY NOT BE ABLE TO DELIVER THEIR PRODUCTS TO CUSTOMERS ON TIME. 
+
+We operate a single facility and have limited capacity that may be inadequate if customers place orders for unexpectedly large quantities of products, or if our other customers place large orders of products. In addition, if our operations were halted or restricted, even temporarily, or we are unable to fulfill large orders, our customers could experience business interruption, increased costs, damage to their reputations and loss of their customers. Although customers have the right to utilize other manufacturers, such manufacturers of their products need to be licensed with the FDA, and identifying and qualifying a new manufacturer to replace us as the manufacturer of their products could take several months during which time, they would likely lose customers and our revenues could be materially delayed and/or reduced. In addition, our failure to produce such products could result in claims against us. 
+
+4
+
+WE DEPEND ON A LIMITED NUMBER OF SUPPLIERS FOR THE COMPONENTS AND RAW MATERIALS USED IN OUR PRODUCTS AND THE PRODUCTS MANUFACTURED FOR THIRD PARTIES, AND ANY INTERRUPTION IN THE AVAILABILITY OF THESE COMPONENTS AND RAW MATERIALS COULD REDUCE OUR REVENUE. 
+
+There has also been a shortage in certain chemical raw materials. This has resulted in delays in the ability of the Company to manufacture products and, in some cases, raw material costs have consequently increased, affecting margins. In response, we have actively sought other suppliers and alternate raw materials to reduce the impact of the shortage on our production capabilities, although in many cases these efforts have had limited results. Such shortages are continuing and there can be no assurance as to when the shortages will be resolved. 
+
+We rely on a limited number of suppliers for the components and raw materials used in the products that we manufacture for others. Although there are many suppliers for each of the component parts and raw materials, we are dependent on a single or limited number of suppliers for many of the significant components and raw materials due to our customers specifications. This reliance involves a number of significant risks, including: 
+
+unavailability of materials and interruptions in delivery of components and raw materials from suppliers; 
+
+manufacturing delays caused by such unavailability or interruptions in delivery; and 
+
+fluctuations in the quality and the price of components and raw materials. 
+
+We do not have any long-term or exclusive purchase commitments with any of our suppliers. Failure to maintain existing relationships with suppliers or to establish new relationships in the future could also negatively affect our ability to obtain components and raw materials used in these products in a timely manner. If we are unable to obtain ample supply of product from existing suppliers or alternative sources of supply, we may be unable to satisfy our customers' orders which could reduce our revenues and adversely affect our relationships with these customers. 
+
+OUR ABILITY TO EXECUTE OUR BUSINESS PLAN DEPENDS ON THE SCOPE OF OUR INTELLECTUAL PROPERTY RIGHTS AND NOT INFRINGING THE INTELLECTUAL PROPERTY RIGHTS OF OTHERS. THE VALIDITY, ENFORCEABILITY AND COMMERCIAL VALUE OF THESE RIGHTS ARE HIGHLY UNCERTAIN. 
+
+Our ability to compete effectively with other companies is materially dependent upon the proprietary nature of our technologies. We rely primarily on patents and trade secrets to protect our products. 
+
+Third parties may seek to challenge, invalidate, circumvent or render unenforceable any patents or proprietary rights owned by us based on, among other things: 
+
+subsequently discovered prior act; 
+
+lack of entitlement to the priority of an earlier, related application; or 
+
+failure to comply with the written description, best mode, enablement or other applicable requirements. 
+
+In general, the patent position of medical device companies is highly uncertain, still evolving and involve complex legal, scientific and factual questions. We are at risk that: 
+
+other patents may be granted with respect to the patent applications filed by us; and 
+
+any patents issued to us may not provide commercial benefit to us or will be infringed, invalidated or circumvented by others. 
+
+The United States Patent and Trademark Office currently has a significant backlog of patent applications, and the approval or rejection of patents may take several years. Prior to actual issuance, the contents of United States patent applications are generally published 18 months after filing. Once issued, such a patent would constitute prior art from its filing date, which might predate the date of a patent application on which we rely. Conceivably, the issuance of such a prior art patent, or the discovery of "prior art" of which we are currently unaware, could invalidate a patent of ours or prevent commercialization of a product claimed thereby. 
+
+Although we generally conduct a cursory review of issued patents prior to engaging in research or development activities, we may be required to obtain a license from others to commercialize any of our new products under development. If patents that cover our existing or new products are issued to other companies, there can be no assurance that any necessary license could be obtained on favorable terms or at all. 
+
+There can be no assurance that we will not be required to resort to litigation to protect our patented technologies and other proprietary rights or that we will not be the subject of additional patent litigation to defend our existing and proposed products and processes against claims of patent infringement or any other intellectual property claims. Such litigation could result in substantial costs, diversion of management's attention, and diversion of our resources. 
+
+We also have applied for patent protection in several foreign countries. Because of the differences in patent laws and laws concerning proprietary rights between the United States and foreign countries, the extent of protection provided by patents and proprietary rights granted to us by the United States may differ from the protection provided by patents and proprietary rights granted to us by foreign countries. 
+
+5
+
+We attempt to protect our trade secrets, including the processes, concepts, ideas and documentation associated with our technologies, through the use of confidentiality agreements and non-competition agreements with our current employees, and with other parties to whom we have divulged such trade secrets. If our employees or other parties breach our confidentiality agreements and non-competition agreements or if these agreements are not sufficient to protect our technology or are found to be unenforceable, our competitors could acquire and use information that we consider to be our trade secrets and we may not be able to compete effectively. Most of our competitors have substantially greater financial, marketing, technical and manufacturing resources than we have and we may not be profitable if our competitors are also able to take advantage of our trade secrets. 
+
+We may decide for business reasons to retain certain knowledge that we consider proprietary as confidential and elect to protect such information as a trade secret, as business confidential information or as know-how. In that event, we must rely upon trade secrets, know-how, confidentiality and non-disclosure agreements and continuing technological innovation to maintain our competitive position. There can be no assurance that others will not independently develop substantially equivalent proprietary information or otherwise gain access to or disclose such information. 
+
+IF THE FDA OR OTHER STATE OR FOREIGN AGENCIES IMPOSE REGULATIONS THAT AFFECT OUR MEDICAL DEVICE PRODUCTS, OUR DEVELOPMENT, MANUFACTURING AND MARKETING COSTS WILL BE INCREASED. 
+
+The testing and production of medical devices are subject to regulation by the FDA as devices under the 1976 Medical Device Amendments to the Federal Food, Drug and Cosmetic Act. In the United States, medical devices must be: 
+
+manufactured in registered and quality approved establishments by the FDA; and 
+
+produced in accordance with the FDA Quality System Regulation ("QSR") for medical devices. 
+
+As a result, we, as the manufacturer of other parties' devices, are required to comply with QSR requirements and if we fail to comply with these requirements, these other third parties will need to find another company to manufacture its devices. In addition, the Company's manufacturing facility: 
+
+is required to be registered as a medical device manufacturing facility with the FDA; and 
+
+is subject to inspection by the FDA. 
+
+The FDA can impose civil and criminal enforcement actions and other penalties on us if we fail to comply with stringent FDA regulations. 
+
+Medical device manufacturing facilities must maintain records, which are available for FDA inspectors documenting that the appropriate manufacturing procedures were followed. The FDA has authority to conduct inspections of our facility. Labeling and promotional activities are also subject to scrutiny by the FDA and, in certain instances, by the Federal Trade Commission. Any failure by us to take satisfactory corrective action in response to an adverse inspection or to comply with applicable FDA regulations could result in enforcement action against us, including a public warning letter, a shutdown of manufacturing operations, a recall of our products, civil or criminal penalties or other sanctions. From time to time, the FDA may modify such requirements, imposing additional or different requirements which may require us to alter our business methods which could result in increased expenses. 
+
+RISKS RELATED TO OUR COMPANY 
+
+At March 31, 2023, we had an accumulated deficit of approximately 32 million. We may incur additional operating losses, as well as negative cash flows from operations, in the future. 
+
+We are highly dependent upon certain customers to generate our revenues. For fiscal years ended March 31, 2023 and March 31, 2022 two customers accounted for 40 and two customers accounted for 51 , respectively, of our net revenue. All customer purchases are made through purchase orders and we do not have any long-term contracts with customers. The complete loss of, or significant reduction in business from, or a material adverse change in the financial condition of, any of such customers will cause a material and adverse change in our revenues and operating results. 
+
+WE MAY BE EXPOSED TO POTENTIAL RISKS RELATING TO OUR INTERNAL CONTROL OVER FINANCIAL REPORTING AND OUR ABILITY TO HAVE THE OPERATING EFFECTIVENESS OF OUR INTERNAL CONTROLS ATTESTED TO BY OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM. 
+
+As directed by Section 404 of the Sarbanes-Oxley Act of 2002 Section 404 the Securities and Exchange Commission SEC adopted rules requiring public companies to include a report of management on the company s internal control over financial reporting in their annual reports on Form 10-K. A report from management on the operating effectiveness of internal controls is included in our Annual Report on Form 10-K. We are a smaller reporting company and are not required to include an attestation report of our auditor in our annual report. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. All internal control systems, no matter how well designed, have inherent limitations, including the possibility of human error and the circumvention of overriding controls. Accordingly, even effective internal control over financial reporting can provide only reasonable assurance with respect to financial statement preparation. In the event we identify significant deficiencies or material weaknesses in our internal control over financial reporting that we cannot remediate in a timely manner, investors and others may lose confidence in the reliability of our financial statements. 
+
+6
+
+WE MAY BE EXPOSED TO PRODUCT LIABILITY CLAIMS FOR WHICH OUR INSURANCE MAY BE INADEQUATE. 
+
+Our business exposes us to potential product liability risks, which are inherent in the testing, manufacturing and marketing of chemical products and electronic devices. Although we maintain a general liability insurance policy, which includes aggregate product liability coverage of 3,000,000 for certain of our products, there can be no assurance, that such insurance will be sufficient to cover potential claims or that the present level of coverage will be available in the future at a reasonable cost. 
+
+While we are not aware of side-effects resulting from the use of any of our products, there may be unknown long-term effects of their use that may result in product liability claims in the future. Further, we cannot provide any assurance that: 
+
+our insurance will provide adequate coverage against potential liabilities if a product causes harm or fails to perform as promised; 
+
+adequate product liability insurance will continue to be available in the future; or 
+
+our insurance can be maintained on acceptable terms. 
+
+The obligation to pay any product liability claim in excess of whatever insurance we are able to obtain would increase our expenses and could greatly reduce our assets. See "Item 1. Business - Insurance." 
+
+THE LOSS OF ANY OF OUR EXECUTIVE OFFICER OR KEY PERSONNEL MAY ADVERSELY AFFECT OUR OPERATIONS AND OUR ABILITY TO EXECUTE OUR GROWTH STRATEGY. 
+
+Our ability to execute our business plan depends upon the continued services of Andre' DiMino, our President and Chief Executive Officer, as well as our key technology, marketing, and support personnel. In January 2013, the Company entered into an employment agreement with Mr. DiMino containing non-compete, confidentiality and other provisions for the benefit of the Company. However, such agreement has provisions for early termination by the Company and/or Mr. DiMino. We do not have employment or consulting agreements containing non-compete agreements with certain of our key personnel, and we may not be able to retain these individuals. If we lost the services of Mr. DiMino or our key personnel, our business may be adversely affected and our stock price may decline. In addition, our ability to execute our business plan is dependent on our ability to attract and retain additional highly skilled personnel. 
+
+OUR EXECUTIVE OFFICER AND ENTITIES AFFILIATED WITH HIM HAVE SUBSTANTIAL CONTROL OVER US, WHICH COULD DELAY OR PREVENT A CHANGE IN OUR CORPORATE CONTROL FAVORED BY OUR OTHER SHAREHOLDERS. 
+
+Our executive officer and director, Mr. DiMino, together with members of the DiMino family, and entities affiliated with them may be deemed to beneficially own, in the aggregate, approximately 38 of our outstanding common stock. The interests of our current officer and director shareholder may differ from the interests of our other shareholders. As a result, the current officer and director would have the ability to exercise substantial control over all corporate actions requiring shareholder approval, irrespective of how our other shareholders may vote, including the following actions: 
+
+the election of directors; 
+
+adoption of stock option plans; 
+
+the amendment of charter documents; or 
+
+the approval of certain mergers and other significant corporate transactions, including a sale of substantially all of our assets. 
+
+PENNY STOCK REGULATIONS MAY IMPOSE CERTAIN RESTRICTIONS ON MARKETABILITY OF OUR SECURITIES. 
+
+As of March 31, 2023, our common stock was exempt from the definition of a Penny Stock under SEC under Rule 240.3a51-1 because it meets one of the following tests: 1) A price of over 5 per share, 2) the issuer has Average Revenue of at least 6 million for the last 3 years, or 3) the issuer has Net Tangible Assets in excess of 2 million if the issuer has been in continuous operations for at least 3 years or 5 million if less than 3 years. Should we not meet one of the aforementioned requirements in the future, our common stock would be subject to penny stock rules. Penny stock rules, may discourage broker-dealers from effecting transactions in our common stock or affect their ability to sell our securities. As a result, purchasers and current holders of our securities could find it more difficult to sell their securities. Our stock is traded on the OTC Marketplace Venture Market referred to as the OTCQB. Trading volume of OTCQB stocks have been historically lower and more volatile then stocks traded on an exchange or the Nasdaq Stock Market. In addition, we may be subject to rules of the SEC that impose additional requirements on broker-dealers when selling penny stocks to persons other than established customers and accredited investors. In general, an accredited investor is a person with assets in excess of 1,000,000 or annual income exceeding 200,000 individually, or 300,000 together with his or her spouse. The relevant SEC regulations generally define penny stocks to include any equity security not traded on an exchange or the Nasdaq Stock Market with a market price (as defined in the regulations) of less than 5 per share. Under the penny stock regulations, a broker-dealer must make a special suitability determination as to the purchaser and must have the purchaser's prior written consent to the transaction. Prior to any transaction in a penny stock covered by these rules, a broker-dealer must deliver a disclosure schedule about the penny stock market prepared by the SEC. Broker-dealers must also make disclosure concerning commissions payable to both the broker-dealer and any registered representative and provide current quotations for the securities. Finally, broker-dealers are required to send monthly statements disclosing recent price information for the penny stock held in an account and information on the limited market in penny stocks. 
+
+7
+
+OUR STOCK PRICE, LIKE THAT OF MANY SMALL COMPANIES, HAS BEEN AND MAY CONTINUE TO BE VOLATILE. 
+
+We expect that the market price of our common stock will fluctuate as a result of variations in our quarterly operating results and other factors beyond our control. These fluctuations may be exaggerated if the trading volume of our common stock is low. 
+
+WE HAVE NOT PAID DIVIDENDS IN THE PAST AND DO NOT EXPECT TO PAY DIVIDENDS IN THE FUTURE, AND ANY RETURN ON INVESTMENT MAY BE LIMITED TO THE VALUE OF YOUR STOCK. 
+
+We have never paid any cash dividends on our common stock and do not anticipate paying any cash dividends on our common stock in the foreseeable future and any return on investment may be limited to the value of your stock. We plan to retain any future earnings to finance growth. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+Not applicable 
+
+ITEM 2. PROPERTIES 
+
+We are headquartered at 224 Pegasus Avenue, Northvale, New Jersey. We lease approximately 16,000 square feet of combined office, manufacturing and warehouse space from an unaffiliated third party with a monthly rent of 8,490 subject to certain increases. The lease expires in June 2028. The Company and its subsidiary utilize portions of the leased space. 
+
+We believe that our existing facilities are suitable as office, storage, laboratory and manufacturing space, and are adequate to meet our current needs. We further believe that such properties are adequately covered by insurance. 
+
+We do not own any real property for use in our operations or otherwise. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+NONE 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+Not applicable 
+
+8
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+MARKET INFORMATION 
+
+The Company's common stock trades on the OTCQB Marketplace, operated by OTC Markets Group, Inc. under the symbol "ADMT." 
+
+The table below sets forth the high and low bid information for our common stock on the OTCQB Marketplace for the indicated periods and reflects inter-dealer prices, without retail mark-up, mark-down, or commission, and may not necessarily represent actual transactions. 
+
+Quarter Ended 
+
+High Bid 
+
+Low Bid 
+
+Fiscal 2023 
+
+31-Mar-23 
+
+0.12 
+
+0.11 
+
+31-Dec-22 
+
+0.08 
+
+0.07 
+
+30-Sep-22 
+
+0.07 
+
+0.05 
+
+30-Jun-22 
+
+0.08 
+
+0.07 
+
+Fiscal 2022 
+
+31-Mar-22 
+
+0.10 
+
+0.10 
+
+31-Dec-21 
+
+0.10 
+
+0.08 
+
+30-Sep-21 
+
+0.13 
+
+0.11 
+
+30-Jun-21 
+
+0.15 
+
+0.13 
+
+HOLDERS OF RECORD 
+
+As of March 31, 2023, 67,588,492 shares of the Company's common stock were issued and outstanding. On March 31, 2023, there were 1,318 shareholders of record. 
+
+DIVIDENDS 
+
+The Company has never paid any cash dividends on its common stock and has no intention of paying cash dividends in the foreseeable future. The Company intends to retain all earnings, if any, for use in the operation and expansion of its business. 
+
+EQUITY COMPENSATION PLAN 
+
+None 
+
+ITEM 6. SELECTED FINANCIAL DATA. 
+
+Not Applicable 
+
+9
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+
+FORWARD-LOOKING STATEMENTS 
+
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the "safe harbor" provisions under section 21E of the Securities and Exchange Act of 1934 and the Private Securities Litigation Act of 1995. We use forward-looking statements in our description of our plans and objectives for future operations and assumptions underlying these plans and objectives. Forward-looking terminology includes the words "may", "expects", "believes", "anticipates", "intends", "forecasts", "projects", or similar terms, variations of such terms or the negative of such terms. These forward-looking statements are based on management's current expectations and are subject to factors and uncertainties which could cause actual results to differ materially from those described in such forward-looking statements. We expressly disclaim any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements contained in this Form 10-K to reflect any change in our expectations or any changes in events, conditions or circumstances on which any forward-looking statement is based. Factors which could cause such results to differ materially from those described in the forward-looking statements include those set forth under "Item. 1 Description of Business Risk Factors" and elsewhere in, or incorporated by reference into this Annual Report on Form 10-K. 
+
+CRITICAL ACCOUNTING POLICIES 
+
+REVENUE RECOGNITION 
+
+ELECTRONICS: 
+
+We recognize revenue from the sale of our electronic products when they are shipped to the purchaser. We offer a limited 90-day warranty on our electronics products and contract manufacturing and a limited 5-year warranty on our electronic controllers for spas and hot tubs. Historically, the amount of warranty revenue included in sales of our electronic products have been de minimis. We have no other post shipment obligations. Based on prior experience, no amounts have been accrued for potential warranty costs and actual costs were less than 2,000, for each of the fiscal years ended March 31, 2023 and 2022. For contract manufacturing, revenues are recognized after shipment of the completed products. 
+
+Amounts received from customers in advance of our satisfaction of applicable performance obligations are recorded as customer deposits. Such amounts are recognized as revenues when the related performance obligations are satisfied. Customer deposits of approximately 179,000 as of March 31, 2022 were recognized as revenues during the year ended March 31, 2023. 
+
+CHEMICAL PRODUCTS: 
+
+Revenues are recognized when products are shipped to end users. Shipments to distributors are recognized as revenue when no right of return exists. 
+
+ENGINEERING SERVICES 
+
+We provide certain engineering services, including research, development, quality control and quality assurance services along with regulatory compliance services. We recognize revenue from engineering services on a monthly basis over time as the applicable performance obligations are satisfied. 
+
+All revenue is recognized net of discounts. 
+
+ACCOUNTS RECEIVABLE 
+
+ADM extends credit terms to our customers based on their credit worthiness. As such, we record accounts receivable at the time of shipment, when our right to the consideration becomes unconditional. Accounts receivable from our customers are typically due within 30 days of invoicing. An allowance for doubtful accounts is provided based on a periodic analysis of individual account balances, including an evaluation of days outstanding, payment history, recent payment trends, and our assessment of our customers' creditworthiness. 
+
+USE OF ESTIMATES 
+
+Our discussion and analysis of our financial condition and results of operations is based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America ("GAAP"). The preparation of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. On an ongoing basis, we evaluate our estimates, including those related to reserves, deferred tax assets and valuation allowance, impairment of long-lived assets, fair value of equity instruments issued to consultants for services and fair value of equity instruments issued to others. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions; however, we believe that our estimates, including those for the above described items, are reasonable. 
+
+10
+
+NEW ACCOUNTING STANDARDS 
+
+On December 18, 2019, the FASB issued ASU 2019-12, Simplifying the Accounting for Income Taxes , which modifies ASU 740 to simplify the accounting for income taxes. The amendments in ASU 2019-12 are effective for fiscal years beginning after December 15, 2020. The Company adopted this ASU effective April 1, 2021. 
+
+In June 2016, the FASB issued ASU2016-13 Financial Instruments Credit Losses . This guidance affects organizations that hold financial assets and net investments in leases that are not accounted for at fair value with changes in fair value reported in net income. The guidance requires organizations to measure all expected credit losses for financial instruments at the reporting date based on historical experience, current conditions and reasonable and supportable forecasts. It is effective for fiscal years beginning after December 15, 2022, including interim periods with those fiscal years. The Company is evaluating the potential impact on the Company s consolidated financial statements. 
+
+Management does not believe that any other recently issued, but not yet effective accounting pronouncement, if adopted, would have a material effect on the accompanying consolidated financial statements. 
+
+BUSINESS OVERVIEW 
+
+ADM is a corporation that was organized under the laws of the State of Delaware on November 24, 1969. 
+
+We are a technology-based developer and manufacturer of diversified lines of products and services in the following areas: electronics for non-invasive medical and other applications; research, development, regulatory and engineering services; and, environmentally safe chemical products for industrial, cosmetic and topical uses. 
+
+RESULTS OF OPERATIONS 
+
+REVENUES 
+
+Revenues increased 470,191 or 15 from the prior year, which resulted from increases of 477,657 in the electronic segment, 53,222 in the engineering segment offset by a decrease of 60,688 in the chemical segment. The increases were primarily the result of increased purchasing from customers due to the effect of the COVID shutdowns being lifted. 
+
+OPERATING INCOME (LOSS) 
+
+Income from operations for the year ended March 31, 2023 was 30,335. Loss from operations for the year ended March 31, 2022 was 1,129,314)., an increase in operating income of 1,185,920. This was a result of an increase in gross profit due to increased sales and a reduction of operating expenses year over year, mainly due to a reduction in selling, general and administrative costs of 695,514. 
+
+Selling, general and administrative expenses decreased by 675,643 or 38 , from 1,762,026 to 1,086,383, mainly due to a decrease of 206,797 in consulting expense and 625,000 in bad debt, partially offset by a decrease of 693,817 in income realized in the PPP Forgiveness n 2022. 
+
+NET LOSS PER SHARE 
+
+Net loss for the fiscal years ended March 31, 2023 and 2022 was 96,322 and 1,384,263 or 0.00) and 0.02) per share, respectively. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+At March 31, 2023, we had cash and cash equivalents of 1,003,730 as compared to 1,137,264 at March 31, 2022. The decrease of 133,534 was primarily the result of cash provided in operations in the amount of 125,024, offset by cash used by financing activities of 258,558. We expect to have enough cash to fund operations for the next twelve months. 
+
+Future Sources of Liquidity: 
+
+We expect our primary source of cash during fiscal 2023 to be net cash provided by operating activities. We expect that growth in profitable revenues and continued focus on new customers will enable us to generate cash flows from operating activities. 
+
+If we do not generate sufficient cash from operations, face unanticipated cash needs or do not otherwise have sufficient cash, we have the ability to reduce certain expenses depending on the level of business operation. 
+
+Based on current expectations, we believe that our existing cash of 1,003,730 as of March 31, 2023 and other potential sources of cash will be sufficient to meet our cash requirements. Our ability to meet these requirements will depend on our ability to generate cash in the future, which is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. 
+
+11
+
+Although we expect available funds and funds generated from our operations to be sufficient to meet our anticipated needs for a minimum of 12 months, we may need to obtain additional capital to continue to operate and grow our business. Our cash requirements may vary materially from those currently anticipated due to changes in our operations, including our marketing and sales activities, product development, and the timing of our receipt of revenues. As of March 31, 2023, we have approximately 287,000 available for use through our line of credit. Our ability to obtain additional financing in the future will depend in part upon the prevailing capital market conditions, as well as our business performance. There can be no assurance that we will be successful in our efforts to arrange additional financing on terms satisfactory to us or at all. Additionally, we will continue to reduce certain of our expenses in order to assist in meeting our capital needs. 
+
+IMPACT OF THE COVID-19 PANDEMIC 
+
+The COVID-19 pandemic has significantly curtailed global economic activity and caused significant volatility and disruption in global financial markets. We began to see the impact of COVID-19 during our fourth quarter of fiscal 2020 with certain of our customers being required to close and/or suspend their own operations due to the COVID-19 pandemic. As a result, net sales and production levels during the fourth quarter of fiscal 2020 and the majority of fiscal 2021 were reduced, thus impacting our results of operations during these quarters. The Company was impacted by supply chain shortages during the 2022 fiscal year. In May 2020, we received a loan of approximately 381,000 under the U.S. Small Business Administration Paycheck Protection Program, to assist with the economic hardships caused by the pandemic. In February 2021, we received a second loan of approximately 333,000 under the U.S. Small Business Administration Paycheck Protection Program. 
+
+The Company applied for loan forgiveness of both PPP loans. On September 7, 2021 , the Company received approval from the SBA for 361,275 of PPP loan forgiveness. On December 21, 2021 , the Company received approval from the Bank for 332,542. This amount was recorded as Forgiveness of Paycheck Protection loan in the accompanying condensed Consolidated Statements of Operations for the year ended March 31, 2022. 
+
+The unforgiven portion of the first PPP loan is 19,725, which was converted to a term loan payable in equal installments of principal plus interest at 1 with a maturity date of May 15, 2025. No collateral or personal guarantees are required for the loan. At March 31, 2023 , the outstanding balance is 11,656. 
+
+The extent of the impact of the COVID-19 pandemic on our business, financial results and liquidity will depend on future developments and the financial condition of our customers that we may not be able to foresee. Any of these factors, and other factors beyond our control, can adversely impact our results for the first quarter of fiscal 2023, as well as the full fiscal year, and such impact may be material. 
+
+OPERATING ACTIVITIES 
+
+Net cash provided by operating activities was 125,024 for the fiscal year ended March 31, 2023. Cash provided during the year ended March 31, 2023 was primarily due to net loss of 96,322 coupled with a reduction in reduction in net operating liabilities of 65,895, a decrease in deferred taxes of 956,000, write-off of inventories of 110,504, depreciation and amortization of 34,014 and non-cash interest expense of 26,307. 
+
+Net cash used by operating activities was 574,951 for the fiscal year ended March 31, 2022. Cash used during the year ended March 31, 2022 was primarily due to net loss of 1,384,263, an increase in net operating assets of 267,909, and forgiveness of PPP loans of 693,517, partially offset by an increase in net operating liabilities of 18,095, a decrease in deferred taxes of 956,000, write-off of inventories of 34,406, an increase in reserve for bad debt of 625,000, depreciation and amortization of 107,253 and non-cash interest expense of 30,284. 
+
+INVESTING ACTIVITIES 
+
+For the fiscal years ended March 31, 2023 and 2022, net cash used in investing activities was zero. 
+
+FINANCING ACTIVITIES 
+
+For the fiscal year ended March 31, 2023, net cash used by financing activities was 258,558, due to advances on the line of credit of 167,894, off-set by payments toward the line of credit of 389,845, payments on PPP loan of 6,321, and a decrease in due to stockholder of 36,607. 
+
+For the fiscal year ended March 31, 2022, net cash provided by financing activities was 66,499, due to advances on the line of credit of 308,000, off-set by payments toward the line of credit of 199,653, payments on PPP loan of 6,329, and a decrease in due to stockholder of 39,158. 
+
+INFLATION 
+
+We believe our operations has not been materially and adversely affected by inflation or changing prices. However, general economic factors beyond our control, and changes in the global economic environment, specifically fluctuations in inflation and currency exchange rates, could result in lower revenues, higher costs and decreased margins and earnings in the foreseeable future. 
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+
+The Company has no off-balance sheet arrangements. 
+
+ITEM 7A. QUANTATATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Not Applicable 
+
+12
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY 
+
+ MARCH 31, 2023 AND 2022 
+
+I N D E X 
+
+Page No. 
+
+Report of Independent Registered Public Accounting Firm (PCAOB Firm ID - 
+			 F-1 
+
+Report of Previous Independent Registered Public Accounting Firm (PCAOB Firm ID - 50) 
+
+F-3 
+
+CONSOLIDATED FINANCIAL STATEMENTS: 
+
+Balance Sheets as of March 31, 2023 and 2022 
+
+F-5 
+
+Statements of Operations for the Years Ended March 31, 2023 and 2022 
+
+F-6 
+
+Statements of Changes in Stockholders Equity for the Years Ended March 31, 2023 and 2022 
+
+F-7 
+
+Statements of Cash Flows for the Years Ended March 31, 2023 and 2022 
+
+F-8 
+
+Notes to Consolidated Financial Statements 
+
+F-9 
+
+13
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and 
+Stockholders of ADM Tronics Unlimited, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance sheet of ADM Tronics Unlimited, Inc. (the Company) as of the year ended March 31, 2023, and the consolidated statements of operations, stockholders equity, and cash flows for the year ended March 31, 2023, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of March 31, 2023, and the results of its operations and its cash flows for the year ended March 31, 2023, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Allowance for doubtful accounts 
+
+As described further in Note 2 to the consolidated financial statements, the Company maintains an allowance for doubtful accounts against its accounts receivable balances based on the future estimated credit losses. As of March 31, 2023, the allowance for doubtful accounts was 694,871 or 57 of total accounts receivable. This estimate is determined based on internally developed qualitative and quantitative factors derived from the aging of receivables, the Company s past collection history with customers, and economic trends and conditions. We identified estimates used to determine the allowance for doubtful accounts as a critical audit matter. 
+
+We have identified the evaluation of the Company s estimation of allowance for doubtful accounts as a critical audit matter. There is an established policy for determining overall allowance for doubtful accounts with specific judgment in place for certain account balances that require additional evaluation and assessment which are used in estimating losses related to customer receivables. There is also a high degree of subjectivity in management s assessment of the completeness and accuracy of the allowance for doubtful accounts, specifically the portion of the receivable expected to be collected, which requires a heightened level of auditor judgment in auditing the estimate. 
+
+- 
+
+Evaluated whether the company s methods for developing the estimated allowance were appropriate for their accounts receivable and whether the data underlying the estimate was appropriate and has been consistently applied, including retrospective review of the estimation methodology. 
+
+F-1
+
+- 
+
+Identified significant assumptions underlying the estimates and evaluate the reasonableness of the assumptions underlying the allowance for doubtful accounts by obtaining corroborating evidence which supported management s estimate. 
+
+- 
+
+Reviewed the aged trial balance with subsequent collections, credit memos, and write-offs posted on it and discussed balances over 90 days that have not been subsequently collected and the reasonableness of write-offs and recoveries with management. Considered whether information produced by the company is accurate, complete, and sufficiently precise for its purpose. 
+
+- 
+
+Developed an independent expectation of the allowance for doubtful accounts and compared it to the company s estimate. 
+
+- 
+
+Considered whether credit memos or write-offs after the balance sheet date indicate that an account was doubtful as of the balance sheet date. 
+
+- 
+
+For significant delinquent balances, evaluated the debtor s creditworthiness. 
+
+- 
+
+Tested subsequent collections through the report date. 
+
+Inventory Valuation for old/obsolete items 
+
+As further elaborated on in note 2 of the financial statements, the Company values inventory at the lower of cost and net realizable value. At the balance sheet date, the Company evaluated inventory for spoilage and obsolescence and deducted the value from each item as applicable. As of March 31, 2023, the company did not have an account for inventory reserve. To estimate the amount of inventory that should be written off, the company reviews inventory quantities on hand as well as spoilage rates for chemicals and obsolescence for electronics. If an item either spoils or becomes obsolete, the company will dispose of the chemicals or use the obsolete parts for other purposes if applicable. Due to this aspect of inventory, a high level of estimation and judgment is required. 
+
+Given the significant judgments associated with evaluating the valuation of inventory, auditing the reasonableness of management s estimates and assumptions involved especially subjective judgment and increased extent of effort, therefore we identified the estimates used to determine the valuation of inventory as a critical audit matter. 
+
+Our audit procedures related to the Company s valuation of inventory included the following: 
+
+- 
+
+We obtained an understanding and evaluated the design of the company s process for determining whether allowances have been made for scrap, obsolete, unsalable, slow-moving, or overstocked items and determine the amount of any valuation allowances. 
+
+- 
+
+Evaluated whether the company s methods for estimating the potential inventory reserve were appropriate for the nature and categories of inventory and whether the data underlying the estimate was appropriate and has been consistently applied, including retrospective review of the estimation methodology. 
+
+- 
+
+We obtained from management the master schedule of inventory values with adjustments from raw materials, work in process, and finished goods, and we tested the completeness and accuracy of the underlying data used in management s inventory costing and valuation. 
+
+- 
+
+Inquired of production personnel concerning possible excess, defective, obsolete, and other inventory items that might have valuation risks, and assessed the qualifications and competence of those personnel. 
+
+- 
+
+We tested the pricing used to determine the average costs of raw materials and supplies, the net realizable value of finished goods and work in process, and management s estimates of which materials may be obsolete. 
+
+- 
+
+Compared quantities in the current-year final inventory listing to the prior-year listing on a test basis to identify slow-moving or overstocked items, and tested inputs, including sales activity versus on-hand inventory levels, we reviewed current selling prices versus current cost. 
+
+- 
+
+Reviewed perpetual records, sales analyses, and other information to determine actual usage of the items during the year. 
+
+/s/ 
+
+We have served as the Company s auditor since 2022. 
+
+July 14, 2023 
+
+F-2
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and 
+Stockholders of ADM Tronics Unlimited, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of ADM Tronics Unlimited, Inc. and subsidiary (the Company as of March 31, 2022 and 2021, and the related consolidated statements of operations, changes in stockholders equity, and cash flows for each of the years in the two-year period ended March 31, 2022, and the related notes (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of March 31, 2022 and 2021, and the results of its operations and its cash flows for each of the years in the two-year period ended March 31, 2022, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Description of the Matter: As described in Note 2 of the Company s consolidated financial statements, the Company reviews all accounts receivable balances that exceed the due date and estimates the portion, if any, of the balances that will not be collected. Collectability of accounts receivable was identified as a critical audit matter due to the age and slow collection of certain receivables and significant management judgement in estimating the allowance for doubtful accounts. 
+
+F-3
+
+How we Addressed the Matter in our Audit: We obtained an understanding of the controls and evaluated management s process for identifying possible uncollectible accounts, as well as estimating the allowance for doubtful accounts. We tested the identified accounts receivable by obtaining additional audit evidence from a third party source, after the measurement date, and we evaluated significant assumptions used to develop the estimate. In addition, we held discussions with management, which resulted in an increase to the allowance for doubtful accounts. 
+
+/s/ Raich Ende Malter Co. LLP 
+
+We have served as the Company s auditor since 2005. 
+
+Melville, New York 
+
+			 July 8, 2022 
+
+F-4
+
+PART I. FINANCIAL INFORMATION 
+
+ITEM 1. CONSOLIDATED FINANCIAL STATEMENTS 
+
+ ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+March 31, 
+
+March 31, 
+
+2023 
+
+2022 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Accounts receivable, net of allowance for doubtful accounts of and at March 31, 2023 and 2022, respectively 
+
+Inventories 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Other Assets: 
+
+Operating lease right-of-use asset 
+
+Long-term inventory 
+
+Loan receivable 
+
+Due from affiliate 
+
+Intangible assets, net of accumulated amortization of and at March 31, 2023 and 2022, respectively 
+
+Other assets 
+
+Deferred tax asset 
+
+Total other assets 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued expenses and other current liabilities 
+
+Bank overdraft 
+
+PPP loan 
+
+Line of credit 
+
+Warrant liability 
+
+Operating lease liability 
+
+Customer deposits 
+
+Due to stockholder 
+
+Total current liabilities 
+
+Long-term liabilities 
+
+PPP loan less current portion 
+
+Operating lease liability less current portion 
+
+Total long-term liabilities 
+
+Total liabilities 
+
+Stockholders' equity: 
+
+Preferred stock, .01 par value; shares authorized, shares issued and outstanding 
+
+Common stock, par value; shares authorized, shares issued and outstanding 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders' equity 
+
+Total liabilities and stockholders' equity 
+
+The accompanying notes are an integral part of these 
+
+ consolidated financial statements. 
+
+F-5
+
+ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+ FOR THE YEARS ENDED MARCH 31, 2023 AND 2022 
+
+2023 
+
+2022 
+
+Net revenues 
+
+Cost of sales 
+
+Gross Profit 
+
+Operating expenses: 
+
+Research and development 
+
+Selling, general and administrative 
+
+Total operating expenses 
+
+Income (loss) from operations 
+
+Other income (expense): 
+
+Forgiveness of Payroll Protection Program 
+
+Interest income 
+
+Interest and finance expenses 
+
+Total other income (expense) 
+
+Income (loss) before provision for taxes 
+
+Provision (benefit) for income taxes: 
+
+Current 
+
+Deferred 
+
+. 
+
+Total benefit provision for income taxes 
+
+Net loss 
+
+Basic and diluted earnings (loss) per common share: 
+
+Weighted average shares of common stock outstanding - basic and diluted 
+
+The accompanying notes are an integral part of these 
+
+ consolidated financial statements. 
+
+F-6
+
+ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY 
+
+ CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY 
+
+ FOR THE YEARS ENDED MARCH 31, 2023 AND 2022 
+
+Common Stock 
+
+Common Stock 
+
+Additional 
+
+			 Paid-in 
+
+Accumulated 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Total 
+
+Balance at March 31, 2021 
+
+Net loss 
+
+Balance at March 31, 2022 
+
+Stock based compensation 
+
+287,844 
+
+Net loss 
+
+Balance at March 31, 2023 
+
+The accompanying notes are an integral part of these 
+
+ consolidated financial statements. 
+
+F-7
+
+ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ FOR THE YEARS ENDED MARCH 31, 2023 AND 2022 
+
+2023 
+
+2022 
+
+Cash flows from operating activities: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash in operating activities: 
+
+Depreciation and amortization 
+
+Write-off of inventories 
+
+Bad debt 
+
+Deferred taxes 
+
+Non-cash interest expense 
+
+Amortization of right-to-use asset 
+
+Stock based compensation 
+
+Forgiveness of Paycheck Protection Program loan 
+
+Warrant liability 
+
+Changes in operating assets and liabilities balances: 
+
+Accounts receivable 
+
+Inventories 
+
+Prepaid expenses and other current assets 
+
+Loan receivable 
+
+Accounts payable 
+
+Bank overdraft 
+
+Customer deposits 
+
+Accrued expenses and other current liabilities 
+
+Payments of operating lease liability 
+
+Net cash provided by (used in) operating activities 
+
+Cash flows provided by (used) in financing activities: 
+
+Due to shareholder 
+
+Proceeds from line of credit 
+
+Repayments of line of credit 
+
+Proceeds (payments) from/to PPP loan 
+
+Net cash provided by (used in) financing activities 
+
+Net decrease in cash and cash equivalents 
+
+Cash and cash equivalents - beginning of period 
+
+Cash and cash equivalents - end of period 
+
+Cash paid for: 
+
+Interest 
+
+Taxes 
+
+Non-cash activities: 
+
+Reclass of Warrant Liability to Additional Paid in Capital 
+
+Initial recognition of prepaid warrant expense 
+
+The accompanying notes are an integral part of these 
+
+ consolidated financial statements. 
+
+F-8
+
+ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ MARCH 31, 2023 AND 2022 
+
+exceeded the FDIC limit. 
+
+and , respectively. 
+
+-day warranty on our electronics products and contract manufacturing and a limited 5-year warranty on our electronic controllers for spas and hot tubs. Historically, the amount of warranty included in sales of our electronic products have been de minimis. We have no other post shipment obligations. Based on prior experience, no amounts have been accrued for potential warranty costs and actual costs were less than 2,000, for each of the fiscal years ended March 31, 2023 and 2022. For contract manufacturing, revenues are recognized after shipment of the completed products. 
+
+Amounts received from customers in advance of our satisfaction of applicable performance obligations are recorded as customer deposits. Such amounts are recognized as revenues when the related performance obligations are satisfied. Customer deposits of approximately as of March 31, 2022 were recognized as revenues during the year ended March 31, 2023. 
+
+CHEMICAL PRODUCTS: 
+
+Revenues are recognized when products are shipped to end users. Shipments to distributors are recognized as revenue when no right of return exists. 
+
+ENGINEERING SERVICES 
+
+We provide certain engineering services, including research, development, quality control and quality assurance services along with regulatory compliance services. We recognize revenue from engineering services on a monthly basis over time as the applicable performance obligations are satisfied. 
+
+All revenue is recognized net of discounts. 
+
+Electronics 
+
+Engineering 
+
+Net Revenue outside the US 
+
+Chemical 
+
+Electronics 
+
+Engineering 
+
+Total Revenues 
+
+and for the fiscal years ended March 31, 2023 and 2022, respectively. 
+
+and respectively. Such costs are included in selling, general, and administrative expenses in the accompanying consolidated statements of operations. 
+
+There are currently no tax years under examination by any major tax jurisdictions. 
+
+The Company will recognize interest and penalties accrued on any unrecognized tax benefits as a component of income tax expense. As of March 31, 2023, and 2022, the Company has no accrued interest or penalties related to uncertain tax positions. 
+ 
+ and 0.02 for the fiscal years ended March 31, 2023 and 2022, respectively. 
+
+Finished goods 
+
+Totals 
+
+Finished goods 
+
+Totals 
+
+- years with a weighted average remaining life of approximately years. 
+
+- 
+
+- 
+
+Amortization expense was 2,880 and 2,880 for the years ended March 31, 2023 and 2022, respectively. 
+
+Estimated aggregate future amortization expense related to intangible assets is as follows: 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+1,725 
+
+Thereafter 
+
+investment for of Qol Devices Inc. (Qol), which is carried at cost and reported as a component of other assets in the accompanying consolidated balance sheets. 
+
+The Company provided in engineering services to Qol during the year March 31, 2018. Qol owes the Company as of March 31, 2022. The receivable is shown net of a allowance for doubtful accounts on the consolidated balance sheet as of March 31, 2023. 
+
+. The line expires , renewing automatically every year. The Company is required to make monthly interest payments, at a rate of and 5.37 as of March 31, 2023 and 2022, respectively. Any unpaid principal will be due upon maturity. As of March 31, 2023 and 2022, the outstanding balance was and , respectively. 
+
+. In February 2021, a second PPP loan was obtained in the amount of , for a total of . The loans will be fully forgiven if the funds are used for payroll costs, interest on mortgages, rent, and utilities, with at least 60 being used for payroll. The Company did use the funds for these expenses during the year ended March 31, 2021. The Company applied for loan forgiveness of both PPP loans. On September 7, 2021, the Company received from the SBA for of PPP loan forgiveness. On December 21, 2021, The Company received approval from the SBA for of PPP loan forgiveness on the second loan. A total of 693,817 was recorded as Forgiveness of Paycheck Protection Program loan in the accompanying consolidated statements of operations for the year ended March 31, 2022. 
+
+The unforgiven portion of the first PPP loan is , which was converted to a term loan payable in equal installments of principal plus interest at with a maturity date of . No collateral or personal guarantees are required for the loan. As of March 31, 2023 and 2022, the outstanding balance was and , respectively. 
+
+FY 2025 
+
+March 31, 2025 
+
+FY 2026 
+
+March 31, 2026 
+
+FY 2027 
+
+March 31, 2027 
+
+FY 2028 
+
+March 31, 2028 
+
+FY 2029 
+
+March 31, 2029 ends June 30, 2028 
+
+Less: Amount attributable to imputed interest 
+
+Weighted average remaining lease term (in years) 
+
+Weighted average discount rate 
+
+Rent and real estate tax expense for all facilities for the years ended March 31, 2023 and 2022 was approximately for each year, and are reported as a component of cost of sales and selling, general and administrative expenses in the accompanying consolidated statement of operations. The Company paid in lease payments during the year. 
+
+and of our revenue, respectively. As of March 31, 2023, two customers accounted for of our gross accounts receivable. As of March 31, 2022, three customers accounted for of our gross accounts receivable. The loss of these major customers could have a material impact on our operations and cash flow. 
+
+The Company s customer base is comprised of foreign and domestic entities with diverse demographics. Revenues from foreign customers represented of our net revenue or and of our net revenue or for the year ended March 31, 2022. 
+
+Segment operating income (loss) 
+
+Twelve months ended March 31, 2022 
+
+Revenue from external customers 
+
+Segment operating loss 
+
+Total assets at March 31, 2023 
+
+Total assets at March 31, 2022 
+
+Electronics 
+
+Engineering 
+
+Net Revenue outside the US 
+
+Chemical 
+
+Electronics 
+
+Engineering 
+
+Total Revenues 
+
+State 
+
+Total 
+
+Deferred 
+
+Federal 
+
+State 
+
+Total 
+
+Provision for income taxes 
+
+The reconciliation of federal statutory income tax rate to our effective income tax rate is as follows: 
+
+State Capital Taxes 
+
+- 
+
+State taxes, net of federal benefit 
+
+Permanent Items 
+
+- 
+
+PPP Loan Forgiveness 
+
+Prior Year Tax Receivable True-Up 
+
+- 
+
+Prior Year Deferred Tax Asset/(L) True Up 
+
+Valuation Allowance 
+
+- 
+
+Federal research development credit generated 
+
+- 
+
+- 
+
+Deferred income taxes reflect the net effects of temporary difference between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Significant components of deferred tax assets are as follows: 
+
+New Jersey Net operating loss carryovers 
+
+Federal R D Credit 
+
+New Jersey R D Credit 
+
+Depreciation Amortization 
+
+Allowance For Doubtful Accounts 
+
+Stock Comp Expense 
+
+Gross deferred tax assets 
+
+Valuation allowance 
+
+Total deferred tax assets 
+
+shares of the Company's par value common stock at an exercise price of per share for the first twelve months of the agreement and per share for the second twelve months of the agreement. 
+
+During the preparation of our consolidated financial statements for the three months ended June 30, 2022, we identified an error relating to the accounting treatment of the initial warrant liability in July of 2021 that was originally valued at approximately and was subsequently revalued at March 31, 2022 for a value of approximately . The error caused additional paid in capital to be understated by approximately , warrant liability to be overstated by approximately , prepaid expenses to be understated by approximately , and net loss to be overstated by approximately as of and for the year ended March 31, 2022. 
+
+We concluded the impact on the interim financial statements was immaterial and corrected the balances as of June 30, 2022. 
+
+. 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES. 
+
+We maintain disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d - 15(e) under the Securities Exchange Act of 1934, as amended (the "Exchange Act")) that are designed to ensure that information required to be disclosed in our Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms, and that such information is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. Management necessarily applies its judgment in assessing the costs and benefits of such controls and procedures, which, by their nature, can provide only reasonable assurance regarding management's control objectives. 
+
+As of the end of the period covered by this Annual Report on Form 10-K, we carried out an evaluation, with the participation of management, including the Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures pursuant to Exchange Act Rule 13a-15. Based on that evaluation as of March 31, 2023, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) are not effective. 
+
+MANAGEMENT S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING 
+
+Management is responsible for establishing and maintaining effective internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) over our company. Internal control over financial reporting is a process to provide reasonable assurance regarding the reliability of our financial reporting for external purposes in accordance with accounting principles generally accepted in the United States. Because of its inherent limitations, internal control over financial reporting is not intended to provide absolute assurance that a misstatement of our financial statements would be prevented or detected. 
+
+Management, including our Chief Executive Officer and Chief Financial Officer, has evaluated our internal control over financial reporting as of March 31, 2023, based on the framework in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations (COSO) of the Treadway Commission. Based on its assessment, management has concluded that our internal control over financial reporting was not effective as of March 31, 2023. 
+
+This annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to temporary rules of the SEC that permit us to provide only management s report in this annual report. 
+
+The determination that our disclosure controls and procedures were not effective as of March 31, 2023 are a result of: 
+
+a. Deficiencies in Internal Control Structure Environment. During the current year, the Company s focus was on expanding their customer base to initiate revenue production. 
+
+b. Inadequate staffing and supervision within the accounting operations of our company. The relatively small number of employees who are responsible for accounting functions prevents the Company from segregating duties within its internal control system. The inadequate segregation of duties is a weakness because it could lead to the untimely identification and resolution of accounting and disclosure matters or could lead to a failure to perform timely and effective reviews. The Company s plan is to expand its accounting operations as the business of the Company expands. 
+
+The Company believes that the financial statements fairly present, in all material respects, the Company s consolidated balance sheets as of March 31, 2023 and 2022 and the related consolidated statements of operations, stockholders equity, and cash flows for the years ended March 31, 2023 and 2022, in accordance with generally accepted accounting principles, notwithstanding the material weaknesses we identified. 
+
+INTERNAL CONTROL OVER FINANCIAL REPORTING. 
+
+There were no changes in the Company's internal control over financial reporting that occurred during the Company's last fiscal quarter of the fiscal year to which this report relates that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+14
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+The following table sets forth the name, position and age of the Company's sole executive officer and director. The Company's director serves until the next annual meeting of stockholders or until no successors is elected and qualified. Officers are elected by the board of directors and their terms of offices are, except to the extent governed by employment contracts, at the discretion of the board of directors. 
+
+Name 
+
+Age 
+
+Position 
+
+Andre' DiMino 
+
+67 
+
+President, Chief Executive Officer 
+
+Chief Financial Officer, Director 
+
+Andre' DiMino has served as President of the Company since December 2001 and a director and Chief Financial Officer of the Company since 1987. Prior thereto, Mr. DiMino served as Executive Vice President and Chief Operating Officer since 1991 and Secretary and Treasurer of the Company since 1978. Mr. DiMino also served as the Technical Director of ADM Tronics from 1982 to 1991. Mr. DiMino served as Vice Chairman, Executive Vice President and Chief Technology officer of ITI from August 2008 to February 2010. He also served as Vice Chairman and Co-Chief Executive Officer of ITI from October 2006 to August 2008, and as Chairman and Chief Financial Officer from January 2004 until October 2006 and served as President of ITI from 1989 to January 2004. Since February 12, 2010, Mr. DiMino has served as Vice President-Engineering, Manufacturing and Regulatory for IHS. 
+
+AUDIT COMMITTEE AND AUDIT COMMITTEE FINANCIAL EXPERT 
+
+Although the Company is engaged in ongoing efforts to engage qualified board members, the Company does not have a separately designated audit committee or compensation committee at this time. Accordingly, the Company's Board of Directors also has determined that the Company does not have an audit committee financial expert. The Company continues to seek new board members in order to appoint a separately designated audit committee. The functions which would be performed by an audit committee are performed by the Board of Directors as a whole. 
+
+DIRECTOR INDEPENDENCE 
+
+We currently do not have any independent directors. 
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 
+
+Section 16(a) of the Exchange Act, and the rules and regulations of the Securities and Exchange Commission promulgated there under, requires the Company's directors, executive officers and persons who own beneficially more than 10 of the Company's common stock to file reports of ownership and changes in ownership of such stock with the SEC. Based solely upon a review of such reports, the Company believes that all of its directors, executive officers and 10 stockholders complied with all applicable Section 16(a) filing requirements during the Company's last fiscal year. 
+
+CODE OF ETHICS 
+
+The Company has adopted a code of ethics that applies to its principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions. A copy of such Code of Ethics has been filed as Exhibit 14.1 to the Annual Report on Form 10-KSB for the fiscal year ended March 31, 2005. 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+Name and Principal Position Year 
+
+Year 
+
+Salary 
+
+Bonus 
+
+Option 
+
+Other 
+
+Total 
+
+Andre' DiMino, Chief Executive Officer 
+
+2023 
+
+173,446 
+
+17,345 
+
+- 
+
+- 
+
+190,791 
+
+2022 
+
+160,500 
+
+16,050 
+
+- 
+
+- 
+
+176,550 
+
+EMPLOYMENT AGREEMENT 
+
+On January 10, 2013, we entered into an employment agreement with Andre DiMino to secure his continued service as President, and Chief Executive Officer (the Employment Agreement ). The Employment Agreement has a ten-year term which will be automatically extended prior to the end of the then current term for successive one-year periods until either the Company or Mr. DiMino notifies the other at least 120 days prior to the end of the term that such party does not wish to further extend it. The Employment Agreement provides for a minimum annual salary of 125,000 and a fixed annual bonus equal to 10 of such annual salary, discretionary annual cash bonuses and participation on generally applicable terms and conditions in other compensation and fringe benefit plans. Mr. DiMino's employment agreement requires Mr. DiMino to devote at least a majority of his work-time toward the Company. The Employment Agreement provides that Mr. DiMino will be entitled to severance benefits in the amount of his base salary for a period of 12 months following the date of termination if his employment is terminated without cause or if he resigns for good reason, or 18 months following the date of termination if his employment is terminated without cause or if he resigns for good reason within 12 months following a change in control, in each case subject to the execution and delivery to the Company by Mr. DiMino of a general release. 
+
+15
+
+During the term of the Employment Agreement and for a period of 12 months thereafter, subject to applicable law, Mr. DiMino will be subject to restrictions on competition with the Company and restrictions on the solicitation of the Company s customers and employees. For all periods during and after the term, Mr. DiMino will be subject to nondisclosure and confidentiality restrictions relating to the Company s confidential information and trade secrets and is obligated to assign all developments, related to the Company s business, research and development activities, to the Company. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED 
+
+DIRECTORS' COMPENSATION 
+
+The Company does not pay fees to its directors, nor does it reimburse its directors for expenses incurred. 
+
+STOCKHOLDER MATTERS: 
+
+The following table sets forth information regarding ownership of shares of Company s common stock, as of March 31, 2022, by (i) each person known to ADM to be the owner of 5 or more of ADM s common stock (ii) each director and director nominee of ADM, (iii) the Named Officer, and (iv) all directors and officers of ADM as a group. Except as otherwise indicated, each person and each group shown in the table has sole voting and investment power with respect to the shares of the Company s common stock indicated. For purposes of the table below, in accordance with Rule 13d-3 under the Securities Exchange Act of 1934, as amended, a person is deemed to be the beneficial owner, for purposes of any shares of Common Stock over which he or she has or shares, directly or indirectly, voting or investment power; or of which he or she has the right to acquire beneficial ownership at any time within 60 days after March 31, 2022. As used herein, voting power is the power to vote or direct the voting of shares and investment power includes the power to dispose or direct the disposition of shares. Common Stock beneficially owned and percentage ownership is based on 67,588,492 shares of Common Stock outstanding as of March 31, 2022. 
+
+Name and Address 
+
+Number of 
+
+			 Shares 
+
+			 Beneficially 
+
+			 Owned 
+
+Percentage 
+
+Andre' DiMino 
+
+25,880,883 
+			 (1) 
+
+39 
+
+c/o ADM Tronics Unlimited, Inc. 
+
+224 Pegasus Avenue 
+
+Northvale, NJ 07647 
+
+The Estate of Eugene Stricker 
+
+4,188,700 
+			 (2) 
+
+6 
+
+c/o Fifth Avenue Venture Capital Partners 
+
+42 Barrett Road 
+
+Lawrence, NY 11559 
+
+All Executive Officers and Directors as a group 
+
+25,880,883 
+			 (3) 
+
+39 
+
+(1) Includes 18,691,223 shares of the Company s common stock directly owned by Andre DiMino; 960 shares owned by Jenny DiMino, the spouse of Andre DiMino; 4,188,700 shares of the Company s common stock held by the estate of Eugene Stricker, of which Andre DiMino may be deemed to be a beneficial owner by reason of his power to vote such shares pursuant to an agreement. 
+
+ (2) Andre DiMino may be deemed to be a beneficial owner of such shares by reason of his power to vote such shares pursuant to an agreement. Reference is also made to Footnote No. 1. 
+
+ (3) Reference is made to Footnote Nos. 1 and 2. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+Voting Agreement 
+
+Andre' DiMino has a voting agreement with respect to 3,000,000 shares of the Company's common stock held by the estate of Eugene Stricker. 
+
+16
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+AUDIT FEES 
+
+For the fiscal year ended March 31, 2023 we contracted with Rosenberg Rich Baker Berman, P.A. (RRBB). The aggregate fees billed for professional services rendered by RRBB were 95,000. Our previous auditors, Raich Ende Malter Co. LLP ("Raich")were 95,000 for the fiscal year ended March 31, 2022 for the audit of the Company's annual consolidated financial statements, and for the reviews of the financial statements included in the Company's Quarterly Reports on Form 10-Q. 
+
+AUDIT-RELATED FEES 
+
+The aggregate fees billed in each of the fiscal years ended March 31, 2022 and 2021 for assurance and related services by Raich that are reasonably related to the performance of the audit or review of the Company's financial statements and not reported above under Audit Fees were 0 for each year. 
+
+TAX FEES 
+
+The aggregate fees billed in each of the fiscal years ended March 31, 2023 and 2022 for professional services rendered by the aformentioned accounting firms were approximately 10,000 each year. 
+
+AUDIT COMMITTEE ADMINISTRATION OF THE ENGAGEMENT 
+
+The Company does not have an audit committee. 
+
+17
+
+PART III, ITEM 15. EXHIBITS 
+
+Exhibit 
+
+No. 
+
+Description 
+
+3.1 
+
+Certificate of Incorporation and amendments thereto filed on August 9, 1976 and May 15, 1978 is incorporated by reference to Exhibit 3(a) to the Company's Registration Statement Form 10 (File No. 0-17629) (the "Form 10"). 
+
+3.2 
+
+Certificate of Amendment to Certificate of Incorporation filed December 9, 1996 is incorporated by reference to Exhibit 3(a) to the Company's Annual Report on Form 10-KSB for the fiscal year ended March 31, 1997. 
+
+3.3 
+
+By-Laws are incorporated by reference to Exhibit 3(b) to the Form 10. 
+
+10.1 
+
+Memorandum of Lease by and between the Company and Cresskill Industrial Park III dated as of August 26, 1993 is hereby incorporated by reference to Exhibit 10(a) to the Company's Annual Report on Form 10-KSB for the fiscal year March 31, 1994. 
+
+10.5 
+
+Agreement of January 17, 2003 by and between the Company and Fifth Avenue Venture Capital Partners is hereby incorporated by reference to Exhibit 10.5 to the Company's Annual Report on Form 10-KSB for the fiscal year ended March 31, 2003. 
+
+10.6 
+
+Amended and Restated Manufacturing Agreement, dated February 10, 2005, among the Company, Ivivi Technologies, Inc. and Sonotron Medical Systems, Inc. is incorporated by reference to the Company's Annual Report on Form 10-KSB for the fiscal year ended March 31, 2005. 
+
+10.7 
+
+Management Services Agreement, dated August 15, 2001, among the Company, Ivivi Technologies, Inc., Sonotron Medical Systems, Inc. and Pegasus Laboratories, Inc., as amended is incorporated by reference to the Company's Annual Report on Form 10-KSB form the fiscal year ended March 31, 2005. 
+
+10.8 
+
+Master Services Agreement dated February 12, 2010 by and between ADM Tronics Unlimited Inc. and Ivivi Health Sciences LLC. 
+
+Filed as an exhibit to the Company's annual report on Form 10K, as filed with the SEC on June 29, 2010, and incorporated herein by this reference. 
+
+14.1 
+
+Code of Ethics is incorporated by reference to the Company's Annual Report on Form 10-KSB for the fiscal year ended March 31, 2005. 
+
+21.1 
+
+Subsidiaries of the Company. 
+
+31.1 
+
+Certification of the Chief Executive Officer and Chief Financial Officer of the Company pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+
+Certification of the Chief Executive Officer and Chief Financial Officer of the Company pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+
+Inline XBRL Instance 
+
+101.SCH 
+
+Inline XBRL Taxonomy Extension Schema 
+
+101.CAL 
+
+Inline XBRL Taxonomy Extension Calculation 
+
+101.DEF 
+
+Inline XBRL Taxonomy Extension Definition 
+
+101.LAB 
+
+Inline XBRL Taxonomy Extension Labels 
+
+101.PRE 
+
+Inline XBRL Taxonomy Extension Presentation 
+
+104 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101) 
+
+XBRL information is furnished and not filed or a part of a registration statement or prospectus for purposes of sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections. 
+
+18
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized this 14th day of July, 2023. 
+
+ADM TRONICS UNLIMITED, INC. 
+
+By: 
+
+/s/ Andre' DiMino 
+
+Andre' Di Mino 
+
+Chief Executive Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. 
+
+Title 
+
+Date 
+
+/s/ 
+
+Andre' DiMino 
+
+Chief Executive Officer (Principal 
+
+July 14, 2023 
+
+Andre' DiMino 
+
+Executive Officer, Principal 
+
+Financial Officer and Principal 
+
+Accounting Officer) and Director 
+
+19
+
+<EX-31.1>
+ 2
+ ex_542759.htm
+ EXHIBIT 31.1
+
+ex_542759.htm 
+
+EXHIBIT 31.1 
+
+CERTIFICATION 
+ PURSUANT TO SECTION 302 OF THE SARBANES - OXLEY ACT OF 2002 AND 
+
+ SECURITIES AND EXCHANGE COMMISSION RELEASE 34-46427 
+
+I, Andre' DiMino, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of ADM Tronics Unlimited, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. I am the registrant's only certifying officer and am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to me by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report my conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+
+d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions): 
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: July 14, 2023 
+
+/s/ Andre' DiMino 
+
+Andre' DiMino 
+
+Chief Executive Officer and Chief Financial Officer 
+
+A signed original of this written statement required by Section 302 has been provided to ADM Tronics Unlimited, Inc. and will be retained by ADM Tronics Unlimited, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex_542760.htm
+ EXHIBIT 32.1
+
+ex_542760.htm 
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the annual Report of ADM Tronics Unlimited, Inc. (the "Company") on Form 10-K for the twelve months ended March 31, 2023, (the "Report"), filed with the Securities and Exchange Commission, Andre' DiMino, Chief Executive Officer and Chief Financial Officer, of the Company hereby certifies pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as amended; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition of the Company as of the dates presented and the result of operations of the Company for the periods presented. 
+
+Date: July 14, 2023 
+
+/s/ Andre' DiMino 
+
+Chief Executive Officer and 
+
+Chief Financial Officer 
+
+The foregoing certification is being furnished solely pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of Section 1350, Chapter 63 of Title 18, United States Code) and is not being filed as part of the Form 10-K or as a separate disclosure document. 
+
+A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to ADM Tronics Unlimited, Inc. and will be retained by ADM Tronics Unlimited, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 4
+ admt-20230331.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.DEF>
+ 5
+ admt-20230331_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 6
+ admt-20230331_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 7
+ admt-20230331_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
+<EX-101.CAL>
+ 8
+ admt-20230331_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+

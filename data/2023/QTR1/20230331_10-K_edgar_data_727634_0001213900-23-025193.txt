@@ -1,0 +1,3881 @@
+<Header>
+<FileStats>
+    <FileName>20230331_10-K_edgar_data_727634_0001213900-23-025193.txt</FileName>
+    <GrossFileSize>4951752</GrossFileSize>
+    <NetFileSize>166447</NetFileSize>
+    <NonText_DocumentType_Chars>954647</NonText_DocumentType_Chars>
+    <HTML_Chars>1124982</HTML_Chars>
+    <XBRL_Chars>1350365</XBRL_Chars>
+    <XML_Chars>1225798</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-23-025193.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331124733
+ACCESSION NUMBER:		0001213900-23-025193
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		69
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			iSign Solutions Inc.
+		CENTRAL INDEX KEY:			0000727634
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				942790442
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19301
+		FILM NUMBER:		23785869
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2033 GATEWAY PLACE
+		STREET 2:		SUITE 659
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+		BUSINESS PHONE:		6508027888
+
+	MAIL ADDRESS:	
+		STREET 1:		2033 GATEWAY PLACE
+		STREET 2:		SUITE 659
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMMUNICATION INTELLIGENCE CORP
+		DATE OF NAME CHANGE:	19951218
+
+</SEC-Header>
+</Header>
+
+ 0001213900-23-025193.txt : 20230331
+
+10-K
+ 1
+ f10k2022_isignsolutions.htm
+ ANNUAL REPORT
+
+UNITED
+STATES 
+
+SECURITIES
+AND EXCHANGE COMMISSION 
+
+Washington,
+D.C. 20549 
+
+FORM
+
+Annual Report Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 
+
+For
+the fiscal year ended , 
+
+Transition Report Pursuant to Section 13 of 15(d) of the Securities Exchange Act of 1934 
+
+for the transition period from ___ to ___ 
+
+Commission
+File No. 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State or other
+jurisdiction of 
+incorporation or organization) 
+ 
+ (I.R.S. Employer
+ 
+Identification No.) 
+
+, , , 
+
+(Address of principal
+executive offices) 
+ 
+ (Zip Code) 
+
+Registrant s
+telephone number, including area code: - 
+
+Securities
+registered under Section 12(b) of the Act: None 
+
+Securities
+registered pursuant to Section 12(g) of the Act: Common Stock, 0.01 par value 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). No 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference into Part III of this Form
+10-K or any amendment to this Form 10-K. 
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions
+of large accelerated filer, accelerated filer, smaller reporting company, and emerging
+growth company in Rule 12b-2 of the Exchange Act (check one): 
+
+Large accelerated filer Accelerated filer 
+ Smaller reporting company 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on
+and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under
+Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit
+report. 
+
+Indicate by check mark
+whether the registrant is a shell company (as defined in Rule 12b-2 of the Act) Yes No 
+
+The aggregate market value of the voting
+stock (Common Stock) held by non-affiliates of the registrant as of December 30, 2022, is approximately based on the
+closing sales price of 0.35 on such date, as reported by OTC Markets Group Inc. The number of shares of Common Stock outstanding as
+of the close of business on March 31, 2023, is . 
+
+DOCUMENTS INCORPORATED BY REFFERENCE 
+
+iSign SOLUTIONS INC 
+
+TABLE OF CONTENTS 
+
+Page 
+ 
+ PART I 
+ 1 
+ 
+ Item 1. 
+ Business 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors 
+ 5 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 5 
+ 
+ Item 2. 
+ Properties 
+ 5 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 5 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 5 
+ 
+ PART II 
+ 6 
+ 
+ Item 5. 
+ Market For Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 6 
+ 
+ Item 6. 
+ [Reserved] 
+ 6 
+
+Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 6 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 18 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 18 
+
+Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 18 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 19 
+ 
+ Item 9B. 
+ Other Information 
+ 20 
+ 
+ Item 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 20 
+ 
+ PART III 
+ 21 
+ 
+ Item 10. 
+ Directors, Executive Officers, and Corporate Governance 
+ 21 
+ 
+ Item 11. 
+ Executive Compensation 
+ 23 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 25 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions and Director Independence 
+ 28 
+ 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 29 
+ 
+ PART IV 
+ 30 
+ 
+ Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 30 
+
+iSign s logo, iSign , InkTools 
+SIGVIEW , Sign-it , INKshrINK , SignatureOne , Ceremony , Signed,
+Sealed, Delivered and The Power To Sign Online are registered trademarks of the Company. The Company intends
+to register its trademarks generally in those jurisdictions where significant marketing of its products will be undertaken in the foreseeable
+future. 
+
+Note Regarding Forward Looking Statements 
+
+Certain statements contained in this Annual Report
+on Form 10-K, including without limitation, statements containing the words believes , anticipates , hopes ,
+ intends , expects , and other words of similar import, constitute forward looking statements within
+the meaning of the Private Litigation Reform Act of 1995. Such statements involve known and unknown risks, uncertainties and other factors
+that may cause actual events to differ materially from expectations. Such factors include the following: (1) technological, engineering,
+quality control or other circumstances which could delay the sale or shipment of products; (2) economic, business, market and competitive
+conditions in the software industry and technological innovations which could affect the Company s business; (3) the Company s
+ability to protect its trade secrets or other proprietary rights, operate without infringing upon the proprietary rights of others or
+prevent others from infringing on the proprietary rights of the Company; and (4) general economic and business conditions and the availability
+of sufficient financing. 
+
+i 
+
+PART I 
+
+Item 1. Business 
+
+General 
+
+iSign Solutions Inc. (the
+ Company or iSign ), was incorporated in Delaware in October 1986. iSign is a leading supplier of digital transaction
+management (DTM) software enabling the paperless, secure and cost-effective management and authentication of document-based transactions.
+iSign s solutions encompass a wide array of functionality and services, including electronic signatures, simple-to-complex workflow
+management and various options for biometric authentication. These solutions are available across virtually all enterprise, desktop and
+mobile environments as a seamlessly integrated platform for both ad-hoc and fully automated transactions. iSign s platform can be
+deployed both on premise and as a cloud-based SaaS service, with the ability to easily transition between deployment models.
+The Company is headquartered in San Jose, California. 
+
+For the year ended December
+31, 2022, total revenue was 987, a decrease of 91, or 8 , compared to total revenue of 1,078 in the prior year. For the year ended
+December 31, 2022, software product revenue was 332, a decrease of 41, or 11 , compared to product revenue of 373 in the prior year.
+Maintenance revenue for the year ended December 31, 2022, was 655, a decrease of 50, or -7 , compared to maintenance revenue of 705
+in the prior year. The decrease in product revenue is due to decrease in SOW revenue in the year ended December 31, 2022. 
+
+For the year ended December
+31, 2022, the net loss was 711, an increase of 225, or 46 , compared to a net loss of 486 in the prior year. For the year ended December
+31, 2022, non-cash charges, consisting of interest expense, warrant expense and the amortization of debt discount were 372, an increase
+of 23, or 7 , compared to 349 in the prior year. For the year ended December 31, 2022, operating expenses were 1,326, a decrease of
+ 13, or 1 , compared to operating expenses of 1,339 for the prior year. The increase in operating expenses resulted from none other income
+from PPP loan in the year ended December 31, 2022. 
+
+Core Technologies 
+
+The Company s core technologies
+can be referred to as transaction-enabling and business process workflow technologies. These technologies include
+various forms of electronic signature methods, such as handwritten, biometric, click-to-sign and others, as well as technologies related
+to signature verification, authentication, cryptography and the logging of audit trails to prove signers intent. These technologies
+enable the appending of secure, legal and regulatory compliant electronic signatures coupled with an enhanced user experience, all at
+a fraction of the time and cost required by traditional, paper-based processes for signature capture. 
+
+Products 
+
+The Company s enterprise-class
+SignatureOne and iSign suite of electronic signature solutions enable businesses to implement truly paperless,
+electronic signature-driven business processes. The aggregate of the software functionality enabling the digitization of end-to-end workflow
+processes is sometimes referred to as digital transaction management (DTM). Many applications provide electronic forms and
+allow users to fill-in information, but most of these applications still require users to print out a paper copy for a handwritten, ink
+signature. Solutions powered by iSign products allow legally binding electronic signatures to be added to digital documents, eliminating
+the need for paper to memorialize the completion, approval or authentication of the transaction. This allows users to reduce transaction
+times and processing costs. 
+
+1 
+
+The
+SignatureOne and iSign suite of products includes the following: 
+
+SignatureOne 
+ Ceremony Server 
+ The
+ SignatureOne Ceremony Server Ceremony Server provides a highly
+ secure, scalable, patent-protected and streamlined electronic signature solution. Its flexible, easy-to-configure
+ and agile workflow can be rapidly integrated via standard Web services to become an ultimate and cost efficientcost-efficient
+ endpoint in true straight-through processing (the complete removal of paper from business processes) and to
+ facilitate end-to-end management of multi-party approvals for PDF and XHTML documents. The Ceremony Server
+ contains iSign s core e-signature engine and signature ceremony management tools, andtools and can be
+ seamlessly integrated with numerous ancillary products. Its key features include: 
+
+Consent/disclosure
+management integral part of audit record; easily reproducible in the event of a dispute; 
+
+Configurable document presentment
+ signatory receipt, access and viewing of document tracked in audit trail; 
+
+Multi-party ceremonies 
+complex processes, simplified; allows for dynamic, multi-channel workflow changes, including remote, face-to-face and mobile scenarios;
+
+Supports complex business rules and dynamic user behaviors;
+
+Configurable branding and workflow; 
+
+Flexible tracking and reporting includes event
+notification service 
+
+Extensive audit trail 
+embedded in individual document in a tamper evident digital seal; and 
+
+Support for multiple signature methods click-to-sign;
+biometric; and others. 
+
+iSign 
+Console 
+ The iSign 
+ Console Console leverages the Ceremony Server s core signature engine and is ideal for organizations
+looking for a standalone electronic signature solution. Through its intuitive graphical interface, the Console allows users to upload
+documents for signature, select signers and signature methods, and manage and enforce document workflow for routing, reviewing, signing
+and notifications. The Console offers a secure and intuitive solution that requires no integration and is available on-premise or in
+the cloud. 
+
+iSign Enterprise 
+ iSign Enterprise incorporates
+the features and function of the Ceremony Server and the Console. 
+
+iSign Family 
+ The growing suite of iSign 
+ products and service includes iSign Mobile (for signing on iOS and Android mobile devices), iSign 
+Forms (for integrated use of templates and forms), and iSign Live (iSign s patent-pending co-browsing solution
+for simultaneous browsing signature ceremonies). 
+
+Sign-it 
+ Sign-it is
+a family of desktop software products that enable the real-time capture of electronic and digital signatures, as well as their verification
+and binding within a standard set of applications, including Adobe Acrobat and Microsoft Word, web-based applications using HTML, XML
+and XHTML, and custom applications for .NET, C# and similar development environments for the enterprise market. The Sign-it 
+ family of products combines the strengths of biometrics, and other forms of electronic signatures, with cryptography in a patented
+process that insures the creation of documents containing legally compliant electronic signatures. These signatures have the same legal
+standing as a traditional so-called wet signature on paper and are created pursuant to the Electronic Signature in National and Global
+Commerce Act, as well as other related legislation and regulations. With Sign-it products, organizations wishing to process
+electronic forms, requiring varying levels of security, can reduce the cost and other inefficiencies inherent with paper documents by
+adding electronic signature technologies to their workflow solutions. 
+
+iSign 
+ Toolkits 
+ The
+iSign suite of application development tools for electronic signature capture, encryption and verification in custom
+applications and web-based processes captures and analyzes the image, speed, stroke sequence and acceleration of a person s handwritten
+electronic signature. This capability offers an effective and inexpensive solution for immediate authentication of handwritten signatures.
+iSign toolkits also store certain forensic elements of an electronic signature for use in determining whether a person s
+electronic signature is legally valid. They also include software libraries for industry standard encryption and hashing to protect a
+user s signature, as well as the data captured in the Ceremony process. 
+
+2 
+
+Products
+and upgrades that were introduced and first deployed in 2020 include the following: 
+
+iSign Enterprise 
+ 7.5.7 
+
+iSign Enterprise 
+ 7.5.8 
+
+iSign Enterprise 
+ 7.5.9 
+
+iSign Enterprise 
+ 7.6.2 
+
+iSign Enterprise 
+ 6.6.25 
+
+iSign Enterprise 
+ 7.6.3 
+
+iSign Enterprise 
+ 7.6.4 
+
+iSign Enterprise 
+ 7.6.5 
+
+iSign Enterprise 
+ 7.7 
+
+iSign Enterprise 
+ 7.8 
+
+iSign Enterprise 
+ 7.9 
+
+iSign Enterprise 
+ 7.9.1 
+
+iSign Enterprise 
+ 7.8.1 
+
+iSign Enterprise 
+ 7. 10 
+
+iSign Enterprise 
+ 6.6.26 
+
+iSign Enterprise 
+ 7.8.2 
+
+Sign-it for Acrobat 
+ 10.8 
+
+Intellectual Property 
+
+The Company relies on a combination
+of patent applications, trademarks, trade secrets and contractual provisions to protect its software offerings and technologies. The Company
+has a policy of requiring its employees and contractors to commit to the protection of proprietary information through written agreements.
+The Company also has a policy of requiring prospective business partners to enter into non-disclosure agreements before disclosure of
+any of its proprietary information. 
+
+Over the years, the Company
+has developed and patented major elements of its software offerings and technologies. 
+
+The Company s technologies
+go beyond simple electronic signature and include biometric signatures, verification solutions, authentication and validation methods,
+that result in signed documents that are secure, legal and tamper-resistant. 
+
+The Company has over 20 registered
+and unregistered trademarks in the United States and other countries. The Company intends to register its trademarks in those jurisdictions
+where significant marketing of its products will be undertaken in the foreseeable future. 
+
+3 
+
+Research and Development 
+
+Our research and development
+effort is focused on the development, advancement and refinement of our core products and the development of new products. In addition,
+our research and development team is responsible for the continuous quality measurement and assurance of both existing and new products.
+We conduct research on software technology, related computer hardware, competitive offerings and alternative solution approaches to develop
+appropriate product and service offerings for our target markets. Our research and development efforts are often aimed at assisting clients
+and licensees in further streamlining new and existing workflow processes that our software solutions support and at ensuring that we
+meet or exceed industry standards and competitive offerings. We provide certain customization and integration services to our clients,
+including software integration partners and enterprise customers. These efforts are conducted by our team in San Jose, California, supported
+by contracted staff, including offshore engineers. 
+
+We believe that our software
+technologies, platforms and products are now competitive, and our research and development activities will remain at the core of our operations,
+we intend, going forward, to continue to invest a portion of our resources in sales and marketing activities. 
+
+Our research and development
+expense were 590 for the year ended December 31, 2022, and 547 for the year ended December 31, 2021. 
+
+Material Customers 
+
+Historically, the Company s
+revenue has been derived from hundreds of customers, but a significant percentage of the revenue has been attributable to a limited number
+of customers. Three customers, as described in Note 2 to the Consolidated Financial statements, accounted for 21 , 28 , and 35 , respectively,
+of total revenue for the year ended December 31, 2022. 
+
+Seasonality of Business 
+
+The Company believes that the
+sale of its products is not subject to seasonal fluctuations. 
+
+Backlog 
+
+Backlog was approximately 203
+and 215 at December 31, 2022, and 2021, respectively, representing advanced payments on product and service maintenance agreements. 
+
+Competition 
+
+We believe that our primary
+competitive advantages include the following: 
+
+Customer options and platform flexibility : Unlike most of our competitors,
+we offer many flexible configuration options for enterprise clients to address many variants of complex business work flows without the
+need for costly and time-consuming customization. These solution configurations can be rapidly and seamlessly integrated into a variety
+of enterprise technology environments. 
+
+Software deployment options : Unlike most
+of our competitors, our software solutions are available as an on demand, private cloud-based software as a service, and on the customer s
+premises, which is an important feature for most of our large enterprise clients for compliance, security and control reasons. 
+
+Lower cost structure : Through our technology,
+sales and marketing partners, including Cegedim SA, we believe we offer a lower relative cost structure and higher operating margin than
+most of our larger competitors. 
+
+Currently, our primary competition
+for basic click-to-sign electronic signatures includes Adobe EchoSign, DocuSign and OneSpan (f.k.a. VASCO Data Security International
+Inc.). We view the balance of the U.S. market as fragmented with a variety of smaller competitors focused on the consumer and small business
+markets rather than enterprise organizations. 
+
+4 
+
+Employees 
+
+As of December 31, 2022, the
+Company employed five full-time employees, one part time employee and six independent contractors. The Company has established longstanding
+strategic relationships that allow it to rapidly access product development and deployment capabilities that could be required to address
+most customer requirements. None of the Company s employees are party to any collective bargaining agreements. We believe our employee
+relations are good. 
+
+Geographic Areas 
+
+For the years ended December
+31, 2022, and 2021, sales in the United States as a percentage of total sales was 65 and 62 , respectively. At December 31, 2022, and
+2021, long-lived assets located in the United States were 8 and 10, respectively. There were no long-lived assets located elsewhere
+as of December 31, 2022, and 2021. 
+
+Segments 
+
+The Company reports its financial
+results in one segment. 
+
+Available Information 
+
+Our web site is located
+at www.isignnow.com. The information on or accessible through our web site is not part of this Annual Report on Form 10-K. Our Annual
+Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to such reports are available, free of
+charge, on our web site as soon as reasonably practicable after we electronically file with or furnish such material to the Securities
+and Exchange Commission SEC ). Furthermore, a copy of this Annual Report on Form 10-K and other reports filed by iSign with
+the SEC may be read and copied by the public at the SEC s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549 on official
+business days during the hours of 10 a.m. and 3 p.m. Information on the operation of the Public Reference Room can be obtained by calling
+the SEC at 1-800-SEC-0330. The SEC maintains an internet site that contains reports, proxy and information statements and other information
+regarding issuers, including iSign, that file electronically with the SEC at www.sec.gov. 
+
+Item 1A. Risk Factors 
+
+Not applicable. 
+
+Item 1B. Unresolved Staff Comments 
+
+None. 
+
+Item 2. Properties 
+
+The Company rents its principal
+facilities, consisting of approximately 120 square feet in San Jose, California, pursuant to a month-to-month arrangement. 
+
+Item 3. Legal Proceedings 
+
+None. 
+
+Item 4. Mine Safety Disclosures 
+
+None. 
+
+5 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+Securities 
+
+Market
+Information 
+
+The Company s common
+stock Common Stock is quoted on OTC Markets Group Inc. s OTC Pink quotation system under the trading symbol ISGN.
+Trading activity for the Company s Common Stock can be viewed at www.otcmarkets.com. The following table sets forth the high and
+low sale prices of the Common Stock for the periods noted. 
+
+Sale
+ Price 
+Per Share 
+ 
+ Year 
+ Period 
+ High 
+ Low 
+
+2021 
+ First Quarter 
+ 0.51 
+ 0.32 
+
+Second Quarter 
+ 0.59 
+ 0.34 
+
+Third Quarter 
+ 2.49 
+ 0.43 
+
+Fourth Quarter 
+ 2.30 
+ 1.22 
+ 
+ 2022 
+ First Quarter 
+ 2.21 
+ 0.93 
+
+Second Quarter 
+ 1.45 
+ 0.75 
+
+Third Quarter 
+ 1.00 
+ 0.55 
+
+Fourth Quarter 
+ 0.27 
+ 0.07 
+
+Holders 
+
+As of March 31, 2023, there
+were approximately 124 holders of record of our Common Stock. 
+
+Dividends 
+
+To date, the Company has not
+paid any dividends on its Common Stock and does not anticipate paying any such dividends in the foreseeable future. The declaration and
+payment of dividends on the Common Stock is at the discretion of the Board of Directors and will depend on, among other things, the Company s
+operating results, financial condition, capital requirements, contractual restrictions or such other factors as the Board of Directors
+may deem relevant. 
+
+Recent Sales of Unregistered Securities 
+
+None 
+
+Issuer Purchases of Equity Securities 
+
+None. 
+
+Item 6. [Reserved] 
+
+Not applicable. 
+
+Item 7. Management s Discussion and Analysis
+of Financial Condition and Results of Operations 
+
+The following discussion
+and analysis should be read in conjunction with our financial statements and related notes appearing elsewhere in this Form 10-K. The
+following discussion relating to projected growth and future results and events constitutes forward-looking statements. Actual results
+in future periods may differ materially from the forward-looking statements due to a number of risks and uncertainties. We cannot guarantee
+future results, levels of activity, performance or achievements. Except as otherwise required under applicable law, we disclaim any obligation
+to revise or update forward-looking statements to reflect events or circumstances after the date of such statements or to reflect the
+occurrence of anticipated or unanticipated events. 
+
+Unless otherwise stated herein,
+all figures in this Item 7, other than price per share data, are stated in thousands 000s ). 
+
+6 
+
+Overview and Recent Developments 
+
+The Company is a leading
+supplier of DTM software enabling the paperless, secure and cost-effective management and authentication of document-based transactions.
+iSign s solutions encompass a wide array of functionality and services, including electronic signatures, simple-to-complex workflow
+management and various options for biometric authentication. These solutions are available across virtually all enterprise, desktop and
+mobile environments as a seamlessly integrated platform for both ad-hoc and fully automated transactions. The Company s products
+and services result in legally binding transactions that are compliant with applicable laws and regulations and that can provide a higher
+level of security than paper-based processes. The Company has been a leading supplier of enterprise software solutions within the financial
+services and insurance industries and has made available to its customers significant expense reduction by enabling a completely electronic
+document and workflow process, as well as the resulting reduction in mailing, scanning, filing and other costs related to the use of paper. 
+
+The Company was incorporated
+in Delaware in October 1986. Except for the year ended December 31, 2004, in each year since its inception the Company has incurred losses.
+For the two-year period ended December 31, 2022, the net loss aggregated approximately 1,197, and at December 31, 2022, the Company s
+accumulated deficit was approximately 136,400. 
+
+For the year ended December
+31, 2022, total revenue was 987, a decrease of 91, or 8 , compared to total revenue of 1,078 in the prior year. For the year ended
+December 31, 2022, software product revenue was 332, a decrease of 41, or 11 , compared to product revenue of 373 in the prior year.
+Maintenance revenue for the year ended December 31, 2022, was 655, a decrease of 50, or 7 , compared to maintenance revenue of 705
+in the prior year. The decrease in product revenue is primarily attributable to the decrease in SOW revenue in the year ended December
+31, 2022. The decrease in maintenance revenue is primarily attributable to existing customers renewing maintenance contracts at higher
+price points. 
+
+For the year ended December
+31, 2022, operating expenses were 1,326, a decrease of 13, or 1 , compared to operating expenses of 1,339 in the prior year. The decrease
+in operating expenses resulted from reductions in the amortization of stock-based compensation and professional service expenses. For
+the year ended December 31, 2022, the loss from operations was 339, a decrease in loss of 78, or 30 , compared to a loss from operations
+of 261 in the prior year. 
+
+On February 28, 2021, the
+Company issued an aggregate of 75 in unsecured notes, 30 to related parties and 45 to other investors. The Company received 15 in
+cash and 15 in exchange for an account receivable advance, received in the prior year, from related parties, and 45 in cash from other
+investors. The unsecured notes are convertible by the holder into common stock at any time at a price per share of 0.50. Upon closing
+a new financing of at least 1,000 in aggregate proceeds, the Company can force conversion at a price equal to the lesser of 0.50 per
+share or the price per share of the new financing. The notes bear interest at the rate of 10 per annum and are due December 31, 2021. 
+
+In April 2021, the Company
+re-paid 49 of Accounts Receivable Advances and 6 in accrued but unpaid 5 advance fees to an affiliate. In addition, the Company repaid
+to another affiliate 64 of Accounts Receivable Advances and 4 in accrued but unpaid 5 advance fees. 
+
+In June 2021, the Company
+paid the first installment in the amount of 40 plus accrued interest of 5 of a note entered into associated with a settlement agreement
+dated July 1, 2020, with one of its vendors. The remaining 90 plus interest at the rate of 4 per annum is due in two installments, June
+of 2022 and June of 2023. 
+
+On September 30, 2021, the
+Company issued a note to one an affiliate investor and received 75 in cash. The note bears interest at the rate of 20 per annum and
+is due upon demand. 
+
+7 
+
+In November 2021, the Company
+received 100 in cash and issued notes aggregating 100 to a related and an unrelated party. The notes bear interest at the rate of 20 
+per annum and are due upon demand following ten calendar days prior written notice starting on March 29, 2022. 
+
+In December 2021, the Company
+received 50 in cash and issued a note aggregating 50 to a related party. The note bears interest at the rate of 20 per annum and is
+due upon demand following ten calendar days prior written notice starting on March 29, 2022. 
+
+In June 2022, the Company
+paid the second installment in the amount of 45 plus accrued interest of 4 of a note entered into associated with a settlement agreement
+dated July 1, 2020, with one of its vendors. The remaining 45 plus interest at the rate of 4 per annum is due in June of 2023 
+
+On April 20, 2022, the Company
+issued an aggregate of 70 in unsecured convertible notes, to related parties. The unsecured notes are convertible by the holder into
+common stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000 in aggregate proceeds, the Company
+can force conversion at a price equal to the lesser of 1.00 per share or the price per share of the new financing. The notes bear interest
+at the rate of 10 per annum and are due December 31, 2022. 
+
+On November 2022, the Company
+issued an aggregate of 35 in unsecured convertible notes to related parties. The unsecured notes are convertible by the holder into common
+stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000 in aggregate proceeds, the Company can
+force conversion at a price equal to the lesser of 1.00 per share or the price per share of the new financing. The notes bear interest
+at the rate of 10 per annum and are due December 31, 2023. 
+
+On December 2022, the Company
+issued an aggregate of 35 in unsecured convertible notes to related parties.. The unsecured notes are convertible by the holder into
+common stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000 in aggregate proceeds, the Company
+can force conversion at a price equal to the lesser of 1.00 per share or the price per share of the new financing. The notes bear interest
+at the rate of 10 per annum and are due December 31, 2023. 
+
+New Accounting Pronouncements 
+
+See Note 1, Notes to Consolidated
+Financial Statements included under Part IV, Item 15 of this report on Form 10-K. 
+
+Critical Accounting Policies 
+
+The preparation of financial
+statements and related disclosures in conformity with accounting principles generally accepted in the United States of America requires
+management to make judgments, assumptions and estimates that affect the amounts reported in the Company s consolidated financial
+statements and the accompanying notes. The amounts of assets and liabilities reported in its balance sheets and the amounts of revenue
+and expenses reported for each period presented are affected by these estimates and assumptions that are used for, but not limited to,
+revenue recognition, allowance for doubtful accounts, intangible asset impairments, fair value of financial instruments, stock-based compensation
+and valuation allowances on deferred tax assets. Actual results may differ from these estimates. The following critical accounting policies
+are significantly affected by judgments, assumptions and estimates used by the Company s management in the preparation of the consolidated
+financial statements. 
+
+8 
+
+Basis of consolidation: 
+
+The accompanying consolidated
+financial statements are prepared in accordance with generally accepted accounting principles in the United States of America. All amounts
+shown in the accompanying consolidated financial statements are in thousands of dollars except per share amounts. 
+
+Use of estimates: 
+
+The preparation of consolidated
+financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities, at the date of the consolidated
+financial statements, as well as the reported amounts of revenue and expenses during the reporting periods. Actual results could differ
+from these estimates. 
+
+Fair value measures: 
+
+Fair value is the price that
+would be received to sell an asset, or paid to transfer a liability, in the principal or most advantageous market for the asset or liability
+in an ordinary transaction between market participants on the measurement date. Our policy on fair value measures requires us to maximize
+the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The policy establishes a fair value
+hierarchy based on the level of independent, objective evidence surrounding the inputs used to measure fair value. A financial instrument s
+categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+The policy prioritizes the inputs into three levels that may be used to measure fair value: 
+
+Level 1: Applies to assets or liabilities for
+which there are quoted prices in active markets for identical assets or liabilities. 
+
+Level 2: Applies to assets or liabilities for
+which there are inputs other than quoted prices that are observable for the asset or liability such as quoted prices for similar assets
+or liabilities in active markets; quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent
+transactions (less active markets); or model-derived valuations in which significant inputs are observable or can be derived principally
+from, or corroborated by, observable market data. 
+
+Level 3: Applies to assets or liabilities for
+which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of the assets
+or liabilities. 
+
+The Company s assets
+and liabilities measured at fair value, whether recurring or non-recurring, at December 31, 2022, and December 31, 2021, and the fair
+value calculation input hierarchy level that we have determined applies to each asset and liability category. 
+
+Fair Value of Financial Instruments: 
+
+The Company carries financial instruments on the consolidated balance
+sheet at the fair value of the instruments as of the consolidated balance sheet date. At the end of each period, management assesses the
+fair value of each instrument and adjusts the carrying value to reflect its assessment. At December 31, 2022, and December 31, 2021, there
+were no adjustments to carrying values of financial instruments during this period. 
+
+9 
+
+Treasury Stock: 
+
+Shares of common stock returned
+to, or repurchased by, the Company are recorded at cost and are included as a separate component of stockholders equity (deficit).
+Under the cost method, the gross cost of the shares reacquired is charged to a contra equity account titled treasury stock. The equity
+accounts that were credited for the original share issuance (Common Stock, additional paid-in capital, etc.) remain intact. When the treasury
+shares are reissued, proceeds in excess of cost are credited to additional paid-in capital. Any deficiency is charged to accumulated deficit
+(unless additional paid-in capital from previous treasury share transactions exists, in which case the deficiency is charged to that account,
+with any excess charged to accumulated deficit). 
+
+Derivatives: 
+
+The Company, from time to
+time, enters into transactions which contain conversion privileges, the settlement of which may entitle the holder or the Company to settle
+the obligation(s) by issuance of Company securities. The Company applies a two-step model in determining whether a financial instrument
+or an embedded feature is indexed to an issuer s own stock and thus able to qualify for the scope exception. The fair value of each
+derivative is estimated each reporting period. 
+
+There are no derivatives
+arising from convertible securities during 2022 and 2021. 
+
+Cash and cash equivalents: 
+
+The Company considers all
+highly liquid investments with maturities at the date of purchase of three months or less to be cash equivalents. 
+
+The Company s cash and cash
+equivalents, at December 31, consisted of the following: 
+
+2022 
+ 2021 
+ 
+ Cash in bank 
+ 68 
+ 40 
+
+Cash and cash equivalents 
+ 68 
+ 40 
+
+Concentrations of credit risk: 
+
+Financial instruments that
+potentially subject the Company to significant concentrations of credit risk consist primarily of cash, cash equivalents, and accounts
+receivable. The Company maintains its cash and cash equivalents with various financial institutions. This diversification of risk is consistent
+with Company policy to maintain liquidity and mitigate risk of loss as to principal. 
+
+To date, accounts receivable
+has been derived principally from revenue earned from end users, manufacturers, and distributors of computer products in North America.
+The Company performs periodic credit evaluations of its customers and does not require collateral. The Company maintains reserves for
+potential credit losses; historically, such losses have been within management s expectations. 
+
+10 
+
+The allowance for doubtful
+accounts is based on the Company s assessment of the collectability of specific customer accounts and an assessment of international,
+political and economic risk as well as the aging of the accounts receivable. If there is a change in actual defaults from the Company s
+historical experience, the Company s estimates of recoverability of amounts due could be affected and the Company will adjust the
+allowance accordingly. 
+
+Deferred financing costs: 
+
+Deferred financing costs
+include costs paid in cash, such as professional fees and commissions. The costs associated with equity financings, such as in the sale
+of Common or Preferred Stock, are netted against the proceeds of the offering. In the case of note financings, costs are amortized to
+interest expense over the life of the notes or upon early payment using the effective interest method. 
+
+Property and equipment, net: 
+
+Property and equipment are
+stated at cost. Depreciation is computed using the straight-line method over the estimated useful lives of the related assets, ranging
+from three to five years. Leasehold improvements are amortized over their estimated useful lives, not to exceed the term of the related
+lease. The cost of additions and improvements is capitalized while maintenance and repairs are charged to expense as incurred. Depreciation
+expense was 4 and 4 for the years ended December 31, 2022, and 2021, respectively. 
+
+Long-lived assets: 
+
+The Company evaluates the
+recoverability of its long-lived assets at least annually or whenever circumstances or events indicate such assets might be impaired.
+The Company would recognize an impairment charge in the event the net book value of such assets exceeded the future undiscounted cash
+flows attributable to such assets. No such impairment charge was recorded during the years ended December 31, 2022, and 2021, respectively. 
+
+Share-based payment: 
+
+Share-based
+compensation expense is based on the estimated grant date fair value of the portion of share-based payment awards that is ultimately
+expected to vest during the period. The grant date fair value of share-based
+awards to employees and directors is calculated using the Black-Scholes-Merton valuation model . Forfeitures 
+of share-based payment awards are estimated at the time of grant and revised,
+if necessary, in subsequent periods if actual forfeitures differ from those estimates and it is assumed no dividends will be declared.
+The estimated fair value of share-based compensation awards to employees is amortized over the vesting period of the options. 
+
+Revenue from Contracts with Customers: 
+
+The Company s principal
+sources of revenues are from the sale of software products, SOW (engineering services), annual software product, and software maintenance
+contracts. The Company also derives revenue from customers based on the numbers of signatures produced by the Company s signature
+software solutions imbedded within the customer s product. 
+
+11 
+
+Revenue from contracts with
+customers is recognized using the following five steps: 
+
+a) Identify the contract(s) with a customer. 
+
+b) Identify the performance obligations (a good or service)
+in the contract. 
+
+c) Determine the transaction price, for each performance obligation
+within the contract 
+
+d) Allocate the transaction price to the performance obligations
+in the contract; and 
+
+e) Recognize revenue when (or as) the Company satisfies a performance
+obligation. 
+
+Contracts contain performance
+obligation(s) for the transfer goods or services to a customer. The performance obligations are a promise (or a group of promises) that
+are distinct. The transaction price is the amount of consideration a Company expects to receive from a customer in exchange for satisfying
+the performance obligations specified in the contract. 
+
+Contracts may contain one or more performance
+obligations (a good or service). Performance obligations are accounted for separately if they are distinct. A good or service is distinct
+if the customer can benefit from the good or service either on its own or together with other resources readily available to the customer,
+and the good or service is distinct in the context of the contract. Otherwise, performance obligations will be combined with other promised
+goods or services until the Company identifies a bundle of goods or services that is distinct. 
+
+The transaction price is
+allocated to all separate performance obligations within the contract based on their relative standalone selling prices SSP ).
+The best evidence for SSP is the price the Company would charge for that good or service when sold separately in similar circumstances
+to similar customers. If goods or services are not always sold separately, the Company would use the best estimate of SSP in the allocation
+of transaction price. 
+
+The transaction price reflects
+the amount of consideration to which the Company expects to be entitled in exchange for transferring goods or services, which may include
+an estimate of variable consideration to the extent that it is probable of not being subject to significant reversals in the future based
+on the Company s experience with similar arrangements. The transaction price also reflects the impact of the time value of money
+if there is a significant financing component present in an arrangement. The transaction price excludes amounts collected on behalf of
+third parties, such as sales taxes. 
+
+Revenue is recognized when
+the Company satisfies each performance obligation identified within the contract by transferring control of the promised goods or services
+to the customer. Goods or services can transfer at a point in time or over time depending on the nature of the arrangement. 
+
+Deferred revenue represents
+the Company s obligation to transfer goods or services to a customer for which the Company has received consideration from the customer.
+Our payment terms do not vary by the type of products or services offered. The term between invoicing and when payment is due is not significant.
+During the year ended December 31, 2022, the Company recognized 195 of revenue that was included in deferred revenue at the beginning
+of the period. 
+
+Contract assets exist when
+the Company has satisfied a performance obligation but does not have an unconditional right to consideration (e.g., because the entity
+first must satisfy another performance obligation in the contract before it is entitled to invoice the customer). 
+
+12 
+
+The Company transfers all
+of its goods and services electronically with the associated costs recorded in cost of sales in the Company s Condensed Consolidated
+Statements of Operations. 
+
+Revenue from the sale of
+software products is recognized when the control is transferred. For most of the Company s software product sales, the control is
+transferred at the time the product is electronically transferred because the customer has significant risks and rewards of ownership
+of the asset and the Company has a present right to payment at that time. 
+
+Statement of Work (SOW).
+Revenue from SOW (engineering services) is recognized upon completion, transfer and satisfaction of the performance obligations identified
+with in the contract by the customer. 
+
+Transactional revenue. For
+transactional type contracts, the Company s performance obligations are met upon transfer of the software master to the customer.
+Revenue from transactional customers is recognized as the customer reports the number of units (signatures) rendered over the specified
+reporting period, generally three months. 
+
+Recurring Product revenue.
+The company has revenue contracts that allow the customer to utilize the Company s signature software on an annual basis. Maintenance
+and support costs are included in the annual price to the customer. The customer has the right to renew or cancel the contract on an annual
+basis. Recurring revenue is recognized on a straight-line basis over the contract period, generally one year. 
+
+Maintenance and support.
+Maintenance and support services are satisfied ratably over time as the customer simultaneously receives and consumes the benefits of
+the services. As a result, support and maintenance revenue is recognized on a straight-line basis over the period of the contract. 
+
+Arrangements with Multiple
+Performance Obligations. The Company has, from time to time, revenue arrangements that include multiple performance obligations. The Company
+allocates transaction price to all separate performance obligations based on their relative standalone selling prices SSP ).
+The Company s best evidence for SSP is the price the Company would charge for that good or service when the Company sells it separately
+in similar circumstances to similar customers. If goods or services are not always sold separately, the Company uses the best estimate
+of SSP in the allocation of transaction price. The Company s process for determining best estimate of SSP involves management s
+judgment, and considers multiple factors including, but not limited to, major product groupings, gross margin objectives and pricing practices.
+Pricing practices may vary over time, depending upon the unique facts and circumstances related to each deliverable. If the facts and
+circumstances underlying the factors considered change or should future facts and circumstances lead the Company to consider additional
+factors, the Company s best estimate of SSP may also change. 
+
+Contract costs. The incremental
+costs of obtaining a contract are capitalized if the costs are expected to be recovered. Costs that are recognized as assets are amortized
+straight-line over the period as the related goods or services transfer to the customer. Costs incurred to fulfill a contract are capitalized
+if they are not covered by other relevant guidance, relate directly to a contract, will be used to satisfy future performance obligations,
+and are expected to be recovered. 
+
+Significant Judgments. The
+Company may exercise significant judgment when determining whether products and services are considered distinct performance obligations
+that should be accounted for separately versus together. 
+
+Practical Expedients and
+Exemptions. Under Topic 606, incremental costs of obtaining a contract, such as sales commissions, are capitalized if they are expected
+to be recovered. Expensing these costs as they are incurred is not permitted unless they qualify for the practical expedient. The Company
+elected the practical expedient to expense the costs to obtain a contract as incurred when the expected amortization period is one year
+or less. 
+
+13 
+
+The Company elected the practical
+expedient under Topic 606 to not disclose the transaction price allocated to remaining performance obligations, since the majority of
+the Company s arrangements have original expected durations of one year or less, or the invoicing corresponds to the value of the
+Company s performance completed to date. 
+
+The Company elected the practical
+expedient that allows the Company to not assess a contract for a significant financing component if the period between the customer s
+payment and the transfer of the goods or services is one year or less. 
+
+Research and development: 
+
+Research and development
+costs are charged to expense as incurred. 
+
+Marketing: 
+
+The Company expenses advertising
+(marketing) costs as incurred. These expenses are outbound marketing expenses associated with participation in industry events, related
+sales collateral and email campaigns aimed at generating customer participation in webinars. There were no advertising expenses for the
+years ended December 31, 2022, and 2021, respectively. 
+
+Net loss per share: 
+
+The Company calculates net
+loss per share under the provisions of the relevant accounting guidance. That guidance requires the disclosure of both basic net loss
+per share, which is based on the weighted average number of shares outstanding, and diluted loss per share, which is based on the weighted
+average number of shares and dilutive potential shares outstanding. 
+
+The number of shares of Common
+Stock subject to outstanding options and shares issuable upon exercise of warrants excluded from the calculation of loss per share as
+their inclusion would be anti-dilutive are as follows: 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ Common Stock subject to outstanding options 
+ 1,321 
+ 1,338 
+ 
+ Common Stock subject to outstanding warrants 
+ 450 
+ 1,450 
+ 
+ Common stock subject to outstanding convertible debt plus accrued interest 
+ 8,616 
+ 7,443 
+
+Foreign currency assets and
+liabilities are translated into U.S. dollars at the end-of-period exchange rates except for long-term assets and liabilities, which are
+translated at historical exchange rates. Revenue and expenses are translated at the average exchange rates in effect during each period
+except for those expenses related to consolidated balance sheet amounts which are translated at historical exchange rates. 
+
+Net foreign currency transaction
+gains and losses are included in interest and other income, net in the accompanying consolidated statements of operations. Foreign currency
+transaction gains and losses in 2022 and 2021 were insignificant. 
+
+Income taxes: 
+
+Deferred tax assets and liabilities
+are recognized for the expected tax consequences of temporary differences between the tax bases of assets and liabilities and their financial
+statement reported amounts and for tax loss and credit carry-forwards. A valuation allowance is provided against deferred tax assets when
+it is determined to be more likely than not that the deferred tax asset will not be realized. 
+
+14 
+
+Results of Operations Years Ended December
+31, 2022, and December 31, 2021 
+
+Revenue 
+
+For the year ended December
+31, 2022, total revenue was 987, a decrease of 91, or 8 , compared to total revenue of 1,078 in the prior year. For the year ended
+December 31, 2022, software product revenue was 332, a decrease of 41, or 11 , compared to product revenue of 373 in the prior year.
+Maintenance revenue for the year ended December 31, 2022, was 655, a decrease of 50, or 7 , compared to maintenance revenue of 705
+in the prior year. The decrease in product revenue is primarily attributable to the decrease in SOW revenue in the year ended December
+31, 2022. The decrease in maintenance revenue is primarily attributable to existing customers renewing maintenance contracts at higher
+price points. 
+
+Cost of Sales 
+
+For the year ended December
+31, 2022, cost of sales was 117, a decrease of 17, or 13 , compared to cost of sales of 134 in the prior year. The decrease was primarily
+due to a decrease in direct engineering costs associated with the mix of engineering service and software product revenue during the year
+ended December 31, 2022, compared to the prior year. 
+
+Operating Expenses 
+
+Research and Development Expenses 
+
+For the year ended December
+31, 2022, research and development expenses were 590, a decrease of 43, or 8 , compared to research and development expenses of 547
+in the prior year. Research and development expenses consist primarily of salaries and related costs, outside contract engineering, maintenance
+items, and allocated facility expenses. For the year ended December 31, 2022, total research and development expenses before IT and cost
+of sales allocations were 719, an increase of 26, or 4 , compared to 693 of total research and development expenses before allocations
+in the prior year. 
+
+Sales and Marketing Expenses 
+
+For the year ended December
+31, 2022, sales and marketing expenses were 75, a decrease of 21, or 22 , compared to sales and marketing expenses of 96 in the prior
+year. The decrease was primarily attributable to a decrease in the sales of commissionable customer accounts. 
+
+General and Administrative Expenses 
+
+For the year ended December
+31, 2022, administrative expenses were 544, a decrease of 18, or 3 , compared to administrative expenses of 562 in the prior year.
+The decrease was mainly due to a decrease in stock related compensation expense the year ended December 31, 2022. The decreases were offset
+by increases in other overhead. 
+
+Other Income (Expense), Net 
+
+Other income (expense), net,
+for the year ended December 31, 2022, was 0, a decrease of 125, or 100 , compared to income of 125 in the prior year. The decrease
+in other income and expense is due primarily to the forgiveness of the paycheck protection program amount of 125. 
+
+15 
+
+Interest Expense 
+
+For the year ended December
+31, 2022, related party interest expense was 161, an increase of 34, or 27 , compared to related party interest expense of 127 in the
+prior year. For the year ended December 31, 2022, other interest expense was 211, a decrease of 11, or 5 , compared to other interest
+expense of 222 in the prior year. The increase in interest expense is primarily due to the increase in borrowings and interest associated
+with increases in foreign revenues compared to the prior year period. 
+
+For the year ended December
+31, 2022, the Company recorded 0 in debt discount amortization associated with its short-term borrowings. For the year ended December
+31, 2022, the Company recorded 0 in debt discount amortization associated with its short-term borrowings, 0 of which is attributable
+to related parties and 0 of which is attributable to other investors. As of December 31, 2022, the entire amount of debt discount has
+been fully amortized. 
+
+The due date of the notes
+was extended again in November 2022 to December 31, 2023. 
+
+Liquidity and Capital Resources 
+
+At December 31, 2022, cash
+and cash equivalents totaled 68, compared to cash and cash equivalents of 40 at December 31, 2021. Net cash used by operating activities
+was 172. Cash of 203 was provided by financing activities, offset by 3 used in investing activities. At December 31, 2022, total current
+assets were 195, compared to total current assets of 186 at December 31, 2021. At December 31, 2022, the Company s principal sources
+of funds included its aggregated cash and cash equivalents of 68. 
+
+Accounts receivable were
+ 108 at December 31, 2022, a decrease of 16, or 13 , compared to accounts receivable of 124 at December 31, 2021. The decrease in accounts
+receivable is primarily attributable to collection of the bills in the year ended December 31, 2022, compared to the prior year. 
+
+Prepaid expenses and other
+current assets were 19 at December 31, 2022, a decrease of 3, or 14 , compared to prepaid expenses and other current assets of 22 at
+December 31, 2021. The decrease was due to Normal amortization of prepaid insurance amounts . 
+
+Short-term debt was 3,272
+at December 31, 2022, an increase of 248, or 8 , compared to 3,024 in the prior year. See financing transactions below. Short term debt
+includes principal amount on notes for 3,046, accounts receivable advances of 181, and a vendor note of 45. The Company negotiated
+an extension of the due date of the notes to December 31, 2023. 
+
+Accounts payable were 371
+at December 31, 2022, a decrease of 7, or 2 , compared to 378 at December 31, 2021. The decrease is due primarily to a decrease in professional
+services compared to the prior year. 
+
+There was no change in the
+amount of accrued compensation of 69 and deferred compensation of 219 at December 31, 2022, compared to the prior year. The deferred
+compensation amount represents amounts owed to former employees. 
+
+Other accrued liabilities
+including the long-term portion were 2,608 at December 31, 2022, compared to 2,096 at December 31, 2021, an increase of 512, or 24 .
+The increase is primarily attributable to the accrual of certain franchise taxes and professional service fees. 
+
+Deferred revenue was 185
+at December 31, 2022, a decrease of 11, or 6 , compared to deferred revenue, of 196 at December 31, 2021. The decrease is primarily
+due to one customer renewing their maintenance contract on a time and material basis rather than an annual basis. The Company records
+deferred maintenance when the billing is collected. 
+
+16 
+
+Financing Transactions 
+
+Advances: 
+
+In January 2022,
+the Company received, from unrelated parties, demand notes aggregating 50 in cash. The notes bear interest at the rate of 20 per annum.
+Principal and interest due shall be paid in full on demand, following ten (10) calendar day prior written notices starting on March 15,
+2022. These notes may be prepaid in whole or in part at any time without penalty, premium or other consideration by giving at least five
+(5) business day prior written notice to the Holder. 
+
+On January 19 and February
+9, 2022, the Company repaid 15 and 15, respectively, of accounts receivable advances from related parties along with 2 of accrued advance
+fees. In addition, during February 2022, the Company repaid 100 of demand notes to an unrelated party along with 20 of accrued fees. 
+
+In October 2022, the Company
+received, from related parties, advances aggregating 6 in cash against certain accounts receivable of the Company. Upon collection of
+an invoice, the Company agreed to repay the advance to the lenders on a pro rata basis together with a 3 advance fee. 
+
+Debt : 
+
+In March 2021, the Company
+received, from related parties, advances aggregating 25 in cash against certain accounts receivable of the Company. Upon collection of
+an invoice, the Company agreed to repay the advance to the lenders on a pro rata basis together with a 5 advance fee. The Company accrued
+ 1 in advance fees recorded as interest expense on the Statement of Operations. 
+
+In April 2021, the Company
+re-paid 49 of Accounts Receivable Advances and 6 in accrued but unpaid 5 advance fees to an affiliate. In addition, the Company repaid
+to another affiliate 64 of Accounts Receivable Advances and 4 in accrued but unpaid 5 advance fees. 
+
+In July 2021, the Company
+received 10,000 in cash from an affiliate as an advance against certain accounts receivable. The company accrued a 5 advance fee and
+recorded 500 as interest expense during the three months ended September 30, 2021. Upon collection of the accounts receivable the Company
+will repay the advance plus the 5 fee. 
+
+In August and September 2021,
+the Company received 50,000 and 36,000, respectively in cash from an affiliate as advances against certain accounts receivable. The
+company accrued a 5 advance fees in August and September 2021, and recorded 4 as interest expense during the three months ended September
+30, 2021. Upon collection of the accounts receivable the Company will repay the advances plus the 5 fee. 
+
+In December 2021, the Company
+re-paid 66 in Accounts Receivable Advances and 3 in accrued but unpaid 5 advance fees to two related parties. 
+
+In June 2022, the Company
+paid the second installment in the amount of 45 plus accrued interest of 4 of a note entered into associated with a settlement agreement
+dated July 1, 2020, with one of its vendors. The remaining 45 plus interest at the rate of 4 per annum is due in June of 2023 
+
+On April 20, 2022, the Company
+issued an aggregate of 125 in unsecured convertible notes, 70 to related parties and 55 to other investors. The unsecured notes are
+convertible by the holder into common stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000
+in aggregate proceeds, the Company can force conversion at a price equal to the lesser of 1.00 per share or the price per share of the
+new financing. The notes bear interest at the rate of 10 per annum and are due December 31, 2022. 
+
+On August 2022, the Company
+issued an aggregate of 50 in unsecured convertible notes to other investors. The unsecured notes are convertible by the holder into common
+stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000 in aggregate proceeds, the Company can
+force conversion at a price equal to the lesser of 1.00 per share or the price per share of the new financing. The notes bear interest
+at the rate of 10 per annum and are due December 31, 2022. 
+
+On November 2022, the Company
+issued an aggregate of 75 in unsecured convertible notes, 35 to related parties and 40 to other investors. The unsecured notes are
+convertible by the holder into common stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000
+in aggregate proceeds, the Company can force conversion at a price equal to the lesser of 1.00 per share or the price per share of the
+new financing. The notes bear interest at the rate of 10 per annum and are due December 31, 2023. 
+
+17 
+
+On December 2022, the Company
+issued an aggregate of 72 in unsecured convertible notes, 35 to related parties and 37 to other investors. The unsecured notes are
+convertible by the holder into common stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000
+in aggregate proceeds, the Company can force conversion at a price equal to the lesser of 1.00 per share or the price per share of the
+new financing. The notes bear interest at the rate of 10 per annum and are due December 31, 2023. 
+
+Contractual Obligations 
+
+The Company had no material
+commitments as of December 31, 2022. 
+
+Item 7A. Quantitative and Qualitative Disclosures about Market
+Risk 
+
+Interest Rate Risk. 
+Any investments in fixed income securities are subject to interest rate risk and will fall in value if the market interest rates increase.
+The Company attempts to limit this exposure by investing primarily in short-term securities. 
+
+Foreign Currency Risk .
+The Company operates a joint venture in China and from time-to-time could make certain capital equipment or other purchases denominated
+in foreign currencies. As a result, the Company s cash flows and earnings could be exposed to fluctuations in interest rates and foreign
+currency exchange rates. The Company would attempt to limit any such exposure through operational strategies and generally has not hedged
+currency exposure. 
+
+Future Results and Stock
+Price Risk. The Company s stock price may be subject to significant volatility. The public stock markets have experienced significant
+volatility in stock prices in recent years. The stock prices of technology companies have experienced particularly high volatility, including,
+at times, severe price changes that are unrelated or disproportionate to the operating performance of such companies. The trading price
+of the Company s Common Stock could be subject to wide fluctuations in response to, among other factors, quarter-to-quarter variations
+in operating results, announcements of technological innovations or new products by the Company or its competitors, competitor consolidation
+in the industry, announcements of new strategic relationships by the Company or its competitors, general conditions in the computer software
+industry or the global economy generally, or market volatility unrelated to the Company s business and operating results. The impact and
+severity of the above factors could be exacerbated by the Company s small size, public float and a lack of market liquidity for
+its Common Stock. 
+
+Item 8. Financial Statements and Supplementary
+Data 
+
+The Company s audited consolidated
+financial statements for the years ended December 31, 2022, and 2021, and for each of the years in the two-year period ended December
+31, 2022, begin on page F-1 of this Annual Report on Form 10-K, and are incorporated into this item by reference. 
+
+Item 9. Changes in and Disagreements with
+Accountants on Accounting and Financial Disclosures 
+
+None 
+
+18 
+
+Item 9A. Controls and Procedures 
+
+Disclosure Controls and Procedures 
+
+The Company carried out an
+evaluation as of the end of the period covered by this report, under the supervision and with the participation of our management, including
+our Chief Executive Officer and our Chief Financial Officer, of the effectiveness of our disclosure controls and procedures pursuant to
+paragraph (b) of Rule 13a-15 and 15d-15 under the Exchange Act of 1934 (the Exchange Act ). Based on that evaluation
+the Chief Executive Officer and the Chief Financial Officer have concluded that as of the end of the period covered by this report, our
+disclosure controls and procedures were effective to ensure that the information required to be disclosed in reports we file or submit
+under the Exchange Act (1) is recorded, processed, summarized, and reported within the time periods specified in the SEC s rules
+and forms, and (2) is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer,
+as appropriate to allow timely decisions regarding required disclosures. 
+
+The Company does not expect
+that its disclosure controls and procedures will prevent all error and all fraud. A control procedure, no matter how well conceived and
+operated, can provide only reasonable, not absolute, assurance that the objectives of the control procedures are met. Because of the inherent
+limitations in all control procedures, no evaluation of controls can provide absolute assurance that all control issues and instances
+of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making
+can be faulty, and that breakdowns can occur because of simple error or mistake. Additionally, controls can be circumvented by the individual
+acts of some persons, by collusion of two or more people, or by management override of the control. The Company considered these limitations
+during the development of its disclosure controls and procedures, and will continually reevaluate them to ensure they provide reasonable
+assurance that such controls and procedures are effective. 
+
+Internal Control over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting. Our internal control over financial
+reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately
+and fairly reflect transactions and dispositions of assets; (ii) provide reasonable assurance that transactions are recorded as necessary
+to permit preparation of financial statements in accordance with U.S. generally accepted accounting principles, and that receipts and
+expenditures are being made only in accordance with authorizations of our management and directors; and (iii) provide reasonable assurance
+regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect
+on our financial statements. Because of its inherent limitations, internal control over financial reporting may not prevent or detect
+misstatements. 
+
+Management
+has assessed the effectiveness of the Company s internal control over financial reporting based on the criteria established in Internal
+Control, Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO in 2013. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such
+that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements will
+not be prevented or detected on a timely basis. 
+
+19 
+
+In performing this assessment,
+management identified the following material weaknesses: 
+
+As a small company with limited
+resources that are mainly focused on the development and sales of software products and services, iSign does not employ a sufficient number
+of staff in its finance department to possess an optimal segregation of duties or to provide optimal levels of oversight. This has resulted
+in certain audit adjustments and management believes that there may be a possibility for a material misstatement to occur in future periods
+while it employs the current number of personnel in its finance department. 
+
+Based on its assessment,
+our management concluded that, as of December 31, 2021, our internal control over financial reporting was not effective. Management believes
+that the identified weaknesses have not affected our ability to present GAAP-compliant financial statements in this Form 10-K. During
+the year-end financial statement close the Company was able to adjust its financial records to properly present its financial statements
+and we were therefore able to present GAAP-compliant financial statements. Management does not believe that its weakness with respect
+to its procedures and controls have had a pervasive effect upon our financial reporting due to our ability to make the necessary reconciling
+adjustments to our financial statements. 
+
+Management s Remediation Initiatives 
+
+Management conducts a number
+of activities to address the material weaknesses noted above, including but not limited to the following: 
+
+Key managers and accounting personnel work closely with our
+independent audit firm in evaluating our progress in remediating our material weaknesses with oversight by the audit committee. 
+
+Evaluate control procedures on an ongoing basis, and, where
+possible, modify those control procedures to improve oversight. 
+
+Evaluate, and, where possible, employ additional third-party
+resources that can provide oversight support within the Company s budget constraints; and 
+
+As the Company grows its business and the cash flow necessary
+to hire additional accounting personnel, management expects to pursue and implement such additional hires. 
+
+Elements of our remediation
+plan can only be accomplished over time, and we can offer no assurances that those initiatives will ultimately have the intended effects.
+Ultimately, revenue growth and performance improvements are the most likely avenue to greater resources that will improve the Company s
+internal controls. 
+
+Management will continue
+the process of reviewing existing controls, procedures and responsibilities to more closely identify financial reporting risks and the
+required controls to address them. Key control and compensating control procedures will be developed to ensure that material weaknesses
+are properly addressed and related financial reporting risks are mitigated. Periodic control validation and testing will also be implemented
+to ensure that controls continue to operate consistently and as designed. 
+
+Changes in Internal Control over Financial Reporting 
+
+There
+have not been any changes in the Company s internal control over financial reporting (as such term is defined in Rules 13a-15(f)
+and 15d-15(f) under the Exchange Act) during the quarter ended December 31, 2021 that materially affected, or are reasonably likely
+to materially affect, our internal control over financial reporting . 
+
+Item 9B. Other Information 
+
+None. 
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent
+Inspections 
+
+None. 
+
+20 
+
+PART III 
+
+Item 10. Directors, Executive Officers,
+and Corporate Governance 
+
+Directors and Executive Officers 
+
+The following table sets forth
+certain information concerning the Company s directors and executive officers: 
+
+Name 
+ 
+ Age 
+ 
+ Positions
+ with the Company 
+ 
+ Philip S. Sassower 
+ 
+ 83 
+ 
+ Co-Chairman and Chief Executive Officer 
+ 
+ Michael Engmann 
+ 
+ 74 
+ 
+ Co-Chairman and Chief Operating Financial Officer 
+ 
+ Andrea Goren 
+ 
+ 55 
+ 
+ Director 
+ 
+ Francis J. Elenio 
+ 
+ 56 
+ 
+ Director 
+ 
+ Stanley Gilbert 
+ 
+ 83 
+ 
+ Director 
+ 
+ Jeffrey Holtmeier 
+ 
+ 64 
+ 
+ Director 
+ 
+ David E. Welch 
+ 
+ 76 
+ 
+ Director 
+
+The business experience of
+each of the directors and executive officers for at least the past five years includes the following: 
+
+Philip S. Sassower has served as the Company s Chairman and Chief Executive Officer since August 2010, and Co-Chairman since October 2015. Mr.
+Sassower is a Managing Director of SG Phoenix LLC, a private equity firm, and has served in that capacity since May 2003. Mr. Sassower
+has also been Chief Executive Officer of Phoenix Enterprises LLC, a private equity firm, and has served in that capacity since 1996. Mr.
+Sassower is co-manager of the managing member of Phoenix Venture Fund LLC. Mr. Sassower s qualifications to serve on the Board of
+Directors include more than 40 years of business and investment experience. Mr. Sassower was elected to be the Chairman of the Board of
+Birch Wathen Lenox School, NY, NY in May 2022. Mr. Sassower has developed extensive experience working with management teams and boards
+of directors, and in acquiring, investing in, and building companies and implementing changes. 
+
+Michael Engmann 
+has served as the Company s CFO since July 2021, Co-Chairman since October 2015, and as the Company s Chief Operating Officer
+since May 2017. Mr. Engmann is Chairman of Engmann Options; a family trading and investment holding company and has served in that capacity
+since 1978. Mr. Engmann has approximately 40 years of experience in building successful financial service companies. He began his career
+as a trader and was one of the early market-makers in the Pacific Stock Exchange s options program. He (i) founded, in 1980, Sage
+Clearing Corporation, a stock and options clearing company for professional traders, which was sold to ABN Amro Inc. in 1988, (ii) founded,
+in 1982, Preferred Trade, Inc., a broker-dealer providing research and trade execution services, which was sold to Fimat in May 2005,
+and (iii) acquired in 2001 Revere Data LLC, a global financial and market data company, which was sold to Factset in2013. Mr. Engmann s
+qualifications to serve on the Board of Directors include more than 40 years of business and investment experience. 
+
+Andrea Goren has
+served as a director since August 2010. Mr. Goren held the office of the Company s Chief Financial Officer from December 2010 to
+June of 2021. Mr. Goren was named Chief Financial Officer of INVO Bioscience, Inc. (NASDAQ: INVO), a medical device company, in June 2021
+and is a Managing Director of SG Phoenix LLC, a private equity firm, since May 2003. Mr. Goren is co-manager of the managing member of
+Phoenix Venture Fund LLC, the Company s largest shareholder. Prior to that, Mr. Goren served as Vice President of Shamrock International,
+Ltd., a private equity firm. Mr. Goren was a director of Xplore Technologies Corp. (NASDAQ: XPLR) from December 2004 to July 2018, and
+a director of The Fairchild Corporation (NYSE: FA) from May 2008 to January 2010. Mr. Goren s qualifications to serve on the Board
+of Directors include his experience and knowledge acquired in over 23 years of private equity investing and his extensive experience working
+with management teams and boards of directors. 
+
+21 
+
+Francis J. Elenio 
+has served as a director since November 2015, after having served as a director of the Company from August 2010 to October 2011. Since
+November 2005, Mr. Elenio has served as Managing Director of Reeff Consulting LLC, a financial and business advisory firm providing outsourced
+accounting and consulting services for start-up to midsized companies. Mr. Elenio has over 25 years of experience working with corporations
+as a strategic, solution-driven professional focused on finance and accounting, operations and turn-around management. Mr. Elenio has
+served at the CFO level at numerous public and private companies, including Wilshire Enterprises, Inc., a real estate investment and management
+company, Web Collage, Inc., an internet content integrator for manufacturers, Go America, Inc., a wireless internet service provider and
+Roomlinx, Inc., a provider of wireless high speed internet access to hotels and conference centers. Mr. Elenio is a CPA and received an
+MBA. Since September 2007, Mr. Elenio has also been an Adjunct Professor of Finance at Seton Hall University. Mr. Elenio serves on the
+Company s audit committee. Mr. Elenio s qualifications to serve on the Board of Directors and Audit Committee include his
+experience as a CFO working with technology companies like iSign. 
+
+Stanley L. Gilbert 
+has served as a director since October 2011. Mr. Gilbert has 56 years of experience as a lawyer with primary specialties in wills, trusts,
+estate planning and administration, as well as tax planning. Mr. Gilbert is Founder and has been President of Stanley L. Gilbert PC since
+1982. Mr. Gilbert has also been a partner of a number of law firms, including Nager Korobow, Bell Kallnick Klee and Green, and Migdal
+Pollack Rosenkrantz and Sherman. Mr. Gilbert has served as a Director of Planned Giving at Columbia University Medical Center s
+Nathaniel Wharton Fund, which supports a broad variety of projects in basic research, clinical care and teaching since 2001. Mr. Gilbert
+was elected by a majority of iSign s Series B Preferred Stock and Series C Preferred stockholders voting together as a separate
+class on an as converted to Common Stock basis and serves on iSign s audit and compensation committees. Mr. Gilbert s qualifications
+to serve on the Board of Directors include his significant tax and accounting expertise acquired through his years of practicing law. 
+
+Jeffrey Holtmeier 
+has served as a director since August 2011. Jeff has more than 30 years of successful entrepreneurial track record and was awarded the
+coveted USA Today/NASDAQ/Ernst Young Entrepreneur of the Year honor and was a finalist for the International Business Award. Jeff
+also has deep boardroom experience as a result of service on the Boards of Directors of several U.S. and Chinese companies, both public
+and private. He is also a significant contributor in the non-profit world in his local community, with over thirty years of board leadership
+and service for programs addressing homelessness and people with special needs. 
+
+David
+E. Welch has served as a director since March 2004. From July 2002 to present Mr. Welch has been the principal of David E. Welch Consulting,
+a financial consulting firm. Mr. Welch has also been Vice President of Operations at Vertex Innovations, Inc., from June 2015 to April
+2017. Mr. Welch was Vice President and Chief Financial Officer of American Millennium Corporation, Inc., a provider of satellite-based
+asset tracking and reporting equipment, from April 2004 to September 2014. Mr. Welch was Vice President and Chief Financial Officer of
+Active Link Communications, a manufacturer of telecommunications equipment, from 1999 to 2002. Mr. Welch has held positions as Director
+of Management Information Systems and Chief Information Officer with Micromedex, Inc. and Language Management International from 1995
+through 1998. Mr. Welch other directorships have been with Aspen Bio Pharma, Inc., from 2004 to 2017, Pepper Ball Technologies, Inc. from
+January 2007 to January 2009 and Advanced Nutraceuticals, Inc., from 2003 to 2006. Mr. Welch is a Certified Public Accountant licensed
+in the state of Colorado. He serves on iSign s audit and compensation committees. Mr. Welch s qualifications to serve on the
+Board of Directors include his significant accounting and financial expertise . 
+
+22 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+Section 16(a) of the
+Exchange Act requires the Company s officers, directors and persons who own more than ten percent of a registered class of the Company s
+equity securities to file certain reports with the SEC regarding ownership of, and transactions in, the Company s securities. These officers,
+directors and stockholders are also required by SEC rules to furnish the Company with copies of all Section 16(a) reports that are
+filed with the SEC. 
+
+Code of Business Conduct and Ethics 
+
+We have adopted a written
+code of business conduct and ethics, referred to as our Code of Business Conduct and Ethics, which applies to all of our directors, officers,
+and employees, including our principal executive officer, our principal financial and accounting officer, and our Chief Technology officer.
+A copy of the Code of Business Conduct and Ethics is posted on the Company s web site, at www.isignnow.com. 
+
+Audit Committee Financial Expert 
+
+Mr. Welch serves as the Audit
+Committee s financial expert. Each member of the Audit Committee is independent as defined under the applicable rules and regulations
+of the SEC and the director independence standards of the NASDAQ Stock Market, as currently in effect. 
+
+Item 11. Executive Compensation 
+
+Summary Compensation Table (in dollars) 
+
+Name and Principal Position 
+ Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards ) 
+ Option Awards ) (4) 
+ Non-Equity Incentive Plan Compensation ) 
+ Change in Pension Value And Nonqualified Deferred Compensation Earnings ) 
+ All Other Compensation ) 
+ Total ) 
+ 
+ Philip S Sassower, 
+ 2022 
+ (1) 
+
+Co-Chairman and CEO 
+ 2021 
+ (1) 
+
+Michael Engmann, 
+ 2022 
+ (2) 
+
+CFO, President and COO 
+ 2021 
+ (2) 
+
+Andrea Goren, 
+ 2022 
+ (3) 
+
+Director 
+ 2021 
+ (3) 
+
+1. Mr. Sassower was appointed Chairman of the Board and Chief Executive Officer on August 5, 2010, and Co-Chairman
+since October 2015. Mr. Sassower receives no salary compensation. 
+
+2. Mr. Engmann was appointed Chief Financial Officer on June of 2021 and President and Chief Operating Officer
+on May 15, 2017. Mr. Engmann receives no salary compensation from the Company. 
+
+3. Mr. Goren resigned as Chief Financial Officer in June of 2021. Mr. Goren received no compensation from
+the Company. 
+
+4. The amounts, if any, provided in this column represent the aggregate grant date fair value of option awards
+granted to our officers, as calculated in accordance with FASB ASC Topic 718, Stock Compensation. In accordance with applicable regulations,
+the value of such options does not reflect an estimate for features related to service-based vesting used by the Company for financial
+statement purposes. 
+
+23 
+
+Mr. Engmann is retained by
+the Company without an agreement. Mr. Engmann s service as Chief Financial Officer and Co-Chairman and Chief Operating Officer is
+month to month. Mr. Engmann is currently entitled to receive a cash sum payment of 6,500 per month. The Company has agreed to pay Mr.
+Engmann for reasonable and documented out of pocket expenses incurred for Services rendered by him, as long as he obtains written approval
+of the Company prior to incurring any significant expense. 
+
+Mr. Goren and Mr. Sassower
+are retained by the Company through an Advisory Services Agreement (the SGP Agreement with SG Phoenix LLC SGP ).
+Mr. Goren and Mr. Sassower are managing members of SGP. The initial term of the SGP Agreement was two years and it automatically renews
+for additional one year periods upon the same terms and conditions unless either party notifies the other in writing of its intent to
+terminate at least 90 days prior to the then-current term. SGP currently is entitled to receive a cash sum payment of 6,500 SGP
+Fee per month. In addition, SGP is eligible for, but not entitled to receive, an annual cash performance fee of up to thirty-five
+percent (35 of the SGP Fee during a given year or prorated portion thereof. Such performance fee, if any, would be awarded based upon
+the sole discretion of the Company s Board of Directors. No performance fee was paid to SGP in 2020. Under the SGP Agreement, SGP
+furnishes, at its own expense, all materials and equipment necessary to carry out the terms of the SGP Agreement. The Company has agreed
+to pay SGP for reasonable and documented out of pocket expenses incurred for services rendered by SGP during the term of the SGP Agreement,
+as long as SGP obtains written approval of the Company prior to incurring any significant expense. 
+
+Outstanding Equity Awards at December 31, 2022 
+
+The following table summarizes the outstanding
+equity award holdings held by our named executive officers. The amounts are not stated in thousands. 
+
+Name and Principal Position 
+ Number of Securities Underlying Unexercised Options (#) Exercisable 
+ Number of Securities Underlying Unexercised Options (#) Unexercisable 
+ Option Exercise Price ) 
+ Option Expiration Date 
+ 
+ Philip S. Sassower, Co-Chairman and CEO 
+ 168,000 (1) 
+ 14,994 
+ 0.68 
+ 8/9/2025 
+
+Michael Engmann, President and COO CFO 
+ 158,000 (3) 
+ 14,994 
+ 0.67 
+ 8/9/2025 
+
+Andrea Goren, Director 
+ 186,000 (5) 
+ 14,994 
+ 0.69 
+ 8/9/2025 
+
+(1) Mr. Sassower s 108,000 options were issued on August 9, 2018. The options have a seven-year life and vest quarterly over three
+years. 
+
+(2) Mr. Sassower s 60,000 options were issued on August 11, 2020. The options have a seven-year life and vest quarterly over three
+years. 
+
+(3) Mr. Engmann s 98,000 options were issued on August 9, 2018. The options have a seven-year life and vest quarterly over three
+years. 
+
+(4) Mr. Engmann s 60,000 options were issued on August 11, 2020. The options have a seven-year life and vest quarterly over three
+years. 
+
+(5) Mr. Goren s 126,000 options were issued on August 9, 2018. The options have a seven-year life and vest quarterly over three
+years. 
+
+(6) Mr. Goren s 60,000 options were issued on August 11, 2020. The options have a seven-year life and vest quarterly over three
+years. 
+
+24 
+
+Option Exercises and Stock Vested 
+
+There were no stock options
+exercised during the twelve months ended December 31, 2022, and 2021. 
+
+Director Compensation 
+
+The non-employee directors
+of the Company s received no compensation for the year ended December 31, 2022: 
+
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters 
+
+The following table sets
+forth information as of December 31, 2022, with respect to the beneficial ownership of (i) any person known to be the beneficial
+owner of more than 5 of any class of voting securities of the Company, (ii) each director and director nominee of the Company, (iii) each
+of the current executive officers of the Company named in the Summary Compensation Table under the heading Executive Compensation 
+and (iv) all directors and executive officers of the Company as a group. Except as indicated in the footnotes to this table (i) each
+person has sole voting and investment power with respect to all shares attributable to such person and (ii) each person s address
+is c/o iSign Solutions, Inc., 2033 Gateway Place, Suite 662, San Jose California 95110-1413. The amounts are not stated in thousands. 
+
+Common
+Stock 
+ 
+ Name
+of Beneficial Owner 
+ Number of 
+ Shares (1) 
+ Percent Of Class (1) 
+ 
+ Philip S. Sassower (2) 
+ 1,723,968 
+ 26.52 
+ 
+ Andrea Goren (3) 
+ 1,577,834 
+ 23.31 
+ 
+ Stanley Gilbert (4) 
+ 163,923 
+ 2.56 
+ 
+ Jeffrey Holtmeier (5) 
+ 55,329 
+
+David E. Welch (6) 
+ 52,452 
+
+Michael W. Engmann (7) 
+ 1,266,366 
+ 19.00 
+ 
+ Francis Elenio (8) 
+ 51,668 
+
+All directors and executive officers as a group (7 persons) (9) 
+ 3,819,070 
+ 51.22 
+ 
+ 5 Shareholders 
+
+Phoenix Venture Fund LLC (10) 
+ 1,072,440 
+ 16.91 
+
+Less than 1 . 
+
+1. Shares of Common Stock beneficially owned and the respective percentages of beneficial ownership of Common
+Stock assumes the exercise or conversion of all options, warrants and other securities convertible into Common Stock, beneficially owned
+by such person or entity currently exercisable or exercisable within 60 days of March 15, 2023. Shares issuable pursuant to the exercise
+of stock options and warrants exercisable within 60 days of March 15, 2023 or securities convertible into Common Stock within 60 days
+of March 15, 2023 are deemed outstanding and held by the holder of such shares of Common Stock, options and warrants for purposes of computing
+the percentage of outstanding Common Stock beneficially owned by such person, but are not deemed outstanding for computing the percentage
+of outstanding Common Stock beneficially owned by any other person. The percentage of beneficial ownership of Common Stock beneficially
+owned is based on shares of Common Stock. The shares of Common Stock beneficially owned and the respective percentages of beneficial ownership
+of Common Stock stated in these columns assume conversion of all outstanding options and warrants into shares of Common Stock. 
+
+2. Represents (a) 1,565,964 shares of Common Stock, (b) 158,004 shares of Common Stock issuable upon the
+exercise of options exercisable within 60 days of March 15, 2023 (see table below for details), including securities beneficially owned
+by SG Phoenix LLC, Phoenix Ventures LLC and Phoenix Enterprises Family Fund LLC. Please see footnote 11 below for information concerning
+shares of Common Stock beneficially owned by Phoenix. Along with Mr. Goren, Mr. Sassower is the co-manager of SG Phoenix Ventures LLC,
+which has the shared power to vote and dispose of the shares of Common Stock held by Phoenix and, accordingly, Mr. Sassower may be deemed
+to be the beneficial owner of the shares owned by Phoenix Mr. Goren and Mr. Sassower each disclaim beneficial ownership of the shares
+owned by Phoenix, except to the extent of their respective pecuniary interests therein. Mr. Sassower s address is 70 East 55 th 
+Street, 10 th Floor, New York, NY 10022. 
+
+25 
+
+Philip 
+ Sassower 
+ SG Phoenix 
+ LLC 
+ Phoenix 
+ Ventures, 
+ LLC 
+ Phoenix 
+ Enterprise 
+ Family 
+ Fund LLC 
+ Total 
+ 
+ Common shares 
+ 487,541 
+ 230,789 
+ 841,651 
+ 5,983 
+ 1,565,964 
+ 
+ Stock Options 
+ 158,004 
+
+158,004 
+ 
+ Total 
+ 645,545 
+ 230,789 
+ 841,651 
+ 5,983 
+ 1,723,968 
+
+3. Represents (a) 1,151,830 shares of Common Stock, (b) 176,004 shares of Common Stock issuable upon the
+exercise of options exercisable within 60 days of March 15, 2023, and (b) 250,000 shares of Common Stock issuable upon the exercise of
+warrants exercisable within 60 days of March 15, 2023 (see table below for details), including securities beneficially owned by Andax
+LLC, SG Phoenix LLC, Phoenix Ventures LLC, and Mr. Goren. Please see footnote 11 below for information concerning Phoenix s beneficial
+ownership. Mr. Goren is managing member Andax LLC and disclaims beneficial ownership of the shares except to the extent of his pecuniary
+interest therein. Along with Mr. Sassower, Mr. Goren is the co-manager of SG Phoenix Ventures LLC, which has the power to vote and dispose
+of the shares held by Phoenix and accordingly, Mr. Goren may be deemed to be the beneficial owner of the shares owned by Phoenix. Mr.
+Goren and Mr. Sassower each disclaim beneficial ownership of the shares owned by Phoenix except to the extent of their respective pecuniary
+interests therein. Mr. Goren s address is 70 East 55 th Street, 10 th Floor, New York, NY 10022. 
+
+Andrea 
+ Goren 
+ Andax, LLC 
+ SG Phoenix 
+ LLC 
+ Phoenix 
+ Ventures, 
+ LLC 
+ Total 
+ 
+ Common shares 
+ 38,162 
+ 41,228 
+ 230,789 
+ 841,651 
+ 1,151,830 
+ 
+ Stock Options 
+ 176,004 
+
+161,010 
+ 
+ Warrants 
+ 250,000 
+
+250,000 
+ 
+ Total 
+ 464,166 
+ 41,228 
+ 230,789 
+ 841,651 
+ 1,577,834 
+
+4. Represents (a) 112,255 shares of Common Stock, and (b) 51,668 shares of Common Stock issuable upon the
+exercise of options exercisable within 60 days of March 15, 2023 (see table below for details). As manager of Galaxy LLC, Mr. Gilbert
+has the power to vote and dispose of the shares of Common Stock held by Galaxy LLC, and, accordingly, Mr. Gilbert may be deemed to be
+the beneficial owner of the shares owned by Galaxy LLC. 
+
+Stanley 
+ Gilbert 
+ Galaxy LLC 
+ Mrs. Gilbert 
+ Total 
+ 
+ Common shares 
+ 109,111 
+ 1,426 
+ 1,718 
+ 112,255 
+ 
+ Stock options 
+ 51,668 
+
+51,668 
+ 
+ Total 
+ 160,779 
+ 1,426 
+ 1,718 
+ 163,293 
+
+5. Represents (a) 3,661 shares of Common Stock and (b) 51,668 shares of Common Stock issuable upon the exercise
+of options exercisable within 60 days of March 15, 2023. As manager of Genext, Mr. Holtmeier has the power to vote and dispose of the
+shares of Common Stock held by Genext, and, accordingly, Mr. Holtmeier may be deemed to be the beneficial owner of the shares owned by
+CUBD and Genext. 
+
+6. Represents 51,668 shares of Common Stock issuable upon the exercise of options exercisable within 60 days
+of March 15, 2023. 
+
+26 
+
+7. Represents (a) 943,332 shares of Common Stock beneficially owned by Mr. Engmann, (b) 148,004 shares of
+Common Stock issuable upon the exercise of options exercisable within 60 days of March 15, 2023, and (c) an aggregate of 175,000 shares
+of Common Stock issuable upon exercise of warrants exercisable within 60 days of March 15, 2023, beneficially owned by Mr. Engmann. See
+the following table for more detail. Mr. Engmann s address is 220 Bush Street, No. 660, San Francisco, CA 94104. 
+
+Michael 
+ Engmann 
+ Brad W 
+ Engmann 
+ Sean 
+ Engmann 
+ Douglas J 
+ Engmann 
+ MDNH 
+ Partners, 
+ LP 
+ KENDU 
+ Partners 
+ Company 
+ Total 
+ 
+ Common shares 
+ 611,366 
+ 71,942 
+ 73,467 
+ 66,537 
+ 119,026 
+ 994 
+ 943,332 
+ 
+ Stock Options 
+ 148,004 
+
+148,004 
+ 
+ Warrants 
+ 175,000 
+
+175,000 
+ 
+ Total 
+ 943,370 
+ 71,942 
+ 73,467 
+ 66,537 
+ 119,026 
+ 994 
+ 1,266,366 
+
+8. Represents 52,452 shares of Common Stock issuable upon the exercise of options exercisable within 60 days
+of March 15, 2023. 
+
+9. Includes (a) 2,704,602 shares of Common Stock beneficially owned, (b) 689,468 shares of Common Stock issuable
+upon the exercise of options exercisable within 60 days of March 15, 2023, and (c) an aggregate of 425,000 shares of Common Stock issuable
+upon exercise of warrants exercisable within 60 days of March 15, 2023. The aforementioned includes 1,072,440 shares of Common Stock beneficially
+owned by Phoenix. Please see footnote 10 below for information concerning shares of Common Stock beneficially owned by Phoenix. Mr. Sassower
+and Mr. Goren are the co-managers of SG Phoenix Ventures LLC, which has the shared power to vote and dispose of the shares of Common Stock
+held by Phoenix and, accordingly, Mr. Sassower and Mr. Goren may be deemed to be the beneficial owner of the shares owned by Phoenix.
+SG Phoenix Ventures LLC, Mr. Sassower and Mr. Goren each disclaim beneficial ownership of the shares owned by Phoenix, except to the extent
+of their respective pecuniary interests therein. 
+
+10. SG Phoenix Ventures LLC is the Managing Member of Phoenix, with the power to vote and dispose of the shares
+of Common Stock held by Phoenix. Accordingly, SG Phoenix Ventures LLC may be deemed to be the beneficial owner of such shares. Andrea
+Goren is the co-manager of SG Phoenix Ventures LLC, has the shared power to vote and dispose of the shares of Common Stock held by Phoenix
+and, as such, may be deemed to be the beneficial owner of the common shares owned by Phoenix and by SG Phoenix LLC, of which he is a member.
+Philip Sassower is the co-manager of SG Phoenix Ventures LLC, has the shared power to vote and dispose of the shares of Common Stock held
+by Phoenix and, as such, may be deemed to be the beneficial owner of the common shares owned by Phoenix and by SG Phoenix LLC, of which
+he is a member. SG Phoenix Ventures LLC, Mr. Goren and Mr. Sassower each disclaim beneficial ownership of the shares owned by Phoenix,
+and Mr. Goren and Mr. Sassower each disclaim beneficial ownership of the shares owned by SG Phoenix LLC, except to the extent of their
+respective pecuniary interests therein. The address of these stockholders is 70 East 55 th Street, 10 th Floor, New
+York, NY 10022. 
+
+Phoenix 
+ Venture 
+ Fund LLC 
+ SG Phoenix 
+ LLC 
+ Total 
+ 
+ Common shares 
+ 841,651 
+ 230,789 
+ 1,072,440 
+
+27 
+
+Equity Compensation Plan Information 
+
+The following table provides
+information as of December 31, 2022, regarding our compensation plans (including individual compensation arrangements) under which equity
+securities are authorized for issuance: 
+
+Number of 
+ Securities 
+ To Be Issued Upon 
+ Exercise of 
+
+ Outstanding 
+ Options 
+and Rights 
+ Weighted-Average 
+ Exercise 
+Price Of 
+ Outstanding 
+ Options
+ 
+and Rights 
+ Number of Securities 
+ Remaining Available 
+For Future
+ Issuance 
+ Under Equity 
+ Compensation Plans 
+ 
+ Equity Compensation Plans Approved by Security Holders 
+
+2011 Stock Compensation Plan (1) 
+ 1,296,984 
+ 0.59 
+ 452,966 
+
+1. There are 1,000 shares held in the 2011 Stock Compensation
+Plan not approved by the Security holders. 
+
+Item 13. Certain
+Relationships and Related Transactions, and Director Independence 
+
+Procedures for Approval
+of Related Person Transactions 
+
+In
+accordance with our Code of Business Conduct and Ethics, we submit all proposed transactions involving our officers and directors and
+related parties, and other transactions involving conflicts of interest, to the Board of Directors or the Audit Committee for approval.
+Each of the related party transactions listed below that were submitted to our board were approved by a disinterested majority of our
+Board of Directors after full disclosure of the interest of the related party in the transaction. 
+
+Director Independence 
+
+The
+Board of Directors has determined that Messrs. Gilbert, Holtmeier, Elenio and Welch are independent, as defined under the
+rules of the NASDAQ Stock Market relating to director independence, and Messrs. Sassower, Engmann and Goren are not independent under
+such rules. Messrs. Welch, Gilbert, and Holtmeier serve on the Compensation Committee of the Board of Directors. Each of the members of
+the Compensation Committee is independent under the rules of the NASDAQ Stock Market relating to director independence. Messrs. Welch,
+Elenio and Holtmeier serve on the Audit Committee of the Board of Directors. Under the applicable rules of the NASDAQ Stock Market
+and the SEC relating to independence of Audit Committee members, the Board of Directors has determined that Messrs. Welch, Holtmeier and
+Elenio are independent. 
+
+28 
+
+Related Party Transactions 
+
+Phoenix is the beneficial
+owner of approximately 16.9 of the Common Stock of the Company when calculated in accordance with Rule 13d-3 
+
+On April 20, 2022, the Company
+issued an aggregate of 70 in unsecured convertible notes to related parties. The unsecured notes are convertible by the holder into common
+stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000 in aggregate proceeds, the Company can
+force conversion at a price equal to the lesser of 1.00 per share or the price per share of the new financing. The notes bear interest
+at the rate of 10 per annum and are due December 31, 2022. 
+
+On November 2022, the Company
+issued an aggregate of 35 in unsecured convertible notes to related parties. The unsecured notes are convertible by the holder into common
+stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000 in aggregate proceeds, the Company can
+force conversion at a price equal to the lesser of 1.00 per share or the price per share of the new financing. The notes bear interest
+at the rate of 10 per annum and are due December 31, 2023. 
+
+On December 2022, the Company
+issued an aggregate of 35 in unsecured convertible notes to related parties. and 37 to other investors. The unsecured notes are convertible
+by the holder into common stock at any time at a price per share of 1.00. Upon closing a new financing of at least 1,000 in aggregate
+proceeds, the Company can force conversion at a price equal to the lesser of 1.00 per share or the price per share of the new financing.
+The notes bear interest at the rate of 10 per annum and are due December 31, 2023. 
+
+There were no
+stock option grants to affiliates of the Company during the twelve months ended December 31, 2022. 
+
+Debt discount amortization
+associated with the Company s indebtedness for the years ended December 31, 2022, and 2021, was 0 and 0, respectively, of which
+ 0 and 0, respectively, was related party expense. 
+
+Interest expense associated
+with the Company s indebtedness for the years ended December 31, 2022, and 2021, was 372 and 267 respectively, of which 161 and
+ 122, respectively, was related party expense. 
+
+Item 14. Principal Accounting Fees and Services 
+
+Audit and other Fees. M K, PLLC has been the
+Company s auditors since June 2020. Armanino LLP was the Company s auditors since from August 2014. During fiscal years 2022
+and 2021, the fees for audit and other services performed by M K PLLC and Armanino LLP for the Company were as follows: 
+
+M K PLLC 
+ Armanino LLP 
+ 
+ Nature of Service 
+ 2022 
+ 2021 
+ 2022 
+ 2021 
+ 
+ Audit Fees 
+ 25,000 
+ 60 
+ 9,000.00 
+ 38 
+
+Audit-related Fees 
+ 16,500 
+ 40 
+ 15,000.00 
+ 63 
+
+3,775.00 
+ 19 
+ 
+ Tax Fees 
+
+15,965.00 
+ 96 
+ 14,500.00 
+ 72 
+ 
+ All Other Fees 
+
+690.00 
+ 4 
+ 1,795.00 
+ 9 
+ 
+ Total 
+ 41,500 
+ 100 
+ 24,000.00 
+ 100 
+ 16,655.00 
+ 100 
+ 20,070.00 
+ 100 
+
+Pre-Approval Policies. 
+
+It is the policy of the Company
+not to enter into any agreement with its auditors to provide any non-audit services unless (a) the agreement is approved in advance by
+the Audit Committee or (b) (i) the aggregate amount of all such non-audit services constitutes no more than 5 of the total amount the
+Company pays to the auditors during the fiscal year in which such services are rendered, (ii) such services were not recognized by the
+Company as constituting non-audit services at the time of the engagement of the non-audit services and (iii) such services are promptly
+brought to the attention of the Audit Committee and prior to the completion of the audit are approved by the Audit Committee or by one
+or more members of the Audit Committee who are members of the board of directors to whom authority to grant such approvals has been delegated
+by the Audit Committee. The Audit Committee will not approve any agreement in advance for non-audit services unless (x) the procedures
+and policies are detailed in advance as to such services, (y) the Audit Committee is informed of such services prior to commencement and
+(z) such policies and procedures do not constitute delegation of the Audit Committee s responsibilities to management under the
+Exchange Act. 
+
+The Audit Committee has considered
+whether the provision of non-audit services has impaired the independence of M K PLLC and Armanino LLP and has concluded that both
+M K PLLC and Armanino LLP were independent under applicable SEC and NASDAQ rules and regulations. 
+
+29 
+
+PART IV 
+
+Item 15. Exhibits, Financial Statement Schedules. 
+
+(a) The following documents are filed as part of this Annual
+Report on Form 10-K: 
+
+(1) Financial Statements 
+
+Index to Financial Statements 
+
+Page (a)(1) Financial Statements Report of Independent Registered Public Accounting Firm PCAOB ID F-1 Consolidated Balance Sheets at December 31, 2022, 2021 F-2 Consolidated Statements of Operations for the years ended December 31, 2022, 2021 F-3 Consolidated Statements of Comprehensive Loss for the years ended December 31, 2022, 2021 F-4 Consolidated Statements of Changes in Deficit for the years ended December 31, 2022, 2021 F-5 Consolidated Statements of Cash Flows for the years ended December 31, 2022, 2021 F-6 Notes to Consolidated Financial Statements F-8 
+
+30 
+
+(2) Financial Statement Schedules 
+
+All schedules are omitted because they are not
+applicable, or the required information is shown in the financial statements or the notes thereto. 
+
+Exhibits 
+
+The exhibits required by Item 601 of Regulation
+S-K are listed in paragraph (b) below. 
+
+(b) Exhibits. 
+
+The following exhibits are filed herewith or are
+incorporated by reference to exhibits previously filed with the SEC as indicated below: 
+
+Exhibit 
+ Number 
+ 
+ Document 
+ 
+ 3.1 
+ 
+ Certificate of Incorporation of the Company, as amended, incorporated herein by reference to Exhibits 3.1, 3.2, 3.3 and 3.4 to the Company s Registration Statement on Form 10 (File No. 000-19301). 
+ 
+ 3.2 
+ 
+ Certificate of Amendment to the Company s Certificate of Incorporation (authorizing the reclassification of the Class A Common Stock and Class B Common Stock into one class of Common Stock) filed with the Delaware Secretary of State on November 1, 1991, incorporated herein by reference to Exhibit 3 to Amendment 1 on Form 8 to the Company s Form 8-A (File No. 000-19301). 
+ 
+ 3.3 
+ 
+ Certificate of Amendment to the Company s Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State June 12, 1998, incorporated herein by reference to Exhibit 10.24 to the Company s 1998 Form 10-K filed on April 6, 1999. 
+ 
+ 3.4 
+ 
+ By-laws of the Company adopted on October 6, 1986, incorporated herein by reference to Exhibit 3.5 to the Company s Registration Statement on Form 10 (File No. 000-19301). 
+ 
+ 3.5 
+ 
+ Certificate of Amendment to the Company s Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State January 24, 2001, incorporated herein by reference to Exhibit 3.5 to the Company s Registration Statement on Form S/1 filed on December 28, 2007. 
+ 
+ 3.6 
+ 
+ Certificate of Elimination of the Company s Certificate of Designation of the Series A Preferred Stock filed with the Delaware Secretary of State August 17, 2001, incorporated herein by reference to Exhibit 3.6 to the Company s Registration Statement on Form S/1 filed on December 28, 2007. 
+ 
+ 3.7 
+ 
+ Certificate of Amendment to the Company s Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State August 17, 2007, incorporated herein by reference to Exhibit 3.7 to the Company s Registration Statement on Form S/1 filed on December 28, 2007. 
+ 
+ 3.8 
+ 
+ Amended and Restated Certificate of Incorporation of the Company filed with the Delaware Secretary of State on May 18, 1995, incorporated herein by reference to Exhibit 3.2 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 3.9 
+ 
+ Certificate of Designations, Powers, Preferences and Rights of the Series A Cumulative Convertible Preferred Stock filed with the Delaware Secretary of State on June 4, 2008, incorporated herein by reference to Exhibit 4.23 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 3.10 
+ 
+ Certificate of Amendment to the Company s Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State on June 30, 2008, incorporated herein by reference to Exhibit 3.7 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 3.11 
+ 
+ Certificate of Designations, Powers, Preferences and Rights of the Series A-1 Cumulative Convertible Preferred Stock filed with the Delaware Secretary of State on October 30, 2008, incorporated herein by reference to Exhibit 3.11 to the Company s Annual Report on Form 10-K filed on March 12, 2009. 
+ 
+ 3.12 
+ 
+ Certificate of Elimination of the Company s Series A Cumulative Convertible Preferred Stock filed with the Delaware Secretary of State on December 30, 2008, incorporated herein by reference to Exhibit 3.12 to the Company s Annual Report on Form 10-K filed on March 12, 2009. 
+ 
+ 3.13 
+ 
+ Certificate of Amendment to the Company s Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State on June 30, 2009, incorporated herein by reference to Exhibit 3.13 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2009. 
+ 
+ 3.14 
+ 
+ Amendment No. 1 to By-laws dated June 17, 2010, incorporated herein by reference to Exhibit 3.14 to the Company s Quarterly Report on Form 10-Q filed on August 16, 2010. 
+ 
+ 3.15 
+ 
+ Certificate of Amendment to the Company s Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State on August 4, 2010, incorporated herein by reference to Exhibit 3.15 to the Company s Quarterly Report on Form 10-Q filed on November 12, 2010. 
+
+31 
+
+Exhibit 
+Number 
+ 
+ Document 
+ 
+ 3.16 
+ 
+ Amended and Restated Certificate of Designation of Series A-1 Cumulative Convertible Preferred Stock filed with the Delaware Secretary of State on August 4, 2010, incorporated herein by reference to Exhibit 3.16 to the Company s Quarterly Report on Form 10-Q filed on November 12, 2010. 
+ 
+ 3.17 
+ 
+ Certificate of Designation of Series B Participating Convertible Preferred Stock filed with the Delaware Secretary of State on August 4, 2010, incorporated herein by reference to Exhibit 3.17 to the Company s Quarterly Report on Form 10-Q filed on November 12, 2010. 
+ 
+ 3.18 
+ 
+ Certificate of Amendment to Amended And Restated Certificate of Incorporation filed with the Delaware Secretary of State on December 31, 2010, incorporated herein by reference to Exhibit 3.18 to the Company s Annual Report on Form 10-K filed on March 30, 2011. 
+ 
+ 3.19 
+ 
+ Second Amended and Restated Certificate of Designation of Series A-1 Cumulative Convertible Preferred Stock filed with the Delaware Secretary of State on December 31, 2010, incorporated herein by reference to Exhibit 3.19 to the Company s Annual Report on Form 10-K filed on March 30, 2011. 
+ 
+ 3.20 
+ 
+ Amended and Restated Certificate of Designation of Series B Participating Convertible Preferred Stock filed with the Delaware Secretary of State on December 31, 2010, incorporated herein by reference to Exhibit 3.20 to the Company s Annual Report on Form 10-K filed on March 30, 2011. 
+ 
+ 3.21 
+ 
+ Certificate of Designation of Series C Participating Convertible Preferred Stock filed with the Delaware Secretary of State on December 31, 2010, incorporated herein by reference to Exhibit 3.21 to the Company s Annual Report on Form 10-K filed on March 30, 2011. 
+ 
+ 3.22 
+ 
+ Amendment to the Amended And Restated Certificate of Designation of the Series B Participating Convertible Preferred Stock, incorporated herein by reference to Exhibit 10.59 to the Company s Current Report on Form 8-K filed March 31, 2011. 
+ 
+ 3.23 
+ 
+ Amendment to the Amended And Restated Certificate of Designation of the Series C Participating Convertible Preferred Stock, incorporated herein by reference to Exhibit 10.60 to the Company s Current Report on Form 8-K filed March 31, 2011. 
+ 
+ 3.24 
+ 
+ Certificate of Amendment to Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State on November 13, 2012, incorporated herein by reference to Appendix A to the Company s Definitive Proxy Statement filed on Schedule 14A on October 22, 2012. 
+ 
+ 3.25 
+ 
+ Third Amended and Restated Certificate of Designation of Series A-1 Cumulative Convertible Preferred Stock filed with the Delaware Secretary of State on November 13, 2012, incorporated herein by reference to Exhibit 3.25 to the Company s Form 10-K filed March 31, 2014. 
+ 
+ 3.26 
+ 
+ Second Amended and Restated Certificate of Designation of Series B Participating Convertible Preferred Stock filed with the Delaware Secretary of State on November 13, 2012, incorporated herein by reference to Exhibit 3.26 to the Company s Form 10-K filed March 31, 2014. 
+ 
+ 3.27 
+ 
+ Amended and Restated Certificate of Designation of Series C Participating Convertible Preferred Stock filed with the Delaware Secretary of State on November 13, incorporated herein by reference to Exhibit 3.27 to the Company s Form 10-K filed March 31, 2014. 
+ 
+ 3.28 
+ 
+ Certificate of Designation of Series D Convertible Preferred Stock filed with the Delaware Secretary of State on November 13, 2012, incorporated herein by reference to Exhibit 3.28 to the Company s Form 10-K filed March 31, 2014. 
+ 
+ 3.29 
+ 
+ Certificate of Amendment to Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State on December 10, 2013, incorporated herein by reference to Appendix A to the Company s Definitive Proxy Statement filed on Schedule 14A on November 1, 2013. 
+ 
+ 3.30 
+ 
+ Certificate of Amendment to Certificate of Designation of Series D Convertible Preferred Stock filed with the Delaware Secretary of State on December 31, 2013, incorporated herein by reference to Exhibit 3.30 to the Company s Form 10-K filed March 31, 2014. 
+ 
+ 3.31 
+ 
+ Certificate of Amendment to Amended and Restated Certificate of Incorporation filed with the Delaware Secretary of State on December 16, 2014, incorporated herein by reference to Appendix A to the Company s Definitive Proxy Statement filed on Schedule 14A on October 17, 2014. 
+
+32 
+
+Exhibit 
+Number 
+ 
+ Document 
+ 
+ 3.32 
+ 
+ Certificate of Amendment to Certificate of Designation of Series D Convertible Preferred Stock filed with the Delaware Secretary of State on March 24, 2015, incorporated herein by reference to Exhibit 3.32 to the Company s Quarterly Report on Form 10-Q filed May 15, 2015. 
+ 
+ 3.33 
+ 
+ Certificate of Amendment to the Company s Third Amended and Restated Certificate of Designation of Series A-1 Cumulative Convertible Preferred Stock filed with Secretary of State of the State of Delaware on May 18, 2016, incorporated herein by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed May 16, 2016. 
+ 
+ 3.34 
+ 
+ Certificate of Amendment to the Company s Second Amended and Restated Certificate of Designation of Series B Participating Convertible Preferred Stock filed with Secretary of State of the State of Delaware on May 18, 2016, incorporated herein by reference to Exhibit 3.2 to the Company s Current Report on Form 8-K filed May 16, 2016. 
+ 
+ 3.35 
+ 
+ Certificate of Amendment to the Company s Amended and Restated Certificate of Designation of Series C Participating Convertible Preferred Stock filed with Secretary of State of the State of Delaware on May 18, 2016, incorporated herein by reference to Exhibit 3.3 to the Company s Current Report on Form 8-K filed May 16, 2016. 
+ 
+ 3.36 
+ 
+ Certificate of Amendment to the Company s Certificate of Designation of Series D Convertible Preferred Stock filed with Secretary of State of the State of Delaware on May 18, 2016, incorporated herein by reference to Exhibit 3.4 to the Company s Current Report on Form 8-K filed May 16, 2016. 
+ 
+ 3.37 
+ 
+ Certificate of Amendment to the Company s Certificate of Designation of Series D Convertible Preferred Stock filed with Secretary of State of the State of Delaware on May 18, 2016, incorporated herein by reference to Exhibit 3.5 to the Company s Current Report on Form 8-K filed May 16, 2016. 
+ 
+ 4.10 
+ 
+ 1999 Stock Option Plan, as amended, incorporated herein by reference to Exhibit 4.2 to the Company s Form S-8 filed on September 19, 2008. 
+ 
+ 4.11 
+ 
+ Form of Convertible Promissory Note issued by the Company, incorporated herein by reference to Exhibit 10.3 to the Company s Form 8-K filed on November 3, 2004. 
+ 
+ 4.12 
+ 
+ Form of Warrant issued by the Company, incorporated herein by reference to Exhibit 10.4 to the Company s Form 8-K filed on November 3, 2004. 
+ 
+ 4.13 
+ 
+ Form of Promissory Note issued by the Company, incorporated herein by reference to Exhibit 10.36 to the Company s Form 8-K filed on August 12, 2006. 
+ 
+ 4.14 
+ 
+ Form of Warrant issued by the Company, incorporated herein by reference to Exhibit 10.37 to the Company s Form 8-K filed on August 12, 2006. 
+ 
+ 4.15 
+ 
+ Form of Promissory Note issued by the Company, incorporated herein by reference to Exhibit 10.36 to the Company s Form 8-K filed on February 9, 2007. 
+ 
+ 4.16 
+ 
+ Form of Warrant issued by the Company, incorporated herein by reference to Exhibit 10.37 to the Company s Form 8-K filed on February 9, 2007. 
+ 
+ 4.17 
+ 
+ Form of Promissory Note issued by the Company, incorporated herein by reference to Exhibit 10.36 to the Company s Form 8-K filed on June 20, 2007. 
+ 
+ 4.18 
+ 
+ Form of Warrant issued the Company, incorporated herein by reference to Exhibit 10.37 to the Company s Form 8-K filed on June 20, 2007. 
+ 
+ 4.19 
+ 
+ Form of Common Stock Purchase Warrant issued by the Company, incorporated herein by reference to Exhibit 4.19 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 4.20 
+ 
+ Form of Additional Common Stock Purchase Warrant, incorporated herein by reference to Exhibit 4.20 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 4.21 
+ 
+ Form of Secured Promissory Note issued by the Company dated June 5, 2008, incorporated herein by reference to Exhibit 4.21 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008 . 
+
+33 
+
+Exhibit 
+ Number 
+ 
+ Document 
+ 
+ 4.22 
+ 
+ Form of Additional Secured Promissory Note, incorporated herein by reference to Exhibit 4.22 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 4.23 
+ 
+ Certificate of Designations, Powers, Preferences and Rights of the Series A-1 Cumulative Convertible Preferred Stock filed with the Delaware Secretary of State on October 30, 2008, incorporated herein by reference to Exhibit 4.23 to the Company s Annual Report on Form 10-K filed on March 12, 2009. 
+ 
+ 4.24 
+ 
+ Form of Secured Promissory Note issued by the Company dated May 28, 2009, incorporated herein by reference to Exhibit 4.24 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2009. 
+ 
+ 4.25 
+ 
+ Form of Additional Secured Promissory Note, incorporated herein by reference to Exhibit 4.25 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2009. 
+ 
+ 4.26 
+ 
+ Form of Common Stock Purchase Warrant issued by the Company, incorporated herein by reference to Exhibit 4.26 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2009. 
+ 
+ 4.27 
+ 
+ Form of Additional Common Stock Purchase Warrant, incorporated herein by reference to Exhibit 4.27 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2009. 
+ 
+ 4.28 
+ 
+ Description of the Registrant s Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934, incorporated herein by reference to Exhibit 4.28 to the Company s Annual Report on Form 10-K filed on March 31, 2022. 
+ 
+ 10.24 
+ 
+ Form of Note and Warrant Purchase Agreement dated October 28, 2004, by and among the Company and the Purchasers identified therein, incorporated herein by reference to Exhibit 10.1 to the Company s Form 8-K filed on November 3, 2004. 
+ 
+ 10.25 
+ 
+ Form of Registration Rights Agreement dated October 28, 2004, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 10.2 to the Company s Form 8-K filed on November 3, 2004. 
+ 
+ 10.26 
+ 
+ Form of Note and Warrant Purchase Agreement dated August 10, 2006, by and among the Company and the Purchasers identified therein, incorporated herein by reference to Exhibit 10.34 to the Company s Form 8-K filed on August 12, 2006. 
+ 
+ 10.27 
+ 
+ Form of Registration Rights Agreement dated August 10, 2006, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 10.35 to the Company s Form 8-K filed on August 12, 2006. 
+ 
+ 10.28 
+ 
+ Amendment dated May 31, 2005 to the License agreement dated December 22, 2000 between the Company and eCom Asia Pacific, Ltd., incorporated by reference to Exhibit 10.26 of the Company s Form 10-K/A filed on September 15, 2005. 
+ 
+ 10.36 
+ 
+ Form of Note and Warrant Purchase Agreement dated February 5, 2007, by and among the Company and the Purchasers identified therein, incorporated herein by reference to Exhibit 10.34 to the Company s Form 8-K filed on February 5, 2007. 
+ 
+ 10.37 
+ 
+ Form of Registration Rights Agreement dated February 5, 2007, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 10.35 to the Company s Form 8-K filed on February 5, 2007. 
+ 
+ 10.38 
+ 
+ Amendment to the Note and Warrant Purchase Agreement dated February 5, 2007, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 99.1 to the Company s Form 8-K filed on March 15, 2007. 
+ 
+ 10.39 
+ 
+ Form of Note and Warrant Purchase Agreement dated June 15, 2007, by and among the Company and the Purchasers identified therein, incorporated herein by reference to Exhibit 10.34 to the Company s Form 8-K filed on June 15, 2007. 
+ 
+ 10.40 
+ 
+ Form of Registration Rights Agreement dated June 15, 2007, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 10.35 to the Company s Form 8-K filed on June 15, 2007. 
+ 
+ 10.41 
+ 
+ Form of Securities Purchase and Registration Rights Agreement dated August 24, 2007, by and among the Company and Phoenix Venture Fund LLC, incorporated herein by reference to Exhibit 10.36 to the Company s Form 8-K filed on August 27, 2007. 
+
+34 
+
+Exhibit 
+
+Number 
+ 
+ Document 
+ 
+ 10.42 
+ 
+ Consulting Agreement dated January 9, 2008 between the Company and GS Meyer Associates LLC - Incorporated by reference to Exhibit 10.42 to the Company s Annual Report on Form 10-K filed on March 12, 2007. 
+ 
+ 10.43 
+ 
+ Credit Agreement dated June 5, 2008, by and among the Company and the Lenders Party Hereto and SG Phoenix as Collateral Agent, incorporated herein by reference to Exhibit 10.41 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 10.44 
+ 
+ Pledge and Security Agreement dated June 5, 2008, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 10.42 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 10.45 
+ 
+ Securities Purchase Agreement dated June 5, 2008, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 10.43 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2008. 
+ 
+ 10.46 
+ 
+ Amendment No. 1 to Credit Agreement dated May 28, 2009, by and among the Company, the Lenders and Additional Lenders Parties Hereto and SG Phoenix as Collateral Agent, incorporated herein by reference to Exhibit 10.46 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2009. 
+ 
+ 10.47 
+ 
+ Amendment No. 1 to Registration Rights Agreement dated May 28, 2009, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 10.47 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2009. 
+ 
+ 10.48 
+ 
+ Salary Reduction Plan for Executive Officers of Communication Intelligence Corporation under Amendment No. 1 to Credit Agreement dated May 28, 2009, incorporated herein by reference to Exhibit 10.48 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2009. 
+ 
+ 10.53 
+ 
+ Amendment No. 3 to Credit Agreement dated July 22, 2010, by and among the Company, the Lenders and Additional Lenders Parties Hereto and SG Phoenix as Collateral Agent, incorporated herein by reference to Exhibit 10.53 to the Company s Quarterly Report on Form 10-Q filed on November 12, 2010. 
+ 
+ 10.54 
+ 
+ Amendment No. 3 to Registration Rights Agreement dated July 22, 2010, by and among the Company and the parties identified therein, incorporated herein by reference to Exhibit 10.54 to the Company s Quarterly Report on Form 10-Q filed on November 12, 2010. 
+ 
+ 10.55 
+ 
+ Registration Rights Agreement dated August 5, 2010, by and among the Company and the Persons Executing the Agreement as Investors, incorporated herein by reference to Exhibit 10.55 to the Company s Quarterly Report on Form 10-Q filed on November 12, 2010. 
+ 
+ 10.56 
+ 
+ Investor Rights Agreement dated August 5, 2010, by and among the Company and Phoenix Venture Fund LLC, SG Phoenix LLC, Michael Engmann, Ronald Goodman, Kendu Partners Company and MDNH Partners L.P., incorporated herein by reference to Exhibit 10.56 to the Company s Quarterly Report on Form 10-Q filed on November 12, 2010. 
+ 
+ 10.57 
+ 
+ Securities Purchase Agreement dated December 9, 2010, by and among the Company, Phoenix Venture Fund LLC, and the Investors signatory thereto, incorporated herein by reference to Exhibit 10.57 to the Company s Current Report on Form 8-K filed on December 9, 2010. 
+ 
+ 10.58 
+ 
+ Registration Rights Agreement dated December 31, 2010, by and among the Company and the Persons Executing the Agreement as Investors, incorporated herein by reference to Exhibit 10.58 to the Company s Current Report on Form 8-K filed on January 6, 2011. 
+ 
+ 10.59 
+ 
+ Form of Subscription Agreement dated March 31, 2011, by and among the Company and the Person Executing the Agreement as Subscribers, incorporated herein by reference to Exhibit 10.61 to the Company s Current Report on Form 8-K filed on April 4, 2011. 
+ 
+ 10.60 
+ 
+ Amendment No. 1 to Registration Rights Agreement dated March 31, 2011, by and among the Company and the Persons Executing the Agreement as Required Holders, incorporated herein by reference to Exhibit 10.62 to the Company s Current Report on Form 8-K filed on April 4, 2011. 
+ 
+ 10.61 
+ 
+ Note and Warrant Purchase Agreement dated September 20, 2011, incorporated herein by reference to Exhibit 10.61 to the Company s Quarterly Report on Form 10-Q filed on November 14, 2011. 
+
+35 
+
+Exhibit 
+ Number 
+
+Document 
+ 
+ 10.62 
+ 
+ Note and Warrant Purchase Agreement dated December 2, 2011, incorporated herein by reference to Exhibit 10.62 to the Company s Annual Report on Form 10-K filed on March 30, 2012. 
+ 
+ 10.63 
+ 
+ Note and Warrant Purchase Agreement dated April 23, 2012, incorporated herein by reference to Exhibit 10.63 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2012. 
+ 
+ 10.64 
+ 
+ Form of Subscription Agreement dated September 14, 2012, incorporated herein by reference to Exhibit 10.64 to the Company s Quarterly Report on Form 10-Q filed on November 14, 2012. 
+ 
+ 10.65 
+ 
+ Form of Unsecured Convertible Promissory Note dated September 14, 2012, incorporated herein by reference to Exhibit 10.65 to the Company s Quarterly Report on Form 10-Q filed on November 14, 2012. 
+ 
+ 10.66 
+ 
+ Form of Subscription Agreement dated May 17, 2013, incorporated herein by reference to Exhibit 10.66 to the Company s Quarterly Report on Form 10-Q filed on August 14, 2013. 
+ 
+ 10.67 
+ 
+ Form of Subscription Agreement dated December 31, 2013, incorporated herein by reference to Exhibit 10.67 to the Company s Form 10-K filed March 31, 2014. 
+ 
+ 10.68 
+ 
+ Credit Agreement with Venture Champion Asia Limited dated May 6, 2014, incorporated herein by reference to Exhibit 10.68 to the Company s Form 10-Q filed August 15, 2014. 
+ 
+ 10.69 
+ 
+ Form of Subscription Agreement dated August 5, 2014, incorporated herein by reference to Exhibit 10.69 to the Company s Form 10-K filed March 31, 2015. 
+ 
+ 10.70 
+ 
+ Form of Subscription Agreement dated March 24, 2015, incorporated herein by reference to Exhibit 10.70 to the Company s Quarterly Report on Form 10-Q filed May 15, 2015. 
+ 
+ 10.71 
+ 
+ Form of Subscription Agreement dated July 23, 2015, incorporated herein by reference to Exhibit 10.71 to the Company s Quarterly Report on Form 10-Q filed November 16, 2015. 
+ 
+ 10.72 
+ 
+ Note and Warrant Purchase Agreement dated November 3, 2016, incorporated herein by reference to Exhibit 10.72 to the Company s Quarterly Report on Form 10-Q filed August 14, 2017. 
+ 
+ 10.73 
+ 
+ Form of Unsecured Convertible Promissory Note dated November 3, 2016, incorporated herein by reference to Exhibit 10.73 to the Company s Quarterly Report on Form 10-Q filed August 14, 2017. 
+ 
+ 10.74 
+ 
+ Note Purchase Agreement dated May 23, 2017, incorporated herein by reference to Exhibit 10.74 to the Company s Quarterly Report on Form 10-Q filed August 14, 2017. 
+ 
+ 10.75 
+ 
+ Form of Secured Convertible Promissory Note dated May 23, 2017, incorporated herein by reference to Exhibit 10.75 to the Company s Quarterly Report on Form 10-Q filed August 14, 2017. 
+ 
+ 14.1 
+ 
+ Code of Ethics, incorporated by reference to Exhibit 14 to the Company s Annual Report on Form 10-K filed on March 30, 2004. 
+ 
+ 21.1 
+ 
+ Schedule of Subsidiaries. 
+ 
+ 31.1 
+ 
+ Certification of Company s Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 31.2 
+ 
+ Certificate of Company s Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.1 
+ 
+ Certification of Chief Executive Officer pursuant to 18 USC Section 1750, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.2 
+ 
+ Certification of Chief Financial Officer pursuant to 18 USC Section 1750, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema
+ Document 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation
+ Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition
+ Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase
+ Document 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation
+ Linkbase Document 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+
+Filed herewith. 
+
+Indicates management contract or compensatory plan, contract or arrangement. 
+
+Confidential treatment of certain portions of this exhibit have been requested from the SEC pursuant to
+a request for confidentiality dated March 30, 1999, filed pursuant to the Exchange Act. 
+
+Confidential treatment of certain portions of this exhibit have been requested from the SEC pursuant
+ to a request for confidentiality dated March 30, 2006 filed pursuant to the Exchange Act. 
+
+The exhibits listed above are filed
+as part of this Form 10-K other than Exhibits 32.1 and 32.2, which shall be deemed furnished. 
+
+(c) Financial
+Statement Schedules 
+
+All financial statement
+schedules are omitted because the information is inapplicable or presented in the notes to the financial statements. 
+
+36 
+
+SIGNATURES 
+
+Pursuant to the requirements
+of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned; thereunto duly authorized, in the City of Redwood Shores, State of California. 
+
+iSign Solutions
+Inc. 
+
+By: 
+ /s/ Michael
+ Engmann 
+
+Michael Engmann 
+
+(Principal Financial Officer and Officer Duly Authorized to Sign on Behalf of the Registrant) 
+
+Date: March 31, 2023 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of Registrant and in the
+capacities indicated on March 31, 2023. 
+
+Date 
+ 
+ Signature 
+ 
+ Title 
+
+March 31, 2023 
+ 
+ /s/ Philip S. Sassower 
+ 
+ Co-Chairman and Chief Executive Officer 
+
+Philip S. Sassower 
+ 
+ (Principal Executive Officer) 
+
+March 31, 2023 
+ 
+ /s/ Michael Engmann 
+ 
+ Co-Chairman, Chief Operating Officer, and 
+ Chief Financial Officer 
+
+Michael Engmann 
+ 
+ (Principal Financial and Accounting Officer) 
+
+March 31, 2023 
+ 
+ /s/ Andrea Goren 
+ 
+ Director 
+
+Andrea Goren 
+
+March 31, 2023 
+ 
+ /s/ Francis J. Elenio 
+ 
+ Director 
+
+Francis J. Elenio 
+
+March 31, 2023 
+ 
+ /s/ Stanly Gilbert 
+ 
+ Director 
+
+Stanley Gilbert 
+
+March 31, 2023 
+ 
+ /s/ Jeffrey Holtmeier 
+ 
+ Director 
+
+Jeffrey Holtmeier 
+
+March 31, 2023 
+ 
+ /s/ David Welch 
+ 
+ Director 
+
+David Welch 
+
+37 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Board of Directors and 
+Shareholders of iSign Solutions, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated
+balance sheets of iSign Solutions, Inc. (the Company) as of December 31, 2022, and 2021, and the related consolidated statements of operations,
+comprehensive loss, changes in stockholders deficit, and cash flows for each of the years then ended and the related notes to the
+consolidated financial statements. In our opinion, the consolidated financial statements present fairly, in all material respects, the
+financial position of the Company as of December 31, 2022, and 2021, and the results of its operations and its cash flows for each of
+the years then ended in conformity with accounting principles generally accepted in the United States of America. 
+
+Going Concern 
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has
+suffered net losses from operations since inception and has an accumulated deficiency, which raises substantial doubt about its ability
+to continue as a going concern. Management s plans regarding those matters are discussed in Note 1. The financial statements do
+not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matter communicated below is
+a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the
+audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the
+financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions
+on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Revenue Transactions and Recognition 
+
+Auditing the Company s
+treatment of revenue required significant judgment regarding the application of ASC 606 revenue recognition criteria. 
+
+Auditing management s evaluation
+of agreements with customers involves significant judgment, given the fact that contracts require management s evaluation and application
+of ASC 606 such as allocating the standalone transactions prices of the company s performance obligations to contracts with customers.
+
+To evaluate the appropriateness
+and accuracy of the assessment by management, we evaluated management s assessment in relationship to the relevant agreements. 
+
+/s/ 
+
+We have served as the Company s auditor since 2020. 
+
+March 31, 2023 
+
+F- 1 
+
+iSign Solutions Inc. 
+
+Consolidated Balance Sheets 
+
+(In thousands, except par value amounts) 
+
+December 31, 
+
+2022 
+ 2021 
+ 
+ Assets 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Accounts receivable, net of allowance of and at December 31, 2022, and 2021, respectively 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Property and equipment, net 
+
+Other assets 
+
+Total assets 
+
+Liabilities and Stockholders Deficit 
+
+Current liabilities: 
+
+Accounts payable 
+
+Short term debt related party 
+
+Short-term debt other 
+
+Accrued compensation 
+
+Deferred compensation 
+
+Other accrued liabilities 
+
+Deferred revenue 
+
+Total current liabilities 
+
+Long-term debt other 
+
+Other long-term liabilities 
+
+Total liabilities 
+
+Commitments and contingencies (Note 8) 
+
+Stockholders deficit: 
+
+Common stock, par value; shares authorized; issued and outstanding at December 31, 2022, and at December 31, 2021, 
+
+Treasury shares, at December 31, 2022and December 31, 2021, respectively 
+
+Additional paid-in-capital 
+
+Accumulated deficit 
+
+Total stockholders deficit 
+
+Total liabilities and stockholders deficit 
+
+See accompanying notes to these Consolidated Financial
+Statements 
+
+F- 2 
+
+iSign Solutions Inc. 
+
+Consolidated Statements of Operations 
+
+(In thousands, except per share amounts) 
+
+Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ Revenue: 
+
+Product 
+
+Maintenance 
+
+Total revenue 
+
+Operating costs and expenses: 
+
+Cost of sales: 
+
+Product 
+
+Maintenance 
+
+Research and development 
+
+Sales and marketing 
+
+General and administrative 
+
+Total operating costs and expenses 
+
+Loss from operations 
+
+Other income, net 
+
+Interest expense: 
+
+Related party 
+
+Other 
+
+Loss before income tax 
+
+Income tax expense 
+
+Net loss 
+
+Basic and diluted loss per common share
+
+Weighted average common shares outstanding, basic and diluted
+
+See accompanying notes to these Consolidated Financial
+Statements 
+
+F- 3 
+
+iSign Solutions Inc. 
+
+Consolidated Statements of Comprehensive Loss 
+
+(In thousands) 
+
+Years Ended December 31, 
+
+2022 
+ 2021 
+
+Net loss: 
+
+Other comprehensive income, net of tax 
+
+Total comprehensive loss 
+
+See accompanying notes to these Consolidated Financial
+Statements 
+
+F- 4 
+
+iSign Solutions Inc. 
+
+Consolidated Statement of Changes in Stockholders 
+Deficit 
+
+(In thousands) 
+
+Additional 
+ 
+ Total 
+
+Common Stock 
+ Treasury Stock 
+ Paid-in 
+ Accumulative 
+ Stockholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Equity 
+ 
+ Balance December 31, 2020 
+
+Stock based compensation 
+
+Settlement of deferred salary 
+
+Net loss 
+
+Balance December 31, 2021 
+
+Stock based compensation 
+
+Cashless exercise of warrants 
+
+Net loss 
+
+Balance December 31, 2022 
+
+See accompanying notes to these Consolidated Financial
+Statements 
+
+F- 5 
+
+iSign Solutions Inc. 
+
+Consolidated Statements of Cash Flows 
+
+(In thousands) 
+
+December 31, 
+
+2022 
+ 2021 
+
+Cash flows from operating activities: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation 
+
+Stock-based compensation 
+
+Forgiveness of debt related to Paycheck Protection Program plus accrued interest 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable, net 
+
+Prepaid expenses and other current assets 
+
+Accounts payable 
+
+Accrued compensation 
+
+Other accrued liabilities 
+
+Deferred revenue 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities: 
+
+Acquisition of property and equipment 
+
+Net cash used in investing activities 
+
+Cash flows from financing activities: 
+
+Proceeds from issuance of short-term debt related party 
+
+Proceeds from issuance of short-term debt other 
+
+Proceeds from advances on accounts receivable related party 
+
+Payment of advances on accounts receivable related party 
+
+Payment of advances on accounts receivable other 
+
+Net cash provided by financing activities 
+
+Net increase (decrease) in cash and cash equivalents 
+
+Cash and cash equivalents at beginning of period 
+
+Cash and cash equivalents at end of period 
+
+See accompanying notes to these Consolidated Financial
+Statements 
+
+F- 6 
+
+iSign Solutions Inc. 
+
+Consolidated Statements of Cash Flows (continued) 
+
+(In thousands) 
+
+Supplemental disclosure of cash flow
+information: 
+
+December 31, 
+
+2022 
+ 2021 
+
+Supplementary disclosure of cash flow information 
+
+Interest paid 
+
+Income taxes paid 
+
+Accounts receivable advance converted to convertible note 
+
+Non-cash financing and investing transactions 
+
+Long-term deferred compensation settled for Common Stock 
+
+See accompanying notes to these Consolidated Financial
+Statements 
+
+F- 7 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+. The Company has
+primarily met its working capital needs through the sale of debt and equity securities. As of December 31, 2022, the Company s cash
+balance was . These factors raise substantial doubt about the Company s ability to continue as a going concern. 
+
+F- 8 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+F- 9 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+Cash and cash equivalents 
+
+F- 10 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+to years. Leasehold improvements are amortized over their estimated useful lives, not to exceed the term of the related
+lease. The cost of additions and improvements is capitalized while maintenance and repairs are charged to expense as incurred. Depreciation
+expense was and for the years ended December 31, 2022, and 2021, respectively. 
+
+F- 11 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+of revenue that was included in deferred revenue at the beginning
+of the period. 
+
+F- 12 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+F- 13 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+Common Stock subject to outstanding warrants 
+
+Common stock subject to outstanding convertible debt plus accrued interest 
+
+F- 14 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+Customer #2 
+
+Customer #3 
+
+Customer #4 
+
+Total concentration 
+
+Sales outside of the United States 
+
+Total 
+
+Less accumulated depreciation and amortization 
+
+F- 15 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+Delaware Franchise tax 
+
+Other 
+
+Total 
+
+Other long term liabilities 
+
+Total 
+
+Short-term debt other 
+
+in cash. The notes bear interest at the rate of per annum.
+Principal and interest due shall be paid in full on demand, following ten (10) calendar day prior written notices starting on March 15,
+2022. These notes may be prepaid in whole or in part at any time without penalty, premium or other consideration by giving at least five
+(5) business day prior written notice to the Holder. 
+
+and , respectively, of accounts receivable advances from related parties along with of accrued advance
+fees. In addition, during February 2022, the Company repaid of demand notes to an unrelated party along with of accrued fees. 
+
+in cash against certain accounts receivable of the Company. Upon collection of
+an invoice, the Company agreed to repay the advance to the lenders on a pro rata basis together with a advance fee. 
+
+F- 16 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+in unsecured notes, to related parties and to other investors. The Company received in
+cash and in exchange for an account receivable advance, received in the prior year, from related parties, and in cash from other
+investors. The unsecured notes are convertible by the holder into common stock at any time at a price per share of . Upon closing
+a new financing of at least in aggregate proceeds, the Company can force conversion at a price equal to the lesser of per
+share or the price per share of the new financing. The notes bear interest at the rate of per annum and are due December 31, 2022. 
+
+plus accrued interest of of a note entered into associated with a settlement agreement
+dated July 1, 2020, with one of its vendors. The remaining plus interest at the rate of per annum is due in two installments, June
+of 2022 and June of 2023. 
+
+in other income on the Statement of Operations related to the forgiveness of the debt plus
+accrued interest. 
+
+of other
+income on the Statement of Operations related to the forgiveness of the debt plus accrued interest. 
+
+in cash. The note bears interest at the rate of per annum and
+is due upon demand following ten calendar days prior written notice starting on January 1, 2022. 
+
+in cash and issued two notes in the amount of each to a related and an unrelated party. The notes bear interest at the
+rate of per annum and are due upon demand following ten calendar days prior written notice starting on March 29, 2022. 
+
+in
+cash and issued a note aggregating to a related party. The note bears interest at the rate of per annum and is due upon demand
+following ten calendar days prior written notice starting on March 29, 2022. 
+
+in cash. The notes bear interest at the rate of per annum.
+Principal and interest due shall be paid in full on demand, following ten (10) calendar day prior written notices starting on March 15,
+2022. These notes may be prepaid in whole or in part at any time without penalty, premium or other consideration by giving at least five
+(5) business day prior written notice to the Holder. The notes were repaid in full plus of accrued interest in February 2022. 
+
+plus accrued interest of of a note entered into associated with a settlement agreement
+dated July 1, 2020, with one of its vendors. The remaining plus interest at the rate of per annum is due in June of 2023. 
+
+in unsecured convertible notes, to related parties and to other investors. The unsecured
+notes are convertible by the holder into common stock at any time at a price per share of . Upon closing a new financing of at least
+ in aggregate proceeds, the Company can force conversion at a price equal to the lesser of per share or the price per share
+of the new financing. The notes bear interest at the rate of per annum and are due December 31, 2022. 
+
+F- 17 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+in unsecured convertible notes to other investors. The unsecured notes are convertible by the holder
+into common stock at any time at a price per share of . Upon closing a new financing of at least in aggregate proceeds, the
+Company can force conversion at a price equal to the lesser of per share or the price per share of the new financing. The notes
+bear interest at the rate of per annum and are due December 31, 2022. 
+
+in unsecured convertible notes, to related parties and to other investors. The unsecured
+notes are convertible by the holder into common stock at any time at a price per share of . Upon closing a new financing of at least
+ in aggregate proceeds, the Company can force conversion at a price equal to the lesser of per share or the price per share
+of the new financing. The notes bear interest at the rate of per annum and are due December 31, 2022. 
+
+in unsecured convertible notes, to related parties and to other investors. The unsecured
+notes are convertible by the holder into common stock at any time at a price per share of . Upon closing a new financing of at least
+ in aggregate proceeds, the Company can force conversion at a price equal to the lesser of per share or the price per share
+of the new financing. The notes bear interest at the rate of per annum and are due December 31, 2022. 
+
+of interest expense, associated with the notes, of which was to related
+parties and was to other investors. And for the twelve months ended December 31, 2021, the Company accrued of interest expense,
+ associated with the notes, of which was to related parties and was to other investors. 
+
+in debt discount amortization for the twelve months ended December 31, 2022 and 2021, related to the above debt financings . 
+
+Option vesting period 
+
+Date adopted by shareholders 
+
+Option term 
+ 
+ Years 
+ 
+ Options outstanding 
+
+Options exercisable 
+
+Weighted average exercise price 
+
+F- 18 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+Expected life (years) 
+
+Expected volatility 
+
+Expected dividends 
+
+Estimated average forfeiture rate 
+
+Director options and consultants 
+
+Stock-based compensation expense included in operating expenses 
+
+of total unrecognized compensation cost related to non-vested share-based compensation arrangements. The unrecognized compensation
+cost is expected to be recognized over a weighted average period of years. 
+
+Granted 
+
+Forfeited/ Cancelled 
+
+Outstanding at period end 
+
+Options vested and exercisable at period end 
+
+Weighted average grant-date fair value of options granted during the period 
+
+F- 19 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+0.51 1.00 
+
+1.01 25.00 
+
+Granted 
+
+Canceled/Forfeited 
+
+Vested 
+
+Non-vested at December 31, 2022 
+
+of accrued compensation owed to SG Phoenix in equal parts to
+Mr. Sassower and Mr. Goren, according to their respective ownership in SG Phoenix. Mr. Sassower settled of Accrued Long -term
+deferred salary allocated to him into shares of the Company s Common Stock at a price of per share, which was substantially
+above the then current market price of the company s common stock. 
+
+shares of Common Stock. The Common Stock was valued at . 
+
+F- 20 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+Issued 
+
+Exercised 
+
+Expired 
+
+Outstanding at end of period 
+
+Exercisable at end of period 
+
+shares of Common Stock were reserved for issuance upon exercise of outstanding options and warrants. 
+
+of the Common Stock of the Company when calculated in accordance with Rule 13d-3 
+
+F- 21 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+in cash against certain accounts receivable of the Company. Upon collection of
+an invoice, the Company agreed to repay the advance to the lenders on a pro rata basis together with a advance fee. The Company accrued
+ in advance fees recorded as interest expense on the Statement of Operations. 
+
+of Accounts Receivable Advances and in accrued but unpaid advance fees to an affiliate. In addition, the Company repaid
+to another affiliate of Accounts Receivable Advances and in accrued but unpaid advance fees. 
+
+of accrued compensation owed to SG Phoenix in equal parts to Mr.
+Sassower and Mr. Goren, according to their respective ownership in SG Phoenix. Mr. Sassower settled of Accrued Long-term deferred
+salary allocated to him into shares of the Company s Common Stock at a price of per share, which was substantially
+above the then current market price of the company s common stock. 
+
+in cash from an affiliate as an advance against certain accounts receivable. The company accrued a advance fee and recorded
+ as interest expense during the three months ended September 30, 2021. Upon collection of the accounts receivable the Company will
+repay the advance plus the fee. 
+
+and , respectively in cash from an affiliate as advances against certain accounts receivable. The company
+accrued a advance fees in August and September 2021, and recorded as interest expense during the three months ended September 30,
+2021. Upon collection of the accounts receivable the Company will repay the advances plus the fee. 
+
+in Accounts Receivable Advances and in accrued but unpaid advance fees to two related parties. 
+
+in unsecured convertible notes to related parties. The unsecured notes are convertible by the holder into common
+stock at any time at a price per share of . Upon closing a new financing of at least in aggregate proceeds, the Company can
+force conversion at a price equal to the lesser of per share or the price per share of the new financing. The notes bear interest
+at the rate of per annum and are due December 31, 2022. 
+
+in unsecured convertible notes to related parties. The unsecured notes are convertible by the holder into common
+stock at any time at a price per share of . Upon closing a new financing of at least in aggregate proceeds, the Company can
+force conversion at a price equal to the lesser of per share or the price per share of the new financing. The notes bear interest
+at the rate of per annum and are due December 31, 2023. 
+
+in unsecured convertible notes to related parties. and to other investors. The unsecured notes are convertible
+by the holder into common stock at any time at a price per share of . Upon closing a new financing of at least in aggregate
+proceeds, the Company can force conversion at a price equal to the lesser of per share or the price per share of the new financing.
+The notes bear interest at the rate of per annum and are due December 31, 2023. 
+
+F- 22 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+square feet of office space in
+ San Jose California. The office space is on a month-to-month rental basis and can be surrendered at any time without penalty. Office
+rent expense was approximately and in 2022 and 2021, respectively. 
+
+for federal income tax purposes which will begin to expire in 2022 if
+unused. The Company had net operating loss carryforwards for state income tax purposes of approximately . These state net
+operating losses carryforwards will begin to expire in the year if unused. 
+
+Accruals and reserves 
+
+Deferred revenue 
+
+Intangibles 
+
+Other, net 
+
+Fixed assets 
+
+Gross tax assets 
+
+Valuation allowance 
+
+Realizable deferred tax asset 
+
+F- 23 
+
+iSign Solutions Inc. 
+
+Notes to Consolidated Financial Statements 
+
+(In thousands except per share amounts) 
+
+State income tax benefit 
+
+NOL expiration 
+
+Prior year true-ups 
+
+Permanent items and other 
+
+Tax cuts and Jobs Act Rate Change 
+
+Change in valuation allowance 
+
+Income tax expense 
+
+in cash against certain accounts receivable of the
+Company. Upon collection of an invoice, the Company agreed to repay the advance to the lenders on a pro rata basis together with a
+ advance fee. 
+
+F-24 
+
+<EX-21.1>
+ 2
+ f10k2022ex21-1_isignsol.htm
+ SCHEDULE OF SUBSIDIARIES
+
+Exhibit 21.1 
+
+iSign Solutions, Inc. 
+
+ Schedule of Subsidiaries 
+
+CIC Acquisition Corp. 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ f10k2022ex31-1_isignsol.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Philip S. Sassower, certify that: 
+
+1. I have reviewed this report on Form 10-K of iSign Solutions
+Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under
+which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officers and I are
+responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which
+this report is being prepared; 
+
+b. Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant s disclosure
+controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures,
+as of the end of the period covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I
+have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 31, 2023 
+
+/s/ Philip S. Sassower 
+
+Co-Chairman, Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ f10k2022ex31-2_isignsol.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+CERTIFICATION PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Michael Engmann, certify that: 
+
+1. I have reviewed this report on Form 10-K of iSign Solutions
+Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under
+which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officers and I are
+responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which
+this report is being prepared; 
+
+b. Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant s disclosure
+controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures,
+as of the end of the period covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I
+have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 31, 2023 
+
+/s/ Michael Engmann 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ f10k2022ex32-1_isignsol.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Philip S. Sassower, certify, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report of iSign Solutions Inc. on Form 10-K
+for the year ended December 31, 2022 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934 and that information contained in such Annual Report on Form 10-K fairly presents, in all material respects, the financial condition
+and results of operations of iSign Solutions Inc. 
+
+Date: March 31, 2023 
+
+By: 
+ /s/ Philip S. Sassower 
+
+Co-Chairman and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+A signed original of this written statement required by Section 906
+of the Sarbanes-Oxley Act of 2002 has been provided to iSign Solutions Inc. and will be retained by iSign Solutions Inc. and furnished
+to the Securities and Exchange Commission or its staff upon request. 
+
+This certification accompanies this Report on Form 10-K pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by such Act, be deemed filed by iSign
+Solutions Inc. for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Such
+certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the
+Exchange Act, except to the extent that iSign Solutions Inc. specifically incorporates it by reference. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ f10k2022ex32-2_isignsol.htm
+ CERTIFICATION
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Michael Engmann, certify, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report of iSign Solutions Inc. on Form 10-K
+for the year ended December 31, 2022 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934 and that information contained in such Annual Report on Form 10-K fairly presents, in all material respects, the financial condition
+and results of operations of iSign Solutions Inc. 
+
+Date: March 31, 2023 
+
+By: 
+ /s/ Michael Engmann 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+A signed original of this written statement required by Section 906
+of the Sarbanes-Oxley Act of 2002 has been provided to iSign Solutions Inc. and will be retained by iSign Solutions Inc. and furnished
+to the Securities and Exchange Commission or its staff upon request. 
+
+This certification accompanies this Report on Form 10-K pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by such Act, be deemed filed by iSign
+Solutions Inc. for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Such
+certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the
+Exchange Act, except to the extent that iSign Solutions Inc. specifically incorporates it by reference. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ isgn-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ isgn-20221231_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ isgn-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ isgn-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ isgn-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

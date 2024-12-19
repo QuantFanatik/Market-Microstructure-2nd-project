@@ -1,0 +1,3711 @@
+<Header>
+<FileStats>
+    <FileName>20230705_10-K_edgar_data_1932244_0001493152-23-023444.txt</FileName>
+    <GrossFileSize>4006745</GrossFileSize>
+    <NetFileSize>143327</NetFileSize>
+    <NonText_DocumentType_Chars>735371</NonText_DocumentType_Chars>
+    <HTML_Chars>1261037</HTML_Chars>
+    <XBRL_Chars>753678</XBRL_Chars>
+    <XML_Chars>1020036</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-023444.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705162932
+ACCESSION NUMBER:		0001493152-23-023444
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		51
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lever Global Corp
+		CENTRAL INDEX KEY:			0001932244
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				881455444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-266157
+		FILM NUMBER:		231069556
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9255 W SUNSET BLVD
+		CITY:			WEST HOLLYWOOD
+		STATE:			CA
+		ZIP:			90069
+		BUSINESS PHONE:		424-457-2590
+
+	MAIL ADDRESS:	
+		STREET 1:		9255 W SUNSET BLVD
+		CITY:			WEST HOLLYWOOD
+		STATE:			CA
+		ZIP:			90069
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-023444.txt : 20230705
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+(Mark
+One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ending , 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from ______________ to ______________ 
+
+Commission
+File No. 
+
+(Exact
+name of the small business issuer as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ incorporation
+ or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+, , , 
+
+ (Address
+of principal executive offices) 
+
+(Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+
+Na 
+ 
+ Na 
+
+Indicate
+by check mark if the registrant is a well- known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding twelve (12) months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days. No 
+
+Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation
+S-T during the preceding twelve (12) months (or for such shorter period that the registrant was required to submit and post such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See the definition
+of accelerated filer and large accelerated filer in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes 
+
+The
+aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the closing price as
+of June 27, 2023, of 0.75 per share, the last business day of the registrant s most recently completed first quarter, was approximately
+ . 
+
+The
+number of shares of Common Stock, 0.0001 par value of the registrant outstanding on June 27, 2023, was . 
+
+TABLE
+OF CONTENTS 
+
+PART I. 
+
+ITEM
+ 1 
+ BUSINESS 
+ 
+ 4 
+ 
+ ITEM
+ 1 A. 
+ RISK FACTORS 
+ 
+ 10 
+ 
+ ITEM
+ 1 B. 
+ UNRESOLVED STAFF COMMENTS 
+ 
+ 10 
+ 
+ ITEM
+ 2 
+ OPERATING LEASES 
+ 
+ 10 
+ 
+ ITEM
+ 3 
+ LEGAL PROCEEDINGS 
+ 
+ 10 
+ 
+ ITEM
+ 4 
+ MINE SAFETY DISCLOSURES 
+ 
+ 10 
+ 
+ PART II. 
+
+ITEM
+ 5. 
+ MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 
+ 11 
+ 
+ ITEM
+ 6. 
+ SELECTED FINANCIAL DATA 
+ 
+ 12 
+ 
+ ITEM
+ 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ 12 
+ 
+ ITEM
+ 7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ 18 
+ 
+ ITEM
+ 8. 
+ FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 
+ 18 
+ 
+ ITEM
+ 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 
+ 18 
+ 
+ ITEM
+ 9A. 
+ CONTROLS AND PROCEDURES 
+ 
+ 18 
+ 
+ ITEM
+ 9B. 
+ OTHER INFORMATION 
+ 
+ 18 
+ 
+ PART III. 
+
+ITEM
+ 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 
+ 19 
+ 
+ ITEM
+ 11. 
+ EXECUTIVE COMPENSATION 
+ 
+ 21 
+ 
+ ITEM
+ 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 
+ 22 
+ 
+ ITEM
+ 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 
+ 23 
+ 
+ ITEM
+ 14. 
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+ 
+ 24 
+ 
+ PART IV. 
+
+ITEM
+ 15. 
+ FINANCIAL STATEMENT SCHEDULES 
+ 
+ 25 
+ 
+ ITEM
+ 16. 
+ EXHIBITS 
+ 
+ 25 
+
+SIGNATURES 
+ 
+ 26 
+
+2 
+
+FORWARD-LOOKING
+STATEMENTS 
+
+This
+Annual Report on Form 10-K Form 10-K contains forward-looking statements within the meaning of the Private
+Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are forward-looking statements 
+for purposes of federal and state securities laws, including, but not limited to, any projections of earnings, revenue, or other financial
+items; any statements of the plans, strategies, and objectives of management for future operations; any statements concerning proposed
+new products or developments; any statements regarding future economic conditions or performance; any statements of belief; and any statements
+of assumptions underlying any of the foregoing. Although we believe the expectations reflected in our forward-looking statements are
+reasonable, actual results could differ materially from those projected or assumed in any of our forward-looking statements. Our future
+financial condition, operations results, and any forward-looking statements are subject to change and inherent risks and uncertainties. 
+
+Forward-looking
+statements may include the words may, could, will, estimate, intend, 
+ continue, believe, expect, desire, goal, should, 
+ objective, seek, plan, strive or anticipate, as well as variations
+of such words or similar expressions, or the negatives of these words. These forward-looking statements present our estimates and assumptions
+only as of the date of this Form 10-K. Except for our ongoing obligation to disclose material information as required by federal securities
+laws, we do not intend and undertake no obligation to update any forward-looking statement. We caution readers not to place undue reliance
+on any such forward-looking statements. Should one or more of these risks or uncertainties materialize or underlying assumptions prove
+incorrect, actual outcomes will likely vary materially from those indicated. 
+
+3 
+
+PART
+I 
+
+ITEM
+ 1. 
+ BUSINESS 
+
+Lever
+Global Corporation (the Company, we, our, or us was incorporated under the laws
+of the State of Delaware on March 24, 2022. We are a fintech-driven consumer liabilities and debt management company. Our mission is
+to empower subscribers to use our App to become financially independent by managing all of their liabilities and debt obligations in
+one place. Mr. McKendrick is the Company s Founder, CEO, and Director and has started several fintech companies focusing on credit
+and debt management for consumers and businesses since 2015. The Company has a wholly-owned subsidiary, Lever Technology, Inc. Lever
+Technology ), a California corporation. There are no operating activities for Lever Technology. 
+
+The
+Company had a soft launch of the App in the third quarter of fiscal 2022 on the iOS App Store. Currently, the App allows the subscribers
+to analyze their existing student loans and recommend programs the US Department of Education offers after the initial
+assessment and processes enrollments into these programs. The App provides a list of qualified federal programs. The subscribers can
+digitally enroll in these programs by uploading or self-declaring their W-2, wage, or tax statements through the App. If subscribers
+are accepted for a federal program, the App manages their annual certifications for a monthly subscription fee. The average life of a
+loan is twenty-one years. The Company has partnered with Array US, Inc. to give subscribers personalized credit and financial data through
+the App, allowing them to understand their borrowing capacity better. The subscribers can also use the information to manage their credit
+scores. 
+
+In
+the fourth quarter of fiscal 2022, the Company added a round-up option, allowing subscribers to link their bank account and student loan
+to the App and select to pay a few cents per transaction towards the principal of their student loan. The App will have a feature showing
+the subscriber how the extra payments towards the loan will result in interest savings and reduce the loan term. 
+
+In
+fiscal 2023, the Company intends to offer its subscribers the tools in the App to directly negotiate and refinance their outstanding
+credit card and auto loans with their lenders. The Company plans to connect several credit card companies and auto loan providers to
+the App through API. As well as provide more ways to save, spend and invest through the development, acquisition, and key hires across
+these technologies. The Company also plans to launch the App officially in the App Store and Play Store in the fiscal 2023. There is
+no assurance that the Company will be successful in its plans. 
+
+We
+are a development stage entity devoting all of its efforts to substantially establishing our flagship product, the Lever App App ).
+The App s official launch is expected in the third quarter of fiscal 2023. The Company had a soft launch of the App in the third
+quarter of fiscal 2022; as a result, we have generated 16,878 for the three months ending December 31, 2022. 
+
+The
+App allows everyday people to directly negotiate, enroll, repay, and settle student loans for the US market without the complexity and
+confusion of the fine print. The App helps subscribers with debt management - negotiation, repayment, and settlement. We are committed
+to providing our subscribers impartial guidance in their journey toward financial independence. The App will be available on the Play
+Store (Android) and App Store (iOS) under Lever App (the App as its brand name for a subscription-based fee billed monthly
+or annually. 
+
+4 
+
+The
+App will help the subscriber manage and resolve liabilities such as credit cards, student loans, and other types of consumer debts through
+continued education and recommendations on how and when to refinance the student loan with the Department of Education, federal student
+loan prequalification and enrollment, access credit scores, and other features that enable subscribers to manage their debt obligations
+smartly, intuitively, and cost-effectively. The Company initially intends to target student debt holders in the United States as its
+primary customer base. The Company believes that manually managing liabilities is complex and time-consuming, which involves actively
+monitoring personal finances, estimating payments, negotiating with lenders, and finding the proper federal and state grants and loan
+arrangements. It is difficult to maintain and monitor these loan terms with annual renewals that can last up to twenty-one (21) years
+on average. 
+
+The
+Company believes the student loan borrower will benefit from the App. Our Application Program Interface (APIs) and artificial intelligence
+(AI) driven programming connect them to the right and relevant federal loan programs with the most favorable terms qualifying
+amount and rate, enrolling, and saving with a few clicks. The Lever App further informs the subscribers when and how to refinance their
+student loans. 
+
+Based
+on the inputs the subscriber provides, the Lever App provides visual guidelines on how the subscriber s budget and spending suit
+their current and future liabilities, including their student loan repayments, and provides a smarter way to repay their debts through
+features like payment roundups and extra repayment recommendations, to help a subscriber pay off the liabilities smarter, without affecting
+their existing spending habits. 
+
+ The
+Lever App provides subscribers instant matches through Student Aid, the largest provider of financial aid for college in the United States,
+and other Federal student aid programs. The subscriber can access the complex world of student debt management in an easy four-step process
+through the Lever App, which includes: 
+
+Basic
+ subscriber information per KYC requirements, 
+
+The
+ subscriber links one or multiple loans in real-time, also known as Enrollment, 
+
+The
+ software matches with up to three (3) options to manage loans (deferment or forbearance or reduced payments, etc.), and 
+
+The
+ subscriber picks the best option to connect to the best United States Government aid program to complete the application. 
+
+Once
+subscribers sync their respective liabilities and loans with the Lever App, the software automates with a data-driven algorithm to match
+users with better ways to repay debts, such as providing automation for snowball or avalanche plans and extra repayment recommendations
+for managing liabilities. The App also includes credit score insights and payment round-up technology using open banking protocols that
+help and recommend that loan borrowers contribute micro amounts towards their loan principal, saving on years of interest and reaching
+financial independence faster and better with the App. 
+
+5 
+
+Business
+Strategy 
+
+Our
+experienced Management and in-house software development team have carefully designed various B2C debt management solutions to meet the
+needs of borrowers in the United States and globally. We intend to grow our core business, increase market share, and improve profitability
+principally by deploying the following growth strategies: 
+
+Completed
+ version 1 of the App in the third quarter of fiscal 2022 with the soft launch, and launch the App officially to the public in the
+ third quarter of fiscal 2023; 
+
+Ramp
+ up subscriber acquisition through our digital and traditional marketing strategies; 
+
+Continue
+ to enhance and promote our core proprietary liabilities and debt management app and introduce other innovative repayments, finance,
+ and spending features for United States consumers; 
+
+Future
+ growth will depend on the timely development and successful distribution of the Lever App by signing enterprise and employer deals
+ in the United States; 
+
+Increase
+ our software development capabilities to develop disruptive and next-generation machine learning and artificial intelligence-driven
+ technologies to grow and retain subscriber base; 
+
+Grow
+ subscriber base through accretive acquisitions, opportunistic investments, and beneficial partnerships; and; 
+
+Recognize
+ and enter high-growth markets to expand our services to meet the demand for other financial solutions, including but not limited
+ to auto-save and auto loan repayment from day-to-day debit card usage and investments such as IRAs and 401Ks. 
+
+6 
+
+Marketing
+and Sales 
+
+The
+Company aims to be flexible and responsive to its sales and marketing strategies to provide an omnichannel customer experience. Therefore,
+our primary focus is on different subscriber acquisition channels to expand our paid customer base. The Company is actively integrating
+digital and traditional marketing channels effectively, as we believe these are scalable channels and that one-size-fits-most customers
+no longer work. Our marketing strategy identifies and targets student borrowers who are high-value/high-potential subscribers. We have
+found that these customers are often more receptive to a digital marketing strategy that includes SEO marketing, an intuitive website
+experience, targeted emails/ content, educational blogs, and active social media engagement involving celebrities and influencers. For
+traditional marketing, such as conferences, trade shows, expos, media events, and direct meetings, the senior Management in person provides
+presentations, gives media interviews, and engages potential subscribers at events. 
+
+We
+have designed our marketing and sales strategies to drive prospective subscribers to the Play Store and App Store, where they can download
+our App. 
+
+To
+spread the word, the Company has engaged celebrities and influencers, such as Austin Reaves (Age 23), to promote and endorse Company s
+products and services to target audiences. The Company carefully executes its media strategy by using billboard signage, street posters,
+bus ads, social media posting, digital TV ads, creating video-on-demand advertising, and attending events at schools, colleges, and university
+campuses. 
+
+The
+App s official launch is expected to be in the third quarter of fiscal 2023. The Company intends to use traditional marketing strategies
+such as billboard signage, digital TV ads, creating video-on-demand advertising, and attending events at schools, colleges, and university
+campuses after the App s official launch. Currently, the Company uses only online marketing, mainly social media campaigns, including
+engagement of celebrities and influencers and educational and other incentives-based posts on social media, to drive online traffic to
+its websites or directly to the App Store. 
+
+The
+Company implements an effective marketing funnel where we map out our subscribers journey from when they are a lead and then tailored
+strategies to encourage them to move through this funnel. 
+
+We
+also utilize many indirect channels where a network of industry professionals, introducing and referring affiliates as third parties,
+promote our services in exchange for performance-based compensation. In most cases, affiliates carry out the lead generation function,
+while the Company s staff provides subscribers and technical support to subscribers. 
+
+Most
+of the marketing and branding initiatives are taken in-house by our team. The Company may hire outside marketing and branding consultants
+and advertising firms from time to time. 
+
+7 
+
+Industry
+and Competitive Analysis 
+
+A
+student loan is money that the federal government and private institutions lend to students or parents to finance post-secondary education.
+Most students who get a bachelor s degree finance their education with one or more student loans. Student loans are the largest
+source of debt in the United States after mortgages. Student loans do not require the borrower to provide collateral, such as a house
+or a car, to guarantee the loan. The interest payment on the student loan is tax-deductible up to a maximum of 2,500. However, student
+loans are usually disbursed directly to the educational institution s financial aid office. The loans can only be used to cover
+tuition, college fees, room and board, living expenses while at college, and books. In most cases, bankruptcy laws do not allow the discharge
+of student loans under bankruptcy. 
+
+Public
+and Private Student Debt 
+
+43.4
+million student loan borrowers in the United States owe a collective nearly 1.75 trillion in federal and private student loan debt as
+of April 2022, according to the Federal Reserve Bank of St. Louis (1) . According to a July 2021 report by MeasureOne (2) ,
+academic data firm about 92 of student debt is owned by the US Department of Education, referred to as Public student debt.
+The balance of student debt, referred to as Private Student Loans, makes up 7.89 of the total outstanding US student loans, equal to
+ 131.10 billion. 
+
+(1)
+ Federal Reserve Bank of St. Louis. Student Loans Owned and Securitized . 
+
+Average
+Student Loans 
+
+The
+average student debt is estimated to be 28,950 and 71,000 for graduate and post-graduate students. The average US household with student
+debt owes 57,520, according to NerdWallet s 2020 household debt study. 
+
+Parent
+PLUS loans (3) are direct federal loans parents can use to pay for their dependent child s education. According to federal
+loan data, the average outstanding parent PLUS loan debt is 28,778. Total parent PLUS debt: 104.8 billion distributed among 3.7 million
+parent PLUS borrowers. 
+
+(2)
+ MeasureOne. Academic Lending Study December 15, 2021. 
+
+ (3)
+ StudentAid.gov. Federal Student Loan Portfolio by Loan Type. 
+
+Status
+of Student Loan Repayment (4) 
+
+The
+government offered student loan relief in 2020, which caused forbearance spikes and data suspension from federal agencies. There are
+6.42 million federal loan borrowers in school, 1.17 million federal borrowers in the grace period, 460,000 federal loan borrowers in
+repayment, 3.05 million federal loan borrowers in deferment, and 26.78 million federal loan borrowers with loans in forbearance. 
+
+Borrowers
+can also postpone private student loan payments via deferment or forbearance, but interest always accrues regardless of whether the borrower
+makes payments. If public student loan borrowers can t make payments, they can postpone them through deferment or forbearance.
+Interest typically accrues during these periods, but borrowers with subsidized loans don t owe the interest that accrues during
+deferment. 
+
+The
+US Government paused federal student loan repayments and interest during the pandemic throughout 2021 and extended it into the fall of
+2022. Despite the freeze, student loan balances still increased as newer loans entered repayment, despite no current payment due on most
+loans. 
+
+(4)
+ Federal Student Aid, Portfolio by Loan Status December 2021. 
+
+Status
+of Student Loan Default (5) 
+
+Student
+loan default happens after a missed payment period after approximately 270 days (or nine months) past due. Private student loans typically
+default after three missed payments (typically three months). Still, according to the lender s terms and conditions, it can happen
+after one missed payment. Around 9.7 of student loan borrowers default after entering repayment within a couple of years. 
+
+(5)
+ Federal Student Aid September 2020 
+
+Student
+Loan Forgiveness Options 
+
+The
+US Government provides several student loan forgiveness options and plans, including but not limited to: 
+
+Public
+ Service Loan Forgiveness (PSLF) or PSLF Waiver forgives the remaining balance on your Direct Loans after making 120 qualifying
+ monthly payments under a qualifying repayment plan while working full-time for a qualifying employer. 
+
+Income-driven
+ repayment forgiveness sets your monthly student loan payment at an amount intended to be affordable based on your income
+ and family size. 
+
+Borrower
+ defense to repayment if the school misled or engaged in other misconduct in violation of certain state laws, the student
+ borrower may be eligible for borrower defense to loan repayment, to the discharge of some or all of federal student
+ loan debt, and 
+
+Free
+ Application for Federal Student Aid, known as the FAFSA is the application for financial aid completed by current and prospective
+ college students in the United States to determine their eligibility for student financial aid. 
+
+We
+believe the personal debt management industry is highly fragmented and diversified, with several large and small companies offering a
+wide variety of debt management solutions. We believe that our direct and indirect competition includes but is not limited to HR benefits
+platforms, round-up saving and investing apps, personal finance and credit bureau platforms, personal finance educational tools, and
+other personal debt management companies. General financial content providers may also be considered indirect competition. Our target
+market is student loan borrowers looking to better their financial future by paying their loans and saving money. We offer a unique solution
+catered to student loan management in the most comprehensive and user-friendly way for the borrower and the servicer. 
+
+Our
+industry is active in mergers and acquisitions of digital debt management software companies by large and well-capitalized companies
+looking for complementary services. For example, in July 2018, LendingTree, Inc. (NASDAQ: TREE) announced today that it had entered into
+a definitive agreement to acquire Student Loan Hero, Inc. (6) , a personal finance website dedicated to helping student loan
+borrowers manage their student debt. In April 2021, Acorns, the Californian investment and savings app, landed its second acquisition
+of 2021 with artificial intelligence (AI) start-up Pillar (7) . 
+
+8 
+
+The
+personal debt management industry is highly fragmented and diversified, with several large and small companies offering various debt
+management solutions. Our direct and indirect competition includes but is not limited to HR benefits platforms, round-up saving and investing
+apps, personal finance and credit bureau platforms, personal finance educational tools, and other personal debt management companies.
+General financial content providers may also be considered indirect competition. Our target market is student loan borrowers looking
+to better their financial future by paying their loans and saving money. We offer a unique solution catered to student loan management
+in the most comprehensive and user-friendly way for the borrower and the servicer. 
+
+Our
+industry is active in mergers and acquisitions of digital debt management software companies by large and well-capitalized companies
+looking for complementary services. For example, in July 2018, LendingTree, Inc. (NASDAQ: TREE) announced today that it had entered into
+a definitive agreement to acquire Student Loan Hero, Inc. (6) , a personal finance website dedicated to helping student loan
+borrowers manage their student debt. In April 2021, Acorns, the Californian investment and savings app, landed its second acquisition
+of 2021 with artificial intelligence (AI) start-up Pillar (7) . 
+
+According
+to the Harvard Kennedy School report (8) , the fintech industry deals with the dangers of potential misuse and abuse of consumer
+data. This includes but is not limited to the loss of privacy; violation of data security; increasing risks of fraud and scams; unfair
+and discriminatory uses of data and data analytics against rules and regulations; uses of data that are non-transparent to both consumers
+and regulators; harmful manipulation of consumer behavior; and risks that tech firms entering the financial or financial regulatory space
+will lack adequate knowledge, operational effectiveness, and stability. 
+
+The
+student loan forgiveness debate has entered into the national conversation. White House officials plan to cancel 10,000 in student debt
+per borrower after months of internal deliberations over how to structure loan forgiveness for tens of millions of Americans. According
+to Committee for a Responsible Federal Budget, a nonpartisan think tank wiping out 10,000 of debt per borrower could cost roughly 230
+billion. 
+
+The
+Company firmly believes that the student loan industry will continue to be the fastest-growing source of debt for the United States households.
+Student loans are now the largest source of unsecured debt in the United States. They have become a financial industry, especially with
+its secondary market and student loan asset-backed securities. 
+
+(6) 
+ PRNewswire,
+ July 2018. 
+
+(7) 
+ Fintech
+ Futures, April 2021. 
+
+(8) 
+ M-RCBG
+ Associate Working Paper, Harvard Kennedy School, June 2020. 
+
+9 
+
+According
+to the Harvard Kennedy School report (8) , the fintech industry deals with the dangers of potential misuse and abuse of consumer
+data. This include but is not limited to the loss of privacy; violation of data security; increasing risks of fraud and scams; unfair
+and discriminatory uses of data and data analytics against rules and regulations; uses of data that are non-transparent to both consumers
+and regulators; harmful manipulation of consumer behavior; and risks that tech firms entering the financial or financial regulatory space
+will lack adequate knowledge, operational effectiveness, and stability. 
+
+The
+student loan forgiveness debate has entered into the national conversation. White House officials are planning to cancel 10,000 in student
+debt per borrower after months of internal deliberations over how to structure loan forgiveness for tens of millions of Americans. According
+to Committee for a Responsible Federal Budget, a nonpartisan think tank wiping out 10,000 of debt per borrower could cost roughly 230
+billion. 
+
+The
+Company firmly believes that the student loan industry will continue to be the fastest-growing source of debt for United States households.
+Student loans are now the largest source of unsecured debt in the United States. They have become a financial industry in its own right,
+especially with its secondary market and student loan asset-backed securities. 
+
+(6)
+ PRNewswire, July 2018. 
+
+ (7)
+ Fintech Futures, April 2021. 
+
+ (8)
+ M-RCBG Associate Working Paper, Harvard Kennedy School, June 2020. 
+
+Board
+of Directors 
+
+As
+of December 31, 2022, the Company appointed Trent McKendrick as the Executive Chairman and Director. The Company currently has one executive
+director. 
+
+Covid-19 
+
+In
+March 2020, the World Health Organization declared the outbreak of a novel coronavirus (COVID-19) pandemic throughout the United States.
+While the initial outbreak concentrated in China, it spread to several other countries and reported infections globally. Many countries
+worldwide, including the United States, implemented significant governmental measures to control the spread of the virus, including temporary
+closure of businesses, severe restrictions on travel and the movement of people, and other material limitations on the business. Even
+though the pandemic appears to slow down and is in control, these measures have resulted in work stoppages, absenteeism in the Company s
+labor workforce, and other disruptions. The extent to which the coronavirus impacts our operations will depend on future developments.
+These developments are highly uncertain. We cannot predict them with confidence, including the duration and severity of the outbreak
+and the actions required to contain the coronavirus or treat its impact. In particular, the spread of the coronavirus globally could
+adversely impact our operations and workforce, including our marketing and sales activities and ability to raise additional capital,
+which could harm our business, financial condition, and operation results. 
+
+Russia-Ukraine
+Conflict 
+
+The
+geopolitical situation in Eastern Europe intensified on February 24, 2022, with the Russian invasion of Ukraine. The war between the
+two countries continues to evolve as military activity continues. The United States and certain European countries have imposed additional
+sanctions on Russia and specific individuals. As of the date of this filing, there has been no disruption in our operations. 
+
+Rounding
+Error 
+
+Due
+to rounding, numbers presented in the financial statements for the period ending December 31, 2022, throughout the report may not add
+up precisely to the totals provided, and percentages may not reflect the absolute figures. 
+
+Description
+of Company s Securities to be Registered 
+
+Effective
+September 19, 2022, the Company incorporated by reference the description of its common stock, par value 0.0001 per share, to be registered
+hereunder contained under the heading Description of Securities in the Company s Registration Statement on Form S-1/A
+(File No. 333-266157), as initially filed with the Securities and Exchange Commission (the Commission on September 19,
+2022, as subsequently amended (the Registration Statement ). Since the Registration Statement filing, the Company has made
+all required filings pursuant to Section 15(d) and has continued to file all reports voluntarily. 
+
+ITEM
+ 1A. 
+ RISK
+ FACTORS 
+
+Our
+Company is a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and is not required to provide the
+information required under this Item. 
+
+ITEM
+ 1B. 
+ UNRESOLVED
+ STAFF COMMENTS 
+
+None. 
+
+ITEM
+ 2. 
+ OPERATING
+ LEASES 
+
+The
+rental expense was 78,636 for the fiscal year ending December 31, 2022. The Company rents its servers, computers, and data center from
+an unrelated third party. Under the rent Agreement, the lessor provides furniture, fixtures, and leasehold improvements at Level 11,
+9255 Subset Boulevard, West Hollywood, CA 90069 (Hollywood Office), as discussed in Note 2. 
+
+From
+May 2022 to the present, the Company leases office space in West Hollywood from an unrelated party for a year. The office s rent
+payment is 6,000 per month as the General and administrative expenses. 
+
+The
+agreement continues month-to-month until the Company or the lessor chooses to terminate the agreement s terms by giving thirty
+(30) days notice. The Company uses the office for software development and technical support. The Company has no long-term obligations
+to continue as a tenant in the Hollywood Office. 
+
+ITEM
+ 3. 
+ LEGAL
+ PROCEEDINGS 
+
+There
+is no material pending legal or governmental proceedings other than ordinary routine litigation incidental to the business. The Company
+or any of its subsidiaries is a party, or their property is the subject. 
+
+ITEM
+ 4. 
+ MINE
+ SAFETY DISCLOSURES. 
+
+Not
+applicable. 
+
+10 
+
+PART
+II 
+
+ITEM
+ 5. 
+ MARKET
+ FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+SHARES
+ELIGIBLE FOR FUTURE SALE 
+
+At
+present, we do not have a public market; the selling shareholders will offer and sell their shares at a fixed price until our shares
+are listed on a national securities exchange or quoted on the OTC Bulletin Board, OTCQX, or OTCQB, or any other stock exchange, at which
+time they may be sold at prevailing market prices or in privately negotiated transactions. Future sales of substantial amounts of our
+Common Shares in the public market, including Common Shares issued upon the exercise of outstanding options or warrants, or debt conversion,
+or the anticipation of these sales, could adversely affect market prices prevailing from time to time and could impair our ability to
+raise capital through sales of equity securities. 
+
+Holders 
+
+We
+have 63,660,926 Common Shares issued and outstanding held by 77 shareholders of record, calculated as of December 31, 2022, by our Direct
+Transfer, LLC., a subsidiary of Issuer Direct Corporation, our Transfer Agent, assuming no exercise of outstanding options or warrants
+and no exercise of the underwriters option. All of the Common Shares sold in this offering will be freely tradable without restriction
+immediately following this offering, except that any Common Shares purchased by our affiliates, as that term is defined in Rule 144 under
+the Securities Act, may only be sold in compliance with the limitations described below. All remaining Common Shares held by existing
+shareholders immediately before this offering will be restricted securities as defined in Rule 144. These restricted securities
+were issued and sold by us in private transactions and are eligible for public sale only if registered under the Securities Act or if
+they qualify for an exemption from registration under the Securities Act, including the exemptions provided by Rule 144 or Rule 701,
+summarized below. 
+
+Dividends 
+
+The
+Company did not declare any cash dividends for the December 31, 2022 fiscal year. Our Board of Director(s) (currently constituted by
+Trent M. McKendrick) does not intend to distribute any cash dividends in the near term. The Board of Directors decides the declaration,
+payment, timing, and amount of future dividends. The dividends will depend upon, among other things, the results of our operations, cash
+flows, financial condition, operating and capital requirements, and other factors the Board of Directors considers relevant. There is
+no assurance that the Company shall pay any future dividends. If the Company decides to pay dividends, there is no assurance concerning
+dividends. 
+
+Sale
+of Restricted Securities 
+
+Our
+Common Shares sold pursuant to this offering will be registered under the Securities Act and, therefore, freely transferable, except
+for our affiliates shares. Our affiliates will be deemed to own control securities not registered for resale under
+the registration statement covering this Report. Individuals who may be considered our affiliates after this offering include individuals
+who control, are controlled by, or are under common control with us, as those terms generally are interpreted for federal securities
+law purposes. These individuals may include some or all of our directors and executive officers. Individuals who are our affiliates are
+not permitted to resell their securities unless such securities are separately registered under an effective registration statement under
+the Securities Act or an exemption from the registration requirements of the Securities Act is available, such as Rule 144. 
+
+Recent
+Sales of Unregistered Securities 
+
+All
+of the Company s recent sales of unregistered securities within the past three years reported previously reported as required in
+Quarterly Reports on Form 10-Q filed November 14, 2022. 
+
+Rule
+144 
+
+In
+general, under Rule 144 as currently in effect, a person (or persons whose shares are aggregated), including an affiliate, who beneficially
+owns restricted securities (i.e., securities that are not registered by an effective registration statement) of a reporting
+company may not sell these securities until the person has beneficially owned them for at least six months. Thereafter, affiliates
+may not sell within any three months a number of shares above the greater of: (i) 1 percent of the then outstanding shares as shown by
+the most recent report or statement published by the issuer; and (ii) the average weekly reported trading volume in such securities during
+the four preceding calendar weeks. 
+
+Sales
+under Rule 144 by our affiliates will also be subject to restrictions relating to the manner of sale, notice, and the availability of
+current public information about us. They may be affected only through unsolicited brokers transactions. 
+
+Persons
+not deemed to be affiliates who have beneficially owned restricted securities for at least six months but less than one
+year may sell these securities, provided that current public information about the Company is available, which means that,
+on the date of sale, we have been subject to the reporting requirements of the Exchange Act for at least ninety days and are currently
+in our Exchange Act filings. After beneficially owning restricted securities for one year, our non-affiliates may engage
+in unlimited resales of such securities. 
+
+Shares
+received by our affiliates in this offering, upon exercise of stock options, or upon vesting other equity-linked awards may be control
+securities rather than restricted securities. Control securities are subject to the same volume limitations
+as restricted securities but are not subject to holding period requirements. 
+
+Rule
+701 
+
+Rule
+701 generally allows a shareholder who purchased our Common Shares pursuant to a written compensatory plan or contract and who is not
+deemed to have been our affiliate during the immediately preceding ninety days to sell those shares in reliance upon Rule 144, but without
+being required to comply with the public information, holding period, volume limitation, or notice provisions of Rule 144. Rule 701 also
+permits our affiliates to sell their Rule 701 shares under Rule 144 without complying with the holding period requirements of Rule 144.
+However, all holders of Rule 701 shares are required to wait until ninety days after the date of this Report before selling such shares
+pursuant to Rule 701 and until the lock-up period described below expires. 
+
+ADMISSION
+TO QUOTATION ON THE OTC BULLETIN BOARD AND OTC LINKS 
+
+We
+intend to have our common stock quoted on the OTC Bulletin Board and/or OTC Link. If our securities are not quoted on the OTC Bulletin
+Board and/nor OTC Link, a security holder may find it more difficult to dispose of or obtain accurate quotations as to the market value
+of our securities. The OTC Bulletin Board differs from national and regional stock exchanges in that it: (i) is not situated in a single
+location but operates through the communication of bids, offers, and confirmations between broker-dealers, and (ii) securities admitted
+to the quotation are offered by one or more Broker-dealers rather than the specialist common to stock exchanges. 
+
+To
+qualify for a quotation on the OTC Bulletin Board and/or OTC Link, the Company s equity security requires one registered broker-dealer,
+known as the market maker, willing to list bid or sale quotations and sponsor the company listing. We do not yet have an agreement with
+a registered broker-dealer, as the market maker, willing to list bid or sale quotations and sponsor the Company listing. If the Company
+meets the qualifications for trading securities on the OTC Bulletin Board and/or OTC Link, our securities will trade on the OTC Bulletin
+Board and/or OTC Link until a future time, if at all. We may not now, and it may never qualify for a quotation on the OTC Bulletin Board
+and/or OTC Link. 
+
+11 
+
+ITEM
+ 6. 
+ SELECTED
+ FINANCIAL DATA 
+
+The
+Company is a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and is not required to provide the
+information required under this Item. 
+
+ITEM
+ 7. 
+ MANAGEMENT S
+ DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This
+Annual Report Form 10-K contains forward-looking statements. Our actual results could differ materially from those set forth due to general
+economic conditions and changes in the assumptions used in making such forward-looking statements. The following discussion and analysis
+of our financial condition and results of operations should be read together with the audited financial statements and accompanying notes
+and the other financial information appearing elsewhere in this report. The analysis set forth below is provided pursuant to applicable
+Securities and Exchange Commission regulations and is not intended to serve as a basis for projections of future events. 
+
+Lever
+Global Corporation (the Company, we, our, or us was incorporated under the laws
+of the State of Delaware on March 24, 2022. We are a fintech-driven consumer liabilities and debt management company. Our mission is
+to empower subscribers to use our App to become financially independent by managing all of their liabilities and debt obligations in
+one place. Mr. McKendrick is the Company s Founder, CEO, and Director and has started several fintech companies focusing on credit
+and debt management for consumers and businesses since 2015. The Company has a wholly-owned subsidiary, Lever Technology, Inc. Lever
+Technology ), a California corporation. There are no operating activities for Lever Technology. 
+
+The
+Company had a soft launch of the App in the third quarter of fiscal 2022 on the iOS App Store. Currently, the App allows the subscribers
+to analyze their existing student loans and recommend programs the US Department of Education offers after the initial
+assessment and processes enrollments into these programs. The App provides a list of qualified federal programs. The subscribers can
+digitally enroll in these programs by uploading or self-declaring their W-2, wage, or tax statements through the App. If subscribers
+are accepted for a federal program, the App manages their annual certifications for a monthly subscription fee. The average life of a
+loan is twenty-one years. The Company has partnered with Array US, Inc. to give subscribers personalized credit and financial data through
+the App, allowing them to understand their borrowing capacity better. The subscribers can also use the information to manage their credit
+scores. 
+
+In
+the fourth quarter of fiscal 2022, the Company added a round-up option, allowing subscribers to link their bank account and student loan
+to the App and select to pay a few cents per transaction towards the principal of their student loan. The App will have a feature showing
+the subscriber how the extra payments towards the loan will result in interest savings and reduce the loan term. 
+
+In
+fiscal 2023, the Company intends to offer its subscribers the tools in the App to directly negotiate and refinance their outstanding
+credit card and auto loans with their lenders. The Company plans to connect several credit card companies and auto loan providers to
+the App through API. As well as provide more ways to save, spend and invest through the development, acquisition, and key hires across
+these technologies. The Company also plans to launch the App officially in the App Store and Play Store in the fiscal 2023. There is
+no assurance that the Company will be successful in future plans. 
+
+The
+App allows everyday people to directly negotiate, enroll, repay, and settle student loans for the US market without the complexity and
+confusion of the fine print. The App helps subscribers with debt management - negotiation, repayment, and settlement. We are committed
+to providing our subscribers impartial guidance in their journey toward financial independence. The App will be available on the Play
+Store (Android) and App Store (iOS) under Lever App (the App as its brand name for a subscription-based fee billed monthly
+or annually. 
+
+The
+App will help the subscriber directly negotiate debt through continued education and recommendations on how and when to refinance the
+student loan, federal student loan prequalification and enrollment, access credit scores, and other features that enable subscribers
+to manage their debt obligations smartly, intuitively, and cost-effectively. The Company initially intends to target student debt holders
+in the United States as its primary customer base. The Company believes that manually managing debt is complex and time-consuming, which
+involves actively monitoring personal finances, estimating payments, negotiating with lenders, and finding the proper federal and state
+grants and loan arrangements. Maintaining and monitoring these loan terms with annual renewals that can last up to twenty-one (21) years
+on average isn t easy. 
+
+A
+student loan default has severe consequences for the borrower as it damages the borrower s credit score, making it difficult to
+qualify for future loans. Still, the borrower may also be subject to wage garnishment when the lender automatically takes a portion of
+the paycheck to repay the loan. In addition, defaulting on a student loan can lead to the seizure of tax refunds and Social Security
+benefits. The Company believes that if borrowers struggle to make student loan payments, it s crucial to take action before falling
+too far behind. The Lever App allows the borrower to contact the loan servicer to discuss options, including deferment or forbearance.
+The Company believes acting through its intuitive technology can help them avoid the devastating consequences of student loan default. 
+
+12 
+
+The
+Company believes the student loan borrower will benefit from the App. Our Application Program Interface (APIs) and artificial intelligence
+(AI) driven programming connect them to the right and relevant federal loan programs with the most favorable terms qualifying
+amount and rate, enroll and save with a few clicks. The Lever App further informs the subscribers when and how to refinance their student
+loans. Based on the subscriber s inputs, the Lever App provides visual guidelines on how the subscriber s budget and spending
+suit their student loan repayments. 
+
+The
+Lever App provides subscribers instant matches through Student Aid, the largest provider of financial aid for college in the United States,
+and other Federal student aid programs. The subscriber can access the complex world of student debt management in an easy four-step process
+through the Lever App, which includes: 
+
+Basic
+ subscriber information per KYC requirements, 
+
+The
+ subscriber links one or multiple loans in real-time, also known as Enrollment, 
+
+The
+ software matches with up to three (3) options to manage loans (deferment or forbearance or reduced payments, etc.), and 
+
+The
+ subscriber picks the best option to connect to the best United States Government aid program to complete the application. 
+
+Once
+subscribers sync their respective loans with the Lever App, the software automates with a data-driven algorithm to match users with qualifying
+federal loan programs. The App also provides credit score insights and payment round-up technology using open banking protocols that
+help and recommend that loan borrowers contribute micro amounts towards their loan principal, save on years of interest, and reach financial
+independence faster and better with the App. 
+
+The
+Company expects to continue to earn revenues through a subscription-based model, which will charge monthly recurring fees to subscribers.
+The Company is developing and testing the App, which it expects to market and launch in the fourth quarter of fiscal 2022. The App will
+be available on the App Store and PlayStore. 
+
+We
+are a development stage entity devoting all our efforts to substantially establishing our flagship product, the Lever App App ).
+The App s official launch is expected in the third quarter of fiscal 2023. From March 24, 2022 Inception Date to
+December 31, 2022, the Company earned 16,878 in subscription revenue. Our independent auditors have raised concerns about our ability
+to continue as a going concern. We expect the Company to raise significant additional capital to accomplish its growth plan over the
+next twelve months. However, there can be no assurance that financing and/or capital might be available to the Company. 
+
+13 
+
+PLAN
+OF OPERATIONS 
+
+The
+Company has prepared consolidated financial statements on a going concern basis, which contemplates the realization of assets and the
+settlement of liabilities and commitments in the ordinary course of business. From March 24, 2022 Inception Date to December
+31, 2022, the Company earned 16,878 in subscription revenue. 
+
+Our
+experienced Management and in-house software development team have carefully designed various B2C debt management solutions to meet the
+needs of borrowers in the United States and Australia. We intend to grow our core business, increase market share, and improve profitability
+principally by deploying the following growth strategies: 
+
+Completed
+ the App in the third quarter of fiscal 2022 with the soft launch, and launch the App officially to the public in the third quarter
+ of fiscal 2023; 
+
+Ramp
+ up subscriber acquisition through our digital and traditional marketing strategies; 
+
+Continue
+ to enhance and promote our core proprietary debt management platform and introduce other innovative debt management tools for the
+ United States student loan borrowers; 
+
+Future
+ growth will depend on the timely development and successful distribution of the Lever App by signing enterprise and employer deals
+ in the United States; 
+
+Increase
+ our software development capabilities to develop disruptive and next-generation machine learning and artificial intelligence-driven
+ technologies to grow and retain subscriber base; 
+
+Grow
+ subscriber base through accretive acquisitions, opportunistic investments, and beneficial partnerships; and 
+
+Recognize
+ and enter high-growth markets to expand our services to meet the demand for other financial solutions, including but not limited
+ to auto-save and auto loan payment from day-to-day debit card usage. 
+
+14 
+
+Financial
+Conditions at December 31, 2022 
+
+On
+December 31, 2022, the Company had 315,788 cash to execute its business plan and accumulated a deficit of 1,932,194. The Company had
+a working capital surplus of 75,299 on December 31, 2022. Lever Holdings provided the working base source code for the launch of the
+Company, valued at 758,316; the contributed tangible software. 
+
+The
+Company believes it has the necessary funding and in-house capabilities to develop and successfully launch the App. The Company budgets
+ 500,000 for sales and marketing campaigns in the next twelve months. Should we require additional capital to the extent the Company s
+operations are insufficient to fund its capital requirements, the Company may attempt to raise capital through the issuance of equity
+or debt. The Company s ability to continue as a going concern may depend on Management s plans success. The consolidated
+financial statements do not include any adjustments relating to the recoverability and classification of assets or the amounts and liabilities
+that might be necessary should the Company is unable to continue as a going concern. 
+
+RESULTS
+OF OPERATIONS 
+
+Fiscal
+Year Ended December 31, 2022 
+
+The
+Company generated 16,878 for the fiscal year ending on December 31, 2022. During the fiscal year ending December 31, 2022, the Company
+had a net income loss of 1,932,194. 
+
+During
+the fiscal year ending on December 31, 2022, the Company incurred general administrative costs G and A of 1,189,111.
+During the fiscal year ending on December 31, 2022, the Company incurred sales and marketing costs of 690,212. The sales marketing
+costs mainly included payment to marketing and branding consultants, brand ambassadors, affiliate marketing, customer promotion events,
+online marketing on industry websites, press releases, and other public relations activities. 
+
+For
+the fiscal year ending on December 31, 2022, the office s rent payment or membership fee was 78,636, included in the G and A expenses.
+From May 16, 2022, and for the fiscal year 2022, the office s monthly rent payment or membership fee would be 6,000. 
+
+15 
+
+LIQUIDITY
+AND CAPITAL RESOURCES 
+
+At
+December 31, 2022, we had a cash balance of 315,788. The Company had a working capital surplus of 75,299 on December 31, 2022. 
+
+Since
+its inception, the Company has sustained losses and negative cash flows from operations. The Management believes that cash on hand may
+not be sufficient for the Company to meet working capital and corporate development needs as they become due in the ordinary course of
+business for twelve (12) months following December 31, 2022. From inception to December 31, 2022, the Company had earned 16,878 in revenues
+and had an operating loss of 1,923,711. The Company continues to experience negative cash flows from operations and the ongoing requirement
+for substantial additional capital investment to develop its financial technologies. We expect to conduct the planned operations for
+a maximum of twelve months using currently available capital resources. The Management anticipates raising significant additional capital
+to accomplish its growth plan over the next twelve (12) months. We do not have any plans or specific agreements for new funding sources.
+The Management expects to seek to obtain additional funding through private equity or public markets. However, there can be no assurance
+about the availability or terms such as financing and capital might be available. 
+
+In
+the next twelve months, the Company will continue to invest in sales, marketing, product support, development of technology solutions,
+and enhancement of existing technology to serve our customers. We expect capital expenditures to increase to up to 250,000 in the next
+twelve months to support the growth, which mainly includes software development, acquisition of complementary software, and purchasing
+of computers and servers. In addition, the Company estimates additional expenditure needed to be 500,000, which provides for 100,000
+and 400,000 for sales marketing, and working capital, respectively. 
+
+For
+the next six to nine months, we expect existing cash on hand, cash flows from operations, and access to funding to be sufficient to fund
+our operating activities and other cash commitments, such as related party payments and material capital expenditures. However, we may
+need additional funds to achieve a sustainable sales level where ongoing operations can be funded out of revenues. There is no assurance
+that any additional financing will be available or, if available, on terms that will be acceptable to us. 
+
+16 
+
+GOING
+CONCERN CONSIDERATION 
+
+We
+generated 16,878 in revenues from inception to December 31, 2022. As of December 31, 2022, the Company accumulated a deficit of 1,932,194.
+Our independent auditors included an explanatory paragraph in their report on the audited financial statements for Form S-1/A (Amendment
+3) filed on September 19, 2022, regarding concerns about our ability to continue as a going concern. Our financial statements contain
+additional note disclosures describing the circumstances that led to this disclosure by our independent auditors. Our financial statements
+do not include any adjustments related to the recoverability or classification of asset carrying amounts or the amounts and classifications
+of liabilities that may result in the Company being unable to continue as a going concern. 
+
+Critical
+Accounting Policies and Significant Judgments and Estimates 
+
+We
+have based our Management s discussion, and analysis of our financial condition and results of operations on our financial statements,
+which we have prepared following the U.S. generally accepted accounting principles. In preparing our financial statements, we are required
+to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and
+liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting periods.
+Our actual results could differ from these estimates, and such differences could be material and uncertain in the current economic environment
+due to COVID-19. 
+
+In
+more detail, we have described significant accounting policies in Note 2 of our Form S-/A (Amendment 3) statements filed with the SEC
+on September 19, 2022. We evaluate our critical accounting estimates and judgments required by our policies on an ongoing basis and update
+them as appropriate based on changing conditions. 
+
+JOBS
+Act Accounting Election 
+
+We
+are an emerging growth company , defined in the JOBS Act. The JOBS Act provides that an emerging growth company can
+take advantage of an extended transition period for complying with new or revised accounting standards. This provision allows an emerging
+growth company to delay the adoption of some accounting standards until those standards would otherwise apply to private companies. We
+have elected not to avail ourselves of the delayed adoption of new or revised accounting standards. Therefore, we will adopt new or revised
+generally accepted accounting principles in the United States on the relevant dates on which adoption of such standards is required for
+other public companies that are not emerging growth companies. 
+
+Off-Balance
+Sheet Arrangements and Contractual Obligations 
+
+We
+have not engaged in any off-balance sheet arrangements as defined in Item 303(c) of the SEC s Regulation S-B. We did not have any
+relationships with unconsolidated organizations or financial partnerships, such as structured finance or special purpose entities that
+would have been established to facilitate off-balance sheet arrangements or other contractually narrow or limited purposes. 
+
+Recent
+Accounting Pronouncements 
+
+The
+amendments in the ASU are effective for fiscal years beginning after December 15, 2019, including interim periods therein. Early adoption
+of the standard is permitted, including adoption in interim or annual periods for which financial statements have not yet been issued.
+We have adopted this ASU as of the inception date of March 24, 2022, for ASC 606, Revenue Recognition and Amended ASU 2016-02, Leases
+(Topic 840). The ASU is currently not expected to have a material impact on our consolidated financial statements. While we have described
+significant accounting policies in more detail in Note 2 of our annual financial statements included in Form S-/A (Amendment 3) statements
+filed with the SEC on September 19, 2022, we believe the accounting policies as described in Note 2 to be critical to the judgments and
+estimates used in the preparation of our financial statements. 
+
+17 
+
+ITEM
+ 7A. 
+ QUANTITATIVE
+ AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS. 
+
+Not
+Applicable. 
+
+ITEM
+ 8. 
+ FINANCIAL
+ STATEMENTS AND SUPPLEMENTARY DATA 
+
+All
+financial statements required by this Item are presented beginning on Page F-20 and are incorporated herein by this reference. 
+
+ITEM
+ 9. 
+ CHANGES
+ IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+None. 
+
+ITEM
+ 9A. 
+ CONTROLS
+ AND PROCEDURES. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Under
+the supervision and with the participation of our management, including our Chief Executive Officer and our Chief Financial Officer (together,
+the Certifying Officers ), we carried out an evaluation of the effectiveness of the design and operation of our disclosure
+controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act. Based on the foregoing, our Certifying Officers
+concluded that our disclosure controls and procedures were not effective as of the end of the period covered by this Report. 
+
+Disclosure
+controls and procedures are controls and other procedures designed to ensure that information required to be disclosed in our reports
+filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s
+rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information
+required to be disclosed in our reports filed or submitted under the Exchange Act is accumulated and communicated to management, including
+our Certifying Officers, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure. 
+
+Management s
+Report on Internal Controls over Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-
+15(f) under the Securities Exchange Act, as amended. Management, with the participation of the Chief Executive Officer, evaluated the
+effectiveness of the Company s internal control over financial reporting as of December 31, 2022. In making this assessment, management
+used the criteria set forth by the committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control 
+Integrated Framework (2013 Framework). Our internal control over financial reporting is designed to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of our consolidated financial statements for external reporting purposes in
+accordance with GAAP. Our internal control over financial reporting includes those policies and procedures that: 
+
+(1)
+pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of
+the assets of our company, 
+
+ (2)
+provide reasonable assurance that transactions are recorded as necessary to permit preparation of consolidated financial statements in
+accordance with GAAP, and that our receipts and expenditures are being made only in accordance with authorizations of our management
+and directors, and 
+
+ (3)
+provide reasonable assurance regarding the prevention or timely detection of unauthorized acquisition, use or disposition of our assets
+that could have a material effect on the consolidated financial statements. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect errors or misstatements in our consolidated
+financial statements. Also, projections of any evaluation of effectiveness in future periods are subject to the risk that controls may
+become inadequate because of changes in conditions or that the degree or compliance with the policies or procedures may deteriorate.
+Management assessed the effectiveness of our internal control over financial reporting on December 31, 2022. Based on our assessments,
+management determined that we did not maintain effective internal control over financial reporting as of December 31, 2022, due to the
+material weakness in our internal controls due to inadequate segregation of duties within account processes due to limited personnel
+and insufficient written policies and procedures for accounting, IT, and financial reporting and record keeping. 
+
+Management
+intends to implement remediation steps to improve our internal controls due to inadequate segregation of duties within account processes
+due to limited personnel and insufficient written policies and procedures for accounting, IT, and financial reporting and record keeping.
+We plan to further improve this process by enhancing the size and composition of our board upon the closing of the business identifying
+third-party professionals with whom to consult regarding complex accounting applications and consideration of additional staff with the
+requisite experience and training to supplement existing accounting professionals and implemented additional layers of reviews in the
+internal controls and financial reporting process. 
+
+This
+Report does not include an attestation report of our independent registered public accounting firm due to our status as an emerging growth
+company under the JOBS Act. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+have been no changes in our internal control over financial reporting identified in connection with the evaluation required by paragraph
+(d) of Rule 13a-15 or Rule 15d-15 under the Exchange Act that occurred during the fiscal year ended December 31, 2022, that has materially
+affected or is reasonably likely to affect, our internal control over financial reporting materially. 
+
+ITEM
+ 9B. 
+ OTHER
+ INFORMATION. 
+
+None. 
+
+18 
+
+PART
+III. 
+
+ITEM
+ 10. 
+ DIRECTORS,
+ EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE. 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Trent
+ McKendrick 
+ 
+ 37 
+ 
+ President/CEO/CFO/Director 
+ 
+ Tanya
+ Garcia 
+ 
+ 28 
+ 
+ Marketing
+ Officer 
+
+Directors
+serve until the next annual meeting and until their successors are elected and qualified. Officers are appointed to serve for one year
+until the board of directors meeting, following the annual meeting of stockholders, and until their successors have been elected and
+qualified. 
+
+Trent
+McKendrick, Founder, President, CEO, and Director 
+
+Trent
+McKendrick founded the Company on March 24, 2022, and has been serving as its CEO and Director till the present. Mr. McKendrick has started
+several fintech companies focusing on credit and debt management for consumers and businesses. From January 2021 to the present, Mr.
+McKendrick founded Lever Holdings Pty Ltd., an innovation leader in consumer-driven digital debt negotiation and management companies
+for consumers in Australia. Lever Holdings allows consumers to use the app to negotiate and manage debts and outstanding bills such as
+parking tickets, fines, utility bills, phone bills, car finance loans, and even debt collection demands available on the iOS App Store
+and PlayStore. From May 2020 to November 2020, he worked for Focus Markets, a global financial market trading app, as Head of Markets.
+He helped establish the team, business marketing, and brand within the Australian financial community. From November 2016 to 2018, he
+worked for Benchmark Compare as a Founder/Director, where he invested/built the original product prototype on pitching to investors/building
+market interest; it established a partnership with the Domain Group and managed product strategy and a team of developers. From November
+2014 to 2016, he worked at creating Credit Clear as a Founder and Managing Director, a publicly traded company on the Australian Stock
+Exchange (ASX), which provides technology-enabled accounts receivable platform to over 1000 global businesses. From November 2012 to
+2014, he began working as an Executive Director at IP Capital, working with domestic/international clientele to influence capital raising
+and book building. From July 2009 to August 2012, he worked as an Executive Director of Corporate Sales for Halifax Investment Services.
+He developed/launched the Melbourne office, designed, trained, managed 36 brokers/dealers, and ran a buy book for wholesale and HNW clients.
+From September 2009 to August 2011, he worked as an Investment Officer for Bridge-Way Capital. He established FUM pipeline and built
+event-driven plays, long/short pairs trading, and strategic positions based on bottom-up and top-down views across ASX200 sectors. From
+July 2006 to July 2009, he worked as a Trading Analyst for Pegasus Asset Management Limited. From June 2004 to July 2006, he worked as
+an intern portfolio manager at Beaconwood Securities Pty Ltd., a family office a merchant bank, where he analyzed small-cap technology
+and industrial publicly traded companies. Mr. McKendrick received accreditation as equivalent to BS (Finance) from Marquette University,
+Milwaukee, WI, in July 2022. 
+
+Tanya
+Garcia, Marketing Manager 
+
+As
+of June 2022, Tanya Garcia is the Marketing Officer at Lever Global Corporation. Ms. Garcia is responsible for developing and implementing
+Lever s branding and marketing initiatives. Ms. Garcia oversees the execution of social media, product, and digital marketing strategies.
+Ms. Garcia also heads initiatives involving high-profile influencers. Her experience and skills bring a unique approach to Lever s
+marketing strategy with an internal team recently recruited to be guided by Ms. Garcia. From December 2020 to March 2022, Ms. Garcia
+worked as Nike s Marketing and Launch Specialist. Ms. Garcia was responsible for strategizing and creating processes for in-store
+product launches. Ms. Garcia developed structures allowing for the safe and successful launch of Nike products with revenue streams up
+to 70,000 in single-day activations Under her leadership, activation frequency tripled, resulting in sale numbers exceeding revenue
+goals for the specialty store. From March 2018 to July 2020, Ms. Garcia worked as the Marketing Manager for The Oaks Camp and Conference
+Center. Ms. Garcia created an automated sales and contracting system to increase sales and retention rates by 15 in the first year.
+Ms. Garcia restructured existing company systems and teams by consolidating and automating the workflow. Ms. Garcia also aided in rebranding
+the company by creating digital assets and social media content. Ms. Garcia graduated from Pepperdine University in May 2016 with a bachelor s
+degree in public relations. 
+
+19 
+
+Term
+of Office 
+
+All
+directors serve until the next annual meeting; their successors are elected and qualified. Officers are appointed to serve for one year
+until the board of directors meeting following the stockholders annual meeting until the Directors successors have
+been elected and qualified. 
+
+Director
+of Independence 
+
+Our
+board of directors is currently composed of four (4) members, out of which three (3) directors are executive directors and who do not
+qualify as independent directors by the published listing requirements of the NASDAQ Global Market (the Company has no plans to list
+on the NASDAQ Global Market). The third non-executive director is an independent director. The NASDAQ independence definition includes
+a series of objective tests, such as that the director is not, and has not been for at least three (3) years, one of our employees and
+that neither the director nor any of his family members have engaged in various types of business dealings with us. Also, our board of
+directors has not made a subjective determination as to our director that no relationships exist, which, in the opinion of our board
+of directors, would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. However,
+the NASDAQ rules require such subjective determination. Had our board of directors made these determinations, they would have reviewed
+and discussed the information provided by directors and us concerning our director s business and personal activities and relationships
+as they may relate to us and our management. 
+
+Audit
+Committee and Conflicts of Interest 
+
+Since
+we do not have an audit or compensation committee comprised of independent directors, the functions that such committees would have performed
+are performed by our Board of Directors. The Board of Directors has not established an audit committee and does not have an audit committee
+financial expert, nor has the Board of Directors established a nominating committee. The Board believes such committees are unnecessary
+since the Company is an early start-up company with only three (3) directors. To date, such directors have been performing the functions
+of such committees. Thus, there is a potential conflict of interest in that our three (3) directors and officers have the authority to
+determine issues concerning management compensation, nominations, and audit issues that may affect management decisions. 
+
+There
+are no family relationships among our directors or officers other than as described above. We are unaware of any other conflicts of interest
+with our executive officers or directors. 
+
+Involvement
+in Certain Legal Proceedings 
+
+No
+director, person nominated to become a director, executive officer, promoter, or control person of our Company has, during the last ten
+(10) years: (i) been convicted in or is currently subject to a pending criminal proceeding (excluding traffic violations and other minor
+offenses); (ii) been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of
+the such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating
+activities subject to any federal or state securities or banking or commodities laws including, without limitation, in any way limiting
+involvement in any business activity, or finding any violation to such law, nor (iii) any bankruptcy petition been filed by or against
+the business of which such person was an executive officer or a general partner, whether at the time of the bankruptcy or for the two
+(2) years prior thereto. 
+
+Stockholder
+Communications with the Board Of Directors 
+
+We
+have not implemented a formal policy or procedure by which our stockholders can communicate directly with our board of directors. Nevertheless,
+every effort will be made to ensure that the board hears the views of stockholders of directors and that the appropriate responses are
+provided to stockholders promptly. Our board of directors will continue to monitor whether it would be appropriate to adopt such a process
+during the upcoming year. 
+
+20 
+
+EXECUTIVE
+COMPENSATION 
+
+The
+following table sets forth information regarding each element of compensation that we paid or awarded to our named executive officer
+for the period from March 24, 2022, to December 31, 2022: 
+
+Name and 
+
+Stock 
+
+Option 
+
+Non-Equity 
+ Incentive Plan 
+ 
+ Nonqualified 
+ Deferred 
+
+All
+ Other 
+
+Principal 
+
+Salary 
+
+Bonus 
+
+Awards 
+
+Awards 
+
+Compensation 
+
+Compensation 
+
+Compensation 
+
+Total 
+
+Position 
+ 
+ Period 
+ 
+ ) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+Trent
+ McKendrick, CEO (1) 
+
+156,000 
+
+-0- 
+
+1,225 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+157,225 
+
+Period from March 24, 2022, to December 31, 2022 
+
+(1) 
+ Appointed
+ CEO, President, and Director on March 24, 2022, the Company issued 7,250,000 common stock on March 24, 2022, valued at 725. The
+ Company issued 2,750,000 common stock on March 24, 2022, valued at 275, to Trent M. McKendrick as the founder shares. The Company
+ issued 5,000,000 preferred stock on March 24, 2022, to Mr. McKendrick at a par value valued at 500 as the founder in consideration
+ of services rendered to the Company. As the founder, Mr. McKendrick received a total combined value of 1,225 for common and preferred
+ stock. Mr. McKendrick s annual salary is 208,000. 
+
+As
+of December 31, 2022, Mr. McKendrick is accruing his salary. The Company gives salary compensation to key executives as an employee of
+the Company; Mr. McKendrick commits ninety percent (90 of his time to the Company. 
+
+The
+Company has not issued any bonuses or formalized option awards to its officers. The Company has issued stock-based compensation of 7,250,000
+common and 5,000,000 preferred stock to Mr. McKendrick as the founder, valued at 1,225. The Company intends to provide these incentives
+based on meeting certain sales criteria, which the Board will review quarterly and annually. The Company has not formalized performance-based
+bonuses and other incentive agreements. The Company intends to pay each executive monthly at the beginning of the month. 
+
+From
+April 2022, the Company is paying a monthly compensation of 17,333 per month to its CEO, with increases each succeeding year should
+the agreement be approved annually by the Company. Mr. McKendrick is an employee performing as the CEO and CFO. 
+
+STOCK
+OPTION GRANTS 
+
+We
+had no outstanding equity awards as of the end of the fiscal period ended December 31, 2022, or through the filing date of this report. 
+
+EMPLOYMENT
+AGREEMENTS 
+
+The
+Company has signed an employment agreement with Mr. McKendrick as the CEO and executive director. Ms. Garcia is also an employee of the
+Company as the Marketing Manager. 
+
+DIRECTOR
+COMPENSATION 
+
+We
+do not have a non-executive director. As a result, the Company did not pay any Directors compensation as of the report date. The
+Company intends to hire independent directors by the end of the fourth quarter of fiscal 2022. 
+
+21 
+
+ITEM
+ 12: 
+ SECURITY
+ OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table lists, as of the date of this report, the number of shares of common and Series A Preferred Stock of our Company that
+is beneficially owned by (i) each person or entity known to our Company to be the beneficial owner of more than 5 of the outstanding
+common stock; (ii) each officer and director of our Company; and (iii) all sole officer and director as a group. Information relating
+to beneficial ownership of common stock by our principal shareholders and management is based upon information furnished by each person
+using beneficial ownership concepts under the rules of the Securities and Exchange Commission. Under these rules, a person
+is deemed to be a beneficial owner of a security if that person has or shares voting power, which includes the power to vote or direct
+the voting of the security, or investment power, which includes the power to vote or direct the voting of the security. The person is
+also deemed to be a beneficial owner of any security of which that person has a right to acquire beneficial ownership within 60 days.
+Under the Securities and Exchange Commission rules, more than one person may be deemed a beneficial owner of the same securities, and
+a person may be deemed a beneficial owner of securities because they may not have any beneficial financial interest. Except as noted
+below, each person has sole voting and investment power. 
+
+As
+of the date of this report, we have calculated the percentages below based on 63,660,926 shares of our common stock issued and outstanding. 
+
+Number
+ of Shares 
+
+Percentage
+ of Outstanding 
+ Common Shares 
+
+Name
+ and Address (1) 
+ 
+ Title
+ of Class 
+ 
+ Beneficially
+ Owned 
+
+Prior
+ to Offering 
+
+After
+ Offering 
+
+Trent
+ McKendrick (2) 
+ 
+ Common 
+
+14,530,000 
+
+22.82 
+
+22.82 
+
+Tanya
+ Garcia 
+ 
+ Common 
+
+0 
+
+0 
+
+0 
+
+Stephen
+ Copulos (3) 
+ 
+ Common 
+
+33,344,105 
+
+52.38 
+
+52.38 
+
+Officer
+ and Director as a group (2 persons) 
+ 
+ Common 
+
+14,530,000 
+
+22.82 
+
+22.82 
+
+Number
+ of Shares 
+
+Percentage
+ of Outstanding 
+ Preferred Shares 
+
+Name
+ and Address (1) 
+ 
+ Title
+ of Class (4) 
+ 
+ Beneficially
+ Owned 
+
+Prior
+ to 
+ Offering 
+
+After 
+ Offering 
+
+Trent
+ McKendrick 
+ 
+ Series
+ A Preferred 
+
+5,000,000 
+
+100.00 
+
+100.00 
+
+As
+of the date of this report, we have calculated the voting power percentages below based on 163,660,926 voting shares of our common stock,
+including voting shares contributed from 5,000,000 Series A Preferred Shares, which have 20 non-cumulative votes per share: 
+
+Number
+ of Voting Shares 
+
+Percentage
+ of Outstanding 
+ Voting Shares 
+
+Name
+ and Address (1) 
+ 
+ Title
+ of Class 
+ 
+ Beneficially
+ Owned 
+
+Prior
+ to Offering 
+
+After
+ Offering 
+
+Trent
+ McKendrick (5) 
+ 
+ Common 
+
+114,530,000 
+
+69.98 
+
+69.98 
+
+Tanya
+ Garcia 
+ 
+ Common 
+
+0 
+
+0 
+
+0 
+
+Stephen
+ Copulos 
+ 
+ Common 
+
+33,344,105 
+
+20.37 
+
+20.37 
+
+Officer
+ and Director as a group (2 persons) 
+ 
+ Common 
+
+114,530,000 
+
+69.98 
+
+69.98 
+
+(1) 
+ Addresses
+ for all officers and directors are LEVEL 11, 9255 W SUNSET BLVD., WEST HOLLYWOOD, CA, 90069. 
+
+(2) 
+ At
+ March 24, 2022 (inception), the Company issued 7,250,000 common stock on March 24, 2022, and 5,000,000 preferred stock on March 24,
+ 2022, at par value as the founder in consideration of services rendered to the Company. A total combined value of 1,225. Lever Holdings
+ provided seed capital to Mr. McKendrick for 500,000 to start Lever App in the United States. On March 31, 2022, the Company converted
+ all the outstanding notes into common stock by issuing 20,160,926 shares valued at 0.0248 to Lever Holdings shareholders.
+ As a result of this conversion, Mr. McKendrick received 7,500,000 common stock of the Company and founding shares of common and preferred
+ stock. Mr. McKendrick transferred 220,000 shares to a software developer. 
+
+(3) 
+ Mr.
+ Stephen Copulos has funded the Company since its inception for 2,392,547. Mr. Copulos currently owns 33,344,105 common stock of
+ the Company, representing 52.38 of issued and outstanding shares of the Company as of May 31, 2022. Mr. Copulos received these shares
+ from the note conversion and for cash consideration. 
+
+(4) 
+ Series
+ A Preferred Shares are entitled to 20 non-cumulative votes per share on all matters presented to stockholders for action. As a result,
+ on a vote-per-share basis, 5,000,000 Series A Preferred Shares represent 61.08 and 61.08 voting percentage Before and After the
+ offering. 
+
+(5) 
+ Includes
+ 100,000,000 voting shares as a result of 5,000,000 Series A Preferred, entitled to 20 non-cumulative votes per share on all matters
+ presented to stockholders for action. 
+
+22 
+
+ITEM
+ 13. 
+ CERTAIN
+ RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Lever
+Holdings 500K Notes Payable 500,000) 
+
+Lever
+Holdings provided seed capital to Mr. McKendrick for 500,000 to start App in the United States. Lever Holdings provided the working
+base source code for the launch of the Company, valued at 758,316 as the contributed tangible software. The Company estimated the value
+of the source code using the income and cost approach. The Company attributed 90 value to the cost approach, closest to the actual value
+of developing the source code. 
+
+On
+March 31, 2022, the Company converted all the outstanding notes into common stock by issuing 20,166,042 common stock valued at 0.0248
+per share to Lever Holdings. On May 31, 2022, the Lever Holdings Note balance was zero. Mr. McKendrick is also the founder, CEO, and
+majority shareholder of Lever Holdings. 
+
+As
+a result of this conversion, Nilon Capital Pty Ltd. Nilon Capital ), an entity owned by Mr. McKendrick, received 7,500,000
+common stock of the Company and founding shares of common and preferred stock. Nilon Capital transferred 220,000 shares to a software
+developer. Mr. Copulos received 9,177,438 common stock from the conversion through his four entities. Mr. Copulos has funded the Company
+since its inception for 2,392,547. Mr. Copulos currently owns 33,344,105 common stock of the Company, representing 52.42 of issued
+and outstanding shares of the Company as of May 31, 2022. Mr. Copulos received these shares from the note conversion and for cash consideration. 
+
+Shares
+issued to Founder 
+
+At
+March 24, 2022 (inception), the Company issued 7,250,000 common stock on March 24, 2022, and 5,000,000 preferred stock on March 24, 2022,
+at par value as the founder in consideration of services rendered to the Company. A total combined value of 1,225. 
+
+Citywest
+150K Notes Payable 150,000) 
+
+On
+December 21, 2022, the Company borrowed 150,000 at a 10 interest rate due on December 21, 2023, from Citywest Corp Pty Ltd ATF Copulas
+(Sunshine) Unit Trust, which directly benefits Mr. Copulos. According to the conversion rights of the note, upon consummation of merger
+ acquisition or change of ownership, the entire Note shall automatically convert, though no further action on the part of the Company
+or the Holder, into 350,000 Shares of Common Stock on a fully diluted basis, but in no event will the conversion be less than 350,000
+Shares. In case of IPO, the note is convertible into Common Stock to up to 150,000, at the IPO price per Share less 25 of the 7-day
+VWAP (Volume Weighted Average Price) discount per Share. 
+
+Eyeon
+150K Notes Payable 150,000) 
+
+On
+December 21, 2022, the Company borrowed 150,000 at a 10 interest rate due on December 21, 2023, from Eyeon Investments Pty Ltd ATF
+Eyeon Investments Family Trust, an entity directly benefiting Mr. Copulos. According to the conversion rights of the note, upon consummation
+of merger acquisition or change of ownership, the entire Note shall automatically convert, though no further action on the part
+of the Company or the Holder, into 350,000 Shares of Common Stock on a fully diluted basis, but in no event will the conversion be less
+than 350,000 Shares. In case of IPO, the note is convertible into Common Stock to up to 150,000, at the IPO price per Share less 25 
+of the 7-day VWAP (Volume Weighted Average Price) discount per Share. 
+
+23 
+
+ITEM
+ 14. 
+ PRINCIPAL
+ ACCOUNTANT FEES AND SERVICES 
+
+BF
+Borgers CPA PC BFB was our registered independent public registered accounting firm until May 2022. There have not been
+any changes in or disagreements with accountants on accounting and financial disclosure or any other matter. BFB has been conducting
+our quarterly reviews and annual audit for the fiscal year ending on December 31, 2022. 
+
+Audit
+Fees 
+
+For
+the fiscal year ending December 31, 2022, the Company paid 39,500 for auditing our financial statements from inception to May 31, 2022,
+and reviewing Forms 10-Q for June 30, 20200, and December 31, 2022. 
+
+Board
+of Directors Pre-Approval of Audit and Permissible Non-Audit Services of Independent Registered Public Accounting Firm 
+
+Our
+Board of Directors policy is to pre-approve all our independent registered public accounting firm s services. For fiscal
+2021, our Board of Directors pre-approved 100 of our independent registered public accounting firm s services. These services
+include audit services. Our independent registered public accounting firm must periodically report to our Board of Directors regarding
+the extent of services offered by our independent registered public accounting firm by this pre-approval policy. Our Board of Directors
+may also delegate pre-approval authority to one or more members. Such member(s) must report any pre-approval to our Board of Directors
+at the next meeting. 
+
+Audit-Related
+Fees 
+
+We
+incurred neither fees nor expenses for 2022 for professional services rendered by BFB for audit-related fees other than those disclosed
+above under the caption Audit Fees. 
+
+Tax
+Fees 
+
+We
+incurred neither fees nor expenses for 2022 for professional services rendered by BFB for tax compliance, tax advice, or tax planning
+other than the fees disclosed above under the caption Audit Fees. 
+
+Other
+Fees 
+
+We
+incurred no fees or expenses for 2022 for any other products or professional services rendered by BFB other than as described above. 
+
+24 
+
+PART
+IV 
+
+ITEM
+ 15. 
+ FINANCIAL
+ STATEMENT SCHEDULES. 
+
+(a)
+Financial Statements 
+
+Pages 
+
+Report of Independent Registered Public Accounting Firm (PCAOB: ID 
+ F-3 
+
+Consolidated Balance Sheets as of December 31, 2022 
+ F-4 
+
+Consolidated Statements of Operations for the fiscal year ending December 31, 2022 
+ F-5 
+
+Consolidated Statements of Stockholders Deficit for the Years Ended December 31, 2022 
+ F-6 
+
+Consolidated Statements of Cash Flows for the fiscal year ending December 31, 2022 
+ F-7 
+
+Notes to the Consolidated Financial Statements 
+ F-8 
+
+ITEM
+ 16. 
+ EXHIBITS. 
+
+Exhibit 
+ 
+ Item 
+
+31.1 
+ 
+ Certification of Chief Executive Officer pursuant to Section 302(a) of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of Chief Financial Officer pursuant to Section 302(a) of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+
+101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema 
+
+101.CAL 
+ 
+ Inline
+ XBRL Taxonomy Extension Calculation Linkbase 
+
+101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition Linkbase 
+
+101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Label Linkbase 
+
+101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation Linkbase 
+
+104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+25 
+
+SIGNATURES 
+
+In
+accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+LEVER
+ GLOBAL CORPORATION 
+
+Date:
+ July 5, 2023 
+ /s/
+ Trent M. McKendrick 
+
+Trent
+ M. McKendrick, President and CEO 
+ (Principal
+ Executive Officer) 
+
+Date:
+ July 5, 2023 
+ /s/
+ Trent M. McKendrick 
+
+Trent
+ M. McKendrick, CFO 
+ (Principal
+ Accounting Officer) 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+SIGNATURE 
+ 
+ TITLE 
+ 
+ DATE 
+
+/s/
+ Trent M. McKendrick 
+ 
+ President,
+ Chief Executive Officer (Principal 
+ 
+ July 5, 2023 
+ 
+ Trent
+ M. McKendrick 
+ 
+ Executive
+ Officer) 
+
+/s/
+ Trent M. McKendrick 
+ 
+ Chief
+ Financial Officer (Principal Financial and 
+ 
+ July 5, 2023 
+ 
+ Trent
+ M. McKendrick 
+ 
+ Accounting
+ Officer) 
+
+26 
+
+LEVER
+GLOBAL CORPORATION 
+
+FINANCIAL
+STATEMENTS 
+
+Fiscal
+Year Ended December 31, 2022 
+
+Together
+with 
+
+ Report
+of Independent Registered Public Accounting Firm 
+
+F- 1 
+
+LEVER
+GLOBAL CORPORATION 
+
+Index
+to Consolidated Financial Statements 
+
+Pages 
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 5041) 
+ F-3 
+
+Consolidated Balance Sheets as of December 31, 2022 
+ F-4 
+
+Consolidated Statements of Operations for the fiscal year ending December 31, 2022 
+ F-5 
+
+Consolidated Statements of Stockholders Deficit for the Years Ended December 31, 2022 
+ F-6 
+
+Consolidated Statements of Cash Flows for the fiscal year ending December 31, 2022 
+ F-7 
+
+Notes to the Consolidated Financial Statements 
+ F-7 
+
+F- 2 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the shareholders and the board of directors of Lever Global Corporation 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Lever Global Corporation as of December 31, 2022, the related statements
+of operations, stockholders equity (deficit), and cash flows for the years then ended, and the related notes (collectively referred
+to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the
+financial position of the Company as of December 31, 2022, and the results of its operations and its cash flows for the years then ended,
+in conformity with accounting principles generally accepted in the United States. 
+
+Substantial
+Doubt about the Company s Ability to Continue as a Going Concern 
+
+The
+accompanying financial statements have been prepared to assume the Company will continue as a going concern. As discussed in Note 3 to
+the financial statements, the Company has suffered recurring losses from operations and has a significant accumulated deficit. In addition,
+the Company continues to experience negative cash flows from operations. These factors raise substantial doubt about the Company s
+ability to continue as a going concern. Management s plans regarding these matters are also described in Note 3. The financial
+statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+/S/
+
+BF
+Borgers CPA PC (PCAOB ID 5041) 
+
+We
+have served as the Company s auditor since 2022 
+
+July 5, 2023 
+
+F- 3 
+
+LEVER
+GLOBAL CORPORATION 
+
+CONSOLIDATED
+BALANCE SHEET 
+
+December
+ 31, 2022 
+
+Assets 
+
+Current
+ assets: 
+
+Cash 
+
+Account
+ receivable 
+
+Prepaid
+ expenses 
+
+Current
+ assets 
+
+Contributed
+ tangible software 
+
+Capitalized
+ software 
+
+Total
+ assets 
+
+Liabilities
+ and Stockholders Deficit 
+
+Current
+ liabilities: 
+
+Accounts
+ Payable 
+
+Stock
+ issuable liability 
+
+Related
+ party loans 
+
+Accrued
+ interests 
+
+Current
+ liabilities 
+
+Total
+ liabilities 
+
+Commitments
+ and Contingencies (Note 7) 
+
+- 
+
+Stockholders 
+ Equity (Deficit): 
+
+Preferred
+ stock, par value , shares authorized, issued and outstanding, as of December 31, 2022 
+
+Common
+ stock, par value , shares authorized; 
+ shares issued and outstanding, as of December 31, 2022 
+
+Additional
+ paid-in capital 
+
+Accumulated
+ deficit 
+
+() 
+ 
+ Total
+ stockholders equity 
+
+Total
+ liabilities and stockholders equity 
+
+See
+accompanying notes to the financial statements 
+
+F- 4 
+
+LEVER
+GLOBAL CORPORATION 
+
+CONSOLIDATED
+STATEMENTS OF OPERATION 
+
+Period
+ from 
+ March
+ 24, 2022 to 
+ December
+ 31, 2022 
+
+Revenues 
+
+Subscription
+ fees 
+
+Total
+ revenue 
+
+Cost
+ of sales 
+
+Subscription
+ software 
+
+Total
+ cost of sales 
+
+Gross
+ profit 
+
+() 
+ 
+ Operating
+ expenses: 
+
+General
+ and administrative 
+
+Sales
+ and marketing 
+
+Total
+ operating expenses 
+
+Operating
+ loss 
+
+() 
+ 
+ Other
+ income (expense): 
+
+Interest
+ expense 
+
+() 
+ 
+ Other
+ income (expense) 
+
+() 
+ 
+ Total
+ other expense 
+
+() 
+ 
+ Loss
+ before provision for income taxes 
+
+)) 
+ 
+ Provision
+ for income taxes 
+
+- 
+
+Net
+ loss 
+
+() 
+ 
+ Net
+ loss per common share, basic and diluted 
+
+() 
+ 
+ Weighted
+ average number of common shares outstanding basic diluted 
+
+See
+accompanying notes to the financial statements 
+
+F- 5 
+
+LEVER
+GLOBAL CORPORATION 
+
+CONSOLIDATED
+STATEMENT OF STOCKHOLDERS EQUITY 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Equity 
+
+Preferred
+ stock 
+
+Common
+ stock 
+
+Additional
+ Paid-in 
+
+Accumulated 
+
+Total
+ Stockholders 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Equity 
+
+Balance,
+ December 31, 2021 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Nine
+ Months Ended December 31, 2022 
+
+Preferred
+ shares issued for founder services valued at par value 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Common
+ shares issued for founders services valued at par value 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Paid-in-capital
+ for contributed tangible software 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Common
+ shares issued for cash valued at per share 
+
+- 
+
+- 
+
+- 
+
+Common
+ shares issued for 500K note conversion at per share 
+
+- 
+
+- 
+
+- 
+
+Common
+ shares issued for cash valued at per share 
+
+- 
+
+- 
+
+- 
+
+Common
+ shares issued for cash valued at per share 
+
+- 
+
+- 
+
+- 
+
+Common
+ shares issued for services valued at per share 
+
+- 
+
+- 
+
+- 
+
+Net
+ Loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+() 
+
+() 
+ 
+ Balance,
+ December 31, 2022 
+
+() 
+
+F- 6 
+
+LEVER
+GLOBAL CORPORATION 
+
+CONSOLIDATED
+STATEMENT OF CASH FLOWS 
+
+Period
+ from 
+ March
+ 24, 2022 to 
+ December
+ 31, 2022 
+
+Operating
+ Activities: 
+
+Net
+ Loss 
+
+() 
+ 
+ Adjustments
+ to reconcile net loss to net cash used in operating activities: 
+
+Preferred
+ stock issued for services 
+
+Common
+ stock issued for services 
+
+Contributed
+ tangible software 
+
+() 
+ 
+ Software
+ amortization 
+
+Change
+ in assets and liabilities: 
+
+Stock
+ payable for services 
+
+Accounts
+ receivable 
+
+() 
+ 
+ Prepaid
+ expenses 
+
+() 
+ 
+ Accounts
+ payable 
+
+Accrued
+ interests 
+
+Net
+ cash used in operating activities 
+
+() 
+ 
+ Investing
+ Activities: 
+
+Capitalized
+ software 
+
+() 
+ 
+ Net
+ cash used in investing activities 
+
+() 
+ 
+ Financing
+ Activities: 
+
+Paid-in-capital
+ for related party contribution 
+
+Proceeds
+ from related party loans 
+
+Common
+ stock issued for cash 
+
+Net
+ cash provided by financing activities 
+
+Net
+ increase (decrease) in cash 
+
+Cash
+ at beginning of the period 
+
+- 
+
+Cash
+ at end of the period 
+
+Cash
+ paid for income taxes 
+
+- 
+
+Cash
+ paid for interest 
+
+- 
+
+Non
+ Cash Investing and Financing Activities: 
+
+Common
+ Stock Issued for 500K Note conversion 
+
+See
+accompanying notes to the financial statements 
+
+F- 7 
+
+for the fiscal year ended December 31, 2022. 
+
+The
+App allows everyday people to directly negotiate, enroll, repay, and settle student loans for the US market without the complexity and
+confusion of the fine print. The App helps subscribers with debt management - negotiation, repayment, and settlement. We are committed
+to providing our subscribers with impartial guidance in their journey toward financial independence. The App will be available on the
+Play Store (Android) and App Store (iOS) under Lever App (the App as its brand name for a subscription-based fee billed
+monthly or annually. 
+
+NOTE
+1. BUSINESS DESCRIPTION AND NATURE OF OPERATIONS (continued) 
+
+The
+App will help the subscriber manage and resolve liabilities such as credit cards, student loans, and other types of consumer debts through
+continued education and recommendations on how and when to refinance the student loan with the department of education, federal student
+loan prequalification and enrollment, access credit scores, and other features that enable subscribers to manage their debt obligations
+smartly, intuitively, and cost-effectively. The Company initially intends to target student debt holders in the United States as its
+primary customer base. The Company believes that manually managing liabilities is complex and time-consuming, which involves actively
+monitoring personal finances, estimating payments, negotiating with lenders, and finding the proper federal and state grants and loan
+arrangements. It is difficult to maintain and monitor these loan terms with annual renewals that can last up to twenty-one (21) years
+on average. 
+
+The
+Company believes the student loan borrower will benefit from the App. Our Application Program Interface (APIs) and artificial intelligence
+(AI) driven programming connect them to the right and relevant federal loan programs with the most favorable terms qualifying
+amount and rate, enrolling and saving with a few clicks. The Lever App further informs the subscribers when and how to refinance their
+student loans. 
+
+Based
+on the inputs the subscriber provides, the Lever App provides visual guidelines on how the subscriber s budget and spending suit
+their current and future liabilities, including their student loan repayments, and provides a smarter way to repay their debts through
+features like payment round-ups and extra repayment recommendations, to help a subscriber pay off the liabilities smarter, without affecting
+their existing spending habits. 
+
+ The
+Lever App provides subscribers instant matches through Student Aid, the largest provider of financial aid for college in the United States,
+and other Federal student aid programs. The subscriber can access the complex world of student debt management in an easy four-step process
+through the Lever App, which includes: 
+
+Basic
+ subscriber information per KYC requirements, 
+
+The
+ subscriber links one or multiple loans in real-time, also known as Enrollment, 
+
+The
+ software matches with up to three (3) options to manage loans (deferment or forbearance or reduced payments, etc.), and 
+
+The
+ subscriber picks the best option to connect to the best United States Government aid program to complete the application. 
+
+Once
+subscribers sync their respective liabilities and loans with the Lever App, the software automates with a data-driven algorithm to match
+users with better ways to repay debts, such as providing automation for snowball or avalanche plans and extra repayment recommendations
+for managing liabilities. The App also includes credit score insights and payment round-up technology using open banking protocols that
+help and recommend that loan borrowers contribute micro amounts towards their loan principal, saving on years of interest and reaching
+financial independence faster and better with the App. 
+
+Business
+Strategy 
+
+Our
+experienced Management and in-house software development team have carefully designed various B2C debt management solutions to meet the
+needs of borrowers in the United States and globally. We intend to grow our core business, increase market share, and improve profitability
+principally by deploying the following growth strategies: 
+
+Complete
+ version 1 of the App in the third quarter of fiscal 2022 with the soft launch, and launch the App officially to the public in the
+ third quarter of fiscal 2023; 
+
+Ramp
+ up subscriber acquisition through our digital and traditional marketing strategies; 
+
+Continue
+ to enhance and promote our core proprietary liabilities and debt management app and introduce other innovative repayments, finance,
+ and spending features for United States consumers; 
+
+Future
+ growth will depend on the timely development and successful distribution of the Lever App by signing enterprise and employer deals
+ in the United States; 
+
+Increase
+ our software development capabilities to develop disruptive and next-generation machine learning and artificial intelligence-driven
+ technologies to grow and retain subscriber base; 
+
+Grow
+ subscriber base through accretive acquisitions, opportunistic investments, and beneficial partnerships; and; 
+
+Recognize
+ and enter high-growth markets to expand our services to meet the demand for other financial solutions, including but not limited
+ to auto-save and auto loan repayment from day-to-day debit card usage and investments such as IRAs and 401Ks. 
+
+NOTE
+1. BUSINESS DESCRIPTION AND NATURE OF OPERATIONS (continued) 
+
+Marketing
+and Sales 
+
+The
+Company aims to be flexible and responsive to its sales and marketing strategies to provide an omnichannel customer experience. Therefore,
+our primary focus is on different subscriber acquisition channels to expand our paid customer base. The Company is actively integrating
+digital and traditional marketing channels effectively, as we believe these are scalable channels and that one-size-fits-most customers
+no longer work. Our marketing strategy identifies and targets student borrowers who are high-value/high-potential subscribers. We have
+found that these customers are often more receptive to a digital marketing strategy that includes SEO marketing, an intuitive website
+experience, targeted emails/ content, educational blogs, and active social media engagement involving celebrities and influencers. For
+traditional marketing, such as conferences, trade shows, expos, media events, and direct meetings, the senior Management in person provides
+presentations, gives media interviews, and engages potential subscribers at events. 
+
+We
+have designed our marketing and sales strategies to drive prospective subscribers to the Play Store and App Store, where they can download
+our App. 
+
+To
+spread the word, the Company has engaged celebrities and influencers, such as Austin Reaves (Age 23), to promote and endorse the Company s
+products and services to target audiences. The Company carefully executes its media strategy by using billboard signage, street posters,
+bus ads, social media posting, digital TV ads, creating video-on-demand advertising, and attending events at schools, colleges, and university
+campuses. 
+
+The
+App s official launch is expected to be in the third quarter of fiscal 2023. The Company intends to use traditional marketing strategies
+such as billboard signage, digital TV ads, creating video-on-demand advertising, and attending events at schools, colleges, and university
+campuses after the App s official launch. Currently, the Company uses only online marketing, mainly social media campaigns, including
+engagement of celebrities and influencers and educational and other incentives-based posts on social media, to drive online traffic to
+its websites or directly to the App Store. 
+
+The
+Company implements an effective marketing funnel where we map out our subscribers journey from when they are a lead and then tailored
+strategies to encourage them to move through this funnel. 
+
+We
+also utilize many indirect channels where a network of industry professionals, introducing and referring affiliates as third parties,
+promote our services in exchange for performance-based compensation. In most cases, affiliates carry out the lead generation function,
+while the Company s staff provides subscribers and technical support to subscribers. 
+
+Most
+of the marketing and branding initiatives are taken in-house by our team. The Company may hire outside marketing and branding consultants
+and advertising firms from time to time. 
+
+NOTE
+1. BUSINESS DESCRIPTION AND NATURE OF OPERATIONS (continued) 
+
+Industry
+and Competitive Analysis 
+
+A
+student loan is money that the federal government and private institutions lend to students or parents to finance post-secondary education.
+Most students who get a bachelor s degree finance their education with one or more student loans. Student loans are the largest
+source of debt in the United States after mortgages. Student loans do not require the borrower to provide collateral, such as a house
+or a car, to guarantee the loan. The interest payment on the student loan is tax-deductible up to a maximum of . However, student
+loans are usually disbursed directly to the educational institution s financial aid office. The loans can only be used to cover
+tuition, college fees, room and board, living expenses while at college, and books. In most cases, bankruptcy laws do not allow the discharge
+of student loans under bankruptcy. 
+
+Public
+and Private Student Debt 
+
+million student loan borrowers in the United States owe a collective nearly 1.75 trillion in federal and private student loan debt as
+of April 2022, according to the Federal Reserve Bank of St. Louis (1) . According to a July 2021 report by MeasureOne (2) ,
+academic data firm about of student debt is owned by the US Department of Education, referred to as Public student debt.
+The balance of student debt, referred to as Private Student Loans, makes up of the total outstanding US student loans, equal to
+ billion. 
+
+(1)
+ Federal Reserve Bank of St. Louis. Student Loans Owned and Securitized . 
+
+Average
+Student Loans 
+
+The
+average student debt is estimated to be and for graduate and post-graduate students. The average US household with student
+debt owes , according to NerdWallet s 2020 household debt study. 
+
+Parent
+PLUS loans (3) are direct federal loans parents can use to pay for their dependent child s education. According to federal
+loan data, the average outstanding parent PLUS loan debt is . Total parent PLUS debt: billion distributed among million
+parent PLUS borrowers. 
+
+(2)
+ MeasureOne. Academic Lending Study December 15, 2021. 
+
+ (3)
+ StudentAid.gov. Federal Student Loan Portfolio by Loan Type. 
+
+Status
+of Student Loan Repayment (4) 
+
+. 
+
+Borrowers
+can also postpone private student loan payments via deferment or forbearance, but interest always accrues regardless of whether the borrower
+makes payments. If public student loan borrowers can t make payments, they can postpone them through deferment or forbearance.
+Interest typically accrues during these periods, but borrowers with subsidized loans don t owe the interest that accrues during
+deferment. 
+
+The
+US Government paused federal student loan repayments and interest during the pandemic throughout 2021 and extended it into the fall of
+2022. Despite the freeze, student loan balances still increased as newer loans entered repayment, despite no current payment due on most
+loans. 
+
+(4)
+ Federal Student Aid, Portfolio by Loan Status December 2021. 
+
+Status
+of Student Loan Default (5) 
+
+(5)
+ Federal Student Aid September 2020 
+
+Student
+Loan Forgiveness Options 
+
+The
+US Government provides several student loan forgiveness options and plans, including but not limited to: 
+
+Public
+ Service Loan Forgiveness (PSLF) or PSLF Waiver forgives the remaining balance on your Direct Loans after making 120 qualifying
+ monthly payments under a qualifying repayment plan while working full-time for a qualifying employer. 
+
+Income-driven
+ repayment forgiveness sets your monthly student loan payment at an amount intended to be affordable based on your income
+ and family size. 
+
+Borrower
+ defense to repayment if the school misled or engaged in other misconduct in violation of certain state laws, the student
+ borrower may be eligible for borrower defense to loan repayment, to the discharge of some or all of federal student
+ loan debt, and 
+
+Free
+ Application for Federal Student Aid, known as the FAFSA is the application for financial aid completed by current and prospective
+ college students in the United States to determine their eligibility for student financial aid. 
+
+We
+believe the personal debt management industry is highly fragmented and diversified, with several large and small companies offering a
+wide variety of debt management solutions. We believe that our direct and indirect competition includes but is not limited to HR benefits
+platforms, round-up saving and investing apps, personal finance and credit bureau platforms, personal finance educational tools, and
+other personal debt management companies. General financial content providers may also be considered indirect competition. Our target
+market is student loan borrowers looking to better their financial future by paying their loans and saving money. We offer a unique solution
+catered to student loan management in the most comprehensive and user-friendly way for the borrower and the servicer. 
+
+Our
+industry is active in mergers and acquisitions of digital debt management software companies by large and well-capitalized companies
+looking for complementary services. For example, in July 2018, LendingTree, Inc. (NASDAQ: TREE) announced today that it had entered into
+a definitive agreement to acquire Student Loan Hero, Inc. (6) , a personal finance website dedicated to helping student loan
+borrowers manage their student debt. In April 2021, Acorns, the Californian investment and savings app, landed its second acquisition
+of 2021 with artificial intelligence (AI) start-up Pillar (7) . 
+
+NOTE
+1. BUSINESS DESCRIPTION AND NATURE OF OPERATIONS (continued) 
+
+According
+to the Harvard Kennedy School report (8) , the fintech industry deals with the dangers of potential misuse and abuse of consumer
+data. This include but is not limited to the loss of privacy; violation of data security; increasing risks of fraud and scams; unfair
+and discriminatory uses of data and data analytics against rules and regulations; uses of data that are non-transparent to both consumers
+and regulators; harmful manipulation of consumer behavior; and risks that tech firms entering the financial or financial regulatory space
+will lack adequate knowledge, operational effectiveness, and stability. 
+
+The
+student loan forgiveness debate has entered into the national conversation. White House officials are planning to cancel in student
+debt per borrower after months of internal deliberations over how to structure loan forgiveness for tens of millions of Americans. According
+to Committee for a Responsible Federal Budget, a nonpartisan think tank wiping out of debt per borrower could cost roughly 
+billion. 
+
+The
+Company firmly believes that the student loan industry will continue to be the fastest-growing source of debt for United States households.
+Student loans are now the largest source of unsecured debt in the United States. They have become a financial industry in its own right,
+especially with its secondary market and student loan asset-backed securities. 
+
+(6)
+ PRNewswire, July 2018. 
+
+ (7)
+ Fintech Futures, April 2021. 
+
+ (8)
+ M-RCBG Associate Working Paper, Harvard Kennedy School, June 2020. 
+
+Board
+of Directors 
+
+As
+of December 31, 2022, the Company appointed Trent McKendrick as the Executive Chairman and Director. The Company currently has one executive
+director. 
+
+Covid-19 
+
+In
+March 2020, the World Health Organization declared the outbreak of a novel coronavirus (COVID-19) as a pandemic throughout the United
+States. While the initial outbreak concentrated in China, it spread to several other countries and reported infections globally. Many
+countries worldwide, including the United States, implemented significant governmental measures to control the spread of the virus, including
+temporary closure of businesses, severe restrictions on travel and the movement of people, and other material limitations on the business.
+Even though the pandemic appears to slow down and is in control, these measures have resulted in work stoppages, absenteeism in the Company s
+labor workforce, and other disruptions. The extent to which the coronavirus impacts our operations will depend on future developments.
+These developments are highly uncertain. We cannot predict them with confidence, including the duration and severity of the outbreak
+and the actions required to contain the coronavirus or treat its impact. In particular, the continued spread of the coronavirus globally
+could adversely impact our operations and workforce, including our marketing and sales activities and ability to raise additional capital,
+which could harm our business, financial condition, and operation results. 
+
+Russia-Ukraine
+Conflict 
+
+The
+geopolitical situation in Eastern Europe intensified on February 24, 2022, with the Russian invasion of Ukraine. The war between the
+two countries continues to evolve as military activity continues. The United States and certain European countries have imposed additional
+sanctions on Russia and specific individuals. As of the date of this filing, there has been no disruption in our operations. 
+
+Rounding
+Error 
+
+Due
+to rounding, numbers presented in the financial statements for the period ending from inception to December 31, 2022, and throughout
+the report may not add up precisely to the totals provided, and percentages may not exactly reflect the absolute figures. 
+
+cash and
+cash equivalent held at the financial institution. 
+
+in sales, marketing, and advertising costs sales and marketing for the fiscal year ended December
+31, 2022. The sales and marketing cost mainly included costs for the engagement of celebrities, cash and stock-based compensation for
+marketing consultants, SEO marketing, online marketing on industry websites, press releases, and public relations activities. The sales,
+marketing, and advertising expenses represented of the total expenses for the fiscal year ended December 31, 2022. 
+
+NOTE
+2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+cash and
+cash equivalent held at the financial institution. 
+
+in R and D costs to determine the technical feasibility of the Lever App for the US market.
+In the consolidated income statements, we have included the R and D costs in the General and Administrative expenses. 
+
+NOTE
+2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+, as the contributed tangible software.
+The Company estimated the value of the source code using the cost approach as the related party contributed to it. The Company attributed
+100 value to the cost approach, closest to the actual value of developing the source code. 
+
+ years. Amortization expense was for the fiscal year ended December
+31, 2022, and the Company classifies such cost as the Cost of Sales. 
+
+. At the end of December 31, 2022, accumulated software amortization
+expenses were . As a result, the unamortized balance of capitalized software on December 31, 2022, was . 
+
+The
+Company launched version 1 of the App in August 2022. As a result, we are amortizing the gross capitalized cost as an amortization expense,
+and the Company classifies such cost as the Cost of Sales. 
+
+The
+Company has estimated aggregate amortization expense for each of the five (5) succeeding fiscal years based on the estimated software
+asset s lifespan of three (3) years. 
+
+Fiscal
+ year ended December 31, 2024 
+
+Fiscal
+ year ended December 31, 2025 
+
+Fiscal
+ year ended December 31, 2026 
+
+- 
+
+Fiscal
+ year ended December 31, 2027 
+
+- 
+
+Average
+exchange rate for the period: 
+
+March
+ 24, 2022, to 
+December 31, 2022 
+
+USD:
+ AUD 
+
+The
+Company related party transactions were in AUD, and its reporting currency is the US dollar. 
+
+NOTE
+2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+The
+Company translates its records into USD as follows: 
+
+Assets
+ and liabilities at the rate of exchange in effect at the balance sheet date 
+
+Equities
+ at the historical rate 
+
+Revenue
+ and expense items at the average rate of exchange prevailing during the period 
+
+as the contributed tangible software.
+The Company estimated the value of the source code using the cost approach as the related party contributed it. The Company attributed
+100 value to the cost approach, closest to the actual value of developing the source code. 
+
+basic and dilutive shares issued and outstanding, respectively. 
+
+During
+the nine months ending December 31, 2022, common stock equivalents were anti-dilutive due to a net loss. Hence, they are not considered
+in the computation. 
+
+NOTE
+2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+.
+We evaluate contributed tangible software for impairment at least annually to confirm if the carrying amount of contributed tangible
+software exceeds their fair value. The contributed tangible software primarily consists of the source code of the Lever App, fundamental
+testing of the App in a similar market, and a relationship with the software development and marketing team. We use various qualitative
+or quantitative methods for these impairment tests to estimate the fair value of our contributed tangible software. If the fair value
+is less than its carrying value, we would recognize an impairment charge for the difference. The Company did not record impairment for
+December 31, 2022. 
+
+ASU
+2020-06, Debt Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging Contracts in
+Entity s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity s Own Equity ,
+issued in August 2020 simplifies the accounting for convertible debt and convertible preferred stock by removing the requirements to
+present certain conversion features in equity separately. In addition, the amendments also simplify the guidance in ASC Subtopic 815-40,
+Derivatives and Hedging: Contracts in Entity s Own Equity, by removing certain criteria that must be satisfied to classify a contract
+as equity, which is expected to decrease the number of freestanding instruments and embedded derivatives accounted for as assets or liabilities.
+Finally, the amendments revise the guidance on calculating earnings per share, requiring the use of the if-converted method for all convertible
+instruments and rescinding an entity s ability to rebut the presumption of share settlement for instruments that may be settled
+in cash or other assets. The amendments are effective for public companies for fiscal years beginning after December 15, 2021. Early
+adoption is permitted, but no earlier than fiscal years beginning after December 15, 2020. The guidance must be adopted as of the beginning
+of the fiscal year of adoption. The Company does not expect this ASU 2020-06 to impact its condensed consolidated financial statements. 
+
+Other
+recent accounting pronouncements issued by the FASB (including its Emerging Issues Task Force) and the United States Securities and Exchange
+Commission did not or are not believed by Management to have a material impact on the Company s present or future consolidated
+financial statements. 
+
+.
+On December 31, 2022, the working capital surplus was . The increase in the working capital surplus was mainly due to the equity
+capital raise in May 2022. 
+
+From
+March 24, 2022 Inception and December 31, 2022, the Company incurred a net loss of . From March 24, 2022 Inception and December 31, 2022, the Company generated revenue of . 
+
+Since
+its inception, the Company has sustained losses and negative cash flows from operations. As of December 31, 2022, the Company had 
+cash on hand. The Management believes that cash on hand may not be sufficient for the Company to meet working capital and corporate development
+needs as they become due in the ordinary course of business for twelve (12) months following December 31, 2022. From inception to December
+31, 2022, the Company did not earn any significant revenues and had an operating loss of . The Company continues to experience
+negative cash flows from operations and the ongoing requirement for substantial additional capital investment to develop its financial
+technologies. 
+
+Management
+has considered various factors in evaluating the Company s sustainability and the ability to manage obligations due within a year.
+Management has considered general economic conditions, key industry metrics, operating results, capital expenditures, commitments, and
+future obligations and liquidity. If there is a delay in generating significant revenues by the end of December 31, 2022, the Company
+will require capital infusion from new and existing investors, streamlining operating costs, and evaluating new business strategies to
+enhance cash flow from operations. 
+
+The
+Management expects that it will need to raise significant additional capital to accomplish its growth plan over the next twelve (12)
+months. The Management expects to seek to obtain additional funding through private equity or public markets. However, there can be no
+assurance about the availability or terms such as financing and capital might be available. 
+
+The
+Company s ability to continue as a going concern may depend on the Management s plans discussed below. The consolidated financial
+statements do not include any adjustments relating to the recoverability and classification of assets or the amounts and classification
+of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+
+To
+the extent the Company s operations are insufficient to fund the Company s capital requirements, the Management may attempt
+to enter into a revolving loan agreement with financial institutions or raise capital through the sale of additional capital stock or
+issuance of debt. 
+
+The
+Management intends to continue enhancing its revenue from its Lever App subscription model, which it expects to launch in the fourth
+quarter of fiscal 2022. In the meantime, the Company expects to raise funds through private placement offerings and debt financing. See
+Note 8 for Notes Payable. As the Company increases its subscription base in the United States, it intends to acquire long-lived assets
+to provide a future economic benefit beyond fiscal 2022. 
+
+,
+the contributed tangible software. The Company estimated the value of the source code using the cost approach as it was a related party
+transaction. 
+
+At
+March 24, 2022 (inception), the Company issued common stock on March 24, 2022, and preferred stock on March 24, 2022,
+at par value as the founder in consideration of services rendered to the Company. A total combined value of . Lever Holdings provided
+seed capital to Mr. McKendrick for to start Lever Appin the United States. On March 31, 2022, the Company converted all the
+outstanding notes into common stock by issuing common stock valued at per share to Lever Holdings shareholders.
+As a result of this conversion, Mr. McKendrick received common stock of the Company and founding shares of common and preferred
+stock. Mr. McKendrick transferred shares to a software developer. 
+
+Mr.
+Stephen Copulos has funded the Company since its inception for . Mr. Copulos currently owns common stock of the
+Company, representing of issued and outstanding shares of the Company as of December 31, 2022. Mr. Copulos received these shares
+from the note conversion and for cash consideration. 
+
+to start Lever App in the United States. On March 31, 2022, the Company
+converted all the outstanding notes into common stock by issuing common stock valued at per share to Lever Holdings.
+On December 31, 2022, the Lever Holdings 500K Note balance was zero. 
+
+Citywest
+150K Notes Payable 150,000) 
+
+On
+December 21, 2022, the Company borrowed at a interest rate due on December 21, 2023, from Citywest Corp Pty Ltd ATF Copulas
+(Sunshine) Unit Trust, which directly benefits Mr. Copulos. According to the conversion rights of the note, upon consummation of merger
+ acquisition or change of ownership, the entire Note shall automatically convert, though no further action on the part of the Company
+or the Holder, into Shares of Common Stock on a fully diluted basis, but in no event will the conversion be less than 
+Shares. In case of IPO, the note is convertible into Common Stock to up to , at the IPO price per Share less of the 7-day
+VWAP (Volume Weighted Average Price) discount per Share. 
+
+Eyeon
+150K Notes Payable 150,000) 
+
+On
+December 21, 2022, the Company borrowed at a interest rate due on December 21, 2023, from Eyeon Investments Pty Ltd ATF
+Eyeon Investments Family Trust, an entity directly benefiting Mr. Copulos. According to the conversion rights of the note, upon consummation
+of merger acquisition or change of ownership, the entire Note shall automatically convert, though no further action on the part
+of the Company or the Holder, into Shares of Common Stock on a fully diluted basis, but in no event will the conversion be less
+than Shares. In case of IPO, the note is convertible into Common Stock to up to , at the IPO price per Share less 
+of the 7-day VWAP (Volume Weighted Average Price) discount per Share. 
+
+for the fiscal year ending December 31, 2022. The Company rents its servers, computers, and data center from
+an unrelated third party. Under the rent Agreement, the lessor provides furniture, fixtures, and leasehold improvements at Level 11,
+9255 Subset Boulevard, West Hollywood, CA 90069 (Hollywood Office), as discussed in Note 2. 
+
+From
+May 2022 to the present, the Company leases office space in West Hollywood from an unrelated party for a year. The office s rent
+payment is per month as the General and administrative expenses. 
+
+The
+agreement continues month-to-month until the Company or the lessor chooses to terminate the agreement s terms by giving thirty
+(30) days notice. The Company uses the office for software development and technical support. The Company has no long-term obligations
+to continue as a tenant in the Hollywood Office. 
+
+Employment
+Agreement 
+
+The
+Company gave all salary compensation to Mr. McKendrick as an employee, who committed a hundred percent (100 of their time to the Company.
+The Company has not formalized performance bonuses and other incentive plans. Mr. McKendrick s annual salary compensation is 
+per his employment agreement. 
+
+Accrued
+Interest 
+
+As
+of December 31, 2022, the Company had in accrued interests. 
+
+Pending
+Litigation 
+
+Management
+is not aware of any actions, suits, investigations, or proceedings (public or private) pending or threatened against or affecting any
+of the assets or any affiliate of the Company. 
+
+Tax
+Compliance Matters 
+
+As
+the Company began operation on March 24, 2022, the Company has not assessed federal and state payroll tax payments. The Company will
+aggregate all such payments in the General and administrative expenses in the future. 
+
+shares of preferred stock, a par value of 
+per share, and shares of common stock, a par value of per share. As of December 31, 2022, the Company had 
+common shares and preferred shares issued and outstanding. The preferred stock has twenty (20) votes for each share of preferred
+shares owned. The preferred shares have no other rights, privileges, and higher claims on the Company s assets and earnings than
+common stock. 
+
+Preferred
+Stock 
+
+On
+March 24, 2022, the Board agreed to issue shares of Preferred Stock to TJM Capital LLC, a limited liability company owned by
+Mr. McKendrick as the founder, in consideration of services rendered to the Company. As of December 31, 2022, the Company had 
+preferred shares issued and outstanding. 
+
+Common
+Stock 
+
+On
+March 24, 2022, the Company collectively issued and at par value to TJM Capital LLC, a limited liability company
+owned by Mr. McKendrick and Trent McKendrick, respectively, as the founder and incorporator of the Company. 
+
+On
+March 24, 2022, the Company issued shares to Eyeon Investment Pty Ltd., an entity controlled by Mr. Copulos, for the cash
+consideration of . 
+
+On
+March 31, 2022, the Company issued shares to an individual valued at for cash consideration. 
+
+On
+March 31, 2022, the Company issued shares valued at to settle the 500K Note with Lever Holdings. 
+
+On
+April 28, 2022, the Company issued shares valued at for cash consideration received from Eyeon Investment Pty Ltd.,
+an entity controlled by Mr. Copulos. 
+
+On
+April 28, 2022, the Company issued shares valued at for cash consideration received from Eyeon Investment Pty Ltd.,
+an entity controlled by Mr. Copulos. 
+
+On
+April 28, 2022, the Company issued shares to an individual valued at for marketing and branding services rendered. 
+
+On
+May 26, 2022, the Company issued shares valued at for cash consideration received from Eyeon Investment Pty Ltd.,
+an entity controlled by Mr. Copulos. 
+
+Warrants 
+
+There
+are no outstanding warrants. 
+
+() 
+
+Stock/options
+ issued for services 
+
+Depreciation
+ and amortization 
+
+Tax
+ income (loss) 
+
+() 
+
+() 
+
+Prior
+ Year NOL (exclude effect of state tax) 
+
+- 
+
+- 
+
+Cumulative
+ NOL 
+
+() 
+
+() 
+
+Stock/options
+ issued for services 
+
+Depreciation
+ and amortization 
+
+Tax
+ rate change 
+
+- 
+
+Valuation
+ allowance 
+
+() 
+
+Total 
+
+- 
+
+Tax
+ at statutory rate 
+
+() 
+
+State
+ tax benefit, net of federal tax effect 
+
+- 
+
+Change
+ in valuation allowance 
+
+Total 
+
+- 
+
+In
+2022, the Company had pre-tax income and losses of , respectively, available for carry-forward to offset future taxable income.
+The Management has determined to provide full valuation allowances for our net deferred tax assets at the end of 2022, including Net
+Operating Loss (NOL) carryforwards generated during the years. We could realize our deferred tax assets based on its evaluation of positive
+and negative evidence, including our history of operating losses and the uncertainty of generating future taxable income. 
+
+On
+December 22, 2017, the United States President signed the Tax Cuts and Jobs Act (the Act ). The Act amends the Internal
+Revenue Code to reduce tax rates and modify individual and business policies, credits, and deductions. The Act reduces the corporate
+federal tax rate from a maximum of to a rate for corporations. The rate reduction took effect on January 1, 2018. Therefore,
+we have applied the tax rate of to the ending balance of federal deferred tax assets. As we provided a full valuation allowance against
+our net deferred tax assets, we have not recorded any tax impact due to the tax rate change. 
+
+at a interest rate due on March 31, 2024, from Citywest Corp Pty Ltd ATF Copulas (Sunshine)
+Unit Trust (Citywest), directly benefiting Mr. Copulos. 
+
+Eyeon
+I 100K Notes Payable 100,000) 
+
+On
+March 29, 2023, the Company borrowed at a interest rate due on March 31, 2024, from Eyeon Investments Pty Ltd ATF Eyeon
+Investments Family Trust (Eyeon), directly benefiting Mr. Copulos. 
+
+Northrock
+100K Notes Payable 100,000) 
+
+On
+March 29, 2023, the Company borrowed at a interest rate due on March 31, 2024, from Northrock Unit Capital Trust (Northrock),
+which directly benefits Mr. Copulos. 
+
+Eyeon
+II 100K Notes Payable 100,000) 
+
+On
+May 29, 2023, the Company borrowed at a interest rate due on May 29, 2024, from Eyeon Investments Pty Ltd ATF Eyeon Investments
+Family Trust, an entity directly benefiting Mr. Copulos. According to the conversion rights of the note, upon consummation of merger
+ acquisition or change of ownership, the entire Note shall automatically convert, though no further action on the part of the Company
+or the Holder, into Shares of Common Stock on a fully diluted basis, but in no event will the conversion be less than 
+Shares. In case of IPO, the note is convertible into Common Stock to up to , at the IPO price per Share less 30 of the 7-day
+VWAP (Volume Weighted Average Price) discount per Share. 
+
+F- 23 
+
+EXHIBIT
+INDEX 
+
+Exhibit 
+ 
+ Item 
+
+31.1 
+ 
+ Certification of Chief Executive Officer pursuant to Section 302(a) of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of Chief Financial Officer pursuant to Section 302(a) of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+
+101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema 
+
+101.CAL 
+ 
+ Inline
+ XBRL Taxonomy Extension Calculation Linkbase 
+
+101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition Linkbase 
+
+101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Label Linkbase 
+
+101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation Linkbase 
+
+104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+F- 24 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION
+OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 
+
+ SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Trent M. McKendrick, certify that: 
+
+1. 
+ I
+ have reviewed this report on Form 10-K of Lever Global Corporation, a Delaware corporation registrant ); 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the condensed consolidated financial statements, and other financial information included in this report, fairly
+ present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+ the periods presented in this report; 
+
+4. 
+ The
+ registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant is made known to us by others within those entities, particularly
+ during the period in which this report is being prepared; 
+
+b. 
+ Designed
+ such control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+ to provide reasonable assurance regarding the reliability of financial reporting and the preparation of condensed consolidated financial
+ statements for external purposes with generally accepted accounting principles; 
+
+c. 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The
+ registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over
+ financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or
+ persons performing the equivalent functions): 
+
+a. 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+/s/
+ Trent M. McKendrick 
+
+Trent
+ M. McKendrick 
+
+President
+ (Principal Executive Officer) 
+
+July 5, 2023 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+EXHIBIT
+31.2 
+
+CERTIFICATION
+OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 
+
+ SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Trent M. McKendrick, certify that: 
+
+1. 
+ I
+ have reviewed this report on Form 10-K of Lever Global Corporation, a Delaware corporation registrant ); 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the condensed consolidated financial statements, and other financial information included in this report, fairly
+ present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+ the periods presented in this report; 
+
+4. 
+ The
+ registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant is made known to us by others within those entities, particularly
+ during the period in which this report is being prepared; 
+
+b. 
+ Designed
+ such control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+ to provide reasonable assurance regarding the reliability of financial reporting and the preparation of condensed consolidated financial
+ statements for external purposes with generally accepted accounting principles; 
+
+c. 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The
+ registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over
+ financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or
+ persons performing the equivalent functions): 
+
+a. 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+/s/
+ Trent M. McKendrick 
+
+Trent
+ M. McKendrick, Chief Financial Officer 
+
+(Principal
+ Accounting Officer) 
+
+July 5, 2023 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED 
+
+ PURSUANT
+TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the annual report of Lever Global Corporation (the Company on Form 10-K for the period ending December
+31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, in the
+capacities and on the dates indicated below, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that to his knowledge: 
+
+(1) 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Company. 
+
+/s/
+ Trent M. McKendrick 
+
+Trent
+ M. McKendrick 
+
+President
+ (Principal Executive Officer) 
+
+/s/
+ Trent M. McKendrick 
+
+Trent
+ M. McKendrick 
+
+Chief
+ Financial Officer (Principal Accounting Officer) 
+
+July 5, 2023 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 6
+ leve-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ leve-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ leve-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ leve-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

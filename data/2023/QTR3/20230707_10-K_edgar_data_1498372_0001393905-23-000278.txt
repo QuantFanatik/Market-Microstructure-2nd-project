@@ -1,0 +1,1895 @@
+<Header>
+<FileStats>
+    <FileName>20230707_10-K_edgar_data_1498372_0001393905-23-000278.txt</FileName>
+    <GrossFileSize>2132532</GrossFileSize>
+    <NetFileSize>106200</NetFileSize>
+    <NonText_DocumentType_Chars>499581</NonText_DocumentType_Chars>
+    <HTML_Chars>474844</HTML_Chars>
+    <XBRL_Chars>363757</XBRL_Chars>
+    <XML_Chars>647985</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001393905-23-000278.hdr.sgml : 20230707
+<ACCEPTANCE-DATETIME>20230707172510
+ACCESSION NUMBER:		0001393905-23-000278
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		60
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230707
+DATE AS OF CHANGE:		20230707
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			iWallet Corp
+		CENTRAL INDEX KEY:			0001498372
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATIONS EQUIPMENT, NEC [3669]
+		IRS NUMBER:				271830013
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56347
+		FILM NUMBER:		231077717
+
+	BUSINESS ADDRESS:	
+		STREET 1:		401 RYLAND ST.
+		STREET 2:		STE. 200A
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89502
+		BUSINESS PHONE:		858-610-2958
+
+	MAIL ADDRESS:	
+		STREET 1:		401 RYLAND ST.
+		STREET 2:		STE. 200A
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89502
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Queensridge Mining Resources, Inc.
+		DATE OF NAME CHANGE:	20100805
+
+</SEC-Header>
+</Header>
+
+ 0001393905-23-000278.txt : 20230707
+
+10-K
+ 1
+ iwal-20221231.htm
+ IWALLET CORP - FORM 10-K SEC FILING
+
+iWallet Corp - Form 10-K SEC filing 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the Fiscal Year Ended 
+ 
+ OR 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ Commission File Number 
+
+(Name of Small Business Issuer in its charter) 
+
+(State of incorporation) 
+ 
+ (IRS Employer Identification No.) 
+
+, 
+
+(Address of principal executive office) 
+ 
+ (Zip Code) 
+
+Registrant s telephone number, including area code: - 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ 
+ Title of each class 
+ Trading Symbol(s) 
+ Name of each exchange 
+ on which registered 
+ 
+ Not applicable 
+ Not applicable 
+ Not applicable 
+
+Securities registered pursuant to Section 12(g) of the Act: Common Stock, par value 0.001 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes 
+ 1 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act): Yes No 
+ 
+ On June 30, 2022, the last business day of the registrant s most recently completed second fiscal quarter, the aggregate market value of the registrant s common stock held by non-affiliates of the registrant was approximately , based upon the closing price on that date of the common stock of the registrant on the OTC Link alternative quotation system of 0.009. For purposes of this response, the registrant has assumed that its directors, executive officers and beneficial owners of 5 or more of its common stock are deemed to be affiliates of the registrant. 
+ 
+ As of July 7, 2023, the Company had outstanding shares of common stock. 
+ 
+ Documents incorporated by reference: None. 
+
+2 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+ 
+ This report includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, which include but are not limited to, statements concerning our business strategy, plans and objectives, projected revenues, expenses, gross profit, income, and mix of revenue. These forward-looking statements are based on our current expectations, estimates and projections about our industry, management s beliefs and certain assumptions made by us. Words such as anticipates, expects, intends, plans, predicts, potential, believes, seeks, hopes, estimates, should, may, will, with a view to and variations of these words or similar expressions are intended to identify forward-looking statements. These statements do not guarantee future performance and are subject to risks, uncertainties and assumptions that are difficult to predict. Therefore, our actual results could differ materially and adversely from those expressed in any forward-looking statements. 
+ 
+ Item 1. Business 
+ 
+ Overview 
+ 
+ iWallet Corporation (the Company or iWallet was incorporated on November 18, 2009, in the State of California as Queensridge Mining Resources, Inc. On or about July 21, 2014, iWallet Corporation, a private California corporation, merged with and into our wholly owned Nevada subsidiary, iWallet Acquisition Corp., and iWallet Acquisition Corp. then immediately merged with and into the Company, with the Company immediately changing its name to iWallet Corporation. 
+ 
+ The Company is currently focused on designing and developing biometric locking wallets and related physical, personal security products, and providing consulting services in connection with protective wallets and other personal security products. 
+ 
+ The Company s fiscal year end is December 31, its telephone number is (858) 610-2958, and the address of its principal executive office is 401 Ryland St., Ste. 200A, Reno, Nevada. 
+ 
+ The Company was previously a public company required to file reports with the United States Securities and Exchange Commission (the SEC as a result of effectiveness of prior registration statements we filed with the SEC in 2010 and 2014, but our reporting obligations were automatically suspended as a result of having less than 300 shareholders of record, and we subsequently filed a Form 15 (a Notice of the suspension of our duty to file reports under the Securities Exchange Act) and discontinued reporting in 2016. 
+ 
+ Description of Business 
+ 
+ We are a designer and developer of innovative, physical, personal security products that incorporate security and communication technologies to protect against identity, personal and financial information theft. iWallet is a registered trademark in the United States. Our prior designs include a biometric locking luxury storage case, made from carbon fiber or aluminum, that protects cash, credit cards and personal information with a proprietary fingerprint security system from being read by many types of RF devices in public spaces, and a soft leather wallet that incorporates a GPS module allowing the customer to locate the wallet if misplaced. Using a free mobile application, the wallets were designed to allow owners to tether their wallets to a supported mobile smart device. A proximity alarm could then be configured to sound on the mobile device synced with our high-end version of the wallet when the wallet is separated by about five meters. 
+ 
+ We are based in San Diego, California, and the iWallet business was originally founded in 2009. The initial version of the iWallet generated sales of over 700,000 in the first eighteen months following its launch. Established sales channels include Neiman Marcus in North America, Harrods in England, Highline Peak Group in Canada, and NeedItWantItGadgets in New Zealand. Our prospective sales channels include Dufry, Touch of Modern, Skymall, Travelsmith, Hammacher Schlemmer, and co-branding for Montblanc, Porsche Design, Ducati, Gucci, and Bugatti. We own the trademark iWallet for secure luxury storage cases connected to smartphones in the USA and have patents worldwide. We were previously licensed by Apple Inc. as an official Accessory Developer. That license is currently lapsed due to our current redesign of our product line and incorporation of updated technologies into our product line, but we anticipate being licensed as an official Accessory Developer 
+ 3 
+ 
+ again within the next 12 months, subject to completion of our product redesign during that time period. We also currently provide consulting services to other companies in the industry. 
+ 
+ We are currently improving our designs and seeking manufacturers to launch our products back into the market, and we are not currently engaged in any product sales. We are currently redesigning the original iWallet with current technology as follows: 
+ 
+ a. Add facial recognition vs. the original fingerprint scanner in the original iWallet design. 
+ b. Add GPS tracking vs. the original alarm going off when the iWallet was separated from the linked mobile device. 
+ c. Use flexible case material vs. the original hard case to house wallet electronics. 
+ d. Add ability to download credit card numbers to its built-in memory vs. the original non capability. 
+ 
+ This new technology is currently being designed to be implemented with various portable containers like wallets, passport holders and hand bags. We are in the initial stages of product redesign, and we are currently conducting tests with electronic components from different suppliers to see which ones work more efficiently. Once we know which ones work to our satisfaction, we plan to make 3D prototypes to show to our consulting customers that already have relationships with for their feedback and approval. Due to the revamping of our line of products, we have discontinued manufacturing the original iWallet since we consider the prior iWallet technology outdated. 
+ 
+ The Company is currently working with engineers regularly to reach the aforementioned four technology feature milestones described above, and the Company is also meeting regularly with potential clients that show interest in this new technology and might be willing to either purchase product or designs, including gauging interest in potential white (private) labeling for large name brands like Dunhill with which we have relationships. 
+ 
+ We have accumulated a database of customers through tradeshows like the Consumer Electronics Show-CES, where iWallet won an innovation award that created a substantial interest in our products throughout many industries like automotive (General Motors, Mercedes Benz, Porsche each approached us previously), which could potentially sell iWallet products in their gift shops situated at their dealerships; duty-free shops situated at national borders, as well as in-flight catalogs, stores in cruise ships, etc. We also plan for our future products to be distributed through luggage retailers and manufacturers like we have in the past with Heys Luggage. 
+ 
+ We anticipate that we will be ready to launch our redesigned products with updated technological features within the next 12 months, although the timeline may be delayed due to the continuing effects of the COVID-19 pandemic and the worldwide shortage in electronic components, resulting in part from Chinese supply chain interruptions and China s continuing COVID-19 lockdowns. Accordingly, our projected product launch timeline is subject to normalization of the current computer chip and related component supply situation. We believe that with prototypes in hand, we will be able to secure purchase orders from small and large businesses and go into production, subject to electronic component availability, within the next year. 
+ 
+ Products and Technology 
+ 
+ We are redesigning our original product, which will be marketed as the iWallet 2.0, to have the following features: 
+ 
+ Sleek, compact industrial design with carbon fiber case 
+ Pairs with the owner s cellular phone via bluetooth technology 
+ Patented, exclusive tamper resistant locking mechanism utilizes innovative fingerprint biometric reader for unlocking 
+ Unique latch control that only consumes power during latching hence providing extended battery life 
+ RFID blocking capability for enhanced wireless protection 
+ Speaker providing audible feedback 
+ GPS tracking capabilities 
+ 
+ 4 
+
+We also intend to bring the following additional products to market: 
+ 
+ Leather wallets with a GPS module built-in 
+ Storage devices with co-branding luxury partners 
+ A secure passport case called the iPassport 
+ A secure mobile personal safe to store pharmaceuticals in 
+ A smart padlock with a biometric reader for gym lockers and other personal areas that require security 
+ 
+ We hold over twenty patents and patent applications filed in various countries around the world. Our products are manufactured under contract by a manufacturer based in Zhuhai, China, Apollo Electronics. The suppliers for our raw materials have been Future Electronics, Namiki Motors, Cotech Taiwan, Digital Persona, Avnet Electronics, Avnet Taiwan, and Apollo Electronics. Historically, our largest major customer has been Neiman Marcus, which was the source of approximately 60 of our gross revenues from our most recent product sales several years ago. We have not had any product sales for several years as we have been focused on updating our designs to use more cost-effective technologies and materials, and sourcing and updating our suppliers, tooling, and molds. We have now updated our designs and distribution plan, and we expect to relaunch product sales during 2023, and expand our distribution efforts. As we expand our sales and distribution channels, we expect that our customer base will diversify and that, in the future, our revenues will not be dependent upon one or a few major customers. 
+ 
+ Services Offered 
+ 
+ We are currently providing project management services to companies interested in the research, development (such as feasibility study, source codes, gerber files, apps, etc.), manufacturing (molds, PCB boards, etc.), materials (such as carbon fiber, fiber glass, aluminum, leather, polycarbonate, etc.), complex supply chain logistics, complex product cycle, and marketing (sales channels established throughout years of iWallet s worldwide business relationships with high end brands, luxury department stores and duty free shops at worldwide airports, border crossings and cruise ships) of what we call smart containers, which are high-tech personal portable containers (such as wallets, purses, handbags and passport holders) that utilize the latest technologies in terms of GPS recovery for lost or stolen containers that can be tracked via an app on the owner s smartphone or tablet; facial recognition and other biometrics such as fingerprint readers, voice recognition or remote opening through an app, in order to access its contents; various encrypted credit card numbers downloaded to the container that can be displayed on a LED/LCD screen to choose form of payment (Visa/MasterCard/American Express/Discover) at a touch of a button and pay the retailer with its NFC capability (the advantage of our system is that it is off-the-grid meaning that there is no third party carrier-such as the cellular phone carrier-that can be hacked into to steal personal information). 
+ 
+ We consider ourselves to be at the forefront of the industry with the expertise, knowledge, resources and commitment to perform beyond our clients expectations with expertise in the field of portable containers that we dub Techcessories, and our commitment is to get their products out in the market as soon as possible to manage efficiently their product s life cycles and replace their aging products with updated technology. We also plan to offer all of the aforementioned processes to companies on a partnership basis, whereby we would reduce the prices we charge to our customers (which reduction would reflect a portion of our cost of development, manufacturing, inventory and marketing) in exchange for being paid commissions by the customers in the future from new product sales or potentially receiving partial ownership in their new product offerings in the future, in order to provide a more affordable option to the client. We do not yet have any customers engaged on this basis, nor are we dependent on this structure. 
+ 
+ Market and Competition Overview 
+ 
+ Our primary target demographic is consumers who are in the market for high-end luxury storage cases and similar accessories. We do not believe that the 200+ approximate retail price to the customer for many of our planned products will be an obstacle for our initial target demographic. 
+ 
+ We have previously competed with luxury brands such as Cartier, Salvatore Ferragamo, Louis Vuitton, and Gucci, all of which are better capitalized than we are, as well as the following smaller niche competitors (and product offerings): 
+ 5 
+ 
+ Ekster: Parliament Wallet - integrated RFID blocking technology. GPS tracking available as an addon. 
+ Nomad: Slim Wallet - provides GPS tracking in an inconspicuous fashion so thieves are not aware of the tracking capability. 
+ Zitahli: Mens Wallet with RFID Front for Men - includes RFID security technology. 
+ 
+ We believe the security, high technology, slim design, and carbon fiber or leather construction of our anticipated storage device products can position the Company to compete for a share of the luxury secure accessories market. 
+ 
+ Sales, Distribution and Growth Strategy 
+ 
+ Our current sales strategy is focused on developing and introducing a new flexible wallet made out of leather instead of carbon fiber in order to be more competitive from a pricing standpoint with traditional leather containers and wallets. 
+ 
+ We plan to private label our product designs for well-established global brands that we already have a business relationship with (described below) through our first and second generation wallets, unlike our competitors that only promote their brands. 
+ 
+ As funds permit, we plan to attend domestic consumer electronics trade shows, personal accessories trade shows, vacation trade shows, and luggage related trade shows to promote our line of unique products that we call Techcessories. The Company has been working with Global Marketing Strategies in order to explore creative strategies, advertising concepts, consumer opinions, existing distribution and sales channels to determine the best path for sales and distribution of the Company s product and services offerings. 
+ 
+ Our established distribution channels for the original iWallet products include the following, which we believe will be available for the Company s future product offerings. 
+ 
+ Neiman Marcus in North America 
+ Harrods in England 
+ 
+ Employees 
+ 
+ We have no employees except for our CEO, Steven Cabouli. 
+ 
+ Environmental Laws 
+ 
+ We have not incurred and do not anticipate incurring any expenses associated with environmental laws. 
+ 
+ Item 1A. Risk Factors. 
+ 
+ As a smaller reporting company as defined by Rule 12b 2 of the Securities Exchange Act of 1934, the Company is not required to provide the information under this item. 
+ 
+ Item 1B. Unresolved Staff Comments. 
+ 
+ Not applicable. 
+ 
+ Item 2. Properties. 
+ 
+ The Company does not currently lease or own any real property. 
+ 
+ Item 3. Legal Proceedings. 
+ 
+ From time to time, we may be involved in litigation relating to claims arising out of our operations in the normal course of business. As of December 31, 2022, there were no pending or threatened lawsuits that could reasonably be expected to have a material effect on the Company s results of operations. 
+ 6 
+ 
+ Item 4. Mine Safety Disclosures 
+ 
+ None. 
+ 
+ Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 
+ The Company s common stock is not listed on any national securities exchange, the Company s common stock are quoted for trading on the OTC Pink tier of the over-the-counter alternative trading system operated by OTC Markets Group, Inc. (OTC Link ATS) under the symbol IWAL. 
+ 
+ The following table summarizes the high and low historic trading prices of the Company s common stock for the periods indicated as reported by otcmarkets.com (as historic high and low bid prices are not reported by otcmarkets.com). 
+ 
+ Fiscal Year Ended December 31, 2022 
+
+High 
+ 
+ Low 
+ 
+ First Quarter 
+
+0.0490 
+
+0.0040 
+ 
+ Second Quarter 
+
+0.0180 
+
+0.0090 
+ 
+ Third Quarter 
+
+0.0200 
+
+0.0080 
+ 
+ Fourth Quarter 
+
+0.0150 
+
+0.0010 
+
+Fiscal Year Ended December 31, 2021 
+
+High 
+ 
+ Low 
+ 
+ First Quarter 
+
+0.0474 
+
+0.0010 
+ 
+ Second Quarter 
+
+0.0399 
+
+0.0010 
+ 
+ Third Quarter 
+
+0.1103 
+
+0.0091 
+ 
+ Fourth Quarter 
+
+0.0358 
+
+0.0141 
+
+Holders of our common stock are entitled to receive dividends as may be declared by the Board of Directors. The Company s Board of Directors is not restricted from paying any dividends but is not obligated to declare a dividend. No cash dividends have ever been declared and it is not anticipated that cash dividends will ever be paid. 
+ 
+ As of December 31, 2022, the Company had authorized 75,000,000 shares of common stock, and no shares of preferred stock authorized. As of December 31, 2022, the Company had 52,819,419 outstanding shares of common stock which were owned by approximately 52 shareholders of record. 
+ 
+ Common Stock 
+ 
+ At any meeting of the shareholders, every shareholder of common stock is entitled to vote and may vote in person or by proxy authorized by an instrument in writing filed in accordance with the procedure established for the meeting. 
+ 
+ Each shareholder shall have one vote for every share of stock entitled to vote, which is registered in his name on the record date for the meeting, except as otherwise required by law or the Articles of Incorporation. 
+ 
+ All elections of directors shall be determined by a plurality of the votes cast by the holders of shares entitled to vote in the election of directors at a meeting of shareholders at which a quorum is present. Except as otherwise required by law or the Articles of Incorporation, all matters other than the election of directors shall be determined by the affirmative vote of the holders of a majority of the shares entitled to vote on that matter and represented in person or by proxy at a meeting of shareholders at which a quorum is present. 
+ 
+ The Company s Articles of Incorporation do not provide for cumulative voting or preemptive rights. 
+ 
+ Dividend Rights . Holders of common stock are entitled to receive ratably those dividends, if any, as may be declared from time to time by the board of directors out of legally available funds. 
+ 7 
+
+Liquidation Rights . In the event of our liquidation, dissolution or winding up, holders of common stock will be entitled to share ratably in the net assets legally available for distribution to shareholders after the payment of all of our debts and other liabilities. 
+ 
+ Other Rights . Holders of common stock have no preemptive, conversion or subscription rights, and there are no redemption or sinking fund provisions, nor are there any restrictions on alienability, applicable to the common stock. 
+ 
+ Preferred Stock 
+ 
+ Our Articles of Incorporation do not authorize the issuance of any preferred stock. 
+ 
+ Convertible Instruments 
+ 
+ The following is a description of the material terms of our convertible instruments which remain outstanding as of December 31, 2022: 
+ 
+ In fiscal 2015, the Company issued two tranches, one in April and one in September, of secured convertible debentures with identical terms and maturity dates (together, the Debentures for gross proceeds of 492,500. The Company incurred 39,400 in broker s commissions resulting in net proceeds of 453,100. The Debentures bear interest at a rate of 8 per annum, with interest payments due semi-annually. The Debentures originally matured on April 30, 2017, and became immediately due and payable at the request of the holders. Subsequently, the holders agreed to extend the maturity date in the Debentures to April 30, 2022. The Company is currently negotiating with the note holders to extend the notes, which is expected to be completed during the 3 rd quarter of 2023. The Debentures are convertible at any time, in whole, to shares of common stock at a conversion price of 0.15 per share. At December 31, 2022 and 2021, the accrued interest on the Debentures was 402,848 and 333,762, respectively. 
+ 
+ On August 13, 2018, the Company entered into a secured convertible debenture agreement (the Convertible Debenture with a service provider amounting to 12,000. The Convertible Debenture bears interest at 10 per annum calculated monthly and payable on maturity and had a maturity date of August 13, 2021. The Convertible Debenture became immediately due and payable in default at the request of the holder, although the holder has not made any request for immediate payment. The Convertible Debenture is currently in default, and the Company is currently working with the holder on extending the due date of the Convertible Debenture, which is expected to be completed during the 3 rd quarter of 2023. The conversion price is 0.06 per share. At December 31, 2022 and 2021, the accrued interest was 5,264 and 4,064, respectively. 
+ 
+ Warrants 
+ 
+ The following is a schedule of the Company s outstanding common stock purchase warrants: 
+
+Warrants 
+ 
+ Exercise Price 
+ 
+ Outstanding and exercisable, December 31, 2020 
+ 650,000 
+
+0.10 
+ 
+ Expired 
+ (650,000) 
+
+0.10 
+ 
+ Outstanding and exercisable, December 31, 2021 
+ - 
+
+- 
+ 
+ Expired 
+ - 
+
+- 
+ 
+ Outstanding and exercisable, December 31, 2022 
+ - 
+
+- 
+
+Item 6. Selected Financial Data 
+ 
+ Not applicable. 
+ 
+ Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operation. 
+ 
+ The statements contained in the following MD A and elsewhere throughout this Annual Report on Form 10-K, including any documents incorporated by reference, that are not historical facts, including statements about our beliefs and expectations, are forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements preceded by, followed by or that 
+ 8 
+ 
+ include the words may, could, would, should, believe, expect, anticipate, plan, estimate, target, project, intend and similar words or expressions. In addition, any statements that refer to expectations, projections, or other characterizations of future events or circumstances are forward-looking statements. 
+ 
+ These forward-looking statements, which reflect our management s beliefs, objectives, and expectations as of the date hereof, are based on the best judgement of our management. All forward-looking statements speak only as of the date on which they are made. Such forward-looking statements are subject to certain risks, uncertainties and assumptions relating to factors that could cause actual results to differ materially from those anticipated in such statements, including, without limitation, the following: economic, social and political conditions, global economic downturns resulting from extraordinary events such as the COVID-19 pandemic and other securities industry risks; interest rate risks; liquidity risks; credit risk with clients and counterparties; risk of liability for errors in clearing functions; systemic risk; systems failures, delays and capacity constraints; network security risks; competition; reliance on external service providers; new laws and regulations affecting our business; net capital requirements; extensive regulation, regulatory uncertainties and legal matters; failure to maintain relationships with employees, customers, business partners or governmental entities; the inability to achieve synergies or to implement integration plans and other consequences associated with risks and uncertainties detailed in our filings with the SEC, including our most recent filings on Forms 10 and 10-Q. 
+ 
+ We caution that the foregoing list of factors is not exclusive, and new factors may emerge, or changes to the foregoing factors may occur, that could impact our business. We undertake no obligation to publicly update or revise these statements, whether as a result of new information, future events or otherwise, except to the extent required by the federal securities laws. 
+ 
+ Certain information contained in this discussion and elsewhere in this report may include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and is subject to the safe harbor created by that act. The safe harbor created by the Private Securities Litigation Reform Act will not apply to certain forward looking statements because we issued penny stock (as defined in Section 3(a)(51) of the Securities Exchange Act of 1934 and Rule 3(a)(51-1) under the Exchange Act) during the three year period preceding the date(s) on which those forward looking statements were first made, except to the extent otherwise specifically provided by rule, regulation or order of the Securities and Exchange Commission. We caution readers that certain important factors may affect our actual results and could cause such results to differ materially from any forward-looking statements which may be deemed to have been made in this Report or which are otherwise made by or on our behalf. For this purpose, any statements contained in this report that are not statements of historical fact may be deemed to be forward-looking statements. Without limiting the generality of the foregoing, words such as may, will, expect, believe, explore, consider, anticipate, intend, could, estimate, plan, or propose or the negative variations of those words or comparable terminology are intended to identify forward-looking statements. Factors that may affect our results include, but are not limited to, the risks and uncertainties associated with: 
+ 
+ Our ability to raise capital necessary to sustain our anticipated operations and implement our business plan, 
+ Our ability to implement our business plan, 
+ Our ability to generate sufficient cash to survive, 
+ The degree and nature of our competition, 
+ The lack of diversification of our business plan, 
+ The general volatility of the capital markets and the establishment of a market for our shares, and 
+ Disruption in the economic and financial conditions primarily from the impact of past terrorist attacks in the United States, threats of future attacks, police and military activities overseas and other disruptive worldwide political and economic events and environmental weather conditions. 
+ 
+ We are also subject to other risks detailed from time to time in our other filings with Securities and Exchange Commission and elsewhere in this report. Any one or more of these uncertainties, risks and other influences could materially affect our results of operations and whether forward-looking statements made by us ultimately prove to be accurate. Our actual results, performance and achievements could differ materially from those expressed or implied in these forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statements, whether from new information, future events or otherwise. 
+ 9 
+
+Plan of Operation 
+ 
+ The Company is currently focused on designing and developing biometric locking wallets and related physical, personal security products, and providing consulting services in connection with protective wallets and other personal security products. 
+ 
+ Results of Operations 
+ 
+ For the year ended December 31, 2022, compared to the period ended December 31, 2021 
+ 
+ Revenues 
+ 
+ We had 10,050 and 69,400 of revenue for the years ended December 31, 2022 and 2021, respectively. 
+ 
+ Cost of Sales 
+ 
+ We had 0 and 27,450 of cost of sales for the years ended December 31, 2022 and 2021, respectively. For the years ended December 31, 2022 and 2021, as a percentage of revenue, it was 0.0 and 39.6 , respectively. 
+ 
+ Operating Expenses 
+ 
+ Operating expenses for the years ended December 31, 2022 and 2021, were 46,495 and 245,731, respectively. The decrease in expenses for 2022 compared to 2021 was comprised primarily of no stock-based compensation during 2022 as compared to 212,500 in the prior year. 
+ 
+ Other Income (Expenses) 
+ 
+ Other expenses for the years ended December 31, 2022 and 2021, were 70,285 and 143,045, respectively. The loss on settlement of accounts payable of 78,050 during 2021 was the difference between the years ended December 31, 2022 and 2021. 
+ 
+ Net Loss 
+ 
+ Net loss for the years ended December 31, 2022 and 2021 was 106,730 and 346,826, respectively, due to the aforementioned factors. 
+ 
+ Liquidity and Capital Resources 
+ 
+ We had a cash balance of 13,049 and negative working capital of 908,544 at December 31, 2022. 
+ 
+ The Company s anticipated capital requirements for the next 12 months will consist of expenses of being a public company and general and administrative expenses all of which we currently estimate will cost 250,000, excluding revenue related expenses and salaries. In the event there are unanticipated expenses and we need additional funds, we may seek to raise additional funding that we require in the form of equity financing from the sale of our common stock. However, we cannot provide investors with any assurance that we will be able to raise sufficient funding from the sale of our common stock to fund such additional expenses. We currently do not have any agreements, arrangements or understandings with any person or entity to obtain funds through bank loans, lines of credit or any other sources. 
+ 
+ Sources and Uses of Cash 
+ 
+ Operating activities during the period ended December 31, 2022 used 36,609 of net cash. Net cash used in investing activities was 0 for the period ended December 31, 2022. Net cash provided by financing activities was 0 for the period ended December 31, 2022. Operating activities during the year ended December 31, 2021 provided 37,668 of net cash. Net cash used in investing activities was 0 for the year ended December 31, 2021. Net cash provided by financing activities was 0 for the year ended December 31, 2021. 
+ 
+ The Company has been impacted by the COVID-19 pandemic, and some of its earlier plans to further diversify its operations and expand its operating subsidiaries have been paused due to the economic uncertainty. 
+ 10 
+
+Off Balance Sheet Arrangements 
+ 
+ We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues, or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors. 
+ 
+ Critical Accounting Policies 
+ 
+ The preparation of financial statements and related disclosures in conformity with U.S. generally accepted accounting principles GAAP and the Company s discussion and analysis of its financial condition and operating results require the Company s management to make judgments, assumptions and estimates that affect the amounts reported in its financial statements and accompanying notes. Note 2, Significant Accounting Policies, of the Notes to Financial Statements for the years ended December 31, 2022 and 2021 included in this Form 10-K, describes the significant accounting policies and methods used in the preparation of the Company s financial statements. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates, and such differences may be material. 
+ 
+ Critical accounting estimates are those estimates made in accordance with GAAP that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on the financial condition or results of operations of the Company. Management believes the Company s critical accounting policies and estimates are those related to revenue recognition, intangible assets, and income taxes. Management considers these policies critical because they are both important to the portrayal of the Company s financial condition and operating results, and they require management to make judgments and estimates about inherently uncertain matters. The Company s management has reviewed these critical accounting policies and related disclosures. 
+ 
+ Revenue Recognition 
+ 
+ The Company plans to derive revenue primarily from the sale of its wallets. The Company also will derive an insignificant amount of revenue from providing engraving of the wallets. Engraving revenues will be recognized concurrent with the revenues for the related wallet. The Company also will earn revenue from consulting contracts with others desiring to operate in the smart wallet sector. Revenue is recognized in accordance with ASC 606. The Company performs the following five steps: (i) identify the contract(s) with a customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations in the contract, and (v) recognize revenue when (or as) the entity satisfies a performance obligation. The Company applies the five-step model to arrangements that meet the definition of a contract under Topic 606, including when it is probable that the entity will collect the consideration it is entitled to in exchange for the goods or services it transfers to the customer. At contract inception, once the contract is determined to be within the scope of Topic 606, the Company evaluates the goods or services promised within each contract related performance obligation and assesses whether each promised good or service is distinct. The Company recognizes as revenue, the amount of the transaction price that is allocated to the respective performance obligation when (or as) the performance obligation is satisfied. 
+ 
+ Intangible Assets 
+ 
+ Patents and trademarks are measured at cost. Legal fees associated with patents and trademarks, which are expected to be issued, are recorded as patents and trademarks on the balance sheets. Upon approval by the relevant patent office, the patents and trademarks are amortized over their respective expected lives. Patent and trademark costs associated with patents or trademarks which are not approved or are abandoned, are expensed in the period in which such patents are not approved. 
+ 
+ The Company expects to maintain patents for up to 20 years from the effective date and the trademark registrations for as long as the trademarks remain in use and the required filings are made to keep them in use. However, based on the Company s assessment of potential innovation or other competing technological developments a useful life of ten years has been assessed for both the patents and the trademarks. 
+ 11 
+ 
+ Software consists of costs relating to the development of the software behind the biometric scanning and the other security programs involved in the wallets. Costs relating to the development of this software are capitalized and amortized over its estimated useful life of ten years. 
+ 
+ Website development costs relating to website and mobile application and software development are also capitalized and amortized over its estimated useful life of three years. 
+ 
+ Topic 350-20, Goodwill, and 350-30, General Intangibles Other than Goodwill, in the Accounting Standards Codification ASC requires intangible assets with a finite life be tested for impairment whenever events or circumstances indicate that the carrying amount of an asset (or asset group) may not be recoverable. An impairment loss would be recognized when the carrying amount of an asset exceeds the estimated discounted cash flow used in determining the fair value of the asset. 
+ 
+ Income Taxes 
+ 
+ Income taxes are computed in accordance with the provisions of ASC Topic 740, which requires, among other things, a liability approach to calculating deferred income taxes. The Company recognizes deferred tax liabilities and assets for the expected future tax consequences of events that have been recognized in its financial statements or tax returns. Under this method, deferred tax liabilities and assets are determined based on the difference between the financial statement carrying amounts and tax bases of assets and liabilities using enacted tax rates in effect in the years in which the differences are expected to reverse. The Company is required to make certain estimates and judgments about the application of tax law, the expected resolution of uncertain tax positions and other matters. In the event that uncertain tax positions are resolved for amounts different than the Company s estimates, or the related statutes of limitations expire without the assessment of additional income taxes, the Company will be required to adjust the amounts of the related assets and liabilities in the period in which such events occur. Such adjustments may have a material impact on the Company s income tax provision and results of operations. 
+ 
+ Recently Issued Accounting Pronouncements 
+ 
+ We do not expect the adoption of any recently issued accounting pronouncements to have a significant impact on our net results of operations, financial position, or cash flows. 
+ 
+ Seasonality 
+ 
+ We do not expect our sales to be impacted by seasonal demands for our products and services. 
+ 
+ Item 7A. Quantitative and Qualitative Disclosure about Market Risk 
+ 
+ Not applicable. 
+ 
+ Item 8. Financial Statements 
+ 
+ iWallet Corp. 
+ Contents 
+
+Page 
+ 
+ Financial Statements 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ F-1 
+ 
+ Balance Sheets as of December 31, 2022 and 2021 
+ 
+ F-3 
+ 
+ Statements of Operations for the years ended December 31, 2022 and 2021 
+ 
+ F-4 
+ 
+ Statement of Changes in Stockholders Deficit for the years ended December 31, 2022 and 2021 
+ 
+ F-5 
+ 
+ Statements of Cash Flows for the years ended December 31, 2022 and 2021 
+ 
+ F-6 
+ 
+ Notes to Financial Statements 
+ 
+ F-7 
+
+12 
+ 
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ Pinnacle Accountancy Group of Utah 
+ (a dba of Heaton Company, PLLC) 
+ Farmington, Utah 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying balance sheets of iWallet Corporation (the Company) as of December 31, 2022 and 2021, and the related statements of operations, changes in stockholders deficit, and cash flows for the years then ended, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ Going Concern Considerations 
+ 
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. The Company has suffered recurring losses since inception and has not achieved profitable operations, which raise substantial doubt about its ability to continue as a going concern. Management s plans in regard to these matters are described in Note 1. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ Critical Audit Matter 
+ 
+ The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+ F-1 
+
+Going Concern - Disclosure 
+ 
+ The financial statements of the Company are prepared on a going concern basis, which assumes that the Company will continue in operation for the foreseeable future and, accordingly, will be able to realize its assets and discharge its liabilities in the normal course of operations. As noted in Going Concern Considerations above, the Company has a history of recurring net losses, a significant accumulated deficit and currently has net working capital deficit. The Company has contractual obligations, such as commitments for repayments of interest payable, due to related party, and convertible debentures (collectively obligations ). Currently, management s forecasts and related assumptions illustrate their intent to meet the obligations through management of expenditures, resumption of its planned business operations, obtaining additional debt financing, and issuance of capital stock for additional funding to meet its operating needs. Should there be constraints on the ability to resume its planned business operations or access financing through stock issuances, the Company will continue to manage cash outflows and meet the obligations through debt financing. 
+ 
+ We identified management s assessment of the Company s ability to continue as a going concern as a critical audit matter. Management made judgments to assess the Company s intent and ability to effectively implement its plans and provide the necessary cash flows to fund the Company s obligations as they become due. Specifically, the judgments with the highest degree of impact and subjectivity in assessing the Company s intent and ability to effectively implement its plans include its ability to manage expenditures, access funding from the capital market, obtain debt financing, and successfully resume its planned business operations. Auditing the judgments made by management required a high degree of auditor judgment and an increased extent of audit effort. 
+ 
+ Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the financial statements. These procedures included the following, among others: evaluating the Company s intent and ability to (i) access funding from the capital market; (ii) manage expenditures (iii) obtain debt financing, and (iv) resume its planned business operations. 
+ 
+ /s/ Pinnacle Accountancy Group of Utah 
+ 
+ We have served as the Company s auditor since 2021. 
+
+(a dba of Heaton Company, PLLC) 
+ PCAOB ID 
+ 
+ July 7, 2023 
+
+F-2 
+
+iWallet Corp. 
+ Balance Sheets 
+ 
+ December 31, 2022 
+ 
+ December 31, 2021 
+ 
+ Assets 
+
+Current Assets 
+
+Cash 
+
+Total Current Assets 
+
+Total Assets 
+
+Liabilities and Stockholders Deficit 
+
+Liabilities 
+
+Current Liabilities 
+
+Account Payable 
+
+Accrued Interest Payable 
+
+Due to Related Party 
+
+Convertible Debentures 
+
+Total Current Liabilities 
+
+Total Liabilities 
+
+Stockholders Deficit 
+
+Common stock; par value , 
+ shares authorized; shares issued 
+ and outstanding 
+
+Additional Paid-in Capital 
+
+Accumulated Deficit 
+ 
+ ) 
+
+) 
+ 
+ Total Stockholders Deficit 
+ 
+ ) 
+
+) 
+ 
+ Total Liabilities and Stockholders Deficit 
+
+The accompanying notes are an integral part of these audited financial statements. 
+ F-3 
+
+iWallet Corp. 
+ Statements of Operations 
+
+For the Years Ended 
+ December 31, 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ Revenues 
+
+Cost of Sales 
+
+Gross Profit 
+
+Operating Expenses 
+
+General and Administrative Expenses 
+
+Total Operating Expenses 
+
+Operating Loss 
+ 
+ ) 
+
+) 
+
+Other Income (Expense) 
+
+Loss on Settlement of Accounts Payable 
+
+) 
+ 
+ Interest Expense 
+ 
+ ) 
+
+) 
+ 
+ Total Other Income (Expense) 
+ 
+ ) 
+
+) 
+ 
+ Net Loss 
+ 
+ ) 
+
+) 
+
+Basic and Diluted Earnings per Share 
+ 
+ ) 
+
+) 
+
+Weighted Average Common Shares - Basic and Diluted 
+
+The accompanying notes are an integral part of these audited financial statements. 
+ F-4 
+
+iWallet Corp. 
+ Statement of Changes in Stockholders Deficit 
+ Years Ended December 31, 2022 and 2021 
+
+Common Shares 
+
+Shares 
+ 
+ Amount 
+ 
+ Additional 
+ Paid-in 
+ Capital 
+ 
+ Accumulated 
+ Deficit 
+ 
+ Total 
+ Stockholders 
+ Deficit 
+ 
+ Balance at December 31, 2020 
+
+) 
+
+) 
+ 
+ Issuance of Common Stock for Settlement of Debt 
+
+Issuance of Common Stock for Services 
+
+Net Loss for the Year 
+
+) 
+
+) 
+ 
+ Balance at December 31, 2021 
+
+) 
+
+) 
+ 
+ Net Loss for the Year 
+
+) 
+
+) 
+ 
+ Balance at December 31, 2022 
+
+) 
+
+) 
+
+The accompanying notes are an integral part of these audited financial statements. 
+ F-5 
+
+iWallet Corp. 
+ Statements of Cash Flows 
+
+For the Years Ended 
+ December 31, 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ Cash Flows from Operating Activities: 
+
+Net Loss for the Year 
+ 
+ ) 
+
+) 
+ 
+ Adjustments to Reconcile Net Loss to Net Cash Used in Operating Activities 
+
+Stock Issued for Services 
+
+Loss on Settlement of Accounts Payable 
+
+Changes in operating assets and liabilities: 
+
+Changes in Accounts Payable 
+
+Changes in Due to Related Party 
+ 
+ ) 
+
+Changes in Accrued Interest Payable 
+
+Net Cash Provided by (Used in) Operating Activities 
+ 
+ ) 
+
+Cash Flows from Investing Activities: 
+
+Net Cash Provided by Investing Activities 
+
+Cash Flows from Financing Activities: 
+
+Net Cash Provided by Financing Activities 
+
+Net Increase in Cash 
+ 
+ ) 
+
+Cash at Beginning of Year 
+
+Cash at End of Year 
+
+Supplemental Disclosure Information: 
+
+Interest Paid in Cash 
+
+Income Taxes paid in Cash 
+
+Schedule of Non-Cash Investing and Financing Activities: 
+
+Accounts payable settled via the issuance of common stock 
+
+The accompanying notes are an integral part of these audited financial statements. 
+ F-6 
+
+iWallet Corp. 
+ Notes to Financial Statements 
+ December 31, 2022 and 2021 
+ 
+ and , respectively, and had significant losses and negative cash flows from operations for the year ended December 31, 2022. The Company completed a public listing transaction, which raised additional funds and included warrant agreements that expired in 2021. However, there is no certainty that the Company will be successful in generating sufficient cash flow from operations or achieving and maintaining profitable operations in the near future to enable it to meet its obligations as they come due. As a result, there is substantial doubt regarding the Company s ability to continue as a going concern. The future of the Company is dependent upon its ability to obtain financing and upon achieving profitable operations. 
+ 
+ Management has raised additional capital through private placement offerings and has plans to raise funds through public offering of its capital stock. While the Company has been successful in securing such financing in the past, there is no assurance that it will be able to do so in the future. Accordingly, these financial statements do not give effect to adjustments, relating to the recoverability and classification of recorded assets, or the amounts of and classifications of liabilities that might be necessary in the event the Company cannot continue in existence. 
+ 
+ These financial statements do not include any adjustments relating to the recoverability and classification of the recorded asset amounts or the amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+
+F-7 
+
+and in consulting revenue during the years ended December 31, 2022 and 2021, respectively, along with cost of sales of and , respectively, from outside services providing technology for our consulting services. 
+ 
+ F-8 
+
+and potentially convertible debenture shares (note 6) for the years ended December 31, 2022 and 2021, respectively, since their effect is anti-dilutive. 
+
+- 
+ 
+ Trademarks 
+
+- 
+ 
+ Software 
+
+- 
+ 
+ Website Development 
+
+- 
+
+- 
+
+Amortization for the years ended December 31, 2022 and 2021 was and respectively. 
+
+The above balances are non-interest bearing, unsecured and due on demand. The related party is affiliated by virtue of common ownership. 
+ F-9 
+
+. The Company incurred in broker s commissions resulting in net proceeds of . The Debentures bear interest at a rate of per annum, with interest payments due semi-annually. The Debentures matured originally on April 30, 2017. On July 13, 2021, the Company re-negotiated these debentures and extended the maturity date to April 30, 2022. The Company is currently negotiating with the note holders to extend the notes, which is expected to be completed during the 3rd quarter of 2023. The Debentures are convertible at any time, in whole, to shares of common stock at a conversion price of per share. At December 31, 2022 and 2021, the accrued interest was and , respectively. 
+ 
+ The conversion feature was determined to be an embedded derivative; however, since the instrument is a conventional convertible debenture the conversion feature was not bifurcated. Additionally, the conversion feature was determined not to be beneficial in both tranches as the fair value of the Company s share price at the date of issuance was less than the conversion price. Accordingly, no proceeds were allocated to the value of the conversion feature on initial recognition. 
+ 
+ As previously noted, the Company has adopted ASU 2015-03 Imputation of Interest and as a result has recognized the convertible debentures net of the related issuance costs of . These costs were realized using an effective interest rate of 13.06 , for the April tranche and 13.83 for the September tranche. Imputed interest expense has been fully recognized prior to the years ended December 31, 2022 and 2021. 
+ 
+ On August 13, 2018, the Company entered into a secured convertible debenture agreement (the convertible debenture with a service provider amounting to . The convertible debentures bear interest at per annum calculated monthly and payable on maturity and had a maturity date of August 13, 2021. The debentures become immediately due and payable in default at the request of the note holders. The Company is currently negotiating with the note holders to extend the notes, which is expected to be completed during the 3rd quarter of 2023. The conversion price is per share. At December 31, 2022 and 2021, the accrued interest was and , respectively. 
+ 
+ shares of Common Stock with a par value of and had shares of Common Stock issued and outstanding as of December 31, 2022 and 2021. 
+ 
+ On June 30, 2021, the Company issued shares of Common Stock to a vendor for settlement of in accounts payable. The stock price was for a total value of and the Company recognized a loss on settlement of accounts payable of . 
+ 
+ On August 12, 2021, the Company issued shares of Common Stock to its CEO for services rendered to the Company. The stock price was for a total value of and the Company recognized an expense of . 
+
+Expired 
+ ) 
+
+0.10 
+ 
+ Outstanding and exercisable, December 31, 2021 
+
+- 
+ 
+ Expired 
+ - 
+
+- 
+ 
+ Outstanding and exercisable, December 31, 2022 
+
+- 
+
+F-10 
+
+) 
+
+The provision (recovery) for income taxes consists of the following: 
+ 
+ The reconciliation of the provision (recovery) for income taxes based on the combined U.S. statutory federal and state tax rate of 26.75 (Federal - 21 ; State - 5.75 , net of Federal benefit) to the effective tax rates:) 
+
+) 
+ 
+ Statutory rate 
+
+Expected income tax recovery 
+ 
+ ) 
+
+) 
+ 
+ Change in valuation allowance 
+
+Recovery of income taxes 
+ 
+ - 
+
+- 
+
+The components of deferred taxes are as follows: 
+
+Valuation allowance 
+ 
+ ) 
+
+) 
+
+- 
+
+- 
+
+The Company has non-capital income tax losses that will begin to expire in 2033 through 2040. 
+ 
+ The Company calculates its income tax expense by estimating the annual effective tax rate and applying that rate to the year-to-date ordinary income at the end of the period. The Company records a tax valuation allowance when it is more likely than not that it will not be able to recover the value of its deferred tax assets. As of December 31, 2022 and 2021, the Company calculated its estimated annualized effective tax rate at 0 and 0 , respectively. The Company recognized no income tax expense based on its 106,730 pre-tax loss for the year ended December 31, 2022. The Company recognized no income tax expense based on its 346,826 pre-tax loss for the year ended December 31, 2021. 
+ 
+ The Company recognizes the financial statement benefit of a tax position only after determining that the relevant tax authority would more likely than not sustain the position following an audit. For tax positions meeting the more-likely-than-not threshold, the amount recognized in the financial statements is the largest benefit that has a greater than 50 likelihood of being realized upon ultimate settlement with the relevant tax authority. The Company recognizes interest accrued on uncertain tax positions as well as interest received from favorable tax settlements within interest expense. The Company recognizes penalties accrued on unrecognized tax benefits within general and administrative expenses. As of December 31, 2022 and 2021, the Company had no uncertain tax positions. 
+ 
+ The Company does not anticipate any significant changes to the total amounts of unrecognized tax benefits in the next twelve months. In many cases the Company s uncertain tax positions are related to tax years that remain subject to examination by tax authorities. The following describes the open tax years, by major tax jurisdiction, as of December 31, 2022: 
+ 
+ F-11 
+
+F-12 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 
+ During the fiscal year ended December 31, 2022, there have been no disagreements with our independent certifying accountants on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements if not resolved to the satisfaction of the accountants would have caused them to make reference thereto in their report on our financial statements. 
+ 
+ Item 9A. Controls and Procedures. 
+ 
+ Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures 
+ 
+ Under the supervision and with the participation of our principal executive officer and principal financial officer, we conducted an evaluation of our disclosure controls and procedures, as such term is defined under Rules 13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the Exchange Act). Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer s management, including its principal executive and principal financial officers, or persons performing similar functions as appropriate to allow timely decisions regarding required disclosure. We concluded that our disclosure controls and procedures as defined in Rule 13a-15(e) under the Exchange Act were not effective as of December 31, 2022, to ensure that information required to be disclosed in reports we file or submit under the Exchange Act is recorded, processed, and summarized and reported within the time periods specified in SEC rules and forms and our disclosure controls and procedures were also ineffective to ensure that the information required to be disclosed in reports that we file under the Exchange Act is accumulated and communicated to our principal executive and financial officers to allow timely decisions regarding required disclosures. 
+ 
+ Management s Annual Report on Internal Control over Financial Reporting 
+ 
+ Management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting as defined in rule 13a-15(f) and 15d-15(f) under the Exchange Act. Internal control over financial reporting is a process designed by, or under the supervision of the CEO to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with generally accepted accounting principles. Internal controls over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records which in reasonable detail accurately and fairly reflect the transactions and disposition of the Company s assets; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of consolidated financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the Company are being made in accordance with authorizations of management and directors of the issuer; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company s assets that could have a material effect on the Company s consolidated financial statements. 
+ 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+ A material weakness is a deficiency or a combination of deficiencies in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company s annual or interim consolidated financial statements will not be prevented or detected on a timely basis. 
+ 
+ In evaluating the effectiveness of the Company s internal control over financial reporting as of December 31, 2022, management used the criteria established in the Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO ). Based on the criteria established by COSO, management (with the participation of the CEO and CFO) identified the following material weaknesses in the Company s internal control over financial reporting as of December 31, 2022, which arose from the limited number of number of staff at the Company and the inability to achieve proper segregation of duties: 
+ 13 
+ 
+ The Company lacked effective controls for ensuring the accuracy of reporting over significant account balances, including the review, approval, and documentation of related transactions and account reconciliations and other complex accounting procedures. 
+ 
+ The Company lacked effective controls because their directors are not independent. 
+ 
+ As a result of these material weaknesses, management concluded that the Company did not maintain effective internal control over financial reporting as of December 31, 2022, based on the criteria established in Internal Control - Integrated Framework (2013) issued by COSO. 
+ 
+ Limitations on the Effectiveness of Controls 
+ 
+ The Company s management, including the Company s CEO and CFO, does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all error and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system s objectives will be met. Further, the design of the control system must reflect that there are resource constraints and that the benefits must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of controls. The design of any system of controls is based in part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Projections of any evaluation of controls effectiveness to future periods are subject to risks. Over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ There were no changes in our internal control over financial reporting that occurred during the period covered by this report that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ Attestation Report of the Registered Public Accounting Firm 
+ 
+ This annual report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by our independent registered public accounting firm pursuant to temporary rules of the SEC that permit us to provide only management s report in this annual report on Form 10-K. 
+ 
+ Item 9B. Other Information. 
+ 
+ None. 
+ 
+ Item 10. Directors, Executive Officers and Corporate Governance. 
+ 
+ The names, ages, positions, periods served of the Company s present directors are set forth in the following table: 
+ 
+ Name 
+ 
+ Age 
+ 
+ Positions 
+ 
+ Steven Cabouli 
+ 
+ 68 
+ 
+ CEO, President, CFO, Secretary, Director (1) 
+
+(1) All directors hold office until the next annual meeting of stockholders and until their successors have been duly elected and qualified. 
+ 
+ There are no agreements with respect to electing directors. The Board of Directors appoints officers annually and each executive officer serves at the discretion of the Board of Directors. The Company does not have any standing committees at this time, and due to its small size does not believe that committees are necessary at this time. As of the date of this Registration Statement, the Company s Board fulfills the duties of an audit committee. None of the directors held any directorships during the past five years in any company with a class of securities 
+ 14 
+ 
+ registered pursuant to Section 12 of the Exchange Act or subject to the requirements of Section 15(d) of such act, or of any company registered as an investment company under the Investment Company Act of 1940. 
+ 
+ Director and Officer Biographical Information 
+ 
+ Steven Cabouli 
+ 
+ Steven Cabouli is our CEO, President, Secretary and the sole member of our Board of Directors. Mr. Cabouli founded the Company s predecessor private operating company, iWallet Corporation, in California in 2009, has been our President since July of 2014 when iWallet Corporation was acquired by the Company, and was reappointed as our CEO in June of 2021. He has over 30 years of experience in introducing new and unique products to the market. In the 1980s, he introduced machines for shaved ice, cooking baking, and donuts to Argentina and sold the rights to this business to an established South American cookie manufacturer in 1987. He is also the owner of China Mystique, Inc., a global distributor of skincare products which he co-founded in 1990. From 2003 through January of 2014, he was the owner of Steve Cabouli Properties, a real estate company which owns several properties in San Diego, Mexico, and Argentina. Mr. Cabouli studied Civil Engineering at the University of Buenos Aires in Argentina. Mr. Cabouli s retail experience and his expertise in the personal storage device industry makes him a valuable member of our Board of Directors. 
+ 
+ Involvement in Certain Legal Proceedings 
+ 
+ To the best of our knowledge, none of our directors or executive officers has, during the past ten years: 
+ 
+ (1) had a petition under the Federal bankruptcy laws or any state insolvency law filed by or against, or a receiver, fiscal agent or similar officer was appointed by a court for the business or property of such person, or any partnership in which he was a general partner at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer at or within two years before the time of such filing; 
+ 
+ (2) has been convicted in a criminal proceeding or is a named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+ 
+ (3) has been the subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him from, or otherwise limiting, the following activities: 
+ 
+ (i) Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity; 
+ 
+ (ii) Engaging in any type of business practice; or 
+ 
+ (iii) Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal or State securities laws or Federal commodities laws; 
+ 
+ (4) has been the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in (3)(i) above, or to be associated with persons engaged in any such activity; 
+ 
+ (5) has been found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated; 
+ 15 
+ 
+ (6) has been found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated; 
+ 
+ (7) has been the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+ 
+ (i) Any Federal or State securities or commodities law or regulation; or 
+ 
+ (ii) Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or 
+ 
+ (iii) Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+ 
+ (8) has been the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+ 
+ Indemnification of Directors and Officers 
+ 
+ Pursuant to Section 78.7502 of the Nevada Revised Statutes, we have the power to indemnify any person made a party to any lawsuit by reason of being a director or officer of the Company, or serving at the request of the corporation as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise against expenses (including attorneys fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by him in connection with such action, suit or proceeding if he acted in good faith and in a manner he reasonably believed to be in or not opposed to the best interests of the corporation, and, with respect to any criminal action or proceeding, had no reasonable cause to believe his conduct was unlawful. Our articles of incorporation provide that the Company shall indemnify its directors and officers to the fullest extent permitted by Nevada law. 
+ 
+ With regard to the foregoing provisions, or otherwise, we have been advised that in the opinion of the Securities and Exchange Commission, such indemnification is against public policy as expressed in the Securities Act of 1933, as amended, and is, therefore, unenforceable. In the event that a claim for indemnification against such liabilities (other than the payment by us of expenses incurred or paid by a director, officer or controlling person of the Corporation in the successful defense of any action, suit or proceeding) is asserted by such director, officer or controlling person in connection with the common shares being registered, we will, unless in the opinion of our counsel the matter has been settled by a controlling precedent, submit to a court of appropriate jurisdiction the question of whether such indemnification by us is against public policy as expressed in the Securities Act of 1933, as amended, and will be governed by the final adjudication of such case. 
+ 
+ Director Compensation 
+ 
+ There are no formal agreements with our directors for compensation, although they have received shares for their services from time to time. 
+ 
+ Director Independence 
+ 
+ During the period ended December 31, 2022, we had no independent directors. 
+ 
+ Directors and Officers Liability Insurance 
+ 
+ The Company does not maintain directors and officers liability insurance insuring our directors and officers against liability for acts or omissions in their capacities as directors or officers. 
+ 16 
+
+Code of Ethics 
+ 
+ We intend to adopt a code of ethics that applies to our officers, directors and employees, including our principal executive officer and principal accounting officer, but have not done so to date due to our relatively small size. We intend to adopt a written code of ethics in the near future. 
+ 
+ No Committees of the Board of Directors; No Financial Expert 
+ 
+ We do not presently have a separately constituted audit committee, compensation committee, nominating committee, executive committee or any other committees of our Board of Directors. Nor do we have an audit committee or financial expert. Management has determined not to establish an audit committee at present because our limited resources and limited operating activities do not warrant the formation of an audit committee or the expense of doing so. As such, our entire Board of Directors acts as our audit committee. We do not have a financial expert serving on the Board of Directors or employed as an officer based on management s belief that the cost of obtaining the services of a person who meets the criteria for a financial expert under Section 407 of the Sarbanes-Oxley Act of 2002 and Item 407(d) of Regulation S-K is beyond our limited financial resources and the financial skills of such an expert are simply not required or necessary for us to maintain effective internal controls and procedures for financial reporting in light of the limited scope and simplicity of accounting issues raised in our financial statements at this stage of our development. 
+ 
+ Compliance with Section 16(A) of the Exchange Act 
+ 
+ Section 16(a) of the Exchange Act requires the Company s directors, executive officers and persons who beneficially own 10 or more of a class of securities registered under Section 12 of the Exchange Act to file reports of beneficial ownership and changes in beneficial ownership with the SEC. Directors, executive officers and greater than 10 stockholders are required by the rules and regulations of the SEC to furnish the Company with copies of all reports filed by them in compliance with Section 16(a). 
+ 
+ Based solely on our review of certain reports filed with the Securities and Exchange Commission pursuant to Section 16(a) of the Securities Exchange Act of 1934, as amended, the reports required to be filed with respect to transactions in our common stock during the fiscal year ended December 31, 2022 and 2021, were timely, except that Mr. Cabouli did not timely file a Form 3 or Form 4 upon the effectiveness of our registration statement on Form 10 on or about November 27, 2021. 
+ 
+ Item 11. Executive Compensation. 
+ 
+ Summary Compensation Table 
+ 
+ The following table sets forth, for the fiscal years ended December 31, 2022 and 2021, certain information regarding the compensation earned by the Company s named executive officers. 
+ 
+ SUMMARY COMPENSATION TABLE 
+ 
+ Name and 
+ principal 
+ position 
+ 
+ Year 
+ 
+ Salary 
+ ) 
+ 
+ Bonus 
+ ) 
+ 
+ Option 
+ Awards 
+ ) 
+ 
+ Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) 
+ 
+ Nonqualified 
+ Deferred 
+ Compensation 
+ Earnings ) 
+ 
+ All Other 
+ Compensation 
+ ) 
+ 
+ Total 
+ ) 
+ 
+ Steven Cabouli, 
+ President CEO 
+ 
+ 2022 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ 2021 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+Narrative Disclosure to the Summary Compensation Table 
+ 
+ Our sole officer, CEO and President, Steven Cabouli, did not receive any compensation for his services as officer in either 2022 or 2021. We presently do not have employment or compensation agreements with any of our named executive officers or directors, and we have not established any overall system of executive compensation or any fixed policies regarding compensation of executive officers. 
+ 17 
+
+Stock Option Grants 
+ 
+ We have not granted any stock options to the executive officers or directors since our inception. 
+ 
+ Outstanding Equity Awards At Fiscal Year-End Table 
+ 
+ The table below summarizes all unexercised options, stock that has not vested, and equity incentive plan awards for each named executive officer outstanding as of the end of our last completed fiscal year ended December 31, 2022. 
+
+OPTION AWARDS 
+ 
+ STOCK AWARDS 
+ 
+ Name 
+ 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options (#) 
+ Exercisable 
+ 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options (#) 
+ Unexercisable 
+ 
+ Equity 
+ Incentive 
+ Plan 
+ Awards: 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Unearned 
+ Options 
+ (#) 
+ 
+ Option 
+ Exercise 
+ Price 
+ ) 
+ 
+ Option 
+ Expiration 
+ Date 
+ 
+ Number 
+ of Shares 
+ or Shares 
+ of Stock 
+ That 
+ Have Not 
+ Vested 
+ (#) 
+ 
+ Market 
+ Value 
+ of Shares 
+ or Shares 
+ of Stock 
+ That Have 
+ Not Vested 
+ ) 
+ 
+ Equity 
+ Incentive 
+ Plan 
+ Awards: 
+ Number 
+ of Unearned 
+ Shares, 
+ Shares or 
+ Other 
+ Rights 
+ That Have 
+ Not Vested 
+ (#) 
+ 
+ Equity 
+ Incentive 
+ Plan Awards: 
+ Market or 
+ Payout 
+ Value of 
+ Unearned 
+ Shares, 
+ Shares or 
+ Other Rights 
+ That Have 
+ Not Vested 
+ (#) 
+ 
+ Steven Cabouli, 
+ CEO President 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+Compensation of Directors Table 
+ 
+ The table below summarizes all compensation paid to our directors for our last completed fiscal year ended December 31, 2022. 
+ 
+ DIRECTOR COMPENSATION 
+ 
+ Name 
+ 
+ Fees 
+ Earned 
+ or Paid 
+ in Cash 
+ ) 
+ 
+ Stock 
+ Awards 
+ ) 
+ 
+ Option 
+ Awards 
+ ) 
+ 
+ Non-Equity 
+ Incentive 
+ Plan 
+ Compensation 
+ ) 
+ 
+ Non-Qualified 
+ Deferred 
+ Compensation 
+ Earnings 
+ ) 
+ 
+ All Other 
+ Compensation 
+ ) 
+ 
+ Total 
+ ) 
+ 
+ Steven Cabouli 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+Narrative Disclosure to the Director Compensation Table 
+ 
+ We did not provide any compensation to directors for their service as directors during the last two fiscal years. Compensation arrangements for our current directors have not been negotiated. Formal written agreements with directors are likewise the subject of future negotiation and discussion and will require future approval by the full board. 
+ 
+ Stock Option Plan and other Employee Benefits Plans 
+ 
+ The Company does not maintain a Stock Option Plan or other Employee Benefit Plans. 
+ 
+ Overview of Compensation Program 
+ 
+ We currently do not maintain a Compensation Committee of the Board of Directors. Until a formal committee is established, our entire Board of Directors has responsibility for establishing, implementing and continually monitoring adherence with the Company s compensation philosophy. The Board of Directors ensures that the total compensation paid to the executives is fair, reasonable, and competitive. 
+ 
+ Compensation Philosophy and Objectives 
+ 
+ The Board of Directors believes that the most effective executive compensation program is one that is designed to reward the achievement of specific annual, long-term and strategic goals by the Company and that 
+ 18 
+ 
+ aligns executives interests with those of the stockholders by rewarding performance above established goals, with the ultimate objective of improving stockholder value. As a result of the size of the Company, the Board evaluates both performance and compensation on an informal basis. Upon hiring additional executives, the Board intends to establish a Compensation Committee to evaluate both performance and compensation to ensure that the Company maintains its ability to attract and retain superior employees in key positions and that compensation provided to key employees remains competitive relative. 
+ 
+ Role of Executive Officers In Compensation Decisions 
+ 
+ The Board of Directors makes all compensation decisions for, and approves recommendations regarding equity awards to, the executive officers and directors of the Company. 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management. 
+ 
+ Security Ownership of Certain Beneficial Owners 
+ 
+ The following tables set forth, as of December 31, 2022, certain information concerning the beneficial ownership of our common stock by: 
+ 
+ each stockholder known by us to own beneficially 5 or more of any class of our outstanding stock; 
+ each director; 
+ each named executive officer; 
+ all of our executive officers and directors as a group; and 
+ each person, or group of affiliated persons, who is known by us to beneficially own more than 5 of any class of our outstanding stock. 
+ 
+ As of December 31, 2022, the Company had authorized 75,000,000 shares of common stock, no other classes of capital stock authorized, and 52,819,419 shares of common stock considered issued and outstanding. 
+ 
+ Beneficial ownership is determined in accordance with the rules and regulations of the SEC and includes voting or investment power with respect to our common stock. Shares of our common stock subject to options that are currently exercisable or exercisable within 60 days of December 31, 2022, are considered outstanding and beneficially owned by the person holding the options for the purpose of calculating the percentage ownership of that person but not for the purpose of calculating the percentage ownership of any other person. Except as otherwise noted, we believe the persons and entities included in the below table have sole voting and investing power with respect to all of the shares of our common stock beneficially owned by them, subject to community property laws, where applicable, and their address is c/o the Company at 401 Ryland St., Ste. 200A, Reno, Nevada, 89502. 
+ 
+ Security Ownership of Certain Beneficial Owners Management 
+ 
+ Title of Class 
+ 
+ Name and Address of 
+ Beneficial Owner 
+ 
+ Amount and nature of 
+ beneficial ownership 
+ 
+ Percent 
+ of Class 
+ 
+ Common Stock 
+ 
+ Steven Cabouli 
+ 
+ 20,721,230 
+ 
+ 39.2 
+ 
+ Common Stock 
+ 
+ All Officers Directors as a Group 
+ 
+ 20,721,230 
+ 
+ 39.2 
+ 
+ Common Stock 
+ 
+ Jack Chadsey 
+ 
+ 4,581,542 
+ 
+ 8.7 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence. 
+ 
+ Transactions with Related Persons 
+ 
+ As of December 31, 2022 and 2021, we had been advanced funds by Steven Cabouli, a related party for operations, and owed him the following amounts: 
+
+December 31, 2022 
+ 
+ December 31, 2021 
+ 
+ Current Liabilities 
+
+Due to Related Party 
+ 
+ 1,649 
+
+4,647 
+
+The above balances are non-interest bearing, unsecured and due on demand. 
+ 19 
+ 
+ Promoters and Certain Control Persons 
+ 
+ None. 
+ 
+ List of Parents 
+ 
+ None. 
+ 
+ Director Independence 
+ 
+ The Company currently has one director, Mr. Cabouli, who is the Company s CEO and a current shareholder of the Company, and he is not independent under either board or committee independence standards. The Company does not have a compensation, nominating or audit committee. 
+ 
+ Item 14. Principal Accountant Fees and Services. 
+ 
+ The following table sets forth fees billed to us by our independent auditors during the years ended December 31, 2022 and 2021 for (i) services rendered for the audit of our annual financial statements and the review of our quarterly financial statements, (ii) services rendered that are reasonably related to the performance of the audit or review of our financial statements that are not reported as audit fees, and (iii) services rendered in connection with tax preparation, compliance, advice and assistance. 
+ 
+ Services 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ Audit fees 
+
+22,534 
+
+15,000 
+ 
+ Audit-related fees 
+
+- 
+
+- 
+ 
+ Tax fees 
+
+- 
+
+- 
+ 
+ All other fees 
+
+- 
+
+- 
+ 
+ Total fee 
+
+22,534 
+
+15,000 
+
+20 
+
+PART IV 
+ 
+ Item 15. Exhibits and Financial Statement Schedules. 
+ 
+ The following exhibits are filed with this Form 10-K or incorporated by reference: 
+ 
+ Exhibit 
+ 
+ Description 
+
+3.1 
+ 
+ Articles of Incorporation (incorporated by reference to Registration Statement on Form S-1 filed on August 12, 2010; File No. 333-168775) 
+
+3.2 
+ 
+ Bylaws (incorporated by reference to Registration Statement on Form S-1 filed on August 12, 2010; File No. 333-168775) 
+
+10.1 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to 7806221 Canada Inc. (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.2 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Jesse Kaplan (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.3 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Mary Anne Alton (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.4 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Michael B. Stein (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.5 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Sanctum Sanctorum Inc. (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.6 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Sandy Pascuzzi (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.7 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Stuart Adair (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.8 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Sudha Raman (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.9 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Thomas Keevil (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.10 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to LH Technology Acquisitions, LLC (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+21 
+
+Exhibit 
+ 
+ Description 
+
+10.11 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Robbie Iachetta (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.12 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Richard Goldstein (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.13 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Donal Carroll (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.14 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Fortius Research and Trading Corp. (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.15 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Prospect Pluto Enterprises Ltd. (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.16 
+ 
+ Manufacturing and Supply Agreement (incorporated by reference to Registration Statement on Form S-1/A filed on October 17, 2014; File No. 333-168775; Exhibit 10.1 thereto) 
+
+10.17 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to 7806221 Canada Inc. (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.18 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Jesse Kaplan (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.19 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Mary Anne Alton (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.20 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Michael B. Stein (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.21 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Sanctum Sanctorum Inc. (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.22 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Sandy Pascuzzi (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.23 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Stuart Adair (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.24 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Sudha Raman (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+22 
+
+Exhibit 
+ 
+ Description 
+
+10.25 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Thomas Keevil (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.26 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Robbie Iachetta (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.27 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Richard Goldstein (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.28 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Donal Carroll (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.29 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Fortius Research and Trading Corp. (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+10.30 
+ 
+ Secured Convertible Debenture issued by iWallet Corporation to Prospect Pluto Enterprises Ltd. (incorporated by reference to Registration Statement on Form 10 filed on November 4, 2021; File No. 000-56347) 
+
+31.1 
+ 
+ Certification of CEO required by Rule 13a-14(1) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of CFO required by Rule 13a-14(1) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of CEO pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and Section 1350 of 18 U.S.C. 63 
+
+32.2 
+ 
+ Certification of CFO pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and Section 1350 of 18 U.S.C. 63 
+
+101.INS 
+ 
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+____________ 
+ Filed herewith. 
+ XBRL (Extensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections. 
+ 23 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+IWALLET CORPORATION 
+
+Dated: July 7, 2023 
+ By: 
+ /s/ Steven Cabouli 
+
+Steven Cabouli 
+
+Chief Executive Officer 
+ Chief Financial Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of l934, this Report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. 
+ 
+ Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Steven Cabouli 
+ 
+ Director 
+ 
+ July 7, 2023 
+ 
+ Steven Cabouli 
+
+24 
+
+<EX-31.1>
+ 2
+ iwal_ex311.htm
+ CERTIFICATION OF CEO
+
+Certification of CEO 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION 
+ 
+ I, Steven Cabouli, certify that: 
+ 
+ 1. I have reviewed this annual report on Form 10-K of iWallet Corp. (the registrant 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in the Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function): 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date: July 7, 2023 
+ 
+ /s/ Steven Cabouli 
+ Steven Cabouli 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ iwal_ex312.htm
+ CERTIFICATION OF CFO
+
+Certification of CFO 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION 
+ 
+ I, Steven Cabouli, certify that: 
+ 
+ 1. I have reviewed this annual report on Form 10-K of iWallet Corp. (the registrant 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in the Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function): 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date: July 7, 2023 
+ 
+ /s/ Steven Cabouli 
+ Steven Cabouli 
+ Chief Financial Officer 
+ (Principal Financial/Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ iwal_ex321.htm
+ CERTIFICATION OF CEO
+
+Certification of CEO 
+
+Exhibit 32.1 
+ 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350 AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Annual Report of iWallet Corp. (the registrant on Form 10-K for the year ended December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Steven Cabouli, Chief Executive Officer of the registrant, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of this Sarbanes Oxley Act of 2002, that, to my knowledge: 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities and Exchange Act of 1934; and 
+ 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the registrant at the dates and for the periods indicated. 
+
+/s/ Steven Cabouli 
+ Steven Cabouli 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+ 
+ July 7, 2023 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ iwal_ex322.htm
+ CERTIFICATION OF CFO
+
+Certification of CFO 
+
+Exhibit 32.2 
+ 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350 AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Annual Report of iWallet Corp. (the registrant on Form 10-K for the year ended December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Steven Cabouli, Chief Financial Officer of the registrant, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of this Sarbanes Oxley Act of 2002, that, to my knowledge: 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities and Exchange Act of 1934; and 
+ 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the registrant at the dates and for the periods indicated. 
+
+/s/ Steven Cabouli 
+ Steven Cabouli 
+ Chief Financial Officer 
+ (Principal Financial/Accounting Officer) 
+ 
+ July 7, 2023 
+
+</EX-32.2>
+
+<EX-101.CAL>
+ 6
+ iwal-20221231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ iwal-20221231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ iwal-20221231_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ iwal-20221231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 10
+ iwal-20221231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+

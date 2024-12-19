@@ -1,0 +1,2610 @@
+<Header>
+<FileStats>
+    <FileName>20230517_10-K_edgar_data_31667_0001185185-23-000539.txt</FileName>
+    <GrossFileSize>6076092</GrossFileSize>
+    <NetFileSize>128574</NetFileSize>
+    <NonText_DocumentType_Chars>1080605</NonText_DocumentType_Chars>
+    <HTML_Chars>1926709</HTML_Chars>
+    <XBRL_Chars>1335643</XBRL_Chars>
+    <XML_Chars>1447235</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001185185-23-000539.hdr.sgml : 20230517
+<ACCEPTANCE-DATETIME>20230517090116
+ACCESSION NUMBER:		0001185185-23-000539
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		84
+CONFORMED PERIOD OF REPORT:	20230228
+FILED AS OF DATE:		20230517
+DATE AS OF CHANGE:		20230517
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EDUCATIONAL DEVELOPMENT CORP
+		CENTRAL INDEX KEY:			0000031667
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-MISCELLANEOUS NONDURABLE GOODS [5190]
+		IRS NUMBER:				730750007
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04957
+		FILM NUMBER:		23929764
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5402 SOUTH 122ND EAST AVE
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74146
+		BUSINESS PHONE:		918-622-4522
+
+	MAIL ADDRESS:	
+		STREET 1:		5402 SOUTH 122ND EAST AVE
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74146
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TUTOR TAPES INTERNATIONAL CORP
+		DATE OF NAME CHANGE:	19701030
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERNATIONAL TEACHING TAPES INC
+		DATE OF NAME CHANGE:	19701030
+
+</SEC-Header>
+</Header>
+
+ 0001185185-23-000539.txt : 20230517
+
+10-K
+ 1
+ edc20230228_10k.htm
+ FORM 10-K
+
+edc20230228_10k.htm 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+(Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended , 2023 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from to . 
+
+Commission file number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 	 incorporation or organization) 	 	 	 (I.R.S. Employer 	 Identification No.) 	 	 	 	 	 	 	 	 	 	 	 	 	 , , 	 	 	 	 	 	 	 	 (Address of principal executive offices) 	 	 	 (Zip Code) 	 	 
+
+Registrant s telephone number, including area code ) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+(Title of class) 	 	 	 (Trading symbol) 	 	 	 (Name of each exchange on which registered) 	 	 
+
+Securities registered pursuant to Section 12(g) of the Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company. See definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 	 	 	 	 	 	 Accelerated filer 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 Smaller reporting company 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 Emerging growth company 	 	 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive o cers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes 
+
+The aggregate market value of the outstanding shares of common stock held by non-affiliates of the registrant at the price at which the common stock was last sold on August 31, 2022 on the NASDAQ Stock Market, LLC was . 
+
+As of May 2, 2023, shares of common stock were outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Portions of the Proxy Statement for fiscal year 2023 relating to our Annual Meeting of Shareholders to be held on June 29, 2023 are incorporated by reference into Part III of this Report on Form 10-K. 
+
+TABLE OF CONTENTS 
+
+FORWARD-LOOKING STATEMENTS 
+
+4 
+
+PART I 
+
+Item 1. 
+
+Business 
+
+4 
+
+Item 1A. 
+
+Risk Factors 
+
+6 
+
+Item 1B. 
+
+Unresolved Staff Comments 
+
+6 
+
+Item 2. 
+
+Properties 
+
+6 
+
+Item 3. 
+
+Legal Proceedings 
+
+6 
+
+Item 4. 
+
+Mine Safety Disclosures 
+
+6 
+
+PART II 
+
+Item 5. 
+
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+7 
+
+Item 6. 
+
+[Reserved] 
+
+7 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+7 
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+17 
+
+Item 8. 
+
+Financial Statements and Supplementary Data 
+
+17 
+
+Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+17 
+
+Item 9A. 
+
+Controls and Procedures 
+
+17 
+
+Item 9B. 
+
+Other Information 
+
+17 
+
+Item 9C. 
+
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+
+17 
+
+PART III 
+
+Item 10. 
+
+Directors, Executive Officers and Corporate Governance 
+
+18 
+
+Item 11. 
+
+Executive Compensation 
+
+18 
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+18 
+
+Item 13. 
+
+Certain Relationships and Related Transactions, and Director Independence 
+
+18 
+
+Item 14. 
+
+Principal Accounting Fees and Services 
+
+18 
+
+PART IV 
+
+Item 15. 
+
+Exhibits, Financial Statement Schedules 
+
+19 
+
+Item 16. 
+
+Form 10-K Summary 
+
+21 
+
+PART I 
+
+FORWARD-LOOKING STATEMENTS 
+
+CAUTIONARY REMARKS REGARDING FORWARD LOOKING STATEMENTS 
+
+The information discussed in this Annual Report on Form 10-K includes forward-looking statements. These forward-looking statements are identified by their use of terms and phrases such as may, expect, estimate, project, plan, believe, intend, achievable, anticipate, continue, potential, should, could, and similar terms and phrases. Although we believe that the expectations reflected in these forward-looking statements are reasonable, they do involve certain assumptions, risks and uncertainties and we can give no assurance that such expectations or assumptions will be achieved. Known and unknown risks, uncertainties and other factors may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, 
+
+our success in recruiting and retaining new brand partners (formerly consultants), 
+
+our ability to locate and procure desired books, 
+
+product and supplier concentrations, 
+
+our relationship with our primary supplier and the related distribution requirements and contractual limitations, 
+
+adverse publicity associated with our Company or the industry, 
+
+our ability to ship timely, 
+
+changes to our primary sales channels, including social media and party plan platforms, 
+
+changing consumer preferences and demands, 
+
+legal matters, 
+
+reliance on information technology infrastructure, 
+
+restrictions imposed by covenants in the agreements governing our indebtedness, 
+
+our ability to obtain adequate financing for working capital and capital expenditures, 
+
+economic and competitive conditions, regulatory changes and other uncertainties, 
+
+outstanding impacts from the COVID-19 pandemic, as well as 
+
+those factors discussed below and elsewhere in this Annual Report on Form 10-K, all of which are difficult to predict. 
+
+In light of these risks, uncertainties and assumptions, the forward-looking events discussed may not occur. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the cautionary statements in this paragraph and elsewhere in this Annual Report on Form 10-K and speak only as of the date of this Annual Report on Form 10-K. Other than as required under the securities laws, we do not assume a duty to update these forward-looking statements, whether as a result of new information, subsequent events or circumstances, changes in expectations or otherwise. As used in this Annual Report on Form 10-K, the terms the Company, EDC, we, our or us mean Educational Development Corporation, a Delaware corporation, unless the context indicates otherwise. 
+
+Item 1. BUSINESS 
+
+a) General Description of Business 
+
+We are the owner and exclusive publisher of Kane Miller children s books; Learning Wrap-Ups, maker of educational manipulatives; and SmartLab Toys, maker of STEAM-based toys and games. We are also the exclusive United States Multi-Level Marketing MLM distributor of Usborne Publishing Limited Usborne children s books. We are a corporation incorporated under the laws of the State of Delaware on August 23, 1965. Our fiscal year ends on February 28 (29). 
+
+Our Company mission statement reflects The future of our world depends on the education of our children. EDC delivers educational excellence one book at a time. We provide economic opportunity while fostering strong family values. We touch the lives of children for a lifetime. 
+
+4
+
+Table of Contents 
+
+(b) Financial Information about Our Segments 
+
+We sell children s books, educational toys and games and other related products (collectively referred to as products or books through two business segments, which we refer to as divisions or sales channels : 
+
+Direct Sales Division PaperPie This division sells our books and products through independent brand partners direct to the customer. Our Brand Partners sell our products in various ways, including hosting home parties, through social media collaboration platforms on the internet, hosting book fairs with school and public libraries and through other events. This division had approximately 24,600 active Brand Partners as of February 28, 2023. 
+
+Publishing Division EDC Publishing or Publishing This is our trade division which markets through commissioned trade representatives who call on retail book, toy and specialty stores along with other retail outlets. This division also has in-house representatives marketing by telephone and email to these customers and potential customers. This division markets to approximately 4,000 retail outlets. In addition to exhibiting at national trade and regional bookselling shows, our products are featured in agency showrooms in AmericasMart Atlanta, Dallas Market Center, and Minneapolis Mart. Under the contracted terms in our new distribution agreement, the Company no longer had the rights to distribute Usborne s products to retail customers effective November 15, 2022, at which date Usborne planned to engage a different distributor to supply their products to retail accounts. The November 15, 2022 transition date, at Usborne s request, was extended until their new supplier can start distribution during 2023. 
+
+Percent of Net Revenues by Division 
+
+FY 2023 
+
+FY 2022 
+
+PaperPie 
+
+85 
+
+91 
+
+Publishing 
+
+15 
+
+9 
+
+Total net revenues 
+
+100 
+
+100 
+
+(c) Narrative Description of Business 
+
+Products 
+
+EDC s current catalog contains approximately 2,000 titles, with new additions added four times per year across all lines of our products. Additionally, throughout the year, a similar number of titles that do not have sufficient sales are identified as out of print and these titles are no longer re-printed or included in future catalogs. The Company sells through the remaining quantities of these out of print titles through their normal sales channels at normal pricing and has not historically participated in the publishing industry s remainder market. Many of our products are interactive in nature, including our touchy-feely board books, activity books and flashcards, adventure and search books, art books, sticker books, foreign language books, learning manipulatives and toys. We also have a broad line of internet-linked books which allow readers to expand their educational experience by referring them to relevant non-Company websites. Our books also include science and math titles, as well as chapter books and novels. Many of our Kane Miller books were originally published in other countries, in their native languages, and we translate them to common American English and have exclusive rights to publish the titles in the United States. Certain Kane Miller agreements include North American rights and these titles are also sold into Canada. Our SmartLab Toys and Learning Wrap-Ups imprints are owned product lines that are sold domestically and internationally, including the sale of foreign distribution rights to specific customers. 
+
+Seasonality 
+
+Sales for both divisions are greatest during the fall due to the holiday season. 
+
+Competition 
+
+While we have the exclusive rights to sell Kane Miller books, Learning Wrap-Ups, SmartLab Toys and are the exclusive United States Multi-Level Marketing MLM distributor of Usborne books, we face competition from other publishers selling on the internet and directly to our customer base. Our PaperPie division competes in recruiting and retaining brand partners, which continuously receive opportunities to work for other direct selling companies, as well as new non-traditional employment opportunities, especially in the gig marketplace that provide part-time supplemental income. We also compete with other publishers in the school and library book fair market, of which Scholastic Corporation is the largest. 
+
+5
+
+Table of Contents 
+
+Our Publishing division faces competition from U.S. and international publishing companies that sell online and through the same retail bookstores, toy stores, and gift and novelty stores that offer a variety of non-book products. 
+
+Employees 
+
+As of April 26, 2023, 138 full-time employees worked at our Tulsa, OK, San Diego, CA, Layton, UT and Seattle, WA facilities. Of these employees, approximately 56 work in our distribution warehouse in Tulsa, OK. 
+
+Company Reports 
+
+Pursuant to Section 13 or 15 of the Exchange Act, as soon as reasonably practicable after filing electronically or otherwise furnishing it to the Securities and Exchange Commission SEC ), we make available, free of charge, on our website (www.edcpub.com) copies of our Annual Reports and Quarterly Reports. Our website also includes an internet link to the federal SEC website that contains additional public reports, including Current Reports on Form 8-K, amendments to those reports filed or furnished to the SEC and reports of holdings of our securities filed by our officers and directors under Section 16 of the Exchange Act. These reports will be provided electronically, free of charge, upon request. 
+
+Employee Retention Credit 
+
+In response to the COVID-19 pandemic, the U.S. government enacted the Coronavirus Aid, Relief and Economic Security Act (the CARES Act ), which, among other things, included a provision related to the Employee Retention Credit. The Company applied the provisions of the CARES Act as applicable. In fiscal 2024, the Company applied for employee retention credits for Q1, Q2 and Q3 wages paid in calendar year 2021. In connection with the CARES Act, the Company adopted a policy to recognize the employee retention credit when realized under Accounting Standards Codification ASC 450-30, Gain Contingencies . Accordingly, the total requested credits of 3.6 million are not recorded in the Company s financial statements until the credits are received, as the Company is not certain the credits will be issued. 
+
+Item 1A. RISK FACTORS 
+
+We are a smaller reporting company and are not required to provide this information. 
+
+Item 1B. UNRESOLVED STAFF COMMENTS 
+
+None 
+
+Item 2. PROPERTIES 
+
+Our headquarters office and distribution warehouse are located on a 40-acre complex at 5402 South 122nd East Ave, Tulsa, Oklahoma. We own the complex which includes multiple buildings that combine to approximately 400,000 square feet of office and warehouse space, of which 218,700 is utilized by us and 181,300 is occupied by a third-party tenant. Substantially all customer orders are fulfilled from our 170,000 square foot warehouse, in Tulsa, Oklahoma, using multiple flow-rack systems, referred to as lines, to expedite order completion, packaging, and shipment. 
+
+We also own a facility located at 10302 East 55th Place, Tulsa, Oklahoma that contains approximately 105,000 square feet of usable space including 8,000 square feet of office and 97,000 square feet of warehouse space. We use approximately 84,000 square feet of warehouse space for overflow inventory. The remaining 21,000 square feet are leased to a third-party tenant with a multi-year lease agreement. 
+
+In addition to these owned properties, we also lease additional warehouse space in Tulsa, Oklahoma as needed for overflow inventory, a small office in San Diego, California that is used by our Kane Miller employees, a warehouse and office space in Layton, Utah resulting from the acquisition of Learning Wrap-Ups, and office space located in Seattle, Washington resulting from the acquisition of SmartLab Toys. We believe that our operating facilities meet both present and future capacity needs. 
+
+Item 3. LEGAL PROCEEDINGS 
+
+We are not a party to any material pending legal proceedings. 
+
+Item 4. MINE SAFETY DISCLOSURES 
+
+None 
+
+6
+
+Table of Contents 
+
+PART II 
+
+Item 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+The common stock of EDC is traded on NASDAQ (symbol EDUC ). The number of shareholders of record of EDC's common stock as of May 2, 2023, was 457. 
+
+For information regarding our compensation plans see Note 11 of the notes to the financial statements and our definitive Proxy Statement to be filed in connection with the Annual Meeting of Shareholders to be held on June 29, 2023, as outlined in Part III, Item 12 in this Annual Report. 
+
+Issuer Purchases of Equity Securities 
+
+Period 
+
+Total # of Shares Purchased 
+
+Average Price Paid Per Share 
+
+Total # of Shares Purchased as Part of Publicly Announced Plan (1) 
+
+Maximum # of Shares that may be Repurchased Under the Plan (1) 
+
+December 1-31, 2022 
+
+- 
+
+- 
+
+- 
+
+514,594 
+
+January 1-31, 2023 
+
+- 
+
+- 
+
+- 
+
+514,594 
+
+February 1-28, 2023 
+
+- 
+
+- 
+
+- 
+
+514,594 
+
+Total 
+
+- 
+
+- 
+
+- 
+
+(1) 
+
+On February 4, 2019, the Board of Directors approved a new stock repurchase plan, replacing the former 2008 stock repurchase plan. The maximum number of shares which may be purchased under the new plan is 800,000. This plan has no expiration date. 
+
+Item 6. [RESERVED] 
+
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This Management s Discussion and Analysis of Financial Condition and Results of Operations contains a discussion of our business, including a general overview of our segments, our results of operations, our liquidity and capital resources, and our quantitative and qualitative disclosures about market risk. 
+
+The following discussion contains forward-looking statements that reflect our future plans, estimates, beliefs and expected performance. The forward-looking statements are dependent upon events, risks and uncertainties that may be outside of our control. Our actual results could differ materially from those discussed in these forward-looking statements. See Cautionary Remarks Regarding Forward Looking Statements in the front of this Annual Report on Form 10-K. 
+
+Management Summary 
+
+We are the owner and exclusive publisher of Kane Miller children s books; Learning Wrap-Ups, maker of educational manipulatives; and SmartLab Toys, maker of STEAM-based toys and games. We are also the exclusive United States Multi-Level Marketing MLM distributor of Usborne Publishing Limited Usborne children s books. Significant portions of our inventory purchases are concentrated with Usborne. Our distribution agreement with Usborne includes annual minimum purchase volumes along with specific payment terms, which, if not met or if payments are not received timely, may result in termination of the agreement. During fiscal 2023, the Company did not meet the minimum purchase volumes and certain payments were not received timely. No notification of termination has been received and Usborne continues to accept and fulfill purchase orders from the Company. Should termination of the agreement occur, the Company will be allowed, at a minimum, to sell through their remaining Usborne inventory over the twelve months following the termination date. 
+
+We sell our products through two separate divisions, PaperPie and Publishing. These two divisions each have their own customer base. The PaperPie division markets our complete line of products through a network of independent brand partners using a combination of home shows, internet party events and book fairs. The Publishing division markets Kane Miller, Learning Wrap-Ups and SmartLab Toys on a wholesale basis to various retail accounts. All other supporting administrative activities are recognized as other expenses outside of our two divisions. Other expenses consist primarily of the compensation for our office, warehouse and sales support staff as well as the cost of operating and maintaining our corporate offices and distribution facility. 
+
+7
+
+Table of Contents 
+
+PaperPie Division 
+
+Our PaperPie division uses a multi-level direct selling organizational structure to market our products using independent sales representatives Brand Partners located throughout the United States. The customer base of PaperPie consists of individual purchasers, as well as schools and public libraries. Revenues are primarily generated through book showings in individual homes, on social media collaboration platforms, through book fairs with school and public libraries and other in-person events. 
+
+An important factor in the continued growth of the PaperPie division is the addition of new brand partners and the retention of existing Brand Partners. Current active Brand Partners (defined as those with sales during the past six months) are primarily responsible for recruiting new brand partners. PaperPie makes it easy to recruit by providing joining incentives to new brand partners including discounted products and cash bonus awards based on exceeding certain sales criteria. In addition, our PaperPie division provides our Brand Partners with an extensive operational handbook, valuable training, and an individual website they can customize and use to generate sales. The Company also provides a back-office operations platform that allows Brand Partners to track their individual and team business results. 
+
+Brand Partners 
+
+FY 2023 
+
+FY 2022 
+
+New Brand Partners Added During Fiscal Year 
+
+16,500 
+
+26,100 
+
+Active Brand Partners at End of Fiscal Year 
+
+24,600 
+
+36,100 
+
+Our PaperPie division s multi-level marketing organizational structure presently has eight levels of sales representatives, collectively known as Brand Partners: 
+
+Brand Partners 
+
+Team Leaders 
+
+Advanced Leaders 
+
+Senior Leaders 
+
+Executive Leaders 
+
+Senior Executive Leaders 
+
+Directors 
+
+Senior Directors 
+
+Upon signing up, sales representatives begin as Brand Partners . Brand Partners receive weekly commissions from each sale they make; the commission rate they receive on each sale is determined by the order type under which the sale is made. In addition, Brand Partners receive a monthly sales bonus once their total sales reach an established monthly goal and other awards (called Level Perks for meeting other individual sales and recruiting goals for the month. Brand Partners who recruit a specified number of other Brand Partners into their downline become Team Leaders . These downline recruits are known as their "Central Group". Upon reaching this Team Leader level, Brand Partners become eligible to receive monthly override payments which are calculated on sales made by their Central Group and downlines up to two levels below. Team Leaders that recruit and promote other Team Leaders, and meet other established criteria, are eligible to become Advanced Leaders . 
+
+Once Advanced Leaders promote a second level Brand Partner, add additional recruits and meet other established criteria, they become Senior Leaders , Executive Leaders , Senior Executive Leaders , Directors or Senior Directors . One-time cash bonus payments are made to Advance Leaders and higher at each promotion level. Executive Leaders and higher receive an additional monthly override payment based upon the sales of their executive group. Directors and higher receive an additional bonus payment if they promote a Team Leader from their Central Group. The maximum override payment a leader can receive is calculated on their Central Group and three levels below. 
+
+During fiscal year 2023, internet sales continued to be the largest sales channel within our PaperPie division. The use of social media and party plan platforms, such as those available on Facebook, continue to be popular sales tools. These platforms allow Brand Partners to present and customers to attend online purchasing events from any geographical location. 
+
+8
+
+Table of Contents 
+
+Customers internet orders are primarily received via the Brand Partner s customized website, which is hosted by the Company. Brand Partners contact hosts or hostesses (collectively hostess who then provide a list of contacts to invite to an online party. During the online party, the Brand Partner answers attendees questions and provides product recommendations. These attendees then select desired products and place orders via the Brand Partner s customized website. Internet orders are processed through a standard online shopping cart checkout and the Brand Partner receives sales credit and commission on the transaction. All internet orders are shipped directly to the end customer. The hostess earns discounted products based on the total sales from the attendees at the online party. Brand Partners use the list of contacts provided by the hostess as additional contacts for future hostess and recruiting opportunities. 
+
+In-person parties also occur when Brand Partners contact hostesses to hold book shows in their homes. The Brand Partner assists the hostess in setting up the details for the show, makes a presentation at the show and takes orders for the products. The hostess earns discounted products based on the total sales at the party, including internet orders for those customers who can only attend via online access. These orders are typically shipped to the hostess who then distributes the products to the end customer. Customer specials are also available when customers, or their party, order above a specified amount. As with online parties, home shows often provide an excellent opportunity for recruiting new brand partners. 
+
+PaperPie net revenues also includes sales to schools and libraries through PaperPie Learning, a separate program for Brand Partners which requires them to pass certain qualifications and complete training requirements. The PaperPie Learning program includes book fairs which are held with an organization as the sponsor. The Brand Partner provides promotional materials to introduce our products to parents, who then turn in their orders at a designated time. The book fair program generates discounted products for the sponsoring organization. 
+
+PaperPie also generates revenues through various fundraiser programs directed toward schools and community organizations. Reach for the Stars is a pledge-based reading incentive program that provides cash and products to the sponsoring organization and products for the participating children. An additional fundraising program, Cards for a Cause , offers our Brand Partners the opportunity to help members of the community by sharing proceeds from the sale of specific items. Organizations sell variety boxes of greeting-type cards and donate a portion of the proceeds to help support their related causes. 
+
+Publishing Division 
+
+Our Publishing division operates in a market that is highly fragmented, with many types of retail companies engaged in selling children s books and toys. The Publishing division s customer base includes national book chains, regional and local bookstores, toy and gift stores, school supply stores and museums. To reach these markets, the Publishing division utilizes a combination of commissioned sales representatives and an in-house sales group located at our headquarters. 
+
+The table below shows the percentage of net revenues from our Publishing division based on market type. 
+
+Publishing Division Net Revenues by Market Type 
+
+FY 2023 
+
+FY 2022 
+
+National chain bookstores 
+
+2 
+
+2 
+
+All other 
+
+98 
+
+98 
+
+Total net revenues 
+
+100 
+
+100 
+
+Publishing uses a variety of methods to attract potential new customers and maintain current customers. Our employees attend many of the national trade shows held by the book and toy selling industry each year, allowing us to contact potential buyers who may be unfamiliar with our products. Our marketing strategy targets toy and specialty stores, in addition to bookstores and museum gift shops, through print media advertising in trade publications. In some instances, our products are featured in promotions and catalogs by participation in co-ops with national chain retailers. 
+
+Publishing s sales representatives actively target the smaller independent book and gift store customers. This market has seen continued growth due to a resurgence in the opening of local bookstores, toy stores, and specialty stores across the U.S., coupled with the efforts of both our in-house and outside sales representatives to increase sales to local and independent businesses. The Company shifted its focus toward independent stores as national chain stores saw a change in buying programs and purchasing slowed with COVID-19. Our semi-annual, full-color, 128-page catalogs are mailed to approximately 4,000 customers and potential customers. See Publishing Operating Results for discussion of our updated distribution agreement with Usborne. 
+
+9
+
+Table of Contents 
+
+Result of Operations 
+
+The following table shows our statements of operations data: 
+
+Twelve Months Ended 
+
+			 February 28, 
+
+2023 
+
+2022 
+
+Net revenues 
+
+87,829,000 
+
+142,228,800 
+
+Cost of goods sold 
+
+31,759,200 
+
+44,297,500 
+
+Gross margin 
+
+56,069,800 
+
+97,931,300 
+
+Operating expenses 
+
+Operating and selling 
+
+15,780,600 
+
+23,010,400 
+
+Sales commissions 
+
+25,676,100 
+
+44,377,500 
+
+General and administrative 
+
+17,195,100 
+
+20,302,200 
+
+Total operating expenses 
+
+58,651,800 
+
+87,690,100 
+
+Other (income) expense 
+
+Interest expense 
+
+2,172,300 
+
+916,400 
+
+Other income 
+
+(1,327,400 
+
+(1,911,100 
+
+Earnings (loss) before income taxes 
+
+(3,426,900 
+
+11,235,900 
+
+Income taxes 
+
+(922,000 
+
+2,929,100 
+
+Net earnings (loss) 
+
+(2,504,900 
+
+8,306,800 
+
+See the detailed discussion of net revenues, gross margin and operating expenses by reportable segment below. 
+
+Non-Segment Operating Results 
+
+Total operating expenses not associated with a reporting segment were 14.9 million for fiscal year ended February 28, 2023, compared to 17.8 million for the same period a year ago. Operating expenses decreased 2.9 million primarily as a result of a reduction in labor expenses of 2.5 million, with our warehouse payroll having the largest reduction, and a 0.9 million decrease in freight-handling costs, both associated with a decrease in gross sales, plus a 0.2 million decrease in warehouse rent for reduced inventory levels. These expense reductions were offset by a 0.3 million increase in depreciation expense primarily related to the addition of the new pick-pack-ship lines placed into service in fiscal year 2022, a 0.3 million increase in property taxes and insurance costs, and a 0.1 million increase in expenses related to the purchase of SmartLab Toys and the addition of the Seattle, WA office location. 
+
+Interest expense increased 1.3 million, to 2.2 million for fiscal year ended February 28, 2023, compared to 0.9 million reported for fiscal year ended February 28, 2022, due to increased borrowings with our lenders primarily associated with inventory and increases in floating interest rates. 
+
+Other income decreased 0.6 million, to 1.3 million for fiscal year ended February 28, 2023, compared to 1.9 million reported for fiscal year ended February 28, 2022, due to 0.3 million of recovered losses in fiscal 2022 associated with a shipping vessel incident in fiscal 2021 that did not repeat in the current fiscal year, 0.2 million of startup costs recognized from the acquisition of SmartLab Toys and 0.1 million in other various changes. 
+
+Income taxes decreased 3.8 million, to a tax benefit of 0.9 million for fiscal year ended February 28, 2023, from a tax expense of 2.9 million for the same period a year ago. This decrease was primarily related to a decrease in taxable income for the current fiscal year compared to the prior fiscal year. The effective tax rate increased by 0.8 , to 26.9 for fiscal year ended February 28, 2023, as compared to 26.1 for fiscal year ended February 28, 2022, primarily due to sales mix fluctuations between states. Our tax rates are higher than the federal statutory rate of 21 due to the inclusion of state income and franchise taxes. 
+
+10
+
+Table of Contents 
+
+PaperPie Operating Results 
+
+The following table summarizes the operating results of the PaperPie segment for the twelve months ended February 28: 
+
+Twelve Months Ended 
+
+			 February 28, 
+
+2023 
+
+2022 
+
+Gross sales 
+
+94,795,700 
+
+159,303,800 
+
+Less discounts and allowances 
+
+(27,271,100 
+
+(44,187,200 
+
+Transportation revenue 
+
+7,022,100 
+
+13,861,900 
+
+Net revenues 
+
+74,546,700 
+
+128,978,500 
+
+Cost of goods sold 
+
+24,639,000 
+
+37,150,600 
+
+Gross margin 
+
+49,907,700 
+
+91,827,900 
+
+Operating expenses 
+
+Operating and selling 
+
+12,501,100 
+
+18,800,300 
+
+Sales commissions 
+
+25,095,100 
+
+43,801,300 
+
+General and administrative 
+
+3,140,900 
+
+4,788,800 
+
+Total operating expenses 
+
+40,737,100 
+
+67,390,400 
+
+Operating income 
+
+9,170,600 
+
+24,437,500 
+
+Average number of active Brand Partners 
+
+28,000 
+
+44,900 
+
+PaperPie net revenues decreased 54.5 million, or 42.2 , to 74.5 million for fiscal year ended February 28, 2023, when compared with net revenues of 129.0 million reported for fiscal year ended February 28, 2022. The average number of active Brand Partners in fiscal year 2023 was 28,000, a decrease of 16,900, or 37.6 , from 44,900 in fiscal year 2022. The Company reports the average number of active Brand Partners as a key indicator for this division. Our Brand Partner numbers have declined due to Brand Partners returning to full-time employment, as well as families experiencing children returning to the classroom, therefore requiring less learning from home materials than they had in the prior year. We also saw new Brand Partner recruiting negatively impacted by the recent change in our distribution agreement with Usborne Publishing Limited. The new agreement created a level of uncertainty with our Brand Partners until we were able to effectively communicate the continuation of our relationship within the Direct Sales division. Further, sales were impacted in our fiscal fourth quarter as we rebranded our direct sales division from Usborne Books More UBAM to PaperPie. Our Brand Partners were challenged with updating their individual marketing materials, training videos and personal business websites to the new brand. The time spent updating these business items reduced our Brand Partners available time to generate sales, most clearly identified in the first two weeks of January 2023. In addition, sales during fiscal 2023 continued to be negatively impacted by economic factors that include recent record inflation, resulting in high fuel cost and food price increases that continue to impact the disposable income of our customers. We expect this impact on sales to continue as inflationary pressures persist. 
+
+PaperPie gross margin decreased 41.9 million, or 45.6 , to 49.9 million for fiscal year ended February 28, 2023, from 91.8 million reported for fiscal year ended February 28, 2022. Gross margin as a percentage of net revenues decreased 4.3 to 66.9 for fiscal year 2023 when compared to 71.2 for fiscal year 2022. The decrease in gross margin as a percentage of net revenues is attributed to higher discounts being offered to induce sales and a change in the mix of order types received impacting margins by approximately 1.0 million, rising ocean freight costs on inbound inventory totaling approximately 1.2 million, which increased cost of goods sold, and reduced purchasing volume discounts/rebates totaling approximately 1.0 million. 
+
+Total PaperPie operating expenses decreased 26.7 million, or 39.6 , to 40.7 million during the fiscal year ended February 28, 2023, when compared with 67.4 million reported for fiscal year ended February 28, 2022. Operating and selling expenses decreased 6.3 million, to 12.5 million for fiscal year ended February 28, 2023, from 18.8 million reported in the same period a year ago. These decreases were due to a 7.5 million decrease in shipping costs associated with the decrease in volume of orders shipped from lower sales, offset by a 1.2 million increase in accruals for Brand Partner incentive trip expenses and convention expenses. Sales commissions decreased 18.7 million, to 25.1 million during the fiscal year ended February 28, 2023, when compared to 43.8 million reported in the same period a year ago primarily due to the decrease in net revenues. General and administrative expenses decreased 1.7 million, to 3.1 million during the fiscal year ended February 28, 2023, when compared with 4.8 million reported for fiscal year ended February 28, 2022. This decrease was due to 1.0 million of decreased credit card transaction fees associated with decreased sales volumes, a 0.4 million decrease in promotions and marketing expenses associated with decreased Brand Partner counts, and a 0.3 million decrease in payroll and various other expenses. 
+
+11
+
+Table of Contents 
+
+Operating income of our PaperPie division decreased 15.2 million, or 62.3 , to 9.2 million for fiscal year ended February 28, 2023, as compared to 24.4 million reported for fiscal year ended February 28, 2022. Operating income for the PaperPie division as a percentage of net revenues for the year ended February 28, 2023, was 12.3 , compared to 18.9 for the year ended February 28, 2022, a change of 6.6 . Operating income as a percentage of net revenues changed from the prior year primarily due to the decrease in net revenues caused by higher discounts and lower transportation revenue, the increase in cost of goods sold resulting from higher inbound freight costs along with fewer rebates and discounts associated with purchase volumes and the increase in accrued expenses for the Company s Brand Partners related to the annual incentive trip and convention. 
+
+Publishing Operating Results 
+
+The following table summarizes the operating results of the Publishing segment for the twelve months ended February 28: 
+
+Twelve Months Ended 
+
+			 February 28, 
+
+2023 
+
+2022 
+
+Gross sales 
+
+27,896,200 
+
+28,163,000 
+
+Less discounts and allowances 
+
+(14,624,400 
+
+(14,922,100 
+
+Transportation revenue 
+
+10,500 
+
+9,400 
+
+Net revenues 
+
+13,282,300 
+
+13,250,300 
+
+Cost of goods sold 
+
+7,120,200 
+
+7,146,900 
+
+Gross margin 
+
+6,162,100 
+
+6,103,400 
+
+Total operating expenses 
+
+2,975,300 
+
+2,463,600 
+
+Operating income 
+
+3,186,800 
+
+3,639,800 
+
+Our Publishing division s net revenues remained consistent at 13.3 million for fiscal years ended February 28, 2023 and 2022. During fiscal 2023, we entered into a new distribution agreement with Usborne. Under the contracted terms in our new distribution agreement, the Company no longer had the rights to distribute Usborne s products to retail customers after November 15, 2022, at which time Usborne was planning to use a different distributor to supply retail accounts with their products. The November 15, 2022 transition date, at Usborne s request, was extended until their new supplier can start distribution in 2023. Usborne s products sold within the Publishing division accounted for 83.1 , or 23.2 million, of gross sales during the fiscal year ended February 28, 2023. 
+
+Gross margin remained consistent, increasing 0.1 million, to 6.2 million for fiscal year ended February 28, 2023, from 6.1 million reported for fiscal year ended February 28, 2022. Gross margin as a percentage of net revenues increased 0.3 , to 46.4 for fiscal year 2023, compared to 46.1 reported the same period a year ago due to a change in customer mix. Customers receive varying discounts due to higher sales volumes and contract terms. 
+
+Operating expenses increased 0.5 million, to 3.0 million for fiscal year ended February 28, 2023, from 2.5 million reported for fiscal year ended February 28, 2022. The increase in operating expenses resulted from the full year inclusion of Learning Wrap-Ups office staff and related expenses in fiscal year 2023. Learning Wrap-Ups was acquired in the fourth quarter of fiscal year 2022. 
+
+Operating income for the segment decreased 0.4 million, or 11.1 , to 3.2 million for fiscal year ended February 28, 2023, from 3.6 million reported during the same period last year. The decrease in operating income resulted primarily from the increase in operating expenses attributable to a full year impact of Learning Wrap-Ups office staff and related expenses. 
+
+Liquidity and Capital Resources 
+
+EDC has a history of profitability and positive cash flow. We typically fund our operations from the cash we generate. During periods of loss, like fiscal year 2023, EDC will reduce purchases and sell through inventory to generate cash flows. The Company expects to reduce current excess inventory levels and use the cash proceeds to pay down the line of credit and portions of the term debt. Available cash has historically been used to pay down outstanding bank loan balances, for capital expenditures, to pay dividends and to acquire treasury stock. We utilize a bank credit facility and other term loan borrowings to meet our short-term cash needs, as well as fund capital expenditures, when necessary. As of the end of fiscal year 2023, our revolving bank credit facility loan balance was 10.6 million with 4.4 million in available capacity. 
+
+12
+
+Table of Contents 
+
+During fiscal year 2023, we experienced positive cash flows from operations of 58,500. These cash flows resulted from: 
+
+net loss of 2,504,900 
+
+Adjusted for: 
+
+depreciation and amortization expense of 2,478,700 
+
+share-based compensation expense, net of 907,800 
+
+provision for inventory allowance of 715,900 
+
+Offset by: 
+
+deferred income taxes of 678,100 
+
+Positively impacted by: 
+
+decrease in inventories, net of 9,086,900 
+
+decrease in accounts receivable of 732,100 
+
+Negatively impacted by: 
+
+decrease in accounts payable of 8,547,900 
+
+decrease in accrued salaries, commissions, and other liabilities of 1,578,000 
+
+decrease in income taxes payable of 241,900 
+
+increase in prepaid expenses and other assets of 233,200 
+
+decrease in deferred revenues of 78,900 
+
+Cash used in investing activities was 1,755,800 for capital expenditures, consisting of 852,500 of software upgrades to our proprietary systems that our Brand Partners use to monitor their business and place customer orders, 766,400 associated with the purchase of SmartLab Toys, 132,000 of other assets associated with the Company s rebrand of the PaperPie sales division and 4,900 of other various changes. 
+
+Cash provided by financing activities was 2,025,200, which was comprised of net proceeds from term debt of 36,000,000 and cash received in treasury stock transactions of 63,400, offset by payments on term debt of 25,900,100, net payments on the line of credit of 7,089,000, payments of 870,700 for dividends declared in fiscal 2022 and paid in fiscal 2023 and payments of debt issuance costs of 178,400. 
+
+We continue to expect the cash generated from our operations, specifically from the reduction of excess inventory, and cash available through our line of credit with our Lender will provide us the liquidity we need to support ongoing operations. Cash generated from operations will be used to purchase inventory in order to expand our product offerings and to pay down existing debt. 
+
+On August 9, 2022, the Company repaid in full all outstanding indebtedness and terminated all commitments and obligations under its Amended and Restated Loan Agreement dated February 15, 2021 (as amended), between the Company and MidFirst Bank. The Company s payment to MidFirst Bank, including interest, was approximately 45.0 million, which satisfied all the Company s debt obligations with MidFirst Bank. The Company did not incur any early termination penalties as a result of the repayment of indebtedness or termination of the Amended and Restated Loan Agreement, which provided Term Loan #1, Advancing Term Loan #1, Advancing Term Loan #2 and the Revolving Loan. 
+
+On August 9, 2022, the Company executed a new Credit Agreement Loan Agreement with BOKF, NA Bank of Oklahoma or the Lender ). The Loan Agreement established a fixed rate term loan in the principal amount of 15,000,000 (the Fixed Rate Term Loan ), a floating rate term loan in the principal amount of 21,000,000 (the Floating Rate Term Loan together with the Fixed Rate Term Loan, collectively, the Term Loans ), and a revolving promissory note in the principal amount up to 15,000,000 (the Revolving Loan ). 
+
+13
+
+Table of Contents 
+
+Features of the Loan Agreement include: 
+
+(i) 
+
+Term Loans on 20-year amortization with 5-year maturity date of August 9, 2027 
+
+(ii) 
+
+Revolving Loan maturity date of August 9, 2023 
+
+(iii) 
+
+Fixed Rate Term Loan bears interest at a fixed rate per annum equal to 4.26 
+
+(iv) 
+
+Floating Rate Term Loan bears interest at a rate per annum equal to Term SOFR Rate + 1.75 (effective rate was 6.28 at February 28, 2023) 
+
+(v) 
+
+Revolving Loan bears interest at a rate per annum equal to Term SOFR Rate + 2.50 (effective rate was 7.03 at February 28, 2023) 
+
+(vi) 
+
+Revolving Loan allows for Letters of Credit up to 7,500,000 upon bank approval (none were outstanding at February 28, 2023) 
+
+The Loan Agreement also contains provisions that require the Company to maintain a minimum fixed charge ratio and limit any additional debt with other lenders. The Company was in violation of the minimum fixed charge ratio covenant as of February 28, 2023, for which the Company obtained a written waiver of compliance from the Lender. Available credit under the current 15,000,000 revolving line of credit with the Lender was 4,365,500 at February 28, 2023. 
+
+On December 22, 2022, the Company executed the First Amendment to our Credit Agreement with the Lender. This amendment clarified the definition of the Fixed Charge Coverage Ratio to exclude dividends paid prior to November 30, 2022, and placed restrictions on acquisitions and cash dividends. 
+
+On May 10, 2023, the Company executed the Second Amendment to our Credit Agreement with the Lender. This amendment waived the fixed charge ratio default which occurred on February 28, 2023. The Second Amendment also added a cumulative maximum level of fiscal year to date inventory purchases through the expiration of the Revolving Loan Agreement, increased the borrowing rate on the Company s Revolving Loan to Term SOFR Rate + 3.5 , reduced the revolving commitment from 15,000,000 to 14,000,000, effective May 10, 2023, and further reduced the revolving commitment to 13,500,000, effective July 15, 2023, among lesser items. 
+
+The Company does not expect to meet the fixed charge ratio, outlined in the Credit Agreement, during fiscal year 2024. Under the terms of the Credit Agreement, not meeting this ratio could represent an Event of Default. Under the terms of the Credit Agreement, should an Event of Default occur, the Lender will have the right to accelerate the maturities of the Fixed Rate Term Loan and Floating Rate Term Loan. As an Event of Default is expected, and no waiver of the Event of Default is guaranteed to be received by the Lender, the long-term portions of the Fixed Rate Term Loan and Float Rate Term Loan have been reclassified as current liabilities. 
+
+The following table reflects aggregate current maturities of term debt, excluding the Revolving Loan, during the next fiscal year as follows: 
+
+Year ending February 29, 
+
+2024 
+
+35,100,000 
+
+Total 
+
+35,100,000 
+
+In April 2008, our Board of Directors amended our 1998 stock repurchase plan, establishing that we may purchase up to an additional 1,000,000 shares of Company common stock as market conditions warrant. In February 2019, our Board of Directors approved a new stock repurchase plan to replace the amended 2008 plan. Under the new 2019 plan, the Company is authorized to purchase up to 800,000 shares of Company common stock, which represented approximately 9 of the outstanding shares as of February 28, 2023, of which 514,594 remains available to purchase as of February 28, 2023. Management has no plans to repurchase any outstanding shares until the Company returns to profitability. 
+
+Risks and Uncertainties 
+
+In accordance with ASU No. 2014-15, Disclosure of Uncertainties about an Entity s Ability to Continue as a Going Concern (Subtopic 205-40), the Company has evaluated whether there are conditions and events, considered in the aggregate, that raise substantial doubt about the Company s ability to continue as a going concern within one year after the date that the consolidated financial statements are issued. 
+
+14
+
+Table of Contents 
+
+As an Event of Default is expected associated with the Loan Agreement, and there is no guaranty that the Event of Default will be waived by BOKF, NA, there is sufficient uncertainty that, should the bank choose to accelerate the maturities of the Fixed Rate Term Loan and Floating Rate Term Loan, the Company could continue as a going concern. Management has plans to enter into a new financing agreement by August 9, 2023, with BOKF, NA or another lender, that will allow it to operate without default and reclassify the non-current portions of the Fixed Rate Term Loan and Floating Rate Term Loan as long-term liabilities. 
+
+Contractual Obligations 
+
+We are a smaller reporting company and are not required to provide this information. 
+
+Off-Balance Sheet Arrangements 
+
+As of February 28, 2023, we had no off-balance sheet arrangements that have, or are reasonably likely to have, a current or future material effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources. 
+
+Seasonality 
+
+The Company experiences increased sales in the Fall season. Historically, we have experienced an increase in inventory during the Summer in anticipation for the Fall increase in sales. In addition, new titles are typically released twice a year, in the Spring and Fall, which increases our inventory in the months preceding these scheduled releases. We do not expect inventory to increase in fiscal year 2024 as we continue to sell down excess inventory. 
+
+Critical Accounting Policies 
+
+Our discussion and analysis of our financial condition and results of operations are based upon our financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, including those related to our valuation of inventory, allowance for uncollectible accounts receivable, allowance for sales returns, long-lived assets and deferred income taxes. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. 
+
+Actual results may materially differ from these estimates under different assumptions or conditions. Historically, however, actual results have not differed materially from those determined using required estimates. Our significant accounting policies are described in the notes accompanying the financial statements included elsewhere in this report. However, we consider the following accounting policies to be more significantly dependent on the use of estimates and assumptions. 
+
+Share-Based Compensation 
+
+We account for share-based compensation whereby share-based payment transactions with employees, such as stock options and restricted stock, are measured at estimated fair value at the date of grant. For awards subject to service conditions, compensation expense is recognized over the vesting period on a straight-line basis. Awards subject to performance conditions are attributed separately for each vesting tranche of the award and are recognized ratably from the service inception date to the vesting date for each tranche. Forfeitures are recognized when they occur. Any cash dividends declared after the restricted stock award is issued, but before the vesting period is completed, will be reinvested in Company shares at the opening trading price on the dividend payment date. Shares purchased with cash dividends will also retain the same restrictions until the completion of the original vesting period associated with the awarded shares. 
+
+The restricted share awards under the 2019 Long-Term Incentive Plan 2019 LTI Plan and 2022 Long-Term Incentive Plan 2022 LTI Plan contain both service and performance conditions. The Company recognizes share-based compensation expense only for the portion of the restricted share awards that are considered probable of vesting. Shares are considered granted, and the service inception date begins, when a mutual understanding of the key terms and conditions between the Company and the employees has been established. The fair value of these awards is determined based on the closing price of the shares on the grant date. The probability of restricted share awards granted with future performance conditions is evaluated at each reporting period and compensation expense is adjusted based on the probability assessment. 
+
+During fiscal years 2023 and 2022, the Company recognized 0.9 million and 1.0 million, respectively, of compensation expense associated with the shares granted. 
+
+15
+
+Table of Contents 
+
+Revenue Recognition 
+
+Sales associated with product orders are recognized and recorded when products are shipped. Products are shipped FOB-Shipping Point. PaperPie s sales are generally paid at the time the product is ordered. Sales which have been paid for but not shipped are classified as deferred revenue on the balance sheet. Sales associated with consignment inventory are recognized when reported and payment associated with the sale has been remitted. Transportation revenue represents the amount billed to the customer for shipping the product and is recorded when the product is shipped. 
+
+Estimated allowances for sales returns are recorded as sales are recognized. Management uses a moving average calculation to estimate the allowance for sales returns. We are not responsible for a product damaged in transit. Damaged returns are primarily received from the retail customers of our Publishing division. This damage occurs in the stores, not in shipping to the stores, and we typically do not offer credit for damaged returns. It is industry practice to accept non-damaged returns from retail customers. Management has estimated and included a reserve for sales returns of 0.2 million for the fiscal years ended February 28, 2023 and February 28, 2022. 
+
+Allowance for Doubtful Accounts 
+
+We maintain an allowance for estimated losses resulting from the inability of our customers to make required payments and a reserve for vendor share markdowns, when applicable (collectively allowance for doubtful accounts ). An estimate of uncollectible amounts is made by management based upon historical bad debts, current customer receivable balances, age of customer receivable balances, customers financial conditions and current economic trends. Management has estimated and included an allowance for doubtful accounts of 0.2 million and 0.3 million for the fiscal years ended February 28, 2023 and February 28, 2022, respectively. 
+
+Inventory 
+
+Our inventory contains approximately 2,000 titles, each with different rates of sale depending upon the nature and popularity of the title. Almost all of our product line is saleable as the products are not topical in nature and remain current in content today as well as in the future. Most of our products are printed in China, Europe, Singapore, India, Malaysia and Dubai typically resulting in a four to eight-month lead-time to have a title printed and delivered to us. 
+
+Certain inventory is maintained in a noncurrent classification. Management continually estimates and calculates the amount of noncurrent inventory. Noncurrent inventory arises due to occasional purchases of titles in quantities in excess of what will be sold within the normal operating cycle, due to the minimum order requirements of our suppliers. Noncurrent inventory is estimated by management using an anticipated turnover ratio by title, based primarily on historical trends. Inventory in excess of 2 years of anticipated sales is classified as noncurrent inventory. These inventory quantities have additional exposure for storage damages and related issues, and therefore have higher obsolescence reserves. Noncurrent inventory balances prior to valuation allowances were 5.1 million and 2.4 million at February 28, 2023 and February 28, 2022, respectively. Noncurrent inventory valuation allowances were 0.4 million at February 28, 2023 and February 28, 2022. 
+
+Brand Partners that meet certain eligibility requirements may request and receive inventory on consignment. We believe allowing our Brand Partners to have consignment inventory greatly increases their ability to be successful in making effective presentations at home shows, book fairs and other events; in summary, having consignment inventory leads to additional sales opportunities. Approximately 8.5 of our active Brand Partners have maintained consignment inventory at the end of fiscal year 2023. Consignment inventory is stated at cost, less an estimated reserve for consignment inventory that is not expected to be sold or returned to the Company. The total cost of inventory on consignment with Brand Partners was 1.5 million and 1.4 million at February 28, 2023 and February 28, 2022, respectively. 
+
+Inventories are presented net of a valuation allowance, which includes reserves for inventory obsolescence and reserves for consigned inventory that is not expected to be sold or returned to the Company. Management estimates the inventory obsolescence allowance for both current and noncurrent inventory, which is based on management s identification of slow-moving inventory. Management has estimated a valuation allowance for both current and noncurrent inventory, including the reserve for consigned inventory, of 0.9 million at February 28, 2023 and February 28, 2022. 
+
+New Accounting Pronouncements 
+
+See the New Accounting Pronouncements section of Note 1 to our financial statements, included in Part IV, Item 15 of this report, for further details of recent accounting pronouncements. 
+
+16
+
+Table of Contents 
+
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+We are a smaller reporting company and are not required to provide this information. 
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+The information required by Item 8 begins at page 25. 
+
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None 
+
+Item 9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+An evaluation was performed of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to the Securities Exchange Act of 1934 (the Exchange Act Rule 13a-15(a) as of February 28, 2023. This evaluation was conducted under the supervision and with the participation of our management, including our Chief Executive Officer (Principal Executive Officer) and our Chief Financial Officer and Corporate Secretary (Principal Financial and Accounting Officer). 
+
+Based on that evaluation, these officers concluded that our disclosure controls and procedures were effective to ensure that information required to be disclosed in reports that we file or submit under the Exchange Act is accumulated and communicated to them, as appropriate, to allow timely decisions regarding required disclosure and is recorded, processed, summarized, and reported in accordance with the time periods specified in SEC rules and forms. It should be noted that the design of any system of controls is based in part upon certain assumptions about the likelihood of future events. 
+
+Changes in Internal Control over Financial Reporting 
+
+During the fourth quarter of the fiscal year covered by this report on Form 10-K, there have been no changes in our internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Management s Report on Internal Control Over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rules 13(a) through 15(f) of the Exchange Act. Under the supervision and with the participation of our management, including our Chief Executive Officer and our Chief Financial Officer, we evaluated the effectiveness of our internal control over financial reporting based on the framework set forth in the 2013 Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO ). All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. Based on our evaluation under the 2013 COSO Framework and applicable SEC rules, our management concluded that our internal control over financial reporting was effective as of February 28, 2023. 
+
+This annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by our registered public accounting firm pursuant to rules of the SEC that permit us to provide only management's report in this annual report. 
+
+Item 9B. OTHER INFORMATION 
+
+None 
+
+Item 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+None 
+
+17
+
+Table of Contents 
+
+PART III 
+
+Item 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+(a) Identification of Directors 
+
+The information required by this Item 10 is furnished by incorporation by reference to the information under the caption "Election of Directors" in our definitive Proxy Statement to be filed in connection with the Annual Meeting of Shareholders to be held on June 29, 2023. 
+
+(b) Identification of Executive Officers 
+
+The information required by this Item 10 is furnished by incorporation by reference to the information under the caption "Executive Officers of the Registrant" in our definitive Proxy Statement to be filed in connection with the Annual Meeting of Shareholders to be held on June 29, 2023. 
+
+(c) Compliance with Section 16 (a) of the Exchange Act 
+
+The information required by this Item 10 is furnished by incorporation by reference to the information under the caption "Section 16 (a) Beneficial Ownership Reporting Compliance in our definitive Proxy Statement to be filed in connection with the Annual Meeting of Shareholders to be held on June 29, 2023. 
+
+Item 11. EXECUTIVE COMPENSATION 
+
+The information required by this Item 11 is furnished by incorporation by reference to the information under the caption "Executive Compensation" in our definitive Proxy Statement to be filed in connection with the Annual Meeting of Shareholders to be held on June 29, 2023. 
+
+Item 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The information required by this Item 12 is furnished by incorporation by reference to the information under the captions "Security Ownership of Certain Beneficial Owners and Management" and "Compensation Plans" in our definitive Proxy Statement to be filed in connection with the Annual Meeting of Shareholders to be held on June 29, 2023. 
+
+Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+None 
+
+Item 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The information required by this Item 14 is furnished by incorporation by reference to the information under the caption "Independent Registered Public Accountants" in our definitive Proxy Statement to be filed in connection with the Annual Meeting of Shareholders to be held on June 29, 2023. 
+
+18
+
+Table of Contents 
+
+PART IV 
+
+Item 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(a) The following documents are filed as part of this report: 
+
+1. Financial Statements 
+
+Page 	 	 	 	 	 	 	 	 	 	 	 	 	 Report of Independent Registered Public Accounting Firm (PCAOB ID 	 	 	 23 	 	 	 	 	 	 	 	 	 	 	 	 	 Balance Sheets as of February 28, 2023 and February 28, 2022 	 	 	 25 	 	 	 	 	 	 	 	 	 	 	 	 	 Statements of Operations for the Years ended February 28, 2023 and February 28, 2022 	 	 	 26 	 	 	 	 	 	 	 	 	 	 	 	 	 Statements of Shareholders' Equity for the Years ended February 28, 2023 and February 28, 2022 	 	 	 27 	 	 	 	 	 	 	 	 	 	 	 	 	 Statements of Cash Flows for the Years ended February 28, 2023 and February 28, 2022 	 	 	 28 	 	 	 	 	 	 	 	 	 	 	 	 	 Notes to Financial Statements 	 	 	 29-41 	 	 
+
+Schedules have been omitted as such information is either not required or is included in the financial statements. 
+
+2. Exhibits 
+
+3.1 
+
+Restated Certificate of Incorporation dated April 26, 1968, and Certificate of Amendment thereto dated June 21, 1968 are incorporated herein by reference to Exhibit 1 to Registration Statement on Form 10-K (File No. 0-04957). 
+
+3.2 
+
+Certificate of Amendment of Restated Certificate of Incorporation dated August 27, 1977 is incorporated herein by reference to Exhibit 20.1 to Form 10-K for fiscal year ended February 28, 1981 (File No. 0-04957). 
+
+3.3 
+
+By-Laws, as amended, are incorporated herein by reference to Exhibit 20.2. to Form 10-K for fiscal year ended February 28, 1981 (File No. 0-04957). 
+
+3.4 
+
+Certificate of Amendment of Restated Certificate of Incorporation dated November 17, 1986 is incorporated herein by reference to Exhibit 3.3 to Form 10-K for fiscal year ended February 28, 1987 (File No. 0-04957). 
+
+3.5 
+
+Certificate of Amendment of Restated Certificate of Incorporation dated March 22, 1996 is incorporated herein by reference to Exhibit 3.4 to Form 10-K for fiscal year ended February 28, 1997 (File No. 0-04957). 
+
+3.6 
+
+Certificate of Amendment of Restated Certificate of Incorporation dated July 15, 2002 is incorporated herein by reference to Exhibit 10.30 to Form 10-K dated February 28, 2003 (File No. 0-04957). 
+
+3.7 
+
+Certificate of Amendment of Restated Certificate of Incorporation dated August 15, 2018 is incorporated herein by reference to Exhibit 3.1 to Form 8-K dated August 21, 2018 (File No. 0-04957). 
+
+4.1 
+
+Specimens of Common Stock Certificates are incorporated herein by reference to Exhibits 3.1 and 3.2 to Registration Statement on Form 10-K (File No. 0-04957) filed June 29, 1970. 
+
+10.1 
+
+Usborne Agreement-Contractual agreement by and between the Company and Usborne Publishing Limited dated November 25, 1988 is incorporated herein by reference to Exhibit 10.12 to Form 10-K dated February 28, 1989 (File No. 0-04957). 
+
+10.2 
+
+Party Plan-Contractual agreement by and between the Company and Usborne Publishing Limited dated March 14, 1989 is incorporated herein by reference to Exhibit 10.13 to Form 10-K dated February 28, 1989 (File No. 0-04957). 
+
+19
+
+Table of Contents 
+
+10.3 
+			 
+			 Amendment dated January 1, 1992 to Usborne Agreement - Contractual agreement by and between the Company and Usborne Publishing Limited is incorporated herein by reference to Exhibit 10.13 to Form 10-K dated February 29, 1992 (File No. 0-04957). 
+
+10.4 
+
+Educational Development Corporation 2002 Incentive Stock Option Plan is incorporated herein by reference to Exhibit A to definitive proxy statement on Schedule 14A dated May 23, 2002 (File No. 0-04957). 
+
+10.5 
+
+Amendment dated November 12, 2002 to Usborne Agreement Contractual agreement by and between us and Usborne Publishing Limited is incorporated herein by reference to Exhibit 10.32 to Form 10-K dated February 28, 2003 (File No. 0-04957). 
+
+10.6 
+
+Employment Agreement between Randall W. White and the Company dated February 28, 2004 incorporated herein by reference to Exhibit 10.8 to Form 10-K dated February 28, 2005 (File No. 0-04957). 
+
+10.7 
+
+Purchase and Sale Agreement dated December 1, 2015 by and between the Company and Hilti, Inc., Tulsa, OK incorporated herein by reference to Exhibit 10.8 to Form 10-K dated February 28, 2019 (File No. 0-04957). 
+
+10.8 
+
+Lease Agreement dated December 1, 2015 by and between the Company and Hilti, Inc., Tulsa, OK incorporated herein by reference to Exhibit 10.9 to Form 10-K dated February 28, 2019 (File No. 0-04957). 
+
+10.9 
+
+Amended and Restated Loan Agreement dated February 15, 2021 by and between the Company and MidFirst Bank, Tulsa, OK is incorporated herein by reference to Exhibit 10.10 to form 10-K dated February 28, 2021 (File No. 0-04957) 
+
+10.10 
+
+First Amendment to the Amended and Restated Loan Agreement, dated April 1, 2021 by and between the Company and MidFirst Bank, Tulsa, OK is incorporated herein by reference to Exhibit 10.11 to Form 10-K dated February 28, 2021 (File No. 0-04957). 
+
+10.11 
+
+Second Amendment to the Amended and Restated Loan Agreement, dated July 16, 2021 by and between the Company and MidFirst Bank, Tulsa, OK is incorporated herein by reference to Exhibit 10.1 to Form 10-Q dated August 31, 2021 (File No. 0-04957). 
+
+10.12 
+
+Third Amendment to the Amended and Restated Loan Agreement, dated August 31, 2021 by and between the Company and MidFirst Bank, Tulsa, OK is incorporated herein by reference to Exhibit 10.2 to Form 10-Q dated August 31, 2021 (File No. 0-04957). 
+
+10.13 
+
+Fourth Amendment to the Amended and Restated Loan Agreement, dated November 19, 2021 by and between the Company and MidFirst Bank, Tulsa, OK is incorporated herein by reference to Exhibit 10.01 to Form 8-K dated November 24, 2021 (File No. 0-04957). 
+
+10.14 
+
+Fifth Amendment to the Amended and Restated Loan Agreement, dated April 11, 2022 by and between the Company and MidFirst Bank, Tulsa, OK is incorporated herein by reference to Exhibit 10.14 to form 10-K dated February 28, 2022 (File No. 0-04957). 
+
+10.15 
+
+Usborne Distribution Agreement dated May 16, 2022 by and between the Company and Usborne Publishing Limited, London, England is incorporated herein by reference to Exhibit 10.2 to form 10-Q dated May 31, 2022 (File No. 0-04957). 
+
+10.16 
+
+Credit Agreement dated August 9, 2022 by and between the Company and BOKF, NA, Tulsa, OK is incorporated herein by reference to Exhibit 10.01 to form 8-K dated August 11, 2022 (File No. 0-04957). 
+
+10.17 
+
+First Amendment to Credit Agreement, dated December 22, 2022 by and between the Company and BOKF, NA, Tulsa, OK. Is incorporated herein by reference to Exhibit 10.4 to Form 10-Q dated November 30, 2022 (File No. 0-04957). 
+
+10.18 
+
+Second Amendment to Credit Agreement, dated May 10, 2023 by and between the Company and BOKF, NA, Tulsa, OK. 
+
+20
+
+Table of Contents 
+
+23.1 
+
+Consent of Independent Registered Public Accounting Firm. 
+
+31.1 
+
+Certification of the Chief Executive Officer of Educational Development Corporation pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+
+Certification of the Chief Financial Officer and Corporate Secretary (Principal Financial and Accounting Officer) of Educational Development Corporation pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+
+Certification pursuant to 18 U.S.C Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+
+Inline XBRL Instance Document 
+
+101.SCH 
+
+Inline XBRL Taxonomy Extension Schema 
+
+101.CAL 
+
+Inline XBRL Taxonomy Extension Calculation Linkbase 
+
+101.DEF 
+
+Inline XBRL Taxonomy Extension Definition Linkbase 
+
+101.LAB 
+
+Inline XBRL Taxonomy Extension Label Linkbase 
+
+101.PRE 
+
+Inline XBRL Taxonomy Extension Presentation Linkbase 
+
+104 
+
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+
+Paper Filed 
+
+Filed Herewith 
+
+Item 16. FORM 10-K SUMMARY 
+
+Not applicable 
+
+21
+
+Table of Contents 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+EDUCATIONAL DEVELOPMENT CORPORATION 
+
+Date: 
+
+May 17, 2023 
+
+By 
+
+/s/ Craig M. White 
+
+Craig M. White 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: 
+			 
+			 May 17, 2023 
+			 
+			 By 
+
+/s/ Dan E. O Keefe 
+
+Dan E. O Keefe 
+
+Chief Financial Officer and Corporate Secretary 
+
+(Principal Financial and Accounting Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the date indicated. 
+
+Date: 
+			 
+			 May 17, 2023 
+
+/s/ Craig M. White 
+
+Craig M. White, Director 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+May 17, 2023 
+
+/s/ Randall W. White 
+
+Randall W. White, Director 
+
+Chairman of the Board 
+
+May 17, 2023 
+
+/s/ John A. Clerico 
+
+John A. Clerico, Director 
+
+May 17, 2023 
+
+/s/ Dr. Kara Gae Neal 
+
+Dr. Kara Gae Neal, Director 
+
+May 17, 2023 
+
+/s/ Joshua J. Peters 
+
+Joshua J. Peters, Director 
+
+May 17, 2023 
+
+/s/ Bradley V. Stoots 
+
+Bradley V. Stoots, Director 
+
+May 17, 2023 
+
+/s/ Dan E. O Keefe 
+
+Dan E. O Keefe 
+
+Chief Financial Officer and Corporate Secretary 
+
+(Principal Financial and Accounting Officer) 
+
+22
+
+Table of Contents 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Shareholders and the Board of Directors of Educational Development Corporation 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets of Educational Development Corporation (the Company) as of February 28, 2023 and 2022, the related statements of operations, shareholders' equity and cash flows for the years then ended, and the related notes to the financial statements (collectively, the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of February 28, 2023 and 2022, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (PCAOB) and are required to be independent with respect to the Company in accordance with U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the auditing standards of the PCAOB and in accordance with auditing standards generally accepted in the United States of America. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Liquidity and Management's Plans 
+
+While the Company received a waiver for the fixed charge ratio default that occurred on February 28, 2023, the borrowing and purchasing capacity was restricted and management's forecast indicated that the Company will not be in compliance in future periods as described in Note 9. These conditions, among others in the aggregate, raise substantial doubt over the Company's ability to meet its obligations over the next twelve months. Management has evaluated these conditions and concluded that its plans have alleviated the substantial doubt about the Company's ability to continue for at least the next twelve months. 
+
+To assess their ability to meet obligations as they come due and assess future compliance with debt covenants for at least twelve months from the issuance date of the financial statements, the Company has forecasted future financial results which requires significant judgment and estimation. Additionally, there is significant judgment and increased level of audit effort involved in determining that it is probable that management's plans will be effectively implemented and alleviate substantial doubt about the Company's ability to continue beyond the next twelve months. 
+
+23
+
+Table of Contents 
+
+Our audit procedures we performed to address this critical audit matter included, among others: 
+
+Reading and evaluating management's plans for dealing with the adverse effects of the conditions and events. 
+
+Obtaining the Company's amended debt agreement and assessing whether the terms were appropriately considered on the Company's debt covenant compliance. 
+
+Evaluating the reasonableness of management's significant assumptions and judgments used in the preparation of the forecast. 
+
+Comparing the forecast to budgets provided to the board of directors, to historical results, to recent trends used in other audit areas and to subsequent actual results. 
+
+Evaluating the adequacy of the disclosure included in the notes to the financial statements. 
+
+/s/ 
+
+We have served as the Company's auditor since 2005. 
+
+Tulsa, Oklahoma 
+
+May 17, 2023 
+
+24
+
+Table of Contents 
+
+EDUCATIONAL DEVELOPMENT CORPORATION 
+
+BALANCE SHEETS 
+
+AS OF FEBRUARY 28, 
+
+2023 
+
+2022 
+
+ASSETS 
+
+CURRENT ASSETS: 
+
+Cash and cash equivalents 
+
+Accounts receivable, less allowance for doubtful accounts of 	 (2023) and (2022) 	 
+
+Inventories - net 
+
+Prepaid expenses and other assets 
+
+Total current assets 
+
+INVENTORIES - net 
+
+PROPERTY, PLANT AND EQUIPMENT - net 
+
+DEFERRED INCOME TAX ASSET 
+
+OTHER ASSETS 
+
+TOTAL ASSETS 
+
+LIABILITIES AND SHAREHOLDERS' EQUITY 
+
+CURRENT LIABILITIES: 
+
+Accounts payable 
+
+Line of credit 
+
+Deferred revenues 
+
+Current maturities of long-term debt 
+
+Accrued salaries and commissions 
+
+Dividends payable 
+
+Income taxes payable 
+
+Other current liabilities 
+
+Total current liabilities 
+
+LONG-TERM DEBT - net 
+
+- 
+
+OTHER LONG-TERM LIABILITIES 
+
+Total liabilities 
+
+COMMITMENTS AND CONTINGENCIES See Note 10 
+
+SHAREHOLDERS' EQUITY: 
+
+Common stock, par value; Authorized shares; 	 Issued shares; 	 Outstanding (2023) and (2022) shares 	 
+
+Capital in excess of par value 
+
+Retained earnings 
+
+Less treasury stock, at cost 
+
+Total shareholders' equity 
+
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY 
+
+See notes to financial statements. 
+
+25
+
+Table of Contents 
+
+EDUCATIONAL DEVELOPMENT CORPORATION 
+
+STATEMENTS OF OPERATIONS 
+
+FOR THE YEARS ENDED FEBRUARY 28, 
+
+2023 
+
+2022 
+
+GROSS SALES 
+
+Less discounts and allowances 
+
+Transportation revenue 
+
+NET REVENUES 
+
+COST OF GOODS SOLD 
+
+Gross margin 
+
+OPERATING EXPENSES: 
+
+Operating and selling 
+
+Sales commissions 
+
+General and administrative 
+
+Total operating expenses 
+
+INTEREST EXPENSE 
+
+OTHER INCOME 
+
+EARNINGS (LOSS) BEFORE INCOME TAXES 
+
+INCOME TAX EXPENSE (BENEFIT) 
+
+NET EARNINGS (LOSS) 
+
+BASIC AND DILUTED EARNINGS (LOSS) PER SHARE: 
+
+Basic 
+
+Diluted 
+
+WEIGHTED AVERAGE NUMBER OF COMMON 
+
+			 AND EQUIVALENT SHARES OUTSTANDING: 
+
+Basic 
+
+Diluted 
+
+Dividends per share 
+
+See notes to financial statements. 
+
+26
+
+Table of Contents 
+
+EDUCATIONAL DEVELOPMENT CORPORATION 
+
+STATEMENTS OF SHAREHOLDERS EQUITY 
+
+AS OF FEBRUARY 28, 
+
+Common Stock 
+
+			 (par value 0.20 per share) 
+
+Treasury Stock 
+
+Number of 
+
+			 Shares Issued 
+
+Amount 
+
+Capital in Excess 
+
+			 of Par Value 
+
+Retained 
+
+			 Earnings 
+
+Number of 
+
+			 Shares 
+
+Amount 
+
+Shareholders' 
+
+			 Equity 
+
+BALANCE - February 28, 2021 
+
+Sales of treasury stock 
+
+- 
+
+- 
+
+- 
+
+Issuance of restricted share awards for vesting 
+
+- 
+
+- 
+
+Dividends declared /share) 	 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Share-based compensation expense - net 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net earnings 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+BALANCE - February 28, 2022 
+
+Sales of treasury stock 
+
+- 
+
+- 
+
+- 
+
+Forfeiture of restricted shares 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Issuance of restricted share awards for vesting 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Share-based compensation expense - net 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+BALANCE February 28, 2023 
+
+See notes to financial statements. 
+
+27
+
+Table of Contents 
+
+EDUCATIONAL DEVELOPMENT CORPORATION 
+
+STATEMENTS OF CASH FLOWS 
+
+FOR THE YEARS ENDED FEBRUARY 28, 
+
+2023 
+
+2022 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net earnings (loss) 
+
+Adjustments to reconcile net earnings (loss) to net cash provided by (used in) operating activities: 
+
+Depreciation and amortization 
+
+Deferred income taxes 
+
+Provision for doubtful accounts 
+
+Provision for inventory valuation allowance 
+
+Share-based compensation expense - net 
+
+Changes in assets and liabilities: 
+
+Accounts receivable 
+
+Inventories - net 
+
+Prepaid expenses and other assets 
+
+Accounts payable 
+
+Accrued salaries and commissions, and other liabilities 
+
+Deferred revenues 
+
+Income taxes payable/receivable 
+
+Total adjustments 
+
+Net cash provided by (used in) operating activities 
+
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+
+Purchases of property, plant and equipment 
+
+Purchases of other assets 
+
+Net cash used in investing activities 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Payments on term debt 
+
+Payments on debt issuance costs 
+
+Proceeds from term debt 
+
+Sales of treasury stock 
+
+Net borrowings (payments) under line of credit 
+
+Dividends paid 
+
+Net cash provided by financing activities 
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 
+
+CASH AND CASH EQUIVALENTS - BEGINNING OF YEAR 
+
+CASH AND CASH EQUIVALENTS - END OF YEAR 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOWS INFORMATION: 
+
+Cash paid for interest 
+
+Cash paid for income taxes (net of refunds) 
+
+See notes to financial statements. 
+
+28
+
+Table of Contents 
+
+EDUCATIONAL DEVELOPMENT CORPORATION 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+YEARS ENDED FEBRUARY 28, 2023 AND FEBRUARY 28, 2022 
+
+. We have never experienced any losses related to these balances. The majority of payments due from banks for third party credit card transactions process within two business days. These amounts due are classified as cash and cash equivalents. Cash and cash equivalents also include demand and time deposits, money market funds and other marketable securities with maturities of three months or less when acquired. 
+
+29
+
+Table of Contents 
+
+and at February 28, 2023 and February 28, 2022, respectively. The Company has reserved for consignment inventory not expected to be sold or returned of and as of February 28, 2023 and February 28, 2022, respectively. 
+
+years 	 
+
+Building improvements 
+			 
+			 	 years 	 
+
+Machinery and equipment 
+			 
+			 	 years 	 
+
+Capitalized software 
+			 
+			 	 years 	 
+
+Furniture and fixtures 
+			 
+			 	 years 	 
+
+Molds and tooling 
+			 
+			 	 years 	 
+
+impairment was noted during fiscal years 2023 or 2022. 
+
+30
+
+Table of Contents 
+
+as of both February 28, 2023 and February 28, 2022, which is included in other current liabilities on the Company s balance sheets. In addition, management has recorded an asset for the expected value of non-damaged inventories to be returned. The estimated value of returned products of is included in other current assets on the Company s balance sheets as of both February 28, 2023 and February 28, 2022. 
+
+and for the years ended February 28, 2023 and February 28, 2022, respectively. 
+
+and for the years ended February 28, 2023 and February 28, 2022, respectively. 
+
+31
+
+Table of Contents 
+
+Shares: 
+
+Weighted average shares outstanding-basic 
+
+Issued unvested restricted stock and assumed shares issuable under granted unvested restricted stock awards 
+
+Weighted average shares outstanding-diluted 
+
+Diluted earnings (loss) per share: 
+
+Basic 
+
+Diluted 
+
+Inventory valuation allowance 
+
+Inventories net - current 
+
+Noncurrent: 
+
+Product inventory 
+
+Inventory valuation allowance 
+
+Inventories net - noncurrent 
+
+and at February 28, 2023 and February 28, 2022, respectively. 
+
+32
+
+Table of Contents 
+
+million volume rebate owed to the Company from purchases made during fiscal 2022. The Company is disputing the cancellation of the rebate but has not recognized any rebate in fiscal 2023 due to its uncertainty. Additionally, under the terms in the Agreement, the Company no longer has the rights to distribute Usborne s products to retail customers after November 15, 2022, at which time Usborne was to use a different distributor to supply retail accounts with its products. As a courtesy upon Usborne s request, the November 15, 2022 transition was extended until their new supplier can start distribution in 2023. Gross sales attributed to Usborne s products sold within the Publishing division accounted for , or , during the fiscal year ended February 28, 2023, and , or , during the fiscal year ended February 28, 2022. 
+
+and for the years ended February 28, 2023 and February 28, 2022, respectively. Total inventory purchases for those same periods were approximately and , respectively. Included in our balance sheets, outstanding accounts payable due to Usborne as of February 28, 2023 and February 28, 2022 were and , respectively. Total Usborne inventory owned by the Company and included in our balance sheets were and as of February 28, 2023 and February 28, 2022, respectively. 
+
+Building 
+
+Building improvements 
+
+Machinery and equipment 
+
+Furniture and fixtures 
+
+Capitalized software 
+
+Molds and tooling 
+
+Capitalized software - in progress 
+
+Total property, plant and equipment 
+
+Less accumulated depreciation 
+
+Property, plant and equipment-net 
+
+Accrued PaperPie incentives 
+
+Accrued freight 
+
+Sales tax payable 
+
+Allowance for expected inventory returns 
+
+Other 
+
+Total other current liabilities 
+
+33
+
+Table of Contents 
+
+Inventory overhead capitalization 
+
+Inventory valuation allowance 
+
+Inventory valuation allowance noncurrent 
+
+Allowance for sales returns 
+
+Research and development capitalization 
+
+Net operating loss carryforward (1) 
+
+Accruals 
+
+Total deferred tax assets 
+
+Deferred tax liabilities: 
+
+Property, plant and equipment 
+
+Total deferred tax liabilities 
+
+Net deferred income tax assets 
+
+State (1) 
+
+Deferred: 
+
+Federal 
+
+State 
+
+Total income tax expense (benefit) 
+
+34
+
+Table of Contents 
+
+U.S. state and local income taxes net of federal benefit 
+
+Other 
+
+Total income tax expense 
+
+and during the years ended February 28, 2023 and February 28, 2022, respectively. 
+
+rental agreements where we have the exclusive use of dedicated office space in San Diego, California, warehouse and office space in Layton, Utah, warehouse and office space in Seattle, Washington, and warehouse space locally in Tulsa, OK, all of which qualify as an operating lease. Our lessor arrangements includes rental agreement for warehouse and office space in Tulsa, Oklahoma, and qualifies as an operating lease under ASC 842. 
+
+Operating lease liabilities: 
+
+Current lease liabilities 
+
+Long-term lease liabilities 
+
+Weighted-average remaining lease term (months) 
+
+Weighted-average discount rate 
+
+35
+
+Table of Contents 
+
+2025 
+
+2026 
+
+2027 
+
+Total future minimum rental payments 
+
+Less: imputed interest 
+
+Total operating lease liabilities 
+
+square-foot facility on acres, we entered into a -year lease with the seller, a non-related third party, who leases square feet, or of the facility. per month, through the lease anniversary date of December 2023, with a 2.0 annual increase adjustment on each anniversary date thereafter. The lease terms allow for one five -year extension, which is not a bargain renewal option, at the expiration of the 15-year term. Revenues associated with the lease are being recorded on a straight-line basis over the initial lease term and are reported in other income in the statements of operations. We recognize variable rental payments as revenue in the period in which the changes in facts and circumstances, on which the variable lease payments are based, occur. 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+Thereafter 
+
+Total 
+
+and as of February 28, 2023 and February 28, 2022, respectively. The accumulated depreciation associated with the leased assets was and as of February 28, 2023 and February 28, 2022, respectively. Both the leased assets and accumulated depreciation are included in property, plant and equipment-net on the balance sheets. 
+
+36
+
+Table of Contents 
+
+Floating rate term loan(s) (1) 
+
+Fixed rate term loan 
+
+Total term debt 
+
+Less current portion 
+
+Less debt issue cost 
+
+Long-term debt, net 
+
+(1) The February 28, 2022 floating rate term loans balance of 14,651,000 was comprised of the MidFirst Bank advancing term loans #1 and #2. 
+
+, which satisfied all of the Company s debt obligations with MidFirst Bank. The Company did not incur any early termination penalties as a result of the repayment of indebtedness or termination of the Amended and Restated Loan Agreement, which provided Term Loan #1, Advancing Term Loan #1, Advancing Term Loan #2 and the Revolving Loan. In connection with the repayment of outstanding indebtedness, the Company was automatically and permanently released from all security interests, mortgages, liens and encumbrances under the Amended and Restated Loan Agreement with MidFirst Bank. The material terms of the Amended and Restated Loan Agreement with MidFirst Bank are described in the Company s Form 10-K filed with the Securities and Exchange Commission SEC on May 5, 2022. 
+
+(the Fixed Rate Term Loan ), a floating rate term loan in the principal amount of (the Floating Rate Term Loan together with the Fixed Rate Term Loan, collectively, the Term Loans ), and a revolving promissory note in the principal amount up to (the Revolving Loan or Line of Credit ). 
+
+(ii) 	 	 	 Revolving Loan maturity date of 	 	 	 	 	 	 	 	 (iii) 	 	 	 Fixed Rate Term Loan bears interest at a fixed rate per annum equal to 	 	 	 	 	 	 	 	 (iv) 	 	 	 Floating Rate Term Loan bears interest at a rate per annum equal to Term SOFR Rate + (effective rate was at February 28, 2023) 	 	 	 	 	 	 	 	 (v) 	 	 	 Revolving Loan bears interest at a rate per annum equal to Term SOFR Rate + (effective rate was at February 28, 2023) 	 	 	 	 	 	 	 	 (vi) 	 	 	 Revolving Loan allows for Letters of Credit up to upon bank approval (none were outstanding at February 28, 2023) 	 	 
+
+revolving line of credit with the Company s Lender was approximately at February 28, 2023. 
+
+37
+
+Table of Contents 
+
+, requires certain swap agreements, reduced the revolving commitment from 15,000,000 to , effective May 10, 2023, and further reduced the revolving commitment to , effective July 15, 2023, among other items. 
+
+Total 
+
+, which will be received and payments due during fiscal year 2024. Of these inventory commitments, were with Usborne, with various Kane Miller publishers and the remaining with other suppliers. 
+
+in the first quarter of 2021, in the second quarter of 2021, and in the third quarter of 2021. On April 11, 2023 the Company filed 2021 Q1, Q2 and Q3 941-X forms to claim a refund for the ERC. Due to the subjectivity of the credit, the Company elected to account for the ERC as a gain under ASC 450-30, Gain Contingencies. The Company will not recognize the credit until all uncertainties are resolved and the income is realized or realizable. 
+
+38
+
+Table of Contents 
+
+shares were granted to members of management according to the Plan. The granted shares under the 2019 LTI Plan cliff vest after five years from the fiscal year that the defined metrics were exceeded. 
+
+shares of restricted stock available to be granted to certain members of management based on exceeding specified net revenues and pre-tax performance metrics during fiscal years 2022 and 2023. The number of restricted shares to be distributed depends on attaining the performance metrics defined by the 2022 LTI Plan and may result in the distribution of a number of shares that is less than, but not greater than, the number of restricted shares outlined in the terms of the 2022 LTI Plan. Restricted shares granted under the 2022 LTI Plan cliff vest after from the fiscal year that the defined metrics were exceeded. 
+
+restricted shares under the 2019 LTI Plan with an average grant-date fair value of per share. In fiscal year 2021, restricted shares were forfeited and later regranted to other participants. During fiscal year 2023, restricted shares were forfeited, along with additional shares purchased with dividends received from the original issue date. The forfeited shares were re-granted to participants during the fiscal 2023 third quarter with an average grant-date fair value of . The 969 shares purchased with dividends were not reissued. The outstanding shares were vested on February 28, 2023. 
+
+restricted shares under the 2019 LTI Plan with an average grant-date fair value of per share. During fiscal year 2023, restricted shares were forfeited, along with additional shares purchased with dividends received from the original issue date. The forfeited shares were re-granted to participants during fiscal 2023 with an average grant-date fair value of . The 760 shares purchased with dividends were not reissued. The remaining compensation expense of these awards, totaling approximately 769,500 as of February 28, 2023, will be recognized ratably over the remaining vesting period of months. 
+
+Granted 
+
+Vested 
+
+Forfeited 
+
+Outstanding at February 28, 2023 
+
+39
+
+Table of Contents 
+
+, which we expect to recognize over a weighted-average period of months. 
+
+shares of our common stock under the plan initiated in 1998 amended 2008 plan ). On February 4, 2019, the Board of Directors replaced the amended 2008 plan with a new plan which authorized us to repurchase up to shares of outstanding common stock in the open market or in privately negotiated transactions, and to utilize any derivative or similar instrument to effect share repurchase transactions (including without limitation, accelerated share repurchase contracts, equity forward transactions, equity swap transactions, floor transactions or other similar transactions or any combination of the foregoing transactions). This plan has no expiration date. 
+
+. 
+
+Second quarter 
+
+Third quarter 
+
+Fourth quarter 
+
+Total year 
+
+2022 
+
+First quarter 
+
+Second quarter 
+
+Third quarter 
+
+Fourth quarter 
+
+Total year 
+
+reportable segments: PaperPie and Publishing. These reportable segments are business units that offer different methods of distribution to different types of customers. They are managed separately based on the fundamental differences in their operations. Our PaperPie segment markets its products through a network of independent brand partners using a combination of internet sales, direct sales, home shows and book fairs. Our Publishing segment markets its products to retail accounts, which include book, school supply, toy and gift stores, museums, trade and specialty wholesalers, through commissioned sales representatives and our internal tele-sales group. See Note 3 for the impact of our updated distribution agreement on the Publishing segment. 
+
+40
+
+Table of Contents 
+
+PaperPie 
+
+Total 
+
+PaperPie 
+
+Other 
+
+Total 
+
+and as of February 28, 2023 and February 28, 2022, respectively. Management's estimates are based on the obligations' characteristics, including floating interest rate, maturity, and collateral. 	 	 
+
+and as of February 28, 2023 and February 28, 2022, respectively, in payments for sales orders which were, or will be, shipped out subsequent to the fiscal year end. 
+
+, reduced the revolving commitment from to , effective May 10, 2023, and further reduced the revolving commitment to , effective July 15, 2023, among lesser items. See Note 9 for more information about our going concern assessment. 
+
+41
+
+<EX-10.18>
+ 2
+ ex_520263.htm
+ EXHIBIT 10.18
+
+ex_520263.htm 
+
+Exhibit 10.18 
+
+SECOND AMENDMENT TO CREDIT AGREEMENT 
+
+This SECOND AMENDMENT TO CREDIT AGREEMENT (this Amendment ), dated as of May 10, 2023, is by and between EDUCATIONAL DEVELOPMENT CORPORATION, a Delaware corporation (the Borrower and BOKF, NA DBA BANK OF OKLAHOMA (the Lender ). 
+
+RECITALS: 
+
+A. The Borrower and the Lender have previously entered into that certain Credit Agreement dated as of August 9, 2022, as amended by that certain First Amendment to Credit Agreement dated as of December 22, 2022 (the Existing Credit Agreement the Existing Credit Agreement, as amended by this Amendment, is referred to herein as the Credit Agreement ). 
+
+B. An Event of Default has occurred by virtue of the Borrower having failed to comply with the minimum Fixed Charge Coverage Ratio covenant set forth in Section 6.12 of the Existing Credit Agreement for the fiscal quarter ending February 28, 2023 (the Existing Event of Default ). 
+
+C. The Borrower has requested, and the Lender has agreed, subject to the terms and conditions of this Amendment, to (i) waive the Existing Event of Default and (ii) amend the Existing Credit Agreement as herein provided. 
+
+NOW, THEREFORE, in consideration of the premises herein contained and other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto agree as follows: 
+
+ARTICLE I 
+ 
+ Definitions 
+
+Section 1.1 Definitions . All terms used herein which are defined in the Credit Agreement shall have the same meanings when used herein, unless the context hereof otherwise requires or provides. In addition, all references in the Loan Documents to the Agreement and the Credit Agreement shall mean the Credit Agreement, as amended by this Amendment, as the same shall hereafter be amended from time to time. 
+
+ARTICLE II 
+
+Limited Waiver 
+
+Section 2.1 Limited Waiver . Subject to the terms and conditions contained herein, upon the effectiveness of this Amendment, the Lender hereby waives the Existing Event of Default. The waiver of the Existing Event of Default as set forth herein shall be limited precisely as written and shall not be deemed to (a) be a waiver or modification of any other term or condition of the Credit Agreement, or (b) prejudice any right or remedy which the Lender may now have or may have in the future (except the extent such right or remedy is based upon the Existing Event of Default) under or in connection with the Credit Agreement. With respect to the Term Loans, the waiver shall be extended through the Revolving Loan Maturity Date. 
+
+ARTICLE III 
+ 
+ Amendments to Existing Credit Agreement 
+
+Section 3.1 Section 1.01 of the Existing Credit Agreement is hereby amended by amending and restating the definition of Applicable Margin as follows: 
+
+Applicable Margin means, for any day, with respect to any Loan, or with respect to the commitment fees payable hereunder, as the case may be, the applicable rate per annum set forth below under the applicable caption below: 
+
+Revolver SOFR Spread 
+
+Fixed Rate Term Loan Spread 
+
+Floating Rate Term Loan Spread 
+
+3.50 
+
+0.00 
+
+1.75 
+
+Section 3.2 Section 1.01 of the Existing Credit Agreement is hereby amended to add the definition of Financial Advisor as follows: 
+
+Financial Advisor means a third party financial advisor (i) that is engaged by the Borrower, at its expense, (ii) that is satisfactory to the Lender, and (iii) the scope of the engagement of which is satisfactory to the Lender. 
+
+Section 3.3 Section 1.01 of the Existing Credit Agreement is hereby amended by amending and restating the definition of Revolving Commitment as follows: 
+
+Revolving Commitment means the commitment of the Lender to make Revolving Loans hereunder up to (a) during the period from and after the Second Amendment Effective Date to and including July 14, 2023, 14,000,000, and (b) from and after July 15, 2023, 13,500,000. 
+
+Section 3.4 Section 1.01 of the Existing Credit Agreement is hereby amended to add the definition of Second Amendment Effective Date as follows: 
+
+Second Amendment Effective Date means May 10, 2023. 
+
+Section 3.5 Section 5.01(m) is hereby added to the Credit Agreement as follows: 
+
+(m) as soon as available and in any event no later than 5:00 p.m. Tulsa, Oklahoma time on Friday of each week, its weekly cash flow projections for each of the 13 weeks immediately following such week, all in such reasonable detail and in such form as is acceptable to the Lender in its sole discretion. 
+
+Section 3.6 Section 5.17 of the Existing Credit Agreement is hereby amended and restated in its entirety to read as follows: 
+
+SECTION 5.17. Hilti Lease Payments . The Borrower shall, at its sole expense, establish and maintain a lock box with the Lender pursuant to an agreement in form and substance satisfactory to the Lender which shall provide, in part, that, commencing the later of (a) June 1, 2023, and (b) the first day of the month following Hilti s acknowledgement and acceptance of the Borrower s obligations under this Section 5.17 , but in no event later than August 8, 2023: (i) the Borrower shall (or shall cause Hilti to) remit all payments owing to the Borrower under the Hilti Lease to such lock box, and (ii) all such payments will be applied to the Secured Obligations at such times and in such order as the Lender may elect. 
+
+Section 3.7 Section 5.19 is hereby added to the Credit Agreement as follows: 
+
+SECTION 5.19. Financial Advisor . On or before May 1, 2023, and until no longer required by the Lender, the Borrower shall hire and maintain a Financial Advisor. 
+
+Section 3.8 Section 5.20 is hereby added to the Credit Agreement as follows: 
+
+SECTION 5.20. Required Swap Agreements . 
+
+(a) On or prior to the date that is 30 days after the Second Amendment Effective Date (or such later date as the Lender may agree in its sole discretion), the Borrower shall enter into one or more Swap Agreements with the Lender or an Affiliate of the Lender which effectively enable the Borrower to protect itself against the risk of interest rate fluctuations as to an aggregate notional amount no less than (i) 13,000,000 (subject to Section 5.20(b) of the outstanding principal amount from time to time of the Floating Rate Term Loan, hedged through the fiscal quarter ending May 31, 2025; and (ii) 5,000,000 (subject to Section 5.20(b) of the outstanding principal amount from time to time of the Floating Rate Term Loan, hedged through the fiscal quarter ending May 31, 2024 (collectively, the Required Swap Agreements ). 
+
+(b) If on any date from and after the date on which the Required Swap Agreements are executed until the Term Loan Maturity Date the aggregate notional amount covered by the Required Swap Agreements exceeds 100 of the then outstanding principal amount of the Floating Rate Term Loan, the Borrower shall, within 10 Business Days of becoming aware of such excess, if such excess is continuing after that period, adjust such notional amount in order for such percentage not to exceed 100 of the then outstanding principal amount of the Floating Rate Term Loan; provided , however , that such adjustment shall be made on a pro rata basis across all Required Swap Agreements. 
+
+Section 3.9 Section 6.07 of the Existing Credit Agreement is hereby amended and restated in its entirety to read as follows: 
+
+SECTION 6.07. Swap Agreements . No Loan Party will, nor will it permit any Subsidiary to, enter into any Swap Agreement, except (a) Swap Agreements entered into to hedge or mitigate risks to which Borrower or any Subsidiary has actual exposure (other than those in respect of Equity Interests of the Borrower or any Subsidiary) and not for purposes of speculation, and (b) Swap Agreements entered into in order to effectively cap, collar or exchange interest rates (from floating to fixed rates, from one floating rate to another floating rate or otherwise) with respect to any interest-bearing liability or investment of the Borrower or any Subsidiary (including, without limitation, Required Swap Agreements). 
+
+Section 3.10 Section 6.12 of the Existing Credit Agreement is hereby amended and restated in its entirety to read as follows: 
+
+SECTION 6.12. Financial Covenant . The Borrower will not at any time permit the Fixed Charge Coverage Ratio to be less than 1.25 to 1.00, measured quarterly; provided that, notwithstanding anything to the contrary herein or in any other Loan Document, the Fixed Charge Coverage Ratio shall not be measured as of the fiscal quarter of the Borrower ending May 31, 2023. 
+
+Section 3.11 Section 6.13 is hereby added to the Credit Agreement as follows: 
+
+SECTION 6.13. Maximum Inventory Purchase . Notwithstanding anything to the contrary herein or in any other Loan Document, the aggregate amount of Inventory purchased by the Loan Parties shall not exceed: 
+
+(a) during the period from and including March 1, 2023, through and including May 31, 2023, 3,651,873; 
+
+(b) during the period from and including March 1, 2023, through and including June 30, 2023, 4,438,598; and 
+
+(c) during the period from and including March 1, 2023, through and including July 31, 2023, 5,266,493. 
+
+ARTICLE IV 
+ 
+ Ratifications 
+
+Section 4.1 Ratifications by Borrower . 
+
+(a) The terms and provisions set forth in this Amendment shall modify and supersede all inconsistent terms and provisions set forth in the Existing Credit Agreement and the other Loan Documents, and except as expressly modified and superseded by this Amendment, the terms and provisions of the Existing Credit Agreement and the other Loan Documents are ratified and confirmed and shall continue in full force and effect. Without limiting the generality of the foregoing, the Borrower acknowledges and agrees that the Lender has made demand and provided reasonable prior notice to the Borrower of the Lender s exercise of its rights under Sections 5.06 and 5.12 of the Credit Agreement, as applicable, including, without limitation, Lender s right to (a) visit and inspect the Borrower s properties to conduct a field examination and audit of the Borrower s assets, liabilities, books and records; and (b) request, and receive from the Borrower, updated appraisals of the Borrower s Inventory and real property; all as more particularly described in the Credit Agreement. The Borrower acknowledges and agrees that failure to permit such field examination and audit and provide such appraisals to the Lender by August 8, 2023, shall constitute an Event of Default. 
+
+(b) The Borrower and the Lender agree that each of the Credit Agreement, as amended hereby, and the other Loan Documents to which each is a party shall continue to be legal, valid, binding and enforceable in accordance with its respective terms. This Amendment is a Loan Document as referred to in the Credit Agreement and the provisions relating to Loan Documents in the Credit Agreement are incorporated herein by reference, the same as if set forth verbatim in this Amendment. 
+
+Section 4.2 Representations and Warranties of the Borrower . Borrower hereby represents and warrants to the Lender that (a) the execution, delivery and performance of this Amendment and any and all other Loan Documents executed and/or delivered by Borrower in connection herewith have been authorized by all requisite action on the part of Borrower and will not violate any organizational document of Borrower, (b) the representations and warranties contained in the Loan Documents, as amended hereby, are true and correct in all material respects on and as of the date hereof as though made on and as of the date hereof, except to the extent such representations and warranties speak to a specific date, and (c) no Default or Event of Default exists. 
+
+ARTICLE V 
+ 
+ Conditions Precedent 
+
+Section 5.1 Conditions Precedent . The effectiveness of this Amendment is subject to the satisfaction of the following conditions precedent: 
+
+(a) Amendment and Other Documents . Lender shall have received: 
+
+(i) this Amendment duly executed by the Borrower; 
+
+(ii) any documents, instruments, agreements, amendments or supplements as Lender may require, each in form and substance satisfactory to the Lender, to modify the documents governing the Banking Services, including, without limitation, to (A) require all of the Borrower s automated clearinghouse transactions to be pre-funded; (B) reduce the Borrower s commercial credit card limit from 350,000 to 100,000; and (C) require the Borrower s commercial credit card with the Lender to be 100 cash secured; and 
+
+(iii) such other documents, instruments and agreements as Lender may require. 
+
+(b) Waiver Fee . The Borrower shall have paid to the Lender a waiver fee of 12,500.00 in immediately available funds. 
+
+(c) No Default . No Default or Event of Default shall exist. 
+
+(d) Representations and Warranties . All of the representations and warranties contained in the Credit Agreement, as amended hereby, shall be true and correct in all material respects on and as of the date of this Amendment with the same force and effect as if such representations and warranties had been made on and as of such date, except to the extent such representations and warranties speak to a specific date. 
+
+(e) Other Fees and Expenses . The Lender shall have received payment of all reasonable and documented out of pocket fees and expenses (including reasonable attorneys' fees and expenses) incurred by Lender in connection with the preparation, negotiation and execution of this Amendment and the other Loan Documents. 
+
+ARTICLE VI 
+
+Miscellaneous 
+
+Section 6.1 Survival of Representations and Warranties . All representations and warranties made in this Amendment or any other document executed in connection herewith shall survive the execution and delivery of this Amendment, and no investigation by the Lender or any closing shall affect the representations and warranties or the right of the Lender to rely upon them. 
+
+Section 6.2 Reference to Agreement . Each of the Credit Agreement, the other Loan Documents and any and all other agreements, documents, or instruments now or hereafter executed and delivered pursuant to the terms hereof or pursuant to the terms of the Credit Agreement, as amended hereby, and the other Loan Documents are hereby amended so that any reference in such documents to the Credit Agreement shall mean a reference to the Credit Agreement as amended hereby. 
+
+Section 6.3 Expenses of Lender . As provided in the Credit Agreement, Borrower agrees to pay on demand all reasonable costs and expenses incurred by Lender in connection with the preparation, negotiation, and execution of this Amendment and any other documents executed pursuant hereto and any and all amendments, modifications, and supplements thereto, including without limitation the costs and reasonable fees of Lender s legal counsel, and all costs and expenses incurred by Lender in connection with the enforcement or preservation of any rights under the Credit Agreement, as amended hereby, or any other document executed in connection therewith, including without limitation the costs and reasonable fees of Lender s legal counsel. 
+
+Section 6.4 Severability . Any provision of this Amendment held by a court of competent jurisdiction to be invalid or unenforceable shall not impair or invalidate the remainder of this Amendment and the effect thereof shall be confined to the provision so held to be invalid or unenforceable. 
+
+Section 6.5 Applicable Law . This Amendment and all other documents executed pursuant hereto shall be governed by and construed in accordance with the laws of the State of Oklahoma. 
+
+Section 6.6 Successors and Assigns . This Amendment is binding upon and shall inure to the benefit of the Lender, Borrower and their respective successors and assigns, except Borrower may not assign or transfer any of its rights or obligations hereunder without the prior written consent of the Lender. 
+
+Section 6.7 Counterparts . This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which shall be an original and all of which taken together shall constitute one and the same agreement. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or as an attachment to an electronic mail message in .pdf, .jpeg, .TIFF or similar electronic format shall be effective as delivery of a manually executed counterpart of this Amendment for all purposes. The words execution, signed, signature, delivery, and words of like import in or relating to this Amendment and any other Loan Document to be signed in connection with this Amendment, the other Loan Documents and the transactions contemplated hereby and thereby shall be deemed to include Electronic Signatures, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; provided that nothing herein shall require the Lender to accept electronic signatures in any form or format without its prior written consent. For the purposes hereof, Electronic Signatures means an electronic sound, symbol, or process attached to, or associated with, a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record. Each of the parties hereto represents and warrants to the other parties hereto that it has the corporate capacity and authority to execute the Amendment through electronic means and there are no restrictions for doing so in that party s constitutive documents. Without limiting the generality of the foregoing, Borrower hereby (i) agrees that, for all purposes, including without limitation, in connection with any workout, restructuring, enforcement of remedies, bankruptcy proceedings or litigation among the Lender and Borrower, electronic images of this Amendment or any other Loan Document (in each case, including with respect to any signature pages thereto) shall have the same legal effect, validity and enforceability as any paper original, and (ii) waives any argument, defense or right to contest the validity or enforceability of any Loan Document based solely on the lack of paper original copies of such Loan Document, including with respect to any signature pages thereto. Any party sending an executed counterpart of a signature page to this Amendment by facsimile, pdf, tiff, Electronic Signature or any other electronic means shall also send the original thereof to Lender within five (5) days following Lender s request therefor, but failure to do so shall not affect the validity, enforceability, or binding effect of this Amendment. 
+
+Section 6.8 Headings . The headings, captions, and arrangements used in this Amendment are for convenience only and shall not affect the interpretation of this Amendment. 
+
+Section 6.9 ENTIRE AGREEMENT . THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS EXECUTED AND DELIVERED IN CONNECTION WITH THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES HERETO AND MAY NOT BE CONTRADICTED OR VARIED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OR DISCUSSIONS OF THE PARTIES HERETO. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES HERETO. 
+
+[ Signature Pages Follow ] 
+
+Executed as of the date first written above. 
+
+BORROWER : 
+
+EDUCATIONAL DEVELOPMENT CORPORATION , 
+			a Delaware corporation 
+
+By: /s/ Craig White 
+
+Name: Craig White 
+
+Title: President Chief Executive Officer 
+
+LENDER : 
+
+BOKF, NA DBA BANK OF OKLAHOMA , 
+			a Delaware corporation 
+
+By: /s/ Julie Chase 
+
+Name: Julie H. Chase 
+
+			 Title: Senior Vice President 
+
+</EX-10.18>
+
+<EX-23.1>
+ 3
+ ex_515892.htm
+ EXHIBIT 23.1
+
+ex_515892.htm 
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We consent to the incorporation by reference in the Registration Statements (No. 33-60188, 333-100659 and 333-231817) on Form S-8 of Educational Development Corporation of our reports dated May 17, 2023, relating to the financial statements of Educational Development Corporation, appearing in this Annual Report on Form 10-K of Educational Development Corporation for the year ended February 28, 2023. 
+
+/s/ HOGANTAYLOR LLP 
+
+Tulsa, Oklahoma 
+
+ May 17, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ ex_515893.htm
+ EXHIBIT 31.1
+
+ex_515893.htm 
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+I, Craig M. White, certify that: 
+
+1. 
+
+I have reviewed this Annual Report on Form 10-K of Educational Development Corporation; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. 
+
+The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a. 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b. 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: May 17, 2023 
+
+/s/ Craig M. White 
+
+ President and Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex_515894.htm
+ EXHIBIT 31.2
+
+ex_515894.htm 
+
+Exhibit 31.2 
+
+CERTIFICATION 
+
+I, Dan E. O Keefe, certify that: 
+
+1. 
+
+I have reviewed this Annual Report on Form 10-K of Educational Development Corporation; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. 
+
+The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a. 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b. 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: May 17, 2023 
+
+/s/ Dan E. O Keefe 
+
+ Chief Financial Officer and Corporate Secretary 
+
+ (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex_515895.htm
+ EXHIBIT 32.1
+
+ex_515895.htm 
+
+Exhibit 32.1 
+
+Certification Pursuant to 18 U.S.C. Section 1350, 
+
+ as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+In connection with the Annual Report of Educational Development Corporation (the Company on Form 10-K for the year ending February 28, 2023, as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13 (a) or 15 (d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: May 17, 2023 
+
+By /s/ Craig M. White 
+
+Craig M. White 
+
+			 President and Chief Executive Officer 
+
+			 (Principal Executive Officer) 
+
+Date: May 17, 2023 
+
+By /s/ Dan E. O Keefe 
+
+Dan E. O Keefe 
+
+			 Chief Financial Officer and Corporate Secretary 
+
+			 (Principal Financial and Accounting Officer) 
+
+A signed original of this written statement required by Section 906 has been provided to, and will be retained by, the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 7
+ educ-20230228.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ educ-20230228_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ educ-20230228_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ educ-20230228_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ educ-20230228_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

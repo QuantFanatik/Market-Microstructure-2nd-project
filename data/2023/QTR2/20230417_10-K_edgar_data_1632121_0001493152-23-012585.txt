@@ -1,0 +1,3522 @@
+<Header>
+<FileStats>
+    <FileName>20230417_10-K_edgar_data_1632121_0001493152-23-012585.txt</FileName>
+    <GrossFileSize>5115450</GrossFileSize>
+    <NetFileSize>143964</NetFileSize>
+    <NonText_DocumentType_Chars>893534</NonText_DocumentType_Chars>
+    <HTML_Chars>1468649</HTML_Chars>
+    <XBRL_Chars>1141653</XBRL_Chars>
+    <XML_Chars>1361546</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-012585.hdr.sgml : 20230417
+<ACCEPTANCE-DATETIME>20230417171046
+ACCESSION NUMBER:		0001493152-23-012585
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		56
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230417
+DATE AS OF CHANGE:		20230417
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Balance Labs, Inc.
+		CENTRAL INDEX KEY:			0001632121
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		IRS NUMBER:				471146785
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-202959
+		FILM NUMBER:		23824700
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 LINCOLN ROAD
+		STREET 2:		4TH FLOOR
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33139
+		BUSINESS PHONE:		(305) 907-7600
+
+	MAIL ADDRESS:	
+		STREET 1:		407 LINCOLN ROAD
+		STREET 2:		SUITE 701
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-012585.txt : 20230417
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+(Mark
+One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended , 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from ___________ to ___________ 
+
+Commission
+file number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction 
+ of
+ Identification No.) 
+ 
+ (I.R.S.
+ Employer 
+ incorporation
+ or organization) 
+
+, , , 
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number, including area code 
+
+Securities
+registered pursuant to Section 12(b) of the Exchange Act: None 
+
+Securities
+registered pursuant to Section 12(g) of the Exchange Act: None 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. No 
+
+Indicate
+by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+
+Smaller
+ Reporting Company 
+ 
+ Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.) Yes 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b).
+
+State the aggregate market value
+of the voting and non-voting common equity held by non-affiliates (1,850,591 shares) computed by reference to the price at which the common
+equity was last sold, 028) as of the last business day of the registrant s most recently completed fourth fiscal quarter, December
+31, 2022 . 
+
+As
+of April 17, 2023, the number of shares of common stock of the registrant outstanding is ,
+par value 0.0001 per share. 
+
+TABLE
+OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item
+ 1. 
+ Business 
+ 4 
+
+Item
+ 1A. 
+ Risk Factors 
+ 6 
+
+Item
+ 1B. 
+ Unresolved Staff Comments 
+ 11 
+
+Item
+ 2. 
+ Properties 
+ 11 
+
+Item
+ 3. 
+ Legal Proceedings 
+ 11 
+
+Item
+ 4. 
+ Mine Safety Disclosures 
+ 11 
+
+PART II 
+
+Item
+ 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 12 
+
+Item
+ 6. 
+ Selected Financial Data 
+ 12 
+
+Item
+ 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 12 
+
+Item
+ 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 16 
+
+Item
+ 8. 
+ Financial Statements and Supplementary Data 
+ 16 
+
+Item
+ 9. 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 17 
+
+Item
+ 9A. 
+ Controls and Procedures 
+ 17 
+
+Item
+ 9B. 
+ Other Information 
+ 18 
+
+Item
+ 9C. 
+ Disclosure Regarding Foreign Jurisdictions That Prevent Inspections 
+ 18 
+
+PART III 
+
+Item
+ 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 18 
+
+Item
+ 11. 
+ Executive Compensation 
+ 21 
+
+Item
+ 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 22 
+
+Item
+ 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 22 
+
+Item
+ 14. 
+ Principal Accountant Fees and Services 
+ 24 
+
+PART IV 
+
+Item
+ 15. 
+ Exhibits, Financial Statement Schedules 
+ 25 
+
+Item
+ 16. 
+ Form 10-K Summary 
+ 25 
+
+SIGNATURES 
+ 26 
+
+2 
+
+CAUTIONARY
+NOTE REGARDING FORWARD LOOKING STATEMENTS 
+
+This
+Annual Report on Form 10-K contains forward-looking statements . Forward-looking statements discuss matters that are not
+historical facts. Because they discuss future events or conditions, forward-looking statements may include words such as anticipate, 
+ believe, estimate, intend, could, should, would, 
+ may, seek, plan, might, will, expect, anticipate, 
+ predict, project, forecast, potential, continue negatives thereof
+or similar expressions. Forward-looking statements speak only as of the date they are made, are based on various underlying assumptions
+and current expectations about the future and are not guarantees. Such statements involve known and unknown risks, uncertainties and
+other factors that may cause our actual results, level of activity, performance or achievement to be materially different from the results
+of operations or plans expressed or implied by such forward looking statements. 
+
+We
+cannot predict all of the risks and uncertainties. Accordingly, such information should not be regarded as representations that the results
+or conditions described in such statements or that our objectives and plans will be achieved and we do not assume any responsibility
+for the accuracy or completeness of any of these forward-looking statements. These forward-looking statements are found at various places
+throughout this Annual Report on Form 10-K and include information concerning possible or assumed future results of our operations, including
+statements about potential acquisition or merger targets; business strategies; future cash flows; financing plans; plans and objectives
+of management; any other statements regarding future acquisitions, future cash needs, future operations, business plans and future financial
+results, and any other statements that are not historical facts. 
+
+These
+forward-looking statements represent our intentions, plans, expectations, assumptions and beliefs about future events and are subject
+to risks, uncertainties and other factors. Many of those factors are outside of our control and could cause actual results to differ
+materially from the results expressed or implied by those forward-looking statements. In light of these risks, uncertainties and assumptions,
+the events described in the forward-looking statements might not occur or might occur to a different extent or at a different time than
+we have described. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date
+of the Annual Report on Form 10-K. All subsequent written and oral forward-looking statements concerning other matters addressed in this
+Annual Report on Form 10-K and attributable to us or any person acting on our behalf are expressly qualified in their entirety by the
+cautionary statements contained or referred to in this Annual Report on Form 10-K. 
+
+Except
+to the extent required by law, we undertake no obligation to update or revise any forward-looking statements, whether as a result of
+new information, future events, a change in events, conditions, circumstances or assumptions underlying such statements, or otherwise. 
+
+3 
+
+PART
+I 
+
+Item
+1. Business. 
+
+Overview 
+
+Balance
+Labs, Inc. was incorporated on June 5, 2014 under the laws of the State of Delaware. We are a consulting firm that provides business
+development and consulting services to startup and development-stage businesses. With each client, our company provides businesses in
+various industries with customized consulting services to meet their business needs and help them improve their business models, sales
+and marketing plans and internal operations, as well as introduce the businesses to experienced professional contacts that would be vital
+to the success of these businesses. 
+
+The
+Company is led by our President, CEO and Chairman of the Board, Michael D. Farkas, who is a seasoned entrepreneur and has worked in corporate
+finance and in assisting and developing businesses in multiple industries for the past twenty-six (26) years. 
+
+Along
+with Mr. Farkas, our management team consists of experienced business people in high-tech fields such as telecommunications, EV Charging
+infrastructure, as well as the agricultural industry, specifically in the cultivation of olives and
+production of olive oil. Throughout the years while working with various companies, our management team recognized the need for an independent
+third-party company that could help developmental stage and startup businesses create and implement a viable business model, assist them
+in developing marketing, promotional and merchandising plans. 
+
+Our
+business focuses on providing advice to entrepreneurs and assisting business owners so that their ideas can be fully developed and implemented.
+Due to limited resources, lack of experienced management and competing priorities, startup and developmental stage companies are not
+operating as efficiently as they can be, and therefore would benefit from an outside party that could assist in developing and executing
+certain strategies. We utilize our knowledge in developing businesses, share practical experiences with our clients and introduce the
+business owners to different experienced professionals who could help these inexperienced entrepreneurs further implement their ideas.
+Startups and development stage businesses across all industries commonly experience certain growing pains . Our plan is
+to prepare our clients for many inevitable challenges and develop a customized plan for them to overcome these obstacles so that they
+can focus on marketing their product(s) and/or service(s) to their potential customers. 
+
+4 
+
+Our
+Services 
+
+The
+Company will assist in the development and execution of the following services for our client companies: 
+
+Business
+ model development, including marketing research, naming and branding 
+
+Business
+ plan writing 
+
+Financial
+ modeling 
+
+Website
+ mobile app development 
+
+Employee
+ and board member recruitment 
+
+Patent/trademark
+ filing assistance 
+
+Professional
+ introductions 
+
+Product
+ or service development 
+
+Product
+ production 
+
+Develop
+ marketing material 
+
+Product
+ or service placement 
+
+Celebrity
+ endorsements 
+
+Introductions
+ to professional services such as legal accounting 
+
+In
+ the future we plan to offer executive office sharing and additional ancillary services 
+
+Target
+Market 
+
+The
+target market will consist of startup and developmental stage businesses located in the United States and abroad. We cater our services
+to startups and developmental stage companies that do not have the resources to execute or implement their business plan or ideas with
+the personnel in-house. Our client companies can derive value from our support and expertise with dealing with the typical growing pains
+and common mistakes experienced by startups. 
+
+Marketing
+and Sales 
+
+We
+are starting to become more active in the market by developing relationships initially with startups and development stage companies.
+In addition to personal relationships of the principals, we plan to use our website www.balancelabs.co to promote our services and provide
+a contact function that allows potential clients to reach us for additional information. The references to our website in this Annual
+Report on Form 10-K are inactive textual references only. The information on our website is not incorporated by reference into this Annual
+Report on Form 10-K. We may also utilize social media such as Facebook, Twitter and an online blog to increase our presence online and
+communicate the value we can add. 
+
+We
+do not have any specific marketing channels in place at this point to market our services to potential customers. In the next year ended
+we plan to market our services through word of mouth or personal referrals. We also plan to advertise in startup and development stage
+specific journals and online media. Referrals from companies that are satisfied with our provided services are likely to be our most
+significant and efficient form of marketing. 
+
+Competition 
+
+Our
+primary source of competition will come from various service providers such as business plan writers, auditors, lawyers, marketing firms
+as well as many other types of service providers. In addition, those startups and development stage companies that have the resources
+and inclination to handle these tasks in-house will not need our services. 
+
+There
+are also numerous established firms that offer some combination of marketing, promotional and general consulting services to startup
+and development stage companies in the industry. In addition, there are a number of large and well-established general marketing agencies
+that provide strategy and implementation services to the industry as well as a number of other industries. We are in a very competitive
+market and may struggle to differentiate ourselves as a specialist that provides more value for startup and development stage companies. 
+
+Services
+Pricing 
+
+The
+cost for consulting projects will depend on the scope of the project and time required to execute it. We may charge a flat fee based
+on the services that our clients request from us, an hourly rate, revenue share or a combination of the above in order to provide our
+clients with as many cost-effective options as possible. Additionally, all expenses incurred, including engaging third parties, travel
+as well as other approved expenses, will be passed through to the client for reimbursements. 
+
+Employees 
+
+We
+presently have no other employees other than our President and CEO Michael Farkas, Secretary, Carmen Villegas, CFO Ari Feldman and
+General Counsel, Yechiel Baron. Over time, we may hire employees and/or engage additional independent contractors to execute
+our projects. These decisions will be made by our officers when appropriate. 
+
+5 
+
+Government
+Regulation 
+
+Our
+business activities currently are subject to no regulation by government agencies other than that routinely imposed on corporate
+businesses. We do not anticipate any regulations specific to our business activities in the future. 
+
+Seasonality 
+
+We
+do not have a seasonal business cycle. 
+
+Environmental
+Matters 
+
+Our
+business currently does not implicate any environmental regulation. 
+
+Intellectual
+Property 
+
+We
+do not hold any patents, trademarks or other registered intellectual property on services or processes relating to our business. With
+the exception of domain name and mobile app in the future, we do not consider the grant of patents, trademarks or other registered intellectual
+property essential to the success of our business. 
+
+Where
+You Can Find Us 
+
+The
+Company s principal executive office and mailing address is 407 Lincoln Road, Suite 701, Miami Beach, FL. Our telephone number
+is (305) 907-7600. 
+
+We
+have registered the domain name of http://www.balancelabs.co. 
+
+Item
+1A. Risk Factors. 
+
+RISK
+FACTORS 
+
+You
+should carefully consider the risks described below together with all of the other information included in this Annual Report on Form
+10-K before making an investment decision with regard to our securities. The statements contained in or incorporated herein that are
+not historic facts are forward-looking statements that are subject to risks and uncertainties that could cause actual results to differ
+materially from those set forth in or implied by forward-looking statements. If any of the following risks actually occurs, our business,
+financial condition or results of operations could be harmed. In that case, you may lose all or part of your investment. 
+
+Risks
+Related to Our Business 
+
+AN
+OCCURRENCE OF AN UNCONTROLLED EVENT SUCH AS THE COVID-19 PANDEMIC IS LIKELY TO NEGATIVELY AFFECT OUR OPERATIONS 
+
+A
+resurgence of COVID -19 pandemic may adversely impact our operations and demand for our services and our ability to find new
+clients. This is due in part to potential restrictions such as: social distancing requirements; stay at home orders and the shutdown
+of non-essential businesses and the impact these restrictions have on small businesses and their ability to generate revenues which
+effects their ability to afford our services. 
+
+IF
+WE DO NOT OBTAIN ADDITIONAL FINANCING OR SUFFICIENT REVENUES, OUR BUSINESS WILL FAIL 
+
+We
+have had limited operations since our formation. There can be no assurance that management of the Company will be successful in completing
+the Company s business development plan, devise a marketing plan to successfully reach the companies in this field or that the
+Company will generate sufficient revenues to meet its expenses or to achieve or maintain profitability. 
+
+6 
+
+Our
+current operating funds are less than necessary to complete the full development of our business plan, and we most likely will need to
+obtain additional financing in order to complete our business plan. We currently have minimal operations, and we are not currently generating
+revenue or net income. 
+
+The
+Company currently does not have sufficient funds to support its obligations. As a result, the Company will require additional financing
+to execute its business plan through raising additional capital and/or beginning to generate revenue. 
+
+We
+do not currently have any firm arrangements for financing, and we can provide no assurance to investors that we will be able to find
+such additional financing if required. Obtaining additional financing is subject to a number of factors, including current financial
+condition as well as general market conditions. These factors affect the timing, amount, terms or conditions of additional financing
+unavailable to us. And if additional financing is not arranged, the company faces the risk of going out of business. The Company s
+management is currently engaged in actively pursuing multiple financing options to obtain the capital necessary to execute the
+Company s business plan, however, there cannot be any assurance that additional funds will be available when needed from any source,
+or if available, will be available on terms that are acceptable to us. 
+
+OUR
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM HAS RAISED SUBSTANTIAL DOUBT ABOUT OUR ABILITY TO CONTINUE AS A GOING CONCERN 
+
+Our
+independent registered public accounting firm has expressed substantial doubt as to our ability to continue as a going concern. As discussed
+in the notes to the consolidated financial statements, these conditions raise substantial doubt from our independent auditor about our
+ability to continue as a going concern. Our plans regarding these matters are also described in the notes to our consolidated financial
+statements. The consolidated financial statements do not include any adjustments relating to the recoverability and classification of
+asset carrying amounts or the amount and classification of liabilities that might result should our company be unable to continue as
+a going concern. 
+
+We
+will require additional capital to implement our business plan and support our operations. Currently, we have no established bank financing
+arrangements. Therefore, depending on the revenue growth rate, we may need to seek additional financing through a future private offering
+of our equity or debt securities, or through strategic partnerships and other arrangements with corporate partners. We believe we will
+be successful in these efforts; however, there can be no assurance we will meet our internal revenue forecasts or, if necessary, be successful
+in raising additional debt or equity financing to fund our operations on terms agreeable to the company. These matters raise substantial
+doubt from our independent auditor about our ability to continue as a going concern. The consolidated financial statements do not include
+any adjustments that might be necessary if we were unable to continue as a going concern. We presently do not have enough cash on hand
+to sustain our operations. If we are unable to meet our internal revenue forecasts or obtain additional financing on a timely basis,
+we may have to delay vendor payments and/or initiate cost reductions, which would have a material adverse effect on our business, financial
+condition and results of operations, and ultimately, we could be forced to discontinue our operations, liquidate, and/or seek reorganization
+under the U.S. bankruptcy code. 
+
+ADDITIONAL
+FINANCING MAY ADVERSLY EFFECT TO YOUR INTEREST 
+
+If
+we raise additional capital through the issuance of equity or convertible debt securities, the percentage ownership of our company held
+by existing shareholders will be reduced and those shareholders may experience significant dilution. In addition, we may also have to
+issue securities that may have rights, preferences, and privileges senior to our Common Stock. In the event we seek to raise additional
+capital through the issuance of debt or its equivalents, this will result in increased interest expense. 
+
+LIMITED
+EXPERIENCE IN MANAGING AND OPERATING A PUBLIC COMPANY 
+
+Our
+current management has limited experience managing and operating a public company and relies in many instances on the professional experience
+and advice of third parties including its attorneys and accountants. Failure to adequately comply with laws, rules, or regulations applicable
+to our business may result in fines or regulatory action, which may materially adversely affect our business, results of operations,
+or financial condition and could result in delays in the development of an active and liquid trading market for our stock. 
+
+7 
+
+SIGNIGFICANT
+COSTS TO BE A PUBLIC COMPANY 
+
+We
+may incur significant costs associated with our public company reporting requirements, costs associated with newly applicable corporate
+governance requirements, including requirements under the Sarbanes-Oxley Act of 2002 and other rules implemented by the Securities and
+Exchange Commission. We expect all these applicable rules and regulations to significantly increase our legal and financial compliance
+costs and to make some activities more time consuming and costly. We also expect that these applicable rules and regulations may make
+it more difficult and more expensive for us to obtain director and officer liability insurance and we may be required to accept reduced
+policy limits and coverage or incur substantially higher costs to obtain the same or similar coverage. As a result, it may be more difficult
+for us to attract and retain qualified individuals to serve on our board of directors or as executive officers. We are currently evaluating
+and monitoring developments with respect to these newly applicable rules, and we cannot predict or estimate the amount of additional
+costs we may incur or the timing of such costs. In addition, we may not be able to absorb these costs of being a public company which
+will negatively affect our business operations. Based on our management s reasonable estimates, we anticipate that our cost of
+being a public company, including legal, audit costs, printing, filing fees and other costs will be between 50,000 and 75,000 per year. 
+
+SIGNIFICANT
+ADVERSE IMPACT TO OUR CAPITAL RESERVE OF ANY LIABLE UNINSURABLE CLAIM 
+
+Although
+we are in the process of obtaining the necessary Director and Officer liability insurance, we do not have any insurance to cover potential
+risks and general liabilities, including, but not limited to, injuries or economic losses arising out of or relating to our omission
+or errors in providing our services. Even if we decide to obtain insurance coverage in the future, it is possible that: (1) we may not
+be able to get enough insurance to meet our needs; (2) we may have to pay very high premiums for the additional coverage; (3) we may
+not be able to acquire any insurance for certain types of business risk; or (4) we may have gaps in coverage for certain risks. We may
+be exposed to potential uninsured claims for which we could have to expend significant amounts of capital. Consequently, if we were found
+liable for a significant uninsured claim in the future, we may be forced to expend a significant amount of our capital to resolve the
+uninsured claim. 
+
+COMPLETE
+CONTROL OVER THE COMPANY 
+
+Our
+majority shareholder, Balance Holdings, LLC, which our Chairman of the Board, Michael D. Farkas has investing and dispositive power of,
+beneficially own approximately 59.9 of our common stock. Mr. Farkas also has investing and dispositive power of Shilo Holding Group
+LLC, which own approximately 5.08 of our common stock. Therefore, Mr. Farkas is able to exercise control over all matters requiring
+shareholder approval, including the election of directors, amendment of our certificate of incorporation and approval of significant
+corporate transactions, and he also has significant control over our management and policies. The directors elected thereof will be able
+to significantly influence decisions affecting our capital structure. This control may have the effect of delaying or preventing changes
+in control or changes in management, or limiting the ability of our other shareholders to approve transactions that they may deem to
+be in their best interest. 
+
+DEPENDENCE
+ON KEY PERSONNEL 
+
+We
+will be dependent on services from our management team, including Chairman of the Board and CEO, Michael D. Farkas, CFO, Ari Feldman
+and Secretary, Carmen Villegas. The loss of our officers and/or key employees could have a material adverse effect on the operations
+and prospects of the Company. Our management is expected to handle all marketing and sales efforts and manage the operations. Their responsibilities
+include formalizing business arrangements with third party service providers, directing the development of the Company website and other
+online communication tools, and formulating marketing materials to be used during presentations and meetings. At this time, we do not
+have an employment agreement with Ms. Villegas though the Company may enter into such an agreement with her on terms and conditions usual
+and customary for its industry. The Company does have an employment agreement with Mr. Farkas and Mr. Feldman. The Company does not currently
+have key man life insurance on Ms. Villegas, Mr. Feldman or Mr. Farkas. 
+
+8 
+
+HIGHLY
+COMPETITIVE MARKET 
+
+There
+are numerous established companies that offer some combination of marketing, promotional and general consulting services to startup
+and development stage companies in the industry. In addition, there are several large and well-established full-service consulting
+firms that provide strategy and implementation services to a broad spectrum of industries. We are a new entry into this competitive
+market and may struggle to differentiate ourselves as a specialist that provides more value for startup and development stage
+companies. 
+
+INDEMNIFICATION
+AND LIMITATION OF LIABILITY 
+
+Our
+Certificate of Incorporation and By-Laws include provisions that fully eliminate the personal liability of the directors of the
+Company for monetary damages possible under the laws of the State of Delaware or other applicable law. These
+provisions eliminate the liability of directors to the Company and its stockholders for monetary damages arising out of any
+violation of a director of his fiduciary duty of due care. Under Delaware law, however, such provisions do not eliminate the
+personal liability of a director for (i) breach of the director s duty of loyalty, (ii) acts or omissions not in good faith or
+involving intentional misconduct or knowing violation of law, (iii) payment of dividends or repurchases of stock other than from
+lawfully available funds, or (iv) any transaction from which the director derived an improper benefit. These provisions do not
+affect a director s liabilities under the federal securities laws or the recovery of damages by third parties. 
+
+POTENTIAL
+CLIENTS MAY NOT HAVE THE FUNDS OR THE NEED TO OUTSOURCE THIS WORK 
+
+Some
+companies have the resources to handle the strategy and implementation of these services in-house. Other companies may have limited available
+resources which will prohibit them from engaging us to help them develop and implement their strategy. Therefore, we risk having a limited
+niche potential client base. 
+
+COMPANY
+MAY RELY UPON INDEPENDENT CONTRACTORS TO IMPLEMENT SOLUTIONS 
+
+In
+order to implement our services at a scale commensurate with the business plan, we will most likely engage independent contractors who
+will need to be mentored and actively managed to ensure that their work product meets the standards of our Company. Recruiting, engaging,
+contracting, and maintaining independent contractors who can perform this work could cause delays, unplanned expenses and other adverse
+results for the Company. 
+
+REPORTING
+REQUIREMENTS UNDER THE EXCHANGE ACT AND COMPLIANCE WITH THE SARBANES-OXLEY ACT OF 2002, INCLUDING ESTABLISHING AND MAINTAINING ACCEPTABLE
+INTERNAL CONTROLS OVER FINANCIAL REPORTING, ARE COSTLY AND MAY INCREASE SUBSTANTIALLY 
+
+The
+rules and regulations of the SEC require a public company to prepare and file periodic reports under the Exchange Act, which will require
+that the Company engage legal, accounting, auditing and other professional services. The engagement of such services is costly. Additionally,
+the Sarbanes-Oxley Act of 2002 (the Sarbanes- Oxley Act requires, among other things, that we design, implement and maintain
+adequate internal controls and procedures over financial reporting. The costs of complying with the Sarbanes-Oxley Act and the limited
+technically qualified personnel we have may make it difficult for us to design, implement and maintain adequate internal controls over
+financial reporting. In the event that we fail to maintain an effective system of internal controls or discover material weaknesses in
+our internal controls, we may not be able to produce reliable financial reports or report fraud, which may harm our overall financial
+condition and result in loss of investor confidence and a decline in our share price. 
+
+As
+a public company, we are subject to the reporting requirements of the Exchange Act, the Sarbanes-Oxley Act, the Dodd-Frank Act of 2010
+and other applicable securities rules and regulations. Despite recent reforms made possible by the JOBS Act, compliance with these rules
+and regulations will nonetheless increase our legal and financial compliance costs, make some activities more difficult, time-consuming,
+or costly and increase demand on our systems and resources, particularly after we are no longer an emerging growth company. 
+The Exchange Act requires, among other things, that we file annual, quarterly, and current reports with respect to our business and operating
+results. 
+
+9 
+
+We
+are working with our legal, independent accounting and financial advisors to identify those areas in which changes should be made to
+our financial and management control systems to manage our growth and our obligations as a public company. These areas include corporate
+governance, corporate control, disclosure controls and procedures and financial reporting and accounting systems. We have made, and will
+continue to make, changes in these and other areas. However, we anticipate that the expenses that will be required in order to adequately
+prepare for being a public company could be material. We estimate that the aggregate cost of increased legal services; accounting and
+audit functions; personnel, such as a chief financial officer familiar with the obligations of public company reporting; consultants
+to design and implement internal controls; and financial printing alone will be a few hundred thousand dollars per year and could be
+several hundred thousand dollars per year. In addition, if and when we retain independent directors and/or additional members of senior
+management, we may incur additional expenses related to director compensation and/or premiums for directors and officers 
+liability insurance, the costs of which we cannot estimate at this time. We may also incur additional expenses associated with investor
+relations and similar functions, the cost of which we also cannot estimate at this time. However, these additional expenses individually,
+or in the aggregate, may also be material. 
+
+In
+addition, being a public company could make it more difficult or more costly for us to obtain certain types of insurance, including directors 
+and officers liability insurance, and we may be forced to accept reduced policy limits and coverage or incur substantially higher
+costs to obtain the same or similar coverage. The impact of these events could also make it more difficult for us to attract and retain
+qualified persons to serve on our board of directors, our board committees, or as executive officers. 
+
+The
+increased costs associated with operating as a public company may decrease our net income or increase our net loss and may cause us
+to reduce costs in other areas of our business or increase the prices of our products or services to offset the effect of such increased
+costs. Additionally, if these requirements divert our management s attention from other business concerns, they could have a material
+adverse effect on our business, financial condition and results of operations. 
+
+IF
+WE FAIL TO MAINTAIN EFFECTIVE INTERNAL CONTROLS OVER FINANCIAL REPORTING, THE PRICE OF OUR COMMON STOCK MAY BE ADVERSELY AFFECTED 
+
+We
+are required to establish and maintain appropriate internal controls over financial reporting. During the year ended December 31, 2022,
+we carried out an evaluation, under the supervision and with the participation of our management, including the principal executive officer
+and the principal financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures. Based
+on that evaluation and due to the lack of segregation of duties due to small Company staff size our principal executive officer and principal
+financial officer concluded that our disclosure controls and procedures were ineffective as of the end of the period covered by
+this report. Failure to establish those controls, or any failure of those controls once established, could adversely affect our public
+disclosures regarding our business, prospects, financial condition, or results of operations. In addition, management s assessment
+of internal controls over financial reporting may identify weaknesses and conditions that need to be addressed in our internal controls
+over financial reporting or other matters that may raise concerns for investors. Any actual or perceived weaknesses and conditions that
+need to be addressed in our internal control over financial reporting or disclosure of management s assessment of our internal
+controls over financial reporting may have an adverse impact on the price of our common stock. 
+
+Risks
+Related to Our Common Stock 
+
+THERE
+IS A LIMITED PUBLIC MARKET FOR OUR SECURITIES 
+
+Our
+common stock is not listed on any national securities exchange. Accordingly, investors may find it more difficult to buy and sell our
+shares than if our common stock was traded on an exchange. Although our common stock is quoted on the OTC Pink, it is an unorganized,
+inter-dealer, over-the-counter market which provides significantly less liquidity than the NASDAQ Capital Market or other national securities
+exchange. These factors may have an adverse impact on the trading and price of our common stock. And our common stock may be less attractive
+for margin loans, for investment by financial institutions, as consideration in future capital raising transactions or other purposes. 
+
+10 
+
+NOT
+LIKELY TO PAY DIVIDENDS 
+
+We
+currently intend to retain any future earnings for use in the operation and expansion of our business. Accordingly, we do not expect
+to pay any dividends in the foreseeable future but will review this policy as circumstances dictate. 
+
+WE
+ARE SUBJECT TO THE SEC S PENNY STOCK RULES 
+
+We
+are subject to the SEC s penny stock rules if our shares of Common Stock sell below 5.00 per share. Penny stocks
+generally are equity securities with a price of less than 5.00. The penny stock rules require broker-dealers to deliver a standardized
+risk disclosure document prepared by the SEC which provides information about penny stocks and the nature and level of risks in the penny
+stock market. The broker-dealer must also provide the customer with current bid and offer quotations for the penny stock, the compensation
+of the broker-dealer and its salesperson, and monthly account statements showing the market value of each penny stock held in the customer s
+account. The bid and offer quotations, and the broker-dealer and salesperson compensation information must be given to the customer orally
+or in writing prior to completing the transaction and must be given to the customer in writing before or with the customer s confirmation. 
+
+In
+addition, the penny stock rules require that prior to a transaction, the broker dealer must make a special written determination that
+the penny stock is a suitable investment for the purchaser and receive the purchaser s written agreement to the transaction. The
+penny stock rules are burdensome and may reduce purchases of any offerings and reduce the trading activity for shares of our Common Stock.
+As long as our shares of Common Stock are subject to the penny stock rules, the holders of such shares of Common Stock may find it more
+difficult to sell their securities. 
+
+Item
+1B. Unresolved Staff Comments. 
+
+Not
+applicable. 
+
+Item
+2. Properties. 
+
+The
+Company s mailing address is 407 Lincoln Road, Suite 701, Miami Beach, FL. Our telephone number is (305) 907-7600. 
+
+Item
+3. Legal Proceedings. 
+
+To
+the best of our knowledge, there are no material pending legal proceedings to which we are a party or of which any of our property is
+the subject. From time to time, we may become involved in various lawsuits and legal proceedings, which arise, in the ordinary course
+of business. However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from
+time to time that may harm our business. 
+
+Item
+4. Mine Safety Disclosures. 
+
+Not
+Applicable. 
+
+11 
+
+PART
+II 
+
+Item
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market
+Information 
+
+The
+Company s common stock is currently quoted on the OTC Market Pink under symbol BLNC. Our stock is thinly traded and there is no
+active trading market developed for our shares of common stock. The following table sets forth the high and low bid prices per share
+of common stock for the periods indicated. These prices represent inter-dealer quotations without retail markup, markdown, or commission
+and may not necessarily represent actual transactions. 
+
+Common Stock 
+
+High 
+ Low 
+ 
+ Fiscal Year Ended December 31, 2021: 
+
+Fiscal Quarter Ended March 31, 2021 
+ 1.25 
+ 0.75 
+ 
+ Fiscal Quarter Ended June 30, 2021 
+ 1.25 
+ 0.51 
+ 
+ Fiscal Quarter Ended September 30, 2021 
+ 1.00 
+ 1.00 
+ 
+ Fiscal Quarter Ended December 31, 2021 
+ 0.72 
+ 0.72 
+
+Fiscal Year Ended December 31, 2022: 
+
+Fiscal Quarter Ended March 31, 2022 
+ 0.86 
+ 0.72 
+ 
+ Fiscal Quarter Ended June 30, 2022 
+ 1.00 
+ 0.73 
+ 
+ Fiscal Quarter Ended September 30, 2022 
+ 0.73 
+ 0.47 
+ 
+ Fiscal Quarter Ended December 31, 2022 
+ 1.00 
+ 0.23 
+
+Holders 
+
+As
+of April 17, 2023, we had approximately 52 holders of our common stock. 
+
+Dividends 
+
+To
+date, we have not declared or paid any dividends on our common stock. We currently do not anticipate paying any cash dividends in the
+foreseeable future on our common stock. Although we intend to retain our earnings, if any, to finance the exploration and growth of our
+business, our Board of Directors has the discretion to declare and pay dividends in the future. 
+
+Payment
+of dividends in the future will depend upon our earnings, capital requirements, and any other factors that our Board of Directors deems
+relevant. 
+
+Equity
+Compensation Plan Information: 
+
+The
+Company does not have any equity compensation plan. 
+
+Recent
+Sales of Unregistered Securities: 
+
+None 
+
+Item
+6. Selected Financial Data. 
+
+Smaller
+reporting companies are not required to provide the information for this item. 
+
+Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operation . 
+
+Plan
+of Operations 
+
+Our
+plan of operations over the next 12 months is to continue to prepare our clients for the many inevitable challenges they will encounter
+and to develop a customized plan for them to help overcome these obstacles, so that they can focus on marketing their product(s) and/or
+service(s) to their potential customers. 
+
+Although
+we ve only worked with three clients since inception, our goal is to add and service a minimum of two to three new clients between
+now and the end of 2023. We re marketing our services through both personal contact and online by (a) mining our existing
+network of professional contacts via personal outreach programs, which will also target international prospects that may wish to enter
+the US market; (b) expanding our network by attending targeted conferences and professional gatherings; and (c) utilizing our website
+at www.balancelabs.co, plus engaging potential clients on social media, including LinkedIn, Facebook and Twitter. However, because we
+have a limited budget allocated for an on-line marketing campaign, we anticipate that professionals within our professional network and
+personal referrals from companies that are satisfied with our professional services are likely to be our most significant and efficient
+near-term form of marketing. 
+
+12 
+
+The
+Company incorporated or formed nine subsidiaries since 2016, Balance Labs, LLC, Balance AgroTech Co., Advanced AutoTech Co., Balance
+Cannabis Co., Balance Medical Marijuana Co. Krypto Ventures Inc, formerly known as KryptoBank Co., a former subsidiary. Except for Krypto
+Ventures Inc., formerly known as KryptoBank Co. all of the subsidiaries are wholly owned by the company. On July 29, 2021, the Company
+exchanged 52,500,000 shares of common stock in Krypto Ventures, Inc. for 119,584,736 shares of common stock in Descrypto Holdings, Inc. Descrypto (formerly W Technologies Inc.), an unrelated party in a Share Exchange Agreement. As a result, Krypto Ventures,
+Inc was deconsolidated and is no longer our subsidiary. 
+
+In
+November 2018, the Company acquired a non-controlling minority interest in a new startup company, iGrow Systems, Inc. As of December
+31, 2022, this investment has no value based on the equity method of accounting. iGrow Systems, Inc., was developing a plant growing device
+for home use. iGrow Systems Inc has closed and is no longer in operations as of December 31, 2022. 
+
+The
+Company owned a majority interest in Krypto Ventures Inc, formerly known as KryptoBank Co. On July 29, 2021, the Company exchanged 52,500,000
+shares of common stock in Krypto Ventures, Inc. for 119,584,736 shares of common stock in W Technologies Inc. W Tech ),
+an unrelated party in a Share Exchange Agreement. As of September 30, 2021, the investment had a fair value of 0, due to the stock being
+illiquid, and it is recorded on our consolidated balance sheet using the equity method. On November 17, 2021, W Tech repurchased all the shares
+owned by the Company and the Company no longer owns any portion of Krypto Ventures Inc. s and W Tech s outstanding shares
+of common stock. 
+
+On
+December 2, 2020, the Company received 1,000,000 shares from EZFill Holdings, Inc, a related party, for past services, with each share
+valued at 1 each. At the time of acquiring these shares, EZFill Holdings, Inc. was not a publicly traded company. 
+
+On September 14, 2021, the S-1 Registration Statement
+for EZFill Holdings, Inc. was declared effective by the U.S. Securities and Exchange Commission. As a result of becoming a publicly traded
+company, our investment is now recorded at fair value as available-for-sale securities on September 30, 2022, with the gains and losses
+being recorded through other income on the consolidated statements of operations for the year ended December 31, 2022. 
+
+On
+November 18, 2020, the Company executed a two (2) year, third-party consulting agreement with EzFill Holdings Inc for various
+corporate services. The current service agreement has expired effective November 18, 2022. In connection with this agreement, and
+with the effectiveness of the Company s Form S-1 registration statement, the Company was entitled to compensation as
+follows: 
+
+1,000,000 shares of common stock having a fair value of 1,000,000 1.00/share), each based on a recent cash price of the related party, 
+
+and a one time payment of 200,000 upon completion of the Company s IPO. 
+
+during the first year of the agreement, 25,000 per month, with the 1 st payment due 30 days after the completion of the Company s
+IPO, 
+
+during the second year of the agreement, 22,500 per month, and 
+
+on each anniversary of the agreement, 500,000 shares of common stock. 
+
+At December 31, 2022,
+the Company owned 531,539 shares after a reverse stock split adjustment of 1 for 3.763243 and the fair value of the investment in
+EZFill Holdings, Inc. was reported on the balance sheet as Investment at fair value - related party totaling 148,808 0.28/share).
+Recorded an adjustment of 401,250 for the twelve months ending December 31, 2022, as unrealized loss on securities. 
+
+On January 29, 2021, the Company received 20 ownership of Pharmacy No,
+27, Ltd, a company based in Israel, as part of a Note Receivable from a third party (see Note 5). As of December 31, 2022, the investment
+has a fair value of 0, based upon the quoted closing trading price and it is recorded on our consolidated balance sheet using the equity
+method. In addition, the interest receivable associated with this note has fully been reserved in the amount of 21,958 as
+of December 31, 2022. 
+
+13 
+
+Our
+primary requirement for funding is for working capital in order to accommodate temporary negative cash flows from operations (see Liquidity
+and Capital Resources ). 
+
+Results
+of Operations 
+
+For
+the years ended December 31, 2022 and December 31, 2021. 
+
+Overview 
+
+We
+reported a net loss attributable to the Company of 768,351 and a net loss attributable to the Company of 809,404 for the years ended December
+31, 2022 and 2021, respectively, a difference of (41,053) or 5 , primarily due to an increase in the unrealized loss on available for
+sale securities and a decrease in consulting income from a related party in the form of stock and cash. 
+
+Revenues
+ Related Party 
+
+For
+the years ended December 31, 2022 and December 31, 2021, we generated 247,500 and 624,590, respectively in revenue. The primary reason for the decrease in revenue was due to a decrease of the consulting income received from EZFill Holdings, Inc. 
+
+General
+and Administrative Expenses 
+
+General and administrative expenses were 21,236 and 29,963 for the years
+ended December 31, 2022 and 2021, respectively, a decrease of 8,727 or 29 primarily due to decrease in office expenses. 
+
+Professional
+Fees 
+
+Professional
+fees were 139,263 and 104,729 for the years ended December 31, 2022 and 2021, respectively, an increase of 34,534 or 33 due to an increase in
+legal and accounting fees. 
+
+Salaries
+and Wages 
+
+Wages
+were 49,837 and 145,472 for the years ended December 31, 2022 and 2021, respectively, a decrease of 95,635 or 66 due to a decrease in
+salaries expense. 
+
+Other
+Income and Expense 
+
+Other
+expenses for the year ended December 31, 2022 was 745,515. Other expenses for the year ended December 31, 2021, was 1,033,830. This represents
+a difference of 28 which was attributable to less unrealized losses associated with the sale of securities. 
+
+Unrealized
+gain or loss on available for sale securities 
+
+Unrealized
+loss on available for sale securities for the year ended December 31, 2022, was 401,250. Unrealized gain on available for sale securities
+for the year ended December 31, 2021, was 822,533. This represents a decrease of 421,283 or 51 attributable to less losses associated with the sales of securities. 
+
+Net
+Loss allocated from Equity Method Investee 
+
+Net
+loss allocated from Equity Method Investee for the year ended December 31, 2022 and December 31, 2021 was 47,255 and 13,591 respectively,
+an increase of 247 primarily due to an increase in expenses from operating expenses by the investees. 
+
+14 
+
+Liquidity
+and Capital Resources 
+
+We
+measure our liquidity in a number of ways, including the following. 
+
+December 31, 2022 
+ December 31, 2021 
+
+Cash 
+ 235,311 
+ 227,558 
+ 
+ Working capital (deficiency) 
+ (3,681,157 
+ (2,962,958 
+
+Availability
+of Additional Funds 
+
+As described elsewhere in this annual report, we currently do not have any material commitments for capital expenditures. We are
+actively pursuing new client relationships. Even if we were to add a new client(s), due to our current lack of a diversified client
+base, there could be temporary imbalances between cash receipts and cash operating expenditures, which means that we may need
+additional capital. The engagement revenues associated with most client engagements will self-fund the in-house and sub-contractor
+services we need in order to supply products and services to our clients. 
+
+As
+of December 31, 2022, the Company had a working capital deficiency of 3,681,157. The Company net cash provided in operations was 7,753.
+In addition, the Company is working to manage its current liabilities while it continues to make changes in operations to further improve
+its cash flow and liquidity position. Based upon subsequent debt financing and the Company s current cash flow projections, management
+believes the Company will have sufficient capital resources to meet projected cash flow requirements for the next year ended. 
+
+Net
+Cash Used in Operating Activities 
+
+We
+experienced positive cash flows from operating activities for the year ended December 31, 2022 of 7,753. This was primarily due to
+an unrealized gain of 401,249 on available for sale securities, with an increase in bad debt of 151,714, a net loss of 768,351.
+The negative cash flows of 56,896 for the year ended December 31, 2021 was primarily due to an unrealized loss of 822,533 on available
+for sale securities, 352,090 of investment received in exchange, gain on deconsolidation of subsidiary of 153,907 and a partially offset by an
+increase in accounts payable and accrued expenses by 269,989. 
+
+Net
+Cash Used in Investing Activities 
+
+Net
+cash used in investing activities during the year ended December 31, 2022 and December 31, 2021 was 0 and 203,678, respectively. During the year ended December 31,
+2021, 144,000 of cash used in investing activities were for a note receivable to an unrelated party, improvements on the existing Krypto
+Ventures Inc., formerly known as KryptoBank website for 9,500 and cash disposed in deconsolidation of subsidiary of 53, 718. 
+
+Net
+Cash Provided by Financing Activities 
+
+Net
+cash provided by financing activities during the year ended December 31, 2022 and December 31, 2021 was 0 and 482,500,
+respectively. Cash provided by financing activities during the year ended December 31, 2021, increase of proceeds of 407,500 from
+related parties, and note payable an increase of 75,000 compared to 0 and 0 respectively, in the year ended December 31,
+2022. 
+
+Our
+auditors have issued a going concern opinion 
+
+The
+Company s independent registered public accounting firm has expressed substantial doubt as to the Company s ability to continue
+as a going concern as of December 31, 2022. The consolidated financial statements in this annual report on Form 10-K have been prepared
+assuming that the Company will continue as a going concern. As discussed in the notes to the consolidated financial statements, these
+conditions raise substantial doubt from our independent auditor about the Company s ability to continue as a going concern. The
+Company s plans in regard to these matters are also described in the notes to the Company s consolidated financial statements.
+The consolidated financial statements do not include any adjustments relating to the recoverability and classification of asset carrying
+amounts or the amount and classification of liabilities that might result should the Company be unable to continue as a going concern. 
+
+15 
+
+Therefore,
+we will need to raise additional capital in the future to continue our operations There can be no assurance that additional funds will
+be available when needed from any source or, if available, will be available on terms that are acceptable to us. We will be required
+to pursue sources of additional capital through various means, including debt or equity financings. Future financings through equity
+investments are likely to be dilutive to existing stockholders. Also, the terms of securities we may issue in future capital transactions
+may be more favorable for new investors. Newly issued securities may include preferences, superior voting rights, the issuance of warrants
+or other derivative securities, and the issuances of incentive awards under equity employee incentive plans, which may have additional
+dilutive effects. Further, we may incur substantial costs in pursuing future capital and/or financing, including investment banking fees,
+legal fees, accounting fees, printing and distribution expenses and other costs. We may also be required to recognize non-cash expenses
+in connection with certain securities we may issue, such as convertible notes and warrants, which will adversely impact our financial
+condition. Our ability to obtain needed financing may be impaired by such factors as the capital markets and our history of losses, which
+could impact the availability or cost of future financings .If the Company is unable to meet its internal revenue forecasts or obtain
+additional financing on a timely basis, it may have to delay vendor payments and/or initiate cost reductions, which would have a material
+adverse effect on the Company s business, financial condition and results of operations, and ultimately it could be forced to discontinue
+the Company s operations, liquidate, and/or seek reorganization under the U.S. bankruptcy code. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+do not have any off-balance sheet arrangements. 
+
+Critical
+Accounting Policies and Estimates 
+
+Use
+of Estimates 
+
+The
+preparation of the financial statements in conformity with accounting principles generally accepted in the United States of America GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent
+assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting
+periods. Estimates may include those pertaining to accruals, stock-based compensation and income taxes. Actual results could materially
+differ from those estimates. 
+
+Revenue
+Recognition 
+
+The
+Company accounts for its revenues under FASB ASC 606, that requires revenue to be recognized in a manner to depict the transfer of goods
+or services to a customer at an amount that reflects the consideration expected to be received in exchange for those goods or services.
+The Company considers revenue realized or realizable and earned when all the five following criteria are met: (1) Identify the Contract
+with a Customer, (2) Identify the Performance Obligations in the Contract, (3) Determine the Transaction Price, (4) Allocate the Transaction
+Price to the Performance Obligations in the Contract, and (5) Recognize Revenue When (or As) the Entity Satisfies a Performance Obligation.
+The Company recognizes consulting income when the services are performed, and performance obligations are satisfied, over time or point of time. 
+
+Fair
+Value of Financial Instruments 
+
+The
+Company measures its financial assets and liabilities in accordance with GAAP. For certain of our financial instruments, including cash,
+accounts payable, and the short-term portion of long-term debt, the carrying amounts approximate fair value due to their short maturities. 
+
+We
+adopted accounting guidance for financial and non-financial assets and liabilities (ASC 820). This standard defines fair value, provides
+guidance for measuring fair value and requires certain disclosures. This standard does not require any new fair value measurements, but
+rather applies to all other accounting pronouncements that require or permit fair value measurements. This guidance does not apply to
+measurements related to share-based payments. This guidance discusses valuation techniques, such as the market approach (comparable market
+prices), the income approach (present value of future income or cash flow), and the cost approach (cost to replace the service capacity
+of an asset or replacement cost). The guidance utilizes a fair value hierarchy that prioritizes the inputs to valuation techniques used
+to measure fair value into three broad levels. 
+
+Recently
+Issued Accounting Pronouncements 
+
+We
+have implemented all new accounting standards that are in effect and may impact our consolidated financial statements and do not believe
+that there are any other new accounting standards that have been issued that might have a material impact on our financial position or
+results of operations. 
+
+Item
+7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+Not
+required for smaller reporting companies. 
+
+Item
+8. Financial Statements. 
+
+16 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and 
+Stockholders of Balance Labs, Inc. and Subsidiaries. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheet of Balance Labs Inc. and Subsidiaries (the Company) as of December 31, 2022,
+and the related consolidated statements of income, stockholders deficit, and cash flows for the year ended December 31, 2022,
+and the related notes (collectively referred to as the financial statements). In our opinion, the consolidated financial statements present
+fairly, in all material respects, the financial position of the Company as of December 31, 2022 and the results of its operations and
+its cash flows for the year ended December 31, 2022, in conformity with accounting principles generally accepted in the United States
+of America. 
+
+Explanatory
+Paragraph- Going Concern 
+
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 2 to the financial statements, the Company had a net loss of 768,351, for the year ended December 31, 2022. In addition, the
+Company had an accumulated deficit of 4,161,312 and had negative working capital of 3,681,157. These factors raise substantial doubt
+about the Company s ability to continue as a going concern. Management s plans in regard to these matters are also described
+in Note 2. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+consolidated financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight
+Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters are matters arising from the current period audit of the financial statements that are required to be communicated
+to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved
+our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our
+opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate
+opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+We
+did not identify any critical audit matters that need to be communicated. 
+
+/s/ 
+
+We have served as the Company s auditor since 2022. 
+
+PCAOB ID: 
+
+April 17, 2023 
+
+F- 1 
+
+To
+the Shareholders and Board of Directors of: 
+
+Balance
+Labs, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheet of Balance Labs, Inc. and Subsidiaries (the Company as of December
+31, 2021 and the related consolidated statements of operations, changes in stockholders deficit and cash flows for the year ended
+December 31, 2021, and the related notes (collectively referred to as the consolidated financial statements). In our opinion the consolidated
+financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021 and the
+results of its operations and its cash flows for the year ended December 31, 2021, in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Explanatory
+Paragraph Going Concern 
+
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 2 to the consolidated financial statement, the Company has experienced net losses since inception and negative cash flows from
+operations and has relied on loans from related parties to fund its operations. These factors raise substantial doubt about the Company s
+ability to continue as a going concern. Management s plans in regard to these matters are described in Note 2. The consolidated
+financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company
+in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission
+and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall consolidated financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion. 
+
+F- 2 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements
+that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are
+material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The
+communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole,
+and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the
+accounts or disclosures to which they relate. 
+
+Revenues
+received from related party in exchange for services 
+
+As
+described in Note 3 to the consolidated financial statements, the Company received investment securities in the form of shares as well
+as cash payment from a related party in exchange for past and current consulting services provided to a related party. The Company recognized
+the revenues from related party during the year ended December 31, 2021. 
+
+Evaluating
+the identification of related party transaction and auditing the revenue recognized in the form of shares is highly judgmental as it
+involves a high degree of auditor judgment and subjectivity due to the management s assessment and methodologies used in the valuation
+and the significant assumptions used by the Company. 
+
+To
+test the proper revenue recognition and identification of related party transaction, we performed audit procedures that included, among
+others, performing substantive testing on the existence of customer arrangements, inquiring of management to gain an understanding of
+the nature and scope of the related consulting service, reading public filings of the related party and evaluating the sufficiency of
+audit evidence obtained by assessing the results of procedures performed over the identification of related party transactions. To test
+the proper valuation of the investment securities, we performed audit procedures that included, among others, not limited to, evaluating
+the methodologies used in the valuation and the significant assumptions used by the Company. 
+
+Valuation
+and impairment of investment 
+
+As
+described in Note 3 to the consolidated financial statements, the Company recorded the investments, at fair value, categorized as Level
+1 through Level 3 within the fair value hierarchy. The fair value of these investments is determined by management using the valuation
+techniques and significant observable and unobservable inputs depending on the fair value hierarchy. The Company also recorded impairment
+of investment during the year ended December 31, 2021 due to the change in the investment securities. 
+
+F- 3 
+
+Auditing
+the fair value of the Company s investments within the fair value hierarchy involved a high degree of auditor judgment and subjectivity
+due to the management s assessments of significant observable and unobservable inputs depending on the fair value hierarchy and
+methodologies used in the valuation and the significant assumptions and used by the Company. 
+
+To
+test the proper valuation and impairment of the investment, we performed audit procedures that included, among others, not limited to,
+evaluating the methodologies used in the valuation and the significant assumptions and inputs used by the Company. 
+
+Deconsolidation
+of Subsidiary 
+
+As
+described in Note 3 to the consolidated financial statements, the Company deconsolidated one of its subsidiaries upon entering into a
+share exchange agreement. The difference between the carrying value of the assets and liabilities of the subsidiary that were deconsolidated
+resulted in a gain from deconsolidation. The Company received shares of common stock in the publicly traded entity from the share exchange
+agreement. 
+
+Auditing
+the fair value of the Company s carrying value of assets and liabilities at the date of deconsolidation involved a high degree
+of auditor judgment specifically on the management s assessments on valuation of the shares received from the share exchange agreement
+and the carrying value of the subsidiary s assets and liabilities. 
+
+To
+test the accounting for the deconsolidation of the subsidiary, we performed audit procedures that included, among others, obtaining and
+evaluating the share exchange agreement and other information that corroborated management s assessment of the carrying value of
+the subsidiary s assets and liabilities. We then compared them to our assessments. 
+
+To
+test the valuation of the shares received from the share exchange agreement, we performed audit procedures that included, among others,
+inquiring of management to gain an understanding of the nature and scope of the share exchange agreement, reading the filing of the publicly
+traded entity the Company entered into the share exchange with, and evaluating the methodologies used in the valuation, and the significant
+assumptions and inputs used by the Company. 
+
+/s/
+Liggett Webb, P.A. 
+
+We
+have served as the Company s auditor since 2015. 
+
+PCAOB
+ID: 287 
+
+Boynton
+Beach, Florida 
+
+March
+31, 2022 
+
+F- 4 
+
+PART
+I FINANCIAL INFORMATION 
+
+Item
+1. Financial Statements. 
+
+Balance
+Labs, Inc. and Subsidiaries 
+
+ Consolidated
+Balance Sheets 
+
+December 31, 
+ 2022 
+ December 31, 
+ 2021 
+
+Assets 
+
+Current Assets 
+
+Cash and cash equivalents 
+
+Accounts receivable 
+
+Interest receivable, net of allowance of 
+ - 
+
+Marketable securities 
+
+Note receivable, net of discount of 
+ and 
+ as of December 31, 2022, and December 31, 2021 and allowance of 
+ and 
+ - 
+
+Total Current Assets 
+
+Other Assets 
+
+Due from related party 
+ - 
+
+Investment at fair value 
+ - 
+
+Total Other Assets 
+ - 
+
+Total Assets 
+
+Liabilities and Stockholders Deficit 
+
+Current Liabilities 
+
+Accounts payable and accrued expenses 
+
+Accounts payable - related party 
+
+Short -term advances - related party 
+
+Convertible note payable 
+
+Convertible notes payable - related party, net of debt discount of and as of December 31, 2022, and December 31, 2021 
+
+Notes payable - related party 
+
+Accumulated losses of unconsolidated investees in excess of investment 
+ - 
+
+Total Current Liabilities 
+
+Long Term Liabilities 
+
+Convertible note payable, net of debt discount of and as of December 31, 2022, and December 31, 2021 
+
+Total Long Term Liabilities 
+
+Total Liabilities 
+
+Commitments and Contingencies (Note 8) 
+ - 
+ - 
+
+Stockholders Deficit 
+
+Preferred stock, par value, shares authorized, issued and outstanding as of December 31, 2022, and December 31, 2021 
+ - 
+ - 
+ 
+ Common stock, par value: authorized , and shares issued and outstanding as of December 31, 2022, and December 31, 2021, respectively 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Stockholders Deficit 
+
+Total Stockholders Deficit 
+
+Total Liabilities and Stockholders Deficit 
+
+The
+accompanying notes are an integral part of the consolidated financial statements 
+
+F- 5 
+
+Balance
+Labs, Inc. and Subsidiaries 
+
+ Consolidated
+Statements of Operations 
+
+2022 
+ 2021 
+
+For the Years Ended 
+December 31, 
+
+2022 
+ 2021 
+
+Revenues - related party 
+
+Costs and expenses 
+
+General and administrative expenses 
+
+Professional fees 
+
+Salaries and wages 
+
+General and administrative expenses - related party 
+
+Total operating expenses 
+
+Income (Loss) from operations 
+
+Other income (expense) 
+
+Unrealized loss on marketable securities 
+
+Bad debt on note receivable and related accrual interest 
+ 
+ - 
+ 
+ Net loss allocated from equity method investee 
+ 
+ ) 
+ 
+ Accreted interest income and interest income on note receivable 
+
+Gain on disposal of non-controlling investment 
+ 
+ - 
+ 
+ Interest expense (includes amortization of debt discount) 
+
+Impairment of an investment 
+ - 
+
+Gain on forgiveness of PPP loan 
+ - 
+
+Gain on deconsolidation of Krypto Ventures, Inc. 
+ - 
+
+Total other expense net 
+
+Net loss 
+
+Net loss attributable to non-controlling interest 
+ - 
+
+Net Loss attributable to the Company 
+
+Net Loss per share basic 
+
+Net Loss per share diluted 
+
+Weighted average number of shares basic 
+
+Weighted average number of shares - diluted 
+
+The
+accompanying notes are an integral part of the consolidated financial statements. 
+
+F- 6 
+
+Balance
+Labs, Inc. and Subsidiaries 
+
+ Consolidated
+Statements of Cash Flows 
+
+2022 
+ 2021 
+
+For the Years December 31, 
+
+2022 
+ 2021 
+ 
+ Operating activities 
+
+Net loss - including non-controlling interest 
+
+Adjustments to reconcile net loss to net cash (used) provided by operations 
+
+Amortization of debt discount 
+
+Amortization of expense on note receivable 
+
+Depreciation expense 
+ - 
+
+Amortization of website development costs 
+ - 
+
+Bad debt on note receivable and related interest receivable 
+ 
+ - 
+ 
+ Impairment of an investment 
+ - 
+
+Net loss from equity method investment 
+
+Investment received in exchange for consulting services 
+ - 
+
+Unrealized (gain) on available - for - sale securities 
+
+Gain on deconsolidation of subsidiary (Krypto Ventures, Inc.) 
+ - 
+
+Gain on forgiveness of PPP loan 
+ - 
+
+Gain on disposal of non-controlling investment 
+ 
+ - 
+ 
+ Changes in operating assets and liabilities 
+
+(Increase) decrease in 
+
+Accounts receivable 
+
+Interest receivable 
+
+Prepaids 
+ - 
+
+Increase (decrease) in 
+
+Accounts payable and accrued expenses 
+
+Accounts payable and accrued expenses - related party 
+
+Accumulated losses on unconsolidated investees in excess of investment 
+
+Net cash from (used in) operating activities 
+
+Investing activities 
+
+Notes receivable 
+ - 
+
+Website development cost 
+ - 
+
+Cash disposed in deconsolidation of subsidiary 
+ - 
+
+Net cash used in investing activities 
+ - 
+
+Financing activities 
+
+Proceeds from issuance of note payable, related party 
+ - 
+
+Proceeds from issuance of convertible note payable, related party, net 
+ - 
+
+Proceeds from short term advances, related parties 
+ - 
+
+Net cash provided by financing activities 
+ - 
+
+Net increase in cash 
+
+Cash and cash equivalents - beginning of period 
+
+Cash and cash equivalents - end of period 
+
+Supplemental disclosure of cash flow information 
+
+Cash paid for interest 
+ - 
+ - 
+ 
+ Cash paid for income tax 
+ - 
+
+Supplemental disclosure of non-cash investing and financing activities 
+
+Investment at fair value received from issuance of note receivable 
+ - 
+
+Beneficial conversion features on convertible notes payable - related party 
+ - 
+
+The
+accompanying notes are an integral part of the consolidated financial statements. 
+
+F- 7 
+
+Balance
+Labs, Inc. and Subsidiaries 
+
+ Consolidated
+Statements of Changes in Stockholders (Deficit) 
+
+ For
+the Years Ended December 31, 2022, and 2021 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ (Deficit) 
+
+Common Stock 
+ Additional Paid-in 
+ Accumulated 
+ Total Stockholders 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ (Deficit) 
+
+December 31, 2020 
+
+Beneficial conversion 
+
+Net loss 
+ - 
+ - 
+ - 
+
+December 31, 2021 
+
+Balance 
+
+Net loss 
+ - 
+ - 
+ - 
+
+December 31, 2022 
+
+Balance 
+
+The
+accompanying notes are an integral part of the consolidated financial statements. 
+
+F- 8 
+
+BALANCE
+LABS, INC. and Subsidiaries 
+
+ Notes
+to Consolidated Financial Statements 
+
+ December 31, 2022 and 2021 
+
+for the year of 2022 and stockholders deficit of as of December 31,
+2022. There is substantial doubt about the Company to continue as a going concern for a period of one year from the date of these financial statements were issued. This will not sustain the Company without
+additional funds. Management plans to raise additional capital within the next year ended that will sustain its operations for the next
+year. In addition, the Company will begin an active marketing campaign to market its services. There can be no assurance that such a
+plan will successful. The accompanying consolidated financial statements do not include any adjustments that might be necessary should
+the Company be unable to continue as a going concern. 
+
+and in cash equivalents, respectively. 
+
+on the investment in iGrow Systems which is included as Gain on
+disposal of non-controlling interest on the accompanying statement of operations. iGrow Systems Inc has closed and is no longer in operations
+as of December 31, 2022. 
+
+shares from EZFill Holdings, Inc, a related party, for past services, with each share
+valued at 1 each. At the time of acquiring these shares, EZFill Holdings, Inc. was not a publicly traded company. 
+
+On
+September 14, 2021, the S-1 Registration Statement for EZFill Holdings, Inc. was declared effective by the U.S. Securities and Exchange
+Commission. As a result of becoming a publicly traded company, our investment is now recorded at fair value as available-for-sale securities
+on December 31, 2022, with the gains and losses being recorded through other income on the consolidated statements of operations. 
+
+On
+November 18, 2020, the Company executed a two (2) year, third-party consulting agreement for various corporate services. The current
+service agreement has expired effective November 18, 2022. In connection with this agreement, and with the effectiveness of the
+Company s Form S-1 registration statement, the Company was entitled to compensation as follows: 
+
+shares of common stock having a fair value of /share), each based on a recent cash price of the related party, 
+
+A one time payment of 
+upon completion of the Company IPO, 
+
+during the first year of the agreement, per month, with the 1st payment due 30 days after the completion of the Company s
+IPO, 
+
+during the second year of the agreement, per month, and 
+
+on each anniversary of the agreement, shares of common stock. 
+
+At
+December 31, 2022, the Company owned 
+shares after a reverse stock split adjustment of and the fair value of the investment in EZFill Holdings, Inc. was reported on the balance sheet as Investment at
+fair value - related party totaling /share).
+The Company recorded an adjustment of 
+for the twelve months ending December 31, 2022, as unrealized loss on securities. 
+
+. 
+
+The
+Company holds one investment as of December 31, 2022, and two investments as of December 31, 2021. 
+
+In
+2021, our investment in Bang Holdings Corp., was fully impaired due to the Company being delisted from OTC Pink Sheets and not having
+a liquid trading market at that time. The Company recorded an impairment expense of . 
+
+shares of common stock in Krypto Ventures, Inc. for shares of common stock in W Technologies Inc. W Tech ),
+an unrelated party in a Share Exchange Agreement. As of December 31, 2022, the investment has a fair value of , due to the stock being
+illiquid, and it is recorded on our consolidated balance sheet using the equity method. During twelve months ended December 31, 2022,
+the Company had no unrealized gain or losses from this investment. On November 17, 2021, W Tech repurchased all the shares owned by the
+Company and the Company no longer owns any portion of Krypto Ventures Inc. s and W Tech s outstanding shares of common stock
+(see Note 9). 
+
+On
+January 29, 2021, the Company received ownership of Pharmacy No, 27, Ltd, a company based in Israel, as part of a Note Receivable
+from a third party (see Note 5). As of December 31, 2022, the investment has a fair value of , based upon the quoted closing trading
+price and it is recorded on our consolidated balance sheet using the equity method. During each twelve months ended December 31, 2022,
+the Company recorded of unrealized loss from this investment. 
+
+shares of common stock in Krypto Ventures, Inc. for shares of common stock in W Technologies Inc W Tech ),
+an unrelated party having a fair value of due to the stock being illiquid. As a result, Krypto Ventures, Inc was deconsolidated. The
+Company recognized a gain on deconsolidation of as follows: 
+
+Trademark 
+
+Intangible assets net 
+
+Total assets assigned to W Tech 
+
+Accounts payable and accrued expenses 
+
+Due to Related Party 
+
+Due to Lyons Capital, LLC 
+
+Note payable 
+
+Total liabilities assumed by W Tech 
+
+Total net liabilities assumed by W Tech 
+
+Gain on deconsolidation of Krypto Ventures, Inc. 
+
+,
+which consist of common shares held in one (1) investment which currently is trading on the Over-the-Counter Bulletin Board (OTCBB).
+At December 31, 2022, the Company owned 
+shares after a reverse stock split adjustment of and the fair value of the investment in EZFill Holdings, Inc. was
+reported on the balance sheet as Investment at fair value - related party totaling /share).
+Recorded an adjustment of for the twelve months ending December 31, 2022, as unrealized loss on securities. 
+
+in
+iGrow Systems Inc., iGrow Systems Inc has closed and is no longer in operations as of December 31, 2022. 
+
+and warrants and and
+ shares from convertible notes payable for the year ended December 31, 2022 and 2021, respectively, were anti-dilutive. 
+
+Fair
+Value of Financial Instruments the Company measures its financial assets and liabilities in accordance with GAAP. For certain of our
+financial instruments, including cash, accounts payable, and the short-term portion of long-term debt, the carrying amounts approximate
+fair value due to their short maturities. 
+
+We
+adopted accounting guidance for financial and non-financial assets and liabilities (ASC 820). This standard defines fair value, provides
+guidance for measuring fair value and requires certain disclosures. This standard does not require any new fair value measurements, but
+rather applies to all other accounting pronouncements that require or permit fair value measurements. This guidance does not apply to
+measurements related to share-based payments. This guidance discusses valuation techniques, such as the market approach (comparable market
+prices), the income approach (present value of future income or cash flow), and the cost approach (cost to replace the service capacity
+of an asset or replacement cost). The guidance utilizes a fair value hierarchy that prioritizes the inputs to valuation techniques used
+to measure fair value into three broad levels. The following is a brief description of those three levels: 
+
+Level 1: Observable inputs such as quoted prices (unadjusted) in active markets for identical assets or liabilities. 
+
+Level 2: Inputs other than quoted prices that are observable, either directly or indirectly. These include quoted prices for similar
+assets or liabilities in active markets and quoted prices for identical or similar assets or liabilities in markets that are not active. 
+
+Level 3: Unobservable inputs in which little or no market data exists, therefore developed using estimates and assumptions developed
+by us, which reflect those that a market participant would use. 
+
+- 
+ - 
+ 
+ Total Assets measured at fair value 
+
+- 
+ - 
+
+The
+following table presents certain assets of the Company s measured and recorded at fair value on the Company s balance sheet
+on a recurring basis and their level within the fair value hierarchy as of December 31, 2021. 
+
+Total 
+ (Level 1) 
+ (Level 2) 
+ (Level 3) 
+ 
+ Fair-value equity securities 
+
+- 
+ - 
+ 
+ Fair-value equity securities-RP 
+
+- 
+ 
+ Total Assets measured at fair value 
+
+- 
+ - 
+
+In September 31, 2021, the Company reclassified its EzFill investment of of available-for-sale securities previously reported
+as Level 3 to Level 1 assets on the fair value hierarchy because the investment is valued based on quoted market price using observable
+inputs. 
+
+The
+Company accounted for its investment in Bang Holdings, Corp as available-for-sale securities as level 3 due to unobservable inputs in
+which little or no market data exists. In 2021, the investment in Bang Holdings Corp. was fully impaired due to the Company being delisted
+from OTC Pink Sheets and not having a liquid trading market at that time. The Company recorded an impairment expense of . 
+
+and , respectively. 
+
+. 
+
+Expenditures
+for repairs and maintenance of equipment are charged to expense as incurred. Major replacements and betterments are capitalized and depreciated
+over the remaining useful lives of the related assets. 
+
+Depreciation
+expense for the year ended December 31, 2022 and 2021 totaled 0 and respectively. There were no additions during the year ended
+December 31, 2022 and 2021 respectively. 
+
+shares of common stock, par value, and shares of preferred stock, 
+par value. 
+
+Non-Controllin g
+ Interest 
+
+On
+December 28, 2017, the Company sold a non-controlling interest in its subsidiary, KryptoBank Co. for 
+ equal to 
+of the outstanding equity. On January 17, 2018, the Company sold an additional 
+in its subsidiary KryptoBank Co. for .
+On November 17, 2021, W Technologies Inc. W Tech repurchased all the shares owned by the Company and the Company no longer
+owns any portion of Krypto Ventures Inc. s and W Tech s outstanding shares of common stock. 
+
+Warrants 
+
+On
+September 30, 2016, The Company s CEO loaned the Company . In addition to paying interest at , the Company issued 
+warrants at an exercise price of per share expired on . 
+
+On
+October 3, 2019, the Company received 
+from The Sammy Farkas Foundation in exchange for a promissory note which bears 
+interest per annum and matured on or upon the Company raising 
+from outside investors, whichever occurs first. In conjunction with The Sammy Farkas Foundation agreement the Company issued
+warrants to purchase 
+shares of the Company s common stock at an exercise price of 
+per share the warrants expired on . 
+
+Volatility 
+
+Annual rate of Quarterly Dividends 
+
+Discount Rate - Bond Equivalent Yield 
+
+Granted 
+ - 
+ - 
+ 
+ Exercised 
+ - 
+ - 
+ 
+ Expired 
+ 
+ - 
+
+Balance at December 31, 2021 
+
+Granted 
+ - 
+ - 
+ 
+ Exercised 
+ - 
+ - 
+ 
+ Expired 
+ 
+ - 
+
+Balance at December 31, 2022 
+
+As
+of December 31, 2022 the warrants had intrinsic value because the exercise price was higher than that of the stock price in the available
+market. 
+
+which loan has an interest rate of 
+per annum and a maturity date of . As of December 31, 2022, this receivable is fully reserved against. For the years ended December 31, 2022 and 2021,
+the Company recorded 
+and ,
+respectively, of interest income in relation to this note. 
+
+On
+January 29, 2021, Balance Labs Inc. made a loan to Four Acquisitions Ltd., an unrelated party in the principal amount of 
+which has an interest rate of 
+per annum and a maturity date of . Additionally, in connection with the loan, the Company received a 
+interest in the recently acquired business and related assets of Four Acquisitions Ltd. Initially, this investment had a purchase
+price of ,
+which was recorded as a discount from the note which will be amortized over the life of the note. The Company recorded an allowance
+of 100 against this receivable of 
+as of December 31, 2022, plus accrued interest of . 
+
+per month through June 30, 2022. This agreement was terminated effective June 30, 2022. The following compensation was recorded within general and administrative expenses related parties on the
+statements of operations: 
+and 
+for the years ended December 31, 2022 and 2021, respectively. As of December 31, 2022 and December 31, 2021, 
+and ,
+respectively, of compensation was unpaid and was included in accounts payable related party on the consolidated balance
+sheets. 
+
+On
+April 1, 2016, the Company received 
+ from Newell Trading
+Group in exchange for a convertible debenture due April 2, 2017 bearing interest at 
+and convertible into common stock at 
+ per share unless the
+note is paid by the Company prior to the election of the holder to convert. The Company recognized a beneficial conversion feature expense
+of 
+ that has been fully
+amortized. As of December 31, 2021, accrued interest on the note is .
+On October 3, 2019, Newell Trading Group assigned its rights and interests in its 
+ convertible debenture
+to the Sammy Farkas Foundation Inc., (the Foundation ), a related party. The convertible note payable, net of debt
+discount of 
+ and 
+ as of December 31, 2022 and December 31, 2021 of and ,
+respectively was recorded under long term liability on the balan ce
+sheet. 
+
+Debt
+ discount 
+
+Convertible
+ note payable long term 
+
+The
+Foundation then entered into an agreement with the Company to extend the maturity date of the convertible debenture to in exchange
+for 
+ shares of the Company s
+stock. The shares have a fair value of 
+ which was recorded as
+a debt discount and was being amortized over the life of the extension. On November 11, 2019, The Sammy Farkas Foundation transferred
+all the rights and interests of the note to another party, 16th Avenue Associates, a non-related party company. The terms remain the same and the transfer has no
+effect on the financial statements. During the years ended December 31, 2022 and 2021, the Company amortized 
+ and ,
+respectively of debt discount. As of December 31, 2022, the remaining debt discount was . 
+
+During
+2016, 2017, and 2019 Balance Group LLC loaned an additional 
+to the Company. The notes are in default and have an accrued interest balance of . The note balance of is included in the note payable related party in current liability as of December
+31, 2022 and December 31, 2021. 
+
+On
+October 3, 2019, the Company received 
+from The Foundation in exchange for a promissory note which bears 
+interest per annum and matured on or upon the Company raising 
+from outside investors, whichever occurs first. The promissory note is currently in default, and as of December 31, 2021, accrued
+interest on the note is . The note balance of is included in the note payable related party in current liability as of December
+31, 2022 and December 31, 2021. 
+
+The promissory note comes with a warrant
+to purchase shares of the Company s stock with an exercise price of per share and expired on . The
+warrants have a relative fair value of , which was recorded as a debt discount and fully amortized. 
+
+The Foundation 
+
+Note Payable related party 
+
+On
+June 27, 2021, the Company received from
+the CEO in exchange for a convertible promissory note with a face value of which
+bears 
+interest per annum and matures on , or upon
+the Company raising from
+investors, whichever occurs first. The note balance of is included in the convertible notes payable - related party, net of
+debt discount of and , as of December 31, 2022, and December 31, 2021, respectively. The difference between the amount
+received and the face value of was
+recorded as a discount and is being amortized over the life of the note. Additionally, the note comes with a beneficial conversion
+feature of which
+was also recorded as a component of equity in 2021. As of December 31, 2022, the Company has accrued interest of and is recorded in the accrued expenses on the balance sheet. 
+
+On
+September 30, 2016, Balance Group LLC loaned 
+ as a convertible note
+payable to the Company at an interest rate of ,
+due on . In addition,
+the Company issued 
+ warrants at an exercise
+price of 
+ which expired on (See Note 9).
+ The note is currently in default and is currently recorded under convertible payable 
+related party in current liabilities in the balance sheet. The accrued interest balance of 
+ is recorded in the accrued expenses on the balance sheet as of December 31, 2022. 
+
+Note Payable from CEO 
+
+Convertible note payable- related party 
+
+On
+July 9, 2021, Krypto Ventures, Inc. formerly known as KryptoBank Co. issued an unsecured promissory note in the amount of to
+Lyons Capital LLC, a significant shareholder of Krypto Ventures, Inc. The note carries an interest rate of and is due on the earlier
+of July 8, 2022, or the date on which Krypto Ventures, Inc. raises at least . As of July 29, 2021, the Company has accrued interest
+of . The note and accrued interest were deconsolidated as part of deconsolidation of Krypto Ventures, Inc. (See Notes 3). 
+
+On
+June 29, 2021, Balance Labs Inc. made a loan to Krypto Ventures, Inc, formerly known as KryptoBank Co., a related party in the principal
+amount of which loan has an interest rate of per annum and a maturity date of . For the year ended December
+31, 2021, the Company recorded of interest income in relation to this note. 
+
+As
+of December 31, 2022 and 2021, the CEO and companies controlled by the CEO have loaned the Company a total of in
+addition to the convertible notes discussed above. The loans carry an interest rate of 
+and mature one year and one day from the date of the loan. These loans of 
+and the accrued interest on these loans of 
+are in default as of December 31, 2022. These loans of are in default and are reported under short
+-term advances from related party on the balance sheet as of December 31, 2022 and 2021. 
+
+Krypto
+Ventures Inc, formerly known as KryptoBank Co., as part of its initial funding, borrowed an additional from its shareholders
+during the years ended December 31, 2018 and 2017. The notes have a stated interest rate of compounded annually and are due on demand.
+The balance outstanding as of July 29, 2021, is . The Company has accrued interest of as of July 29, 2021. The notes
+and accrued interest were deconsolidated as part of deconsolidation of Krypto Ventures, Inc. (See Notes 3). 
+
+On
+July 27, 2016, the Company signed a sublease (the Master Lease with an entity partially owned by a related party to sub-lease
+approximately square feet located at 1691 Michigan Ave, Miami Beach, Florida 33139, beginning August 1, 2016 and ending December
+31, 2019 at a monthly base rental of per month until July 31, 2017, per month from August 1, 2017 to July 31, 2018, and
+ from August 1, 2018 to the sublease termination date. In addition to base rent, the Company will have to pay of the CAM charges
+as additional rent. On or about January 15, 2017, the Company was made aware that the Master Lease for the office space was in default.
+Consequently, the Company ceased payments. On or about March 31, 2017, the Company was served with an eviction notice as the Master Lease
+was still in default. The Company has partially settled the claim under the sublease and has accrued on its books to cover any
+further claims. Beginning October 2020, the Company is leasing a virtual office with a new landlord: Spaces, paying only per month.
+The lease was terminated on October 2021. Rent expense for the years ended December 31, 2022 and 2021, was and , respectively. 
+
+On
+December 2, 2020, the Company received shares from EZFill Holdings Inc., a related party, in exchange for consulting services
+provided in the past and as part of an agreement between both parties. The shares are valued at each. The shares received are not
+publicly traded. Each share valued at each based on a recent cash price of the related party. The investment is reflected on the consolidated
+balance sheet as an investment in a related party. On September 14, 2021, the S-1 Registration Statement for EZFill Holdings, Inc. was
+declared effective by Securities and Exchange Commission. This investment is recorded at fair value as available-for-sale securities
+as of December 31, 2021, and using cost method as of December 31, 2020, with the gains and losses being recorded through other income
+(expense) on the consolidated income statement for the year then ended. In addition, the Company received an additional shares per year of the service agreement of EzFill common
+stock. 
+
+was recorded through other expense on the income statement for the
+period then ended. 
+
+Consultin g
+ Fees 
+
+The
+Company paid its CEO 
+per month as compensation on a month-to-month basis however this terminated in the second quarter of 2022. It was recorded in general and administrative expenses-related parties on
+the consolidated statement of operations. 
+
+to Lyons Capital LLC, a significant shareholder of Krypto Ventures, Inc. The note carries an interest rate of 
+and is due on the earlier of July 8, 2022 or the date on which Krypto Ventures, Inc. raises at least .
+As of July 29, 2021, the Company has accrued interest of .
+The note and accrued interest were deconsolidated as part of deconsolidation of Krypto Ventures, Inc. (See Notes 3). The loan balance is recorded as current convertible note payable on the
+balance sheet as of December 31, 2022 and December 31, 2021. 
+
+Krypto
+Ventures Inc, formerly known as KryptoBank Co., as part of its initial funding, borrowed an additional from its shareholders
+during the years ended December 31, 2018 and 2017. The notes have a stated interest rate of compounded annually and are due on demand.
+The balance outstanding as of July 29, 2021 is . The Company has accrued interest of as of July 29, 2021. The notes and
+accrued interest were deconsolidated as part of deconsolidation of Krypto Ventures, Inc. (See Notes 3). 
+
+On
+May 7, 2020, the Company (the Borrower received a note payable in the amount of from Wells Fargo Bank (the Lender as part of the Paycheck Protection Program under the CARES Act. The interest rate is . Payments shall be due and payable monthly in
+the amount of commencing on September 2021. The note shall mature on , at which time all unpaid principal, accrued
+interest, and any other unpaid amounts shall be due and payable in full. Unless otherwise agreed, all sums received from the borrower
+may be applied to interest, fees, principal, or any other amounts due to Lender in any order at Lender s sole discretion. The Borrower
+may apply for the loan to be forgiven in whole or in part. As of December 31, 2021, the accrued interest on the note is . Furthermore,
+the Company applied for Loan Forgiveness. On August 13, 2021, the Company received notification that the loan along with accrued interest
+were fully forgiven. 
+
+Convertible
+Notes Payable 
+
+On
+April 1, 2016, the Company received 
+from Newell Trading Group in exchange for a convertible debenture due bearing interest at 
+and convertible into common stock at 
+per share unless the note is paid by the Company prior to the election of the holder to convert. The Company recognized a beneficial
+conversion feature expense of 
+that has been fully amortized. As of December 31, 2021, accrued interest on the note is .
+On October 3, 2019, Newell Trading Group assigned its rights and interests in its 
+convertible debenture to the Sammy Farkas Foundation Inc., (the Foundation ), a related party. The Foundation then
+entered into an agreement with the Company to extend the maturity date of the convertible debenture to October 10, 2024 in exchange
+for 
+shares of the Company s stock. The shares have a fair value of 
+which was recorded as a debt discount and amortized over the life of the extension. On November 11, 2019, The Sammy Farkas
+Foundation transferred all the rights and interests of the note to another party, 16th Avenue Associates. The terms remain the same
+and the transfer has no effect on the financial statements. During the years ended December 31, 2022 and 2021, the Company amortized
+ 
+and ,
+respectively of debt discount. The convertible note payable, net of debt discount of and as of December 31, 2022 and
+December 31, 2021 was and , respectively, and was recorded under long term liability on the balance sheet. 
+
+Debt discount 
+
+Convertible note payable long term 
+
+, effective
+as of January 1, 2018; limitation of the tax deduction for interest expense; limitation of the deduction for net operating losses to
+80 of current year taxable income and elimination of net operating loss carrybacks, in each case, for losses arising in taxable years
+beginning after December 31, 2017 (though any such tax losses may be carried forward indefinitely); modifying or repealing many business
+deductions and credits, including reducing the business tax credit for certain clinical testing expenses incurred in the testing of certain
+drugs for rare diseases or conditions generally referred to as orphan drugs and repeal of the federal Alternative Minimum
+Tax AMT ). 
+
+Unrealized gains 
+
+Impairment losses on investment 
+
+Net operating loss carryforward 
+
+Total gross deferred tax assets 
+
+Net deferred tax assets 
+ - 
+ - 
+
+State Effect on tax rate, net of federal benefit 
+
+Permanent differences 
+
+Change in valuation allowance 
+
+Income tax provision (benefit) 
+ - 
+ - 
+
+of federal and state net operating loss carryovers NOLs ). From this amount, expire after 20 years, and can be carried back 2 years, according to the old tax law, while 627,000 can be carried forward indefinitely and
+cannot be carried back, in accordance with the new tax rules. The valuation allowance increased by approximately for the year ended December 31, 2022, and increased by for the year ended December 31, 2021. 
+
+The
+Company, after considering all available evidence, fully reserved its deferred tax assets since it is more likely than not that such
+benefits may be realized in future periods. The Company has not yet established that it can generate taxable income. The Company will
+continue to evaluate its deferred tax assets to determine whether any changes in circumstances could affect the realization of their
+future benefit. If it is determined in future periods that portions of the Company s deferred tax assets satisfy the realization
+standards, the valuation allowance will be reduced accordingly. 
+
+F- 20 
+
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+None. 
+
+Item
+9A. Controls and Procedures. 
+
+(a)
+Evaluation of Disclosure and Control Procedures 
+
+Based
+on their evaluation as of the end of the period covered by this annual Report on Form 10-K, our Principal Executive Officer and Principal
+Financial Officer have concluded that our disclosure controls and procedures (as defined in Rules 13a-15(c) and 15d-15(e) under the Exchange
+Act) are not effective to ensure that information required to be disclosed by us in reports that we file or submit under the Exchange
+Act is recorded, processed, summarized and reported within the time periods specified in the U.S. Securities and Exchange Commission s
+rules and forms and to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange
+Act is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate
+to allow timely decisions regarding required disclosure. 
+
+(b)
+Management s Report on Internal Control over Financial Reporting 
+
+This
+Company s management is responsible for establishing and maintaining internal controls over financial reporting and disclosure
+controls. Internal Control Over Financial Reporting is a process designed by, or under the supervision of, the Company s Principal
+Executive Officer and Principal Financial Officer, or persons performing similar functions, and effected by the board of directors, management
+and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles and includes those policies and procedures
+that: 
+
+(1) 
+ Pertain
+ to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets
+ of the issuer; 
+
+(2) 
+ Provide
+ reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with
+ generally accepted accounting principles, and that receipts and expenditures of the issuer are being made only in accordance with
+ authorizations of management and directors of the registrant; and 
+
+(3) 
+ Provide
+ reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the issuer s
+ assets that could have a material effect on the financial statements. 
+
+Disclosure
+controls and procedures are designed to ensure that information required to be disclosed in reports filed under the Securities Exchange
+Act of 1934, as amended, is appropriately recorded, processed, summarized, and reported within the specified time periods. 
+
+Management
+has conducted an evaluation of the effectiveness of our internal control over financial reporting as of the end of the period covered
+by this annual Report on Form 10-K, based on the framework established in Internal Control-Integrated Framework issued by the Committee
+of Sponsoring Organizations of the Treadway Commission COSO 2013 ). 
+
+Based
+on this assessment, management concluded that as of the year covered by this annual Report on Form 10-K, it had material weaknesses in
+its internal control procedures. 
+
+17 
+
+As
+of the year covered by this annual Report on Form 10-K, we have concluded that our internal control over financial reporting was ineffective.
+The Company s assessment identified certain material weaknesses which are set forth below: 
+
+Functional
+Controls, Lack of Audit Committee and Segregation of Duties 
+
+Because
+of the Company s limited resources, there are limited controls over information processing. 
+
+The
+Company does not have an audit committee and therefore there is no independent review and independent oversight over the Company s
+financial reporting. 
+
+There
+is an inadequate segregation of duties consistent with control objectives. Our Company s management is composed of a small number
+of individuals resulting in a situation where limitations on segregation of duties exist. In order to remedy this situation, we would
+need to hire additional staff to provide greater segregation of duties. Currently, it is not feasible to hire additional staff to obtain
+optimal segregation of duties. Management will reassess this matter at end of the fiscal year to determine whether improvement in segregation
+of duty is feasible. 
+
+Accordingly,
+as the result of identifying the above material weakness we have concluded that these control deficiencies resulted in a reasonable possibility
+that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis by the
+Company s internal controls. 
+
+Management
+believes that the material weaknesses set forth above were the result of the scale of our operations and are intrinsic to our small size.
+Management believes these weaknesses did not have a material effect on our financial results and intends to take remedial actions upon
+receiving funding for the Company s business operations. 
+
+This
+annual Report on Form 10-K does not include an attestation report of our registered public accounting firm regarding internal control
+over financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant
+to temporary rules of the SEC that permit the Company to provide only management s report herein. 
+
+(c)
+Changes in Internal Control over Financial Reporting 
+
+There
+were no changes in our internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act,
+during our most recently completed fiscal year that have materially affected, or are reasonably likely to materially affect, our internal
+control over financial reporting. 
+
+Item
+9B. Other Information. 
+
+None. 
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions
+That Prevent Inspections 
+
+None. 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers and Corporate Governance. 
+
+Directors
+and Executive Officers 
+
+The
+following sets forth information about our directors and executive officers as of the date of this report: 
+
+Name 
+ 
+ Age 
+ 
+ Positions 
+ 
+ Michael
+ D. Farkas 
+ 
+ 50 
+ 
+ President,
+ Chief Executive Officer and Chairman of the Board 
+ 
+ Ari
+ Feldman 
+ 
+ 50 
+ 
+ Chief
+ Financial Officer 
+ 
+ Carmen
+ Villegas 
+ 
+ 35 
+ 
+ Secretary
+ and Director 
+ 
+ Aviv
+ Hillo 
+ 
+ 57 
+ 
+ Director 
+
+Michael
+D. Farkas, President, Chief Executive Officer and Chairman of the Board 
+
+18 
+
+Mr.
+Farkas is serving as the President, Chief Executive Officer and Chairman of the Board of the Company. 
+
+Mr.
+Farkas has served as the Chief Executive Officer and Member of the Board of Directors of Car Charging Group, Inc. since 2010. Mr. Farkas
+is the founder and manager of The Farkas Group, a privately held investment firm. Mr. Farkas also currently holds the position of Chairman
+and Chief Executive Officer of the Atlas Group, where its subsidiary, Atlas Capital Services, a broker-dealer, has successfully raised
+capital for a number of public and private clients until it withdrew its FINRA registration in 2007. Over the last 20 years, Mr. Farkas
+has established a track record as a principal investor across a variety of industries, including telecommunications, technology, aerospace
+and defense, agriculture, and automotive retail. 
+
+Ari
+Feldman, Chief Financial Officer 
+
+Mr
+Feldman has served as the Chief Financial Officer since May of 2022. Mr Feldman has over 20 years of financial accounting experience
+with both Private and Public Company experience. In addition, he is currently a CPA with an active license. 
+
+Carmen
+Villegas, Secretary and Director 
+
+Ms.
+Villegas has served as Secretary and Director of Balance Labs, Inc. since January 15, 2015. Ms. Villegas is currently the Executive Assistant
+at Blink Charging, Inc., a publicly traded company and the Farkas Group, Inc. At both companies, Ms. Villegas assists the President and
+CEO in matters such as meeting schedules, appointments, conferences and travel arrangements. Ms. Villegas also assists the accounting
+department with file/database maintenance and record-keeping. Ms. Villegas also helps the executives receive and distribute correspondence
+to the appropriate department and personnel, as well as other administrative tasks in support of the companies daily operations. 
+
+Ms.
+Villegas holds an Associate in Arts Degree in Business Administration Accounting and is currently pursuing a Bachelor s Degree
+in Business Administration with a minor in Psychology at Florida International University. 
+
+Aviv
+Hillo, Director 
+
+Mr.
+Hillo is co-founder of Ariel Photonics Assembly Ltd., a leading laser-based products and applications company in Israel, and has been
+its Deputy CEO, Legal Advisor and Business Advisor since August 2007. Mr. Hillo has been a partner at Schechter Hillo Law Offices (previously
+Yerushalmi Hillo Law Offices) since 2004, and is the CEO and founder of Edison Capital Ltd. since 2013. He is a skilled international
+business lawyer with a 20-year established track record both in Israel and New York, handling cross-border transactions and litigations.
+Mr. Hillo is also an experienced executive and investor across a variety of industries including defense technology, real estate, biotechnology,
+mobile apps, and internet marketplace platforms. During the years of 1998 to 2003, he practiced law at Yerushalmi Associate as
+an associate and partner in New York City. He served as the CEO and director of Ensave 2000, LLC, and as legal advisor and director in
+Mobile Homes International, LLC. Mr. Hillo was a shareholder and legal advisor for LSL Biotechnologies, Inc. He served on the board of
+ Misdar Dorshei Tov , an Israeli non-for profit organization between 1994 and 1996. Mr. Hillo graduated from the Tel Aviv
+School of Law in 1993, and received his Master s Degree (cum laude) in Banking, Corporate and Finance Law at Fordham School of
+Law in 2001. He was admitted to the Israeli Bar in 1994 and to the New York State Bar in 1999. Mr. Hillo served in an elite Israeli military
+unit as a commander and officer (Major), and was honorably released in 2006. 
+
+Term
+of Office 
+
+Our
+directors are appointed for a one-year term to hold office until the next annual general meeting of our shareholders or until removed
+from office in accordance with our bylaws. Our officers are appointed by our board of directors and hold office until removed by the
+board. 
+
+We
+currently do not have employment agreements with our executive officers and directors. 
+
+Family
+Relationships 
+
+There
+is no family relationship among any of our directors or executive officers. 
+
+19 
+
+Director
+Independence 
+
+For
+purposes of determining director independence, we have applied the definitions set out in NASDAQ Rule 4200(a)(15). Under NASDAQ Rule
+4200(a)(15), a director is not considered to be independent if he or she is also an executive officer or employee of the corporation
+or has been, at any time during the past three years, employed by the company. Accordingly, we do not have any independent director as
+of the date of this 10-K. 
+
+Involvement
+in Certain Legal Proceedings 
+
+During
+the past ten years, none of our directors or executive officers has been: 
+
+the
+ subject of any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer
+ either at the time of the bankruptcy or within two years prior to that time; 
+
+convicted
+ in a criminal proceeding or is subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+
+subject
+ to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or any
+ Federal or State authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any
+ type of business, securities or banking activities; 
+
+found
+ by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have violated
+ a federal or state securities or commodities law; 
+
+the
+ subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently
+ reversed, suspended or vacated, relating to an alleged violation of (a) any Federal or State securities or commodities law or regulation;
+ (b) any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or
+ permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order,
+ or removal or prohibition order; or (c) any law or regulation prohibiting mail or wire fraud or fraud in connection with any business
+ entity; or 
+
+the
+ subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization
+ (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29)
+ of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary
+ authority over its members or persons associated with a member. 
+
+Code
+of Ethics 
+
+The
+Company has not adopted a Code of Ethics applicable to its Principal Executive Officer and Principal Financial Officer. 
+
+Committees
+of the Board of Directors 
+
+The
+Company has not established any committees of the board. 
+
+Board
+of Directors Meetings and Attendance 
+
+The
+Board of Directors held 2 meeting in 2022. We have no formal policy regarding director attendance at the annual meeting of stockholders. 
+
+Compliance
+with Section 16(A) of the Exchange Act 
+
+Because
+we do not have a class of equity securities registered pursuant to Section 12 of the Exchange Act, we are not subject to Section. 
+
+20 
+
+Item
+11. Executive Compensation. 
+
+The
+following summary compensation table sets forth all compensation awarded to, earned by, or paid to the named executive officers paid
+by us during the years ended December 31, 2022 and December 31, 2021. 
+
+SUMMARY
+COMPENSATION TABLE 
+
+Non- 
+
+Equity Incentive 
+ Non- Qualified 
+ All 
+
+Name and 
+
+Stock 
+ Option 
+ Plan 
+ Deferred 
+ Other 
+
+Principal 
+ 
+ Salary 
+ Bonus 
+ Awards 
+ Awards 
+ Compensation 
+ Compensation 
+ Compensation 
+ Totals 
+ 
+ Position 
+ Year 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ Earnings ) 
+ ) 
+ ) 
+ 
+ Michael D. Farkas 
+ 2022 
+ 60,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 60,000 
+ 
+ President and CEO (1) 
+ 2021 
+ 120,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 120,000 
+ 
+ Ari Feldman 
+ 2022 
+ 21,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 21,000 
+
+(1) 
+ Mr. Farkas resigned as Chief Executive Officer on January 15, 2015 and
+reappointed as President, Chief Executive Officer and Chief Financial Officer on September 11, 2015. On July 18, 2022, Mr. Farkas resigned
+as Chief Financial Officer. Pursuant to certain consulting agreement between Mr. Farkas and the Company, Mr. Farkas is entitled to a monthly
+consulting service fee of 10,000 per month thru June 30, 2022. As of the date hereof, Mr. Farkas has not received any payment for his
+services provided and such amounts have been accrued. 
+
+Option
+Grants Table 
+
+There
+were no individual grants of stock options to purchase our common stock made to the executive officers named in the Summary Compensation
+Table for the years ended December 31, 2022 and December 31, 2021. 
+
+Long-Term
+Incentive Plan Awards Table 
+
+None. 
+
+Employment
+Agreements and Consulting Agreements 
+
+Pursuant
+to certain consulting agreement between Mr. Farkas and the Company, Mr. Farkas is entitled to a monthly consulting service fee of
+ 10,000 per month thru June 30, 2022. As of the date hereof, Mr. Farkas has not received any payment for his services provided and
+such amounts have been accrued. 
+
+Other
+than the above, we currently we do not have an employment agreement in place with our officers and directors. 
+
+No
+retirement, pension, profit sharing, insurance programs, long-term incentive plans or other similar programs have been adopted by us
+for the benefit of our employees. We may however implement such long-term equity incentive plans in the future. 
+
+For
+the year ended December 31, 2022, no member of the Board of Directors was paid any compensation for serving on the board. 
+
+21 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth certain information as of the date hereof with respect to the beneficial ownership of our ordinary shares,
+the sole outstanding class of our voting securities, by (i) each stockholder known to be the beneficial owner of 5 or more of the outstanding ordinary shares of the Company, (ii) each executive officer and director,
+and (iii) all executive officers and directors as a group. Beneficial ownership is determined in accordance with the rules of the Securities
+and Exchange Commission and generally includes voting or investment power with respect to securities. Ordinary shares subject to options,
+warrants or convertible securities exercisable or convertible within 60 days as of the date hereof are deemed outstanding for computing
+the percentage of the person or entity holding such options, warrants or convertible securities but are not deemed outstanding for computing
+the percentage of any other person. Unless otherwise indicated, the address of all listed stockholders is c/o Balance Labs, Inc., 407
+Lincoln Road, Suite 701, Miami Beach, FL 33139. 
+
+Name 
+ Number of Shares Beneficially Owned (3)(4) 
+ Percent of Class (1) 
+
+Michael D. Farkas (2) 
+ 12,987,415 
+ 59.9 
+
+Carmen Villegas 
+ 150,000 
+
+Aviv Hillo 
+ - 
+ 0 
+
+All Executive Officers and Directors as a group (3 individuals) 
+ 13,137,415 
+ 60.6 
+
+5 or Greater Shareholders 
+
+Balance Holdings LLC (2) 
+ 11,888,889 
+ 54.99 
+
+Shilo Holding Group LLC (2) 
+ 1,098,526 
+ 5.08 
+
+The Sammy Farkas Foundation 
+ 5,614,000 
+ 25.9 
+
+(1) 
+ Based on 21,674,000 shares of common stock outstanding as of March 31, 2023. 
+ 
+ (2) 
+ Michael D. Farkas holds 11,888,889, 1,400 and 1,098,526 shares of common stock through Balance Holdings, LLC, Shilo Security Solutions, Inc, and Shilo Holding Group LLC, respectively. 
+ 
+ (3) 
+ Beneficial ownership is determined in accordance with Rule 13D-3(a) of the Exchange Act and generally includes voting or investment power with respect to securities. 
+ 
+ (4) 
+ The percentages in the table have been calculated on the basis of treating as outstanding for a particular person, all shares of our common stock outstanding on that date and all shares of our common stock issuable to that holder in the event of exercise of outstanding options, warrants, rights or conversion privileges owned by that person at that date which are exercisable within 60 days of that date. Except as otherwise indicated, the persons listed below have sole voting and investment power with respect to all shares of our common stock owned by them, except to the extent that power may be shared with a spouse. 
+
+Less
+than 1 
+
+Item
+13. Certain Relationships and Related Transactions, and Director Independence. 
+
+Except
+as set forth in our discussion below none of our directors, director nominees or executive officers has been involved in any transactions
+with us or any of our directors, executive officers, affiliates or associates which are required to be disclosed pursuant to the rules
+and regulations of the SEC. 
+
+The
+Company s CEO earned 10,000 per month. The following compensation was recorded within general and administrative expenses 
+related parties on the statements of operations: 60,000 and 120,000 for the years ended December 31, 2022 and 2021, respectively.
+As of December 31, 2022, 180,000 of compensation was unpaid and was included in accounts payable related parties on the balance
+sheet. 
+
+On
+December 31, 2016, the CEO loaned 120,000 as a convertible note payable to the Company at an interest rate of 10 , due on October 1,
+2017. In addition, the Company issued 600,000 warrants at an execution price of 1.00 which expired on October 1, 2019. The note is currently
+in default and has an accrued interest balance of 75,058. See Note 8. 
+
+22 
+
+During
+2016, 2017, and 2019, Balance Group loaned an additional 66,850 at an interest rate of 8 . The notes are currently in default and have
+an accrued interest balance of 31,777. 
+
+On
+June 27, 2021, the Company received 50,000 from the CEO in exchange for a convertible promissory note with a face value of 53,192 which
+bears 12 interest per annum and matures on June 27, 2022 or upon the Company raising 250,000 from investors, whichever occurs first.
+The difference between the amount received and the face value of 3,192 was recorded as a discount and is being amortized over the life
+of the note. Additionally, the note comes with a beneficial conversion feature of 3,799 which was also recorded as a discount and is
+being amortized over the life of the note. As of December 31, 2021 the Company has accrued interest of 9,636. 
+
+As of December 31, 2022, the CEO and companies controlled
+by the CEO have loaned the Company a total of 1,726,750 in addition to the convertible note discussed above. The loans carry an interest
+rate of 8 and mature one year and one day from the date of the loan. The Company accrued interest of 488,749 on the loans and these
+loans are in default as of December 31, 2022. 
+
+On
+July 27, 2016, the Company signed a sublease (the Master Lease with an entity partially owned by a related party to sub-lease
+approximately 2200 square feet located at 1691 Michigan Ave, Miami Beach, Florida 33139, beginning August 1, 2016 and ending December
+31, 2019 at a monthly base rental of 7,741 per month until July 31, 2017, 7,973 per month from August 1, 2017 to July 31, 2018, and
+ 8,212 from August 1, 2018 to the sublease termination date. In addition to base rent, the Company will have to pay 50 of the CAM charges
+as additional rent. On or about January 15, 2017, the Company was made aware that the Master Lease for the office space was in default.
+Consequently, the Company ceased payments. On or about March 31, 2017, the Company was served with an eviction notice as the Master Lease
+was still in default. The Company has partially settled the claim under the sublease and has 16,725 accrued on its books to cover any
+further claims. 
+
+On
+April 1, 2016, the Company received 500,000 from Newell Trading Group in exchange for a convertible debenture due April 2, 2017 bearing
+interest at 10 and convertible into common stock at .25 per share unless the note is paid by the Company prior to the election of the
+holder to convert. The Company recognized a beneficial conversion feature expense of 500,000 that has been fully amortized. As of December
+31, 2022, accrued interest on the note is 337,671. On October 3, 2019, Newell Trading Group assigned its rights and interests in its 500,000
+convertible debenture to the Sammy Farkas Foundation Inc., (the Foundation ), a related party. The Foundation then entered
+into an agreement with the Company to extend the maturity date of the convertible debenture to October 10, 2024 in exchange for 54,000
+shares of the Company s stock. The shares have a fair value of 56,700 which was recorded as a debt discount and amortized over
+the life of the extension. On November 11, 2019, The Sammy Farkas Foundation transferred all the rights and interests of the note to
+another party, 16th Avenue Associates. The terms remain the same and the transfer has no effect on the financial statements. 
+
+On
+October 3, 2019, the Company received 40,000 from The Foundation in exchange for a promissory note which bears 12 interest per annum
+and matured on October 10, 2020 or upon the Company raising 500,000 from outside investors, whichever occurs first. The promissory note
+comes with a warrant to purchase 40,000 shares of the Company s stock with an exercise price of 1.00 per share and expires on
+October 10, 2022. The promissory note has accrued interest of 18,437 as of December 31, 2022. The warrants have a relative fair value
+of 8,283, which was recorded as a debt discount and amortized over the life of the note. As of December 31, 2022, the note is in default
+and debt discount is fully amortized. 
+
+On
+November 18, 2020, the Company executed a two (2) year, third-party consulting agreement for various corporate services. In connection
+with this agreement, and with the effectiveness of the Company s Form S-1 registration statement, the Company was entitled to compensation
+as follows: 
+
+1,000,000 shares of common stock for past services provided through the effective date of consulting agreement, 
+
+200,000, upon completion of IP which was completed on September 14, 2021, 
+
+23 
+
+during the first year of the agreement, 25,000 per month, with the 1 st payment due 30 days after the completion of the Company s
+IPO, 
+
+during the second year of the agreement, 22,500 per month; and 
+
+on each anniversary of the agreement, 500,000 shares of common stock. 
+
+All of the Company s revenues were earned from
+EZFill Holdings, Inc, a related party, totaling 270,000 and 624,590 for the years ended December 31, 2022 and 2021, respectively. 
+
+Michael Farkas, the Company s Chief Executive
+Officer, beneficially owns approximately 26.1 of the outstanding common stock of EZFill Holdings Inc. 
+
+Item
+14. Principal Accountant Fees and Services. 
+
+The
+following table presents for each of the last two fiscal years the aggregate fees billed in connection with the audits of our consolidated
+financial statements and other professional services rendered by our independent registered public accounting firm, Assurance Dimensions
+for the fiscal year 2022 and Liggett Webb, PA for the fiscal year ended 2021. 
+
+2022 
+ 2021 
+
+Audit Fees (1) 
+ 15,000 
+ 38,129 
+ 
+ Audit-Related Fees (2) 
+
+Tax Fees (3) 
+
+All Other Fees (4) 
+
+Total Accounting fees and Services 
+ 15,000 
+ 38,129 
+
+1) 
+ Audit
+ Fees. These are fees for professional services for the audit of our annual consolidated financial statements, and for the review
+ of the consolidated financial statements included in our filings on Form 10-K and Form 10-Q, and for services that are normally provided
+ in connection with statutory and regulatory filings or engagements. 
+ 
+ 2) 
+ Audit-Related
+ Fees. These are fees for assurance and related services by the principal accountant that are reasonably related to the performance
+ of the audit or review of the registrant s consolidated financial statements. 
+ 
+ 3) 
+ Tax
+ Fees. These are fees for professional services rendered by the principal accountant with respect to tax compliance, tax advice and
+ tax planning. 
+ 
+ 4) 
+ All
+ Other Fees. These are fees for products and services provided by the principal accountant, other than the services reported above. 
+
+24 
+
+PART
+IV 
+
+Item
+15. Exhibits, Financial Statement Schedules. 
+
+Exhibit 
+ No. 
+ 
+ Title 
+ 
+ 3.1 
+ 
+ Certificate of Incorporation (1) 
+ 
+ 3.2 
+ 
+ By-laws (1) 
+ 
+ 4.2 
+ 
+ 10 Convertible Debenture by and between the Company and Newel dated April 1, 2016 (3) 
+ 
+ 4.3 
+ 
+ Warrant to Purchase Common Stock by and between the Company and Newel dated April 1, 2016 (3) 
+ 
+ 4.4 
+ 
+ Description of Securities (6) 
+ 
+ 4.5 
+ 
+ Convertible Promissory Note dated June 28, 2021 (5) 
+ 
+ 10.1 
+ 
+ Consulting Agreement between Michael Farkas and the Company dated February 6, 2015 (1) 
+ 
+ 10.2 
+ 
+ Service Agreement between Bang Holdings Corp. and the Company dated August 22, 2014 (1) 
+ 
+ 10.3 
+ 
+ Form of Securities Purchase Agreement dated September 17, 2015, by and between Balance Labs, Inc. and certain investors (2) 
+ 
+ 10.4 
+ 
+ Investment Agreement by and between the Company and Newel dated April 1, 2016 (3) 
+ 
+ 10.5 
+ 
+ Registration Rights Agreement by and between the Company and Newel dated April 1, 2016 (3) 
+ 
+ 10.6 
+ 
+ Promissory Note between Four Acquisitions Tech LTD and Balance Labs, Inc. dated September 30, 2021 (6) 
+ 
+ 10.7 
+ 
+ Promissory Note between Four Acquisitions Tech Ltd. and Balance Labs, Inc. dated January 29, 2021 (6) 
+ 
+ 10.8 
+ 
+ Form of Promissory note (6) 
+ 
+ 21.1 
+ 
+ Subsidiaries (4) 
+ 
+ 31.1 
+ 
+ Certification of principal executive officer pursuant to Section 3.02 of the Sarbanes-Oxley Act of 2002 
+ 
+ 31.2 
+ 
+ Certification of principal financial officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 
+ 
+ Certification of principal executive officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.2 
+ 
+ Certification of principal financial officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ Inline
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+Filed
+ herewith 
+ 
+ (1) 
+ Incorporated
+ by reference to the Registration Statement on Form S-1 filed with the SEC on March 24, 2015. 
+ 
+ (2) 
+ Incorporated
+ by reference to the Quarterly Report on Form 10-Q filed with the SEC on November 16, 2015. 
+ 
+ (3) 
+ Incorporated
+ by reference to the Current Report on Form 8-K filed with the SEC on April 8, 2016. 
+ 
+ (4) 
+ Incorporated
+ by reference to the Annual Report on Form 10-K filed with the SEC on Mary 28, 2020. 
+ 
+ (5) 
+ Incorporated
+ by reference to the Quarterly Report on Form 10-Q filed with the SEC on November 19, 2021. 
+ 
+ (6)
+ 
+ Incorporated
+ by reference to the Annual Report on Form 10-K filed with the SEC on March 31, 2022. 
+
+Item 16. Form 10-K Summary. 
+
+Not applicable. 
+
+25 
+
+SIGNATURES 
+
+Pursuant
+to the requirement of Section 13 or 15(d) of the Securities Exchange Act, the registrant caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized on the 17 th of April, 2023. 
+
+BALANCE
+ LABS, INC. 
+
+By: 
+ /s/
+Michael
+ D. Farkas 
+
+Michael
+ D. Farkas 
+
+President,
+ Chief Executive Officer and Chairman of the Board 
+
+(Principal
+ Executive Officer) 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+Michael
+ D. Farkas 
+ 
+ President,
+ Chief Executive Officer 
+ 
+ April 17, 2023 
+ 
+ Michael
+ D. Farkas 
+ 
+ and
+ Chairman of the Board 
+
+(Principal
+ Executive Officer and Principal Financial Officer) 
+
+/s/
+Ari Feldman 
+ 
+ Chief
+ Financial Officer 
+ 
+ April 17, 2023 
+ 
+ Ari Feldman 
+ 
+ (Principal
+Financial Officer) 
+
+/s/
+Carmen
+ Villegas 
+ 
+ Secretary
+ and Director 
+ 
+ April 17, 2023 
+ 
+ Carmen
+ Villegas 
+
+/s/ Aviv
+ Hillo 
+ 
+ Director 
+ 
+ April 17, 2023 
+ 
+ Aviv
+ Hillo 
+
+26 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION 
+
+I,
+Michael Farkas, certify that: 
+
+1. 
+ I
+ have reviewed this annual report on Form 10-K of Balance Labs, Inc. for the year ended December 31, 2022; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this interim report, fairly present in all
+ material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+ in this report; 
+
+4. 
+ The
+ registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; 
+
+d) 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+ control over financial reporting; 
+
+5. 
+ The
+ registrant s other certifying officer and I have disclosed, based on our most recent evaluation, to the registrant s
+ auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function): 
+
+a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal controls over financial reporting. 
+
+April 17, 2023 
+ /s/
+ Michael Farkas 
+
+Michael
+ Farkas 
+
+President,
+ Chief Executive Officer and Chairman of the Board 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+EXHIBIT
+31.2 
+
+CERTIFICATION 
+
+I,
+Ari Feldman, certify that: 
+
+1. 
+ I
+ have reviewed this annual report on Form 10-K of Balance Labs, Inc. for the year ended December 31, 2022; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this interim report, fairly present in all
+ material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+ in this report; 
+
+4. 
+ The
+ registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; 
+
+d) 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+ control over financial reporting; 
+
+5. 
+ The
+ registrant s other certifying officer and I have disclosed, based on our most recent evaluation, to the registrant s
+ auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function): 
+
+a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal controls over financial reporting. 
+
+April 17, 2023 
+ /s/ Ari
+ Feldman 
+
+Ari
+ Feldman 
+
+Chief
+ Financial Officer 
+ (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Balance Labs, Inc. (the Company on Form 10-K for the fiscal year ended December 31,
+2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Michael D. Farkas, President
+and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities and Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+A
+signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company
+and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+April 17, 2023 
+ /s/
+ Michael D. Farkas 
+
+Michael
+ D. Farkas 
+
+President,
+ Chief Executive Officer 
+
+(Principal
+ Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+EXHIBIT
+32.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Balance Labs, Inc. (the Company on Form 10-K for the fiscal year ended December
+31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Ari Feldman, Chief Financial
+Officer of the Company, certify, pursuant to 18 U.S.C. section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities and Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+A
+signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company
+and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+April 17, 2023 
+ /s/
+ Ari Feldman 
+
+Ari
+ Feldman 
+
+Chief
+ Financial Officer 
+
+(Principal
+ Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ blnc-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ blnc-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ blnc-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ blnc-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

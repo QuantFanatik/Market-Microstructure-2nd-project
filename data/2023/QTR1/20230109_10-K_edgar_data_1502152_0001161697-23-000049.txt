@@ -1,0 +1,3161 @@
+<Header>
+<FileStats>
+    <FileName>20230109_10-K_edgar_data_1502152_0001161697-23-000049.txt</FileName>
+    <GrossFileSize>3886492</GrossFileSize>
+    <NetFileSize>127451</NetFileSize>
+    <NonText_DocumentType_Chars>792724</NonText_DocumentType_Chars>
+    <HTML_Chars>865973</HTML_Chars>
+    <XBRL_Chars>956195</XBRL_Chars>
+    <XML_Chars>1057901</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001161697-23-000049.hdr.sgml : 20230109
+<ACCEPTANCE-DATETIME>20230109134657
+ACCESSION NUMBER:		0001161697-23-000049
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		54
+CONFORMED PERIOD OF REPORT:	20220930
+FILED AS OF DATE:		20230109
+DATE AS OF CHANGE:		20230109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GlobeStar Therapeutics Corp
+		CENTRAL INDEX KEY:			0001502152
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				273480481
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55072
+		FILM NUMBER:		23517578
+
+	BUSINESS ADDRESS:	
+		STREET 1:		719 JADWIN AVENUE
+		CITY:			RICHLAND
+		STATE:			WA
+		ZIP:			99352
+		BUSINESS PHONE:		509-531-1671
+
+	MAIL ADDRESS:	
+		STREET 1:		719 JADWIN AVENUE
+		CITY:			RICHLAND
+		STATE:			WA
+		ZIP:			99352
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AngioSoma, Inc.
+		DATE OF NAME CHANGE:	20160622
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	First Titan Corp.
+		DATE OF NAME CHANGE:	20100927
+
+</SEC-Header>
+</Header>
+
+ 0001161697-23-000049.txt : 20230109
+
+10-K
+ 1
+ form_10-k.htm
+ FORM 10-K ANNUAL REPORT FOR 09-30-2022
+
+UNITED
+STATES 
+
+ SECURITY
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+D.C. 20549 
+
+FORM
+
+(MARK
+ONE) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended 
+
+or 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from _________ to _________ 
+
+Commission
+File Number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State or other jurisdiction
+ of Incorporation or organization) 
+ 
+ (I.R.S. Employer
+ Identification Number) 
+
+,
+ , 
+
+(Address of principal
+ executive offices) 
+ 
+ (Zip code) 
+
+Registrant s
+telephone number, including area code: - 
+
+Securities
+registered pursuant to Section 12(g) of the Act: 
+
+Title of Each
+ Class 
+ 
+ Name of Each Exchange
+ on which Registered 
+
+OTC Markets 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit such files). 
+
+No 
+
+Indicate
+by check mark if disclosures of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not
+contained herein, and will not be contained, to the best of the registrant s knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+Yes
+ No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+
+(Do not check is smaller reporting
+ company) 
+ Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes
+
+The
+Aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at
+which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of
+the registrant s most recently completed second fiscal quarter, March 31, 2022 was . 
+
+There
+were shares of the Registrant s common stock outstanding as of January 3, 2023. 
+
+- 2 - 
+
+GLOBESTAR
+THERAPEUTICS CORPORATION. 
+
+TABLE
+OF CONTENTS 
+
+Part I 
+ 5 
+ 
+ Item 1. Business 
+ 5 
+ 
+ Item 1A. Risk Factors 
+ 6 
+ 
+ Item 1B. Unresolved Staff Comments 
+ 10 
+ 
+ Item 2. Properties 
+ 10 
+ 
+ Item 3. Legal Proceedings 
+ 10 
+ 
+ Item 4. Mine Safety Disclosures 
+ 10 
+
+Part II 
+ 11 
+ 
+ Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 11 
+ 
+ Item 6. Selected Financial Data 
+ 14 
+ 
+ Item 7. Management s Discussion and Analysis of Financial Condition and Results of operations 
+ 15 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 17 
+ 
+ Item 8. Financial Statements and Supplementary Data 
+ 17 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ 18 
+ 
+ Consolidated Balance Sheets 
+ 20 
+ 
+ Consolidated Statements of Operations 
+ 21 
+ 
+ Consolidated Statements of Stockholders Deficit 
+ 22 
+ 
+ Consolidated Statements of Cash Flows 
+ 23 
+ 
+ Notes to the Consolidated Financial Statements 
+ 24 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 36 
+ 
+ Item 9A. Controls and Procedures 
+ 36 
+ 
+ Item 9B. Other Information 
+ 37 
+
+Part III 
+ 38 
+ 
+ Item 10. Directors, Executive Officers and Corporate Governance 
+ 38 
+ 
+ Item 11. Executive Compensation 
+ 40 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 41 
+ 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 42 
+ 
+ Item 14. Principal Accounting Fees and Services 
+ 42 
+
+Part IV 
+ 43 
+ 
+ Item 15. Exhibits, Financial Statement Schedules 
+ 43 
+
+Signatures 
+ 44 
+
+- 3 - 
+
+Table of Contents 
+
+CAUTIONARY
+STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+
+Certain
+statements in this report contain or may contain forward-looking statements within the meaning of Section 27A of the Securities
+Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These statements, identified by words such as plan ,
+ anticipate , believe , estimate , should , expect and similar
+expressions include our expectations and objectives regarding our future financial position, operating results and business strategy.
+These statements are subject to known and unknown risks, uncertainties and other factors, which may cause actual results, performance,
+or achievements to be materially different from any future results, performance or achievements expressed or implied by such forward-looking
+statements. These forward-looking statements were based on various factors and were derived utilizing numerous assumptions and
+other factors that could cause our actual results to differ materially from those in the forward-looking statements. These factors
+include, but are not limited to, our ability to secure suitable financing to continue with our existing business or change our
+business and conclude a merger, acquisition or combination with a business prospect, economic, political and market conditions
+and fluctuations, government and industry regulation, interest rate risk, U.S. and global competition, and other factors. Most
+of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk
+described in connection with any forward-looking statements that may be made herein. Readers are cautioned not to place undue
+reliance on these forward-looking statements, which speak only as of the date of this report. Readers should carefully review
+this report in its entirety, including but not limited to our financial statements and the notes thereto and the risks described
+in our Annual Report on Form 10-K for the fiscal year ended September 30, 2019. We advise you to carefully review the reports
+and documents we file from time to time with the Securities and Exchange Commission (the SEC ), particularly our
+quarterly reports on Form 10-Q and our current reports on Form 8-K. Except for our ongoing obligations to disclose material information
+under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements,
+to report events or to report the occurrence of unanticipated events. 
+
+OTHER
+PERTINENT INFORMATION 
+
+When
+used in this report, the terms, we, the Company, GSTC, our, and us 
+refers to GlobeStar Therapeutics Corporation., a Wyoming corporation. 
+
+- 4 - 
+
+Table of Contents 
+
+PART
+I 
+
+ITEM
+1. BUSINESS 
+
+Overview 
+
+GlobeStar
+Therapeutics Corporation (the Company was incorporated on April 29, 2016. The Company s year-end is September
+30. On October 4, 2019, the Company filed Articles of Continuance with the Secretary of State of Wyoming to continue its business
+in the state of Wyoming. As part of these Articles of Continuance, effective October 4, 2019, the Company has no limit on the
+authorized shares of common stock that can be issued. The Company filed its Certificate of Dissolution with the Secretary of State
+of Nevada on October 21, 2019 because it is no longer a Nevada corporation. 
+
+We
+changed our name to GlobeStar Therapeutics Corporation on April 27, 2021 to better reflect our expanded platform of products that
+include breakthrough addition of treatment for Multiple Sclerosis and other neurodegenerative diseases. 
+
+GlobeStar
+Therapeutics Corporation, based in Richland Washington, is a clinical stage Pharmaceutical Company introducing a patented formulation
+of previously approved drugs for the treatment of Multiple Sclerosis. GlobeStar Therapeutics owns the exclusive global license
+from the inventors, who are based in Italy. GlobeStar Therapeutics is initiating discussions with the FDA on clinical trial design
+in preparation for FDA submission and approval pathway. 
+
+Prior
+to the Company s current business plan, the Company was a wellness company dedicated to bringing innovative, effective and
+high-quality supplement products to the medical, wellness and adult-use markets through our marketing subsidiary, SomaCeuticals TM 
+
+Professional
+Team 
+
+We
+have adopted a Medical Advisory Board and appointed medical doctors and medical professionals that have extensive education and
+hands on experience with pharmaceutical and nutraceutical solution for prevention and treatment of disease. 
+
+Management s
+Plan to Attract Capital 
+
+In
+the near term, management will utilize debt or preferred stock financing to complete assembling the professional and management
+team to commence the process for clinical trials in compliance with FDA protocol. plans to continue to focus on raising the funds
+necessary to implement the Company s business plan. Management will continue to seek out debt financing to obtain the capital
+required to meet the Company s financial obligations. There is no assurance, however, that investors will continue to advance
+capital to the Company or that the new business operations will be profitable. The possibility of failure in obtaining additional
+funding and the potential inability to achieve profitability raise doubts about the Company s ability to continue as a going
+concern. 
+
+In
+the midterm, management will enhance its capital position with a public offering of equity securities to finance clinical trials
+and the necessary actions to obtain approval of worldwide marketing of our MS treatment 
+
+In
+the long term, marketing the Company s pharmaceutical and nutraceutical products will provide the necessary cash flow to
+support future growth. However, there can be no assurances that the Company s planned activities will be successful, or
+that the Company will ultimately attain profitability. The Company s long-term viability depends on its ability to obtain
+adequate sources of capital to support near term and midterm business operations, and the ability of the Company to achieve adequate
+profitability and cash flows from operations to support its operations. 
+
+Corporate
+Governance 
+
+We
+have adopted codes and committees for governance of the corporation that include: (i) audit committee charter, (ii) written acknowledgement
+of code of ethics for directors and senior officers, (iii) compensation committee charter, (iv) confidential information policy,
+iv) corporate governance guidelines, (vi) executive committee charter, and (vii) nominating committee charter. 
+
+- 5 - 
+
+Table of Contents 
+
+ITEM
+1A. RISK FACTORS 
+
+You
+should carefully consider the following risk factors discussed below and the matters addressed under Special Note Regarding
+Forward-Looking Statements, together with all the other information presented in this prospectus, including our audited
+financial statements and related notes. The risks described below are the only presently known risks facing us or that may materially
+adversely affect our business. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial
+may also materially and adversely affect our business. If any of the following risks develop into actual events, our business,
+financial condition or results of operations could be materially adversely affected and you may lose all or part of your investment. 
+
+We
+face substantial competition, which may result in others developing or commercializing products before or more successfully than
+we do. 
+
+The
+development and commercialization of our dietary supplements is highly competitive. We expect that we will face significant competition
+from other companies that develop and market dietary supplements. 
+
+Many
+of our existing and potential future competitors have significantly greater financial resources and expertise in research and
+development, manufacturing, and marketing dietary supplements than we do. 
+
+Product
+liability lawsuits against us could divert our resources, cause us to incur substantial liabilities and limit marketing of our
+supplements. 
+
+We
+face an inherent risk of product liability claims. For example, we may be sued if any product we sell allegedly causes injury
+or is found to be otherwise unsuitable. Any such product liability claims may include allegations of defects in manufacturing,
+defects in design, a failure to warn of dangers inherent in the product, negligence, strict liability or a breach of warranties.
+Claims could also be asserted under state consumer protection acts. If we cannot successfully defend ourselves against product
+liability claims, we may incur substantial liabilities or be required to limit commercialization of our products. Regardless of
+the merits or eventual outcome, liability claims may result in: 
+
+decreased demand
+ for our products or products that we may develop; 
+
+injury to our reputation
+ and significant negative media attention; 
+
+significant costs
+ to defend resulting litigation; 
+
+substantial monetary
+ awards to users; 
+
+loss of revenue; 
+
+reduced resources
+ of our management to pursue our business strategy; and 
+
+the inability to
+ commercialize our products and additional products that we may develop. 
+
+Risks
+Related to Our Financial Position and Need for Additional Capital 
+
+Implications
+of Being an Emerging Growth Company 
+
+As
+a company with less than 1.0 billion of revenue during our last fiscal year, we qualify as an emerging growth company 
+as defined in the Jumpstart Our Business Startups Act of 2012, or the JOBS Act, and we may remain an emerging growth company for
+up to five years. For so long as we remain an emerging growth company, we are permitted and intend to rely on exemptions from
+certain disclosure and other requirements that are applicable to other public companies that are not emerging growth companies.
+In particular, in this 10-K, we have provided only two years of audited consolidated financial statements and have not included
+all of the executive compensation related information that would be required if we were not an emerging growth company. Accordingly,
+the information contained herein may be different than the information you receive from other public companies in which you hold
+stock. 
+
+- 6 - 
+
+Table of Contents 
+
+We
+have a history of operating losses and expect to continue to realize losses in the near future. Currently our operations are producing
+inadequate revenue to fund all operating costs, and we rely on investments by third parties to fund our business. Even as our
+revenue grows, we may not become profitable or be able to sustain profitability. 
+
+From
+inception, we have incurred significant net losses and have not realized adequate revenue to support our operations. We expect
+to continue to incur net losses and negative cash flow from operations in the near future, and we will continue to experience
+losses for at least as long as it takes our company to generate revenue from the sale of products. The size of these losses will
+depend, in large part, on whether we develop products in a profitable manner. To date, we have had only limited operating revenues.
+There can be no assurance that we will achieve material revenues in the future. Should we achieve a level of revenues that make
+us profitable, there is no assurance that we can maintain or increase profitability levels in the future. 
+
+There
+is substantial doubt as to whether we will continue operations. If we discontinue operations, you could lose your investment. 
+
+The
+following factors raise substantial doubt regarding the ability of our business to continue as a going concern: (i) the losses
+we incurred since our inception; (ii) our lack of significant operating revenues since inception through the date of this prospectus;
+and (iii) our dependence on debt and equity funding to continue in operation. We therefore expect to incur significant losses
+in the foreseeable future. The financial statements do not include any adjustments that might result from the uncertainty about
+our ability to continue our business. If we are unable to obtain additional financing from outside sources and eventually produce
+enough revenues, we may be forced to curtail or cease our operations. If this happens, you could lose all or part of your investment. 
+
+Our
+lack of any profitable operating history makes it difficult for us to evaluate our future business prospects and make decisions
+based on those estimates of our future performance. 
+
+We
+do not have any substantial operating history, which makes it impossible to evaluate our business on the basis of historical operations.
+Our business carries both known and unknown risks. As a consequence, our past results may not be indicative of future results.
+Although this is true for any business, it is particularly true for us because of our lacking any profitable operating history. 
+
+Because
+our auditors have issued a going concern opinion, there is substantial uncertainty that we will be able to continue our operations. 
+
+Our
+auditors have issued a going concern opinion. This means that there is substantial doubt that we can continue to operate over
+the next 12 months. Our financial statements do not include any adjustments relating to the recoverability and classification
+of recorded assets, or the amounts of and classification of liabilities that might be necessary in the event we cannot continue
+in existence. As such, if we are unable to obtain new financing to execute our business plan we may be required to cease our operations. 
+
+Effective
+March 3, 2021, we changed management by electing James C. Katzaroff President and Chief Executive Officer. 
+
+There
+is no assurance Mr. Katzaroff will be successful in securing FDA clearance and marking the newly acquired license for treatment
+of Multiple Sclerosis. 
+
+Our
+chief executive officer has the ability to significantly influence any matters to be decided by the stockholders, which may prevent
+or delay a change in control of our company. 
+
+James
+Katzaroff, our CEO, currently owns 1,000,000 shares of series E preferred stock. The owner of the series E preferred stock is
+entitled to the number of votes equal to double the number of votes of all other stockholders. Therefore, Mr. Katzaroff
+has voting rights equal to two-thirds of all votes cast at any action of stockholders and can exert decisive influence over the
+outcome of any corporate matter submitted to our stockholders for approval, including the election of directors, removal of the
+entire board of directors and any transaction that might cause a change in control, such as a merger or acquisition. Any stockholders
+in favor of a matter that is opposed by this stockholder cannot overrule the vote of James Katzaroff. 
+
+James
+Katzaroff is one of three directors and CEO. The loss of Mr. Katzaroff could adversely affect our business. 
+
+Since
+Mr. Katzaroff is currently a director and CEO, if he were to die, become disabled, or leave our company, we would be forced to
+retain an individual to replace him. There is no assurance that we can find a suitable person to replace him if that becomes necessary.
+We have no key man life insurance at this time. 
+
+- 7 - 
+
+Table of Contents 
+
+Risks
+related to our common stock 
+
+We
+lack an established trading market for our common stock, and you may be unable to sell your common stock at attractive prices
+or at all. 
+
+There
+is currently a limited trading market for our common stock on the OTC Market Group s QB tier under the symbol GSTC. 
+There can be no assurances given that an established public market will be obtained for our common stock or that any public market
+will last. As a result, we cannot assure you that you will be able to sell your common stock at attractive prices or at all. 
+
+The
+market price for our common stock may be highly volatile. 
+
+The
+market price for our common stock may be highly volatile. A variety of factors may have a significant impact on the market price
+of our common stock, including: 
+
+the publication
+ of earnings estimates or other research reports and speculation in the press or investment community; 
+
+changes in the industry and competitors; 
+
+our financial condition, results of operations
+ and prospects; 
+
+any future issuances
+ of our common stock, which may include primary offerings for cash, and the grant or exercise of stock options from time to
+ time; 
+
+general market and
+ economic conditions; and 
+
+any outbreak or
+ escalation of hostilities, which could cause a recession or downturn in our economy. 
+
+We
+may be subject to shareholder litigation, thereby diverting our resources that may have a material effect on our profitability
+and results of operations. 
+
+As
+discussed in the preceding risk factors, the market for our common shares is characterized by significant price volatility when
+compared to seasoned issuers, and we expect that our share price will continue to be more volatile than a seasoned issuer for
+the indefinite future. In the past, plaintiffs have often initiated securities class action litigation against a company following
+periods of volatility in the market price of its securities. We may become the target of similar litigation. Securities litigation
+will result in substantial costs and liabilities and will divert management s attention and resources. 
+
+Future
+sales of common stock by stockholders may have an adverse effect on the then prevailing market price of our common stock. 
+
+In
+the event a public market for our common stock is sustained in the future, sales of our common stock may be made by holders of
+our public float or by holders of restricted securities in compliance with the provisions of Rule 144 of the Securities Act of
+1933. In general, under Rule 144, a non-affiliated person who has satisfied a six-month holding period in a company registered
+under the Securities Exchange Act of 1934, as amended, may, sell their restricted common stock without volume limitation, so long
+as the issuer is current with all reports under the Exchange Act in order for there to be adequate common public information.
+Affiliated persons may also sell their common shares held for at least six months, but affiliated persons will be required to
+meet certain other requirements, including manner of sale, notice requirements and volume limitations. Non-affiliated persons
+who hold their common shares for at least one year will be able to sell their common stock without the need for there to be current
+public information in the hands of the public. Future sales of shares of our public float or by restricted common stock made in
+compliance with Rule 144 may have an adverse effect on the then prevailing market price, if any, of our common stock. 
+
+We
+do not expect to pay cash dividends in the foreseeable future. 
+
+We
+do not anticipate paying cash dividends on our common stock in the foreseeable future. We may not have sufficient funds to legally
+pay dividends. Even if funds are legally available to pay dividends, we may nevertheless decide in our sole discretion not to
+pay dividends. The declaration, payment and amount of any future dividends will be made at the discretion of our board of directors,
+and will depend upon, among other things, the results of our operations, cash flows and financial condition, operating and capital
+requirements, and other factors our board of directors may consider relevant. There is no assurance that we will pay any dividends
+in the future, and, if dividends are paid, there is no assurance with respect to the amount of any such dividend. 
+
+- 8 - 
+
+Table of Contents 
+
+As
+a public company, we are subject to complex legal and accounting requirements that will require us to incur significant expenses
+and will expose us to risk of non-compliance. 
+
+As
+a public company, we are subject to numerous legal and accounting requirements that do not apply to private companies. The cost
+of compliance with many of these requirements is material, not only in absolute terms but, more importantly, in relation to the
+overall scope of the operations of a small company. Our relative inexperience with these requirements may increase the cost of
+compliance and may also increase the risk that we will fail to comply. Failure to comply with these requirements can have numerous
+adverse consequences including, but not limited to, our inability to file required periodic reports on a timely basis, loss of
+market confidence and/or governmental or private actions against us. We cannot assure you that we will be able to comply with
+all of these requirements or that the cost of such compliance will not prove to be a substantial competitive disadvantage vis- -vis
+our privately held and larger public competitors. 
+
+Compliance
+with changing regulation of corporate governance and public disclosure will result in additional expenses and pose challenges
+for our management. 
+
+Changing
+laws, regulations and standards relating to corporate governance and public disclosure, including the Dodd-Frank Wall Street Reform
+and Consumer Protection Act, and the rules and regulations promulgated thereunder, the Sarbanes-Oxley Act and SEC regulations,
+have created uncertainty for public companies and significantly increased the costs and risks associated with accessing the U.S.
+public markets. Our management team will need to devote significant time and financial resources to comply with both existing
+and evolving standards for public companies, which will lead to increased general and administrative expenses and a diversion
+of management time and attention from revenue generating activities to compliance activities. 
+
+We
+will need to raise substantial additional capital in the future to fund our operations and we may be unable to raise such funds
+when needed and on acceptable terms. 
+
+When
+we elect to raise additional funds or additional funds are required, we may raise such funds from time to time through public
+or private equity offerings, debt financings, corporate collaboration and licensing arrangements or other financing alternatives
+Additional equity or debt financing or corporate collaboration and licensing arrangements may not be available on acceptable terms,
+if at all. If we are unable to raise additional capital in sufficient amounts or on terms acceptable to us, we will be prevented
+from pursuing acquisition, licensing, development and commercialization efforts and our ability to generate revenues and achieve
+or sustain profitability will be substantially harmed. 
+
+If
+we raise additional funds by issuing equity securities, our stockholders will experience dilution. Debt financing, if available,
+would result in increased fixed payment obligations and may involve agreements that include covenants limiting or restricting
+our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends. Any
+debt financing or additional equity that we raise may contain terms, such as liquidation and other preferences, which are not
+favorable to us or our stockholders. If we raise additional funds through collaboration and licensing arrangements with third
+parties, it may be necessary to relinquish valuable rights to our technologies, future revenue streams or product candidates or
+to grant licenses on terms that may not be favorable to us. Should the financing we require to sustain our working capital needs
+be unavailable or prohibitively expensive when we require it, our business, operating results, financial condition and prospects
+could be materially and adversely affected and we may be unable to continue our operations. 
+
+We
+are subject to penny stock regulations and restrictions, and you may have difficulty selling shares of our common stock. 
+
+Our
+common stock is subject to the provisions of Section 15(g) and Rule 15g-9 of the Securities Exchange Act of 1934 (the Exchange
+Act ), commonly referred to as the penny stock rule. Section 15(g) sets forth certain requirements for transactions
+in penny stock, and Rule 15g-9(d) incorporates the definition of penny stock that is found in Rule 3a51-1 of the
+Exchange Act. The SEC generally defines a penny stock to be any equity security that has a market price less than 5.00 per share,
+subject to certain exceptions. We are subject to the SEC s penny stock rules. 
+
+- 9 - 
+
+Table of Contents 
+
+Since
+our common stock is deemed to be penny stock, trading in the shares of our common stock is subject to additional sales practice
+requirements on broker-dealers who sell penny stock to persons other than established customers and accredited investors. Accredited
+investors are persons with assets in excess of 1,000,000 (excluding the value of such person s primary residence)
+or annual income exceeding 200,000 or 300,000 together with their spouse. For transactions covered by these rules, broker-dealers
+must make a special suitability determination for the purchase of such security and must have the purchaser s written consent
+to the transaction prior to the purchase. Additionally, for any transaction involving a penny stock, unless exempt the rules require
+the delivery, prior to the first transaction of a risk disclosure document, prepared by the SEC, relating to the penny stock market.
+A broker-dealer also must disclose the commissions payable to both the broker-dealer and the registered representative and current
+quotations for the securities. Finally, monthly statements must be sent disclosing recent price information for the penny stocks
+held in an account and information to the limited market in penny stocks. Consequently, these rules may restrict the ability of
+broker-dealer to trade and/or maintain a market in our common stock and may affect the ability of our stockholders to sell their
+shares of common stock. 
+
+There
+can be no assurance that our shares of common stock will qualify for exemption from the Penny Stock Rule. In any event, even if
+our common stock was exempt from the Penny Stock Rule, we would remain subject to Section 15(b)(6) of the Exchange Act, which
+gives the SEC the authority to restrict any person from participating in a distribution of penny stock if the SEC finds that such
+a restriction would be in the public interest. 
+
+Our
+common stock is subject to price volatility unrelated to our operations. 
+
+The
+market price of our common stock could fluctuate substantially due to a variety of factors, including market perception of our
+ability to achieve our planned growth, quarterly operating results of other companies in the same industry, trading volume in
+our common stock, changes in general conditions in the economy and the financial markets or other developments affecting our competitors
+or ourselves. In addition, the over-the-counter market is subject to extreme price and volume fluctuations in general. This volatility
+has had a significant effect on the market price of securities issued by many companies for reasons unrelated to their operating
+performance and could have the same effect on our common stock. 
+
+Trading
+in our common stock on the OTC Markets is limited and sporadic making it difficult for our shareholders to sell their shares or
+liquidate their investments. 
+
+Trading
+in our common stock is currently published on the OTC Markets. The trading price of our common stock has been subject to wide
+fluctuations. Trading prices of our common stock may fluctuate in response to a number of factors, many of which will be beyond
+our control. The stock market has generally experienced extreme price and volume fluctuations that have often been unrelated or
+disproportionate to the operating performance of companies with no current business operation. There can be no assurance that
+trading prices and price earnings ratios previously experienced by our common stock will be matched or maintained. These broad
+market and industry factors may adversely affect the market price of our common stock, regardless of our operating performance.
+In the past, following periods of volatility in the market price of a company s securities, securities class-action litigation
+has often been instituted. Such litigation, if instituted, could result in substantial costs for us and a diversion of management s
+attention and resources. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+This
+item is not applicable to emerging growth companies. 
+
+ITEM
+2. PROPERTIES 
+
+We
+maintain our corporate offices at 719 Jadwin Avenue, Richland, WA Our telephone number is 206-451-1970. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+We
+know of no other material, active or pending legal proceedings against us, nor are we involved as a plaintiff in any material
+proceedings or pending litigation. There are no proceedings in which any of our directors, officers or affiliates, or any registered
+beneficial shareholder are an adverse party or has a material interest adverse to us. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+- 10 - 
+
+Table of Contents 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S
+COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market Information 
+
+Our common stock trades over the counter
+and trading is reported by OTC Markets under the QB tier under the symbol GSTC . The following table sets forth, for
+the period indicated, the prices of the common stock in the over-the-counter market, as reported and summarized by OTC Markets
+Group, Inc. These quotations represent inter-dealer quotations, without adjustment for retail markup, markdown, or commission and
+may not represent actual transactions. There is an absence of an established trading market for the Company s common stock,
+as the market is limited, sporadic and highly volatile. 
+
+Holders 
+
+As of the date of this filing, there were
+42 holders of record of our common stock. 
+
+Dividends 
+
+To date, we have not paid dividends on
+shares of our common stock and we do not expect to declare or pay dividends on shares of our common stock in the foreseeable future.
+The payment of any dividends will depend upon our future earnings, if any, our financial condition, and other factors deemed relevant
+by our Board of Directors. 
+
+Common Stock 
+
+We are authorized to issue an unlimited number shares of common stock,
+with a par value of 0.001. The closing price of our common stock on January 3, 2023, as quoted by OTC Markets Group, Inc., was 0.0125.
+There were 770,360,616 shares of common stock issued and outstanding as of January 3, 2023. All shares of common stock have one vote per
+share on all matters including election of directors, without provision for cumulative voting. The common stock is not redeemable and
+has no conversion or preemptive rights. The common stock currently outstanding is validly issued, fully paid and non-assessable. In the
+event of liquidation of the Company, the holders of common stock will share equally in any balance of the Company s assets available
+for distribution to them after satisfaction of creditors and preferred shareholders, if any. The holders of the Company s common
+are entitled to equal dividends and distributions per share with respect to the common stock when, as and if, declared by the Board of
+Directors from funds legally available. 
+
+Our Articles of Incorporation, our Bylaws,
+and the applicable statutes of the state of Wyoming contain a more complete description of the rights and liabilities of holders
+of our securities. 
+
+During the year ended September 30, 2022,
+there was no modification of any instruments defining the rights of holders of the Company s common stock and no limitation
+or qualification of the rights evidenced by the Company s common stock as a result of the issuance of any other class of
+securities or the modification thereof. 
+
+Non-cumulative voting 
+
+Holders of shares of our common stock do
+not have cumulative voting rights, which means that the holders of more than 50 of the outstanding shares, voting for the election
+of directors, can elect all of the directors to be elected, if they so choose, and, in that event, the holders of the remaining
+shares will not be able to elect any of our directors. 
+
+- 11 - 
+
+Table of Contents 
+
+Securities Authorized for Issuance under
+Equity Compensation Plans 
+
+The following table shows the number of
+shares of common stock that could be issued upon exercise of outstanding options and warrants, the weighted average exercise price
+of the outstanding options and warrants, and the remaining shares available for future issuance as of September 30, 2022. 
+
+Plan Category 
+ Number of Securities to be issued upon exercise of outstanding options, warrants and rights 
+ Weighted average exercise price of outstanding options, warrants and rights 
+ Number of securities remaining available for future issuance 
+ 
+ Equity compensation plans approved by security holders. 
+
+10,000,000 
+
+Equity compensation plans not approved by security holders. 
+
+Total 
+
+10,000,000 
+
+Preferred Stock 
+
+Our authority to issue preferred stock
+is unlimited shares of 0.001 par value preferred stock. 
+
+Series A Preferred Stock 
+ Our board of directors has designated up to 6,000,000 shares of Series A Preferred Stock. The Series A Preferred Stock
+has a liquidation value of 2.00 per share. The initial number issued is 5,000,000 with additional shares to be issued as a dividend
+not to exceed a total of 6,000,000 shares. The rank of the Series A is prior to all common and preferred shares. In addition, the
+Series A Preferred Stock retains protective provisions to maintain their seniority with respect to liquidation or dissolution.
+The Series A Preferred Stock holds no voting rights and earns an 8 per annum dividend, payable in additional shares of Series
+A Preferred Stock. As part of a legal settlement with David Summers, during the year ended September 30, 2020, 5,800,000 shares
+of Series A Preferred Stock were returned to the Company and cancelled. At September 30, 2022 and 2021, no shares of the Series A Preferred
+Stock were issued and outstanding. 
+
+Series B Preferred Stock 
+ Our board of directors has designated up to 1,000,000 shares of Series B Preferred Stock. The Series B Preferred Stock
+has a liquidation value of 1.00 per share. The holders of the Series B Preferred Stock are entitled to dividends of 8 per year
+payable quarterly in cash or in shares of common stock at the option of the Company. The holders of the Series B Preferred Stock
+have no voting rights. The Series B Preferred Stock is redeemable at the option of the Company at a price of 1.00 per share. At
+September 30, 2022 and 2021, no shares of Series B Preferred Stock were issued or outstanding. 
+
+Series C Preferred Stock 
+ On September 12, 2017, our board of directors designated up to 1,200,000 shares of Series C Preferred Stock with a liquidation
+value of 0.50 per share. The holders of the Series C Preferred Stock have no voting rights. The Series C Preferred Stock is convertible
+at the option of the holder into shares of common stock at a rate of one share of common stock for each share of Series C Preferred
+Stock. The Series C Preferred Stock is redeemable at the option of the Company at a price of 0.50 per share. The Series C Preferred
+Stock has been canceled as of September 30, 2017. 
+
+Series D Preferred Stock 
+ On September 21, 2017, our board of directors designated up to 539,988 shares of Series D Preferred Stock with a liquidation
+value of 1.00 per share. The holders of the Series D Preferred Stock have no voting rights. The Series D Preferred Stock is convertible
+at the option of the holder into shares of common stock at a rate of 0.01 per share of common stock. The Series D Preferred Stock
+is not redeemable. At September 30, 2022 and 2021, 509,988 shares of the Series D Preferred Stock were issued and outstanding. 
+
+- 12 - 
+
+Table of Contents 
+
+Series E Preferred Stock 
+ Our board of directors has designated up to 1,000,000 shares of Series E Preferred stock. The Series E Preferred stock
+has voting rights on the basis of two votes for every outstanding share of common stock meaning that the holders of the Series
+E Preferred Stock have 2/3 of the voting rights in the Company. At September 30, 2022 and 2021, 1,000,000 shares of the Series E Preferred
+Stock were issued and outstanding. 
+
+Series
+F Preferred Stock On September 21, 2017, our board of directors designated up to 501,975 shares of Series F
+Preferred Stock with a liquidation value of 1.00 per share. The holders of the Series F Preferred Stock have no voting rights. The
+Series F Preferred Stock is convertible at the option of the holder into shares of common stock at a rate of 0.01 per share of
+common stock. The Series F Preferred Stock is not redeemable. During the year ended September 30, 2019, 60,000 shares of the Series
+F Preferred Stock were returned for cancellation. At September 30, 2021, 386,975 shares of the Series F Preferred Stock were issued
+and outstanding. During the year ended September 30, 2022, 257,984 shares of Series F Preferred Stock was converted into 25,798,400
+shares of common stock. At September 30, 2022, 128,991 shares of the Series F Preferred Stock were issued and outstanding. 
+
+Series G Preferred Stock -
+On August 11, 2021, our board of directors designated up to 1,000,000 shares of Series G Preferred Stock with a liquidation value
+of 1.00 per share. The holders of the Series G Preferred Stock have no voting rights except on matters related specifically to
+the Series G Preferred Stock. The Series G Preferred Stock carries a dividend of 8 of the stated value per share, which is cumulative
+and payable upon redemption, liquidation or conversion, and increases to 22 in case of default. The Series G Preferred Stock and
+accrued dividends are convertible beginning 180 days from issuance at the option of the holder into shares of common stock at a
+rate of a conversion price of 75 of the average three lowest trading prices during the 15 days prior to conversion. The Company
+will be required to redeem the Series G Preferred Stock upon the earlier of 15 months from issuance date or upon on event of default
+as defined in the agreement. The Company sold 93,500 shares for net cash proceeds of 81,250 of cash proceeds. 
+
+Based on the economic characteristics of
+the Series G Preferred Stock, the Company determined that the Series G should be accounted for as a liability under ASC 480-10,
+based on the discounted conversion price providing an effectively fixed monetary amount that the preferred stock is convertible
+into. The Company recorded a debt discount of 25,000 for the difference between the cash proceeds and the total amount to be redeemed
+by the holder of 106,250. The Company amortized 2,425 of this discount through September 30, 2021. The dividends on the Series
+G Preferred Stock are recorded as interest expense and totaled 1,164 through September 30, 2021. 
+
+During the year ended September 30, 2022, the Company sold an aggregate
+of 369,875 shares of Series G Preferred Stock for net cash proceeds of 310,000. The Company recorded a debt discount of 59,875 for the
+difference between the cash proceeds and the total amount to be redeemed by the holder of 369,875. The Company amortized 54,664 of discount
+related to Series G Preferred Stock for the year months ended September 30, 2022. The dividends on the Series G Preferred Stock are accrued
+as interest. The Company recognized 15,852 of interest on the Series G Preferred Stock and had an accrued interest balance of 3,983
+and 1,281 as of September 30, 2022 and September 30, 2021, respectively. During the year ended September 30, 2022, the holder of the
+Series G converted 324,500 shares of Series G into 109,052,543 shares of common stock, and the Company recognized a loss of 5,939. 
+
+As of September 30, 2022 and September 30,
+2021, 138,875 and 93,500 shares of the Series G Preferred Stock were issued and outstanding, respectively. 
+
+- 13 - 
+
+Table of Contents 
+
+Recent Sales of Unregistered Securities 
+
+Set forth below is information regarding
+securities sold by during the quarter ended September 30, 2022 that were not registered under the Securities Act: 
+
+Date of Sale 
+ 
+ Title of Security 
+ 
+ Number Sold 
+ 
+ Consideration Received 
+ and Description of 
+ Underwriting or Other 
+ Discounts to Market 
+ Price or Convertible 
+ Security, Afforded to 
+ Purchasers 
+ 
+ Exemption from 
+ Registration 
+ Claimed 
+ 
+ If Option, Warrant 
+ or Convertible 
+ Security, terms of 
+ exercise or 
+ conversion 
+ 
+ August 8, 2022 
+ 
+ Common Stock 
+ 
+ 9,629,630 
+ 
+ Conversion of 25,000 Shares of Series G Preferred Stock 
+ 
+ Section 3(a)(9) of the Securities Act 
+ 
+ Convertible at 75 of the average of the three lowest bid prices of the Company s common stock for the 15 trading days prior to the conversion date. 
+
+August 19, 2022 
+ 
+ Common Stock 
+ 
+ 12,899,300 
+ 
+ Conversion of 128,993 Shares of Series F Preferred Stock 
+ 
+ Section 3(a)(9) of the Securities Act 
+ 
+ N/A 
+
+August 23, 2022 
+ 
+ Common Stock 
+ 
+ 8,139,130 
+ 
+ Conversion of 18,000 Shares of Series G Preferred Stock 
+ 
+ Section 3(a)(9) of the Securities Act 
+ 
+ Convertible at 75 of the average of the three lowest bid prices of the Company s common stock for the 15 trading days prior to the conversion date. 
+
+August 25, 2022 
+ 
+ Common Stock 
+ 
+ 7,291,304 
+ 
+ Conversion of 16,125 Shares of Series G Preferred Stock 
+ 
+ Section 3(a)(9) of the Securities Act 
+ 
+ Convertible at 75 of the average of the three lowest bid prices of the Company s common stock for the 15 trading days prior to the conversion date. 
+
+September 30, 2022 
+ 
+ Common Stock 
+ 
+ 24,457 
+ 
+ Services rendered 
+ 
+ Section 3(a)(9) of the Securities Act 
+ 
+ N/A 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+This item is not applicable to emerging growth companies. 
+
+- 14 - 
+
+Table of Contents 
+
+ITEM 7. MANAGEMENT S DISCUSSION
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+THIS FILING CONTAINS FORWARD-LOOKING STATEMENTS.
+THE WORDS ANTICIPATED, BELIEVE, EXPECT, PLAN, INTEND, SEEK, 
+ ESTIMATE, PROJECT, WILL, COULD, MAY, AND SIMILAR EXPRESSIONS
+ARE INTENDED TO IDENTIFY FORWARD-LOOKING STATEMENTS. THESE STATEMENTS INCLUDE, AMONG OTHERS, INFORMATION REGARDING FUTURE OPERATIONS,
+FUTURE CAPITAL EXPENDITURES, AND FUTURE NET CASH FLOW. SUCH STATEMENTS REFLECT THE COMPANY S CURRENT VIEWS WITH RESPECT TO
+FUTURE EVENTS AND FINANCIAL PERFORMANCE AND INVOLVE RISKS AND UNCERTAINTIES, INCLUDING, WITHOUT LIMITATION, GENERAL ECONOMIC AND
+BUSINESS CONDITIONS, CHANGES IN FOREIGN, POLITICAL, SOCIAL, AND ECONOMIC CONDITIONS, REGULATORY INITIATIVES AND COMPLIANCE WITH
+GOVERNMENTAL REGULATIONS, THE ABILITY TO ACHIEVE FURTHER MARKET PENETRATION AND ADDITIONAL CUSTOMERS, AND VARIOUS OTHER MATTERS,
+MANY OF WHICH ARE BEYOND THE COMPANY S CONTROL. SHOULD ONE OR MORE OF THESE RISKS OR UNCERTAINTIES OCCUR, OR SHOULD UNDERLYING
+ASSUMPTIONS PROVE TO BE INCORRECT, ACTUAL RESULTS MAY VARY MATERIALLY AND ADVERSELY FROM THOSE ANTICIPATED, BELIEVED, ESTIMATED,
+OR OTHERWISE INDICATED. CONSEQUENTLY, ALL OF THE FORWARD-LOOKING STATEMENTS MADE IN THIS FILING ARE QUALIFIED BY THESE CAUTIONARY
+STATEMENTS AND THERE CAN BE NO ASSURANCE OF THE ACTUAL RESULTS OR DEVELOPMENTS. 
+
+The following discussion and analysis of
+our financial condition and plan of operations should be read in conjunction with our financial statements and related notes appearing
+elsewhere herein. This discussion and analysis contains forward-looking statements including information about possible or assumed
+results of our financial conditions, operations, plans, objectives, and performance that involve risk, uncertainties, and assumptions.
+The actual results may differ materially from those anticipated in such forward-looking statements. For example, when we indicate
+that we expect to increase our product sales and potentially establish additional license relationships, these are forward-looking
+statements. The words expect, anticipate, estimate or similar expressions are also used to indicate forward-looking statements. 
+
+Plan of Operations 
+
+We believe we do not have adequate funds
+to fully execute our business plan for the next twelve months unless we obtain additional funding. However, should we not raise
+this capital, we will allocate our funding to first assure that all State, Federal and SEC requirements are met. 
+
+Results of Operations 
+
+Revenue 
+
+For the years ended September 30, 2022 and 2021 the
+Company had no revenue. 
+
+Cost of Goods Sold 
+
+Cost of goods sold was 0 during the year ended September
+30, 2022, compared to 2,412 during the prior year. Cost of sales decreased primarily due to the write down of slow-moving and expired
+inventory during the current year of 2,412 during the year ended September 30, 2021. 
+
+Sales, General, and Administrative Expenses 
+
+We incurred sales, general and administrative expenses of 1,265,065 during
+the year ended September 30, 2022 compared to 9,091,817 during the year ended September 30, 2021, a decrease of 7,826,752 or approximately
+86 . The decrease in general and administrative expense was related primarily to stock-based compensation of 8,130,997 during the year
+ended September 30, 2021, compared to 509,192 during the year ended September 30, 2022. 
+
+Loss on Settlement of Liabilities 
+
+We recognized a loss on settlement of liabilities
+in the amount of 146,460 during the year ended September 30, 2022 compared to 419,990 during the year ended September 30, 2021. The
+loss in the prior period was related to the severance agreement with Alex Blankenship, our former CEO, resulting in a 419,900 loss. The
+Company also recognized a loss of 5,939 on conversion of the preferred stock liability during the year ended September 30, 2022. 
+
+- 15 - 
+
+Table of Contents 
+
+Interest Expense 
+
+We recognized interest expense in the amount of 70,346 for the year ended
+September 30, 2022, a decrease of 217,153 or approximately 65 compared to 287,499 for the year ended September 30, 2021. The decrease
+was due primarily to the amortization of discount related to Series G Preferred stock liability during the current period in the amount
+of 54,664 compared to 274,803 of amortization related to convertible notes payable during the comparable period of the prior year. 
+
+Net Loss 
+
+For the reasons above, our net loss for the year ended September 30, 2022
+was 1,487,810 a decrease of 8,313,818 or approximately 86 compared to a net loss of 9,801,628 for the year ended September 30, 2021. 
+
+Liquidity and Capital Resources 
+
+At September 30, 2022, we had cash of 6,365 and a working capital deficit
+in the amount of 1,194,560. During the year ended September 30, 2022, we had cash used in operating activities of 326,995, consisting
+of our net loss of 1,487,810, partially offset by non-cash compensation of 509,192, loss on settlement of liabilities of 146,460, and
+amortization of discount on notes payable of 54,664. Our cash position also increased by a net change in the components of working capital
+in the amount of 725,821 during the period. We have an accumulated deficit at September 30, 2022 in the amount of 18,504,776. We generated
+cash flows from financing activities in the amount of 28,900 from the related party advances and 310,000 from the sale of common stock,
+which were offset by the repayment of related party advances of 16,500. 
+
+We had no material commitments for capital expenditures
+or inventory purchases as of September 30, 2022. However, should we execute our business plan as anticipated, we will incur substantial
+capital expenditures and require financing in addition to what is required to fund our present operation. 
+
+We intend to pursue capital through public or private
+financing, as well as borrowing and other sources in order to finance our business activities. We cannot guarantee that additional funding
+will be available on favorable terms, if at all. If adequate funds are not available, then our ability to continue our operations may
+be significantly hindered. 
+
+Additional Financing 
+
+Additional financing is required to continue
+operations. Although actively searching for available capital, the Company does not have any current arrangements for additional
+outside sources of financing and cannot provide any assurance that such financing will be available. 
+
+Off-Balance Sheet Arrangements 
+
+We do not have any off-balance sheet arrangements
+that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition,
+revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors. 
+
+Critical Accounting Policies and Estimates 
+
+We prepare our financial statements in
+conformity with GAAP, which requires management to make certain estimates and assumptions and apply judgments. We base our estimates
+and judgments on historical experience, current trends, and other factors that management believes to be important at the time
+the financial statements are prepared; actual results could differ from our estimates and such differences could be material. We
+have identified below the critical accounting policies, which are assumptions made by management about matters that are highly
+uncertain and that are of critical importance in the presentation of our financial position, results of operations and cash flows.
+Due to the need to make estimates about the effect of matters that are inherently uncertain, materially different amounts could
+be reported under different conditions or using different assumptions. On a regular basis, we review our critical accounting policies
+and how they are applied in the preparation our financial statements. 
+
+Use of estimates - The preparation of financial
+statements in conformity with accounting principles generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results
+could differ from those estimates. 
+
+- 16 - 
+
+Table of Contents 
+
+Going concern - The accompanying financial statements have been prepared
+assuming that the Company will continue as a going concern. For the year ended September 30, 2022, the Company had a net loss of 1,487,810
+and generated negative cash flow from operating activities in the amount of 326,995. In view of these matters, there is substantial doubt
+regarding the Company s ability to continue as a going concern, which is dependent upon its ability to achieve a level of profitability
+or to obtain additional capital to finance its operations. The Company intends on financing its future activities and its working capital
+needs largely from the sale of public equity securities with some additional funding from other traditional financing sources, including
+term notes until such time that funds provided by operations are sufficient to fund working capital requirements. The financial statements
+of the Company do not include any adjustments relating to the recoverability and classification of recorded assets, or the amounts and
+classifications of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+
+New Accounting Pronouncements 
+
+For a description of recent accounting
+standards, including the expected dates of adoption and estimated effects, if any, on our financial statements, see Note
+3: Significant Accounting Polices: Recently Issued Accounting Pronouncements in Part II, Item 8 of this Form 10-K. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE
+DISCLOSURES ABOUT MARKET RISK 
+
+This item is not applicable to smaller
+reporting companies. 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY
+DATA 
+
+GlobeStar Therapeutics Corporation 
+
+Consolidated Financial Statements 
+
+September 30, 2022 
+
+Contents 
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 
+ 18 
+ 
+ Consolidated Balance Sheets 
+ 20 
+ 
+ Consolidated Statements of Operations 
+ 21 
+ 
+ Consolidated Statements of Stockholders Deficit 
+ 22 
+ 
+ Consolidated Statements of Cash Flows 
+ 23 
+ 
+ Notes to the Consolidated Financial Statements 
+ 24 
+
+- 17 - 
+
+Table of Contents 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and Stockholders of GlobeStar
+Therapeutics Corporation 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance
+sheet of GlobeStar Therapeutics Corporation (the Company) as of September 30, 2022 and 2021, and the related consolidated statements of
+operations, stockholders deficit, and cash flows for each of the years in the two- year period ended September 30, 2022, and the
+related notes (collectively referred to as the financial statements). In our opinion, the consolidated financial statements present fairly,
+in all material respects, the financial position of the Company as of September 30, 2022 and 2021, and the results of its consolidated
+operations and its cash flows for each of the years in the two- year period ended September 30, 2022, in conformity with accounting principles
+generally accepted in the United States of America. 
+
+The Company's Ability to Continue as a Going Concern
+
+The accompanying financial states have been prepared
+assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company suffered a
+net loss from operations and has a net capital deficiency, which raises substantial doubt about its ability to continue as a going concern.
+Management s plans regarding those matters are also described in Note 3. The financial statements do not include any adjustments
+that might result from the outcome of this uncertainty 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required
+to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations
+of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform,
+an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal
+control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal
+control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audit included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is a matter arising from the
+current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that:
+(1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective,
+or complex judgements. The communication of the critical audit matter does not alter in any way our opinion on the financial statements,
+taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions on the critical audit
+matter or on the accounts or disclosures to which they relate. 
+
+Black Scholes Calculations 
+
+As discussed in Note 6 to the Financial Statements,
+the Company utilizes Black Scholes calculations to determine fair value of the Company s stock compensation. 
+
+- 18 - 
+
+Table of Contents 
+
+Auditing management s calculations of fair value
+of stock options involves significant judgements and estimates to determine the proper value. Volatility and term are the major
+assumptions used by management in determining the value of the stock options. 
+
+ To evaluate the appropriateness of fair value calculation,
+we evaluated management s significant judgements and estimates in what inputs were utilized within the Black Scholes calculations. 
+
+/s/ 
+
+www.mkacpas.com 
+
+ We have served as the Company s auditor since 2012. 
+
+January 9, 2023 
+
+- 19 - 
+
+Table of Contents 
+
+GLOBESTAR THERAPEUTICS CORPORATION 
+
+CONSOLIDATED BALANCE SHEETS 
+
+September 30, 
+
+September 30, 
+
+2022 
+
+2021 
+
+CURRENT ASSETS 
+
+Cash and cash equivalents 
+
+Prepaid expenses 
+
+Total current assets 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current Liabilities 
+
+Accounts payable and accrued liabilities 
+
+Accounts payable to related party 
+
+Related party advances 
+
+12,400 
+
+Advances payable 
+
+Current portion of convertible notes payable 
+
+Series G Preferred Stock Liability, net of discount of and , respectively 
+
+Accrued interest payable 
+
+Total current liabilities 
+
+TOTAL LIABILITIES 
+
+COMMITMENTS AND CONTINGENCIES 
+
+STOCKHOLDERS DEFICIT 
+
+Common stock, par value, unlimited shares authorized; and shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Preferred stock; shares authorized: 
+
+Series A Preferred Stock, par value, and shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Series B Preferred Stock, par value, and shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Series C Preferred Stock, par value, and shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Series D Preferred Stock, par value; shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Series E Preferred Stock, par value; shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Series F Preferred Stock; par value; and shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Additional paid-in capital 
+
+Stock payable, consisting of and shares to be issued at September 30, 2022 and 2021, respectively 
+
+Accumulated deficit 
+
+() 
+
+() 
+
+TOTAL STOCKHOLDERS DEFICIT 
+
+() 
+
+() 
+
+TOTAL LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+The accompanying footnotes are an integral
+part of these financial statements. 
+
+- 20 - 
+
+Table of Contents 
+
+GLOBESTAR THERAPEUTICS CORPORATION 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+Twelve Months Ended 
+
+September 30, 
+
+2022 
+
+2021 
+
+REVENUE 
+
+Cost of goods sold 
+
+Gross profit (loss) 
+
+() 
+
+OPERATING EXPENSES 
+
+General and administrative expenses 
+
+Total operating expenses 
+
+LOSS FROM OPERATIONS 
+
+() 
+
+() 
+
+OTHER INCOME (EXPENSE) 
+
+Loss on settlement of liabilities, related party 
+
+() 
+
+() 
+ 
+ Loss on conversion of preferred stock liability 
+
+() 
+
+Interest expense 
+
+() 
+
+() 
+ 
+ Total other expenses 
+
+() 
+
+() 
+
+Net loss 
+
+() 
+
+() 
+
+Net loss per share available to common shareholders 
+
+() 
+
+() 
+
+Weighted average shares outstanding - basic and diluted 
+
+The accompanying footnotes are an integral
+part of these consolidated financial statements. 
+
+- 21 - 
+
+Table of Contents 
+
+GLOBESTAR THERAPEUTICS CORPORATION 
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS 
+DEFICIT 
+
+Original 
+
+Series A 
+ 
+ Series D 
+ 
+ Series E 
+ 
+ Series F 
+ 
+ Additional 
+
+Total 
+
+Common stock 
+ 
+ Preferred Stock 
+ 
+ Preferred Stock 
+ 
+ Preferred Stock 
+ 
+ Preferred Stock 
+ 
+ paid-in 
+ 
+ Stock 
+ 
+ Accumulated 
+ 
+ Equity 
+
+Shares 
+ 
+ Par 
+ 
+ Shares 
+ 
+ Amount 
+ 
+ Shares 
+ 
+ Amount 
+ 
+ Shares 
+ 
+ Amount 
+ 
+ Shares 
+ 
+ Amount 
+ 
+ capital 
+ 
+ Payable 
+ 
+ Deficit 
+ 
+ (Deficit) 
+
+Balance, September 30, 2020 
+
+() 
+ 
+ () 
+
+Common stock issued for conversion of convertible note payable and accrued interest 
+
+Stock-based compensation 
+
+Stock-based compensation, related parties 
+
+Sale of common stock units for cash proceeds 
+
+Sale of common stock units for cash proceeds, related parties 
+
+Issuance of common stock and retirement of accrued compensation with related party 
+
+Beneficial conversion discount on convertible notes payable 
+
+Settlement of accounts payable with related party 
+
+Net loss for the year ended September 30, 2021 
+
+() 
+ 
+ () 
+ 
+ Balance, September 30, 2021 
+
+() 
+ 
+ () 
+
+Common stock issued for conversion of convertible note payable and accrued interest 
+
+(257,984) 
+ 
+ () 
+ 
+ () 
+
+Common stock subscribed for cash proceeds 
+
+Common stock issued for stock payable 
+
+() 
+
+Common stock issued for settlement liability 
+
+Stock-based compensation 
+
+Stock-based compensation, related parties 
+
+Conversion of Series G Preferred Stock to common stock 
+
+Net loss for the year ended September 30, 2022 
+
+() 
+ 
+ () 
+ 
+ Balance, September 30, 2022 
+
+() 
+ 
+ () 
+
+The accompanying footnotes are an integral
+part of these consolidated financial statements. 
+
+- 22 - 
+
+Table of Contents 
+
+GLOBESTAR THERAPEUTICS CORPORATION 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+Twelve Months Ended 
+
+September 30, 
+
+2022 
+
+2021 
+
+CASH FLOW FROM OPERATING ACTIVITIES: 
+
+Net loss 
+
+() 
+
+() 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Stock compensation 
+
+Stock compensation, related parties 
+
+Depreciation 
+
+Amortization of discount on convertible note payable 
+
+Inventory impairment 
+
+Loss on settlement of liabilities, related party 
+
+Loss on conversion of preferred stock liability 
+
+Changes in operating assets and liabilities 
+
+Prepaid expenses 
+
+() 
+
+Accounts payable and accrued liabilities 
+
+Accounts payable and accrued liabilities to related party 
+
+Accrued interest payable 
+
+NET CASH USED IN OPERATING ACTIVITIES 
+
+() 
+
+() 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from convertible notes payable 
+
+Proceeds from sale of share-settled Series G preferred stock 
+
+Proceeds from related party advances 
+
+Repayment of related party advances 
+
+() 
+
+Proceeds from sale of common stock 
+
+NET CASH PROVIDED BY FINANCING ACTIVITIES 
+
+NET INCREASE (DECREASE) IN CASH 
+
+() 
+
+Cash at beginning of period 
+
+Cash at end of period 
+
+Cash paid during the period for: 
+
+Interest 
+
+Taxes 
+
+Noncash investing and financing transactions: 
+
+Conversion of convertible notes payable and accrued interest into common stock 
+
+Conversion of Series F preferred stock 
+
+Conversion of Series G preferred stock 
+
+Common stock issued for stock payable 
+
+Common stock issued for settlement of liabilities 
+
+Beneficial conversion discount on convertible note payable 
+
+Settlement of liabilities with related party 
+
+The accompanying footnotes are an integral
+part of these consolidated financial statements. 
+
+- 23 - 
+
+Table of Contents 
+
+GLOBESTAR
+THERAPEUTICS CORPORATION 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+SEPTEMBER
+30, 2022 
+
+Level
+ 1 - 
+ Unadjusted
+ quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities. 
+
+Level
+ 2 - 
+ Inputs
+ other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly,
+ including quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets
+ or liabilities in markets that are not active; inputs other than quoted prices that are observable for the asset or liability
+ (e.g., interest rates); and inputs that are derived principally from or corroborated by observable market data by correlation
+ or other means. 
+
+Level
+ 3 - 
+ Inputs
+ that are both significant to the fair value measurement and unobservable. 
+
+Fair
+value estimates discussed herein are based upon certain market assumptions and pertinent information available to management as
+of September 30, 2022. The respective carrying value of certain on-balance-sheet financial instruments approximated their fair
+values due to the short-term nature of these instruments. These financial instruments include accounts payable and accrued expenses. 
+
+and for the years ended September 30, 2022 and 2021, respectively. 
+
+research and development costs during the years ended September 30, 2022 and 2021. 
+
+and as of September 30, 2022 and 2021, respectively. There were cash
+equivalents as of September 30, 2022 and 2021. 
+
+during the year ended September 30, 2021. 
+
+- 26 - 
+
+Table of Contents 
+
+and to officers of the Company for compensation which are recorded as accounts payable related party. Additionally, the Company received short term, unsecured, non-interest
+bearing advances from the Company s CEO and CFO totaling and repaid . As of September 30, 2022, the Company owed
+ on these related party advances. 
+
+In February 2022, the Company entered into an amended
+and restatement employment agreement with Jim Katzaroff, the CEO. Mr. Katzaroff is entitled to an annual salary of and a bonus
+as determined by the Board of Directors. Mr. Katzaroff may elect to receive payment in shares of stock based on the average of the three
+lowest trading prices for the 15 days prior to election of payment in stock. Further, in the event of a change of control of the Company,
+Mr. Katzaroff is entitled to a payment equal to 2.99 multiplied by the larger of the total compensation paid to Mr. Katzaroff over the
+prior 12-month period or the average compensation paid or payable to the Consultant over the prior three years. 
+
+The Company awarded Mr. Katzaroff a total of 
+common stock options with an exercise price of 
+per share, an exercise term of five 
+years. 
+
+Mr. Katzroff will also receive an activity fee of
+3 of gross revenues related to activities including securing a variety of vendor, sales or advertising relationships, or any new revenue
+generating activity. If such activity is a cost saving initiative instead of revenue generating, Mr. Katzaroff will receive 10 of the
+cost savings. As of September 30, 2022, no amounts have been earned or paid. 
+
+For the year ended September 30, 2021 
+
+In January 2021, the Company s former Chief
+Executive Officer Sydney Jim agreed to forgive all accrued but unpaid compensation of , resulting in a gain on settlement of liabilities
+to the Company that was recorded to additional paid in capital. 
+
+In March 2021, the Company entered into severance
+agreement with its former CEO Alex Blankenship. The Company owed Ms. Blankenship unpaid compensation of and agreed to issue 
+shares of common stock in full settlement of this amount and release from the employment agreement with her. The shares had a fair value
+of based on the stock price at the date of the agreement. The Company recognized a loss on settlement of in connection
+with this agreement. The Company also issued an additional shares to Ms. Blankenship with a fair value of in connection
+with this agreement, which were included in the loss on settlement total of for the year ended September 30, 2021. Concurrently
+with the severance agreement, the Company agreed to purchase the shares Series E Preferred Stock held by Ms. Blankenship for
+ in cash. The Company reissued those Series E preferred Shares to the Company s new CEO James Katzaroff. The Company recognized
+stock-based compensation of related to this reissuance. 
+
+During the year ended September 30, 2021, the Company
+issued shares of common stock to its CFO Robert Chicoski, with a fair value of as a finders fee related to the Company s
+license agreement. 
+
+As of September 30, 2021, the Company owed to
+officers of the Company for compensation. 
+
+- 27 - 
+
+Table of Contents 
+
+in the original principal amount of , no stated maturity date, bearing interest at per year, convertible into common stock at a rate of per share. 
+
+Total current convertible notes payable, net of discount 
+
+All principal along with accrued interest is payable
+on the maturity date. 
+
+During the year ended September 30, 2021, the Company
+recognized of deferred finance costs from its new convertible note payable and of new discount related to the beneficial
+conversion features of convertible notes payable. During the year ended September 30, 2021, the Company recognized interest expense on
+convertible notes of and amortization of discount on convertible notes payable of , respectively. 
+
+As of September 30, 2022 and September 30, 2021, accrued
+interest on convertible notes payable was and , respectively. 
+
+Conversions
+to Common Stock 
+
+During
+the year ended September 30, 2021, the holders of the convertible notes payable elected to convert principal of and accrued
+interest of into shares of common stock. There was no gain or loss recognized as the conversion occurred in
+accordance with the original terms of the agreement. 
+
+Advances 
+
+As of September 30, 2022 and 2021, the Company had non-interest bearing
+advances payable to third parties of . These advances are payable on demand. 
+
+- 28 - 
+
+Table of Contents 
+
+shares of Series A Preferred Stock. The Series A Preferred Stock has a liquidation value
+of per share. The initial number issued is with additional shares to be issued as a dividend not to exceed a total of
+ shares. The rank of the Series A is prior to all common and preferred shares. In addition, the Series A Preferred Stock retains
+protective provisions to maintain their seniority with respect to liquidation or dissolution. The Series A Preferred Stock holds no voting
+rights and earns an per annum dividend, payable in additional shares of Series A Preferred Stock. At September 30, 2022 and 2021, there
+were shares of our Series A Preferred Stock outstanding, respectively. 
+
+Series B Preferred Stock Our
+board of directors has designated up to shares of Series B Preferred Stock. The Series B Preferred Stock has a liquidation value
+of per share. The holders of the Series B Preferred Stock are entitled to dividends of per year payable quarterly in cash or
+in shares of common stock at the option of the Company. The holders of the Series B Preferred Stock have no voting rights. The Series
+B Preferred Stock is redeemable at the option of the Company at a price of 1.00 per share. At September 30, 2022 and 2021, there were shares
+of our Series B Preferred Stock outstanding. 
+
+Series C Preferred Stock On
+September 12, 2017, our board of directors designated up to shares of Series C Preferred Stock with a liquidation value of 
+per share. The holders of the Series C Preferred Stock have no voting rights. The Series C Preferred Stock is convertible at the option
+of the holder into shares of common stock at a rate of one share of common stock for each share of Series C Preferred Stock. The Series
+C Preferred Stock is redeemable at the option of the Company at a price of per share. The Series C Preferred Stock has been canceled,
+and there are no shares of Series C Preferred Stock outstanding as of September 30, 2022 and 2021. 
+
+Series D Preferred Stock On
+September 21, 2017, our board of directors designated up to shares of Series D Preferred Stock with a liquidation value of 
+per share. The holders of the Series D Preferred Stock have no voting rights. The Series D Preferred Stock is not redeemable. At September 30, 2022 and 2021, there were shares
+of Series D Preferred Stock outstanding. 
+
+Series E Preferred Stock On
+August 3, 2015, our board of directors designated shares of Series E Preferred stock. The Series E Preferred stock is subordinate
+to our common stock. It does not receive dividends and does not participate in equity distributions. 
+
+At September 30, 2022 and 2021, there were 
+shares of Series E Preferred stock outstanding. Dividends, when, as and if declared by the Board of Directors, shall be paid out of funds
+at the time legally available for such purposes. 
+
+Series F Preferred Stock On
+September 21, 2017, our board of directors designated up to shares of Series F Preferred Stock with a liquidation value of 
+per share. The holders of the Series F Preferred Stock have no voting rights. The Series F Preferred Stock is not redeemable.
+At September 30, 2021, shares of the Series F Preferred Stock were issued and outstanding. During the year ended September 30, 2022, shares
+of Series F Preferred Stock was converted into shares of common stock. At September 30, 2022, shares of the Series
+F Preferred Stock were issued and outstanding. 
+
+Conversions to Common Stock of Convertible Notes
+Payable 
+
+During the year ended September 30, 2021, the holders
+of the convertible notes payable elected to convert principal and accrued interest of into shares of common stock.
+There was no gain or loss recognized as the conversion occurred in accordance with the original terms of the agreement. 
+
+Common stock issued for services 
+
+In March 2021, the Company entered into severance
+agreement with its former CEO Alex Blankenship. The Company owed Ms. Blankenship unpaid compensation of 130,000 and agreed to issue 8,600,000
+shares of common stock in full settlement of this amount and release from the employment agreement with her. The shares had a fair value
+of 447,200 based on the stock price at the date of the agreement. The Company recognized a loss on settlement of 317,200 in connection
+with this agreement. The Company also issued an additional 2,600,000 shares to Ms. Blankenship with a fair value of 102,700 in connection
+with this agreement, which were included in the loss on settlement total of 419,900 for the year ended September 30, 2021. Concurrently
+with the severance agreement, the Company agreed to purchase the 1,000,000 shares Series E Preferred Stock held by Ms. Blankenship for
+ 325,000 in cash. The Company reissued those Series E preferred Shares to the Company s new CEO James Katzaroff. The Company recognized
+stock-based compensation of 325,000 related to this reissuance. 
+
+During the year ended September 30, 2021, the Company
+issued a total of shares to three individuals for services rendered, including 5,000,000 to the Company s CFO. The shares
+had a total fair value of based on the stock price at the date the shares were earned, which was recognized as stock-based compensation. 
+
+Common stock issued for settlement of liabilities 
+
+During the year ended September 30, 2022, the Company
+issued shares of common stock and warrants for the settlement of liabilities totaling . The Company recorded
+a loss on settlement of liabilities related to this transaction 
+
+Common stock issued for stock payable 
+
+In December 2021, the Company issue shares of common stock as
+part of the common stock unit sales that occurred during the year ended September 30, 2021. As of September 30, 2022, no shares are remaining
+to be issued for these unit sales. 
+
+In September 2022, the Company received of
+cash as a subscription for 1,515,152 shares of common stock and an equal number of warrants to purchase common stock at an exercise price
+of 0.01 for one year. The common shares were not yet issued as of September 30, 2022. 
+
+Common Stock Units 
+
+During the year ended September 30, 2021 the Company
+sold common stock units to investors. Each unit consist of shares of common stock and warrants to purchase common stock
+for three years at an exercise price of per share. The Company received cash proceeds of related to the issuance of 19,980,000
+shares of common stock and warrants. No shares of common stock were issued as of September 30, 2021. The shares were issued
+in December 2021. The warrants had a relative fair value of based on a Black-Scholes pricing model with estimated volatility
+ranging from to , dividend yield of , expected term of three years and a risk free rate ranging from to . As
+of September 30, 2021, the warrants had no intrinsic value, and a weighted average remaining life of 2.4 years. 
+
+Common Stock Warrants 
+
+of expense related to these warrants during the year ended September
+30, 2022. The Company estimated the fair value of the warrants based on a Black-Scholes pricing model using the following assumptions: 1) volatility of 254.43 ; 2) risk free rate of 1.76 ; 3) dividend yield of 0 and 4) expected term of 5 years. The following table summarizes the stock warrant activity for the years ended September 30, 2022 and 2021: 
+
+Warrants 
+
+Weighted-Average 
+Exercise Price 
+Per Share 
+
+Outstanding, September 30, 2020 
+
+Granted 
+
+Exercised 
+
+Forfeited 
+
+Expired 
+
+Outstanding, September 30, 2021 
+
+Granted 
+
+Exercised 
+
+Forfeited 
+
+Expired 
+
+Outstanding, September 30, 2022 
+
+As of September 30, 2022, the outstanding warrants
+had an expected remaining life of 2.99 years and have no intrinsic value. 
+
+Common Stock Options 
+
+As discussed in Note 4, The Company awarded common
+stock options to Mr. Katzaroff in connection with his amended and restated employment agreement. The Company estimated the fair value
+of the options to be 284,840, using the following assumptions: 1) volatility of ; 2) risk free rate of ; 3) dividend yield
+of and 4) expected term of 3.38 years. The Company recognized of expense related to the fair value of options vesting during
+the year ended September 30, 2022. The Company expects to recognize an additional of expense related to these options assuming
+all vest. 
+
+During the year ended September 30, 2021, the Board
+of Directors approved grants of 70,000,000 options to officers and medical advisory board members. The stock options have an exercise
+price of 0.03 per share and are exercisable through the latter of two years from the effective date or two years after certain liquidity
+events. The total fair value of these option grants at issuance was 4,209,179. All options vested immediately. 
+
+Exercised 
+
+Forfeited 
+
+Expired 
+
+Outstanding, September 30, 2021 
+
+Granted 
+
+Exercised 
+
+Forfeited 
+
+Expired 
+
+Outstanding, September 30, 2022 
+
+As of September 30, 2022, the aggregate intrinsic
+value of options vested and outstanding were . As of September 30, 2022, all outstanding options had an expected remaining life of 1.86 
+years. 
+
+Beneficial Conversion Feature 
+
+During the year
+ended September 30, 2021, the Company charged to additional paid-in capital the aggregate amount of , in connection with the beneficial
+conversion feature of notes payable. 
+
+shares of Series G Preferred Stock with a liquidation value of per share.
+The holders of the Series G Preferred Stock have no voting rights except on matters related specifically to the Series G Preferred Stock.
+ The Series G Preferred Stock and accrued dividends are convertible
+beginning 180 days from issuance at the option of the holder into shares of common stock at a rate of a conversion price of 75 of the
+average three lowest trading prices during the 15 days prior to conversion. The Company will be required to redeem the Series G Preferred
+Stock upon the earlier of 15 months from issuance date or upon on event of default as defined in the agreement. The Company sold 
+shares for net cash proceeds of of cash proceeds. 
+
+Based on the economic characteristics of the Series
+G Preferred Stock, the Company determined that the Series G should be accounted for as a liability under ASC 480-10, based on the discounted
+conversion price providing an effectively fixed monetary amount that the preferred stock is convertible into. The Company recorded a debt
+discount of for the difference between the cash proceeds and the total amount to be redeemed by the holder of . The Company
+amortized of this discount through September 30, 2021. The dividends on the Series G Preferred Stock are recorded as interest expense
+and totaled through September 30, 2021. 
+
+During the year ended September 30, 2022, the Company
+sold an aggregate of shares of Series G Preferred Stock for net cash proceeds of . The Company recorded a debt discount
+of for the difference between the cash proceeds and the total amount to be redeemed by the holder of . The Company amortized
+ of discount related to Series G Preferred Stock for the year months ended September 30, 2022. The dividends on the Series G Preferred Stock are accrued as interest.
+The Company recognized 15,852 of interest on the Series G Preferred Stock and had an accrued interest balance of and as
+of September 30, 2022 and September 30, 2021, respectively. During the year ended September 30, 2022, the holder of the Series G converted
+ shares of Series G and of dividends into shares of common stock, and the Company recognized a loss of . 
+
+As of September 30, 2022 and September 30, 2021, 
+and shares of the Series G Preferred Stock were issued and outstanding, respectively.
+The balance of the Series G Preferred stock liability was 126,294 and 86,130, respectively, net of unamortized discount of and
+ , respectively. 
+
+shares of common stock for cash. The purchase and issuance
+of the shares was to be completed by June 30, 2022 but has not yet occurred. 
+
+. 
+
+The Consultant may also receive a bonus in each calendar
+year of the agreement equal to the larger of any bonus awarded by the Board of Directors to the Consultant or 50 of the largest bonus
+payable by the Company to anyone other than the Consultant. If the agreement is terminated with one year of a change of control of the
+Company, the Consultant will be entitled to receive a payment equal to 2.99 times the larger of the total compensation paid to the Consultant
+over the prior 12 month period or the average compensation paid or payable to the Consultant over the prior three years. 
+
+The Consultant also received warrants with
+an exercise price of per share, and an exercise period of 5 years. The Company estimated the fair value of the warrants to be 
+ which was recognized as general and administrative expense during the nine months ended June 30, 2022, using the following assumptions:
+1) volatility of ; 2) risk free rate of ; 3) dividend yield of and 4) expected term of 5 years. The Consultant is also entitled
+to additional warrants in the event of the Company issuing equity or equity equivalents in the future, with the Consultant receiving an
+equal amount of warrants as those instruments that are issued. . 
+
+Litigation 
+
+From time to time, the Company may
+be subject to routine litigation, claims, or disputes in the ordinary course of business. In the opinion of management, no pending or
+known threatened claims, actions or proceedings against the Company are expected to have a material adverse effect on the Company s
+financial position, results of operations or cash flows. The Company cannot predict with certainty, however, the outcome or effect of
+any of the litigation or investigatory matters specifically described above or any other pending litigation or claims. There can be no
+assurance as to the ultimate outcome of any lawsuits and investigations. 
+
+issued to Fabrizio de Silvestri, Terni, Italy, as inventor, April
+7, 2020 for treatment of Multiple Sclerosis. In consideration for the license agreement, SomaCeuticals agreed to pay 7 to Stand
+a royalty of of the net sales of any product developed under the patent on a worldwide basis. Additionally, the Company will
+issue shares of common stock to 7 to Stand upon completion of the following milestones: 
+
+The Company paid in royalties during the year
+ended September 30, 2022 and owes of royalties and late fees under this agreement as of September 30, 2022. 
+
+During the year ended September 30, 2021, the Company
+recognized share-based compensation expense of related to the shares issued pursuant to the first two milestones
+described above, based on the closing price of the Company s common stock on the date the milestone was met. 
+
+The Company is currently in default of this agreement. 
+
+- 34 - 
+
+Table of Contents 
+
+which expire beginning in 2033. The deferred tax asset related to the net operating loss carryforwards has been fully reserved. 
+
+Valuation allowance 
+
+() 
+ 
+ () 
+ 
+ Deferred tax benefit, net 
+
+The Company has not recognized an income tax benefit
+for the period based on uncertainties concerning its ability to generate taxable income in future periods. The tax benefit for the current
+period presented is offset by a valuation allowance (100 established against deferred tax assets arising from operating losses and other
+temporary differences, the realization of which could not be considered more likely than not. In future periods, tax benefits and related
+deferred tax assets will be recognized when management considers realization of such amounts to be more likely than not. 
+
+The tax returns for fiscal year 2017 and forward are still open for review
+by the Internal Revenue Service. 
+
+shares and dividends of into shares of common stock. 
+
+On October 13, 2022, the holders of the Series G Preferred
+Stock converted a total of shares and dividends of into shares of common stock. 
+
+On October 18, 2022, the holders of the Series G Preferred
+Stock converted a total of shares and dividends of into shares of common stock. 
+
+On November 10, 2022, the holders of the Series G
+Preferred Stock converted a total of shares and dividends of into shares of common stock. 
+
+On November 14, 2022, the holders of the Series G Preferred Stock converted
+a total of shares and dividends of into shares of common stock. 
+
+- 35 - 
+
+Table of Contents 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+Changes
+in Accountants 
+
+None. 
+
+Disagreements
+with Accountants 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Our
+management evaluated the effectiveness of our disclosure controls and procedures as of September 30, 2022 (the Evaluation
+Date ). The term disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under
+the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be
+disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported,
+within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation,
+controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files
+or submits under the Exchange Act is accumulated and communicated to the company s management, including its principal executive
+and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure. Management recognizes
+that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving
+their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls
+and procedures. Based on the evaluation of our disclosure controls and procedures as of September 30, 2022, our management concluded
+that, as of such date, our disclosure controls and procedures were not effective at the reasonable assurance level. 
+
+Limitations
+on Systems of Controls 
+
+Our
+management, including our principal executive officer and principal financial officer, does not expect that our disclosure controls
+and procedures or our internal controls will prevent all error or fraud. A control system, no matter how well conceived and operated,
+can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of
+a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative
+to their costs. Due to the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance
+that all control issues and instances of fraud, if any, have been detected. To address the material weaknesses identified in our
+evaluation, we performed additional analysis and other post-closing procedures in an effort to ensure our consolidated financial
+statements included in this annual report have been prepared in accordance with generally accepted accounting principles. Accordingly,
+management believes that the financial statements included in this report fairly present in all material respects our financial
+condition, results of operations and cash flows for the periods presented. 
+
+Management s
+Report on Internal Control over Financial Reporting 
+
+Management s
+Annual Report on Internal Control Over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rules 13a-15(f)
+and 15d-15(f) of the Exchange Act. Internal control over financial reporting is a process designed to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP. Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes
+in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Management
+has conducted an assessment, including testing of the effectiveness, of our internal control over financial reporting as of Evaluation
+Date. Management s assessment of internal control over financial reporting was conducted using the criteria set forth by
+the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework (2013
+Framework). 
+
+- 36 - 
+
+Table of Contents 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes
+in conditions, or that the degree of compliance with the policies or procedures may deteriorate. All internal control systems,
+no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only
+reasonable assurance with respect to financial statement preparation and presentation. Because of the inherent limitations of
+internal control, there is a risk that material misstatements may not be prevented or detected on a timely basis by internal control
+over financial reporting. However, these inherent limitations are known features of the financial reporting process. Therefore,
+it is possible to design into the process safeguards to reduce, though not eliminate, this risk. 
+
+As
+of September 30, 2022, management assessed the effectiveness of our internal control over financial reporting based on the criteria
+for effective internal control over financial reporting established in Internal Control-Integrated Framework issued by the Committee
+of Sponsoring Organizations of the Treadway Commission COSO and SEC guidance on conducting such assessments. Based
+on that evaluation, they concluded that, during the period covered by this report, such internal controls and procedures were
+not effective to detect the inappropriate application of US GAAP rules as more fully described below. This was due to deficiencies
+that existed in the design or operation of our internal controls over financial reporting that adversely affected our internal
+controls and that may be considered to be material weaknesses. 
+
+The
+matters involving internal controls and procedures that our management considered to be material weaknesses under the standards
+of the Public Company Accounting Oversight Board were: inadequate segregation of duties consistent with control objectives; and,
+management is dominated by a single individual. The aforementioned material weaknesses were identified by our Chief Executive
+Officer in connection with the review of our financial statements as of September 30, 2022. 
+
+The
+Company recognizes the following weaknesses and deficiencies of the Company as of September 30, 2022: 
+
+We
+recognized the following deficiencies that we believe to be material weaknesses: 
+
+-
+The Company has not fully designed, implemented or assessed internal controls over financial reporting. Due to the Company being
+a development stage company, management s assessment and conclusion over internal controls were ineffective this year. 
+
+We
+recognized the following deficiencies that we believe to be significant deficiencies: 
+
+-
+The Company has no formal control process related to the identification and approval of related party transactions. 
+
+-
+No formal written policy for the approval, identification and authorization of related party transactions currently exists. 
+
+Management
+believes that the material weaknesses set forth above did not have an effect on our financial results. However, management believes
+that the lack of a functioning audit committee and the lack of a majority of outside directors on our board of directors results
+in ineffective oversight in the establishment and monitoring of required internal controls and procedures, which could result
+in a material misstatement in our financial statements in future periods. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None 
+
+- 37 - 
+
+Table of Contents 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Our
+officer and directors will serve until successors are elected and qualified. Our officers are elected by the board of directors
+to a term of one (1) year and serve until their successors are duly elected and qualified, or until they are removed from office.
+The board of directors has an auditing committee but no nominating or compensation committees. 
+
+The
+name, address, age and position of our president, secretary/treasurer, and director and vice president is set forth below: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ James
+C. Katzaroff 
+ 719
+Jadwin Avenue, Richland, WA, 99352 
+ 
+ 65 
+ 
+ Chief
+ Executive Officer, President, Secretary, 
+ Principal Executive Officer, and Chairman of the Board 
+
+Robert
+ Chicoski, CPA 
+ 
+ 80 
+ 
+ Chief
+ Financial officer, Treasurer, Principal Financial Officer 
+
+William
+ Farley 
+ 
+ 67 
+ 
+ Director 
+
+Steven
+ Penderghast 
+
+Director 
+
+James
+C. Katzaroff. From 2007 through 2016 was Chief Executive Officer and controlling shareholder is the founder of Advanced Medical
+Isotope Corp. (now Vivos, Inc) a late stage radiation oncology focused medical device company engaged in the development of yttrium-90
+based brachytherapy devices for the treatment of unresectable tumors. Effective May 2020, Mr. Katzaroff became the Chief Executive
+officer and controlling shareholder of Poverty Dignified, Inc. (OTC PVDG). 
+
+Robert
+Chicoski. From 1973 to 2021 was a practicing Certified Public Accountant, beginning with KPMG and continuing as a contract
+Controller and Interim CFO of client companies. He was CFO and co-founder of Oceanside Energy in Worcester, MA a pioneer in an
+on-line reverse-auction trading platform for the purchase of substantial amounts of electricity and natural gas. In the early
+2000 s Oceanside Energy enjoyed its IPO as World Energy Solutions (OTC XWES). 
+
+William
+Farley has over 35 years experience in the Business Development, Sales and leading efforts in drug discovery, development
+and partnering. Mr. Farley holds a senior leadership position at Sorrento Therapeutics. He began his career at Johnson and Johnson
+and has held positions at Pfizer and HitGen Ltd., at WuXi Apptec creating, building and leading global BD teams, VP of BD at ChemDiv
+where he leads numerous efforts to create new therapeutic companies in CNS, Oncology and Anti infectives. Mr. Farley serves on the BOD
+of GlobeStar and Xortex. Bill serves as a consultant to various executive management teams as well as advising several BODs on
+commercialization of assets. Mr. Farley has spoken at numerous conferences and is published in variety of journals, received his Bachelor
+of Science degree in Chemistry from State University of New York , Oswego and has taken graduate courses at Rutgers and UC Irvine. 
+
+Steven
+Penderghast Medical device technology professional with over 25 years experience in Corporate National Accounts, Sales
+ Management, Product Management, Marketing Management, Clinical Research and Regulatory Affairs. Since 2013, as Corporate
+Vice President, National Accounts as well as Corporate Regional Vice President/SCG for BD/CR Bard Inc., Corporate Customer Group,
+Franklin Lakes, New Jersey, has responsibility for Strategic account corporate relationships IDN and regional purchasing groups
+in Western USA; Strategic oversight of national and regional GPO business contracting and product segment agreements; Corporate
+guidance over product segment commercialization and technology introductions. 
+
+Family
+Relationships 
+
+There
+are no family relationships among our directors, executive officers or persons nominated to become executive officers or directors. 
+
+Involvement
+in Certain Legal Proceedings 
+
+During
+the past ten (10) years, none of our directors, persons nominated to become directors, executive officers, promoters or control
+persons was involved in any of the legal proceedings listen in Item 401 (f) of Regulation S-K. 
+
+- 38 - 
+
+Table of Contents 
+
+Arrangements 
+
+There
+are no arrangements or understandings between an executive officer, director or nominee and any other person pursuant to which
+he was or is to be selected as an executive officer or director. 
+
+Committees
+of the Board of Directors 
+
+There
+are no members of the established Audit Committee. 
+
+We
+do not have a policy regarding the consideration of any director candidates that may be recommended by our stockholders, including
+the minimum qualifications for director candidates, nor have our directors established a process for identifying and evaluating
+director nominees. We have not adopted a policy regarding the handling of any potential recommendation of director candidates
+by our stockholders, including the procedures to be followed. Our directors have not considered or adopted any of these policies,
+as we have never received a recommendation from any stockholder for any candidate to serve on our Board of Directors. Given our
+relative size and lack of directors and officers insurance coverage, we do not anticipate that any of our stockholders will make
+such a recommendation in the near future. 
+
+While
+there have been no nominations of additional directors proposed, in the event such a proposal is made, all current members of
+our Board will participate in the consideration of director nominees. 
+
+Our
+directors are not auditZ:\XBRL JOB\2023\2023\Q1\01 January\Edgarbiz\iXBRL__GlobeStar Therapeutics Corporation_09_30_2022_10K\Out Bound\V2\ixbrl committee financial experts within the meaning of Item 401(e) of Regulation S-K. In general,
+an audit committee financial expert is an individual member of the audit committee or Board of Directors who: 
+
+understands
+ generally accepted accounting principles and financial statements, 
+
+is
+ able to assess the general application of such principles in connection with accounting for estimates, accruals and reserves, 
+
+has
+ experience preparing, auditing, analyzing or evaluating financial statements comparable to the breadth and complexity to our
+ financial statements, 
+
+understands
+ internal controls over financial reporting, and 
+
+understands
+ audit committee functions 
+
+Our
+Board of Directors is comprised of Ms. Blankenship who is involved in our day-to-day operations. On February 23, 2018, the Company
+was notified that Robert W. Fryer tendered his resignation as an independent director. We would prefer to have an audit committee
+financial expert on our board of directors. As with most small, early-stage companies until such time our company further develops
+its business, achieves a stronger revenue base and has sufficient working capital to purchase directors and officers insurance,
+the Company does not have any immediate prospects to attract independent directors. When the Company is able to expand our Board
+of Directors to include one or more independent directors, the Company intends to establish an Audit Committee of our Board of
+Directors. It is our intention that one or more of these independent directors will also qualify as an audit committee financial
+expert. Our securities are not quoted on an exchange that has requirements that a majority of our Board members be independent
+and the Company is not currently otherwise subject to any law, rule or regulation requiring that all or any portion of our Board
+of Directors include independent directors, nor are we required to establish or maintain an Audit Committee or other
+committee of our Board of Directors. 
+
+WE
+DO NOT HAVE ANY INDEPENDENT DIRECTORS AND THE COMPANY HAS NOT VOLUNTARILY IMPLEMENTED VARIOUS CORPORATE GOVERNANCE MEASURES, IN
+THE ABSENCE OF WHICH, STOCKHOLDERS MAY HAVE MORE LIMITED PROTECTIONS AGAINST INTERESTED DIRECTOR TRANSACTIONS, CONFLICTS OF INTEREST,
+AND SIMILAR MATTERS. 
+
+Code
+of Business Conduct and Ethics 
+
+We
+have adopted a code of ethics meeting the requirements of Section 406 of the Sarbanes-Oxley Act of 2002. We believe our code of
+ethics is reasonably designed to deter wrongdoing and promote honest and ethical conduct; provide full, fair, accurate, timely,
+and understandable disclosure in public reports; comply with applicable laws; ensure prompt internal reporting of violations;
+and provide accountability for adherence to the provisions of the code of ethic. 
+
+- 39 - 
+
+Table of Contents 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+Prior to her separation from the Company in March
+2021, Ms. Blankenship was paid 5,000 per month for her services to the company. The Company s CEO is paid 15,000 per month, and
+the Company s CFO is paid 7,000 per month. No amounts were paid in cash during the years ended September 30, 2021 and 2022. 
+
+The table below summarizes all compensation awards
+paid or accrued to our named executive officer for all service rendered in all capacities to us for the fiscal periods ended September
+30, 2021 and 2022. 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and Principal Position 
+ 
+ Fiscal 
+ Year 
+ 
+ Salary 
+ ) 
+
+Bonus 
+ ) 
+ 
+ Stock 
+ Awards 
+ ) 
+
+Option 
+ Awards 
+ ) 
+ 
+ Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) 
+ 
+ Nonqualified 
+ Deferred 
+ Compensation 
+ ) 
+ 
+ All Other 
+ Compensation 
+ ) 
+ 
+ Total ) 
+
+James C. Katzaroff 
+ 
+ 2022 
+
+177,933 
+ (a) 
+
+(b) 
+
+284,840 
+
+462,773 
+
+2021 
+
+105,000 
+ (a) 
+
+(b) 
+
+1,864,391 
+
+1,969,391 
+
+Robert R. Chicoski 
+ 
+ 2022 
+
+84,000 
+
+84,000 
+
+2021 
+
+31,500 
+
+(b) 
+
+310,732 
+
+417,232 
+
+Alex Blankenship 
+ 
+ 2022 
+
+(a) 
+
+CEO 
+ 
+ 2021 
+
+30,000 
+ (a) 
+
+102,700 
+ (b) 
+
+132,700 
+
+(a) 
+ Includes amount accrued during the year; 
+
+(b) 
+ Includes 35,000,000 options issued to Mr. Katzaroff pursuant to amended employment agreement. Includes 5,000,000 shares issued Robert Chicoski as a finder s fee related to the Company s license agreement. Includes 5,000,000 shares of common stock with a fair value of 12,000 awarded to Ms. Blankenship on August 14, 2020. Ms. Blankenship paid 500 in cash to the Company for these shares. For 2021, includes 2,600,000 shares issued with a fair value of 102,700 as additional compensation upon separation. 
+
+OUTSTANDING EQUITY AWARDS AT SEPTEMBER 30, 2022 
+
+Option Awards 
+ 
+ Stock Awards 
+
+Name 
+ 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options (#) 
+ Exercisable 
+ 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options (#) 
+ Unexercisable 
+ 
+ Equity 
+ Incentive 
+ Plan 
+ Awards: 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Unearned 
+ Options (#) 
+ 
+ Option 
+ Exercise 
+ Price ) 
+ 
+ Option 
+ Expiration 
+ Date 
+ 
+ Number of 
+ Shares of 
+ Stock That 
+ Have Not 
+ Vested (#) 
+ 
+ Market 
+ Value of 
+ Shares of 
+ Stock That 
+ Have Not 
+ Vested ) 
+ 
+ Equity 
+ Incentive 
+ Plan Awards: 
+ Number of 
+ Unearned 
+ Shares or 
+ Other Rights 
+ That Have 
+ Not Vested 
+ (#) 
+ 
+ Equity 
+ Incentive Plan 
+ Awards: 
+ market or 
+ Payout Value 
+ of Unearned 
+ Shares or 
+ Other Rights 
+ That Have 
+ Not Vested 
+ ) 
+
+James C. Katzaroff 
+
+30,000,000 
+
+0.03 
+
+May 12, 2023 
+
+James C. Katzaroff 
+
+35,000,000 
+
+0.009 
+
+February 7, 2027 
+
+Robert Chicoski 
+
+5,000,000 
+
+0.03 
+
+May 12, 2023 
+
+- 40 - 
+
+Table of Contents 
+
+Employment
+Agreements Retirement Benefits 
+
+None
+of our executive officers is subject to employment agreements, but we may enter into such agreements with them in the future.
+We have no plans providing for the payment of any retirement benefits. 
+
+Director
+Compensation 
+
+Directors
+receive no compensation for serving on the Board. We have no non-employee directors. 
+
+Our
+Board of Directors is comprised of James C. Katzaroff who also serves as the CEO of the Company, William Farley and Steven Penderghast.
+None of our directors has or had a compensation arrangement with the Company for director services, nor have any of them been
+compensated for director services since the Company s inception. 
+
+We
+reimburse our directors for all reasonable ordinary and necessary business related expenses, but we did not pay director s
+fees or other cash compensation for services rendered as a director in the period ended September 30, 2021 to any of the
+individuals serving on our Board during that period. We have no standard arrangement pursuant to which our directors are compensated
+for their services in their capacity as directors. We may pay fees for services rendered as a director when and if additional
+directors are appointed to the Board of Directors. 
+
+Director
+Independence 
+
+We
+currently have two independent directors and we do not anticipate appointing additional directors in the foreseeable future. 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+We
+do not currently have a stock option plan in favor of any director, officer, consultant, or employee of our company. No individual
+grants of stock options, whether or not in tandem with stock appreciation rights known as SARs or freestanding SARs have been
+made to our directors and officer since our inception; accordingly, no stock options have been granted or exercised by our directors
+and officer since we were founded. 
+
+The following table sets forth certain information as of January 3, 2023,
+with respect to the beneficial ownership of our common stock by each beneficial owner of more than 5 of the outstanding shares of common
+stock of the Company, each director, each executive officer named in the Summary Compensation Table and all executive officers
+and directors of the Company as a group, and sets forth the number of shares of common stock owned by each such person and group. Unless
+otherwise indicated, the owners have sole voting and investment power with respect to their respective shares. 
+
+Name of Beneficial Owner 
+ 
+ Number of Shares 
+ Beneficially Owned 
+
+Percentage of 
+ Outstanding 
+ Common Stock 
+ Owned 
+
+Robert Chicoski 
+
+9,000,000 
+
+1.2 
+
+James C. Katzaroff 
+
+10,000,000 
+ 
+ (1) 
+
+1.3 
+
+2021 Pharma Associates LLC (7 to Stand) 
+
+58,260,334 
+
+7.6 
+
+All directors and executive officers as a group (1) person. 
+
+19,000,000 
+
+2.5 
+
+(1)
+Does not include shares of common stock underlying 1,000,000 shares of the Company s Series E Preferred Stock owned by Mr.
+Katzaroff. The Series E Preferred Stock carries two votes for each outstanding share of the Company s common stock and, as a
+result, has 2/3 voting control over any shareholder votes. 
+
+- 41 - 
+
+Table of Contents 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+None. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The
+following table summarize the fees billed to the Company by its independent accountants, M K CPAs PLLC, for the years ended
+September 30, 2022 and 2021: 
+
+2022 
+ 
+ 2021 
+
+Audit
+ Fees 
+
+23,500 
+
+18,500 
+
+Audit
+ Related Fees (1) 
+
+Tax
+ Fees (2) 
+
+All
+ Other Fees (3) 
+
+Total
+ Fees 
+
+23,500 
+
+18,500 
+
+Notes
+to the Accountants Fees Table: 
+
+(1) 
+ Consists
+ of fees for assurance and related services by our principal accountants that are reasonably related to the performance of
+ the audit or review of the Company s financial statements and are not reported under Audit Fees. 
+
+(2) 
+ Consists
+ of fees for professional services rendered by our principal accountants for tax related services. 
+
+(3) 
+ Consists
+ of fees for products and services provided by our principal accountants, other than the services reported under Audit
+ Fees, Audit-Related Fees and Tax Fees above. 
+
+As
+part of its responsibility for oversight of the independent registered public accountants, the Board has established a pre-approval
+policy for engaging audit and permitted non-audit services provided by our independent registered public accountants. In accordance
+with this policy, each type of audit, audit-related, tax and other permitted service to be provided by the independent auditors
+is specifically described and each such service, together with a fee level or budgeted amount for such service, is pre-approved
+by the Board. All of the services provided by M K CPAs PLLC described above were approved by our Board. 
+
+The
+Company s principal accountant did not engage any other persons or firms other than the principal account 
+
+ ant s full-time,
+permanent employees. 
+
+- 42 - 
+
+Table of Contents 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+3.1 
+ Articles of Incorporation (1) 
+ 
+ 3.2 
+ Bylaws (2) 
+ 
+ 14.1 
+ Code of Ethics (3) 
+ 
+ 21 
+ Subsidiaries of the Registrant (4) 
+ 
+ 31.1 
+ Rule 13(a)-14(a)/15(d)-14(a) Certification of principal executive officer (4) 
+ 
+ 31.2 
+ Rule 13(a)-14(a)/15(d)-14(a) Certification of principal financial officer (4) 
+ 
+ 32.1 
+ Section 1350 Certification of principal executive officer (4) 
+ 
+ 32.2 
+ Section 1350 Certification of principal financial officer (4) 
+ 
+ 101.INS 
+ Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document. (5) 
+ 
+ 101.SCH 
+ Inline XBRL Taxonomy Extension Schema Document (5) 
+ 
+ 101.CAL 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document (5) 
+ 
+ 101.DEF 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document (5) 
+ 
+ 101.LAB 
+ Inline XBRL Taxonomy Extension Label Linkbase Document (5) 
+ 
+ 101.PRE 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document (5) 
+ 
+ 104 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) (5) 
+
+(1) 
+ Incorporated
+ by reference to our Definitive Proxy Statement on Schedule 14A filed on April 8, 2015. 
+ 
+ (2) 
+ Incorporated
+ by reference to our Form 10-K/A Amendment No. 1 for the year ended September 30, 2015 filed on January 22, 2016. 
+ 
+ (3) 
+ Incorporated
+ by reference to our Form S-1 filed with the Securities and Exchange Commission on November 3, 2010. 
+ 
+ (4) 
+ Filed
+ or furnished herewith. 
+ 
+ (5) 
+ In
+ accordance with Regulation S-T, the Interactive Data Files in Exhibit 101 to the Annual Report on Form 10-K shall be deemed
+ furnished and not filed. 
+
+- 43 - 
+
+Table of Contents 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized. 
+
+GlobeStar
+ Therapeutics Corporation 
+
+Date:
+ January 9, 2022 
+ BY:
+ /s/ James C. Katzaroff 
+
+James
+ C. Katzaroff 
+
+Chief
+ Executive Officer, President, Secretary, Principal Executive Officer, and Director 
+
+Date:
+ January 9, 2022 
+ BY:
+ /s/ Robert Chicoski 
+
+Robert
+ Chicoski 
+
+Chief
+ Financial Officer, Treasurer, Secretary, Principal Financial And Accounting Officer 
+
+- 44 - 
+
+<EX-21>
+ 2
+ ex_21.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+Exhibit 21 
+
+SUBSIDIARIES OF THE REGISTRANT 
+
+SomaCeuticals, Inc. (a Texas corporation) 
+
+First Titan Energy, LLC, (a Nevada limited liability company) 
+
+First Titan Technical, LLC, (a Nevada limited liability company) 
+
+</EX-21>
+
+<EX-31>
+ 3
+ ex_31-1.htm
+ RULE 13(A)-14(A)/15(D)-14(A) CERTIFICATION
+
+Exhibit 31.1 
+
+RULE 13A-14(A)/15D-14(A) CERTIFICATION 
+
+I, James C. Katzaroff, certify that: 
+
+1. I have reviewed this annual report on Form 10-K for the fiscal year ended September 30,
+2022 of GlobeStar Therapeutics Corporation. 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report; 
+
+4. I am responsible for establishing and maintaining disclosure controls and procedures (as
+defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15-d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. Designed such internal control over financial reporting, or caused such internal control
+over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant s disclosure controls and procedures
+and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period
+covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the
+case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and 
+
+5. I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize
+and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management or other employees who have
+a significant role in the registrant s internal control over financial reporting. 
+
+Date: January 9, 2022 
+ 
+ BY: /s/ James C. Katzaroff 
+
+James C. Katzaroff 
+
+Chief Executive Officer, President, Secretary, Principal Executive Officer and Chairman of the Board 
+
+</EX-31>
+
+<EX-31>
+ 4
+ ex_31-2.htm
+ RULE 13(A)-14(A)/15(D)-14(A) CERTIFICATION
+
+Exhibit 31.2 
+
+RULE 13A-14(A)/15D-14(A) CERTIFICATION 
+
+I, Robert Chicoski, certify that: 
+
+1. I have reviewed this annual report on Form 10-K for the fiscal year ended September 30,
+2022 of GlobeStar Therapeutics Corporation. 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report; 
+
+4. I am responsible for establishing and maintaining disclosure controls and procedures (as
+defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15-d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. Designed such internal control over financial reporting, or caused such internal control
+over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant s disclosure controls and procedures
+and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period
+covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the
+case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and 
+
+5. I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize
+and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management or other employees who have
+a significant role in the registrant s internal control over financial reporting. 
+
+Date: January 9, 2022 
+ 
+ BY: /s/ Robert Chicoski 
+
+Robert Chicoski 
+
+Chief Financial officer, Treasurer, Principal Financial Officer 
+
+</EX-31>
+
+<EX-32>
+ 5
+ ex_32-1.htm
+ SECTION 1350 CERTIFICATION
+
+Exhibit 32.1 
+
+SECTION 1350 CERTIFICATION 
+
+In connection with the annual report of GlobeStar Therapeutics Corporation.
+(the Company on Form 10-K for the period ended September 30, 2022 as filed with the Securities and Exchange Commission
+(the Report ), I, James C. Katzaroff, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities
+ Exchange Act of 1934; and 
+
+2. 
+ 
+ The information contained in the Report fairly presents, in all material respects, the financial
+ condition and result of operations of the Company. 
+
+Date: January 9, 2022 
+ 
+ BY: /s/ James C. Katzaroff 
+
+James C. Katzaroff 
+
+Chief Executive Officer, President, Secretary, Principal Executive Officer and Chairman of the Board 
+
+A signed original of this written statement required by Section 906, or other document authenticating,
+acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement
+has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+</EX-32>
+
+<EX-32>
+ 6
+ ex_32-2.htm
+ SECTION 1350 CERTIFICATION
+
+Exhibit 32.2 
+
+SECTION 1350 CERTIFICATION 
+
+In connection with the annual report of GlobeStar Therapeutics Corporation.
+(the Company on Form 10-K for the period ended September 30, 2022 as filed with the Securities and Exchange Commission
+(the Report ), I, Robert Chicoski, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities
+ Exchange Act of 1934; and 
+
+2. 
+ 
+ The information contained in the Report fairly presents, in all material respects, the financial
+ condition and result of operations of the Company. 
+
+Date: January 9, 2022 
+ 
+ BY: /s/ Robert Chicoski 
+
+Robert Chicoski 
+
+Chief Financial Officer, Treasurer, Principal Financial Officer 
+
+A signed original of this written statement required by Section 906, or other document authenticating,
+acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement
+has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+</EX-32>
+
+<EX-101.SCH>
+ 8
+ gstc-20220930.xsd
+ INLINE XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ gstc-20220930_def.xml
+ INLINE XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ gstc-20220930_lab.xml
+ INLINE XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ gstc-20220930_pre.xml
+ INLINE XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

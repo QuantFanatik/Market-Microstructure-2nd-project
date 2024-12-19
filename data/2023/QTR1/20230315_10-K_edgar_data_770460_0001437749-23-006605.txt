@@ -1,0 +1,4556 @@
+<Header>
+<FileStats>
+    <FileName>20230315_10-K_edgar_data_770460_0001437749-23-006605.txt</FileName>
+    <GrossFileSize>13615878</GrossFileSize>
+    <NetFileSize>192928</NetFileSize>
+    <NonText_DocumentType_Chars>1691682</NonText_DocumentType_Chars>
+    <HTML_Chars>5527802</HTML_Chars>
+    <XBRL_Chars>2734110</XBRL_Chars>
+    <XML_Chars>2948264</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-23-006605.hdr.sgml : 20230315
+<ACCEPTANCE-DATETIME>20230315104714
+ACCESSION NUMBER:		0001437749-23-006605
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		109
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230315
+DATE AS OF CHANGE:		20230315
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PEOPLES FINANCIAL CORP /MS/
+		CENTRAL INDEX KEY:			0000770460
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				640709834
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12103
+		FILM NUMBER:		23733819
+
+	BUSINESS ADDRESS:	
+		STREET 1:		152 LAMEUSE STREET
+		STREET 2:		P O BOX 529
+		CITY:			BILOXI
+		STATE:			MS
+		ZIP:			39530
+		BUSINESS PHONE:		2284355511
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 529
+		CITY:			BILOXI
+		STATE:			MS
+		ZIP:			39533-0529
+
+</SEC-Header>
+</Header>
+
+ 0001437749-23-006605.txt : 20230315
+
+10-K
+ 1
+ pfbx20221231_10k.htm
+ FORM 10-K
+
+pfbx20221231_10k.htm 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ 
+ FORM 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the fiscal year ended 
+ OR 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from ______________ to _________________ 
+
+Commission File Number 
+ 
+ PEOPLES FINANCIAL CORPORATION 
+ (Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification Number) 
+ 
+ , , - 
+ (Address of principal executive offices) (Zip code) (Registrant's telephone number, including area code) 
+
+Securities registered pursuant to Section 12 (b) of the Act: None 
+ 
+ Securities registered pursuant to Section 12 (g) of the Act: 
+
+(Title of each class) 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. YES 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. NO 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to file such files). NO 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ 
+ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issues financial statements. 
+ 
+ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES NO 
+ 
+ At June 30, 2022, the last business day of the registrant s most recently completed second fiscal quarter, the aggregate market value of the registrant s voting stock held by non-affiliates, based on the last sale price reported on the OTCQX Best Market, was approximately . 
+ 
+ On March 08, 2023, the registrant had outstanding shares of common stock, par value of 1.00 per share. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+ 
+ Portions of the Registrant's Definitive Proxy Statement issued in connection with the Annual Meeting of Shareholders to be held April 26, 2023, are incorporated by reference into Part III of this report. 
+
+Peoples Financial Corporation 
+ Form 10-K 
+ Table of Contents 
+
+PART I 
+
+Item 1. 
+ DESCRIPTION OF BUSINESS 
+ 3 
+
+Item 1A. 
+ RISK FACTORS 
+ 28 
+
+Item 1B. 
+ UNRESOLVED STAFF COMMENTS 
+ 28 
+
+Item 2. 
+ PROPERTIES 
+ 28 
+
+Item 3. 
+ LEGAL PROCEEDINGS 
+ 28 
+
+Item 4. 
+ MINE SAFETY DISCLOSURES 
+ 28 
+
+PART II 
+
+Item 5. 
+ MARKET FOR THE REGISTRANT S COMMON EQUITY, RELATED SHAREHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 29 
+
+Item 6. 
+ [RESERVED] 
+ 29 
+
+Item 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 29 
+
+Item 7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISKa 
+ 45 
+
+Item 8. 
+ FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 45 
+
+Item 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 99 
+
+Item 9A. 
+ CONTROLS AND PROCEDURES 
+ 99 
+
+Item 9B. 
+ OTHER INFORMATION 
+ 101 
+
+Part III 
+
+Item 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 101 
+
+Item 11. 
+ EXECUTIVE COMPENSATION 
+ 101 
+
+Item 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 101 
+
+Item 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+ 102 
+
+Item 14. 
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+ 102 
+
+PART IV 
+
+Item 15. 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+ 102 
+
+Item 16. 
+ FORM 10-K SUMMARY 
+ 103 
+
+Signatures 
+ 
+ 104 
+
+2
+
+PART I 
+
+ITEM 1 - DESCRIPTION OF BUSINESS 
+ 
+ BACKGROUND AND CURRENT OPERATIONS 
+ 
+ General 
+ Peoples Financial Corporation (the "Company") is a corporation that was organized as a one bank holding company in 1985. The Company is headquartered in Biloxi, Mississippi. At December 31, 2022, the Company operated in the state of Mississippi through its wholly owned subsidiary, The Peoples Bank, Biloxi, Mississippi (the Bank ). The Company is engaged, through this subsidiary, in the banking business. The Bank is the Company's principal asset and primary source of revenue. 
+ 
+ The main office, operations center and asset management and trust services of the Bank are located in downtown Biloxi, MS. At December 31, 2022, the Bank also had 17 branches located throughout Harrison, Hancock, Jackson and Stone Counties. The Bank has automated teller machines ("ATM") at its main office, all branch locations and at one non-proprietary location. 
+ 
+ The Bank Subsidiary 
+ The Company s wholly-owned bank subsidiary was originally chartered in 1896 in Biloxi, Mississippi, as The Peoples Bank of Biloxi. The Bank is a state chartered bank whose deposits are insured under the Federal Deposit Insurance Act. The Bank is not a member of the Federal Reserve System. The legal name of the Bank was changed to The Peoples Bank, Biloxi, Mississippi, during 1991. 
+ 
+ Most of the Bank's business originates from Harrison, Hancock, Stone and Jackson Counties in Mississippi; however, some business is obtained from other counties in southern Mississippi, southern Louisiana and southern Alabama. 
+ 
+ Nonbank Subsidiary 
+ In 1985, PFC Service Corp. ("PFC") was chartered and began operations as the second wholly-owned subsidiary of Peoples Financial Corporation. The purpose of PFC was principally the leasing of automobiles and equipment. PFC is inactive at this time. 
+ 
+ Products And Services 
+ The Bank currently offers a variety of services to individuals and small to middle market businesses within its trade area. The Company s trade area is defined as those portions of Mississippi, Louisiana and Alabama which are within a fifty mile radius of the Waveland, Wiggins and Gautier branches, the Bank s three most outlying locations. 
+ 
+ The Bank s primary lending focus is to offer business, commercial, real estate, construction, personal and installment loans, with an emphasis on commercial lending. The Bank s exposure for out of area, residential and land development, construction and commercial real estate loans as well as concentrations in the hotel/motel and gaming industries, are monitored by the Company. Each loan officer has board approved lending limits on the principal amount of secured and unsecured loans that can be approved for a single borrower without prior approval of the senior credit committee. All loans, however, must meet the credit underwriting standards and loan policies of the Bank. 
+
+3
+
+Deposit services include interest bearing and non-interest bearing checking accounts, savings accounts, certificates of deposit, and IRA accounts. The Bank generally provides depository accounts to individuals; small and middle market businesses; and state, county and local government entities in its trade area at interest rates consistent with market conditions. 
+ 
+ The Bank's Asset Management and Trust Services Department Trust Department offers personal trust, agencies and estate services, including living and testamentary trusts, executorships, guardianships, and conservatorships. Benefit accounts maintained by the Trust Department primarily include self-directed individual retirement accounts. Escrow management, stock transfer and bond paying agency accounts are available to corporate customers. On March 17, 2022, the bank subsidiary signed a definitive agreement with Trustmark National Bank Trustmark to acquire substantially all of the Trustmark s corporate trust business. This book of business was added to the bank subsidiary s existing corporate trust portfolio in its Asset Management and Trust Services Department. The purchase was closed on August 15, 2022. 
+ 
+ The Bank also offers a variety of other services including safe deposit box rental, wire transfer services, night drop facilities, collection services, cash management and internet banking. The Bank has 23 ATMs at its branch locations and another other off-site, proprietary location, providing bank customers access to their depository accounts. The Bank is a member of the PULSE network. 
+ 
+ Customers 
+ The Bank has a large number of customers acquired over a period of many years and is not dependent upon a single customer or upon a few customers. The Bank also provides services to customers representing a wide variety of industries including seafood, retail, hospitality, hotel/motel, gaming and construction. While the Company has pursued external growth strategies on a limited basis, its primary focus has been on internal growth by the Bank through the establishment of new branch locations and an emphasis on strong customer relationships. 
+ 
+ Employees 
+ At December 31, 2022, the Bank employed 135 total employees, with 132 full-time employees and 3 part-time employees. The Company has no employees who are not employees of the Bank. Through the Bank, employees receive salaries and benefits, which include 401(k) and ESOP plans, a cafeteria plan, life, health and disability insurance. The Company considers its relationship with its employees to be good. 
+
+4
+
+Competition 
+ The Bank is in direct competition with numerous local and regional commercial banks as well as other non-bank institutions. Interest rates paid and charged on deposits and loans are the primary competitive factors within the Bank s trade area. The Bank also competes for deposits and loans with insurance companies, finance companies, brokerage houses and credit unions. The principal competitive factors in the markets for deposits and loans are interest rates paid and charged. The Bank also competes through efficiency, quality of customer service, the range of services and products it provides, the convenience of its branch and ATM locations and the accessibility of its staff. The Bank intends to continue its strategy of being a local, community bank offering traditional bank services and providing quality service in its local trade area. 
+ 
+ Miscellaneous 
+ The Bank holds no patents, licenses (other than licenses required to be obtained from appropriate bank regulatory agencies), franchises or concessions. 
+ 
+ The Bank has not engaged in any research activities relating to the development of new services or the improvement of existing services except in the normal course of its business activities. The Bank presently has no plans for any new line of business requiring the investment of a material amount of total assets. 
+ 
+ Available Information 
+ The Company maintains an internet website at www.thepeoples.com . The Company s Annual Report to Shareholders is available on the Company s website. Also available through the website is a link to the Company s filings with the Securities and Exchange Commission SEC ). Information on the Company s website is not incorporated into this Annual Report on Form 10-K or the Company s other securities filings and is not part of them. 
+
+REGULATION AND SUPERVISION 
+ 
+ General 
+ 
+ As a bank holding company under the Bank Holding Company Act of 1956, the Company is subject to regulation, supervision and examination by the Board of Governors of the Federal Reserve System and the Federal Reserve Bank of Atlanta (the Federal Reserve ). The Company is required to file semi-annual reports with the Federal Reserve and such other information as the Federal Reserve may require. The Company is also required to file certain reports with, and otherwise comply with the rules and regulations of, the SEC under the federal securities laws. 
+ 
+ The Bank is incorporated under the laws of the State of Mississippi and is subject to the applicable provisions of Mississippi banking laws and the laws of the various states in which it operates, as well as federal law. The Bank is subject to the supervision of the Mississippi Department of Banking and Consumer Finance (the MDBCF and to regular examinations by that department. Deposits in the Bank are insured by the Federal Deposit Insurance Corporation (the FDIC ), and the Bank is thus subject to the provisions of the Federal Deposit Insurance Act and to supervision and examination by the FDIC. State and federal laws also govern the activities in which the Bank engages, the investments that it makes and the aggregate amount of loans that may be granted to one borrower. The MDBCF and the FDIC also regulate the branching authority of the Bank. In addition, various consumer and compliance laws and regulations affect the Bank s operations. 
+
+5
+
+The earnings of the Company s subsidiaries, and therefore the earnings of the Company, are affected by general economic conditions, management policies, changes in state and federal legislation and actions of various regulatory authorities, including those referred to above. The following discussion summarizes some of the significant federal and state laws to which the Company and the Bank are subject. This discussion is a brief summary of the regulatory environment in which the Company and its subsidiaries operate and is not intended as a complete discussion of all statutes and regulations affecting such operations. Regulation of financial institutions is intended primarily for the protection of depositors, the deposit insurance fund and the banking system, and generally is not intended for the protection of shareholders. 
+ 
+ The statutes, regulations and policies that govern the operations of the Company and the Bank are under continuous review and are subject to amendment from time to time by Congress, the Mississippi State Legislature and federal and state regulatory agencies. Any such future statutory or regulatory changes could adversely affect the Company s operations and financial condition. 
+ 
+ Regulation of the Bank 
+ 
+ The Bank is subject to regulation and supervision by the MDBCF and by the FDIC, which regulation and supervision extends to all aspects of its operations, including but not limited to requirements concerning an allowance for loan losses, lending and mortgage operations, interest rates received on loans and paid on deposits, the payment of dividends to the Company, loans to officers and directors, mergers and acquisitions, capital adequacy, and the opening and closing of branches. 
+ 
+ The Bank is subject to periodic examinations by the MDBCF and by the FDIC. In these examinations, the examiners assess compliance with state and federal banking regulations and the safety and soundness standards in such matters as loan underwriting and documentation, asset quality, earnings standards, internal controls and audit systems, interest rate risk exposure, and employee compensation and benefits. 
+ 
+ The MDBCF and the FDIC have enforcement responsibility over the Bank and the authority to bring actions against the Bank and certain institution-affiliated parties, including officers, directors, and employees, for violations of laws or regulations and for engaging in unsafe and unsound practices. Formal enforcement actions include the issuance of a capital directive or cease and desist order, civil money penalties, removal of officers and/or directors, and receivership or conservatorship of the institution. 
+ 
+ Insurance of Deposit Accounts 
+ The FDIC insures deposits at federally insured depository institutions like the Bank. Deposit accounts in the Bank are insured by the FDIC s Deposit Insurance Fund (the DIF generally up to a maximum of 250,000 per separately insured depositor and up to a maximum of 250,000 for self-directed retirement accounts. The FDIC charges banks deposit insurance assessments to maintain the Deposit Insurance Fund. Under the FDIC s risk-based assessment system, banks that are deemed to be less risky pay lower assessments. Assessments for institutions with assets of less than 10 billion of assets, such as the Bank, are based on financial measures and supervisory ratings derived from statistical modeling estimating the probability of failure of an institution s failure within three years. 
+
+6
+
+In October 2022, the FDIC adopted a final rule that increased the initial base deposit insurance assessment rate schedules uniformly by 2 basis points beginning with the first quarterly assessment period of 2023. The FDIC increased the insurance assessment rates in response to the 2020 decline in the DIF reserve ratio below the statutory minimum of 1.35 established by the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act ), and the increased assessment is expected to improve the likelihood that the reserve ratio would be restored to 1.35 by September 30, 2028 prescribed under the FDIC s restoration plan. The FDIC s assessment rates effective January 1, 2023 (which are subject to change) range for most insured depository institutions is 3 basis points to 30 basis points of total assets less tangible equity. The FDIC has the authority to increase insurance assessments and to impose special assessments. Any significant increases or special assessments could have an adverse effect on the results of operations of the Bank. We cannot predict what the FDIC s deposit insurance assessment rates will be in the future. The FDIC is set to increase the assessment rate to 2 percent for 2023. 
+ 
+ Insurance of deposits may be terminated by the FDIC upon a finding that an institution has engaged in unsafe or unsound practices, is in an unsafe or unsound condition to continue operations, or has violated any applicable law, regulation, rule, order or condition imposed by the FDIC. We do not know of any practice, condition or violation that may lead to termination of the Bank s deposit insurance. 
+ 
+ Regulatory Capital Requirements 
+ The Bank is required to comply with applicable capital adequacy requirements adopted by the FDIC and the other federal bank regulatory agencies (the Federal Capital Rules ). The Federal Capital Rules apply to all depository institutions as well as to all top-tier bank holding companies that are not subject to the Federal Reserve s Small Bank Holding Company Policy Statement, which the Company is not. The capital requirements are quantitative measures established by regulation that require the Bank to maintain minimum amounts and ratios of capital. Failure to meet minimum capital requirements can initiate certain mandatory and possibly additional discretionary actions by bank regulators that, if undertaken, could have a direct material effect on the Company s financial statements. 
+ 
+ The Federal Capital Rules requires the maintenance of common equity Tier 1 capital, Tier 1 capital and Total capital to risk-weighted assets of at least 4.5 , 6 and 8 , respectively. The Federal Capital Rules also establish a minimum leverage ratio of at least 4 Tier 1 capital to average consolidated assets. In addition to the above minimum requirements, the Federal Capital Rules limit capital distributions and certain discretionary bonus payments if a banking organization does not hold a capital conservation buffer consisting of 2.5 of common equity Tier 1 capital to risk-weighted assets above the amount necessary to meet its minimum risk-based capital requirements. The capital conservation buffer requirement effectively increases the minimum required risk-based capital ratios to 7 for common equity Tier 1 capital, 8.5 for Tier 1 capital and 10.5 for Total capital. 
+
+7
+
+In determining the amount of risk-weighted assets for purposes of calculating risk-based capital ratios, a bank s assets, including certain off-balance sheet assets (e.g., recourse obligations, direct credit substitutes and residual interests), are multiplied by a risk weight factor assigned by the capital regulations based on the risk deemed inherent in the type of asset. Higher levels of capital are required for asset categories believed to present greater risk. For example, a risk weight of 0 is assigned to cash and U.S. government securities, a risk weight of 50 is generally assigned to prudently underwritten first lien one- to four-family residential mortgages, a risk weight of 100 is assigned to commercial and consumer loans, a risk weight of 150 is assigned to non-residential mortgage loans that are 90 days past due or otherwise on non-accrual status, and a risk weight of between 0 to 600 is assigned to permissible equity interests, depending on certain specified factors. 
+ 
+ Under federal statute, the federal bank regulatory agencies are required to take prompt corrective action with respect to institutions that do not meet specified minimum capital requirements. For these purposes, the statute establishes five capital categories: well-capitalized, adequately capitalized, undercapitalized, significantly undercapitalized and critically undercapitalized. Under the prompt corrective action regulations, in order to be considered well-capitalized, a bank must have a ratio of common equity Tier 1 capital to risk-weighted assets of 6.5 , a ratio of Tier 1 capital to risk-weighted assets of 8 , a ratio of total capital to risk-weighted assets of 10 , and a leverage ratio of 5 . In order to be considered adequately capitalized, a bank must have the minimum capital ratios required by the regulatory capital rule described above. Institutions with lower capital ratios are assigned to lower capital categories. Based on safety and soundness concerns, a bank may be assigned to a lower capital category than would otherwise apply based on its capital ratios. A bank that is not well-capitalized is subject to certain restrictions on brokered deposits and interest rates on deposits. A bank that is not at least adequately capitalized is subject to numerous additional restrictions, and a guaranty by its holding company is required. A bank with a ratio of tangible equity to total assets of 2.0 or less is subject to the appointment of the FDIC as receiver if its capital level does not improve within 90 days. 
+ 
+ As of December 31, 2022, the Bank was in compliance with all regulatory capital requirements and qualified as well-capitalized under the prompt corrective action regulations. 
+ 
+ The Economic Growth, Regulatory Relief and Consumer Protection Act, enacted in 2018, introduced an optional simplified measure of capital adequacy for qualifying community banking organizations with total consolidated assets of less than 10 billion by instructing the federal banking regulators to establish a single Community Bank Leverage Ratio CBLR of tangible equity capital divided by average consolidated assets of between 8 and 10 percent in satisfaction of any other leverage or capital requirements to which such organizations are subject. 
+ 
+ The federal banking regulators jointly issued a final rule, effective January 1, 2020, which provided that a community banking organization with less than 10 billion in assets may elect to use the CBLR capital framework so long as the bank has a Tier 1 leverage ratio of greater than 9 and limited amounts of off-balance-sheet exposures and trading assets and liabilities. A qualifying banking organization that elects to use the CBLR will be deemed to satisfy the generally applicable leverage and risk-based regulatory capital requirements, will be considered to have met the well-capitalized ratio requirements under the prompt corrective action regulations, and will not be required to report or calculate risk-based capital. As of December 31, 2022, the Bank qualified to use the CBLR; however, it has elected not to opt into the CBLR framework. 
+
+8
+
+Transactions with Related Parties 
+ The Bank is subject to the Federal Reserve s Regulation W, which implements the restrictions of Sections 23A and 23B of the Federal Reserve Act on transactions between a bank and its affiliates. The affiliates of the Bank, as defined in Regulation W, are the Company and its non-bank subsidiary. Section 23A and the implementing provisions of Regulation W generally place limits on the amount of a bank s loans or extensions of credit to, investments in, or certain other transactions with its affiliates, and on the amount of advances to third parties collateralized by the securities or obligations of affiliates. Section 23B and Regulation W generally require a bank s transactions with affiliates to be on terms substantially the same, or at least as favorable to the bank, as those prevailing at the time for comparable transactions with non-affiliated companies. 
+ 
+ The Bank is also subject to certain restrictions on extensions of credit to executive officers, directors, principal shareholders and the related interests of those persons. Such extensions of credit must be made on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions with third parties and must not involve more than the normal risk of repayment or present other unfavorable features. 
+ 
+ Community Reinvestment Act and Fair Lending Laws 
+ All insured depository institutions have a responsibility under the Community Reinvestment Act of 1977 (the CRA and the federal regulations thereunder to help meet the credit needs of their communities, including low- and moderate-income neighborhoods. In connection with its examination of the Bank, the FDIC is required to assess the Bank s record of meeting the credit needs of its entire community. The CRA requires the Bank s record of compliance with the CRA to be taken into account in the evaluation of applications by the Bank or the Company for approval of an expansionary proposal, such as a merger or other acquisition of another bank or the opening of a new branch office. The Bank received a satisfactory rating in its most recent CRA assessment by the FDIC. 
+ 
+ In addition, the Equal Credit Opportunity Act and the Fair Housing Act prohibit lenders from discriminating in their lending practices on the basis of characteristics specified in those statutes. A failure to comply with the Equal Credit Opportunity Act or the Fair Housing Act, or the regulations thereunder, could result in enforcement actions by the FDIC or the Department of Justice. 
+ 
+ Consumer Privacy and Other Consumer Protection Laws 
+ The Bank is required under federal privacy statutes and regulations to maintain the privacy of its customers non-public, personal information. Such privacy requirements direct financial institutions to: 
+
+provide notice to customers regarding privacy policies and practices; 
+
+inform customers regarding the conditions under which their non-public personal information may be disclosed to non-affiliated third parties; and 
+
+9
+
+give customers an option to prevent disclosure of such information to non-affiliated third parties. 
+
+Under the Fair and Accurate Credit Transactions Act of 2003, the Bank s customers may also opt out of information sharing between and among the Bank and its affiliates. 
+ 
+ The Bank s lending and deposit-taking operations are subject to numerous other federal and state laws designed to protect consumers. The Consumer Financial Protection Bureau CFPB issues regulations and standards under the federal consumer protection laws, which include, among others, the Home Mortgage Disclosure Act, the Real Estate Settlement Procedures Act, the Truth in Lending Act, the Electronic Fund Transfer Act, the Truth in Savings Act, the Fair Credit Reporting Act, the National Flood Insurance Act, the Flood Protection Act, and the Dodd-Frank Wall Street Reform and Consumer Protection Act s prohibition on unfair, deceptive or abusive acts or practices. The Bank s consumer financial products and services are subject to examination by the FDIC for compliance with these and other CFPB regulations and standards. 
+ 
+ Cybersecurity The federal bank regulatory agencies have adopted guidelines for establishing information security standards and cybersecurity programs for implementing safeguards under the supervision of a banking organization s board of directors. This guidance, along with related regulatory materials, increasingly focus on risk management and processes related to information technology and the use of third parties in the provision of financial products and services. The federal bank regulatory agencies expect financial institutions to establish appropriate security controls and to ensure that their risk management processes address the risk posed by compromised customer credentials, and also expect financial institutions to maintain sufficient business continuity planning processes to ensure rapid recovery, resumption, and maintenance of the institution s operations after a cyberattack. If we fail to meet the expectations set forth in such regulatory guidance, we could be subject to various regulatory sanctions, including financial penalties. 
+ 
+ In November 2021, the federal bank regulatory agencies issued a final rule to improve the sharing of information about cyber incidents that may affect the U.S. banking system. The rule, which became effective on May 1, 2022, requires a banking organization to notify its primary federal regulator within 36 hours of determining that a computer-security incident has materially affected or is reasonably likely to materially affect the viability of the banking organization s operations, its ability to deliver banking products and services, or the stability of the financial sector. In addition, the rule requires a bank service provider to notify affected banking organization customers as soon as possible when the provider determines that it has experienced a computer security incident that has materially affected or is reasonably likely to materially affect banking organization customers for four or more hours. 
+
+10
+
+Bank Secrecy Act / Anti-Money Laundering Laws 
+ The Bank is subject to the Bank Secrecy Act and other anti-money laundering laws and regulations, including the USA PATRIOT Act of 2001 and the Anti-Money Laundering Act of 2020. These laws and regulations require each financial institution to implement policies, procedures, and controls to detect, prevent, and report money laundering and terrorist financing and to verify the identity of their customers. Violations of these requirements can result in substantial civil and criminal sanctions. In addition, federal banking regulators are required, when reviewing bank holding company acquisition and bank merger applications, to take into account the effectiveness of the anti-money laundering activities of the applicants. 
+ 
+ Incentive Compensation 
+ The federal banking agencies have issued guidance on incentive compensation policies intended to ensure that the incentive compensation policies of banking organizations do not undermine the safety and soundness of such organizations by encouraging excessive risk-taking. The guidance, which covers all employees that have the ability to materially affect the risk profile of an organization, either individually or as part of a group, is based upon the key principles that a banking organization s incentive compensation arrangements should (i) provide incentives that do not encourage risk-taking beyond the organization s ability to effectively identify and manage risks, (ii) be compatible with effective internal controls and risk management, and (iii) be supported by strong corporate governance, including active and effective oversight by the organization s board of directors. 
+ 
+ The federal banking agencies will review, as part of their examination process, the incentive compensation arrangements of depository institutions and their holding companies. The findings of the supervisory review will be included in reports of examination. Any deficiencies in compensation practices that are identified may be incorporated into the organization s supervisory ratings, which can affect its ability to make acquisitions or perform other actions. The guidance also provides that enforcement actions may be taken against a banking organization if its incentive compensation arrangements or related risk-management control or governance processes pose a risk to the organization s safety and soundness and the organization is not taking prompt and effective measures to correct the deficiencies. 
+ 
+ The scope and content of the banking regulators policies on executive compensation are continuing to develop and are likely to continue evolving in the near future. It cannot be determined at this time whether compliance with such policies will adversely affect the ability of the Bank and the Company to hire, retain and motivate their key employees. 
+ 
+ Regulation of the Company 
+ 
+ As a bank holding company under the Bank Holding Company Act, the Company is subject to regulation, supervision, and examination by the Federal Reserve. The Company is required to file semi-annual reports with the Federal Reserve and provide such additional information as the Federal Reserve may require. The Federal Reserve has extensive enforcement authority over bank holding companies, including, among other things, the ability to assess civil money penalties, to issue cease and desist or removal orders and to require that a holding company divest subsidiaries (including its bank subsidiaries). In general, enforcement actions may be initiated for violations of law and regulations and unsafe or unsound practices. 
+
+11
+
+Regulatory Capital Requirements 
+ The Federal Capital Rules apply to all depository institutions as well as to bank holding companies with consolidated assets of 3 billion or more. The Federal Capital Rules generally do not apply on a consolidated basis to a bank holding company that is a small bank holding company, which is a holding company with total consolidated assets of less than 3 billion, unless it: (1) is engaged in significant nonbanking activities either directly or through a nonbank subsidiary; (2) conducts significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; or (3) has a material amount of debt or equity securities outstanding (other than trust preferred securities) that are registered with the SEC. Since the Company s common stock is registered with the SEC, it is not a small bank holding company, and the Federal Capital Rules apply to the Company. The Federal Reserve may apply the regulatory capital standards at its discretion to any bank holding company, regardless of asset size, if such action is warranted for supervisory purposes. 
+ 
+ Acquisitions 
+ Under the Bank Holding Company Act, the Company is required to obtain the prior approval of the Federal Reserve to acquire ownership or control of more than 5 of the voting shares or substantially all of the assets of any bank holding company or bank or to merge or consolidate with another bank holding company. Federal law authorizes bank holding companies to make interstate acquisitions of banks without geographic limitation. 
+ 
+ Permissible Activities 
+ In general, the Bank Holding Company Act limits the activities of a bank holding company to those of banking, managing or controlling banks, or any other activity that the Federal Reserve has determined to be so closely related to banking or to managing or controlling banks that an exception is allowed for those activities. Bank holding companies that qualify and elect to be treated as financial holding companies may engage in a broad range of additional activities that are (i) financial in nature or incidental to such financial activities or (ii) complementary to a financial activity and do not pose a substantial risk to the safety and soundness of depository institutions or the financial system generally. These activities include securities underwriting and dealing, insurance agency and underwriting, and making merchant banking investments. The Company has not made an election to be treated as a financial holding company. 
+ 
+ Source of Strength . Under the Bank Holding Company Act, a bank holding company is required to act as a source of financial and managerial strength for each of its subsidiary banks and to commit resources to support each subsidiary bank. Under this source of strength doctrine, the Federal Reserve may require a bank holding company to make capital injections into a troubled subsidiary bank. The Federal Reserve may charge the bank holding company with engaging in unsafe and unsound practices if it fails to commit resources to such a subsidiary bank or if it undertakes actions that the Federal Reserve believes might jeopardize its ability to commit resources to such subsidiary bank. A capital injection may be required at times when the holding company does not have the resources to provide it. 
+
+12
+
+In addition, any loans by a bank holding company to a subsidiary bank are subordinate in right of payment to deposits and to certain other indebtedness of such subsidiary bank. In the event of a bank holding company s bankruptcy, the bankruptcy trustee will assume any commitment by the holding company to a federal bank regulatory agency to maintain the capital of a subsidiary bank. Moreover, the bankruptcy law provides that claims based on any such commitment will be entitled to a priority of payment over the claims of the institution s general unsecured creditors, including the holders of its note obligations. 
+ 
+ Dividends 
+ 
+ The Company is a legal entity that is separate and distinct from its subsidiaries. The primary source of funds for dividends paid to the Company s shareholders is dividends paid to the Company by the Bank. 
+ 
+ Various federal and state laws limit the amount of dividends that the Bank may pay to the Company without regulatory approval. Under Mississippi law, the Bank must obtain the non-objection of the Commissioner of the MDBCF prior to paying any dividend on the Bank s common stock. In addition, the Bank may not pay any dividends if, after paying the dividend, it would be undercapitalized under applicable capital requirements. Furthermore, if the Bank does not maintain the capital conservation buffer required by applicable regulatory capital rules, its ability to pay dividends to the Company would be limited. The FDIC also has the authority to prohibit the Bank from engaging in business practices that the FDIC considers to be unsafe or unsound, which, depending on the financial condition of the Bank, could include the payment of dividends. 
+ 
+ The Company is subject to various restrictions relating to the payment of dividends. The Federal Reserve has issued guidance indicating that bank holding companies should generally pay dividends only if the company s net income available to common shareholders over the preceding year has been sufficient to fully fund the dividends, and the prospective rate of earnings retention appears consistent with the company s capital needs, asset quality and overall financial condition. The Federal Reserve s guidance also states that a bank holding company should inform and consult with its regional Federal Reserve Bank in advance of declaring or paying a dividend that exceeds earnings for the period for which the dividend is being paid or that could result in a material adverse change to the organization s capital structure. The Federal Reserve has indicated that, in some instances, it may be appropriate for a bank holding company to eliminate its dividends. 
+ 
+ Federal Securities Law 
+ 
+ The Company s common stock is registered under Section 12(g) of the Securities Exchange Act of 1934, as amended Exchange Act ), and the Company is subject to the periodic reporting and other requirements of the SEC under Section 12(g) of the Exchange Act and SEC regulations. The common stock of the Company is listed on the OTCQX Best Market, such listing subjecting the Company to compliance with the market s requirements with respect to reporting and other rules and regulations. 
+
+13
+
+SUPPLEMENTAL STATISTICAL INFORMATION 
+ 
+ The following pages present certain statistical information regarding the Company. This information is not audited and should be read in conjunction with the Company's Consolidated Financial Statements and Notes to Consolidated Financial Statements found in Item 8 of this Annual Report on Form 10-K. 
+ 
+ Distribution of Assets, Liabilities and Shareholders' Equity and Interest Rates and Differentials 
+ Net Interest Income, the difference between Interest Income and Interest Expense, is the most significant component of the Company's earnings. For interest analytical purposes, Management adjusts Net Interest Income to a "taxable equivalent" basis using a Federal Income Tax rate of 21 in 2022, 2021 and 2020 on tax-exempt items (primarily interest on municipal securities). 
+ 
+ Another significant statistic in the analysis of Net Interest Income is the net yield on earning assets. The net yield is the difference between the rate of interest earned on earning assets and the effective rate paid for all funds, non-interest bearing as well as interest bearing. Since a portion of the Bank's deposits do not bear interest, such as demand deposits, the rate paid for all funds is lower than the rate on interest bearing liabilities alone. 
+ 
+ Recognizing the importance of interest differential to total earnings, management places great emphasis on managing interest rate spreads. Although interest differential is affected by national, regional and local economic conditions, including the level of credit demand and interest rates, there are significant opportunities to influence interest differential through appropriate loan and investment policies which are designed to maximize the differential while maintaining sufficient liquidity and availability of incremental funds for purposes of meeting existing commitments and investment in lending and investment opportunities that may arise. 
+ 
+ The information included on pages 21 and 22 presents the change in interest income and interest expense along with the reason(s) for these changes. The change attributable to volume is computed as the change in volume times the old rate. The change attributable to rate is computed as the change in rate times the old volume. The change in rate/volume is computed as the change in rate times the change in volume. 
+ 
+ Credit Risk Management and Loan Loss Experience 
+ In the normal course of business, the Bank assumes risks in extending credit. The Bank manages these risks through its lending policies, credit underwriting analysis, appraisal requirements, concentration and exposure limits, loan review procedures and the diversification of its loan portfolio. Although it is not possible to predict loan losses with complete accuracy, Management constantly reviews the characteristics of the loan portfolio to determine its overall risk profile and quality. 
+ 
+ Constant attention to the quality of the loan portfolio is achieved by the loan review process. Throughout this ongoing process, Management is advised of the condition of individual loans and of the quality profile of the entire loan portfolio. Any loan or portion thereof which is classified "loss" by regulatory examiners or which is determined by Management to be uncollectible because of such factors as the borrower's failure to pay interest or principal, the borrower's financial condition, economic conditions in the borrower's industry or the inadequacy of underlying collateral, is charged-off. 
+
+14
+
+Provisions are charged to operating expense based upon historical loss experience, and additional amounts are provided when, in the opinion of Management, such provisions are not adequate based upon the current factors affecting loan collectability. 
+ 
+ The allocation of the allowance for loan losses by loan category is based on the factors mentioned in the preceding paragraphs. Accordingly, since all of these factors are subject to change, the allocation is not necessarily indicative of the breakdown of future losses. In June 2016, the FASB issued Accounting Standards Update ASU 2016-03, Financial Instruments Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments , which replaces the current incurred loss impairment methodology with a methodology that reflects all current expected credit losses CECL and requires consideration of a broader range of reasonable and supportable information to determine credit loss estimates. ASU 2016-13 was originally to become effective for the Company for interim and annual periods beginning after December 15, 2019. In November 2019, the FASB issued ASU 2019-10, Financial Instruments Credit Losses (Topic 326), Derivatives and Hedging (Topic 815) and Leases (Topic 842): Effective Dates . ASU 2019-10 amends the effective date for certain entities, including the Company, for ASU 2016-13, which is now effective for the Company in fiscal years beginning after December 15, 2022, including interim periods within those fiscal years. The Company expects the adoption of this ASU not to have a significant impact to the Company s financial statements. The adjustment is expected to increase the allowance for loan losses by less than 2 . For additional details regarding the pending adoption of this accounting pronouncement, see Note A Business and Summary of Significant Accounting Policies included in Part II. Item 8. Financial Statements and Supplementary Data of this report. 
+ 
+ Further information concerning the provision for loan losses and the allowance for loan losses is presented in "Management's Discussion and Analysis" in Item 7 of this Annual Report on Form 10-K and in Note A - Business and Summary of Significant Accounting Policies to the 2022 Consolidated Financial Statements in Item 8 of this Annual Report on Form 10-K. 
+ 
+ Return on Equity and Assets 
+ The Company s results and key ratios for 2018 2022 are summarized in the "Selected Financial Data" in Item 6 and "Management's Discussion and Analysis" in Item 7 of this Annual Report on Form 10-K. 
+ 
+ Dividends 
+ The Company paid a cash dividend of 0.19, .16 and .02 per share for the years ended December 31, 2022, 2021 and 2020, respectively. 
+
+15
+
+Distribution of Average Assets, Liabilities and Shareholders Equity (1) (In thousands) 
+
+For the Years Ended December 31, 
+ 
+ 2022 
+
+2021 
+
+2020 
+
+ASSETS: 
+
+Cash and due from banks 
+
+27,367 
+
+28,763 
+
+26,975 
+
+Available for sale securities: 
+
+Taxable securities 
+
+392,645 
+
+285,479 
+
+193,627 
+
+Non-taxable securities 
+
+4,740 
+
+5,802 
+
+6,426 
+
+Other securities 
+
+2,155 
+
+2,151 
+
+2,153 
+
+Held to maturity securities: 
+
+Taxable securities 
+
+105,047 
+
+66,216 
+
+42,648 
+
+Non-taxable securities 
+
+37,557 
+
+32,616 
+
+15,985 
+
+Other investments 
+
+350 
+
+350 
+
+350 
+
+Net loans (2) 
+
+232,430 
+
+259,071 
+
+276,865 
+
+Balances due from depository institutions 
+
+49,191 
+
+64,415 
+
+56,103 
+
+Other assets 
+
+42,947 
+
+43,662 
+
+47,052 
+
+TOTAL ASSETS 
+
+894,429 
+
+788,525 
+
+668,184 
+
+LIABILITIES AND SHAREHOLDERS' EQUITY: 
+
+Non-interest bearing deposits 
+
+197,789 
+
+192,071 
+
+151,729 
+
+Interest bearing deposits 
+
+611,227 
+
+480,549 
+
+397,071 
+
+Total deposits 
+
+809,016 
+
+672,620 
+
+548,800 
+
+Other liabilities 
+
+21,359 
+
+23,208 
+
+22,545 
+
+Total liabilities 
+
+830,375 
+
+695,828 
+
+571,345 
+
+Shareholders' equity 
+
+64,054 
+
+92,697 
+
+96,839 
+
+TOTAL LIABILITIES AND SHARE- HOLDERS' EQUITY 
+
+894,429 
+
+788,525 
+
+668,184 
+
+(1) All averages are computed on a daily basis. 
+ (2) Gross loans and discounts, net of unearned income and allowance for loan losses. 
+
+16
+
+Average (1) Amount Outstanding for Major Categories of Interest Earning Assets 
+ And Interest Bearing Liabilities (In thousands) 
+
+For the Years Ended December 31, 
+ 
+ 2022 
+
+2021 
+
+2020 
+
+INTEREST EARNING ASSETS: 
+
+Loans (2) 
+
+235,801 
+
+263,545 
+
+281,225 
+
+Balances due from depository institutions 
+
+49,191 
+
+64,415 
+
+56,103 
+
+Available for sale securities: 
+
+Taxable securities 
+
+392,645 
+
+285,479 
+
+193,627 
+
+Non-taxable securities 
+
+4,740 
+
+5,802 
+
+6,426 
+
+Other securities 
+
+2,155 
+
+2,151 
+
+2,153 
+
+Held to maturity securities: 
+
+Taxable securities 
+
+105,047 
+
+66,216 
+
+42,468 
+
+Non-taxable securities 
+
+37,557 
+
+32,616 
+
+15,985 
+
+TOTAL INTEREST EARNING ASSETS 
+
+827,136 
+
+720,224 
+
+597,987 
+
+INTEREST BEARING LIABILITIES: 
+
+Savings and negotiable interest bearing deposits 
+
+527,273 
+
+407,150 
+
+324,289 
+
+Time deposits 
+
+78,392 
+
+73,399 
+
+72,782 
+
+Borrowings from FHLB 
+
+3,669 
+
+1,219 
+
+1,660 
+
+TOTAL INTEREST BEARING LIABILITIES 
+
+609,334 
+
+481,768 
+
+398,731 
+
+(1) All averages are computed on a daily basis. 
+ (2) Net of unearned income. Includes nonaccrual loans 
+
+17
+
+Interest Earned or Paid on Major Categories of Interest Earning Assets 
+ And Interest Bearing Liabilities (In thousands) 
+
+For the Years Ended December 31, 
+ 
+ 2022 
+
+2021 
+
+2020 
+
+INTEREST EARNED ON: 
+
+Loans 
+
+11,135 
+
+12,592 
+
+13,076 
+
+Balances due from depository institutions 
+
+408 
+
+95 
+
+227 
+
+Available for sale securities: 
+
+Taxable securities 
+
+8,482 
+
+5,004 
+
+4,140 
+
+Non-taxable securities 
+
+145 
+
+178 
+
+240 
+
+Other securities 
+
+27 
+
+8 
+
+27 
+
+Held to maturity securities: 
+
+Taxable securities 
+
+2,713 
+
+1,702 
+
+1,235 
+
+Non-taxable securities 
+
+1,050 
+
+952 
+
+525 
+
+TOTAL INTEREST EARNED (1) 
+
+23,960 
+
+20,531 
+
+19,470 
+
+INTEREST PAID ON: 
+
+Savings and negotiable interest bearing deposits 
+
+1,636 
+
+525 
+
+833 
+
+Time deposits 
+
+349 
+
+281 
+
+716 
+
+Other borrowed funds 
+
+173 
+
+24 
+
+32 
+
+TOTAL INTEREST PAID 
+
+2,158 
+
+830 
+
+1,581 
+
+(1) All interest earned is reported on a taxable equivalent basis using a tax rate of 21 for 2022, 2021 and 2020. See disclosure of non-GAAP financial measures on pages 32 and 33. 
+
+18
+
+Average Interest Rate Earned or Paid for Major Categories of 
+ Interest Earning Assets And Interest Bearing Liabilities 
+
+For the Years Ended December 31, 
+ 
+ 2022 
+
+2021 
+
+2020 
+
+AVERAGE RATE EARNED ON: 
+
+Loans 
+
+4.72 
+
+4.78 
+
+4.65 
+
+Balances due from depository institutions 
+
+.83 
+
+.15 
+
+.40 
+
+Available for sale securities: 
+
+Taxable securities 
+
+2.16 
+
+1.75 
+
+2.14 
+
+Non-taxable securities 
+
+3.07 
+
+3.07 
+
+3.74 
+
+Other securities 
+
+1.25 
+
+.37 
+
+1.25 
+
+Held to maturity securities: 
+
+Taxable securities 
+
+2.58 
+
+2.57 
+
+2.90 
+
+Non-taxable securities 
+
+2.79 
+
+2.92 
+
+3.28 
+
+TOTAL (weighted average rate)(1) 
+
+2.90 
+
+2.85 
+
+3.25 
+
+AVERAGE RATE PAID ON: 
+
+Savings and negotiable interest bearing deposits 
+
+.31 
+
+.13 
+
+.26 
+
+Time deposits 
+
+.45 
+
+.37 
+
+.98 
+
+Other borrowed funds 
+
+4.72 
+
+1.97 
+
+1.93 
+
+TOTAL (weighted average rate) 
+
+.35 
+
+.17 
+
+.40 
+
+(1) All interest earned is reported on a taxable equivalent basis using a tax rate of 21 for 2022, 2021 and 2020. See disclosure of non-GAAP financial measures on pages 32 and 33. 
+
+19
+
+Net Interest Earnings and Net Yield on Interest Earning Assets 
+ (In thousands, except percentages) 
+
+For the Years Ended December 31, 
+ 
+ 2022 
+
+2021 
+
+2020 
+
+Total interest income (1) 
+
+23,960 
+
+20,531 
+
+19,470 
+
+Total interest expense 
+
+2,158 
+
+830 
+
+1,581 
+
+Net interest earnings 
+
+21,802 
+
+19,701 
+
+17,889 
+
+Net yield on interest earning assets 
+
+2.64 
+
+2.74 
+
+2.99 
+
+(1) All interest earned is reported on a taxable equivalent basis using a tax rate of 21 for 2022, 2021 and 2020. See disclosure of non-GAAP financial measures on pages 32 and 33. 
+
+20
+
+Analysis of Changes in Interest Income and Interest Expense 
+ (In thousands) 
+
+Increase 
+
+For the Years Ended December 31, 
+ 
+ 2022 
+
+2021 
+
+(Decrease) 
+
+Volume 
+
+Rate 
+
+Rate/Volume 
+
+INTEREST EARNED ON: 
+
+Loans (1) 
+
+11,135 
+
+12,592 
+
+(1,457) 
+
+(1,326) 
+
+(147) 
+
+16 
+
+Balances due from depository institutions 
+
+408 
+
+95 
+
+313 
+
+(22) 
+
+439 
+
+(104) 
+
+Available for sale securities: 
+
+Taxable securities 
+
+8,482 
+
+5,004 
+
+3,478 
+
+1,878 
+
+1,163 
+
+437 
+
+Non-taxable securities 
+
+145 
+
+178 
+
+(33) 
+
+(33) 
+
+Other securities 
+
+27 
+
+8 
+
+19 
+
+19 
+
+Held to maturity securities: 
+
+Taxable securities 
+
+2,713 
+
+1,702 
+
+1,011 
+
+998 
+
+8 
+
+5 
+
+Non-taxable securities 
+
+1,050 
+
+952 
+
+98 
+
+144 
+
+(41) 
+
+(5) 
+
+TOTAL INTEREST EARNED (2) 
+
+23,960 
+
+20,531 
+
+3,429 
+
+1,639 
+
+1,441 
+
+349 
+
+INTEREST PAID ON: 
+
+Savings and negotiable interest bearing deposits 
+
+1,636 
+
+525 
+
+1,111 
+
+155 
+
+738 
+
+218 
+
+Time deposits 
+
+349 
+
+281 
+
+68 
+
+19 
+
+46 
+
+3 
+
+Other borrowed funds 
+
+173 
+
+24 
+
+149 
+
+48 
+
+33 
+
+68 
+
+TOTAL INTEREST PAID 
+
+2,158 
+
+830 
+
+1,328 
+
+222 
+
+817 
+
+289 
+
+(1) Loan fees of 659 and 1,444 for 2022 and 2021, respectively, are included in these figures. Of the loan fees recognized in 2022 and 2021, 125 and 958, respectively, were related to PPP loans. 
+ (2) All interest earned is reported on a taxable equivalent basis using a tax rate of 21 for 2022 and 2021. See disclosure of non-GAAP financial measures on pages 32 and 33. 
+
+21
+
+Analysis of Changes in Interest Income and Interest Expense 
+ (In thousands) 
+
+Increase 
+
+For the Years Ended December 31, 
+ 
+ 2021 
+
+2020 
+
+(Decrease) 
+
+Volume 
+
+Rate 
+
+Rate/Volume 
+
+INTEREST EARNED ON: 
+
+Loans (1) 
+
+12,592 
+
+13,076 
+
+(484) 
+
+722 
+
+(1,385) 
+
+(73) 
+
+Balances due from depository institutions 
+
+95 
+
+227 
+
+(132) 
+
+914 
+
+(284) 
+
+(749) 
+
+Available for sale securities: 
+
+Taxable securities 
+
+5,004 
+
+4,140 
+
+864 
+
+(293) 
+
+(378) 
+
+23 
+
+Non-taxable securities 
+
+178 
+
+240 
+
+(62) 
+
+(119) 
+
+(88) 
+
+25 
+
+Other securities 
+
+8 
+
+27 
+
+(19) 
+
+2 
+
+(45) 
+
+(1) 
+
+Held to maturity securities: 
+
+Taxable securities 
+
+1,702 
+
+1,235 
+
+467 
+
+140 
+
+(41) 
+
+(5) 
+
+Non-taxable securities 
+
+952 
+
+525 
+
+427 
+
+(16) 
+
+(10) 
+
+TOTAL INTEREST EARNED (2) 
+
+20,531 
+
+19,470 
+
+1,061 
+
+1,350 
+
+(2,231) 
+
+(780) 
+
+INTEREST PAID ON: 
+
+Savings and negotiable interest bearing deposits 
+
+525 
+
+833 
+
+(308) 
+
+189 
+
+(914) 
+
+(104) 
+
+Time deposits 
+
+281 
+
+716 
+
+(435) 
+
+(226) 
+
+(474) 
+
+80 
+
+Federal funds purchased 
+
+Other borrowed funds 
+
+24 
+
+32 
+
+(8) 
+
+(208) 
+
+(51) 
+
+43 
+
+TOTAL INTEREST PAID 
+
+830 
+
+1,581 
+
+(751) 
+
+(245) 
+
+(1,439) 
+
+19 
+
+(1) Loan fees of 1,444 and 814 for 2021 and 2020, respectively, are included in these figures. Of the loan fees recognized in 2021 and 2020, 958 and 448 were related to PPP loans. 
+ (2) All interest earned is reported on a taxable equivalent basis using a tax rate of 21 for 2021 and 2020. See disclosure of non-GAAP financial measures on pages 32 and 33. 
+
+22
+
+Maturity of Securities Portfolio at December 31, 2022 
+ And Weighted Average Yields of Such Securities 
+ (In thousands, except percentage data) 
+
+Maturity 
+
+Within one year 
+
+After one year but within five years 
+
+After five years but within ten years 
+
+After ten years 
+
+December 31, 2022 
+ 
+ Amount 
+
+Yield 
+
+Amount 
+
+Yield 
+
+Amount 
+
+Yield 
+
+Amount 
+
+Yield 
+
+Available for sale securities: 
+
+U.S. Treasuries, Mortgage-backed securities and Collateralized Mortgage Obligations 
+
+38,918 
+
+3.73 
+
+67,364 
+
+3.78 
+
+162,484 
+
+2.80 
+
+3,419 
+
+1.57 
+
+States and political subdivisions 
+
+456 
+
+5.54 
+
+140 
+
+4.48 
+
+29,589 
+
+1.67 
+
+47,798 
+
+2.26 
+
+Total 
+
+39,374 
+
+3.75 
+
+67,504 
+
+2.40 
+
+192,073 
+
+2.54 
+
+51,217 
+
+2.07 
+
+Held to maturity securities: 
+
+U.S. Treasuries, Mortgage-backed securities and Collateralized Mortgage Obligations 
+
+58,304 
+
+3.58 
+
+34,940 
+
+2.78 
+
+States and political subdivisions 
+
+7,698 
+
+2.87 
+
+13,834 
+
+2.97 
+
+41,688 
+
+2.40 
+
+38,754 
+
+2.67 
+
+Total 
+
+66,002 
+
+3.50 
+
+48,774 
+
+2.82 
+
+41,688 
+
+2.40 
+
+38,754 
+
+2.67 
+
+Note: The weighted average yields are calculated on the basis of cost. Average yields on investments in states and political subdivisions are based on their contractual yield. Available for sale securities are stated at fair value and held to maturity securities are stated at amortized cost. 
+
+23
+
+Maturities and Sensitivity to Changes in 
+ Interest Rates of the Loan Portfolio as of December 31, 2022 
+ (In thousands) 
+
+Maturity 
+
+December 31, 2022 
+ 
+ One year or less 
+
+Over one year through 5 years 
+
+Over 5 years through 15 years 
+
+Over 15 years 
+
+Total 
+
+Gaming 
+
+222 
+
+9,743 
+
+9,965 
+
+Hotel/motel 
+
+3,737 
+
+11,220 
+
+18,301 
+
+2,479 
+
+35,737 
+
+Real estate, construction 
+
+9,278 
+
+12,808 
+
+4,999 
+
+3,061 
+
+30,146 
+
+Real estate, mortgage 
+
+836 
+
+45,211 
+
+92,414 
+
+5,582 
+
+144,043 
+
+Commercial and industrial 
+
+1,479 
+
+4,850 
+
+4,168 
+
+10,497 
+
+All other loans 
+
+2,211 
+
+4,994 
+
+285 
+
+7,490 
+
+Total 
+
+17,763 
+
+88,826 
+
+120,167 
+
+11,122 
+
+237,878 
+
+Loans with pre-determined interest rates 
+
+16,575 
+
+72,808 
+
+107,517 
+
+4,232 
+
+201,132 
+
+Loans with floating interest rates 
+
+1,188 
+
+16,018 
+
+12,650 
+
+6,890 
+
+36,746 
+
+Total 
+
+17,763 
+
+88,826 
+
+120,167 
+
+11,122 
+
+237,878 
+
+24
+
+Credit Quality Indicators 
+ (In thousands except ratios) 
+
+Real Estate, 
+
+Real Estate, 
+
+Commercial 
+
+Gaming 
+
+Hotel/Motel 
+
+Construction 
+
+Mortgage 
+
+and Industrial 
+
+Other 
+
+Total 
+
+December 31, 2022: 
+
+Allowance for loan losses 
+
+119 
+
+437 
+
+392 
+
+2,026 
+
+142 
+
+222 
+
+3,338 
+
+Nonaccrual loans 
+
+1,434 
+
+7 
+
+1,441 
+
+Total loans 
+
+9,965 
+
+35,737 
+
+30,146 
+
+144,043 
+
+10,497 
+
+7,490 
+
+237,878 
+
+Average loans 
+
+8,933 
+
+43,251 
+
+28,669 
+
+136,198 
+
+13,190 
+
+8,281 
+
+238,520 
+
+Net charge-offs (recoveries) 
+
+Allowance for loan losses to total loans ratio 
+
+1.19 
+
+1.22 
+
+1.30 
+
+1.41 
+
+1.35 
+
+2.96 
+
+1.40 
+
+Nonaccrual Loans to total loans ratio 
+
+0.60 
+
+0.01 
+
+0.61 
+
+Allowance for loan losses to nonaccrual loans ratio 
+
+141.28 
+
+3171.43 
+
+231.64 
+
+Net charge-offs (recoveries) to average loans ratio 
+
+0.04 
+
+0.11 
+
+(4.40) 
+
+(.02) 
+
+December 31, 2021: 
+
+Allowance for loan losses 
+
+102 
+
+691 
+
+139 
+
+2,049 
+
+252 
+
+78 
+
+3,311 
+
+Nonaccrual loans 
+
+138 
+
+563 
+
+701 
+
+Total loans 
+
+7,900 
+
+50,765 
+
+27,191 
+
+128,352 
+
+15,882 
+
+9,072 
+
+239,162 
+
+Average loans 
+
+13,333 
+
+48,132 
+
+26,900 
+
+136,314 
+
+26,656 
+
+7,458 
+
+258,793 
+
+Net charge-offs (recoveries) 
+
+(16) 
+
+(4,597) 
+
+(102) 
+
+167 
+
+(4,548) 
+
+Allowance for loan losses to total loans ratio 
+
+1.29 
+
+1.36 
+
+0.51 
+
+1.60 
+
+1.59 
+
+0.86 
+
+1.38 
+
+Nonaccrual loans to total loans ratio 
+
+0.51 
+
+0.44 
+
+0.29 
+
+Allowance for loan losses to nonaccrual Loans ratio 
+
+101.72 
+
+363.94 
+
+472.33 
+
+Net charge-offs (recoveries) to average loans ratio 
+
+(.06) 
+
+(3.37) 
+
+(1.76) 
+
+25
+
+Allocation of the Allowance for Loan Losses 
+ (In thousands except percentage data) 
+
+2022 
+
+2021 
+
+of 
+
+of 
+
+Loans to 
+
+Loans to 
+
+Total 
+
+Total 
+
+December 31, 
+ 
+ Amount 
+
+Loans 
+
+Amount 
+
+Loans 
+
+Gaming 
+
+119 
+
+4 
+
+102 
+
+3 
+
+Hotel/Motel 
+
+437 
+
+15 
+
+691 
+
+21 
+
+Real estate, construction 
+
+392 
+
+13 
+
+139 
+
+11 
+
+Real estate, mortgage 
+
+2,026 
+
+61 
+
+2,049 
+
+54 
+
+Commercial and industrial (1) 
+
+142 
+
+4 
+
+252 
+
+7 
+
+Other 
+
+222 
+
+3 
+
+78 
+
+4 
+
+Total 
+
+3,338 
+
+100 
+
+3,311 
+
+100 
+
+(1) 
+ At December 31, 2022 and 2021, the commercial and industrial portfolio included 0 and 2,825, respectively in PPP loans. 
+
+26
+
+Summary of Average Deposits and Their Yields 
+ (In thousands, except percentage data) 
+
+2022 
+
+2021 
+
+2020 
+
+Years Ended December 31, 
+ 
+ Amount 
+
+Rate 
+
+Amount 
+
+Rate 
+
+Amount 
+
+Rate 
+
+Non-interest bearing demand deposits 
+
+197,789 
+
+N/A 
+
+192,071 
+
+N/A 
+
+151,729 
+
+N/A 
+
+Interest bearing demand deposits 
+
+424,077 
+
+.38 
+
+318,212 
+
+.15 
+
+255,700 
+
+.31 
+
+Savings deposits 
+
+103,390 
+
+.04 
+
+88,938 
+
+.05 
+
+68,589 
+
+.06 
+
+Time deposits 
+
+78,392 
+
+.45 
+
+73,399 
+
+.37 
+
+72,782 
+
+.98 
+
+Total (1) 
+
+803,648 
+
+.35 
+
+672,620 
+
+.61 
+
+548,800 
+
+1.05 
+
+(1) All deposits are domestic. 
+
+Total uninsured deposits were (in thousands): 
+
+December 31, 
+ 
+ 2022 
+
+2021 
+
+Uninsured deposits (1) 
+
+410,927 
+
+369,678 
+
+(1) Total for December 31, 2022 is actual. Total for December 31, 2021 is estimated based on 2022 percentage of uninsured deposits to total deposits. 
+ 
+ Certificates of deposit in amounts of 250,000 or more by the amount of time remaining until maturity as of December 31, 2022, are as follows (in thousands): 
+
+Remaining maturity: 
+
+3 months or less 
+
+567 
+
+Over 3 months through 6 months 
+
+3,974 
+
+Over 6 months through 12 months 
+
+2,688 
+
+Over 12 months 
+
+1,544 
+
+Total 
+
+8,773 
+
+Capital Resources 
+ Information about the Company s capital resources is included in Note J Shareholders Equity to the 2022 Consolidated Financial Statements in this Annual Report on Form 10-K. 
+
+27
+
+ITEM 1A - RISK FACTORS 
+ 
+ As a smaller reporting company, the Company is not required to provide this information. 
+ 
+ ITEM 1B - UNRESOLVED STAFF COMMENTS 
+ 
+ None. 
+ 
+ ITEM 2 - PROPERTIES 
+ 
+ The principal properties of the Company are its 17 business locations, including the Main Office, which is located at 152 Lameuse Street in Biloxi, MS, 39530. The Armed Forces Retirement Home AFRH Branch located at 1800 Beach Drive, Gulfport, MS 39507, is located in space provided by the AFRH. All other branch locations are owned by the Company. We believe that our facilities are in good condition and are adequate to meet our operating needs for the foreseeable future. The addresses of the other branch locations are: 
+
+Bay St. Louis Office 
+ 408 Highway 90 East, Bay St. Louis, MS 39520 
+
+Cedar Lake Office 
+ 1740 Popps Ferry Road, Biloxi, MS 39532 
+
+Diamondhead Office 
+ 5429 West Aloha Drive, Diamondhead, MS 39525 
+
+D Iberville-St. Martin Office 
+ 10491 Lemoyne Boulevard, D Iberville, MS 39540 
+
+Downtown Gulfport Office 
+ 1105 30th Avenue, Gulfport, MS 39501 
+
+Gautier Office 
+ 2609 Highway 90, Gautier, MS 39553 
+
+Handsboro Office 
+ 0412 E. Pass Road, Gulfport, MS 39507 
+
+Long Beach Office 
+ 298 Jeff Davis Avenue, Long Beach, MS 39560 
+
+Ocean Springs Office 
+ 2015 Bienville Boulevard, Ocean Springs, MS 39564 
+
+Orange Grove Office 
+ 12020 Highway 49 North, Gulfport, MS 39503 
+
+Pass Christian Office 
+ 301 East Second Street, Pass Christian, MS 39571 
+
+Saucier Office 
+ 17689 Second Street, Saucier, MS 39574 
+
+Waveland Office 
+ 470 Highway 90, Waveland, MS 39576 
+
+West Biloxi Office 
+ 2560 Pass Road, Biloxi, MS 39531 
+
+Wiggins Office 
+ 1312 S. Magnolia Drive, Wiggins, MS 39577 
+
+ITEM 3 - LEGAL PROCEEDINGS 
+ 
+ Information relating to legal proceedings is included in Note M Contingencies to the 2022 Consolidated Financial Statements which is in Item 8 in this Annual Report on Form 10-K, which is incorporated herein by reference. 
+ 
+ ITEM 4 MINE SAFETY DISCLOSURES 
+ 
+ Not applicable. 
+
+28
+
+PART II 
+ 
+ ITEM 5 - MARKET FOR THE REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 
+ Dividends to the Company s shareholders can generally be paid only from dividends paid to the Company by the Bank. Consequently, dividends are dependent upon the earnings, capital needs, regulatory policies and statutory limitations affecting the Bank. The Bank may not declare or pay any cash dividends without prior written approval of the Mississippi Department of Banking and Consumer Finance. 
+ 
+ At March 08, 2023, there were 381 holders of the common stock of the Company, which does not reflect persons or entities that hold the common stock in nominee or street name through various brokerage firms or other nominee accounts. At March 08, 2023, there were 4,678,186 shares of common stock issued and outstanding. 
+ 
+ Share Repurchases 
+ The Company did not have any repurchases that were made within the fourth quarter of 2022. 
+ 
+ The Company s common stock is traded under the symbol PFBX on the OTCQX Best Market OTCQX ). 
+ 
+ Any over-the-counter market quotations reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not necessarily represent actual transactions. 
+ 
+ ITEM 6 [RESERVED] 
+ 
+ ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Peoples Financial Corporation (the Company is a one-bank holding company headquartered in Biloxi, Mississippi. The following presents Management s discussion and analysis of the consolidated financial condition and results of operations of the Company and its consolidated subsidiaries for the years ended December 31, 2022, 2021 and 2020. These comments highlight the significant events for these years and should be considered in combination with the Consolidated Financial Statements and Notes to Consolidated Financial Statements included in this annual report. 
+
+29
+
+FORWARD-LOOKING INFORMATION 
+ Congress passed the Private Securities Litigation Act of 1995 in an effort to encourage corporations to provide information about a company s anticipated future financial performance. This act provides a safe harbor for such disclosure which protects the companies from unwarranted litigation if actual results are different from management expectations. This report contains forward-looking statements and reflects industry conditions, company performance and financial results. These forward-looking statements are subject to a number of factors and uncertainties which could cause the Company s actual results and experience to differ from the anticipated results and expectations expressed in such forward-looking statements. Such factors and uncertainties include, but are not limited to: the effects of changes in interest rates and market prices, changes in local economic and business conditions, increased competition for deposits and loans, a deviation in actual experience from the underlying assumptions used to determine and establish the allowance for loan losses, changes in the availability of funds resulting from reduced liquidity, changes in statutes, government regulations or regulatory policies and practices in general and specifically acts of terrorism, weather or other events beyond the Company s control. 
+ 
+ NEW ACCOUNTING PRONOUNCEMENTS 
+ The Financial Accounting Standards Board FASB issued new accounting standards updates in 2022, which are disclosed in Note A to the Consolidated Financial Statements. The Company does not expect that the update discussed in the Notes will have a material impact on its financial position, results of operations or cash flows. Further disclosure relating to this and other updates is included in Note A. 
+ 
+ CRITICAL ACCOUNTING POLICIES 
+ The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America GAAP requires Management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The Company evaluates these estimates and assumptions on an on-going basis using historical experience and other factors, including the current economic environment. We adjust such estimates and assumptions when facts and circumstances dictate. Certain critical accounting policies affect the more significant estimates and assumptions used in the preparation of the consolidated financial statements. 
+ 
+ Investments 
+ Investments which are classified as available for sale are stated at fair value. A decline in the market value of an investment below cost that is deemed to be other-than-temporary is charged to earnings for the decline in value deemed to be credit related and a new cost basis in the security is established. The decline in value attributed to non-credit related factors is recognized in other comprehensive income. The determination of the fair value of securities may require Management to develop estimates and assumptions regarding the amount and timing of cash flows. 
+
+30
+
+Allowance for Loan Losses 
+ The Company s allowance for loan losses ALL reflects the estimated losses resulting from the inability of its borrowers to make loan payments. The ALL is established and maintained at an amount sufficient to cover the estimated loss associated with the loan portfolio of the Company as of the date of the financial statements. Credit losses arise not only from credit risk, but also from other risks inherent in the lending process including, but not limited to, collateral risk, operation risk, concentration risk and economic risk. As such, all related risks of lending are considered when assessing the adequacy of the ALL. On a quarterly basis, Management estimates the probable level of losses to determine whether the allowance is adequate to absorb reasonably foreseeable, anticipated losses in the existing portfolio based on our past loan loss experience, known and inherent risk in the portfolio, adverse situations that may affect the borrowers ability to repay and the estimated value of any underlying collateral and current economic conditions. Management believes that the ALL is adequate and appropriate for all periods presented in these financial statements. If there was a deterioration of any of the factors considered by Management in evaluating the ALL, the estimate of loss would be updated, and additional provisions for loan losses may be required. The analysis divides the portfolio into two segments: a pool analysis of loans based upon a five-year average loss history which is updated on a quarterly basis and which may be adjusted by qualitative factors by loan type and a specific reserve analysis for those loans considered impaired under GAAP. All credit relationships with an outstanding balance of 100,000 or greater that are included in Management s loan watch list are individually reviewed for impairment. All losses are charged to the ALL when the loss actually occurs or when a determination is made that a loss is likely to occur; recoveries are credited to the ALL at the time of receipt. 
+ 
+ Other Real Estate 
+ Other real estate ORE includes real estate acquired through foreclosure. Each other real estate property is carried at fair value, less estimated costs to sell. Fair value is principally based on appraisals performed by third-party valuation specialists. If Management determines that the fair value of a property has decreased subsequent to foreclosure, the Company records a write-down which is included in non-interest expense. 
+ 
+ Employee Benefit Plans 
+ Employee benefit plan liabilities and pension costs are determined utilizing actuarially determined present value calculations. The valuation of the benefit obligation and net periodic expense is considered critical, as it requires Management and its actuaries to make estimates regarding the amount and timing of expected cash outflows including assumptions about mortality, expected service periods and the rate of compensation increases. 
+
+31
+
+Income Taxes 
+ GAAP requires the asset and liability approach for financial accounting and reporting for deferred income taxes. We use the asset and liability method of accounting for deferred income taxes and provide deferred income taxes for all significant income tax temporary differences. See Note I to the Consolidated Financial Statements for additional details. As part of the process of preparing our consolidated financial statements, the Company is required to estimate our income taxes in each of the jurisdictions in which we operate. This process involves estimating our actual current tax exposure together with assessing temporary differences resulting from differing treatment of items, such as the provision for the allowance for loan losses, for tax and financial reporting purposes. These differences result in deferred tax assets and liabilities that are included in our consolidated statement of condition. We must also assess the likelihood that our deferred tax assets will be recovered from future taxable income, and to the extent we believe that recovery is not likely, we must establish a valuation allowance. Significant management judgment is required in determining our provision for income taxes, our deferred tax assets and liabilities and any valuation allowance recorded against our net deferred tax assets. To the extent the Company establishes a valuation allowance or adjusts this allowance in a period, we must include an expense within the tax provision in the consolidated statement of income. 
+ 
+ GAAP Reconciliation and Explanation 
+ This report contains non-GAAP financial measures determined by methods other than in accordance with GAAP. Such non-GAAP financial measures include taxable equivalent interest income and taxable equivalent net interest income. Management uses these non-GAAP financial measures because it believes they are useful for evaluating our operations and performance over periods of time, as well as in managing and evaluating our business and in discussions about our operations and performance. Management believes these non-GAAP financial measures provide users of our financial information with a meaningful measure for assessing our financial results, as well as comparison to financial results for prior periods. These non-GAAP financial measures should not be considered as a substitute for operating results determined in accordance with GAAP and may not be comparable to other similarly titled financial measures used by other companies. A reconciliation of these operating performance measures to GAAP performance measures for the years ended December 31, 2022, 2021 and 2020 is included below. 
+ 
+ RECONCILIATION OF NON-GAAP PERFORMANCE MEASURES 
+ (in thousands) 
+
+Years Ended December 31, 
+ 
+ 2022 
+
+2021 
+
+2020 
+
+Interest income reconciliation: 
+
+Interest income - taxable equivalent 
+
+23,960 
+
+20,531 
+
+19,470 
+
+Taxable equivalent adjustment 
+
+(252) 
+
+(239) 
+
+(162) 
+
+Interest income (GAAP) 
+
+23,708 
+
+20,292 
+
+19,308 
+
+Net interest income reconciliation: 
+
+Net interest income - taxable equivalent 
+
+21,802 
+
+19,701 
+
+17,889 
+
+Taxable equivalent adjustment 
+
+(252) 
+
+(239) 
+
+(162) 
+
+Net interest income (GAAP) 
+
+21,550 
+
+19,462 
+
+17,727 
+
+32
+
+OVERVIEW 
+ 
+ The Company is a community bank serving the financial and trust needs of its customers in our trade area, which is defined as those portions of Mississippi, Louisiana and Alabama which are within a fifty mile radius of the Waveland, Wiggins and Gautier branches, the bank subsidiary s three most outlying locations. Maintaining a strong core deposit base and providing commercial and real estate lending in our trade area are the traditional focuses of the Company. Growth has largely been achieved through de novo branching activity, and it is expected that these strategies will continue to be emphasized in the future. 
+ 
+ The World Health Organization declared the coronavirus COVID-19 COVID-19 a pandemic in March 2020. Although many businesses have been able to remain in operation, they continue to have staffing challenges and supply chain disruptions. The Company has had no significant impact on income or loan repayments due to the pandemic. Concerns about inflation and its potential impact on the economy and individual households are among the issues being considered by the Federal Reserve. Raising the Federal funds rate has been a strategy pursued in 2022 to address this issue. The Federal Reserve has raised interest rates a total of 425 basis points during 2022 in an effort to promote maximum employment, keep prices stable and have moderate long-term interest rates. 
+ 
+ Assisting our customers during the pandemic was a priority. The Company granted modifications by extending payments 90 days or allowing interest only payments to certain customers as a result of the economic challenges of business closures and unemployment resulting from COVID-19. We also actively participated in the Paycheck Protection Program PPP ), a specific stimulus resource designed to provide assistance to small businesses. The Company recorded loan fees associated with the PPP loan program in the amount of approximately 125,000 in 2022 and 958,000 in 2021. 
+ 
+ The Company reported net income of 8,941,000 for 2022 compared with net income of 8,911,000 for 2021 compared with a net loss of 2,558,000 for 2020, respectively. Results in 2022 included an increase in net interest income an increase in the allowance for loans losses which were partially offset by an increase in non-interest income, a decrease in non-interest expense, and the recording of a large tax benefit as compared with 2021. Results in 2021 included a large reduction in the allowance for loan losses which was partially offset by a decrease in non-interest income and an increase in non-interest expense as compared with 2020. 
+ 
+ Managing the net interest margin is a key component of the Company s earnings strategy. The Federal Reserve increased rates by 75 basis points in September and November of 2022 and increased rates by another 50 basis point in December 2022 in an attempt to slow inflation. The Company adopted new investment strategies in 2022 and 2021 to improve yields on its securities while not compromising duration or credit risk. As a result, total interest income increased 3,416,000 in 2022 as compared with 2021. The increase in rates increased total interest expense 1,328,000 in 2022 as compared with 2021. In March 2020, the Federal Reserve reduced rates by 150 basis points in two emergency moves to respond to the unprecedented economic disruptions of the COVID-19 pandemic. As a result, total interest income increased 984,000 in 2021 as compared with 2020. The reduction in rates decreased total interest expense 751,000 in 2021 as compared with 2020. 
+
+33
+
+Monitoring asset quality, estimating potential losses in our loan portfolio and addressing non-performing loans continue to be a major focus of the Company. An increase in the allowance for loan losses of 80,000 was recorded in 2022 as compared to a reduction in the allowance for loan losses of 5,663,000 in 2021. The reduction during 2021 was the result of a large recovery of previously charged-off principal. The Company is working diligently to address and reduce its non-performing assets. The Company s nonaccrual loans totaled 1,441,000 and 701,000 at December 31, 2022 and 2021, respectively. Most of these loans are collateral-dependent, and the Company has rigorously evaluated the value of its collateral to determine potential losses. 
+ 
+ Non-interest income increased 425,000 in 2022 as compared with 2021 results and decreased 781,000 in 2021 as compared with 2020 results. The increase in 2022 was primarily the result of an increase in other income and an increase in trust income related to the recent acquisition. The decrease in 2021 was primarily the result of the prior year including several non-recurring gains. Results for 2020 included non-recurring gains on sales and calls of securities of 539,000, a gain from the redemption of death benefits on bank owned life insurance of 224,000 and a gain from the sale of banking house of 318,000. 
+ 
+ Non-interest expense decreased 767,000 in 2022 as compared with 2021 and increased 1,088,000 for 2021 as compared with 2020. The decrease in 2022 was primarily due to a partial recovery in other expense related to a settlement of a lawsuit in 2021. The increase in other expense in 2021 was primarily due to the settlement of a lawsuit for 1,125,000 and other legal and consulting costs associated with the contested 2021 annual shareholders meeting. 
+ 
+ Total assets at December 31, 2022 increased 42,689,000 as compared with December 31, 2021. Total deposits increased 80,942,000 primarily as governmental entities balances increased due to tax collections. This increase in deposits, as well as the decrease in cash and due from banks of 17,155,000, loans of 1,284,000 and available for sale securities of 26,635,000 funded an increase held to maturity investments of 85,009,000. 
+ 
+ RESULTS OF OPERATIONS 
+ 
+ Net Interest Income 
+ Net interest income, the amount by which interest income on loans, investments and other interest-earning assets exceeds interest expense on deposits and other borrowed funds, is the single largest component of the Company's income. Management's objective is to provide the largest possible amount of income while balancing interest rate, credit, liquidity and capital risk. Changes in the volume and mix of interest-earning assets and interest-bearing liabilities combined with changes in market rates of interest directly affect net interest income. 
+
+34
+
+2022 as compared with 2021 
+ The Company s average interest-earning assets increased approximately 106,912,000, or 15 , from approximately 720,224,000 for 2021 to approximately 827,136,000 for 2022. Average taxable held to maturity securities increased approximately 33,831,000, average nontaxable held to maturity securities increased approximately 4,941,000 and average taxable available for sale securities increased approximately 107,166,000 as investment purchases exceeded maturities, sales and calls of these securities. Average loans decreased approximately 27,744,000 as principal payments, paydowns, maturities, and charge-offs on existing loans exceeded new loans. Funds available from the decrease in average loans and the increase in average deposits were used to increase the investment in securities. The average yield on interest-earning assets was 2.90 for 2022 compared with 2.85 for 2021. The yield on average investment securities increased as a result of the increase in prime rate during 2022 as discussed in the Overview. Average interest-bearing liabilities increased approximately 127,566,000, or 26 , from approximately 481,768,000 for 2021 to approximately 609,334,000 for 2022. Average savings and interest-bearing DDA balances increased approximately 120,123,000 primarily as several large public fund customers maintained higher balances with the bank subsidiary and some of the PPP loan proceeds were deposited and maintained in customers accounts. The average rate paid on interest-bearing liabilities increased from 0.17 for 2021 to 0.35 for 2022. This increase was the result of increased rates in 2022. 
+ 
+ The Company s net interest margin on a tax-equivalent basis, which is net interest income as a percentage of average earning assets, was 2.74 for 2021 as compared with 2.64 for 2022. 
+ 
+ 2021 as compared with 2020 
+ The Company s average interest-earning assets increased approximately 122,058,000, or 20 , from approximately 598,166,000 for 2020 to approximately 720,224,000 for 2021. Average taxable held to maturity securities increased approximately 23,567,000, average nontaxable held to maturity securities increased approximately 16,631,000 and average taxable available for sale securities increased approximately 91,853,000 as investment purchases exceeded maturities, sales and calls of these securities. Average loans decreased approximately 17,680,000 as principal payments, particularly on PPP loans, maturities, charge-offs and foreclosures on existing loans exceeded new loans. Funds available from the decrease in average loans and the increase in average deposits were used to increase the investment in securities. The average yield on interest-earning assets was 3.25 for 2020 compared with 2.85 for 2021. The yield on average investment securities decreased as a result of the decrease in prime rate during 2020 as discussed in the Overview. 
+
+35
+
+Average interest-bearing liabilities increased approximately 83,037,000, or 21 , from approximately 398,731,000 for 2020 to approximately 481,768,000 for 2021. Average savings and interest-bearing DDA balances increased approximately 82,861,000 primarily as several large public fund customers maintained higher balances with the bank subsidiary and some of the PPP loan proceeds were deposited and maintained in customers accounts. The average rate paid on interest-bearing liabilities decreased from .40 for 2020 to .17 for 2021. This decrease was the result of decreased rates in 2020. 
+ 
+ The Company s net interest margin on a tax-equivalent basis, which is net interest income as a percentage of average earning assets, was 2.99 for 2020 as compared with 2.74 for 2021. 
+ 
+ The tables below analyze the changes in tax-equivalent net interest income for the years ended December 31, 2022, 2021 and 2020. 
+
+36
+
+ANALYSIS OF AVERAGE BALANCES, INTEREST EARNED/PAID AND YIELD 
+ (in thousands) 
+
+2022 
+
+2021 
+
+2020 
+
+Average 
+
+Interest 
+
+Average 
+
+Interest 
+
+Average 
+
+Interest 
+
+Balance 
+
+Earned/Paid 
+
+Rate 
+
+Balance 
+
+Earned/Paid 
+
+Rate 
+
+Balance 
+
+Earned/Paid 
+
+Rate 
+
+Loans (1)(2) 
+
+235,801 
+
+11,135 
+
+4.72 
+
+263,545 
+
+12,592 
+
+4.78 
+
+281,225 
+
+13,076 
+
+4.65 
+
+Balances due from depository institutions 
+
+49,191 
+
+408 
+
+0.83 
+
+64,415 
+
+95 
+
+0.15 
+
+56,103 
+
+227 
+
+0.40 
+
+Held to maturity: 
+
+Taxable 
+
+105,047 
+
+2,713 
+
+2.58 
+
+66,216 
+
+1,702 
+
+2.57 
+
+42,649 
+
+1,235 
+
+2.90 
+
+Non taxable (3) 
+
+37,557 
+
+1,050 
+
+2.79 
+
+32,616 
+
+952 
+
+2.92 
+
+15,985 
+
+525 
+
+3.28 
+
+Available for sale: 
+
+Taxable 
+
+392,645 
+
+8,482 
+
+2.16 
+
+285,479 
+
+5,004 
+
+1.75 
+
+193,626 
+
+4,140 
+
+2.14 
+
+Non taxable (3) 
+
+4,740 
+
+145 
+
+3.07 
+
+5,802 
+
+178 
+
+3.07 
+
+6,425 
+
+240 
+
+3.74 
+
+Other 
+
+2,155 
+
+27 
+
+1.25 
+
+2,151 
+
+8 
+
+0.37 
+
+2,153 
+
+27 
+
+1.25 
+
+Total 
+
+827,136 
+
+23,960 
+
+2.90 
+
+720,224 
+
+20,531 
+
+2.85 
+
+598,166 
+
+19,470 
+
+3.25 
+
+Savings and interest- bearing DDA 
+
+527,273 
+
+1,636 
+
+0.31 
+
+407,150 
+
+525 
+
+0.13 
+
+324,289 
+
+833 
+
+0.26 
+
+Time deposits 
+
+78,392 
+
+349 
+
+0.45 
+
+73,399 
+
+281 
+
+0.37 
+
+72,782 
+
+716 
+
+0.98 
+
+Borrowings from FHLB 
+
+3,669 
+
+173 
+
+4.72 
+
+1,219 
+
+24 
+
+1.97 
+
+1,660 
+
+32 
+
+1.93 
+
+Total 
+
+609,334 
+
+2,158 
+
+0.35 
+
+481,768 
+
+830 
+
+0.17 
+
+398,731 
+
+1,581 
+
+0.40 
+
+Net tax-equivalent spread 
+
+2.55 
+
+2.68 
+
+2.85 
+
+Net tax-equivalent margin on earning assets 
+
+2.64 
+
+2.74 
+
+2.99 
+
+(1) Loan fees of 659, 1,444 and 814 for 2022, 2021 and 2020, respectively, are included in these figures. Of the loan fees recognized in 2022, 2021 and 2020, 125, 958 and 448, respectively, were related to PPP loans. 
+ (2) Includes nonaccrual loans. 
+ (3) All interest earned is reported on a taxable equivalent basis using a tax rate of 21 in 2022, 2021 and 2020. See disclosure of Non-GAAP financial measures on pages 32 and 33. 
+
+37
+
+ANALYSIS OF CHANGES IN INTEREST INCOME AND EXPENSE 
+ (in thousands) 
+
+For the Year Ended 
+
+December 31, 2022 Compared With December 31, 2021 
+
+Volume 
+
+Rate 
+
+Rate/Volume 
+
+Total 
+
+Interest earned on: 
+
+Loans 
+
+(1,326) 
+
+(147) 
+
+15 
+
+(1,458) 
+
+Balances due from depository institutions 
+
+(22) 
+
+439 
+
+(104) 
+
+313 
+
+Held to maturity securities: 
+
+Taxable 
+
+998 
+
+8 
+
+5 
+
+1,011 
+
+Non taxable 
+
+144 
+
+(41) 
+
+(6) 
+
+97 
+
+Available for sale securities: 
+
+Taxable 
+
+1,878 
+
+1,163 
+
+437 
+
+3,478 
+
+Non taxable 
+
+(33) 
+
+(33) 
+
+Other 
+
+19 
+
+19 
+
+Total 
+
+1,639 
+
+1,441 
+
+347 
+
+3,427 
+
+Interest paid on: 
+
+Savings and interest-bearing DDA 
+
+155 
+
+738 
+
+218 
+
+1,111 
+
+Time deposits 
+
+19 
+
+46 
+
+3 
+
+68 
+
+Borrowings from FHLB 
+
+48 
+
+33 
+
+67 
+
+148 
+
+Total 
+
+222 
+
+817 
+
+288 
+
+1,327 
+
+38
+
+ANALYSIS OF CHANGES IN INTEREST INCOME AND EXPENSE 
+ (in thousands) 
+
+For the Year Ended 
+
+December 31, 2021 Compared With December 31, 2020 
+
+Volume 
+
+Rate 
+
+Rate/Volume 
+
+Total 
+
+Interest earned on: 
+
+Loans 
+
+(822) 
+
+361 
+
+(23) 
+
+(484) 
+
+Balances due from depository institutions 
+
+34 
+
+(144) 
+
+(22) 
+
+(132) 
+
+Held to maturity securities: 
+
+Taxable 
+
+682 
+
+(139) 
+
+(76) 
+
+467 
+
+Non taxable 
+
+546 
+
+(58) 
+
+(61) 
+
+427 
+
+Available for sale securities: 
+
+Taxable 
+
+1,964 
+
+(746) 
+
+(354) 
+
+864 
+
+Non taxable 
+
+(23) 
+
+(43) 
+
+4 
+
+(62) 
+
+Other 
+
+(19) 
+
+(19) 
+
+Total 
+
+2,381 
+
+(788) 
+
+(532) 
+
+1,061 
+
+Interest paid on: 
+
+Savings and interest-bearing DDA 
+
+213 
+
+(415) 
+
+(106) 
+
+(308) 
+
+Time deposits 
+
+6 
+
+(437) 
+
+(4) 
+
+(435) 
+
+Borrowings from FHLB 
+
+(9) 
+
+1 
+
+(8) 
+
+Total 
+
+210 
+
+(851) 
+
+(110) 
+
+(751) 
+
+39
+
+Provision for Allowance for Loan Losses 
+ In the normal course of business, the Company assumes risk in extending credit to its customers. This credit risk is managed through compliance with the loan policy, which is approved by the Board of Directors. The policy establishes guidelines relating to underwriting standards, including but not limited to financial analysis, collateral valuation, lending limits, pricing considerations and loan grading. The Company s Loan Review and Special Assets Departments play key roles in monitoring the loan portfolio and managing problem loans. New loans and, on a periodic basis, existing loans are reviewed to evaluate compliance with the loan policy. Loan customers in concentrated industries such as gaming and hotel/motel, as well as the exposure for out of area; residential and land development; construction and commercial real estate loans, and their direct and indirect impact on the Company s operations are evaluated on a monthly basis. Loan delinquencies and deposit overdrafts are closely monitored in order to identify developing problems as early as possible. Lenders experienced in workout scenarios consult with loan officers and customers to address non-performing loans. A monthly watch list of credits which pose a potential loss to the Company is prepared based on the loan grading system. This list forms the foundation of the Company s allowance for loan loss computation. 
+ 
+ Management relies on its guidelines and existing methodology to monitor the performance of its loan portfolio and to identify and estimate potential losses based on the best available information. The potential effect of declines in real estate values and actual losses incurred by the Company were key factors in our analysis. Much of the Company s loan portfolio is collateral-dependent, requiring careful consideration of changes in the value of the collateral. Note A to the Consolidated Financial Statements discloses a summary of the accounting principles applicable to impaired and nonaccrual loans as well as the allowance for loan losses. Note C to the Consolidated Financial Statements presents additional analyses of the composition, aging, credit quality and performance of the loan portfolio as well as the transactions in the allowance for loan losses. 
+ 
+ The Company s analysis includes evaluating the current value of collateral securing all nonaccrual loans. Nonaccrual loans totaled 1,441,000 and 701,000 with specific reserves on these loans of 124,000 and 20,000 as of December 31, 2022 and 2021, respectively. The specific reserves allocated to nonaccrual loans are relatively low as collateral values appear sufficient to cover loan losses or the loan balances have been charged down to their realizable value. 
+ 
+ Additional consideration was given to the impact of COVID-19 on the loan portfolio. The Company granted modifications by extending payments 90 days or granting interest only payments for 3 6 months for certain customers as a result of the economic challenges of business closures and unemployment resulting from COVID-19. These credits were generally current at the time they were modified. In compliance with guidance from the regulatory and accounting authorities, these modifications were not classified as troubled debt restructurings. As of September 30, 2021, all of these modifications had expired and the customers had resumed making regular payments. The Company continues its policy of closely monitoring past due loans and deposit overdrafts which may serve as indicators of performance issues. Proactive outreach to our loan customers has also been emphasized. 
+
+40
+
+In addition to the factors considered when assessing risk in the loan portfolio which are identified in the Note A, the Company included the potential negative impact of COVID-19 on its loan portfolio, particularly the gaming and hotel/motel concentrations, in performing the risk assessment as of December 31, 2021. As of December 31, 2021, a general reserve of approximately 287,000 was allocated to non-classified loans as a result of COVID-19. As of December 31, 2021, no specific reserves were allocated to classified loans as a result of COVID-19, as customers in potentially vulnerable industries have resources through business interruption insurance, proceeds from PPP or other loan programs and/or have been able to begin to return to normal operations. As of December 31, 2022 the Company has not experienced difficulty in repayment of loans due to COVID-19, therefore the factor for the potential negative impact of COVID-19 was removed. 
+ 
+ The Company s on-going, systematic evaluation resulted in the Company recording a provision of 80,000 for the allowance for loan losses in 2022 and recording a total provision for (reduction of) the allowance for loan losses of (5,663,000) and 6,002,000 in 2021 and 2020, respectively. As a result of recoveries of 4,838,000 during 2021, the Company recorded a reduction in the allowance for loan losses. The provision for the allowance for loan losses in 2020 was the direct result of a charge-off of 5,429,000 of one credit that was on nonaccrual and in bankruptcy. This loss is the result of specific events impacting this specific customer and was not related to COVID-19. The allowance for loan losses as a percentage of loans was 1.40 , 1.38 and 1.59 at December 31, 2022, 2021 and 2020, respectively. The Company believes that its allowance for loan losses is appropriate as of December 31, 2022. 
+ 
+ The allowance for loan losses is an estimate, and as such, events may occur in the future which may affect its accuracy. The Company anticipates that it is possible that additional information will be gathered in the future which may require an adjustment to the allowance for loan losses. Management will continue to closely monitor its portfolio and take such action as it deems appropriate to accurately report its financial condition and results of operations. 
+ 
+ Non-interest Income 
+ 
+ 2022 as compared with 2021 
+ Total non-interest income increased 425,000 in 2022 as compared with 2021. Trust department income and fees increased 152,000 in 2022 as compared with 2021 as a result of the recent trust acquisition. Other income increased 185,000 in 2022 as compared with 2021. Service charges on deposit accounts increased 33,000 as customer transactions have begun to return to pre-COVID-19 activity. 
+
+41
+
+2021 as compared with 2020 
+ Total non-interest income decreased 781,000 in 2021 as compared with 2020. Results in 2020 included several non-recurring items. These included a gain of 224,000 from the redemption of death benefits on bank owned life insurance and a gain of 318,000 from the sale of banking premises. In addition, gains on liquidation, sales and calls of securities were 539,000 as the Company had opportunities to sell securities which generated gains in 2020 as compared with a loss of 45,000 in 2021. Trust department income and fees increased 154,000 in 2021 as compared with 2020 as a result of new account relationships. Service charges on deposit accounts increased 197,000 as customer transactions have begun to return to pre-COVID-19 activity. 
+ 
+ Non-interest Expense 
+ 
+ 2022 as compared with 2021 
+ Total non-interest expense decreased 767,000 in 2022 as compared with 2021. Salaries and employee benefits increased 727,000 primarily due to merit bonuses and increases in benefits. Net occupancy decreased 163,000 primarily due to decreases in insurance expense in 2022. Other expense decreased 1,322,000 primarily as legal and consulting and other real estate decreased while data processing and ATM expense increased. Legal and consulting costs decreased due to the settlement of a lawsuit for 1,125,000 in 2021 in which a partial recovery was received at the end of 2022 in the amount of 486,000 along with non-recurring expenses in 2021 relating to the contested 2021 annual shareholders meeting. Other real estate expenses decreased 7,000 as a result of decreased expense of holding and selling ORE in 2022 as compared to 2021. Data processing costs increased 37,000 due to the implementation of new applications in the current year. ATM expense increased 131,000 as a result of costs associated with debit card processing charges since conversion to a new provider. 
+ 
+ 2021 as compared with 2020 
+ Total non-interest expense increased 1,088,000 in 2021 as compared with 2020. Salaries and employee benefits increased 247,000 primarily due to merit bonuses. Equipment rentals, depreciation and maintenance decreased 130,000 primarily as IT-related equipment became fully depreciated. Other expense increased 918,000 primarily as data processing, legal and accounting and ATM expense increased while other real estate expense decreased. Data processing costs increased 182,000 due to the implementation of new applications in the current year. Legal and accounting costs increased 1,398,000 due to the settlement of a lawsuit for 1,125,000 and non-recurring legal and consulting costs relating to the contested 2021 annual shareholders meeting. ATM expense increased 167,000 as a result of costs associated with debit card processing charges since conversion to a new provider. Other real estate costs decreased 958,000 as a result of decreased write-downs and other expense of holding and selling ORE in 2021 as compared with 2020. 
+ 
+ Income Taxes 
+ During 2014, Management established a valuation allowance against its net deferred tax asset of approximately 8,140,000. As of December 31, 2021, and 2020, the valuation allowance was still in place. The 2018 Tax Cuts and Jobs Act began limiting NOL usage to 80 of taxable income, which resulted in the Company recording income tax expense for 2021. 
+
+42
+
+During the fourth quarter of 2022, the Company determined that it was more likely than not that it would realize a certain amount of its deferred tax assets. As of December 31, 2022, the Company no longer has a net operating loss carryforward and its projections of future income indicate that reversal of a portion of the valuation allowance was appropriate. Accordingly, an income tax benefit of 2,446,000 was recorded in the fourth quarter of 2022. 
+ 
+ Note I to the Consolidated Financial Statements presents a reconciliation of income taxes for these three years and further analysis of the valuation allowance. 
+ 
+ FINANCIAL CONDITION 
+ 
+ Cash and due from banks decreased 17,155,000 at December 31, 2022 compared with December 31, 2021 as the Company utilized some of its excess liquidity to fund investment purchases. 
+ 
+ Available for sale securities decreased 26,635,000 and held to maturity securities increased 85,009,000, respectively at December 31, 2022 compared with December 31, 2021 as the Company increased its held to maturity investment purchases, which were funded by using funds available from cash and due from banks, decreased loans and the increase in deposits. 
+ 
+ Gross loans decreased 1,284,000 at December 31, 2022 compared with December 31, 2021, as principal payments, particularly from PPP loan forgiveness, maturities, and charge-offs on existing loans outpaced new loans. 
+ 
+ Total deposits increased 80,942,000 at December 31, 2022, as compared with December 31, 2021. Typically, significant increases or decreases in total deposits and/or significant fluctuations among the different types of deposits from year to year are anticipated by Management as customers in the casino industry and county and municipal entities reallocate their resources periodically. 
+ 
+ SHAREHOLDERS EQUITY AND CAPITAL ADEQUACY 
+ 
+ Strength, security and stability have been the hallmark of the Company since its founding in 1985 and of its bank subsidiary since its founding in 1896. A strong capital foundation is fundamental to the continuing prosperity of the Company and the security of its customers and shareholders. The primary and risk-based capital ratios are important indicators of the strength of a Company s capital. These figures are presented in the Five-Year Comparative Summary of Selected Financial Information. The Company has established the goal of being classified as well-capitalized by the banking regulatory authorities. 
+ 
+ Significant transactions affecting shareholders equity during 2022 are described in Note J to the Consolidated Financial Statements. The Statement of Changes in Shareholders Equity also presents all activity in the Company s equity accounts. 
+
+43
+
+LIQUIDITY 
+ 
+ Liquidity represents the Company s ability to adequately provide funds to satisfy demands from depositors, borrowers and other commitments by either converting assets to cash or accessing new or existing sources of funds. Note L to the Consolidated Financial Statements discloses information relating to financial instruments with off-balance-sheet risk, including letters of credit and outstanding unused loan commitments. The Company closely monitors the potential effects of funding these commitments on its liquidity position. Management monitors these funding requirements in such a manner as to satisfy these demands and to provide the maximum return on its earning assets. 
+ 
+ The Company monitors and manages its liquidity position diligently through a number of methods, including through the computation of liquidity risk targets and the preparation of various analyses of its funding sources and utilization of those sources on a monthly basis. The Company also uses proforma liquidity projections which are updated on a continuous basis in the management of its liquidity needs and also conducts contingency testing on its liquidity plan. The Company has also been approved to participate in the Federal Reserve s Discount Window Primary Credit Program, which it intends to use only as a contingency. Management carefully monitors its liquidity needs, particularly relating to potentially volatile deposits, and the Company has encountered no problems with meeting its liquidity needs. 
+ 
+ Deposits, payments of principal and interest on loans, proceeds from maturities of investment securities and earnings on investment securities are the principal sources of funds for the Company. 
+ 
+ The Company also uses other sources of funds, including borrowings from the FHLB. The Company generally anticipates relying on deposits, purchases of federal funds and borrowings from the FHLB for its liquidity needs in 2023. 
+ 
+ The Company actively participated in the PPP, facilitating approximately 23 million and 6 million, respectively, in funding during 2020 and 2021. As an additional liquidity resource, the Company was approved to participate in the Federal Reserve Bank s PPP Liquidity Facility. 
+ 
+ OFF-BALANCE SHEET ARRANGEMENTS 
+ 
+ The Company is a party to off-balance-sheet arrangements in the normal course of business to meet the financing needs of its customers. The Company uses the same credit policies in making commitments and conditional obligations as it does for on-balance-sheet arrangements. Since some of the commitments and irrevocable letters of credit may expire without being drawn upon, the total amount does not necessarily represent future cash requirements. As discussed previously, the Company carefully monitors its liquidity needs and considers its cash requirements, especially for loan commitments, in making decisions on investments and obtaining funds from its other sources. Further information relating to off-balance-sheet instruments can be found in Note L to the Consolidated Financial Statements. 
+
+44
+
+ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK 
+ 
+ As a smaller reporting company, the Company is not required to provide this information. 
+
+ITEM 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 
+ Consolidated Statements of Condition 46 
+ Consolidated Statements of Operations 48 
+ Consolidated Statements of Comprehensive Income (Loss) 50 
+ Consolidated Statements of Changes in Shareholders Equity 51 
+ Consolidated Statements of Cash Flows 52 
+ Notes to Consolidates Financial Statements 54 
+ Report of Independent Registered Public Accounting Firm: PCAOB ID 97 
+
+45
+
+Peoples Financial Corporation and Subsidiaries 
+ Consolidated Statements of Condition 
+ (in thousands except share data) 
+
+December 31, 2022 2021 
+ 
+ Assets 
+ Cash and due from banks 
+ 
+ Available for sale securities 
+ 
+ Held to maturity securities, fair value of 180,050 - 2022; 111,340 - 2021 
+ 
+ Other investments 
+ 
+ Federal Home Loan Bank Stock, at cost 
+ 
+ Loans 
+ 
+ Less: Allowance for loan losses 
+ 
+ Loans, net 
+ 
+ Bank premises and equipment, net of accumulated depreciation 
+ 
+ Other real estate 
+ 
+ Accrued interest receivable 
+ 
+ Cash surrender value of life insurance 
+ 
+ Intangible asset 
+ 
+ Other assets 
+ 
+ Total assets 
+
+46
+
+Peoples Financial Corporation and Subsidiaries 
+ Consolidated Statements of Condition (continued) 
+ (in thousands except share data) 
+
+December 31, 2022 2021 
+ 
+ Liabilities and Shareholders' Equity 
+ Liabilities: 
+ 
+ Deposits: 
+ 
+ Demand, non-interest bearing 
+ 
+ Savings and demand, interest bearing 
+ 
+ Time, 250,000 or more 
+ 
+ Other time deposits 
+ 
+ Total deposits 
+ 
+ Borrowings from Federal Home Loan Bank 
+ 
+ Employee and director benefit plans liabilities 
+ 
+ Other liabilities 
+ 
+ Total liabilities 
+ 
+ Shareholders' Equity: 
+ Common stock, 1 par value, 15,000,000 shares authorized, 4,678,186 shares issued and outstanding at December 31, 2022 and 2021 
+ 
+ Surplus 
+ 
+ Undivided profits 
+ 
+ Accumulated other comprehensive income (loss) 
+ 
+ Total shareholders' equity 
+ 
+ Total liabilities and shareholders' equity 
+
+See Notes to Consolidated Financial Statements. 
+
+47
+
+Peoples Financial Corporation and Subsidiaries 
+ Consolidated Statements of Operations 
+ (in thousands except per share data) 
+
+Years Ended December 31, 2022 2021 2020 
+ 
+ Interest income: 
+ 
+ Interest and fees on loans 
+ 
+ Interest and dividends on securities: 
+ 
+ U. S. Treasuries 
+ 
+ U.S. Government agencies 
+ 
+ Mortgage-backed securities 
+ 
+ Collateralized mortgage obligations 
+ 
+ States and political subdivisions 
+ 
+ Other investments 
+ 
+ Interest on balances due from depository institutions 
+ 
+ Total interest income 
+ 
+ Interest expense: 
+ 
+ Deposits 
+ 
+ Borrowings from Federal Home Loan Bank 
+ 
+ Total interest expense 
+ 
+ Net interest income 
+ 
+ Provision for (reduction of) allowance for loan losses 
+ 
+ Net interest income after provision for (reduction of) allowance for loan losses 
+
+48
+
+Peoples Financial Corporation and Subsidiaries 
+ Consolidated Statements of Operations (continued) 
+ (in thousands except per share data) 
+
+Years Ended December 31, 2022 2021 2020 
+ Non-interest income: 
+ 
+ Trust department income and fees 
+ 
+ Service charges on deposit accounts 
+ 
+ (Loss) gain on liquidation, sales and calls of securities 
+ 
+ Increase in cash surrender value of life insurance 
+ 
+ Gain from death benefits from life insurance 
+ 
+ Gain on sale of buildings 
+ 
+ Other income 
+ 
+ Total non-interest income 
+ 
+ Non-interest expense: 
+ 
+ Salaries and employee benefits 
+ 
+ Net occupancy 
+ 
+ Equipment rentals, depreciation and maintenance 
+ 
+ Other expense 
+ 
+ Total non-interest expense 
+ 
+ Income (loss) before income taxes 
+ 
+ Income tax (benefit) expense 
+ 
+ Net income (loss) 
+ 
+ Basic and diluted earnings (loss) per share .52 
+ Dividends declared per share .19 .16 .02 
+
+See Notes to Consolidated Financial Statements. 
+
+49
+
+Peoples Financial Corporation and Subsidiaries 
+ Consolidated Statements of Comprehensive (Loss) Income 
+ (in thousands) 
+
+Years Ended December 31, 2022 2021 2020 
+ 
+ Net income (loss) 
+ 
+ Other comprehensive (loss) income: 
+ 
+ Net unrealized (loss) gain on available for sale securities 
+ 
+ Reclassification adjustment for realized losses (gains) on available for sale securities called or sold in current year 
+ 
+ Gain (loss) from unfunded post-retirement benefit obligation 
+ 
+ Total other comprehensive (loss) income 
+ 
+ Total comprehensive (loss) income 
+
+See Notes to Consolidated Financial Statements. 
+
+50
+
+Peoples Financial Corporation and Subsidiaries 
+ Consolidated Statements of Changes in Shareholders Equity 
+ (in thousands except share and per share data) 
+
+Accumulated 
+ Number of Other 
+ Common Common Undivided Comprehensive 
+ Shares Stock Surplus Profits Income (Loss) Total 
+ 
+ Balance, January 1, 2021 
+ 
+ Net income 
+ 
+ Cash dividend .16 per share) 
+ 
+ Other comprehensive loss 
+ 
+ Stock repurchase 
+
+Balance, December 31, 2021 
+ 
+ Net income 
+ 
+ Cash dividend .19 per share) 
+ 
+ Other comprehensive loss 
+
+Balance, December 31, 2022 
+
+See Notes to Consolidated Financial Statements. 
+
+51
+
+Peoples Financial Corporation and Subsidiaries 
+ Consolidated Statements of Cash Flows 
+ (in thousands) 
+
+Years Ended December 31, 2022 2021 2020 
+ 
+ Cash flows from operating activities: 
+ Net income (loss) 
+ Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+ Depreciation 
+ Provision for (reduction of) allowance for loan losses 
+ Write-down of other real estate 
+ (Gain) loss on sales of other real estate 
+ Amortization of intangible asset 
+ (Accretion) amortization of available for sale securities 
+ Amortization of held to maturity securities 
+ Loss (gain) on liquidation, sales and calls of securities 
+ Gain on sale of bank premises and equipment 
+ Increase in cash surrender value of life insurance 
+ Gain from death benefits from life insurance 
+ Change in accrued interest receivable 
+ Change in deferred tax benefit 
+ Change in other assets 
+ Change in employee and director benefit plan liabilities and other liabilities 
+ 
+ Net cash provided by operating activities 
+
+52
+
+Peoples Financial Corporation and Subsidiaries 
+ Consolidated Statements of Cash Flows (continued) 
+ (in thousands) 
+
+Years Ended December 31, 2022 2021 2020 
+ Cash flows from investing activities: 
+ Proceeds from maturities, liquidation, sales and calls of available for sale securities 
+ Purchases of available for sale securities 
+ Proceeds from maturities of held to maturity securities 
+ Purchases of held to maturity securities 
+ Purchase of Federal Home Loan Bank Stock 
+ Proceeds from sales of other real estate 
+ Proceeds from insurance on other real estate 
+ Purchase of trust department book of business 
+ Loans, net change 
+ Acquisition of bank premises and equipment 
+ Proceeds from sale of bank premises and equipment 
+ Investment in cash surrender value of life insurance 
+ Proceeds from death benefits from life insurance 
+ 
+ Net cash used by investing activities 
+ 
+ Cash flows from financing activities: 
+ Demand and savings deposits, net change 
+ Time deposits, net change 
+ Cash dividends paid 
+ Stock repurchase 
+ Borrowings from Federal Home Loan Bank 
+ Repayments to Federal Home Loan Bank 
+ 
+ Net cash provided by financing activities 
+ 
+ Net (decrease) increase in cash and cash equivalents 
+ Cash and cash equivalents, beginning of year 
+ 
+ Cash and cash equivalents, end of year 
+
+See Notes to Consolidated Financial Statements. 
+
+53
+
+PEOPLES FINANCIAL CORPORATION AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Other types of revenue contracts, the income from which is included in non-interest income, that are within the scope of ASU 2014 - 09 are: Trust department income and fees : A contract for fiduciary and/or investment administration services on personal trust accounts and corporate trust services. Personal trust fee income is determined as a percentage of assets under management and is recognized over the period the underlying trust is serviced. Corporate trust fee income is recognized over the period the Company provides service to the entity. Service charges on deposit accounts : The deposit contract obligates the Company to serve as a custodian of the customer s deposited funds and is generally terminable at will by either party. The contract permits the customer to access the funds on deposit and request additional services for which the Company earns a fee, including NSF and analysis charges, related to the deposit account. Income for deposit accounts is recognized over the statement cycle period (typically on a monthly basis) or at the time the service is provided, if additional services are requested. ATM fee income : A contract between the Company, as a card-issuing bank, and its customers whereby the Company receives a transaction fee from the merchant s bank whenever a customer uses a debit or credit card to make a purchase. These fees are earned as the service is provided (i.e., when the customer uses a debit or ATM card). Other non-interest income : Other non-interest income includes several items, such as wire transfer income, check cashing fees, gain (loss) from sales of other real estate, the increase in cash surrender value of life insurance, rental income from bank properties and safe deposit box rental fees. This income is generally recognized at the time the service is provided and/or the income is earned. 
+
+limited partner. The error is described under Note 1 to the Unaudited Consolidated Financial Statements contained in the Company s Quarterly Report on Form 10 -Q for the period ended March 31, 2022 , which is incorporated herein by reference. The second error correction was related to the Company s accounting for bank premises and equipment. While reviewing the Company s accruals for depreciation related to certain bank premises and equipment, the Company noticed that it had been over-accruing depreciation expenses beginning in 2006, causing expenses and the accumulation of depreciation in prior periods that were more than what should have been recorded under GAAP. 
+ Each of the errors at each period end represented or less of our shareholders' equity in all prior periods, and the aggregate net effect of the error corrections on sharholders equity was minimal. In accordance with the guidance set forth in SEC Staff Accounting Bulletin 99, Materiality, and SEC Staff Accounting Bulletin 108, Considering the Effects of Prior Year Misstatements when Quantifying Misstatements in Current Year Financials, the Company concluded that the errors were not material, to any prior periods, the current period or the trend in earnings from a quantitative and qualitative perspective. However, correcting the cumulative effect of the errors in the current period would have resulted in a material misstatement in the current period and, as such, the Company has revised its previously reported financial information contained in our annual report on Form 10 -K for the year ended December 31, 2022, to correct the immaterial errors. The Company will also revise previously reported financial information for these immaterial errors in future filings, as applicable. A summary of revisions to certain previously reported financial information is presented below: Revised Consolidated Statements of Condition as of December 31, 2021 in thousands): 
+ 
+ Bank premises and equipment, net of accumulated depreciation 
+ Total assets 
+ Undivided profits 
+ 
+ Revised Consolidated Statements of Shareholders Equity for the twelve months ended December 31, 2021 in thousands): 
+ 
+ Beginning balance total shareholders' equity 
+ Ending balance undivided profits 
+ Ending balance total shareholders' equity 
+ 
+ Revised Consolidated Income Statements for the twelve months ended December 31, 2021 and 2020 (in thousands): 
+ 
+ Net Income 
+ Basic and diluted earnings (loss) per share 
+
+Net Income 
+ Basic and diluted earnings (loss) per share 
+
+. 
+ In August 2021, the Financial Accounting Standards Board issued Accounting Standards Update 2021 - 06 ASU 2021 - 06 ), Presentation of Financial Statements (Topic 205 ), Financial Services Depository and Lending (Topic 942 ), and Financial Services Investment Companies (Topic 946 ). The FASB issued ASU 2021 - 06 to amend Securities and Exchange Commission SEC paragraphs in the Accounting Standards Codification to reflect the issuance of SEC Release No. 33 - 10786, Amendments to Financial Disclosures about Acquired and Disposed Businesses, and No. 33 - 10835, Update of Statistical Disclosures for Bank and Savings and Loan Registrants. The update is effective upon issuance. The adoption of this ASU will impact disclosures in the Annual Report on Form 10 -K only. 
+
+par value. The stock does not have a readily determinable fair value and as such is classified as restricted stock, carried at cost and evaluated for impairment in accordance with GAAP. 
+
+Loans which become 90 days delinquent are reviewed relative to collectibility. Unless such loans are in the process of terms revision to bring them to a current status or foreclosure or in the process of collection, these loans are placed on nonaccrual and, if deemed uncollectible, are charged off against the allowance for loan losses. That portion of a loan which is deemed uncollectible will be charged off against the allowance as a partial charge off. All charge offs must be approved by Management and are reported to the Board of Directors. 
+
+All impaired loans are reviewed, at a minimum, on a quarterly basis. The Company calculates the specific allowance required for impaired loans based on the present value of expected future cash flows discounted at the loan s effective interest rate, the loan s observable market price or the fair value of its collateral. Most of the Company s impaired loans are collateral-dependent. The fair value of the collateral for collateral-dependent loans is based on appraisals performed by third -party valuation specialists, comparable sales and other estimates of fair value obtained principally from independent sources such as the Multiple Listing Service or county tax assessment valuations, adjusted for estimated selling costs. The Company has a Real Estate Appraisal Policy (the Policy which is in compliance with the guidelines set forth in the Interagency Appraisal and Evaluation Guidelines which implement Title XI of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 FIRREA and the revised Interagency Appraisal and Evaluation Guidelines issued in 2010. The Policy further requires that appraisals be in writing and conform to the Uniform Standards of Professional Appraisal Practice USPAP ). An appraisal prepared by a state-licensed or state-certified appraiser is required on all new loans secured by real estate in excess of 500,000. Loans secured by real estate in an amount of 500,000 or less, or that qualify for an exemption under FIRREA, must have a summary appraisal report or in-house evaluation, depending on the facts and circumstances. Factors including the assumptions and techniques utilized by the appraiser, which could result in a downward adjustment to the collateral value estimates indicated in the appraisal, are considered by the Company. When Management determines that a loan is impaired and the loan is collateral-dependent, an evaluation of the fair value of the collateral is performed. The Company maintains established criteria for assessing whether an existing appraisal continues to reflect the fair value of the property for collateral-dependent loans. Appraisals are generally considered to be valid for a period of at least twelve months. However, appraisals that are less than twelve months old may need to be adjusted. Management considers such factors as the property type, property condition, current use of the property, current market conditions and the passage of time when determining the relevance and validity of the most recent appraisal of the property. If Management determines that the most recent appraisal is no longer valid, a new appraisal is ordered from an independent and qualified appraiser. During the interim period between ordering and receipt of the new appraisal, Management considers if the existing appraisal should be discounted to determine the estimated fair value of collateral. Discounts are applied to the existing appraisal and take into consideration the property type, condition of the property, external market data, internal data, reviews of recently obtained appraisals and evaluations of similar properties, comparable sales of similar properties and tax assessment valuations. When the new appraisal is received and approved by Management, the valuation stated in the appraisal is used as the fair value of the collateral in determining impairment, if any. If the recorded investment in the impaired loan exceeds the measure of fair value, a valuation allowance is required as a specific component of the allowance for loan losses. Any specific reserves recorded in the interim are adjusted accordingly. 
+ The general component of the ALL is the loss estimated by applying historical loss percentages to non-classified loans which have been divided into segments. These segments include gaming; hotel/motel; real estate, construction; real estate, mortgage; commercial and industrial and all other. The loss percentages are based on each segment s historical five -year average loss experience which may be adjusted by qualitative factors such as changes in the general economy, or economy or real estate market in a particular geographic area or industry. Management considers the following when assessing risk in the Company's loan portfolio segments: gaming - loans in this segment are primarily susceptible to declines in tourism and general economic conditions; hotel/motel - loans in this segment are primarily susceptible to tourism, declines in occupancy rates, business failure, industry concentrations and general economic conditions; real estate, construction - loans in this segment are primarily susceptible to cost overruns, changes in market demand for property, delay in completion of construction and declining real estate values; real estate, mortgage - loans in this segment are primarily susceptible to general economic conditions, declining real estate values, industry concentrations and business failure; commercial and industrial - loans in this segment are primarily susceptible to general economic conditions, declining real estate values, industry concentrations and business failure; and other - loans in this segment, most of which are consumer loans, are primarily susceptible to regulatory risks, unemployment and general economic conditions. 
+
+years and is evaluated for impairment at least annually. 
+
+for 2022, for 2021, and for 2020. 
+
+, , and in 2022, 2021 and 2020, respectively, for interest on deposits and borrowings. income tax payments were paid in 2022. Income tax payments of were paid in 2021. income tax payments were paid in 2020. Loans transferred to other real estate amounted to , and in 2022, 2021 and 2020, respectively. 
+
+Mortgage-backed securities 
+ 
+ Collateralized mortgage obligations 
+ 
+ States and political subdivisions 
+ 
+ Total available for sale securities 
+ 
+ Held to maturity securities: 
+ 
+ U.S. Treasuries 
+ 
+ States and political subdivisions 
+ 
+ Total held to maturity securities 
+
+Mortgage-backed securities 
+ 
+ Collateralized mortgage obligations 
+ 
+ States and political subdivisions 
+ 
+ Total available for sale securities 
+ 
+ Held to maturity securities: 
+ 
+ States and political subdivisions 
+ 
+ Total held to maturity securities 
+
+The amortized cost and fair value of debt securities at December 31, 2022, in thousands) by contractual maturity, are shown below. Expected maturities will differ from contractual maturities because borrowers may have the right to call or prepay obligations with or without call or prepayment penalties. 
+
+Due after one year through five years 
+ Due after five years through ten years 
+ Due after ten years 
+ Mortgage-backed securities 
+ Collateralized mortgage obligations 
+ Total 
+ 
+ Held to maturity securities: 
+ Due in one year or less 
+ Due after one year through five years 
+ Due after five years through ten years 
+ Due after ten years 
+ Total 
+
+Available for sale and held to maturity securities with gross unrealized losses at December 31, 2022 and 2021, aggregated by investment category and length of time that individual securities have been in a continuous loss position, are as follows (in thousands): 
+
+Mortgage-backed securities 
+ 
+ Collateralized mortgage obligations 
+ 
+ States and political subdivisions 
+ Total 
+ 
+ December 31, 2021: 
+ U.S. Treasuries 
+ 
+ Mortgage-backed securities 
+ 
+ Collateralized mortgage obligations 
+ 
+ States and political subdivisions 
+ Total 
+
+At December 31, 2022, of the Treasuries, of the mortgage-backed securities, of the collateralized mortgage obligations and of the securities issued by states and political subdivisions contained unrealized losses. 
+ 
+ Management evaluates securities for other-than-temporary impairment on a monthly basis. In performing this evaluation, the length of time and the extent to which the fair value has been less than cost, the fact that the Company s securities are primarily issued by U.S. Treasury and U.S. Government agencies and the cause of the decline in value are considered. In addition, the Company does not intend to sell and it is not more likely than not that we will be required to sell these securities before maturity. While some available for sale securities have been sold for liquidity purposes or for gains, the Company has traditionally held its securities, including those classified as available for sale, until maturity. As a result of this evaluation, the Company has determined that the declines summarized in the tables above are not deemed to be other-than temporary. 
+
+There were sales of available for sale debt securities during 2022 or 2021. Proceeds from sales of available for sale securities were during 2020. Available for sale debt securities were sold for realized gains of during 2020. 
+ 
+ Securities with a fair value of and at December 31, 2022 and 2021, respectively, were pledged to secure public deposits, federal funds purchased and other balances required by law. 
+
+Hotel/motel 
+ 
+ Real estate, construction 
+ 
+ Real estate, mortgage 
+ 
+ Commercial and industrial 
+ 
+ Other 
+ 
+ Total 
+
+On March 27, 2020, the Coronavirus Aid, Relief and Economic Security Act (the CARES Act ), a stimulus package intended to provide relief to businesses and consumers in the United States struggling as a result of COVID- 19, was signed into law. A provision in the CARES Act included funding for the creation of the Paycheck Protection Program PPP ). PPP is intended to provide loans to small businesses to pay their employees, rent, mortgage interest and utilities. PPP loans are forgivable, in whole or in part, if the proceeds are used for payroll and other permitted purposes in accordance with the requirements of the PPP. If not forgiven, in whole or in part, these loans extended in 2020 carry a fixed rate of 1.00 and a maturity date of two years, with payments deferred until the date the Small Business Administration (the SBA remits the borrower s loan forgiveness amount to the lender or, if the borrower does not apply for loan forgiveness, ten months after the end of the borrowers loan forgiveness covered period. The loans are 100 guaranteed by the SBA. The SBA paid the originating bank a processing fee ranging from 1.00 to 5.00 , based on the size of the loan. 
+ 
+ The Company worked with its customers to close PPP loans for a total outstanding balance of . As of December 31, 2022, all of these loans were partially or completely forgiven by the SBA with the bank subsidiary receiving principal and interest payments directly from the SBA. Only loans with a balance of were still outstanding as of December 31, 2021, and are reported in the commercial and industrial segment within the loan portfolio. There were outstanding PPP loans as of December 31, 2022. 
+
+Additional funds were provided in 2021 legislation for another round of PPP loans. Under this new round, loans with a balance of were issued. These loans carry a fixed rate of 1.00 and a maturity date of five years, with similar terms as to deferred payments, guarantees and processing fees as with prior PPP rounds. As of December 31, 2022, there were no outstanding loans related to the additional PPP loans. 
+ 
+ In the ordinary course of business, the Company s bank subsidiary extends loans to certain officers and directors and their personal business interests at, in the opinion of Management, the same terms, including interest rates and collateral, as those prevailing at the time for comparable loans of similar credit risk with persons not related to the Company or its subsidiaries. These loans do not involve more than normal risk of collectability and do not include other unfavorable features. An analysis of the activity with respect to such loans to related parties is as follows (in thousands): 
+
+Change in directors/officers loans during the year 
+ New loans and advances 
+ Repayments 
+ 
+ Balance, December 31 
+
+As part of its evaluation of the quality of the loan portfolio, Management monitors the Company s credit concentrations on a monthly basis. Total outstanding concentrations were as follows (in thousands): 
+
+Hotel/motel 
+ Out of area 
+
+The age analysis of the loan portfolio, segregated by class of loans, as of December 31, 2022 and 2021 is as follows (in thousands): 
+
+Hotel/motel 
+ Real estate, construction 
+ Real estate, mortgage 
+ Commercial and industrial 
+ Other 
+ 
+ Total 
+ December 31, 2021: 
+ Gaming 
+ Hotel/motel 
+ Real estate, construction 
+ Real estate, mortgage 
+ Commercial and industrial 
+ Other 
+ 
+ Total 
+
+The Company monitors the credit quality of its loan portfolio through the use of a loan grading system. A score of 1 5 is assigned to the loan based on factors including repayment ability, trends in net worth and/or financial condition of the borrower and guarantors, employment stability, management ability, loan to value fluctuations, the type and structure of the loan, conformity of the loan to bank policy and payment performance. Based on the total score, a loan grade of A, B, C, S, D, E or F is applied. A grade of A will generally be applied to loans for customers that are well known to the Company and that have excellent sources of repayment. A grade of B will generally be applied to loans for customers that have excellent sources of repayment which have no identifiable risk of collection. A grade of C will generally be applied to loans for customers that have adequate sources of repayment which have little identifiable risk of collection. A grade of S will generally be applied to loans for customers who meet the criteria for a grade of C but also warrant additional monitoring by placement on the watch list. A grade of D will generally be applied to loans for customers that are inadequately protected by current sound net worth, paying capacity of the borrower, or pledged collateral. Loans with a grade of D have unsatisfactory characteristics such as cash flow deficiencies, bankruptcy filing by the borrower or dependence on the sale of collateral for the primary source of repayment, causing more than acceptable levels of risk. Loans 60 to 89 days past due receive a grade of D. A grade of E will generally be applied to loans for customers with weaknesses inherent in the D classification and in which collection or liquidation in full is questionable. In addition, on a monthly basis the Company determines which loans are 90 days or more past due and assigns a grade of E to them. 
+
+A grade of F is applied to loans which are considered uncollectible and of such little value that their continuance in an active bank is not warranted. Loans with this grade are charged off, even though partial or full recovery may be possible in the future. 
+ 
+ An analysis of the loan portfolio by loan grade, segregated by class of loans, as of December 31, 2022 and 2021 is as follows (in thousands): 
+
+Hotel/motel - 
+ 
+ Real estate, construction 
+ 
+ Real estate, mortgage 
+ 
+ Commercial and industrial 
+ 
+ Other 7 
+
+Total 
+ 
+ December 31, 2021: 
+ Gaming 
+ 
+ Hotel/motel 
+ 
+ Real estate, construction 
+ 
+ Real estate, mortgage 
+ 
+ Commercial and industrial 
+ 
+ Other 
+
+Total 
+
+A loan may be impaired but not on nonaccrual status when the loan is well secured and in the process of collection. Total loans on nonaccrual as of December 31, 2022 and 2021 are as follows (in thousands): 
+
+Real estate, mortgage 
+ Other 
+ Total 
+
+The CARES Act also addressed COVID- 19 -related loan modifications and specified that such modifications executed between March 1, 2020 and the earlier of (i) 60 days after the date of the termination of the national emergency declared by the President and (ii) December 31, 2020, on loans that were current as of December 31, 2019, are not classified as a troubled debt restructuring TDR ). Additionally, under guidance from the federal banking agencies encouraging financial institutions to work prudently with borrowers, other short-term modifications made on a good faith basis in response to COVID- 19 to borrowers that were current prior to any relief are not TDRs. During 2020, the Company modified loans with a total balance of for certain customers by extending payments for 90 days or granting interest only payments for 3 6 months as a result of the impact of COVID- 19. Accordingly, such loans were not classified as TDRs. As of December 31, 2022, all extensions have expired and the customers have resumed making regular payments. 
+ 
+ Prior to 2020, certain loans were modified by granting interest rate concessions to these customers with such loans being classified as TDRs. During 2022 and 2021 the Company did not restructure any additional loans. Specific reserves of and were allocated to TDRs as of December 31, 2022 and 2021. The Bank had commitments to lend additional amounts to customers with outstanding loans classified as troubled debt restructurings as of December 31, 2022 and 2021. 
+
+Impaired loans, which include loans classified as nonaccrual and TDRs, segregated by class of loans, as of December 31, 2022 and 2021 were as follows (in thousands): 
+
+Real estate, mortgage 
+ Other 
+ 
+ Total 
+ 
+ With a related allowance recorded: 
+ Real estate, mortgage 124 
+ 
+ Total 
+ 
+ Total by class of loans: 
+ Real estate, construction 
+ Real estate, mortgage 
+ Other 
+ 
+ Total 
+
+Real estate, mortgage 
+ 
+ Total 
+ 
+ With a related allowance recorded: 
+ Real estate, mortgage 
+ 
+ Total 
+ 
+ Total by class of loans: 
+ Real estate, construction 
+ Real estate, mortgage 
+ 
+ Total 
+
+Transactions in the allowance for loan losses for the years ended December 31, 2022, 2021 and 2020, and the balances of loans, individually and collectively evaluated for impairment, as of December 31, 2022, 2021 and 2020 are as follows (in thousands): 
+
+Charge-offs 
+ Recoveries 
+ Provision 
+ Ending Balance 
+ 
+ Allowance for Loan Losses: 
+ Ending balance: individually evaluated for impairment 
+ Ending balance: collectively evaluated for impairment 
+ 
+ Total Loans: 
+ Ending balance: individually evaluated for impairment 
+ Ending balance: collectively evaluated for impairment 
+
+Charge-offs 
+ Recoveries 
+ Provision 
+ Ending Balance 
+ 
+ Allowance for Loan Losses: 
+ Ending balance: individually evaluated for impairment 
+ Ending balance: collectively evaluated for impairment 
+ 
+ Total Loans: 
+ Ending balance: individually evaluated for impairment 
+ Ending balance: collectively evaluated for impairment 
+
+Charge-offs 
+ Recoveries 
+ Provision 
+ Ending Balance 
+ 
+ Allowance for Loan Losses: 
+ Ending balance: individually evaluated for impairment 
+ Ending balance: collectively evaluated for impairment 
+ 
+ Total Loans: 
+ Ending balance: individually evaluated for impairment 
+ Ending balance: collectively evaluated for impairment 
+
+Building 5 - 40 
+ Furniture, fixtures and equipment 3 - 10 
+ Totals, at cost 
+ Less: Accumulated depreciation 
+ Totals 
+
+1 - 4 family residential properties 
+ Nonfarm nonresidential 
+ Other 
+ Total 
+
+2024 
+ 2025 
+ 2026 
+ 2027 
+ 
+ Total 
+
+Deposits held for related parties amounted to and at December 31, 2022 and 2021, respectively. 
+ 
+ Overdrafts totaling and were reclassified as loans at December 31, 2022 and 2021, respectively. 
+
+under established credit arrangements. 
+
+from the Federal Reserve Bank Discount Window Primary Credit Program. The borrowing limit is based on the amount of collateral pledged, with certain loans from the Bank s portfolio serving as collateral. Borrowings bear interest at the primary credit rate, which is established periodically by the Federal Reserve Board, and have a maturity of one day. The primary credit rate was at December 31, 2022. There was outstanding balance at December 31, 2022. 
+ 
+ At December 31, 2022, the Company had outstanding in advances under a line of credit with the FHLB. New advances may subsequently be obtained based on the liquidity needs of the bank subsidiary. Advances are collateralized by a blanket floating lien on the Company s residential first mortgage loans. 
+ 
+ The Company has additional contingency funding capacity with various other financial institutions in the amount of . 
+
+Employee benefit plans' liabilities 
+ Unrealized loss on available for sale securities, charged from equity 
+ Loss on credit impairment of securities 
+ Earned retiree health benefits plan liability 
+ General business and AMT credits 
+ Tax net operating loss carryforward 
+ Other 
+ Valuation allowance 
+ Deferred tax assets 
+ Deferred tax liabilities: 
+ Unrealized gain on available for sale securities, charged from equity 
+ Unearned retiree health benefits plan asset 
+ Bank premises and equipment 
+ Other 
+ Deferred tax liabilities 
+ Net deferred taxes 
+
+Income taxes consist of the following components (in thousands): 
+
+Deferred: 
+ Federal 
+ Change in valuation allowance 
+ Total deferred 
+ Totals 
+
+Income taxes amounted to less than the amounts computed by applying the U.S. Federal income tax rate of for 2022, 2021 and 2020 income before income taxes. The reasons for these differences are shown below (in thousands): 
+
+Increase (decrease) resulting from: 
+ Tax-exempt interest income 
+ Income from BOLI 
+ Federal tax credits 
+ Other 
+ Other changes in valuation allowance 
+ 
+ Total income tax expense 
+
+During 2022, the Company recorded current and deferred income tax expense (benefit) of and ), respectively or a net income tax benefit of . During 2021 the Company recorded current and deferred income tax expense of and , respectively. During 2020 the Company recorded no income tax expense or benefit. 
+ 
+ During 2020 the Company recorded income tax expense or benefit. On December 22, 2017, the President signed into law The Tax Cuts and Jobs Act (the Act ). In addition to reducing U.S. corporate income tax rates from 34 to 21 , the Act repealed the alternative minimum tax AMT regime for tax years beginning after December 31, 2017. For tax years beginning in 2018, 2019 and 2020, the AMT credit carryforward could be utilized to offset regular tax with any remaining AMT carryforwards eligible for a refund of 50 . Any remaining AMT credit carryforwards will become fully refundable beginning in the 2021 tax year. The Act also limits NOL usage to 80 of taxable income, which resulted in the Company recording income tax expense for 2021. 
+ 
+ A valuation allowance is recognized against deferred tax assets when, based on the consideration of all available positive and negative evidence using a more likely than not criteria, it is determined that all or a portion of these tax benefits may not be realized. This assessment requires consideration of all sources of taxable income available to realize the deferred tax asset including taxable income in prior carry-back years, future reversals of existing temporary differences, tax planning strategies and future taxable income exclusive of reversing temporary differences and carryforwards. The Company incurred losses on a cumulative basis for the three -year period ended December 31, 2014, which is considered to be significant negative evidence. 
+ 
+ The positive evidence considered in support was insufficient to overcome this negative evidence. As a result, the Company established a full valuation allowance for its net deferred tax asset in the amount of as of December 31, 2014. As of December 31, 2021, the valuation allowance was . 
+ 
+ Based on the Company s projections, as of December 31, 2022, the Company determined that it was more likely than not that it would realize a certain amount of its deferred tax assets. Prior to that time, the Company had recorded a valuation allowance against its net deferred tax asset. As a result of the Company s projections, as of December 31, 2022, the Company recorded a net deferred tax asset of . 
+
+The Company intends to maintain this valuation allowance until it determines it is more likely than not that the asset can be realized through current and future taxable income. 
+ 
+ The Company has reviewed its income tax positions and specifically considered the recognition and measurement requirements of the benefits recorded in its financial statements for tax positions taken or expected to be taken in its tax returns. The Company currently has unrecognized tax benefits that, if recognized, would favorably affect the income tax rate in future periods. 
+
+of undistributed earnings of the bank subsidiary included in consolidated surplus and retained earnings was available for future distribution to the Company as dividends without regulatory approval. 
+ 
+ On November 8, 2019, the Board approved the repurchase of up to of the outstanding shares of the Company s common stock. As a result of this repurchase plan, shares have been repurchased for and retired through December 31, 2021. There were additional shares repurchased through December 31, 2022. 
+ 
+ On April 28, 2021, the Board approved the repurchase of of the outstanding shares of the Company s common stock. As a result of this repurchase plan, shares have been repurchased for and retired through December 31, 2021. There were additional shares repurchased through December 31, 2022. 
+ 
+ The Company and the bank subsidiary are subject to various regulatory capital requirements administered by the federal banking agencies. Failure to meet minimum capital requirements can initiate certain mandatory and possibly additional discretionary actions by the regulators that, if undertaken, could have a direct material effect on the financial statements. Under capital adequacy guidelines and the regulatory framework for prompt corrective action, specific capital guidelines must be met that involve quantitative measures of the assets, liabilities and certain off-balance sheet items as calculated under regulatory accounting practices. The capital amounts and classification of the bank subsidiary and the Company are also subject to qualitative judgments by the regulators about components, risk weightings and other factors. 
+
+As of December 31, 2022, the most recent notification from the FDIC categorized the bank subsidiary as well capitalized under the regulatory framework for prompt corrective action. To be categorized as well capitalized, the bank subsidiary must have a Total risk-based capital ratio of or greater, a Common equity tier 1 capital ratio of or greater, a Tier 1 risk-based capital ratio of or greater and a Leverage capital ratio of or greater. The Company must have a capital conservation buffer above these requirements of . There are no conditions or events since that notification that Management believes have changed the bank subsidiary s category. 
+ 
+ The bank subsidiary s actual capital amounts and ratios and required minimum capital amounts and ratios and capital amounts and ratios to be well capitalized for 2022 and 2021, are as follows (in thousands): 
+
+Common Equity Tier 1 Capital (to Risk Weighted Assets) 
+ Tier 1 Capital (to Risk Weighted Assets) 
+ Tier 1 Capital (to Average Assets) 
+ 
+ December 31, 2021: 
+ Total Capital (to Risk Weighted Assets) 
+ Common Equity Tier 1 Capital (to Risk Weighted Assets) 
+ Tier 1 Capital (to Risk Weighted Assets) 
+ Tier 1 Capital (to Average Assets) 
+
+Rentals 
+ Other 
+ Totals 
+
+Other expenses consisted of the following (in thousands): 
+
+Data processing 
+ FDIC and state banking assessments 
+ Legal and accounting 
+ Other real estate 
+ ATM expense 
+ Trust expense 
+ Other 
+ Totals 
+
+Commitments to extend credit are agreements to lend to a customer as long as there is no violation of any conditions established in the agreement. Irrevocable letters of credit are conditional commitments issued by the Company to guarantee the performance of a customer to a third party. Commitments and irrevocable letters of credit generally have fixed expiration dates or other termination clauses and may require payment of a fee. Since some of the commitments and irrevocable letters of credit may expire without being drawn upon, the total amounts do not necessarily represent future cash requirements. The Company evaluated each customer's creditworthiness on a case-by-case basis. The amount of collateral obtained upon extension of credit is based on Management's credit evaluation of the customer. Collateral obtained varies but may include equipment, real property and inventory. 
+ 
+ The Company generally grants loans to customers in its trade area. 
+ 
+ At December 31, 2022 and 2021, the Company had outstanding irrevocable letters of credit aggregating and , respectively. At December 31, 2022 and 2021, the Company had outstanding unused loan commitments aggregating approximately and , respectively. Approximately and of outstanding commitments were at fixed rates and the remainder were at variable rates at December 31, 2022 and 2021, respectively. 
+
+during 2021 after consulting with legal counsel in the long-term best interest of the Company. The Company received a recovery in the amount of in 2022 related to the settlement recorded in 2021. 
+ 
+ Additionally, a Complaint has been filed by Stilwell Activist Investments, L.P., against the Company in the Chancery Court of Harrison County, Mississippi, requesting that the Company be compelled to allow the plaintiff to inspect and copy certain corporate records of the Company. The plaintiff, Stilwell Activist Investments, L.P., is a shareholder of record of the Company and is controlled by Joseph Stilwell, an individual who beneficially owns of the issued and outstanding common stock of the Company according to an Amended Schedule 13D filed by Mr. Stilwell and his related entities with the SEC on January 23, 2023, disclosing Company stock beneficially owned by Mr. Stilwell s group. Mr. Stilwell and his related entities, including Stilwell Activist Investments, L.P., have nominated Mr. Rodney H. Blackwell for election to the Board of Directors of the Company at its 2023 annual meeting. The Complaint filed by Stilwell Activist Investments, L.P., alleges that it is entitled to inspect and copy certain Company records under the Mississippi Business Corporations Act based upon a request previously made and refused by the Company for non-compliance with state law; however, the plaintiff does not seek damages. The Company disputes the allegations in the Complaint. The Company filed on August 26, 2022, an answer to the Complaint disputing the allegations therein. 
+
+Nonbank subsidiary 
+ 
+ Cash in bank subsidiary 
+ 
+ Other assets 
+ 
+ Total assets 
+ 
+ Liabilities and Shareholders' Equity: 
+ Other liabilities 
+ 
+ Total liabilities 
+ 
+ Shareholders' equity 
+ 
+ Total liabilities and shareholders' equity 
+
+CONDENSED STATEMENTS OF OPERATIONS (IN THOUSANDS): 
+
+Undistributed income (loss) of bank subsidiary 
+ Other income (loss) 
+ 
+ Total income (loss) 
+ 
+ Expenses 
+ Other 
+ 
+ Total expenses 
+ 
+ Income (loss) before income taxes 
+ 
+ Income tax 
+ 
+ Net income (loss) 
+
+CONDENSED STATEMENTS OF CASH FLOWS (IN THOUSANDS): 
+
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities: 
+ Undistributed (income) loss of subsidiaries 
+ Other assets 
+ 
+ Net cash provided by operating activities 
+ 
+ Cash flows from investing activities: 
+
+Net cash provided by investing activities 
+ 
+ Cash flows from financing activities: 
+ Stock repurchase 
+ Dividends paid 
+ 
+ Net cash used in financing activities 
+ 
+ Net increase (decrease) in cash 
+ Cash, beginning of year 
+ 
+ Cash, end of year 
+
+of the amounts contributed by the employee (up to of compensation). Contributions are determined by the Board of Directors and may be paid either in cash or Peoples Financial Corporation common stock. Total contributions to the plans charged to operating expense were for each of 2022, 2021 and 2020. 
+ 
+ The ESOP was frozen to further contributions and eligibility effective January 1, 2019. The ESOP held , and allocated shares at December 31, 2022, 2021 and 2020, respectively. 
+ 
+ The Company established an Executive Supplemental Income Plan and a Directors' Deferred Income Plan, which provide for pre-retirement and post-retirement benefits to certain key executives and directors. Benefits under the Executive Supplemental Income Plan are based upon the position and salary of the officer at retirement or death. Normal retirement benefits under the plan are equal to of salary for the president and chief executive officer, of salary for the executive vice president and of salary for all other executive officers and are payable monthly over a period of fifteen years. Under the Directors Deferred Income Plan, the directors are given an opportunity to defer receipt of their annual directors fees until retirement from the board. For those who choose to participate, benefits are payable monthly for ten years beginning the first day of the month following the director s normal retirement date. The normal retirement date is the later of the normal retirement age 65 or separation of service. Through December 31, 2021, interest on deferred fees accrued at an annual rate of , compounded annually. Also through December 31, 2021, after payments commenced, interest accrued at an annual rate of , compounded monthly. The Board amended the plan on November 23, 2021, providing that, effective January 1, 2022, on a prospective basis, interest on deferred fees shall accrue at an annual rate equal to the Chase Manhattan Bank Prime Rate as of December 31st of each year, compounded annually, before payments commence under the plan, and that after payments have commenced, interest will accrue on the account balance at an annual fixed rate equal to Chase Manhattan Bank Prime Rate as of the Director s separation from service, compounded monthly. The Company has acquired insurance policies, with the bank subsidiary as owner and beneficiary, which it may use as a source to pay potential benefits to the plan participants. These contracts are carried at their cash surrender value, which amounted to and at December 31, 2022 and 2021, respectively. The present value of accumulated benefits under these plans, using an interest rate of and at December 31, 2022 and 2021, respectively, and the interest ramp-up method has been accrued. The accrual amounted to and at December 31, 2022 and 2021, respectively, and is included in Employee and director benefit plans liabilities. 
+ 
+ The Company also has additional plans for post-retirement benefits for certain key executives. The Company has acquired insurance policies, with the bank subsidiary as owner and beneficiary, which it may use as a source to pay potential benefits to the plan participants. These contracts are carried at their cash surrender value, which amounted to and at December 31, 2022 and 2021, respectively. The present value of accumulated benefits under these plans using an interest rate of and at December 31, 2022 and 2021, respectively, and the projected unit cost method has been accrued. The accrual amounted to and at December 31, 2022 and 2021, respectively, and is included in Employee and director benefit plans liabilities. 
+
+Additionally, there are two endorsement split dollar policies, with the bank subsidiary as owner and beneficiary, which provide a guaranteed death benefit to the participants beneficiaries. These contracts are carried at their cash surrender value, which amounted to and at December 31, 2022 and 2021, respectively. The present value of accumulated benefits under these plans using an interest rate of and at December 31, 2022 and 2021, respectively, and the projected unit cost method has been accrued. The accrual amounted to and at December 31, 2022 and 2021, respectively, and is included in Employee and director benefit plans liabilities. 
+ 
+ The Company has additional plans for post-retirement benefits for directors. The Company has acquired insurance policies, with the bank subsidiary as owner and beneficiary, which it may use as a source to pay potential benefits to the plan participants. These contracts are carried at their cash surrender value, which amounted to and at December 31, 2022 and 2021, respectively. The present value of accumulated benefits under these plans using an interest rate of and at December 31, 2022 and 2021, respectively, and the projected unit cost method has been accrued. The accrual amounted to and at December 31, 2022 and 2021, respectively, and is included in Employee and director benefit plans liabilities. 
+ 
+ The Company provides post-retirement health insurance to certain of its retired employees. Employees are eligible to participate in the retiree health plan if they retire from active service no earlier than age 60. In addition, the employee must have at least 25 continuous years of service with the Company immediately preceding retirement. However, any active employee who was at least age 65 as of January 1, 1995, does not have to meet the 25 years of service requirement. The Company reserves the right to modify, reduce or eliminate these health benefits. The Company has chosen to not offer this post-retirement benefit to individuals entering the employment of the Company after December 31, 2006. Employees who are eligible and enroll in the bank subsidiary s group medical and dental health care plans upon their retirement must enroll in Medicare Parts A, B and D when first eligible upon their retirement from the bank subsidiary. This results in the bank subsidiary s programs being secondary insurance coverage for retired employees and any dependent(s), if applicable, while Medicare Parts A and B will be their primary coverage, and Medicare Part D will be the sole and exclusive prescription drug benefit plan for retired employees. 
+ 
+ The net postretirement benefit cost was as follows (in thousands): 
+
+The accumulated postretirement benefit obligation and the balance in accumulated other comprehensive income was as follows (in thousands): 
+
+Fair Value of Plan Assets 
+ Unfunded Status 
+ 
+ Balance in Accumulated Other Comprehensive Income 
+
+Amounts recognized in Accumulated Other Comprehensive Income were as follows (in thousands): 
+
+Prior Service Credit 
+ Total 
+
+The prior service credit and net gain that will be recognized in accumulated other comprehensive income during 2023 is . 
+ 
+ The following is a summary of the actuarial assumptions used to determine the accumulated postretirement benefit obligation: 
+
+Rate of Increase in Future Compensation Levels N/A N/A 
+ Current Pre 65 Health Care Trend Rate 
+ Current Post 64 Health Care Trend Rate 
+ Ultimate Health Care Trend Rate 
+ Year Ultimate Trend Rate Reached 
+
+The following is a summary of the assumptions used to determine the net postretirement benefit cost: 
+
+Rate of Increase in Future Compensation Levels N/A N/A 
+ Current Pre 65 Health Care Trend Rate 
+ Current Post 64 Health Care Trend Rate 
+ Ultimate Health Care Trend Rate 
+ Year Ultimate Trend Rate Reached 
+
+The following is a reconciliation of the accumulated postretirement benefit obligation, which is included in employee and director benefit plans liabilities (in thousands): 
+ Service cost 
+ Interest cost 
+ Gains/(Losses) 
+ Benefits paid 
+ Participant contributions 
+ Employer Contributions 
+ December 31, 2022 
+
+The following is a reconciliation of the accumulated other comprehensive income (in thousands): 
+ Amortization payment 
+ Liability (Gain)/Loss 
+ December 31, 2022 
+
+The following table displays the benefits expected to be paid from the plan during each of the next five fiscal years, and in aggregate for the five fiscal years thereafter (in thousands): 
+
+Fiscal 2024 
+ Fiscal 2025 
+ Fiscal 2026 
+ Fiscal 2027 
+ Fiscal 2028-2032 
+
+Held to Maturity Securities 
+ The fair value of held to maturity securities is based on quoted market prices. The Company s held to maturity securities are reported at their amortized cost, and their estimated fair value, which is determined utilizing several sources, is disclosed in the financial statements and footnotes. The primary source is ICE Data Pricing and Reference Date, LLC ICE which purchased Interactive Data Corporation IDC but kept the IDC methodologies. Those methodologies include utilizing pricing models that vary based on asset class and include available trade, bid and other market information and whose methodology includes broker quotes, proprietary models and vast descriptive databases. Another source for determining fair value is matrix pricing, which is a mathematical technique used widely in the industry to value debt securities without relying exclusively on quoted prices for the specific securities but rather by relying on the securities relationship to other benchmark securities. The Company s held to maturity securities for which fair value is determined through the use of such pricing models and matrix pricing are classified as Level 2 assets. 
+ 
+ Other Investments 
+ The carrying amount shown as other investments approximates fair value. 
+ 
+ Federal Home Loan Bank Stock 
+ The carrying amount shown as Federal Home Loan Bank Stock approximates fair value. 
+ 
+ Loans 
+ The fair value of both fixed and floating rate loans is estimated by discounting the future cash flows using the current rates at which similar loans would be made to borrowers with similar credit ratings for the remaining maturities. The cash flows considered in computing the fair value of such loans are segmented into categories relating to the nature of the contract and collateral based on contractual principal maturities. Appropriate adjustments are made to reflect probable credit losses. Cash flows have been adjusted for such factors as prepayment risk or the effect of the maturity of balloon notes. The fair value of floating rate loans are estimated at market value. At each reporting period, the Company determines which loans are impaired. Accordingly, the Company s impaired loans are reported at their estimated fair value on a non-recurring basis. An allowance for each impaired loan, which are generally collateral-dependent, is calculated based on the fair value of its collateral. The fair value of the collateral is based on appraisals performed by third -party valuation specialists. Factors including the assumptions and techniques utilized by the appraiser are considered by Management. If the recorded investment in the impaired loan exceeds the measure of fair value of the collateral, a valuation allowance is recorded as a component of the allowance for loan losses. Impaired loans are non-recurring Level 3 assets. 
+
+Other Real Estate 
+ In the course of lending operations, Management may determine that it is necessary to foreclose on the related collateral. Other real estate acquired through foreclosure is carried at fair value, less estimated costs to sell. The fair value of the collateral is based on appraisals performed by third -party valuation specialists. Factors including the assumptions and techniques utilized by the appraiser are considered by Management. If the current appraisal is more than one year old and/or the loan balance is more than , a new appraisal is obtained. Otherwise, the Bank s in-house property evaluator and Management will determine the fair value of the collateral, based on comparable sales, market conditions, Management s plans for disposition and other estimates of fair value obtained from principally independent sources, adjusted for estimated selling costs. Other real estate is a non-recurring Level 3 asset. 
+ 
+ Cash Surrender Value of Life Insurance 
+ The carrying amount of cash surrender value of bank-owned life insurance approximates fair value. 
+ 
+ Intangible Asset 
+ The carrying amount shown as intangible asset approximates fair value. 
+ 
+ Deposits 
+ The fair value of all deposits both non-interest bearing and interest bearing demand and savings deposits along with time deposits are estimated by discounting the cash flows using the Federal Home Loan Bank bulletin curve rates deposits with similar remaining maturities. The cash flows considered in computing the fair value of such deposits are based on contractual maturities. 
+ 
+ Borrowings from Federal Home Loan Bank 
+ The fair value of Federal Home Loan Bank FHLB fixed and variable rate borrowings are estimated using repricing rates for similar types of borrowing arrangements. 
+ 
+ The balances of available for sale securities, which are the only assets measured at fair value on a recurring basis, by level within the fair value hierarchy and by investment type, as of December 31, 2022 and 2021, were as follows (in thousands): 
+
+Mortgage-backed securities 
+ Collateralized mortgage obligations 
+ States and political subdivisions 
+ Total 
+ 
+ December 31, 2021: 
+ U.S. Treasuries 
+ Mortgage-backed securities 
+ Collateralized mortgage obligations 
+ States and political subdivisions 
+ Total 
+ Total 
+
+Impaired loans, which are measured at fair value on a non-recurring basis, by level within the fair value hierarchy as of December 31, 2022 and 2021 were as follows (in thousands): 
+
+2021 
+
+Other real estate, which is measured at fair value on a non-recurring basis, by level within the fair value hierarchy as of December 31, 2022 and 2021 are as follows (in thousands): 
+
+2021 
+
+The following table presents a summary of changes in the fair value of other real estate which is measured using Level 3 inputs (in thousands): 
+
+Loans transferred to ORE 
+ 
+ Sales 
+ 
+ Write-downs 
+ 
+ Balance, end of year 
+
+The carrying value and estimated fair value of financial instruments, by level within the fair value hierarchy, at December 31, 2022 and 2021 are as follows (in thousands): 
+
+Available for sale securities 
+ Held to maturity securities 
+ Other investments 
+ Federal Home Loan Bank stock 
+ Loans, net 
+ Cash surrender value of life insurance 
+ Intangible asset 
+ Financial Liabilities: 
+ Deposits: 
+ Non-interest bearing 
+ Interest bearing 
+ Borrowings from Federal Home Loan 
+ Bank 
+
+Available for sale securities 
+ Held to maturity securities 
+ Other investments 
+ Federal Home Loan Bank stock 
+ Loans, net 
+ Cash surrender value of life insurance 
+ Financial Liabilities: 
+ Deposits: 
+ Non-interest bearing 
+ Interest bearing 
+ Borrowings from Federal Home Loan 
+ Bank 
+
+. This book of business was added to the bank subsidiary s existing corporate trust portfolio in its Asset Management and Trust Services Department. The purchase was approved by the Federal Deposit Insurance Corporation and closed on August 15, 2022, during the third quarter of 2022. 
+
+235 Peachtree Street, NE Suite 1800 Atlanta, GA 30303 
+ 404 588 4200 wipfli.com 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Shareholders and Board of Directors 
+ Peoples Financial Corporation 
+ Biloxi, Mississippi 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying consolidated statements of condition of Peoples Financial Corporation and subsidiaries (the Company) as of December 31, 2022 and 2021, the related consolidated statements of operations, comprehensive income (loss), and cash flows for each of the three years in the period ended December 31, 2022, and changes in shareholders equity for each of the two years in the period ended December 31, 2022, and the related notes to the consolidated financial statements (collectively, the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2022, in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+97
+
+Critical Audit Matter 
+ 
+ The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which it relates. 
+ 
+ Estimate of allowance for loan losses reserves related to loans collectively evaluated for impairment 
+ As described in Notes A and C to the financial statements, the Company s allowance for loan losses ALL totaled 3,109,000 relating to loans collectively evaluated for impairment (general reserve). The Company estimated the general reserve using the historical loss method which utilizes historical loss rates of pools of loans with similar risk characteristics applied to the respective loan pool balances. These amounts are then adjusted for certain qualitative factors related to current economic and general conditions currently observed by management. 
+ 
+ We identified the estimate of the general reserve portion of the ALL as a critical audit matter because auditing this portion of the ALL required significant auditor judgment and involved significant estimation uncertainty requiring industry knowledge and experience. 
+ 
+ The primary audit procedures we performed to address this critical audit matter included: 
+
+We tested the completeness and accuracy of the data used by management to calculate historical loss rates. 
+
+We tested the completeness and accuracy of the data used by management in determining qualitative factor adjustments, including the reasonable and supportable factors, by agreeing them to internal and external information. 
+
+We analyzed the qualitative factors in comparison to historical periods to evaluate the directional consistency in relation to the Company s loan portfolio and local economy. 
+
+We have served as the Company s auditor since 2006. 
+ 
+ Atlanta, Georgia 
+ March 15, 2023 
+
+98
+
+ITEM 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 
+ None. 
+ 
+ ITEM 9A - CONTROLS AND PROCEDURES 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ As of December 31, 2022, an evaluation was performed under the supervision and with the participation of the Chief Executive Officer and Chief Financial Officer of the effectiveness of the Company s disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)). Based on that evaluation, the Chief Executive Officer and the Chief Financial Officer have concluded that the Company s disclosure controls and procedures are effective to ensure that the information required to be disclosed by the Company in the reports it files or submits under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. 
+ 
+ Changes in Internal Control over Financial Reporting An evaluation was performed with respect to the first quarter of 2022, under the supervision and with the participation of the Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company s disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e)). Based on that evaluation, the Chief Executive Officer and the Chief Financial Officer concluded that, because a previously reported material weakness in the Company s internal control over financial reporting related to a low-income housing partnership had not been fully remediated by March 31, 2022, the Company s disclosure controls and procedures were not considered to be fully effective as of that date. The material weakness in the Company s internal control over financial reporting and the Company s remediation measures are described under Item 4 of the Company s Quarterly Report on Form 10-Q for the period ended March 31, 2022 , which is incorporated herein by reference. We believe the actions described in the Company s Quarterly Report on Form 10-Q for the period ended March 31, 2022, were sufficient to remediate the identified material weakness and strengthen our internal control over financial reporting for low- income housing partnerships and that the material weakness in the Company s internal controls over financial reporting for low-income housing partnerships was fully remediated prior to December 31, 2022. 
+ 
+ Material Weakness in Internal Control over Financial Reporting 
+ A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. The Company s management, including our Chief Executive Officer and Chief Financial Officer, identified prior to December 31, 2022, a material weakness related to the Company s internal control over financial reporting for deprecation related to bank premises and equipment and recorded a related error correction in previously issued financial statements. 
+
+99
+
+Even though the Company has concluded that this error did not create any material misstatement to previously issued financial statements for any prior periods, the current period or the trend in earnings, the material weakness that caused the error, had it not been corrected, could have resulted in a future failure to estimate deprecation for bank premises and equipment that could create a material misstatement to the annual or interim consolidated financial statements that would not be prevented or detected. 
+ 
+ Remediation Measures 
+ To address the material weakness described above the Company has designed and implemented new and enhanced controls to ensure that: (i) reasonable estimates are used for depreciation on bank premises and equipment (ii) sub-ledger calculations of deprecation on bank premises and equipment are reconciled each period to general ledger amounts, and (iii) in-house accounting personnel have training to ensure they have the relevant expertise related to such estimates to the extent necessary to account for any similar estimates made or used in the future. 
+ 
+ We believe the actions described above were sufficient to remediate the identified material weakness and strengthen our internal control over financial reporting for depreciation of bank premises and equipment, and that the material weakness in the Company s internal controls over financial reporting for deprecation of bank premises and equipment was fully remediated prior to December 31, 2022. 
+ 
+ Management s Annual Report on Internal Control Over Financial Reporting 
+ The Company s management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rules 13(a) - 15(f) and 15(d) 15(f) of the Securities Exchange Act of 1934. In meeting its responsibility, management relies on its accounting and other related control systems. The internal control systems are designed to ensure that transactions are properly authorized and recorded in the Company s financial records and to safeguard the Company s assets from material loss or misappropriation. 
+ 
+ Management of the Company, including its Chief Executive Officer and Chief Financial Officer, assessed the effectiveness of internal control over financial reporting as of December 31, 2022, using the criteria set forth in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Our assessment included a review of the documentation of controls, evaluations of the design of the internal control system and tests of operating effectiveness of the internal controls. Based on the assessment, management has concluded that the Company had effective internal control over financial reporting as of December 31, 2022. 
+
+/s/ Chevis C. Swetman Chevis C. Swetman Chairman, President and Chief Executive Officer March 15, 2023 
+ /s/ Leslie B. Fulton Leslie B. Fulton Chief Financial Officer March 15, 2023 
+
+100
+
+ITEM 9B - OTHER INFORMATION 
+ 
+ None. 
+
+PART III 
+ 
+ ITEM 10 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 
+ Except as provided below, the information required by this item will be contained in Sections II, III, VIII and IX of our definitive proxy statement to be filed on March 15, 2023, relating to our 2023 Annual Meeting of stockholders to be April 26, 2023, and is incorporated herein by reference. 
+ 
+ The Company s Board of Directors has adopted a Code of Conduct that applies to not only the Chief Executive Officer and the Chief Financial Officer, but also all of the officers, directors and employees of the Company and its subsidiaries. A copy of this Code of Conduct can be found at the Company s internet website at www.thepeoples.com. The Company intends to disclose any amendments to its Code of Conduct, and any waiver from a provision of the Code of Conduct granted to the Company s Chief Executive Officer or Chief Financial Officer on the Company s internet website within four business days following such amendment or waiver. The information contained on or connected to the Company s internet website is not incorporated by reference into this Annual Report on Form 10-K and should not be considered part of this or any other report that the Company may file with or furnish to the SEC. 
+
+ITEM 11 - EXECUTIVE COMPENSATION 
+ 
+ The information in Section VI contained in the Proxy Statement in connection with the Annual Meeting of Shareholders to be held April 26, 2023 which will be filed by the Company in definitive form with the Commission on March 15, 2023, is incorporated herein by reference. 
+
+ITEM 12 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 
+ The information in Sections IV and V contained in the Proxy Statement in connection with the Annual Meeting of Shareholders to be held April 26, 2023, which was filed by the Company in definitive form with the Commission on March 15, 2023, is incorporated herein by reference. 
+
+101
+
+ITEM 13 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+ 
+ The information in Sections III and VII contained in the Proxy Statement in connection with the Annual Meeting of Shareholders to be held April 26, 2023, which will be filed by the Company in definitive form with the Commission on March 15, 2023, is incorporated herein by reference. 
+
+ITEM 14 - PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 
+ The information in Section II and Section XI contained in the Proxy Statement in connection with the Annual Meeting of Shareholders to be held April 26, 2023, which will be filed by the Company in definitive form with the Commission on March 15, 2023, is incorporated herein by reference. 
+
+PART IV 
+ 
+ ITEM 15 - EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+ 
+ (a) 1. Index of Financial Statements: 
+ See Item 8. 
+ 
+ (a) 2. Index of Financial Statement Schedules: 
+ All other schedules have been omitted as not applicable or not required or because the information has been included in the financial statements or applicable note. 
+ 
+ (a) 3. Index of Exhibits: 
+
+Description 
+ Incorporated by Reference to Registration or File Number 
+ Form of Report 
+ Date of Report 
+ Exhibit Number in Report 
+
+(99.1) 
+ Asset Purchase Agreement By and Between Trustmark National Bank and The Peoples Bank 
+ 001-12103 
+ 8-K 
+ 8/15/2022 
+ 99.1 
+
+(3.1) 
+ Articles of Incorporation 
+ 001-12103 
+ 10-K 
+ 12/31/2021 
+ 3.1 
+
+(3.2) 
+ Amended and Restated Bylaws 
+ 001-12103 
+ 8-K 
+ 11/22/2022 
+ 3.2 
+
+(4.1) 
+ Description of Common Stock 
+ 001-12103 
+ 10-K 
+ 12/31/2021 
+ 4.1 
+
+(10.1) 
+ Description of Automobile Plan 
+ 0-30050 
+ 10-K 
+ 12/31/2003 
+ 10.1 
+
+(10.2) 
+ Directors' Deferred Income Plan Agreements 
+ 0-30050 
+ 10-K 
+ 12/31/2003 
+ 10.2 
+
+(10.3) 
+ Executive Supplemental Income Plan Agreement - Chevis C. Swetman 
+ 001-12103 
+ 10-Q 
+ 9/30/2007 
+ 10.2 
+
+(10.4) 
+ Executive Supplemental Income Plan Agreement - A. Wes Fulmer 
+ 001-12103 
+ 10-Q 
+ 9/30/2007 
+ 10.3 
+
+(10.6) 
+ Split Dollar Agreements 
+ 0-30050 
+ 10-K 
+ 12/31/2003 
+ 10.4 
+
+(10.7) 
+ Deferred Compensation Plan 
+ 001-12103 
+ 10-Q 
+ 9/30/2007 
+ 10.1 
+
+(10.8) 
+ Description of Stock Incentive Plan 
+ 33-15595 
+ 10-K 
+ 12/31/2001 
+ 10.6 
+
+(10.9) 
+ Description of Bonus Plan 
+ 001-12103 
+ 10-Q 
+ 9/30/2010 
+ 10.1 
+
+(21) 
+ Subsidiaries of the registrant (P) 
+ 33-15595 
+ 10-K 
+ 12/31/1988 
+ 22 
+
+102
+
+(23.1) 
+ Consent of Independent Registered Public Accounting Firm - Wipfli LLP 
+
+(31.1) 
+ Certification of Principal Executive Officer Pursuant to Section 302 of the Sarbanes - Oxley Act of 2002 
+
+(31.2) 
+ Certification of Principal Financial Officer Pursuant to Section 302 of the Sarbanes - Oxley Act of 2002 
+
+(32.1) 
+ Certification of Principal Executive Officer Pursuant to 18 U.S.C. ss. 1350 
+
+(32.2) 
+ Certification of Principal Financial Officer Pursuant to 18 U.S.C. ss. 1350 
+
+(101) 
+ The following materials from the Company s 2022 Annual Report to Shareholders, formatted in iXBRL (inline Extensible Business Reporting Language): (i) Consolidated Statements of Condition at December 31, 2022 and 2021, (ii) Consolidated Statements of Operations for the years ended December 31, 2022, 2021 and 2020, (iii) Consolidated Statements of Comprehensive Income (Loss) for the years ended December 31, 2022, 2021 and 2020, (iv) Consolidated Statement of Changes in Shareholders Equity for the years ended December 31, 2022 and 2021, (v) Consolidated Statements of Cash Flows for the years ended December 31, 2022, 2021 and 2020 and (vi) Notes to the Consolidated Financial Statements for the year ended December 31, 2022, 2021 and 2020 
+
+(104) 
+ Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101) 
+
+Filed Herewith. 
+
+(P) Paper filing. 
+
+ITEM 16 FORM 10-K SUMMARY 
+ 
+ None. 
+
+103
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ PEOPLES FINANCIAL CORPORATION 
+ (Registrant) 
+
+Date: 
+ March 15, 2023 
+
+BY: 
+ /s/ Chevis C. Swetman 
+
+Chevis C. Swetman, Chairman of the Board 
+
+(principal executive officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. 
+
+Date: 
+ March 15, 2023 
+
+BY: 
+ /s/ Chevis C. Swetman 
+
+Chevis C. Swetman, Chairman, President and CEO 
+
+(principal executive officer) 
+
+BY: 
+ /s/ Ronald G. Barnes 
+ 
+ BY: 
+ /s/ Padrick D. Dennis 
+
+Date: 
+ March 15, 2023 
+ 
+ Date: 
+ March 15, 2023 
+
+Ronald G. Barnes, Director 
+
+Padrick D. Dennis, Director 
+
+BY: 
+ /s/ Jeffrey H. O Keefe 
+ 
+ BY: 
+ /s/ Paige Reed Riley 
+
+Date: 
+ March 15, 2023 
+ 
+ Date: 
+ March 15, 2023 
+
+Jeffrey H. O Keefe, Director 
+
+Paige Reed Riley, Director 
+
+BY: 
+ /s/ George J. Sliman, III 
+ 
+ BY: 
+ /s/ Leslie B. Fulton 
+
+Date: 
+ March 15, 2023 
+ 
+ Date: 
+ March 15, 2023 
+
+George J. Sliman, III, Director 
+
+Leslie B. Fulton, Chief Financial Officer 
+
+(principal financial and accounting officer) 
+
+104
+
+<EX-23.1>
+ 2
+ ex_485202.htm
+ EXHIBIT 23.1
+
+ex_485202.htm 
+
+Exhibit 23.1: Consent of Independent Registered Public Accounting Firm 
+
+We consent to the incorporation by reference in Registration Statement No. 333-144181 on Form S-8 of Peoples Financial Corporation of our report dated March 15, 2023 relating to our audit of the consolidated financial statements which appears in the Annual Report on Form 10-K of Peoples Financial Corporation for the year ended December 31, 2022. 
+
+/s/ WIPFLI LLP 
+
+Atlanta, Georgia 
+
+ March 15, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ ex_485193.htm
+ EXHIBIT 31.1
+
+ex_485193.htm 
+
+Exhibit 31.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+
+ PEOPLES FINANCIAL CORPORATION 
+
+ PURSUANT TO SECTION 302 OF THE 
+
+ SARBANES - OXLEY ACT OF 2002 
+
+I, Chevis C. Swetman, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Peoples Financial Corporation; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in the report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weakness in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+
+Dated: March 15, 2023 
+
+/s/ Chevis C. Swetman 
+
+Chevis C. Swetman, 
+
+			 Chairman, President and Chief Executive Officer 
+
+			 (principal executive officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex_485194.htm
+ EXHIBIT 31.2
+
+ex_485194.htm 
+
+Exhibit 31.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+
+ PEOPLES FINANCIAL CORPORATION 
+
+ PURSUANT TO SECTION 302 OF THE 
+
+ SARBANES - OXLEY ACT OF 2002 
+
+I, Leslie B. Fulton, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Peoples Financial Corporation; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in the report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusion about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weakness in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+
+Dated: March 15, 2023 
+
+/s/ Leslie B. Fulton 
+
+			 Leslie B. Fulton, 
+
+			 Chief Financial Officer and Controller 
+
+			 (principal financial and accounting officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ ex_485195.htm
+ EXHIBIT 32.1
+
+ex_485195.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+
+ PEOPLES FINANCIAL CORPORATION 
+
+ PURSUANT TO 18 U.S.C. ss. 1350 
+
+I, Chevis C. Swetman, Chairman, President and Chief Executive Officer of Peoples Financial Corporation (the Company ), hereby certify that the accompanying report on Form 10-K for the period ending December 31, 2022 and filed with the Securities and Exchange Commission on the date hereof pursuant to Section 13(a) of the Securities Exchange Act of 1934 (the Report by the Company fully complies with the requirements of that section. 
+
+I further certify that the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+By: 
+
+/s/ Chevis C. Swetman 
+
+Chevis C. Swetman, 
+
+			 Chairman, President and Chief Executive Officer 
+
+			 (principal executive officer) 
+
+Date: 
+
+March 15, 2023 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ ex_485196.htm
+ EXHIBIT 32.2
+
+ex_485196.htm 
+
+Exhibit 32.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+
+ PEOPLES FINANCIAL CORPORATION 
+
+ PURSUANT TO 18 U.S.C. ss. 1350 
+
+I, Leslie B. Fulton, Chief Financial Officer and Controller of Peoples Financial Corporation (the Company ), hereby certify that the accompanying report on Form 10-K for the period ending December 31, 2022 and filed with the Securities and Exchange Commission on the date hereof pursuant to Section 13(a) of the Securities Exchange Act of 1934 (the Report by the Company fully complies with the requirements of that section. 
+
+I further certify that the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+By: 
+
+/s/ Leslie B. Fulton 
+
+Leslie B. Fulton 
+
+			 Chief Financial Officer and Controller 
+
+			 (principal financial and accounting officer) 
+
+Date: 
+
+March 15, 2023 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ pfbx-20221231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ pfbx-20221231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ pfbx-20221231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ pfbx-20221231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ pfbx-20221231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

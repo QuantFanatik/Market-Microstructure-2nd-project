@@ -1,0 +1,3394 @@
+<Header>
+<FileStats>
+    <FileName>20230417_10-K_edgar_data_1877788_0001877788-23-000010.txt</FileName>
+    <GrossFileSize>4908264</GrossFileSize>
+    <NetFileSize>129453</NetFileSize>
+    <NonText_DocumentType_Chars>778327</NonText_DocumentType_Chars>
+    <HTML_Chars>1473467</HTML_Chars>
+    <XBRL_Chars>1001413</XBRL_Chars>
+    <XML_Chars>1390091</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001877788-23-000010.hdr.sgml : 20230417
+<ACCEPTANCE-DATETIME>20230414181510
+ACCESSION NUMBER:		0001877788-23-000010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		56
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230417
+DATE AS OF CHANGE:		20230414
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Boon Industries, Inc.
+		CENTRAL INDEX KEY:			0001877788
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS CHEMICAL PRODUCTS [2890]
+		IRS NUMBER:				845079920
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56325
+		FILM NUMBER:		23822327
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 SPRING HILL ROAD #16
+		CITY:			GRASS VALLEY
+		STATE:			CA
+		ZIP:			95945
+		BUSINESS PHONE:		530-648-1333
+
+	MAIL ADDRESS:	
+		STREET 1:		110 SPRING HILL ROAD #16
+		CITY:			GRASS VALLEY
+		STATE:			CA
+		ZIP:			95945
+
+</SEC-Header>
+</Header>
+
+ 0001877788-23-000010.txt : 20230417
+
+10-K
+ 1
+ bnow-10k.htm
+ FORM 10K
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+(Mark
+One) 
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from __________ to __________ 
+
+Commission
+file number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+State
+ or other jurisdiction of 
+ incorporation
+ or organization 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+, 
+ , 
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number, including area code: 
+
+Securities
+registered pursuant to Section 12(b) of the Securities Exchange Act of 1934: None. 
+
+Securities
+registered pursuant to Section 12(g) of the Securities Exchange Act of 1934: 
+
+Common
+stock, par value 0.0001 
+ (Title of class) 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ Yes
+ o 
+ x 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes
+ o 
+ x 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. x No o 
+
+Indicate
+by check mark whether the registrant has submitted electronically, if any, every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files). 
+
+x No
+ o 
+
+Indicate
+by check mark whether the registrant is a large-accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or emerging growth company. See the definitions of large-accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large-accelerated
+ filer 
+ o 
+ 
+ Accelerated
+ filer 
+ o 
+
+x 
+ 
+ Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of
+its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public
+accounting firm that prepared or issued its audit report. Yes o No
+ x 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes o x 
+
+The
+aggregate market value of the registrant s voting common stock held by non-affiliates of the registrant was as of the
+last business day of the fiscal quarter ended June 30, 2022, based on the closing price 0.0004 per share for the common stock on such
+date as traded on the OTC Markets 
+
+As
+of April [], 2023, the registrant had shares of its common stock, par value 0.0001 per share, outstanding. 
+
+TABLE
+OF CONTENTS 
+
+Page 
+
+PART
+ I 
+
+Item
+ 1. 
+ Business. 
+ 4 
+ 
+ Item
+ 1A. 
+ Risk
+ Factors. 
+ 10 
+ 
+ Item
+ 1B. 
+ Unresolved
+ Staff Comments. 
+ 10 
+ 
+ Item
+ 2. 
+ Properties. 
+ 10 
+ 
+ Item
+ 3. 
+ Legal
+ Proceedings. 
+ 10 
+ 
+ Item
+ 4. 
+ Mine
+ Safety Disclosures. 
+ 10 
+
+PART
+ II 
+
+Item
+ 5. 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 10 
+ 
+ Item
+ 6. 
+ Selected
+ Financial Data. 
+ 11 
+ 
+ Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+ 11 
+ 
+ Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosures About Market Risk. 
+ 14 
+ 
+ Item
+ 8. 
+ Financial
+ Statements and Supplementary Data. 
+ 15 
+ 
+ Item
+ 9. 
+ Changes
+ in and Disagreements With Accountants on Accounting and Financial Disclosure. 
+ 16 
+ 
+ Item
+ 9A. 
+ Controls
+ and Procedures. 
+ 16 
+ 
+ Item
+ 9B. 
+ Other
+ Information. 
+ 17 
+
+PART
+ III 
+
+Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance. 
+ 17 
+ 
+ Item
+ 11. 
+ Executive
+ Compensation. 
+ 18 
+ 
+ Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 20 
+ 
+ Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence. 
+ 21 
+ 
+ Item
+ 14. 
+ Principal
+ Accounting Fees and Services. 
+ 21 
+
+PART
+ IV 
+
+Item
+ 15. 
+ Exhibits,
+ Financial Statement Schedules. 
+ 22 
+
+SIGNATURES 
+ 24 
+
+2 
+
+FORWARD-LOOKING
+STATEMENTS 
+
+When
+used in this Report, the words may, will, expect, anticipate, continue, 
+ estimate, intend, and similar expressions are intended to identify forward-looking statements within the
+meaning of Section 27A of the Securities Act of 1933, as amended (the Act and Section 21E of the Securities Exchange Act
+of 1934, as amended (the Exchange Act regarding events, conditions and financial trends which may affect the Company s
+future plans of operations, business strategy, operating results, and financial position. Such statements are not guarantees of future
+performance and are subject to risks and uncertainties and actual results may differ materially from those included within the forward-looking
+statements for various reasons. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak
+only as of the date made. Except as required under federal securities laws and the rules and regulations of the United States Securities
+and Exchange Commission, the Company does not undertake, and specifically declines, any obligation to update any of these statements
+or to publicly announce the results of any revisions to any forward-looking statements after the distribution of this report, whether
+as a result of new information, future events, changes in assumptions, or otherwise. 
+
+This
+Report contains certain estimates and plans related to us and the industry in which we operate, which assume certain events, trends,
+and activities will occur and the projected information based on those assumptions. We do not know all of our assumptions are accurate.
+In particular, we do not know what level of acceptance our strategy will achieve, how many acquisitions we will be able to consummate
+or finance, or the size thereof. If our assumptions are wrong about any events, trends, or activities, then our estimates for future
+growth for our business also may be wrong. There can be no assurances any of our estimates as to our business growth will be achieved. 
+
+3 
+
+PART
+I 
+
+Item
+1. Business. 
+
+Overview 
+
+Boon
+Industries, Inc. is a bioscience company that manufactures commercial chemical products with various
+applications in commercial sterilization for agriculture, warehousing, hospitality and medical facilities . DiOx+, our flagship
+product, is a disinfectant sterilizer that kills harmful pathogens without dangerous toxic exposure to the user or the environment. DiOx+
+is an activated chlorine dioxide (Cl02) broad spectrum disinfectant that helps protect the environment and human health from viruses,
+bacteria and harmful by-products left by other cleaning sanitizers, without a harsh smell or skin irritation. 
+
+Our
+proprietary chemical formulas and processes make DiOx+ ideal for sterilizing mission critical, high value medical equipment and disinfecting
+air and surfaces in laboratory and hospital environments. DiOx+ helps protect agricultural crops from disease, can be used in water treatment
+systems, and helps reduce operational costs in warehousing, distribution centers, and ecommerce support facilities. 
+
+We
+manufacture DiOx+ in the U.S. at our production facility located in Grass Valley, California. 
+
+The
+Company s wholly owned subsidiary, Matrix of Life Tech Trust, works with Boon with applications in the beverage and nutritional
+supplement industries, and water bottling operations in Grants Pass, Oregon, where it produces bottled water and a range of products
+for the health and wellness industry. 
+
+Boon
+Industries Inc also provides modified shipping containers outfitted for agricultural purposes. These units offer solutions for several
+different segments within the agricultural industry and can be designed to accommodate a variety of uses. 
+
+On
+October 1, 2022, the Company executed a share exchange agreement with Cal Care Group, Inc. Cal Care ), a California Corporation
+with products and services in the cannabis retail, manufacturing, distribution, and delivery. Cal Care is a product and brand marketing
+company investing in operations with disruptive or hyper growth potential. Headquartered in San Jacinto, California, Cal Care s core
+strategic business is its end-market access as a central player in the growing California cannabis delivery marketplace while developing
+its in-house cannabis production capacity to verticalize operations in the space. The Company intends to acquire all of the issued and
+outstanding shares of Cal Care in exchange for 500,000 Series A preferred shares of the Company. The transaction will only become effective
+upon exchange of the agreed upon consideration, which has not occurred at December 31, 2022. Both parties can unilaterally terminate
+such agreement until the agreed upon consideration is exchanged. 
+
+Holding
+Company Parent Subsidiary Formation 
+
+Boon
+is the successor issuer of Leaf of Faith Beverage, Inc. LOFB ), as a result of a holding company reorganization effected
+by a merger (the Holding Company Merger on March 2, 2020, under which LOFB merged with and into Leaf of Faith Beverage
+Merger Sub, Inc., a wholly owned subsidiary of Boon, which in turn was a wholly owned subsidiary of LOFB. The Holding Company Merger
+was effected pursuant Section 1080(g) of the Oklahoma General Corporation Act (the Oklahoma Act ), under which wholly owned
+subsidiaries may merge to effect a holding company structure without requiring a stockholder vote. 
+
+Matrix
+of Life Trust Acquisition 
+
+On
+March 2, 2020, following the Holding Company Merger, we purchased all the assets, and assumed all of the liabilities of Matrix of Life
+Tech Trust, an Oregon Trust, pursuant to an Asset Purchase Agreement dated February 10, 2020 (the Matrix Acquisition ).
+In connection with the Matrix Acquisition, Justin Gonzalez, the trustee, and sole beneficiary of Matrix of Life Tech Trust, was appointed
+our Chief Executive Officer and Chairman. Prior to the Matrix Acquisition, Matrix produced beverages and food products at a facility
+leased in Grants Pass, Oregon. As a result of the Matrix Acquisition, our business became the business previously conducted by Matrix.
+Following the Matrix Acquisition, we have expanded Matrix s business of manufacturing customized white label products
+for the food and beverage industry to focus on the distribution of our DiOx+ product. 
+
+4 
+
+Matrix
+of Life Tech Trust (the Trust was established in October of 2011 by Justin Gonzalez, as trustee, for the benefit of his
+children to develop proprietary technologies in emulsification with applications in the beverage and nutritional supplement industries.
+The Trust was initially funded by cash from Mr. Gonzalez to engage in its business. Beginning in 2012 the Trust conducted water bottling
+operations in Grants Pass, Oregon, where it produced bottled water and a range of products for the health and wellness industry, until
+the sale of its assets to us in March 2020. 
+
+Our
+Market Opportunity 
+
+The
+market opportunity for Boon Industries DiOx+ product includes key sectors that require effective disinfecting and sterilizing
+of air, surfaces, and equipment. The growth in these markets has been substantial since 2020, and the outlook continues to grow following
+the advent of the COVID-19 pandemic. The global sterilization equipment and disinfectants market is expected to grow from 7 billion
+in 2019 to 9 billion in 2023, a compound annual growth rate (CAGR) of 8.4 . In 2020, the sterilization equipment market was valued at 8
+billion, driven by increased demand for sterilization equipment, disinfectants, and critical care equipment due to COVID-19. The U.S.
+surface disinfectant market size was valued at 987 million in 2019 and is expected to grow at a compound annual growth rate of 9.2 
+from 2020 to 2027. 
+
+The
+surface disinfectants market is projected to grow substantially due to strict regulations for the use of surface disinfectants, rising
+awareness among consumers regarding hygiene, and increasing cases of chronic diseases. The market is further driven by the rising incidences
+of disease outbreaks, such as the COVID-19 pandemic, which has created a steep rise in the demand for surface disinfectants from hospitals.
+Chemical disinfectants have emerged as the largest composition segment, with growing demand for disinfectants such as quaternary ammonium
+compounds and alcohols. Due to the rising awareness about the effects of the toxic nature of some of the chemical-based products and
+the many recalls that have occurred recently, our product s non-toxic yet highly effective dynamic is expected to provide a critical
+competitive advantage for our product line, which is based on protecting the health of people and the environment with an eco-friendly
+chlorine dioxide solution and its oxidizing properties. 
+
+In
+addition, we anticipate that our California base will provide us with access and exposure to the nation s most significant agriculture
+market. Protecting agriculture from disease and providing farmers with cost-effective solutions to protect, process and clean crops represents
+a significant opportunity for us. In California alone, crops are a 50+ billion business, including exports that topped 21 billion in
+2019. Grape production generated 5.4 billion in 2019 and almond production resulted in 6.1 billion in cash receipts. California accounts
+for 40 percent of all organic production in the U.S. and organic sales grew to 10.4 billion in 2019. Boon is targeting farms in California s
+central valley to develop pilot projects around protecting the food supply from the devasting impacts of pests, viruses and diseases.
+These efforts include touch points in the fields, at the processing plants and in the transportation system 
+
+Top
+ 10 Agricultural Counties 
+
+Total
+ Value and Rank 
+
+____________
+ 1.000 ____________ 
+
+County 
+ 2018 
+ 
+ 2019 
+ 
+ Leading
+ Commodities 
+ 
+ Fresno 
+ 7,942,018 
+ 1 
+ 7,714,540 
+ 1 
+ Almonds,
+ Pistachios, Livestock (Unspecified), Grapes (Table) 
+ 
+ Kern 
+ 7,469,670 
+ 2 
+ 7,692,667 
+ 2 
+ Almonds,
+ Grapes (Table), Pistachios, Milk 
+ 
+ Tulare 
+ 7,113,392 
+ 3 
+ 7,508,852 
+ 3 
+ Milk,
+ Oranges (Navel), Grapes (Table), Cattle Calves 
+ 
+ Monterey 
+ 4,258,628 
+ 4 
+ 4,426,625 
+ 4 
+ Strawberries,
+ Lettuce (Romaine), Lettuce (Head), Broccoli 
+ 
+ Stanislaus 
+ 3,528,222 
+ 5 
+ 3,526,856 
+ 5 
+ Almonds,
+ Milk, Chickens, Nursery (Fruit/Vine/Nut) 
+ 
+ Merced 
+ 3,252,659 
+ 6 
+ 3,270,959 
+ 6 
+ Milk,
+ Almonds, Cattle Calves, Chickens (Broilers) 
+ 
+ San
+ Joaquin 
+ 2,594,221 
+ 7 
+ 2,638,145 
+ 7 
+ Almonds,
+ Milk, Grapes (Wine), Walnuts 
+ 
+ Kings 
+ 2,280,675 
+ 8 
+ 2,187,693 
+ 8 
+ Milk,
+ Almonds, Cotton (Pima), Pistachios 
+ 
+ Imperial 
+ 2,226,030 
+ 9 
+ 2,015,843 
+ 9 
+ Heifers
+ Steers (Fed), Hay (Alfalfa), Vegetables (Unspec.), Hay (Other) 
+ 
+ Madera 
+ 2,055,845 
+ 11 
+ 1,998,826 
+ 10 
+ Almonds,
+ Milk, Pistachios, Grapes (Wine) 
+
+Source:
+California County Agricultural Commissioners Reports 
+
+5 
+
+Beyond
+high value medical equipment and agriculture, the potential market for DiOx+ includes segments that touch business and consumers every
+day in a multitude of ways. From hospitals, medical centers, EMS/first responder facilities and equipment, to physician and dental offices.
+Hospitality settings like hotels and restaurants to large stadiums and arenas. All these segments are expected to adhere to significant
+sanitization, disinfecting and sterilizing protocols in the wake of the COVID-19 pandemic. Commercial buildings, manufacturing and warehouse
+facilities, and food processing plants will also be operating under a new normal with their own unique set of operational
+requirements. 
+
+Chlorine
+Dioxide A Powerful Disinfectant: The antimicrobial, antiviral, anti-mold and biofilm destroying properties of chlorine dioxide
+are used in many industrial applications where efficiency, speed of action, and no residues are key. Chlorine dioxide is used as a disinfectant
+in food processing, air disinfection and odor control, disinfection of premises as well as vehicles, water treatment including drinking
+water and swimming pools, mold eradication, health applications such as dental treatments, wound cleansing, and eye therapies, among
+others. Chlorine dioxide was first discovered by Sir Humphry Davy in 1811 when he added sulfuric acid (HYSON) to potassium chlorate (KClO3). 
+
+Agriculture
+Vertical 
+
+On
+May 13, 2020, we entered into an exclusive distribution and licensing agreement with C Group LLC under which we intend to sell indoor
+agricultural growing pods utilizing C-Group s proprietary technology to our existing and future customers. The growing pods are
+a self-contained 800 Sq. ft steel container consisting of computerized climate and irrigation control. C Group LLC is manufacturing the
+pods. 
+
+The
+distribution agreement is for an initial term of five years and provides for an automatic five-year renewal period unless C Group provides
+us with notice of non-renewal at least six months prior to the end of the initial term. Either party may terminate the agreement upon
+a material breach by the other party. In addition, C Group may terminate the agreement without cause during the five-year extension period
+upon six months notice to us. Pursuant to this agreement, we issued 300,000 shares of our Series A Preferred Stock to Anthony
+Super, the President of C Group LLC. 
+
+Industry
+Overview 
+
+Since
+the FDA approved usage of chlorine dioxide under Title 21 in 2016, there have been a handful of companies that have begun to offer chlorine
+dioxide products. There are three main types of chlorine dioxide available in the market, and each have their pros and cons: 
+
+Gaseous
+ chloring dioxide. 
+
+Stabilized
+ chlorine dioxide, and 
+
+Activated
+ chlorine dioxide (in solution), such as DiOx+. 
+
+Gaseous
+Chlorine Dioxide 
+
+Chlorine
+dioxide gas is generally created in situ using ClO2 gas electrochemical or electrolytic generators, or by mixing two incompatible chemicals
+that as a result produce chlorine dioxide gas. Since the gas cannot be compressed or stored, the generators are usually installed on
+location and used as a chlorine dioxide feed for immediate application. A wide range of companies offer equipment and/or services for
+on-site disinfection. 
+
+Stabilized
+Chlorine Dioxide 
+
+Stabilized
+chlorine dioxide can be produced by chemically mixing sodium chlorite with other compounds, such as hydrogen peroxide (H2O2); however,
+they are either not chlorine dioxide per se (ClO2, which is a gas), or the ingredients to create the actual gas have not been mixed and
+will be mixed to produce ClO2 when in contact with water. 
+
+6 
+
+Activated
+Chlorine Dioxide (in solution) (DiOx+) 
+
+Chlorine
+dioxide is usually produced as a gas dissolved in a water solution starting with a sodium chlorite solution and one of the following
+methods: reaction with chlorine gas, or reaction with sodium hypochlorite and an acid, or reaction with an acid, typically hydrochloric
+acid. Efficient generation of chlorine dioxide is reliant on proper precursor ratios and mixing for a given method. 
+
+When
+chlorine dioxide is generated in solution, it is a very effective liquid disinfectant at point of use. Chlorine dioxide at use concentrations
+(0.5 .85 ppm) overcomes some of the disadvantages of hypochlorite in that it is non tainting, noncorrosive, and nontoxic. Its sole
+use at present is in water disinfection. Unlike iodine, chlorine dioxide has no adverse effects on thyroid function. Chlorine dioxide
+is widely used by municipal water treatment facilities. The term chlorine dioxide is misleading because chlorine is not
+the active element. Chlorine dioxide is an oxidizing, not a chlorinating agent, and it acts by means of a reduction-oxidation (redox)
+electro-chemical reaction. 
+
+Chlorine
+Dioxide Market 
+
+The
+global chlorine dioxide market size was over 795 million in 2019 and is estimated to grow at over 5 CAGR between 2020 and 2026 owing
+to significant expansion of the industrial wastewater treatment sector. Growing regulatory restrictions on the usage of chlorine and
+hypochlorite in pulp bleaching should boost the adoption of chlorine dioxide. 
+
+The
+product is witnessing rising demand in several industries including the pulp and paper industry owing to the growing adoption of paper
+packaging products on account of the significant expansion of the retail and e-commerce sector. The growing demand for pulp from the
+textile industry and increasing consumer preference for personal hygiene products such as tissue papers and disposable towels should
+further drive the chlorine dioxide market growth. Stabilized chlorine dioxide is an ideal ingredient of the pulp bleaching process to
+produce pulp with higher brightness. Under FDA regulations, chlorine dioxide may legally be used as a food additive provided it is obtained
+by prescribed production methods such as the electrolysis of sodium chlorite, or the treatment of sodium chlorate with hydrogen peroxide
+(which is a stabilized form of chlorine dioxide, and not ClO2 gas, and has its issues with higher corrosiveness and residual remains).
+The regulation allows chlorine dioxide to be used as an antimicrobial agent in water for washing fruits and vegetables or poultry processing
+in a concentration not exceeding 3 parts per million. 
+
+Chlorine
+dioxide consumption in industrial water treatment applications is expected to surpass 125 kilotons by 2026. Growing industrialization
+and urbanization has contributed to water pollution thereby increasing the requirement for industrial water treatment. Industrial processes
+require water with specific pH levels, water hardness and total dissolved solids (TDS) as the raw water intake involves water of varying
+compositions such as freshwater, seawater and groundwater. Chlorine dioxide serves as an effective biocide in the treatment of process
+water, food processing and cooling towers (in the latter to control biofilm which leads to legionnaire s disease). 
+
+The
+voluminous amount of water required in industrial processes coupled with the adverse effects of contaminated water on industrial equipment
+such as lodging of debris and chemical contamination, should drive product demand. Rising water shortage has increased consumer focus
+on water reuse, which requires appropriate water treatment. Growing technological advancement in the industrial wastewater treatment
+industry along with significant expansion of the electronics sector has increased the requirement for treatment solutions to remove exotic
+metals should boost the chlorine dioxide market growth. 
+
+Improving
+Air Quality 
+
+In
+a recent study, chlorine dioxide gas efficiently disinfected and improved air quality indoors after single (0.28L solution, 250 mg/L),
+double, and triple doses. All three doses reduced indoor bacteria and fungi concentrations, but the double and triple doses had significantly
+better antimicrobial effects. 
+
+In
+another study, a chlorine dioxide-based agent was more effective than hydrogen peroxide at killing bacteria that had enhanced resistance
+to chemical and radiation disinfection (B. pumilus SAFR-032 and Bacillus subtilis ATCC 6051). Chlorine dioxide can help sterilize peroxide-
+and UV-resistant spores in hospital environments. 
+
+7 
+
+Antiviral
+Activity 
+
+Chlorine
+dioxide is also antiviral. It destroys the proteins on the outside of viruses and degrades the virus. Chlorine dioxide gas has been shown
+to be effective against these viruses on hard, non-porous surfaces: 
+
+Human
+ influenza (IFV) 
+
+Measles 
+
+Human
+ herpes (HHV) 
+
+Human
+ adenovirus (HAdVs) 
+
+Influenza
+ A (in mice) 
+
+Chlorine
+dioxide solution also inactivated human and monkey rotaviruses (that cause diarrhea) and hepatitis A. 
+
+Government
+Regulation 
+
+The
+Environmental Protection Agency EPA registered chlorine dioxide as a disinfectant and sanitizer in 1967. In 1983, the
+EPA recommended chlorine dioxide as an alternative to chlorine (which was linked to cancer causing THMs) to disinfect water. Use of chlorine
+dioxide as a disinfectant and sterilizer accelerated across the beverage industry, fruit and vegetable processing, and pulp and paper
+in 1990s. There are various forms in which chlorine dioxide can be produced, with various degrees of purity, concentration, and applicability.
+In the United States, chlorine dioxide is approved for use by OSHA, FDA, EPA, CDC, USDA, and DOT. 
+
+List
+N Designation 
+
+We
+intend to apply for List N designation of DiOx+ from the EPA List N is a publicly available list maintained by the EPA of products that
+the EPA expects will kill SARS-CoV-2, the coronavirus that causes COVID-19, when used according to the products label directions.
+All products on this list meet EPA s criteria for use against SARS-CoV-2 (COVID-19). Products qualify for List N if they: 
+
+Demonstrate
+ efficacy against the coronavirus SARS-CoV-2 (Covid-19). 
+
+Demonstrate
+ efficacy against a pathogen that is harder to kill than SARS-CoV-2 (Covid 19); or 
+
+Demonstrate
+ efficacy against a different human coronavirus similar to SARS-CoV-2 (Covid-19). 
+
+We
+believe our DiOx+ meets all the foregoing criteria and have been working with independent laboratories and consultants to obtain List
+N designation from the EPA of our DiOx+ products. We have conducted studies with Microchem Labs in Round Rock, Texas and Q Labs in Cincinnati,
+Ohio that support the efficacy of our DiOx+ products and conformity to EPA requirements. We expect to obtain the List N designation from
+the EPA in the first half of 2022. We believe that once we have obtained List N designation, we will see greatly increased demand for
+DiOx+ from government purchasers, contractors, hospitals, and other consumers. 
+
+Sources
+and Availability of Raw Material 
+
+We
+purchase raw materials and components from a variety of suppliers, including Uline and Amazon. Our largest material cost is for the bottles
+and containers in which our products are sold. We do not consider Uline or Amazon or any particular supplier to be a principal supplier
+or material to our business. Although we do not have long term contracts with any of our suppliers, we believe we have good relationships
+with our suppliers, and if necessary, we believe we could replace one or more of our current suppliers with minimal effect on our business
+operations. 
+
+Competition 
+
+The
+disinfectant and chlorine dioxide industries are subject to intense competition. Many of our competitors are larger companies whose financial
+resources and scope of operations are substantially greater than ours. Our competitors that produce chlorine dioxide include International
+Dioxide, Ecolab, Grundfos, ProMinent, Evoqua, and Scotmas. Various manufacturers are engaged in consolidation through joint ventures,
+mergers, and acquisitions, which should boost their market share and make it more difficult to compete with them. We also face competition
+from companies that engage in research and development activities to develop new products that compete with our products. However, we
+believe our DiOx+ product offers a superior, more concentrated formulation, that will expand use applications and allow us to penetrate
+markets not currently occupied by our competitors. Our current competitors offer ready to use formulas or concentrates with concentrations
+of up to 3,000 parts per million (ppm). In contrast, our product is a 4,000 ppm solution, which allows for a greater dilution factor
+and potential cost savings for many applications. 
+
+8 
+
+Intellectual
+Property 
+
+Our
+success depends, at least in part, on our ability to protect our core technology and intellectual property. To accomplish this, we rely
+on a combination of trade secrets, including know-how, employee and third-party nondisclosure agreements, trademarks, intellectual property
+licenses and other contractual rights to establish and protect our proprietary rights in our technology. 
+
+In
+addition to our own proprietary formulas, we are a party to an Exclusive Technology License Agreement with Eaucentrix LLC which provides
+us the exclusive license for the use of proprietary formulas developed by Eaucentrix. The Exclusive Technology License Agreement has
+a perpetual term, subject to the right of Eaucentrix to terminate the agreement upon a material breach by us which we fail to cure following
+notice from Eaucentrix, or our failure to pay amounts due to Eaucentrix under the agreement for more than 60 days after such payments
+become due. 
+
+We
+registered DiOx+ as a trademark with the U.S. Patent and Trademark Office on June 8, 2020. 
+
+We
+are currently applying for a product registration with the EPA that includes a Confidential Statement of Formula that outlines the proprietary
+formula. 
+
+We
+currently do not hold any patents or other registered intellectual property other than our DiOx+ trademark. 
+
+Employees 
+
+As
+of December 31, 2022, we had two full-time employees. 
+
+Emerging
+Growth Company 
+
+We
+are an emerging growth company under the JOBS Act. We shall continue to be deemed an emerging growth company until the earliest of: 
+
+(a) 
+ The
+ last day of the fiscal year of the issuer during which it has total annual gross revenues of 1,000,000. 
+
+(b) 
+ The
+ last date of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities
+ pursuant to an effective IPO registration statement. 
+
+(c) 
+ The
+ date on which such issuer has, during the previous 3-year period, issued more than 1 billion in non-convertible debt; or 
+
+(d) 
+ The
+ date on which such issuer is deemed to be a large-accelerated filer. 
+
+As
+an emerging growth company, we are exempt from Section 404(b) of Sarbanes Oxley. Section 404(a) requires Issuers to publish information
+in their annual reports concerning the scope and adequacy of the internal control structure and procedures for financial reporting. This
+statement shall also assess the effectiveness of such internal controls and procedures. Section 404(b) requires that the registered accounting
+firm shall, in the same report, attest to and report on the assessment on the effectiveness of the internal control structure and procedures
+for financial reporting. 
+
+As
+an emerging growth company, we are also exempt from Section 14A (a) and (b) of the Securities Exchange Act of 1934 which require the
+shareholder approval of executive compensation and golden parachutes. 
+
+We
+have elected to use the extended transition period for complying with new or revised accounting standards under Section 102(b)(2) of
+the Jobs Act, that allows us to delay the adoption of new or revised accounting standards that have different effective dates for public
+and private companies until those standards apply to private companies. As a result of this election, our financial statements may not
+be comparable to companies that comply with public company effective dates. 
+
+9 
+
+Item
+1A. Risk Factors. 
+
+Not
+applicable because we are a smaller reporting company. 
+
+Item
+1B. Unresolved Staff Comments. 
+
+Not
+applicable because we are a smaller reporting company. 
+
+Item
+2. Properties. 
+
+Our
+principal corporate offices and manufacturing facility is located at 110 Spring Hill Drive, Suite 16, Grass Valley, CA 95945. Our facilities
+encompass eight thousand square feet, that we lease at a base rate of 4,000 per month, subject to annual increase based on the increase
+in the CPI, under a lease that expires January 1, 2025. We believe our facilities are adequate to meet our current and near-term needs.
+We also lease a product production and water bottling facility in Grants Pass, Oregon on a month-to-month basis at a cost of 2,000 per
+month. 
+
+Item
+3. Legal Proceedings. 
+
+In
+the ordinary course of business, we may become involved in legal proceedings from time to time. We are not currently party to any legal
+proceedings, nor are we aware of any material pending legal proceedings. 
+
+Item
+4. Mine Safety Disclosures. 
+
+Not
+applicable. 
+
+PART
+II 
+
+Item
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market
+Information 
+
+Our
+common stock trades on the OTC Markets Pink Open Market under the symbol BNOW . Because we are quoted on the OTC
+Markets, our securities may be less liquid, receive less coverage by security analysts and news media, and generate lower prices than
+might otherwise be obtained if they were listed on a national securities exchange. 
+
+Price
+Range of Common Stock 
+
+The
+following table shows, for the periods indicated, the high and low closing prices per share of our common stock as reported by the OTC
+Markets Pink Open Market quotation service: 
+
+Closing Price 
+
+High 
+ Low 
+
+Year Ended December, 2022 
+
+First Quarter 
+ 0.0075 
+ 0.0006 
+ 
+ Second Quarter 
+ 0.0028 
+ 0.0004 
+ 
+ Third Quarter 
+ 0.0007 
+ 0.0003 
+ 
+ Fourth Quarter 
+ 0.0005 
+ 0.0001 
+
+Year Ended December, 2021 
+
+First Quarter 
+ 0.7700 
+ 0.0900 
+ 
+ Second Quarter 
+ 0.1590 
+ 0.0250 
+ 
+ Third Quarter 
+ 0.0330 
+ 0.0050 
+ 
+ Fourth Quarter 
+ 0.0277 
+ 0.0030 
+
+10 
+
+Approximate
+Number of Equity Security Holders 
+
+As
+of April [], 2023, there were approximately 353 stockholders of record. Because shares of our common stock are held by depositaries,
+brokers and other nominees, the number of beneficial holders of our shares is substantially larger than the number of stockholders of
+record. 
+
+Dividends 
+
+Holders
+of our common stock are entitled to receive dividends if, as and when declared by the Board of Directors out of funds legally available.
+We have never declared or paid any dividends on our common stock. We intend to retain any future earnings for use in the operation and
+expansion of our business. Consequently, we do not anticipate paying any cash dividends on our common stock to our stockholders for the
+foreseeable future. 
+
+Securities
+Authorized for Issuance under Equity Compensation Plans 
+
+We
+do not have in effect any compensation plans under which our equity securities are authorized for issuance. 
+
+Unregistered
+Sales of Equity Securities 
+
+During
+the year ended December 31, 2022, the Company issued an aggregate of 2,929,176,111 shares of common stock pursuant to the conversion
+of 254,058 Series A Preferred stock. 
+
+The
+above issuances of were exempt from registration pursuant to Section 4(2), and/or Regulation D promulgated under the Securities Act.
+These securities qualified for exemption under Section 4(2) of the Securities Act since the issuance securities by us did not involve
+a public offering. The offering was not a public offering as defined in Section 4(2) due to the insubstantial number of
+persons involved in the deal, size of the offering, manner of the offering and number of securities offered. We did not undertake an
+offering in which we sold a high number of securities to a high number of investors. In addition, these stockholders had the necessary
+investment intent as required by Section 4(2) since they agreed to and received share certificates bearing a legend stating that such
+securities are restricted pursuant to Rule 144 of the Securities Act. This restriction ensures that these securities would not be immediately
+redistributed into the market and therefore not be part of a public offering. Based on an analysis of the above factors,
+we have met the requirements to qualify for exemption under Section 4(2) of the Securities Act for this transaction. 
+
+Item
+6. Selected Financial Data. 
+
+Not
+applicable because we are a smaller reporting company. 
+
+Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+The
+following discussion and analysis of financial condition and results of operations should be read in conjunction with our consolidated
+financial statements and related notes included elsewhere in this report. The information and financial data discussed below is only
+a summary and should be read in conjunction with the historical financial statements and related notes contained elsewhere in this 10-K.
+The financial statements contained elsewhere in this 10-K fully represent the Company s financial condition and operations; however,
+they are not indicative of the Company s future performance. Although management believes that the assumptions made and expectations
+reflected in the forward-looking statements are reasonable, there is no assurance that the underlying assumptions will, in fact, prove
+to be correct or that actual results will not be different from expectations expressed in this 10-K. 
+
+General
+Overview 
+
+We
+are an innovative bioscience company that has developed an effective germ fighter, DiOx+, a disinfectant sterilizer that kills 99.99 
+of harmful pathogens without dangerous toxic exposure to the user or the environment. Our
+DiOx+ is an activated chlorine dioxide (Cl02) broad spectrum disinfectant that kills dangerous pathogens with no residual toxicity. It
+protects the environment and human health from viruses, bacteria and harmful by-products left by other cleaning sanitizers, without a
+harsh smell or skin irritation. Our proprietary chemical formulas and processes make DiOx+
+ideal for sterilizing mission critical, high value medical equipment and disinfecting air and surfaces in laboratory and hospital environments.
+DiOx+ helps protect agricultural crops from disease and other pathogens like mold and fungus It is used in water treatment plants, and
+helps reduce operational costs in warehousing, distribution centers, and ecommerce support facilities. 
+
+11 
+
+Results
+of Operations Year Ended December 31, 2022, compared to Year Ended December 31, 2021 
+
+Year Ended December 31, 
+
+2022 
+ 2021 
+ Change ) 
+ Change ) 
+
+Revenue 
+ 34,434 
+ 86,259 
+ (51,825 
+ (60.0 
+ 
+ Cost of revenue 
+ 12,514 
+ 30,946 
+ 18,432 
+ 59.6 
+ 
+ Gross profit 
+ 21,920 
+ 55,313 
+ (33,393 
+ (60.4 
+
+Operating expenses 
+ 2,301,603 
+ 4,831,548 
+ 2,529,945 
+ 52.4 
+
+Loss from operations 
+ (2,279,683 
+ (4,776,235 
+ 2,496,552 
+ 52.3 
+
+Other expense 
+ (2,520,514 
+ (1,093,791 
+ (1,426,723 
+ (130.4 
+
+Net loss 
+ (4,800,197 
+ (5,870,026 
+ 1,069,829 
+ 18.2 
+
+Revenue 
+
+Revenue
+decreased by 51,825 or 60 from the previous year to 34,434 during the current year compared to 86,259 during the previous year. The
+decrease is due to the ongoing negative impact of the COVID-19 outbreak in March 2020. During the year ended December 31, 2021,
+the Company recognized approximately one time 23,000 of additional revenue related to packaging and shipping services of product for
+a third-party customer, which did not occur during the year ended December 31, 2022. 
+
+Cost
+of Revenue 
+
+The
+Company s cost of sales was 12,514 for the year ended December 31, 2022, a decrease of 18,432 or approximately 59.6 , compared
+to 30,946 for the year ended December 31, 2021. The decrease in cost of revenue was due to the impact of COVID-19 and the resulting
+decrease in revenue. Gross profit remained consistent year over year at 63.7 and 64.1 for the years ended December 31, 2022 and 2021,
+respectively. 
+
+Operating
+Expenses 
+
+Operating
+expenses for the year ended December 31, 2022, and December 31, 2021, were 2,301,603 and 4,831,548, respectively. The decrease was
+primarily attributable to a decrease in share-based compensation expense by approximately 2.9 million resulting from the fair value
+of shares of common stock issued to our former Chief Executive Officer and former Chief Operating Officer pursuant to their respective
+employment agreements and the issuance of shares of common stock and Series A Preferred stock pursuant to the asset purchase agreement
+with Matrix Of Life Tech Trust, offset by an increase of advertising and marketing expense by 0.2 million. 
+
+Other
+Expense 
+
+Other
+expenses were 2,520,514 and 1,093,791 for the years ended December 31, 2021, and 2020, respectively. 
+
+Other
+expense for the year ended December 31, 2022, consisted of 1,908,043 of expense resulting from changes in fair value of derivatives,
+ 1,218,906 of interest expense, and 1,588,140 of loss on Series A Preferred Stock conversion to common stock, offset by 2,194,575 of
+gain on debt conversion. 
+
+Other
+expense for the year ended December 31, 2021, consisted of 1,955,459 of income resulting from changes in fair value of derivatives,
+ 1,157,166 of interest expense, 134,379 of gain on debt conversion, and 2,026,463 of loss on Series A Preferred Stock conversion to
+common stock. 
+
+12 
+
+Net
+Loss 
+
+Net
+loss for the year ended December 31, 2022, was 4,800,197, compared with 5,870,026 for the year ended December 31, 2021. The increase
+in our net loss resulted from the reasons outlined above. 
+
+Liquidity
+and Capital Resources 
+
+Our
+working capital deficiency as of December 31, 2022 and December 31, 2021, was as follows: 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ Current Assets 
+ 39,868 
+ 127,104 
+ 
+ Current Liabilities 
+ 70,809,778 
+ 71,626,880 
+ 
+ Working Capital Deficit 
+ (70,769,910 
+ (71,499,776 
+
+The
+overall working capital deficit decreased from 71,499,776 at December 31, 2021, to 70,769,910 at December 31, 2022. The current liabilities
+primarily consist of loans payable, convertible notes payable, derivative liability from the bifurcated conversion feature embedded in
+the hybrid debt instruments, related party liabilities, and liability-classified Series A Preferred Stock. The decrease in working capital
+deficit is mainly attributable to the conversion of Series A Preferred Stock to common stock in the fiscal year ended December 31, 2022. 
+
+The
+following is selected information from the statements of cash flow for the years ended December 31, 2022, and December 31, 2021: 
+
+December 31, 
+ December 31, 
+
+2022 
+ 2021 
+ 
+ Cash used in Operating Activities 
+ (253,710 
+ (553,772 
+ 
+ Cash used in Investing Activities 
+ (14,914 
+ (5,614 
+ 
+ Cash provided by Financing Activities 
+ 245,394 
+ 575,554 
+ 
+ Net Increase (Decrease) in Cash During Period 
+ (23,230 
+ 16,168 
+
+Going
+Concern 
+
+Since
+January 1, 2022, and through December 31, 2022, the Company has raised approximately 0.2 million in debt transactions. These funds have
+been used to fund on-going corporate operations. Our accompanying financial statements have been prepared assuming the Company will continue
+as a going concern, which contemplates realization of assets and the satisfaction of liabilities in the normal course of business for
+the twelve-month period following the date of these financial statements. Our cash on hand at December 31, 2022 was less than 1,000.
+The Company has incurred substantial losses since inception. Its current liabilities exceed its current assets and available cash is
+not sufficient to fund expected future operations. The Company is contemplating raising additional capital through debt and equity in
+order to continue the funding of its operations, which may have the effect of diluting the holdings of existing shareholders. However,
+there is no assurance that the Company can raise sufficient funds or generate sufficient revenues to pay its obligations as they become
+due, which raises substantial doubt about our ability to continue as a going concern. 
+
+The
+ability of the Company to continue as a going concern is dependent on the Company s ability to raise additional capital and implement
+its business plan. 
+
+The
+Company requires additional capital to fully execute its marketing program and fund its current operations and development. Presently
+we are relying on raising additional funding to meet operational shortfalls. There can be no assurance that continued funding will be
+available on satisfactory terms. We intend to raise additional capital through the sale of equity, loans, or other short-term financing
+options. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+have no significant off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to stockholders. 
+
+13 
+
+Seasonality 
+
+Management
+does not believe that our current business segment is seasonal to any material extent. 
+
+Significant
+Accounting Policies 
+
+Our
+discussion and analysis of our results of operations and liquidity and capital resources are based on our financial statements, which
+have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial
+statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses,
+and disclosure of contingent assets and liabilities. On an ongoing basis, we evaluate our estimates and judgments, including those related
+to revenue recognition, allowance for doubtful accounts, warranty liabilities, share-based payments, income taxes and litigation. We
+base our estimates on historical and anticipated results and trends and on various other assumptions that we believe are reasonable under
+the circumstances, including assumptions as to future events. These estimates form the basis for making judgments about the carrying
+values of assets and liabilities that are not readily apparent from other sources. By their nature, estimates are subject to an inherent
+degree of uncertainty. Actual results that differ from our estimates could have a significant adverse effect on our operating results
+and financial position. We believe that the significant accounting policies and assumptions as detailed in Note 1 to the financial statements
+contained herein may involve a higher degree of judgment and complexity than others. 
+
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk. 
+
+We
+are a Smaller Reporting Company and are not required to provide the information under this item. 
+
+14 
+
+Item
+8. Financial Statements and Supplementary Data. 
+
+BOON
+INDUSTRIES, INC. 
+
+ INDEX
+TO THE FINANCIAL STATEMENTS 
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID# 
+ F-1 
+ 
+ Balance Sheets for December 31, 2022 and 2021 
+ F-2 
+ 
+ Statements of Operations for the Years Ended December 31, 2022 and 2021 
+ F-3 
+ 
+ Statements of Stockholders Deficit for the Years Ended December 31, 2022 and 2021 
+ F-4 
+ 
+ Statements of Cash Flows for the Years Ended December 31, 2022 and 2021 
+ F-5 
+ 
+ Notes to the Financial Statements for the Years Ended December 31, 2022 and 2021 
+ F-6 
+
+15 
+
+Report
+of Independent Registered Public Accounting Firm 
+
+To
+the shareholders and the board of directors of Boon Industries, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Boon Industries, Inc. as of December 31, 2022 and 2021, the related statements
+of operations, stockholders equity (deficit), and cash flows for the years then ended, and the related notes (collectively referred
+to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the financial
+position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for the years then ended,
+in conformity with accounting principles generally accepted in the United States. 
+
+Substantial
+Doubt about the Company s Ability to Continue as a Going Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+2 to the financial statements, the Company has suffered recurring losses from operations and has a significant accumulated deficit. In
+addition, the Company continues to experience negative cash flows from operations. These factors raise substantial doubt about the Company s
+ability to continue as a going concern. Management s plans in regard to these matters are also described in Note 2. The financial statements
+do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+/S/
+
+BF
+Borgers CPA PC (PCAOB ID 
+
+ We
+have served as the Company s auditor since 2020 
+
+April
+14, 2023 
+
+F- 1 
+
+Boon
+Industries, Inc. 
+
+ Balance
+Sheets 
+
+ As
+of December 31, 2022 and 2021 
+
+December 31, 
+ December 31, 
+
+2022 
+ 2021 
+ 
+ ASSETS 
+
+Current Assets: 
+
+Cash and cash equivalents 
+
+Accounts receivable 
+
+Inventory 
+
+Prepaid expenses other assets 
+
+Total Current Assets 
+
+Property and equipment, net 
+
+Capitalized licensing fees, net 
+
+TOTAL ASSETS 
+
+LIABILITIES 
+
+Current Liabilities: 
+
+Accounts payable 
+
+Convertible notes payable, net of discount 
+
+Loans payable 
+
+Accrued interest 
+
+Derivative liability 
+
+Related party liabilities 
+
+Series A Preferred Liability: par value; shares authorized, and shares issues and outstanding at December 31, 2022 and December 31, 2021, respectively 
+
+Total Current Liabilities 
+
+Related party liabilities 
+
+Total Non-Current Liabilities 
+
+Total Liabilities 
+
+Commitments and contingencies (note 12) 
+
+STOCKHOLDERS DEFICIT 
+
+Preferred stock, Series B: par value; shares authorized and shares issued and outstanding at December 31, 2022 and December 31, 2021 
+
+Common stock, par value; shares authorized and shares issued and outstanding at December 31, 2022 and December 31, 2021, respectively. 
+
+Stock Payable 
+
+Additional paid in capital 
+
+Accumulated deficit 
+
+Total Stockholders Deficit 
+
+TOTAL LIABILITIES AND SHAREHOLDERS DEFICIT 
+
+See
+accompanying summary of accounting policies and notes to the financial statements. 
+
+F- 2 
+
+Boon
+Industries, Inc. 
+
+ Statements
+of Operations 
+
+ For
+the Years Ended December 31, 2022 and 2021 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ Sales 
+
+Cost of sales 
+
+Gross profit 
+
+Operating expenses: 
+
+Depreciation 
+
+General and administrative expenses 
+
+Stock-based compensation 
+
+Licensing fees 
+
+Professional fees 
+
+Salaries and wages 
+
+Total operating expenses 
+
+Loss from operations 
+
+Other income (expense): 
+
+Gain on conversion of debt 
+
+Change in fair value of derivative liability 
+
+Loss on Series A conversion 
+
+Interest expense, net 
+
+Total other expense 
+
+Net loss before income taxes 
+
+Income tax expense 
+
+Net loss 
+
+Weighted average number of common shares outstanding, basic and diluted 
+
+Basic and diluted net loss per common share 
+
+See
+accompanying summary of accounting policies and notes to financial statements. 
+
+F- 3 
+
+Boon
+Industries, Inc. 
+
+ Statement
+of Stockholders Deficit 
+
+ For
+the Years Ended December 31, 2022 and 2021 
+
+For
+the year ended December 31, 2022 
+
+Preferred Stock 
+
+Additional 
+
+Total 
+
+Series B 
+ Common Stock 
+ Paid-In 
+ 
+ Accumulated 
+ Stockholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Stock Payable 
+ Deficit 
+ Deficit 
+ 
+ Balance at December 31, 2021 
+
+Shares of common stock issued pursuant to conversion of preferred stock 
+
+Preferred stock issued to related party for no consideration 
+
+Settlement of related party debt 
+
+Preferred stock issuable pursuant to consulting and director agreements 
+
+Net loss 
+
+Balance at December 31, 2022 
+
+For
+the year ended December 31, 2021 
+
+Preferred Stock 
+ Preferred Stock 
+
+Additional 
+
+Total 
+
+Series A 
+ Series B 
+ Common Stock 
+ Paid-In 
+ 
+ Accumulated 
+ Stockholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Stock Payable 
+ Deficit 
+ Deficit 
+ 
+ Balance at December 31, 2020 
+
+Preferred stock cancelled 
+
+Shares of common stock issued pursuant to conversion preferred
+ stock 
+
+Shares of common stock issued pursuant to salary conversion 
+
+Preferred stock issuable pursuant to consulting and director
+ agreements 
+
+Common shares issued pursuant to debt conversion 
+
+Net loss 
+
+Balance at December 31, 2021 
+
+See
+accompanying summary of accounting policies and notes to the financial statements. 
+
+F- 4 
+
+Boon
+Industries, Inc. 
+
+ Statements
+of Cash Flows 
+
+ For
+the Years Ended December 31, 2022 and 2021 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ Cash flows from operating activities: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation 
+
+Amortization of convertible debt discount 
+
+Amortization capitalized license fees 
+
+Fair value of series preferred issued 
+
+Change in fair value of derivative liability 
+
+Stock-based compensation 
+
+Gain on debt conversion 
+
+Penalty on debt conversion 
+
+Non-cash interest expense 
+
+Loss on Series A conversion 
+
+Decrease (increase) in operating assets and liabilities 
+
+Accounts receivable 
+
+Inventory 
+
+Prepaid other assets 
+
+Accounts payable 
+
+Related party liabilities 
+
+Accrued interest 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities: 
+
+Acquisition of property equipment 
+
+Net cash used in investing activities 
+
+Cash flows from financing activities: 
+
+Proceeds from convertible debt 
+
+Related party liabilities 
+
+Net cash provided by financing activities 
+
+Net (decrease) increase in cash 
+
+Cash, beginning of period 
+
+Cash, end of period 
+
+Supplemental Disclosures of Cash Flow Information 
+
+Cash paid for interest 
+
+Cash paid for taxes 
+
+Supplemental Disclosures of Non-Cash Investing and Financing Activities 
+
+Original debt discount conversion feature 
+
+Conversion of related party salary to common stock 
+
+Preferred stock cancelled and returned to Treasury 
+
+Preferred stock issued pursuant to agreement 
+
+Common stock issued pursuant to asset purchase agreement 
+
+Conversion of notes payable and accrued interest to common stock 
+
+Common stock issued in accordance to employment agreements 
+
+Preferred stock converted to common stock 
+
+Conversion of Series A Preferred stock into common stock 
+
+See
+accompanying summary of accounting policies and notes to the financial statements. 
+
+F- 5 
+
+Boon
+ Industries, Inc. 
+ 
+ Notes
+ to the Financial Statements 
+ 
+ For
+ the Years Ended December 31, 2022 and 2021 
+
+The
+Company s convertible notes payable and other loans payable approximates the fair value of such liabilities based upon management s
+best estimate of interest rates that would be available to the Company for similar financial arrangements and due to the short-term nature
+of these instruments at December 31, 2022 and 2021. 
+
+The
+fair value of the Company s recorded derivative liability is determined based on unobservable inputs that are not corroborated
+by market data, which require a Level 3 classification. A Black-Sholes option valuation model was used to determine the fair value. The
+Company records derivative liability on the balance sheets at fair value with changes in fair value recorded in the statements of operation. 
+
+Total 
+
+Fair Value Measurements at December 31, 2021, Using 
+
+Quoted Prices in Active Markets for 
+ Significant Other Observable 
+ Significant Unobservable 
+
+Identical Assets 
+ Inputs 
+ Inputs 
+
+(Level 1) 
+ (Level 2) 
+ (Level 3) 
+ Total 
+
+Derivative liability 
+
+Total 
+
+Issuance of convertible debt 
+
+Conversion of convertible debt 
+
+Change in estimated fair value 
+
+Balance December 31, 2021 
+
+Issuance of convertible debt 
+
+Modification/extinguishment of debt 
+
+Change in estimated fair value 
+
+Balance December 31, 2022 
+
+- 
+ 
+ - 
+ 
+ Expected
+ volatility 
+ 
+ - 
+ 
+ - 
+ 
+ Expected
+ dividends 
+
+Risk-free
+ interest rate 
+ 
+ - 
+ 
+ - 
+ 
+ Forfeitures 
+ 
+ None 
+ 
+ None 
+
+The
+assumptions used in determining fair value represent management s best estimates, but these estimates involve inherent uncertainties
+and the application of management s judgment. As a result, if factors change, including changes in the market value of the Company s
+common stock, managements assessment or significant fluctuations in the volatility of the trading market for the Company s
+common stock, the Company s fair value estimates could be materially different in the future. 
+
+The
+Company computes the fair value of the derivative liability at each reporting period and the change in the fair value is recorded as
+non-cash expense or non-cash income. The key component in the value of the derivative liability is the Company s stock price, which
+is subject to significant fluctuation and is not under its control, and the assessment of volatility. The resulting effect on net loss
+is therefore subject to significant fluctuation and will continue to be so until the Company s variable debentures, which the convertible
+feature is associated with, are converted into common stock or paid in full with cash. Assuming all other fair value inputs remain constant,
+the Company will record non-cash expense when its stock price increases and non-cash income when its stock price decreases. 
+
+ASC
+815-40 Derivatives and Hedging - Contracts in Entity s Own Equity provides that, among other things, generally, if
+an event is not within the entity s control could or require net cash settlement, then the contract shall be classified as an asset
+or a liability. 
+
+and of revenue, respectively. 
+
+If
+the Company is not able to secure additional funding, the implementation of the Company s business plan will be impaired. There
+are no assurances, however, that management will be able to raise capital or debt on terms acceptable to the Company. If the Company
+is unable to obtain sufficient additional capital, the Company may be required to reduce the near-term scope of its planned development
+and operations, which could delay implementation of the Company s business plan and harm its business, financial condition, and
+operating results. The balance sheets do not include any adjustments that might result from these uncertainties. 
+
+Leasehold improvements 
+
+Truck 
+
+Property and Equipment, Gross 
+
+Less accumulated depreciation and amortization 
+
+Property and equipment, net 
+
+Depreciation
+and amortization expense was and for the fiscal years ended December 31, 2022 and 2021, respectively. Leasehold improvements
+are amortized over the shorter of the useful life of the asset or the lease term. 
+
+The
+Company purchased an aggregate of and of fixed assets during the years ended December 31, 2022 and 2021, respectively. 
+
+Gross Amount Capitalized Licensing fees 
+
+Less accumulated depreciation 
+
+Intangible, net 
+
+The
+Company is amortizing the capitalized licensing fees over the five-year term of the exclusive distribution and licensing agreement.
+Amortization expense was 
+for the fiscal years ended December 31, 2022 and 2021. The Company did not recognize any impairment losses for the years ended
+December 31, 2022 and 2021. 
+
+F- 14 
+
+Variable 
+
+C Group #2 
+
+Variable 
+
+C Group #3 
+
+Variable 
+
+C Group #4 
+
+Variable 
+
+C Group #5 
+
+Variable 
+
+C Group #6 
+
+Variable 
+
+C Group #7 
+
+Variable 
+
+Optempus #1 
+
+Variable 
+
+Optempus #2 
+
+Variable 
+
+Optempus #3 
+
+Variable 
+
+Optempus #4 
+
+Variable 
+
+Optempus #5 
+
+Variable 
+
+Optempus #6 
+
+Variable 
+
+Optempus #7 
+
+Variable 
+
+Optempus #8 
+
+Variable 
+
+Optempus #9 
+
+Variable 
+
+Optempus #10 
+
+Variable 
+
+Optempus #11 
+
+Variable 
+
+Maguire #1 
+
+Variable 
+
+Maguire #2 
+
+Variable 
+
+Maguire #3 
+
+Variable 
+
+Maguire #4 
+
+Variable 
+
+Maguire #5 
+
+Variable 
+
+Maguire #6 
+
+Variable 
+
+Maguire #7 
+
+Variable 
+
+Maguire #8 
+
+Variable 
+
+Maguire #9 
+
+Variable 
+
+Maguire #10 
+
+Variable 
+
+Maguire #11 
+
+Variable 
+
+Maguire #12 
+
+Variable 
+
+Maguire #13 
+
+Variable 
+
+Maguire #14 
+
+Variable 
+
+Direct Cap #1 
+
+Variable 
+
+Direct Cap #2 
+
+Variable 
+
+Direct Cap #3 
+
+Variable 
+
+Direct Cap #4 
+
+Variable 
+
+Direct Cap #5 
+
+Variable 
+
+Direct Cap #6 
+
+Variable 
+
+V Group (past maturity) 
+
+Variable 
+
+Debt discount 
+
+Convertible Notes payable, net of discount 
+
+Accrued interest 
+
+Summary
+activity for the year ended December 31, 2022 
+
+During
+the year ended December 31, 2022, the Company received 245,394 in cash from the issuance of nine (9) convertible notes, net of 59,000
+of original issuance discount and deferred financing costs for aggregate principal of 299,394. 
+
+The
+Company recognized approximately 128,300 of interest expense resulting from the amortization of the debt discount initially generated
+from the original issuance discount and deferred financing costs during the year ended December 31, 2022. 
+
+The
+Company recognized approximately 419,200 of interest expense resulting from the recognition of the excess of the fair value of the bifurcated
+derivative liability over the carrying amount of the related debt instrument upon initial recognition of such derivative during the year
+ended December 31, 2022. 
+
+The
+Company recognized approximately 482,500 of interest expense resulting from the amortization of the debt discount initially generated
+from the bifurcated derivatives embedded in the debt host instruments during the year ended December 31, 2022. 
+
+During
+the year ended December 31, 2022, the Company recognized approximately 100,000 of interest on the existing promissory notes. The balance
+of accrued interest is 48,970 as of December 31, 2022. 
+
+Below
+is the summary of the activity in convertible notes issued during the year ended December 31, 2022: 
+
+Maguire
+ Associates LLC Maguire notes 
+
+On
+January 12, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #6 ), of which
+ 25,000 was received in cash and 10,000 was recorded as an original issue discount. The note bears interest of 10 , matures on January
+12, 2023, and is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices during
+the 20-day trading day period prior to the conversion date. On September 30, 2022, the Maguire #6 note and all of the other Maguire notes,
+were converted into an interest-free promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal
+balance was 0 with accrued interest of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+On
+January 27, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #7 ), of which
+ 37,381 was received in cash and 7,000 was recorded as an original issue discount. The note bears interest of 10 , matures on January
+27, 2023, and is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices during
+the 20-day trading day period prior to the conversion date. On September 30, 2022, the Maguire #7 note and all of the other Maguire notes
+were converted into an interest-free promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal
+balance was 0 with accrued interest of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+On
+February 21, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #8 ), of which
+ 28,012 was received in cash and 5,000 was recorded as an original issue discount. The note bears interest of 10 , matures on February
+21, 2023, and is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices during
+the 20-day trading day period prior to the conversion date. On September 30, 2022, the Maguire #8 note and all of the other Maguire notes,
+were converted into an interest-free promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal
+balance was 0 with accrued interest of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+On
+March 14, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #9 ), of which
+ 10,000 was received in cash and 2,000 was recorded as an original issue discount. The note bears interest of 10 , matures on March
+14, 2023, and is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices during
+the 20-day trading day period prior to the conversion date. On September 30, 2022, the Maguire #9 note and all of the other Maguire notes,
+were converted into an interest-free promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal
+balance was 0 with accrued interest of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+On
+March 30, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #10 ), of which
+ 45,000 was received in cash and 10,000 was recorded as an original issue discount. The note bears interest of 10 , matures on March
+30, 2023, and is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices during
+the 20-day trading day period prior to the conversion date. The Company used 45,000 of the net proceeds to pay for the Company s
+corporate expenses. On September 30, 2022, the Maguire #10 note and all of the other Maguire notes, were converted into an interest-free
+promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal balance was 0 with accrued interest
+of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+On
+April 14, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #11 ), of which
+ 50,000 was received in cash and 10,000 was recorded as an original issue discount. The note bears interest of 10 , matures on April
+14, 2023, and is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices during
+the 20-day trading day period prior to the conversion date. On September 30, 2022, the Maguire #11 note and all of the other Maguire
+notes, were converted into an interest-free promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal
+balance was 0 with accrued interest of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+On
+May 9, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #12 ), of which 25,000
+was received in cash and 5,000 was recorded as an original issue discount. The note bears interest of 10 , matures on May 9, 2023, and
+is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices during the 20-day
+trading day period prior to the conversion date. On September 30, 2022, the Maguire #12 note and all of the other Maguire notes, were
+converted into an interest-free promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal balance
+was 0 with accrued interest of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+On
+May 26, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #13 ), of which
+ 25,000 was received in cash and 5,000 was recorded as an original issue discount. The note bears interest of 10 , matures on May 26,
+2023, and is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices during
+the 20-day trading day period prior to the conversion date. On September 30, 2022, the Maguire #13 note and all of the other Maguire
+notes, were converted into an interest-free promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal
+balance was 0 with accrued interest of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+On
+August 1, 2022, the Company issued a Convertible Promissory Note to Maguire Associates LLC Maguire #14 in the principal
+amount of 30,000, for net proceeds of 25,000 and carrying a 5,000 original issue discount. The note bears interest of 10 , matures
+on August 1, 2023, and is convertible into common stock at a price equal to 58 multiplied by the average of the two lowest trading prices
+during the 20-day trading day period prior to the conversion date. On September 30, 2022, the Maguire #14 note and all of the other Maguire
+notes, were converted into an interest-free promissory note in the amount of 1,368,394 (see note 6). As of December 31, 2022, the principal
+balance was 0 with accrued interest of approximately 0 and reflected an unamortized original issue discount of 0. 
+
+V
+Group Note (past maturity) 
+
+On
+December 12, 2019, the Company entered into a settlement agreement and issued a convertible note with V Group Inc. in the amount of 150,000.
+The note bears interest at the rate of 8 and has a maturity date of December 12, 2020. The note has a principal balance of 150,000
+as of December 31, 2022, and December 31, 2021. The note has balance of accrued interest of 48,970 and 30,970 as of December 31, 2022,
+and December 31, 2021, respectively. This note is currently past maturity and is in technical default. The Company has not received any
+default notice. 
+
+Maguire
+and Associates, LLC debt settlement agreement 
+
+On
+September 30, 2022, pursuant to the debt settlement agreement, the Company executed an interest-free non-convertible promissory note
+with Maguire and Associates LLC in the amount of 1,008,919 in exchange for 834,000 of convertible notes principal, of which 230,000
+related to the C-Group convertible notes, 240,000 related to all of the Direct Cap convertible notes and 364,000 related to all of
+the Optempus convertible notes (note 6). 
+
+On
+September 30, 2022, pursuant to the debt settlement agreement, the Company executed an interest-free non-convertible promissory note
+with Maguire and Associates LLC in the amount of 1,368,394 in exchange for all of the Maguire for total principal amount of 534,394
+(note 6). 
+
+The
+Company reviewed the guidance per ASC 470-50 Debt-Modifications and Extinguishments and concluded that the terms of
+the agreements were substantially different as of December 31, 2022, and, accounted for the debt settlement as a debt extinguishment.
+The gain on debt extinguishment is equal to the difference between the net carrying amount of the original debt and the fair value of
+the modified debt instrument. The debt settlement resulted in the recognition of approximately 1.7 million, which is presented under
+gain on settlement of debt in the statement of operations for the year ended December 31, 2022. 
+
+F- 17 
+
+Doris Notter (past maturity) 
+
+Maguire Associate #1 (past maturity) 
+
+Maguire Associate #2 (past maturity) 
+
+Total short-term liabilities 
+
+Accrued interest 
+
+Carolyn
+Hamburger (past maturity) 
+
+On
+December 12, 2014, the Company s predecessor Matrix received a 100,000 loan from Carolyn Hamburger at 10 interest evidenced by
+a note for 100,000 issued by Matrix. The note matured on December 12, 2019. The note is secured by the Company s emulsification
+equipment acquired in the Matrix Acquisition. This Note does not convert into securities of the Company. As of December 31, 2022 and
+2021, the note had a principal balance of 100,000. Accrued interest totalled and , as of December 31, 2022 and 2021,
+respectively. The Company incurred approximately 10,000 of interest during the year ended December 31, 2022. 
+
+During
+the years ended December 31, 2022 and 2021, the Company paid and of interest in cash, respectively. This note is currently
+past maturity, but no notice of default has been received by the Company as of December 31, 2022 and 2021. 
+
+David
+Notter (past maturity) 
+
+On
+December 31, 2014, Matrix received a 10,000 unsecured loan from Doris Notter at 15 interest and a maturity date of December 31, 2019.
+As of December 31, 2022, and 2020, the note had a principal balance of 10,000 and accrued interest of and , respectively.
+No payment was made during the years ended December 31, 2022 and 2021. This note is currently past maturity, but no notice of default
+has been received by the Company as of December 31, 2022. The Company incurred approximately 1,500 of interest during the year ended December 31, 2022. 
+
+Maguire
+and Associates Inc. #1 (past maturity) 
+
+On
+September 30, 2022, Maguire and Associates Inc. converted all of the outstanding convertible notes from Optempus Investments LLC, Direct
+Capital Group, Inc., and C Group LLC for a total principal balance of 834,000 with the issuance of a non-interest promissory note in
+the amount of 1,008,920 with a maturity date of December 31, 2022 (see note 5). The note is secured with 1,100,000 of Preferred Series
+A with a stated value of 10 per share or 110,000 shares of Preferred Series A. 
+
+Maguire
+and Associates Inc. #2 (past maturity) 
+
+On
+September 30, 2022, the Company executed a debt settlement agreement with Maguire Associates, LLC, a holder of convertible notes
+in the aggregate principal amount of 1,368,394. Maguire accepted to cancel all of the convertible notes, inclusive of the principal
+and all accumulated interest and penalties in exchange for an interest free promissory note in the amount of 1,368,394. The principal
+is due on December 31, 2022. The promissory note will be secured by 200,000 Shares of Preferred Series A with a stated value of 2,000,000.
+The secured Series A preferred stock will be fully earned if the Company fails to repay the promissory note at its due date. The Company
+may prepay the promissory note without any penalties. 
+
+F- 18 
+
+During
+the year ended December 31, 2022, the Company accrued wages of . The Company has not paid any compensation to its Chief Executive
+Officer during the year ended December 31, 2022. The Company issued 15,000 shares of Series A preferred stock with a stated value of
+ 150,000 during the year ended December 31, 2022. 
+
+Mr.
+ Justin Gonzalez , Former Chief Executive Officer and Newly Chief Operating Officer and
+a Director. 
+
+Under his previous employment agreement as former
+Chief Executive Officer, the Company incurred 141,667 of compensation and accrued approximately 15,730 of interest on unpaid compensation
+during the year ended December 31, 2022. The Company has paid 18,771 of compensation to its former Chief Executive Officer during the
+year ended December 31, 2022. 
+
+On
+September 7, 2022, Justin Gonzalez resigned from his position of Chief Executive Officer. Justin Gonzalez will continue to serve as a
+director and Chief Operating Officer of the Company. The Company entered into a resignation and
+settlement agreement with Justin Gonzalez under which all prior agreements were terminated, and the Company agreed to pay Justin Gonzalez
+ 250,000 on or prior to August 29, 2024, to satisfy all accrued obligations owed in the aggregated amount of 492,777. In the event,
+the Company fails to the settlement amount when due, such amount will increase by 200 and will begin to accrue interest at a rate of
+ten percent (10 per annum. Pursuant to the settlement agreement, the Company recognized approximately 243,000 of gain on debt settlement,
+ which is presented under additional paid in capital in the balance sheet as of December 31, 2022, as it was considered a capital
+transaction due to the related party nature of the transaction. 
+
+The
+balance of accrued compensation pursuant to the terms of the resignation and settlement agreement is 250,000 and is presented in the
+related party liabilities (non-current) in the consolidated balance sheet as of December 31, 2022. 
+
+On
+September 7, 2022, the Company entered into an employment agreement with Justin Gonzalez as Chief Operating Officer. Pursuant to the
+employment agreement, Justin Gonzalez will receive an annual salary of 100,000, which may be paid by the issuance of shares of the Company s
+Series A preferred stock. The Company incurred a total of 25,000 of compensation for the year ended December 31, 2022, of which 25,000
+has been accrued and presented as related party liabilities as of December 31, 2022. 
+
+Mr.
+ Eric Watson , Former Chief Operating Officer, and Director 
+
+On
+September 7, 2022, Eric Watson resigned from his position of Chief Operating Officer. The Company
+entered into a resignation and settlement agreement with Eric Watson under which all prior agreements were terminated, and under which,
+the Company agreed to pay Eric Watson 125,150 of shares of the Company Series A to satisfy all accrued obligations owed in the aggregated
+amount of 250,290. The Company has agreed to repurchase the shares of Series A Preferred Stock by August 29, 2024. In the event, the
+Company fails to the settlement amount when due, such amount will increase by 200 and will begin to accrue interest at a rate of ten
+percent (10 per annum. 
+
+Pursuant
+to the settlement agreement, the Company recognized approximately 125,000 of gain on debt settlement, which
+is presented under additional paid in capital in the balance sheet as of December 31, 2022, as it was considered a capital transaction
+due to the related party nature of the transaction. 
+
+During
+the year ended December 31, 2022, the Company accrued a total of in wages and accrued approximately of interest on unpaid
+compensation. The Company has not paid any compensation to its former Chief Operating Officer during the year ended December 31, 2022. 
+
+Johann
+Loewen, Former Director 
+
+On
+September 21, 2021, the Company appointed Johann Loewen as director of the Company for an initial one-year term. As director of the Company,
+Johann Loewen is entitled to 5,000 shares of Series A at a stated value of 10.00 per share. No shares have been issued as of December
+31, 2022, and 2021, but the 50,000 liability related to the 5,000 shares of Series A was previously recorded as stock payable in the
+Company s consolidated balance sheet as of December 31, 2021, which was fully reversed upon the execution of the settlement agreement
+in September 2022. 
+
+On
+September 7, 2022, Johann Loewen resigned from his position as director of the Company. The Company
+entered into a resignation and settlement agreement with Johann Loewen under which all prior agreements were terminated, and under which,
+the Company agreed to pay Johann Loewen 3,140 on or prior to March 1, 2023, to satisfy all accrued obligations owed in the aggregated
+amount of 53,140. In the event, the Company fails to the settlement amount when due, such amount will increase by 200 and will begin
+to accrue interest at a rate of ten percent (10 per annum. 
+
+Pursuant
+to the settlement agreement, the Company recognized approximately of gain on debt settlement, which
+is presented under gain on settlement of debt in the consolidated statement of operations for the year ended December 31, 2022. 
+
+Edouard
+Beaudette, Former Director 
+
+Under the director
+agreement, no shares have been issued as of December 31, 2022, and 2021, but the liability is recorded as stock payable in the Company s
+consolidated balance sheet for a total amount of 50,000 as of December 31, 2022. 
+
+Edouard
+Beaudette also executed a consulting agreement with the Company under which he is entitled to monthly compensation of 1,000 shares of
+Series A preferred stock per month and 2,500 in cash. Edouard Beaudette is to implement and manage the Company s strategy, plan
+and executed product launch. Under this consulting agreement, no shares have been issued and no cash has been paid during the years ended
+December 31, 2022, and 2021, but the liability is recorded as stock payable in the Company s consolidated balance sheet for a total
+amount of 100,000 as of December 31, 2022. 
+
+Paul
+Goyette , Director 
+
+Pursuant
+to his director agreement, Paul Goyette will be paid a cash fee of 2,000 per meeting and be issued 10,000 shares of the Company s
+Series A Preferred Stock for stated value of 100,000. No shares of Series A were issued as of December 31, 2022. The Company accrued 100,000 of stock payable as of December 31, 2022, which is presented under stock payable in the Company shareholders deficit. 
+
+to shares authorized. The Company s preferred stock at December 31, 2022, consisted
+of authorized Series A preferred shares, and Series B preferred shares, all with a par value of per share. 
+
+As
+of December 31, 2022, and December 31, 2021, and shares of Series A Preferred Stock were issued and outstanding and
+ and of Series B Preferred Stock were issued and outstanding, respectively. 
+
+Series
+A 
+
+The
+Series A preferred stock Series A have no voting rights and have no dividends and in the event of a voluntary or involuntary
+liquidation, dissolution or winding-up of the Company, each share of Series A has a stated value of 10 per share. Each share of Series
+A is convertible to common stock at the closing price of common on the date of conversion based on the stated value of 10 per share. 
+
+The
+Company currently does not have a sufficient number of unissued authorized shares of common stock to permit the conversion of all of
+the outstanding shares of Series A Preferred Stock. As of December 31, 2022, the Company had 26,670,312,307 shares of common stock available
+for issuance. Based on the closing price of our common stock of 0.0002 per share as of December 31, 2022, the 6,662,422 shares of Series
+A Preferred Stock outstanding on such date would convert into approximately 333,121,100,000 shares of common stock. 
+
+The
+Company follows ASC 480-10, Distinguishing Liabilities from Equity in its evaluation of the accounting for the Series A
+Preferred Stock. ASC 480-10-25-14 requires liability accounting for certain financial instruments, including shares that embody an unconditional
+obligation to transfer a variable number of shares, provided that the monetary value of the obligation is based solely or predominantly
+on one of the following three characteristics: 
+
+A
+fixed monetary amount known at inception. 
+
+Variations
+in something other than the fair value of the issuer s equity shares; or 
+
+Variations
+in the fair value of the issuer s equity shares, but the monetary value to the counterparty moves in the opposite direction as
+the value of the issuer s shares. 
+
+The
+number of shares delivered is determined on the basis of (1) the fixed monetary amount determined as the stated value and (2) the current
+stock price at settlement, so that the aggregate fair value of the shares delivered equals the monetary value of the obligation, which
+is fixed or predominantly fixed. Accordingly, the holder is not significantly exposed to gains and losses attributable to changes in
+the fair value of the Company s equity shares. Instead, the Company is using its own equity shares as currency to settle a monetary
+obligation. 
+
+The
+Series A Preferred Stock has been classified as a liability in accordance with ASC 480-10 and the Company has elected to record the Series
+A Preferred Stock at fair value with changes in fair value recorded through earnings. 
+
+For
+the year ended December 31, 2022 
+
+During
+the year ended December 31, 2022, shares of Series A Preferred stock were converted to common shares in accordance
+with the conversion terms. 
+
+For
+the year ended December 31, 2021 
+
+On
+February 11, 2021, an aggregate amount of 12,502,500 of Series A was returned to Treasury pursuant to a cancellation agreement. 
+
+On
+April 1, 2021, the Company entered into a contractor agreement with Daren Correll to develop and manage the company s sales and
+marketing strategy. The Company has agreed to pay Mr. Correll a monthly fee of 14,000, of which, 4,000 will be in paid cash and 10,000
+will be issued in Preferred Series A stock. In addition, the Company agreed to compensate Mr. Correll for services rendered prior to
+the date of the agreement. On May 25, 2021, the Company issued 4,400 shares of Preferred Series A stock valued at 44,000 and will also
+pay 10,000 in cash to for services provided prior to April 1, 2021. The Company has accrued 60,000 for compensation payable in Series
+A preferred stock. The contractor agreement can be terminated by either party at any time with or without cause upon 30 days notice. 
+
+On
+April 15, 2021, the Company and Eaucentrix LLC entered into an Exclusive Technology License Agreement which provides the Company the
+exclusive license for the use of Proprietary Formulas developed by Eaucentrix. Pursuant to this agreement, the Company issued 300,000
+shares of Series A Preferred stock to Eaucentrix LLC, valued at 3,000,000. Under the agreement, the Company will also pay Eaucentrix
+a royalty of 5 of commercial sales of products that contain the proprietary formula licensed to the Company from Eaucentrix. The agreement
+has a perpetual term, subject to the right of Eaucentrix to terminate the agreement upon a material breach by the Company which it fails
+to cure following notice from Eaucentrix, or the Company s failure to pay amounts due to Eaucentrix under the agreement for more
+than 60 days after such payments become due. 
+
+On
+May 1, 2021, the Company entered into a service agreement with Integrity Media, Inc. to provide investor relations services to the company.
+Pursuant the agreement, the Company issued 8,400 shares of Series A Preferred stock to Integrity Media, Inc., valued at 84,000, and
+paid a monthly fee of 4,000 from the period of May 1, 2021, to November 1, 2021, being the term of the agreement. 
+
+During
+the year ended December 31, 2021, 561,790 shares of Series A Preferred stock were converted to 342,981,775 common shares in accordance
+with the conversion terms. 
+
+Series
+B 
+
+On
+March 2, 2020, the Company filed an amendment to its Oklahoma Certificate of Designation to reduce Series B Preferred Stock, with a par
+value of to shares authorized. 
+
+On
+November 16, 2022, the Company approved to increase the number of shares authorized from to . 
+
+The stated value of Series B is 0.0001. The Series B have no conversion right, are not entitled to
+dividends and have no value in the event of any voluntary or involuntary liquidation, dissolution or winding up of the Company. 
+
+On
+March 2, 2020, Justin Gonzalez, the Company s former Chief Executive Officer, was issued Preferred Series B Shares, pursuant
+to the Asset Purchase Agreement dated March 2, 2020. 
+
+During
+the year ended December 31, 2022, the Company issued Series B to the Company s new Chief Executive Officer for no consideration. 
+
+authorized common shares with a par value of per
+share. On March 3, 2022, the Company filed an amended Certificate of incorporation with the Secretary of State of Oklahoma to increase
+the authorized common shares to . 
+
+As
+of December 31, 2022, and 2021, there were and shares of common stock issued and outstanding, respectively. 
+
+For
+the year ended December 31, 2022: 
+
+During
+the year ended December 31, 2022, the Company issued shares of common stock from the conversion of shares
+of Series A Preferred in accordance with the conversion terms. 
+
+For
+the year ended December 31, 2021: 
+
+During
+the year ended December 31, 2021, shares of Series A Preferred stock were converted to shares of common stock in
+accordance with the conversion terms. 
+
+On
+May 25, 2021, the Company issued shares of common stock to settle unpaid wages and interest of 171,720. The stock was valued
+at , based on the market price of the common stock on the day of issuance, and a gain of was recorded to the statement
+of operations. 
+
+On
+July 27, 2021, the holder of a convertible promissory note converted 40,662 of principal, with a derivative liability of 43,054 on
+the date of conversion, into shares of common stock, with a fair value of 71,160 based in the market price of the common stock
+on the day of conversion, hence resulting in a gain on debt conversion of . 
+
+On
+October 5, 2021, the holder of a convertible promissory note converted 14,338 of principal, of penalty, with a derivative liability
+of 85,817 on the date of conversion, into shares of common stock, with a fair value of approximately 8,400 based in the market
+price of the common stock on the day of conversion, hence resulting in a loss on debt conversion of . 
+
+Statutory rate 
+
+Expected tax recovery 
+
+Change in valuation allowance 
+
+Income tax provision 
+
+Components of deferred tax asset: 
+
+Non-capital tax loss carry-forwards 
+
+Less: valuation allowance 
+
+Net deferred tax asset 
+
+Employee
+Agreements 
+
+Mr.
+William Reed, Chairman, Chief Executive Officer, President, Secretary, Treasurer, and Director 
+
+On
+September 7, 2022, the Company appointed William Reed as Chairman, Chief Executive Officer, President, Secretary, Treasurer, and Director
+of the Company. The Company and Mr. Reed entered into an employee agreement that includes an annual salary of 200,000. 
+
+Mr.
+Justin Gonzalez, Former Chief Executive Officer, President, Secretary, Treasurer, and a Director 
+
+On
+September 7, 2022, March 2, 2020, the Company also entered into a resignation and settlement agreement
+under which the Company will pay Mr. Gonzalez 250,000 on or prior to August 29, 2024, to satisfy accrued obligations owed to him in
+the aggregate amount of 492,777, consisting primarily of unpaid wages. In the event the Company fails to pay the settlement amount when
+due, such amount will increase by 200 and begin to accrue interest at the rate of 10 per annum. 
+
+Lease 
+
+On
+December 31, 2022, the Company entered into a commercial lease agreement for corporate office located at 175 Joerschke drive, Grass Valley,
+CA 95945. The lease has a term of one year from January 1, 2023 to December 31, 2023 with a monthly rent of approximately 400. 
+
+shares of common stock following the conversion of shares of Series A preferred
+stock. 
+
+Subsequent
+to December 31, 2022, the Company issued shares of Series A preferred stock with a stated value of pursuant to a consulting
+agreement. 
+
+F- 24 
+
+Item
+9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. 
+
+None. 
+
+Item
+9A. Controls and Procedures. 
+
+Disclosure
+of controls and procedures. 
+
+We
+maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports, filed
+under the Securities Exchange Act of 1934, is recorded, processed, summarized and reported within the time periods specified in the SEC s
+rules and forms, and that such information is accumulated and communicated to our management, including our chief executive officer and
+chief financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating the disclosure
+controls and procedures, management recognized that any controls and procedures, no matter how well designed and operated, can provide
+only reasonable and not absolute assurance of achieving the desired control objectives. In reaching a reasonable level of assurance,
+management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+In addition, the design of any system of controls also is based in part upon certain assumptions about the likelihood of future events,
+and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over
+time, a control may become inadequate because of changes in conditions or the degree of compliance with policies or procedures may deteriorate.
+Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+
+As
+required by the SEC Rule 13a-15(b), we carried out an evaluation under the supervision and with the participation of our management,
+including our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure
+controls and procedures as of December 31, 2022. Based on the foregoing, our principal executive officer and principal financial officer
+concluded that our disclosure controls and procedures were not effective as of December 31, 2022, at the reasonable assurance level due
+to the material weaknesses described below. 
+
+A
+material weakness is a control deficiency (within the meaning of the Public Company Accounting Oversight Board (PCAOB) Auditing Standard
+No. 2) or combination of control deficiencies that result in more than a remote likelihood that a material misstatement of the annual
+or interim financial statements will not be prevented or detected. Management has identified the following two material weaknesses which
+have caused management to conclude that as of December 31, 2022, our disclosure controls and procedures were not effective at the reasonable
+assurance level: 
+
+1.
+We do not have written documentation of our internal control policies and procedures. Written documentation of key internal controls
+over financial reporting is a requirement of Section 404 of the Sarbanes-Oxley Act which is applicable to us for the year ended December
+31, 2022. Management evaluated the impact of our failure to have written documentation of our internal controls and procedures on our
+assessment of our disclosure controls and procedures and has concluded that the control deficiency that resulted represented a material
+weakness. 
+
+2.
+We do not have sufficient segregation of duties within accounting functions, which is a basic internal control. Due to our size and nature,
+segregation of all conflicting duties may not always be possible and may not be economically feasible. However, to the extent possible,
+the authorization of transactions, the custody of assets and the recording of transactions should be performed by separate individuals.
+The recording of transactions function is maintained by a third-party consulting firm whereas authorization and custody remains under
+the Company s Chief Executive Officer s responsibility. Management evaluated the impact of our failure to have segregation
+of duties on our assessment of our disclosure controls and procedures and has concluded that the control deficiency that resulted represented
+a material weakness. 
+
+To
+address these material weaknesses, management performed additional analyses and other procedures to ensure that the financial statements
+included herein fairly present, in all material respects, our financial position, results of operations and cash flows for the periods
+presented. 
+
+16 
+
+Management s
+Report on Internal Control Over Financial Reporting 
+
+This
+annual report does not include a report of management s assessment regarding internal control over financial reporting or an attestation
+report of the company s registered public accounting firm due to a transition period established by rules of the Securities and Exchange
+Commission for newly public companies. 
+
+Changes
+in internal controls over financial reporting. 
+
+There
+has been no change in our internal control over financial reporting that occurred during the fiscal quarter covered by this Annual Report
+on Form 10-K that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+Item
+9B. Other Information. 
+
+None 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers, and Corporate Governance. 
+
+The
+following table sets forth the names, positions and ages of our current executive officers and directors. All directors serve until the
+next annual meeting of stockholders or until their successors are elected and qualified. Officers are appointed by our board of directors
+and their terms of office are, except to the extent governed by an employment contract, at the discretion of our board of directors . 
+
+Name 
+ Age 
+ Position
+ with the Company 
+ Position
+ Held Since 
+
+William
+ Reed 
+ 44 
+ Chairman,
+ President, Chief Executive Officer, and Treasurer 
+ September
+ 7, 2022 
+
+Justin
+ Gonzalez 
+ 41 
+ Director 
+ March
+ 2, 2020 
+
+Paul
+ Goyette 
+ 61 
+ Director 
+ September
+ 29, 2022 
+
+Biographical
+Information 
+
+William
+Reed 
+
+Mr.
+Reed, 44, previously served as the Chief Operating Officer of Gold Mountain Distribution, a logistics management solution for the cannabis
+industry since March 2018. Mr. Reed also founded the Cali Care Group in 2010 and continues to serve as its principal owner and officer. 
+
+Justin
+Gonzalez 
+
+Mr.
+Gonzalez has over 20 years of executive experience as an entrepreneur owning several different businesses during his career. He has also
+been a Vice President at LogiChem Solutions SA, an Ecuadorian based chemical and water bottling company, since March 2009. With specific
+experience in water treatment, chemical formulation, and extraction sciences, Mr. Gonzalez has been a strategic advisor in the oil and
+gas, water bottling, waste-water treatment, and food and beverage industries. As chief technical officer and adviser to several companies,
+he has an intimate knowledge of product and consumer trends and has designed and built large facilities for chemical manufacturing, bottling
+water, and botanical extractions. Currently he is a partner of an equipment manufacturing and systems integration company, Lave Systems
+Corporation, that produces systems for the food and beverage industry. Mr. Gonzalez graduated from the University of Louisiana in 2004
+with a B.A. in History and English. Mr. Gonzalez was appointed to serve as our Chief Executive Officer and Chairman pursuant to
+the terms of the Asset Purchase Agreement, dated February 10, 2020, under which we purchased all the assets, and assumed all of the liabilities
+of Matrix of Life Tech Trust, an Oregon trust. Mr. Gonzalez was the trustee and sole beneficiary of the Matrix of Life Tech Trust at
+the time of the transaction. 
+
+On
+September 7, 2022, Justin Gonzalez resigned from his position of Chief Executive Officer. Justin Gonzalez will continue to serve as a
+director and Chief Operating Officer of the Company 
+
+Paul
+Goyette 
+
+Paul
+Goyette is a director of the company . He is an attorney that has been practicing law since 1988.
+He is currently the CEO of Goyette, Ruano Thompson, Inc., a California based law firm that he founded in 1992. 
+
+17 
+
+Code
+of Ethics 
+
+We
+do not have a code of ethics that applies to our officers, employees, and directors. 
+
+Board
+Committees and Audit Committee Financial Expert 
+
+We
+do not currently have a standing audit, nominating or compensation committee of the board of directors, or any committee performing similar
+functions. Our board of directors performs the functions of audit, nominating and compensation committees. As of the date of this report,
+no member of our board of directors qualifies as an audit committee financial expert as defined in Item 407(d)(5) of Regulation
+S-K promulgated under the Securities Act. 
+
+Director
+Nominations 
+
+As
+of December 31, 2022, we did not affect any material changes to the procedures by which our shareholders may recommend nominees to our
+board of directors. We have not established formal procedures by which security holders may recommend nominees to the Company s
+board of directors. 
+
+Role
+in Risk Oversight 
+
+Our
+board is primarily responsible for overseeing our risk management processes. The board receives and reviews periodic reports from management,
+auditors, legal counsel, and others, as considered appropriate regarding our company s assessment of risks. The board focuses on
+the most significant risks facing our company and our company s general risk management strategy, and also ensures that risks undertaken
+by our company are consistent with the board s appetite for risk. While the board oversees our company s risk management,
+management is responsible for day-to-day risk management processes. We believe this division of responsibilities is the most effective
+approach for addressing the risks facing our company and that our board leadership structure supports this approach. 
+
+Delinquent
+Section 16(a) Reports 
+
+Section
+16(a) of the Exchange Act requires the Company s directors, executive officers and persons who own more than 10 of a registered
+class of the Company s securities to file with the SEC initial reports of ownership and reports of changes in ownership of common
+stock and other equity securities of the Company. Directors, executive officers and greater than 10 stockholders are required by SEC
+regulation to furnish the Company with copies of all Section 16(a) reports they file. We first became subject to the reporting requirements
+of Exchange Act following the end of December 31, 2022. 
+
+Item
+11. Executive Compensation. 
+
+The
+following executives of the Company earned compensation in the amounts set forth in the chart below for the fiscal years ended December
+31, 2022 and 2021. 
+
+Name and Principal Position 
+ Year 
+ Salary ) 
+ Stock Awards ) 
+ All Other Compensation ) 
+ Total ) 
+ 
+ William Reed 
+ 2022 
+ 66,667 
+ 150,000 (1) 
+ 
+ 216,667 
+ 
+ President, Chief Executive Officer, Secretary, Treasurer 
+ 2021 
+
+Justin Gonzalez 
+ 2022 
+ 166,666 (2) 
+
+166,666 
+ 
+ Former President, Chief Executive Officer, Secretary, Treasurer 
+ 2021 
+ 200,000 
+
+200,000 
+
+Eric Watson 
+ 2022 
+ 108,000 
+
+108,000 
+ 
+ Former Chief Operating Officer 
+ 2021 
+ 162,000 
+ 109,510 
+ 
+ 271,510 
+
+(1) On
+ September 7, 2022, the Company entered into an employment agreement with a one-year term
+ and an annual compensation of 200,000 per year and the issuance of 15,000 shares of Series
+ A preferred stock with a stated value of 150,000. No compensation was paid in the year ended
+ December 31, 2022. 
+
+(2) On September 7, 2022, the Company entered into a settlement agreement
+with Justin Gonzalez, under which, the Company agrees to pay 250,000 on or prior
+to August 29, 2024, to satisfy accrued obligations owed to him in the aggregate amount of 492,777, consisting primarily of unpaid wages.
+In the event the Company fails to pay the settlement amount when due, such amount will increase by 200 and begin to accrue interest at
+the rate of 10 per annum. Pursuant to his employment agreement as former Chief Executive Officer, the Company accrued 141,666 during
+the year ended December 31, 2022. The Company paid 18,771 of compensation under his former Chief Executive Officer agreement. The Company
+executed an employment with Justin Gonzalez as its new Chief Operating Officer for a total annual compensation of 100,000. The Company
+accrued 25,000 pursuant to this employment agreement during the year ended December 31, 2022. 
+
+18 
+
+Employment
+Contracts 
+
+William
+Reed (New Chief Executive Officer, President, Secretary, Treasurer and Chairman) 
+
+We
+are a party to an Employment Agreement dated September 7, 2022, with William Reed pursuant to which William Reed serves as our Chief
+Executive Officer, President, Secretary, Treasurer and Chairman. The Employment Agreement provides for payment of an annual base salary
+of 200,000 and has an initial term of one year, which may be paid by the issuance of shares of
+the Company s Series A Preferred Stock, and the issuance of 15,000 shares of the Company s Series A Preferred Stock with
+a stated value of 150,000. 
+
+Justin
+Gonzalez (Former Chief Executive Officer and a director) 
+
+We
+are a party to an Employment Agreement dated March 2, 2020, with Justin Gonzalez pursuant to which he serves as our Chief Executive Officer,
+President, Secretary, Treasurer and Chairman. The Employment Agreement provides for payment of an annual base salary of 200,000 and
+has an initial term of five years. Unpaid wages accrue interest at the rate of 6 per annum and may be converted into restricted common
+stock at fair market value at the time of conversion. In addition, Mr. Gonzalez was issued 3,333,333 shares of common stock pursuant
+to the terms of the Employment Agreement upon its execution. 
+
+The
+Company also entered into a resignation and settlement agreement with Mr. Gonzalez under which all prior agreement between him and the
+Company was terminated, and under which the Company will pay Mr. Gonzalez 250,000 on or prior to August 29, 2024, to satisfy accrued
+obligations owed to him in the aggregate amount of 492,777, consisting primarily of unpaid salary. In the event the Company fails to
+pay the settlement amount when due, such amount would increase by 200 and begin to accrue interest at the rate of 10 per annum. 
+
+Outstanding
+Equity Awards at Fiscal Year End 
+
+We
+did not have any outstanding options or unvested shares of stock held by our named executive officer as of the end of our fiscal year
+ended December 31, 2022. 
+
+Compensation
+of Directors 
+
+The
+following table summarizes the compensation paid or accrued by us to our directors that are not named executive officers for the year
+ended December 31, 2022 . 
+
+Name 
+ Fees Earned or Paid in Cash 
+ Stock Award 
+ Total 
+ 
+ Edouard Beaudette (former director) (1) 
+ 
+ 80,000 
+ 80,000 
+ 
+ Johann Loewen (former director) (2) 
+
+Paul Goyette (3) 
+ 
+ 100,000 
+ 100,000 
+
+(1) Mr.
+Beaudette was appointed a director on October 15, 2021. The term of the director agreement is one (1) year. The Company accrued 5,000
+shares of our Series A Preferred Stock with 10 stated value upon his appointment and recorded as stock payable as of December 31, 2021.
+We have agreed to compensate Mr. Beaudette approximately 250 per meeting attended in person or by telephone. Edouard Beaudette also
+executed a consulting agreement with the Company under which he is entitled to monthly compensation of 1,000 shares of Series A preferred
+stock per month and 2,500 in cash. The Company accrued 80,000 stock payable under this consulting agreement. On September 3, 2022,
+Mr. Beaudette resigned from his position of director and the consulting agreement terminated. 
+
+(2) Mr.
+Loewen was appointed a director on September 22, 2021, and the Company accrued 5,000 shares of our Series A Preferred Stock upon his
+appointment. We have agreed to compensate Mr. Loewen 250 per meeting attended in person or by telephone. On September 7, 2022, Mr. Loewen
+resigned from his position of director and the Company will pay Mr. Loewen 3,140 on or prior to
+March 1, 2023, to satisfy unpaid consulting fees owed to him in the amount of 53,140. In the event the Company fails to pay the settlement
+amount when due, such amount will increase by 200 and begin to accrue interest at the rate of 10 per annum. 
+
+(3) Mr.
+Goyette was appointed a director on October 1, 2022, and the Company agreed to compensate Mr Goyette 2,000 per Board meeting attendance.
+ Upon execution of this agreement the Director will receive 10,000 Preferred Series A Shares in
+value of 100,000 under the terms and conditions set forth in the Certificate of Designation. No shares of Series A have been issued
+as of December 31, 2022. The Company accrued 100,000 of stock payable under his agreement as of December 31, 2022. 
+
+Directors
+are entitled to reimbursement for reasonable travel and other out-of-pocket expenses incurred in connection with attendance at meetings
+of our board of directors. The financial impact of such reimbursement has been immaterial during the year ended December 31, 2022. 
+
+19 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth certain information regarding our common stock beneficially owned as of April 14, 2023, for (i) each stockholder
+known to be the beneficial owner of more than 5 of our outstanding common stock or Series A Preferred Stock, (ii) each executive officer
+and director and (iii) all executive officers and directors as a group. 
+
+In
+general, a person is deemed to be a beneficial owner of a security if that person has or shares the power to vote or direct
+the voting of such security, or the power to dispose or to direct the disposition of such security. A person is also deemed to be a beneficial
+owner of any securities of which the person has the right to acquire beneficial ownership within 60 days, through the exercise of a warrant
+or stock option, conversion of a convertible security or otherwise. Unless otherwise indicated, each person in the table will have sole
+voting and investment power with respect to the shares shown. For purposes of this table, shares not outstanding which are subject to
+issuance on exercises of stock options or conversion of a warrant that are held by a person are deemed to be outstanding for the purpose
+of computing the percentage of outstanding shares beneficially owned by such person but are not deemed to be outstanding for the purpose
+of computing the percentage for any other person. 
+
+The
+table assumes a total of 3,496,187,693 shares of our common stock outstanding and 6,690,757 shares of our Series A Preferred Stock outstanding,
+and 2,000 shares of our Series B Preferred Stock, as of April 14, 2023. Unless otherwise indicated, the address of each of the executive
+officers and directors named below is c/o Boon Industries, Inc., 110 Spring Hill Drive, Suite 16, Grass Valley, CA 95945. 
+
+Common Stock 
+ Series A Preferred Stock 
+ 
+ Name of Beneficial Owner 
+ Number of Shares Beneficially Owned 
+ Percentage of Shares Outstanding 
+ Number of Shares Beneficially Owned 
+ Percentage of Shares Outstanding 
+ 
+ Executive Officers and Directors: 
+
+William Reed (New Chief Executive Officer and director) 
+
+15,000 (1) 
+ (1) 
+ 
+ Justin Gonzalez (former Chief Executive Officer and a director) (2) 
+ 33,333,333 
+ 0.95 
+ 355,000 
+ (2) 
+ 
+ Eric Watson (former Chief Operating Officer) 
+ 3,535,422 
+ 
+ 12,515 
+ 18.8 
+ 
+ Paul Goyette (director) 
+
+All directors and executive officers as a group 
+ 33,333,333 
+ 0.95 
+ 370,000 
+ (1)(2) 
+ 
+ James Frack - 5 Holders (3) 
+
+4,687,747 
+
+(1) The
+ shares of Series A are convertible into common stock at the stated value of 10 per share.
+ Based on the December 31, 2022 stock price, the 15,000 shares of Series A would result in
+ the issuance of 750,000,000 shares of common stock, which represents approximately 21.5 
+ of the shares issued and outstanding as of December 31, 2022. In addition, William Reed owns
+ 1,000 shares of Series B preferred stock, which have a de minimis fair value. Such Series
+ B shares do not have any conversion feature. The vote of each share of Series B Preferred
+ Stock is equal to four times the votes of all shares of the common stock and all other preferred
+ stock outstanding at the time of any vote or consent of the shareholders regarding any matter
+ submitted to a vote of the shareholders. 
+
+(2) The
+ shares of Series A Preferred Stock includes 300,000 shares held by Eaucentrix LLC, of which
+ Mr. Gonzalez is the managing member. In addition, Mr. Gonzalez directly owns 55,000 series
+ A preferred stock. Based on the December 31, 2022 stock price, the 355,000 shares of Series
+ A would result in the issuance of 17,750,000,000 shares of common stock. In addition, Mr.
+ Gonzalez owns 1,000 shares of the Company s Series B Preferred Stock. The vote of each
+ share of Series B Preferred Stock is equal to four times the votes of all shares of the common
+ stock and all other preferred stock outstanding at the time of any vote or consent of the
+ shareholders regarding any matter submitted to a vote of the shareholders. 
+
+(3) The
+ shares of Series A Preferred Stock are convertible at their stated value of 46,877,470 into
+ shares of common stock. 
+
+20 
+
+Item
+13. Certain Relationships and Related Transactions, and Director Independence. 
+
+Matrix
+Acquisition: Justin Gonzalez (Former Chief Executive Officer) 
+
+On
+March 2, 2020, we purchased all the assets, and assumed all of the liabilities of Matrix of Life Tech Trust, an Oregon Trust, pursuant
+to an Asset Purchase Agreement dated February 10, 2020. Mr. Gonzalez was the trustee and sole beneficiary of the Matrix of Life Tech
+Trust at the time of the transaction. Pursuant to the Asset Purchase Agreement, Mr. Gonzalez
+was appointed to serve as our Chief Executive Officer and Chairman, and in consideration of the assets, we issued Mr. Gonzalez 50,000
+shares of our Preferred Series A Stock valued at 500,000, and 30,000,000 shares of our Common Stock valued at 100,000. On September
+7, 2022, Justin Gonzalez resigned from his positions as the Company s Chief Executive Officer, President, and Secretary. Mr. Gonzalez
+will continue to serve as a director of the Company and has been appointed to serve as the Company s Chief Operating Officer. 
+
+License
+Agreements (Former Chief Executive Officer) 
+
+On
+April 15, 2021, we entered into to a License Agreement with Eaucentrix LLC, under which we issued 300,000 shares
+of our Preferred Series A Stock to Eaucentrix LLC. Under the agreement, we will also
+pay Eaucentrix a royalty of 5 of commercial sales of products that contain the proprietary formula licensed to us from Eaucentrix. Mr.
+Gonzalez is a managing member of, and holds a 51 membership interest in, Eaucentrix. 
+
+Acquisition
+of Cal Care Group Inc (New Chief Executive Officer) 
+
+On
+September 7, 2022, the Board of Directors of the Company appointed William Reed to serve as its Chief Executive Officer, President, Treasurer
+and Chairman of the Board. 
+
+On
+October 1, 2022, the Company entered into a share exchange agreement Share Agreement ), with Cal Care Grp, Inc. and William
+Reed, as the sole shareholder of Cal Care. Cal Care Grp, Inc. is a licensed delivery and distribution company with locations in Southern
+and Northern California. The Share Agreement provides for the acquisition by the Company of all of the outstanding shares of Cal Care
+from Mr. Reed, in consideration of the issuance to Mr. Reed of 500,000 shares of the Company s Series A Preferred Stock. No shares
+of Series A have been issued at year end. The transaction will only become effective upon exchange of the agreed-upon consideration, which did not occur at December 31, 2022. 
+
+Director
+Independence 
+
+Our
+Common Stock is not quoted or listed on any national exchange or interdealer quotation system with a requirement that a majority of our
+board of directors be independent and therefore, the Company is not subject to any director independence requirements. Under NASDAQ Rule
+5605(a)(2)(A), a director is not considered to be independent if he or she is also an executive officer or employee of the corporation.
+Under such definition our two officers (William Reed and Justin Gonzalez) would not be considered an independent director. 
+
+The
+Company hired two independent directors Edouard Beaudette and Johann Loewen, respectively on October 15, 2021, and September 22, 2021,
+respectively. On August 3, 2022, Edouard Beaudette submitted a letter of resignation, resigning as a director of the Company effective
+September 3, 2022. On September 7, 2022, Johann Loewen resigned from his position as a director
+of the Company. On October 1, 2022, the Company hired one independent director Paul Goyette. 
+
+Item
+14. Principal Accounting Fees and Services. 
+
+The
+following table presents fees for professional services rendered by BF Borgers CPA PC for the years ended December 31, 2022, and 2021: 
+
+Year ended December 31, 
+
+2022 
+ 2021 
+ 
+ Audit Fees 
+ 56,000 
+ 20,000 
+
+Audit-Related Fees 
+
+Tax Fees 
+
+All Other Fees 
+
+We
+do not have an audit committee. The functions customarily delegated to an audit committee are performed
+by our full board of directors. Our board of directors approves in advance, all services performed by BF Borgers CPA PC .
+During 2022 and 2021, no services were provided to us by BF Borgers CPA PC other than audit
+services. 
+
+21 
+
+PART
+IV 
+
+Item
+15. Exhibits, Financial Statement Schedules. 
+
+(a)
+The following documents are filed as part of this report: 
+
+(1)
+Financial Statements and Report of Independent Registered Public Accounting Firm, which are set forth in the index to Consolidated Financial
+Statements of this report. 
+
+(2)
+Financial Statement Schedule: None. 
+
+(3)
+Exhibits 
+
+Exhibit 
+ Number 
+ 
+ Description
+ of Exhibit 
+ 
+ 2.1 
+ 
+ Agreement
+ and Plan of Merger dated February 10, 2020, among Leap of Faith Beverage, Inc., Boon Industries, Inc., and Leap of Faith Beverage
+ Merger Sub, Inc. (incorporated by reference from exhibit 2.1 to our registration statement on Form 10-12G, filed with the SEC on
+ December 13, 2021) 
+
+2.2 
+ 
+ Asset
+ Purchase Agreement dated February 10, 2020, among Boon Industries, Inc. Matrix of Life Tech, Trust (incorporated by reference from
+ exhibit 2.2 to our registration statement on Form 10-12G, filed with the SEC on December 13, 2021) 
+
+3.1.1 
+ 
+ Articles
+ of Incorporation of Boon Industries, Inc. dated March 2, 2020 (incorporated by reference from exhibit 3.1.1 to our registration statement
+ on Form 10-12G, filed with the SEC on December 13, 2021). 
+
+3.1.2 
+ 
+ Certificate
+ of Designation of Series A Preferred Stock of Boon Industries, Inc. (incorporated by reference from exhibit 3.1.2 to our registration
+ statement on Form 10-12G, filed with the SEC on December 13, 2021) 
+
+3.1.3 
+ 
+ Certificate
+ of Designation of Series B Preferred Stock of Boon Industries, Inc. (incorporated by reference from exhibit 3.1.3 to our registration
+ statement on Form 10-12G, filed with the SEC on December 13, 2021) 
+
+3.2 
+ 
+ Bylaws
+ (incorporated by reference from exhibit 3.2 to our registration statement on Form 10-12G, filed with the SEC on December 13, 2021). 
+
+4.1 
+ 
+ Description
+ of securities 
+
+10.1 
+ 
+ Employment
+ Agreement dated March 2, 2020, between Boon Industries, Inc. and Justin Gonzalez (incorporated by reference from exhibit 10.1 to
+ our registration statement on Form 10-12G, filed with the SEC on December 13, 2021). 
+
+10.2 
+ 
+ Employment
+ Agreement dated March 2, 2020, between Boon Industries, Inc. and Eric Watson (incorporated by reference from exhibit 10.2 to our
+ registration statement on Form 10-12G, filed with the SEC on December 13, 2021). 
+
+10.3 
+ 
+ Employment
+ Agreement dated September 7, 2022, between Boon Industries, Inc. and William Reed (Incorporated by reference from exhibit 10 to our
+ current report on Form 8-K, filed with the SEC on August 3, 2022). 
+
+10.4 
+ 
+ Director
+ Agreement dated September 29, 2022, between Boon Industries, Inc. and Paul Goyette (Incorporated by reference from exhibit 10.2 to
+ our current report on Form 8-K, filed with the SEC on September 30, 2022). 
+
+10.5 
+ 
+ Commercial
+ Lease Agreement dated January 1, 2020, between Lave Systems Corporation and Justin Gonzalez for 110 Spring Hill Drive, Grass Valley
+ CA (incorporated by reference from exhibit 10.6 to our registration statement on Form 10-12G, filed with the SEC on December 13,
+ 2021). 
+
+22 
+
+10.6 
+ 
+ Amendment
+ to Lease Agreement, dated January 1, 2020, between Lave Systems Corporation and Boon Industries, Inc. for 110 Spring Hill Drive,
+ Grass Valley CA (incorporated by reference from exhibit 10.7 to our registration statement on Form 10-12G, filed with the SEC on
+ December 13, 2021). 
+
+10.7 
+ 
+ Lease
+ agreement dated September 1, 2015, between Doris Notter and Matrix of Life Tech, for the product production and water bottling facility
+ in Grants Pass, Oregon (incorporated by reference from exhibit 10.8 to our registration statement on Form 10-12G, filed with the
+ SEC on December 13, 2021). 
+
+10.8 
+ 
+ Contractor
+ Agreement with Daren Correll (incorporated by reference from exhibit 10.9 to our registration statement on Form 10-12G, filed with
+ the SEC on December 13, 2021). 
+
+10.9 
+ 
+ Eaucentrix
+ LLC Exclusive Technology License Agreement (incorporated by reference from exhibit 10.10 to our registration statement on Form 10-12G,
+ filed with the SEC on December 13, 2021). 
+
+10.10 
+ 
+ Exclusive
+ distribution and licensing agreement with C Group LLC (incorporated by reference from exhibit 10.11 to our registration statement
+ on Form 10-12G, filed with the SEC on December 13, 2021). 
+
+10.11 
+ 
+ Director
+ Agreement dated September 22, 2021, between Boon Industries, Inc., and Johann Loewen (incorporated by reference from exhibit
+ 10.12 to our registration statement on Form 10-12G, filed with the SEC on December 13, 2021). 
+
+10.12 
+ 
+ Director
+ Agreement dated October 15, 2021, between Boon Industries, Inc and Edouard Beaudette (incorporated by reference from exhibit
+ 10.13 to our registration statement on Form 10-12G, filed with the SEC on December 13, 2021). 
+
+10.13 
+ 
+ Agreement
+ with Integrity Media (incorporated by reference from exhibit 10 to our registration statement on Form 10-12G/A, filed with the
+ SEC on January 31, 2022). 
+
+10.14 
+ 
+ Share
+ exchange agreement among Cal Care Group Inc., William Reed and the Company dated October 1, 2022 (incorporated by reference from
+ exhibit 10.1 to our current report on Form 8-K/A, filed with the SEC on October 24, 2022). 
+
+10.15 
+ 
+ Director
+ Agreement dated October 11, 2022, between Boon Industries, Inc and Paul Goyette (incorporated by reference from exhibit 10.2
+ to our current report on Form 8-K/A, filed with the SEC on October 24, 2022). 
+
+10.16 
+ 
+ Agreement
+ and plan of merger dated December 13, 2022, between Boon Industries, Inc and Curascientific Corp (incorporated by reference from
+ our proxy statement on Form DEF 14C, filed with the SEC on December 19, 2022). 
+
+11.1 
+ 
+ MicroChem
+ Laboratory Final Study Report on DiOx+ (incorporated by reference from exhibit 11.1 to our registration statement on Form 10-12G,
+ filed with the SEC on December 13, 2021). 
+
+11.2 
+ 
+ Q
+ Labs Final Study Report on DiOx+ (incorporated by reference from exhibit 11.2 to our registration statement on Form 10-12G, filed
+ with the SEC on December 13, 2021). 
+
+31.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+Management
+ contract or compensatory plan 
+
+23 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized on this []th day of April, 2023. 
+
+BOON
+ INDUSTRIES, INC. 
+
+By: 
+ /s/
+ William Reed 
+
+William
+ Reed, President, Chief Executive Officer, 
+ Secretary, Treasurer and Chairman of the Board 
+
+(Duly
+ Authorized, Principal Executive Officer) 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ William Reed 
+ 
+ President,
+ Chief Executive Officer, Secretary, Treasurer and Chairman of the Board 
+ 
+ April
+ [], 2023 
+ 
+ William
+ Reed 
+ 
+ (Principal
+ Executive, Financial and Accounting Officer) 
+
+/s/
+ Justin Gonzalez 
+ 
+ Chief
+ Operating Officer and Director 
+ 
+ April
+ [], 2023 
+ 
+ Justin
+ Gonzalez 
+
+24 
+
+<EX-101.SCH>
+ 2
+ bnow-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 4
+ bnow-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 5
+ bnow-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 6
+ bnow-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+
+<EX-31.1>
+ 7
+ bnow-ex31_1.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+Exhibit
+31.1 
+
+CERTIFICATION 
+
+ PURSUANT
+TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, William Reed, certify that: 
+
+1.
+I have reviewed this annual report on Form 10-K of Boon Industries, Inc. 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; and 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; and 
+
+4.
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+and have: 
+
+(a)
+Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; and 
+
+(b)
+Designed such control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; and 
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Dated:
+April [], 2023 
+
+Signature: 
+ /s/
+William Reed 
+
+Name: 
+ William Reed 
+
+Title: 
+ President,
+ Chief Executive Officer, Secretary, Treasurer and Chairman of the Board 
+
+</EX-31.1>
+
+<EX-32.1>
+ 8
+ bnow-ex32_1.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 18 U.S.C. SECTION 1350 AS ADOPTED 
+
+PURSUANT
+TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Boon Industries, Inc. (the Company on Form 10-K for the year ended December 31, 2022,
+as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned Chief Executive Officer
+and Interim Chief Financial Officer of the Company hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906
+of the Sarbanes-Oxley Act of 2002 that based on his knowledge: 
+
+1)
+the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, and 
+
+2)
+the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Company as of and for the periods covered in the Report. 
+
+/s/ William Reed 
+
+William Reed 
+
+President,
+ Chief Executive Officer, Secretary, Treasurer and Chairman of the Board 
+
+Dated:
+April [], 2023 
+
+</EX-32.1>
+

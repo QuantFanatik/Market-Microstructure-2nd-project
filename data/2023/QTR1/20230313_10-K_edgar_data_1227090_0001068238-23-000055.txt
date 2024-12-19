@@ -1,0 +1,575 @@
+<Header>
+<FileStats>
+    <FileName>20230313_10-K_edgar_data_1227090_0001068238-23-000055.txt</FileName>
+    <GrossFileSize>112549</GrossFileSize>
+    <NetFileSize>16940</NetFileSize>
+    <NonText_DocumentType_Chars>32806</NonText_DocumentType_Chars>
+    <HTML_Chars>44397</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001068238-23-000055.hdr.sgml : 20230313
+<ACCEPTANCE-DATETIME>20230313103334
+ACCESSION NUMBER:		0001068238-23-000055
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20221231
+<DEPOSITOR-CIK>0001156877
+<SPONSOR-CIK>0001156877
+FILED AS OF DATE:		20230313
+DATE AS OF CHANGE:		20230313
+ABS ASSET CLASS:             	Debt Securities
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRUCTURED OBLIGATIONS CORP SELECT NOTES TRUST LT SER 2003-2
+		CENTRAL INDEX KEY:			0001227090
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32012
+		FILM NUMBER:		23726206
+
+	BUSINESS ADDRESS:	
+		STREET 1:		270 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+</SEC-Header>
+</Header>
+
+ 0001068238-23-000055.txt : 20230313
+
+10-K
+ 1
+ sntlt2003-2_10k.htm
+ SELECT NOTES TRUST LT 2003-2 10-K
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ ____
+
+ FORM 10 K 
+
+(Mark One)
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES AND EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2022
+
+ or
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES AND EXCHANGE ACT OF 1934
+
+For the transition period from ________ to ________
+
+Commission File Number 001-32012
+
+STRUCTURED OBLIGATIONS CORPORATION, 
+ (Exact name of registrant as specified in its charter)
+
+Delaware
+
+13-3692801
+
+(State or other jurisdiction of incorporation)
+
+(I.R.S. employer identification no.)
+
+270 Park Avenue, New York, New York
+
+10013
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant s telephone number, including area code: (212) 270-2353
+
+ Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+
+ Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Select Notes Trust Long Term Certificates,
+
+ Series 2003-2
+
+SXN.B
+
+NYSE American
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+
+Yes
+
+No
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+
+Yes
+
+No
+
+1 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was
+ required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+
+Yes
+
+1 
+
+No
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such
+ shorter period that the registrant was required to submit such files).
+
+Yes
+
+No
+
+[Rule 405 of Regulation S-T is not applicable.]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definition of accelerated filer, large
+ accelerated filer, smaller reporting company, and emerging growth company in Rule 12b 2 of the Exchange Act. (check one):
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the
+ Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15
+ U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+
+Yes
+
+No
+
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common
+ equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter:
+
+ As of the date of this report, all of the common stock of the Registrant is held by J. P. Morgan Securities Holdings Inc.
+
+1 Pursuant to staff administrative positions established in the no-action letter Corporate Asset Backed Corporation CABCO (available August 9, 1995), the Depositor is not required to respond to various items of Form 10-K. Such items are designated herein as Not Applicable .
+
+2 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+ The distribution reports to security holders filed on Form 8-K during the fiscal year in lieu of reports on Form 10-Q which includes the reports filed on
+ Form 8-K listed in Item 15(b) hereto.
+
+ Introductory Note 
+
+ Structured Obligations Corporation (the Trustor is the Trustor under the Base Trust Agreement between the Trustor and U.S. Bank Trust Company,
+ National Association, as Trustee (the Trustee ), as supplemented by the Select Notes Trust Supplement LT 2003-2 by and between the Trustor and the Trustee, providing for the issuance of the Select Notes Trust Long Term Certificates Series 2003-2
+ (the Certificates and is the Trustor for the Certificates (the Registrant ). The Certificates do not represent obligations of or interests in the Trustor or the Trustee.
+
+ Each issuer of an underlying security, or guarantor thereof, or successor thereto, as applicable, which represents ten percent (10 or more of the trust
+ is subject to the information reporting requirements of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). For information on any such issuer of underlying securities, or guarantor thereof, or successor thereto, as applicable,
+ please see its periodic and current reports filed with the Securities and Exchange Commission (the Commission ). Such reports and other information required to be filed pursuant to the Exchange Act, by such issuer of underlying securities, or
+ guarantor thereof, or successor thereto, as applicable, may be inspected and copied at the public reference facilities maintained by the Commission at 450 Fifth Street, N.W., Washington, D.C. 20549. The Commission also maintains a site on the World
+ Wide Web at http://www.sec.gov at which users can view and download copies of reports, proxy and information statements and other information filed electronically through the Electronic Data Gathering, Analysis and Retrieval system, or EDGAR. 
+ Neither the Depositor nor the Trustee has participated in the preparation of such reporting documents, or made any due diligence investigation with respect to the information provided therein. Neither the Depositor nor the Trustee has verified the
+ accuracy or completeness of such documents or reports. There can be no assurance that events affecting any such issuer of underlying securities, or guarantor thereof, or successor thereto, as applicable, or the underlying securities have not occurred
+ or have not yet been publicly disclosed that would affect the accuracy or completeness of the publicly available documents described above. The chart below lists each such issuer or guarantor, or successor thereto, of the underlying securities that
+ reports and its respective Exchange Act file number.
+
+Underlying Securities Issuer or Guarantor, or 
+ Successor thereto 
+
+Commission File Number 
+
+Carnival Corporation
+
+001-09610
+
+Merck Co., Inc.
+
+001-06571
+
+DuPont de Nemours, Inc.
+
+001-38196
+
+The Hartford Financial Services Group, Inc.
+
+001-13958
+
+Ally Financial Inc.
+
+001-03754
+
+General Electric Company (guarantor/obligor of the underlying securities issued by General Electric Capital Corporation)
+
+001-00035
+
+Duke Energy Corporation
+
+001-32853
+
+Citigroup Inc.
+
+001-09924
+
+Macy's, Inc.
+
+001-13536
+
+3 
+
+PART I 
+
+Item 1. 
+
+Business 
+
+Not Applicable
+
+Item 1A. 
+
+Risk Factors 
+
+Not Applicable
+
+Item 1B. 
+
+Unresolved Staff Comments 
+
+Not Applicable
+
+Item 2. 
+
+Properties 
+
+Not Applicable
+
+Item 3. 
+
+Legal Proceedings 
+
+The Registrant is not subject to any material pending legal proceedings.
+
+Item 4. 
+
+Mine Safety Disclosures 
+
+None
+
+PART II 
+
+Item 5. 
+
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+The Certificates issued by and representing investors interest in the Select Notes Trust LT 2003-2 (the Trust are represented by one or more physical Certificates registered in the name of Cede Co., the nominee of The Depository
+ Trust Company.
+
+The following Certificates are listed on the exchange identified below:
+
+Title of Each Class
+
+Name of Each Exchange on Which Registered
+
+Select Notes Trust Long Term Certificates, Series 2003-2
+
+NYSE American
+
+Item 6. 
+
+[Reserved]
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Not Applicable
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+Not Applicable
+
+4 
+
+Item 8. 
+
+Financial Statements and Supplementary Data 
+
+None
+
+Item 9. 
+
+Changes In and Disagreements With Accountants on Accounting and Financial Disclosure 
+
+None
+
+Item 9A. 
+
+Controls and Procedures. 
+
+Not Applicable
+
+Item 9B. 
+
+Other Information. 
+
+None.
+
+Item 9C. 
+
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+
+Not Applicable
+
+PART III 
+
+Item 10. 
+
+Directors, Executive Officers and Corporate Governance 
+
+None.
+
+Item 11. 
+
+Executive Compensation 
+
+Not Applicable
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+Information required by Item 201(d) of Regulation S-X: Not Applicable
+
+Information required by Item 403 of Regulation S-X: None
+
+Item 13. 
+
+Certain Relationships and Related Transactions, and Director Independence 
+
+None.
+
+Item 14. 
+
+Principal Accounting Fees and Services 
+
+Not Applicable
+
+PART IV 
+
+Item 15. 
+
+Exhibits and Financial Statement Schedules 
+
+(a) The following documents have been filed as part of this Report.
+
+1. None
+
+2. None
+
+3. Exhibits:
+
+31.1 Certification by the President of the Registrant pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+99.1 Annual Compliance Report by Trustee.
+
+99.2 Report of RubinBrown LLP
+
+5 
+
+(b) The Form 8-Ks of the Select Notes Trust LT 2003-2 (the Trust which relate to periods covered by this annual report include (i)
+ the Trust s Current Report on Form 8-K for the distribution date occurring on January 18, 2022 and filed on January 27, 2022, (ii) the Trust s Current Report on Form 8-K for the distribution date occurring on February 15, 2022 and filed on February
+ 28, 2022, (iii) the Trust s Current Report on Form 8-K for the distribution date occurring on March 15, 2022 and filed on March 29, 2022, (iv) the Trust s Current Report on Form 8-K for the distribution date occurring on April 15, 2022 and filed on
+ April 26, 2022, (v) the Trust s Current Report on Form 8-K for the distribution date occurring on May 16, 2022 and filed on May 27, 2022, (vi) the Trust s Current Report on Form 8-K for the distribution date occurring on June 15, 2022 and filed on
+ June 23, 2022, (vii) the Trust s Current Report on Form 8-K for the distribution date occurring on July 15, 2022 and filed on July 21, 2022, (viii) the Trust s Current Report on Form 8-K for the distribution date occurring on August 15, 2022 and
+ filed on August 19, 2022, (ix) the Trust s Current Report on Form 8-K for the distribution date occurring on September 15, 2022 and filed on September 21, 2022, (x) the Trust s Current Report on Form 8-K for the distribution date occurring on October
+ 17, 2022 and filed on October 25, 2022, (xi) the Trust s Current Report on Form 8-K for the distribution date occurring on November 15, 2022 and filed on November 22, 2022, and (xii) the Trust s Current Report on Form 8-K for the distribution date
+ occurring on December 15, 2022 and filed on December 22, 2022.
+
+ (c) See Item 15(a) above.
+
+Item 16. 
+
+Form 10-K Summary 
+
+None. 
+
+6 
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange Act of 1934, the Registrant has duly caused this
+ report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+STRUCTURED OBLIGATIONS CORPORATION,
+
+as trustor for the Trust Registrant
+
+By:
+
+/s/ James G. Millard
+
+Name:
+
+James G. Millard
+
+Title:
+
+President
+
+Dated: March 9, 2023
+
+7 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1
+
+CERTIFICATION
+
+I, James G. Millard, certify that:
+
+1. I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution or servicing reports filed in respect of periods included in the year covered by this annual report, of the Select Notes Trust
+ LT 2003-2; 
+
+2. Based on my knowledge, the information in these reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+ circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report; 
+
+3. Based on my knowledge, the distribution or servicing information required to be provided to the depositor by the trustee under the pooling and servicing, or similar agreement, for inclusion in these reports is included in these
+ reports; 
+
+4. I am responsible for reviewing the activities performed by the depositor and the trustee under the pooling and servicing, or similar agreement and based upon my knowledge and the annual compliance review required under that
+ agreement, and except as disclosed in the reports, the depositor and the trustee have each fulfilled its obligations under that agreement. 
+
+5. The reports disclose all significant deficiencies relating to the compliance by the trustee and the depositor with the minimum servicing or similar standards based upon the report provided by an independent public accountant,
+ after conducting a review in compliance with the Uniform Single Attestation Program for Mortgage Bankers or similar procedure, as set forth in the pooling and servicing, or similar agreement, that is included in these reports. 
+
+In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated parties: U.S. Bank Trust Company, National
+ Association.
+
+By: s/ James G. Millard 
+ Name: James G. Millard 
+ Title: President 
+
+Date: March 9, 2023
+
+</EX-31.1>
+
+<EX-99.1>
+ 3
+ ex99-1.htm
+ EXHIBIT 99.1
+
+Exhibit 99.1
+
+CERTIFICATION 
+
+The undersigned, being an officer of U.S. Bank Trust Company, National Association, as trustee (the Trustee of the Select Notes Trust LT 2003-2 (the
+ Trust hereby makes the following certifications for inclusion as an exhibit to the Trust s annual report on Form 10-K for the fiscal year ended December 31, 2022 (the Annual Report ):
+
+1. The Trustee is the trustee under the Trust s trust agreement. 
+
+2. Based on my knowledge, for the period covered by the Annual Report, the Trustee has fulfilled its obligations under the Trust s trust agreement. 
+
+By:
+
+/s/ William H Hall
+
+Name:
+
+William H. Hall
+
+Title:
+
+Vice President
+
+Dated:
+
+February 10, 2023
+
+</EX-99.1>
+
+<EX-99.2>
+ 4
+ ex99-2.htm
+ EXHIBIT 99.2
+
+Exhibit 99.2 
+
+1200 Main Street 
+
+Suite 1000 
+
+Kansas City, MO 64105 
+
+T: 816.472.1122 
+
+E: info@rubinbrown.com 
+
+www.RubinBrown.com 
+
+CERTIFIED PUBLIC ACCOUNT BUSINESS CONSULTANTS 
+
+Report Of Independent
+
+ Registered Public Accounting Firm
+
+ Board of Directors
+
+ Structured Obligations Corporation
+
+ New York, New York
+
+ We have examined the compliance of Structured Obligations Corporation (Depositor) and U.S. Bank National Association (Trustee) with the Base Trust Agreement and the Select Notes Trust Supplement LT
+ 2003-2 (the Agreements) relating to the administration of the underlying securities and related credit support deposited in or held by the Select Notes Trust LT 2003-2 for the year ended December 31, 2022. Depositor's management is responsible for
+ compliance with those requirements. Our responsibility is to express an opinion on compliance with the Agreements based on our examination.
+
+ Our examination was conducted in accordance with the standards of the Public Company Accounting Oversight Board (United States) and, accordingly, included examining, on a test basis, evidence about
+ Depositor's and Trustee's compliance with those requirements described above and performing such other procedures as we considered necessary in the circumstances. We believe that our examination provides a reasonable basis for our opinion. Our
+ examination does not provide a legal determination of Depositor's and Trustee's compliance with specified requirements.
+
+ In our opinion, Depositor and Trustee complied, in all material respects, with the requirements described above of the Agreements for the year ended December 31, 2022.
+
+ This report is intended solely for the information and use of the Depositor, the Trustee, the Securities and Exchange Commission, and the Certificate Holders of the Select Notes Trust LT 2003-2,
+ and is not intended to be, and should not be used by anyone other than those specified parties.
+
+February 17, 2023 
+
+RubinBrown LLP is a member of the global network of Boloar Tilly International Ltd., the members of which are separate and
+ independent legal entities. 
+
+</EX-99.2>
+

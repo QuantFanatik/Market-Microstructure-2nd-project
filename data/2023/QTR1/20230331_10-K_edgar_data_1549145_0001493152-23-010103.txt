@@ -1,0 +1,3938 @@
+<Header>
+<FileStats>
+    <FileName>20230331_10-K_edgar_data_1549145_0001493152-23-010103.txt</FileName>
+    <GrossFileSize>5078977</GrossFileSize>
+    <NetFileSize>148551</NetFileSize>
+    <NonText_DocumentType_Chars>825170</NonText_DocumentType_Chars>
+    <HTML_Chars>1700419</HTML_Chars>
+    <XBRL_Chars>1048753</XBRL_Chars>
+    <XML_Chars>1221639</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-010103.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331135348
+ACCESSION NUMBER:		0001493152-23-010103
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		61
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLUE BIOFUELS, INC.
+		CENTRAL INDEX KEY:			0001549145
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL ORGANIC CHEMICALS [2860]
+		IRS NUMBER:				454944960
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54942
+		FILM NUMBER:		23786494
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3710 BUCKEYE ST
+		STREET 2:		SUITE 120
+		CITY:			PALM BEACH GARDENS
+		STATE:			FL
+		ZIP:			33401
+		BUSINESS PHONE:		(888)607-3555
+
+	MAIL ADDRESS:	
+		STREET 1:		3710 BUCKEYE ST
+		STREET 2:		SUITE 120
+		CITY:			PALM BEACH GARDENS
+		STATE:			FL
+		ZIP:			33401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLIANCE BIOENERGY PLUS, INC.
+		DATE OF NAME CHANGE:	20141204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Alliance Media Group Holdings, Inc.
+		DATE OF NAME CHANGE:	20120504
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-010103.txt : 20230331
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+Annual Report Pursuant to Section 13 or 15(D) of the Securities Exchange Act of 1934 
+
+for
+the fiscal year ended , 
+
+or 
+
+Transition Report Pursuant to Section 13 or 15(D) of the Securities Exchange Act of 1934 
+
+For
+the transition period from: _____________ to _____________ 
+
+Commission
+File Number: 
+
+(Exact
+name of small Business Issuer as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ 
+ (IRS
+ Employer 
+ 
+ incorporation
+ or organization) 
+ 
+ Identification
+ No.) 
+
+, 
+
+, 
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number, including area code: 
+
+n/a 
+ 
+ Former
+ address if changed since last report 
+
+Securities
+registered under Section 12(b) of the Exchange Act: None 
+
+Securities
+registered under Section 12(g) of the Exchange Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol 
+ 
+ Name
+ of each exchange on which registered 
+
+Pink
+ Sheets 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes . 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Check
+whether the issuer (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (232-405 of this chapter) during the preceding 12 months (or for such shorter period of time that the registrant
+was required to submit such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large
+ Accelerated Filer 
+ Accelerated
+ Filer 
+ 
+ Emerging
+ Growth Company 
+
+Smaller
+ reporting company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised accounting standards provided to Section 7(a)(2)(B) of the Securities Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes 
+
+The
+aggregate market value of the voting stock held by non-affiliates of the registrant as of the last business day of the registrant s
+most recently completed second fiscal quarter was . 
+
+State
+the number of shares outstanding of the registrant s .001 par value common stock as of the close of business on the latest practicable
+date (March 29, 2023): . 
+
+Documents
+incorporated by reference: 
+
+TABLE
+OF CONTENTS 
+
+ITEM
+ 1. 
+ 
+ Business 
+ 3 
+
+ITEM
+ 1A. 
+ 
+ Risk Factors 
+ 5 
+
+ITEM
+ 1B. 
+ 
+ Unresolved Staff Comments 
+ 5 
+
+ITEM
+ 2. 
+ 
+ Properties 
+ 5 
+
+ITEM
+ 3. 
+ 
+ Legal Proceedings 
+ 5 
+
+ITEM
+ 4. 
+ 
+ (Removed and reserved) 
+ 5 
+
+ITEM
+ 5. 
+ 
+ Market For Registrant s Common Equity; Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 6 
+
+ITEM
+ 6. 
+ 
+ (Removed and reserved) 
+ 10 
+
+ITEM
+ 7. 
+ 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 10 
+
+ITEM
+ 7A. 
+ 
+ Quantitative and Qualitative Disclosure About Market Risk 
+ 13 
+
+ITEM
+ 8. 
+ 
+ Financial Statements and Supplementary Data 
+ 13 
+
+ITEM
+ 9. 
+ 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 14 
+
+ITEM
+ 9A. 
+ 
+ Controls and Procedures 
+ 14 
+
+ITEM
+ 10 
+ 
+ Directors, Executive Officers and Corporate Governance 
+ 15 
+
+ITEM
+ 11. 
+ 
+ Executive Compensation 
+ 18 
+
+ITEM
+ 12. 
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholders Matters 
+ 22 
+
+ITEM
+ 13. 
+ 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 23 
+
+ITEM
+ 14. 
+ 
+ Principal Accountant Fees and Services 
+ 24 
+
+ITEM
+ 15. 
+ 
+ Exhibits and Financial Statement Schedules 
+ 25 
+
+SIGNATURES 
+ 26 
+
+2 
+
+FORWARD
+LOOKING STATEMENTS 
+
+This
+Annual Report on Form 10-K (the Report ), including Management s Discussion and Analysis of Financial Condition
+and Results of Operations in Item 7 contains forward-looking statements regarding future events and the future results of Blue
+Biofuels, Inc. and its consolidated subsidiaries (the Company that are based on management s current expectations,
+estimates, projections and assumptions about the Company s business. Words such as expects, anticipates, 
+ intends, plans, believes, sees, estimates and variations of such
+words and similar expressions are intended to identify such forward-looking statements. These statements are not guarantees of future
+performance and involve risks, uncertainties and assumptions that are difficult to predict. Therefore, actual outcomes and results may
+differ materially from what is expressed or forecasted in such forward-looking statements due to numerous factors, including, but not
+limited to, those discussed in the Risk Factors section in Item 1A, Management s Discussion and Analysis of
+Financial Condition and Results of Operations in Item 7 and elsewhere in this Report as well as those discussed from time to time
+in the Company s other Securities and Exchange Commission filings and reports. In addition, such statements could be affected by
+general industry and market conditions. Such forward-looking statements speak only as of the date of this Report or, in the case of any
+document incorporated by reference, the date of that document, and we do not undertake any obligation to update any forward-looking statement
+to reflect events or circumstances after the date of this Report. If we update or correct one or more forward-looking statements, investors
+and others should not conclude that we will make additional updates or corrections with respect to other forward-looking statements. 
+
+ITEM
+1. BUSINESS 
+
+Background 
+
+Business
+Overview 
+
+Blue
+Biofuels, Inc., was incorporated in Nevada on March 28, 2012, as Alliance Media Group Holdings, Inc. Since December 2013, Blue Biofuels,
+Inc. (the Company has been a technology company focused on emerging technologies in renewable energy, biofuels, and lignin. 
+
+In
+early 2018, the Company s chief executive officer CEO Ben Slager invented a new technology system referred to as
+Cellulose-to-Sugar or CTS, and the Company filed a process patent application for this technology. Mr. Slager has since further developed
+the system with laboratory personnel. The CTS patent was awarded in 2021 in the United States (U.S. Patent No. 10,994,255) and also in
+El Salvador. The Company also filed an application for this patent in other major jurisdictions of the world including the European Patent
+Organization, Australia, Brazil, China, Japan, the African Regional Intellectual Property Organization, and the Russian Federation. The
+patent applications are currently pending in all of these international jurisdictions. In addition to this patent, the Company has received
+one additional patent (for which it has also applied for in all the above mentioned jurisdictions), one continuation patent pending,
+and provisional patent applications for two additional patents that are currently pending. 
+
+Mr.
+Slager has since further developed the system with the technical staff of the Company. The patented CTS process is a continuous mechanical/chemical
+dry process for converting cellulose material into sugar and lignin, as compared to the prior batch process that the Company previously
+licensed. The CTS process creates molecular contact between two reactive solid components instead of other systems where the reaction
+takes place between two liquid or gas components in a batch process. The reactants are (1) the feedstock, which is broken down into its
+components being sugars and lignin; (2) a catalyst, which is cost effective and abundantly available in the market from regular suppliers;
+it is separated from reactor components and reused. The CTS mechanical/chemical process allows for exact process control to ensure that
+all the material passing through it does so on the optimum reaction parameters through which optimal efficiency is achieved. 
+
+CTS
+is different from other commercial processes that are used to convert cellulose into sugar. Other processes use enzymatic batch reactors
+that take up to weeks to convert cellulose to sugars. CTS can convert any cellulosic material including grasses and agricultural
+waste into sugars in less than a minute of conversion time. The sugars are subsequently processed into biofuels using off-the-shelf
+technologies. CTS is environmentally friendly in that it recycles the water and catalyst, and it has a near zero carbon footprint: the
+amount of added atmospheric carbon created by burning the biofuels produced by the CTS system was absorbed by the plant-based feedstock
+while growing and is merely released back into the atmosphere. No extra CO2 is released into the atmosphere in our system. This is to
+be distinguished from fossil fuels because new CO2 is released when fossil fuels are burned. 
+
+The
+CTS system converts plant-based feedstock into one primary product, soluble sugars, which can be further processed into cellulosic ethanol
+and other biofuels like jet fuel, and potentially into bio chemicals. 
+
+CTS
+has different co-products than other processes. Our primary co-product is pure lignin. Other industries like the paper industry produce
+lignin that is contaminated by chemicals like sulfur. Other cellulosic ethanol processes do not yield chemically clean high purity lignin
+because their processes chemically alter or contaminate the lignin. Most ethanol producers use corn, not cellulose, and the co-products
+of corn ethanol production are distillers grains animal feed and corn oil. Our lignin can potentially be used in ion exchange resins
+or specialty chemicals. Lignin can also be burned as a renewable fuel. 
+
+At
+a commercial scale, our management expects to be able to produce ethanol at a lower cost per gallon than existing commercial corn or
+cellulosic ethanol producers due to the fact that the CTS process is robust, uncomplicated and efficient, and is expected to use low-cost
+feedstocks and have a potentially high value by-product. We believe a significant difference between CTS ethanol and corn ethanol is
+the wide range of abundantly available feedstocks that CTS can process compared to just corn as the feedstock. The CTS feedstocks are
+nonfood and have much lower costs than corn. In addition, while in corn ethanol only the corn kernels are used, CTS uses the whole plant
+or its waste products, meaning it could obtain much higher yields per acre. Estimated yields for corn are about 400-600 gallons of ethanol
+per acre per year and for king grass in conjunction with our CTS process it could be up to 3000-3500 gallons per acre per year. The Company
+also expects to potentially receive a highly valued D3 RIN for each gallon of ethanol it produces. 
+
+3 
+
+The
+promise of the then newly developed CTS technology made it worthwhile to financially restructure the Company through Chapter 11 in 2018.
+Prior management had taken on various toxic notes other debts that the Company could not pay at that time. The Company s
+new board and management determined that a chapter 11 bankruptcy filing was its only plausible alternative to save the company as a going
+concern for the benefit of creditors and stockholders. The Company voluntarily filed for Chapter 11 on October 22, 2018, in the U.S.
+Bankruptcy Court in the Southern District of Florida. Management fought, eliminated, and restructured millions in debts and disputed
+debts, and exited Chapter 11 on September 18, 2019, while keeping all classes, including the shareholders, unimpaired. The Company s
+debts were either voided, renegotiated down and paid off, or renegotiated to be paid out of future revenues 1,820,630) or renegotiated
+to be paid out of future profits 917,502). These are reflected on the Company s financial statements. A complete copy of the
+Plan of Reorganization was filed as Exhibit 2(a) of the Company s 2020 financial statements. Having paid all debts that needed
+to be paid, the bankruptcy case was closed on October 25, 2019. 
+
+The
+Company has built several prototypes of the CTS system to further develop the process. The Company finalized its parameter optimization
+when it was able to convert 99 of the cellulosic material into soluble sugars suitable for further processing into cellulosic ethanol.
+In 2022, the Company partnered with K.R. Komarek to build its CTS machines going forward. Komarek is an industry leading manufacturing
+company that builds briquetting machines and compaction/granulation systems with throughput capacities up to 50 tons per hour. 
+
+The
+Company has begun successful testing on a Komarek-made machine at a throughput processing rate of 2.5 tons per day. The Company has designed
+a pilot plant around that machine and is in the process of completing the buildout of the plant. The Company anticipates having the pilot
+plant completed in Q1, 2023 and anticipates to continue testing it and optimizing parameters and sugar production in the first half of
+2023. This pilot plant is designed to show successful volume production and scalability. 
+
+The
+Company expects to engage an engineering firm to design a semi-commercial scale pilot plant that integrates a larger CTS system into
+the pre-processing and post-processing elements of the plant. It is anticipated that the semi-commercial plant will have the capacity
+to produce sugar at a rate sufficient to make around 500,000 1,000,000 gallons of ethanol per year. The goal of the semi-commercial
+plant is to provide operating cost estimates of a full commercial volume system. Due to its mechanical nature and modularity, we anticipate
+that one plant would have multiple modular CTS systems, and that the semi-commercial plant would contain one such module. The Company
+expects to have the semi-commercial system ready in 2024. 
+
+Commencing
+commercial production will require project financing. The project financing will either be for bolting on our CTS system into an existing
+ethanol facility of a future potential joint venture partner, or for acquiring an ethanol facility and converting that to cellulosic
+ethanol production using our CTS system, or for setting up a production facility for converting ethanol into jet fuel using the Vertimass
+Process that the Company has licensed. 
+
+The
+Company has licensed the Vertimass Process to convert ethanol (from the CTS process) into sustainable aviation fuel (SAF). There is no
+up-front or annual fee until we are converting ethanol into SAF. The license agreement with Vertimass is the subject of a confidentiality
+agreement between the parties. The Company aims to start engineering of a first pilot plant to convert up to 500,000 gallons of ethanol
+into jet fuel and other fuels. 
+
+The
+Company s strategy is to diversify its product portfolio to include a number of product lines. These potentially include (1) biofuels
+ such as ethanol, or converting ethanol into higher biofuels like sustainable aviation fuel and the like; (2) selling sulfur-free
+lignin to ion exchange resin producers; and (3) making specialty chemicals from lignin. We believe these, and other markets, could potentially
+provide for highly profitable products. 
+
+Management
+believes that retrofitting existing plants with the CTS technology or delivering cellulosic sugar to existing ethanol plants to enable
+them to make cellulosic ethanol, may achieve more rapid commercialization than building new plants. After its first plant is profitable,
+the Company intends to grow with additional plants in the United States and explore international growth by either licensing the technology
+or forming joint ventures with foreign domestic partners to build plants. 
+
+4 
+
+The
+ethanol industry is competitive with over 200 ethanol plants in the United States alone. Currently, the vast majority use corn as the
+feedstock. Their profitability depends highly on the fluctuations between the price of corn and the price of ethanol. Since the Company
+does not plan to use corn, and plans on having long-term purchase agreements with cellulosic suppliers, we anticipate that our profitability
+will be more consistent. 
+
+Any
+new biofuels plant that is built would require various government permits. In particular, renewable fuels are subject to rigorous testing
+and premarket approval requirements by the EPA s Office of Transportation and Air Quality and regulatory authorities in other countries.
+In the U.S., various federal, and, in some cases, state statutes and regulations also govern or impact the manufacturing, safety, storage
+and use of renewable fuels. The process of seeking required approvals and the continuing need for compliance with applicable statutes
+and regulations requires the expenditure of resources. The Company anticipates raising the necessary capital for this as a part of its
+project-based financing. 
+
+The
+Energy Policy Act of 2005, which included the Renewable Fuel Standard Program enforced by the US Environmental Protection Agency (EPA),
+mandates a certain amount of renewable fuel be blended into the transportation fuel used by all vehicles in the country. This Program
+provides monetary incentives to companies that produce renewable transportation fuel, and establishes Renewable Identification Numbers
+(RINs) or credits for each gallon of renewable transportation fuel produced in the United States, and breaks down those fuels into different
+D-codes depending on the source of the renewable fuel. D3 is the code for renewable ethanol that comes from cellulosic materials. The
+EPA s current RIN volume targets for cellulosic ethanol include 720 million gallons for 2023, 1.42 billion gallons for 2024, and
+2.13 billion gallons for 2025 (the D3 mandate). This mandate has increased every year and is statutorily mandated to increase in the
+future and become a larger portion of the full renewable fuels mandate, if and when cellulosic biofuels can be produced profitably in
+larger quantities than they are now. The RFS mandate for 2022 called for 20.77 billion gallons of total renewable fuel, 15 billion from
+conventional biofuels (corn ethanol) and 5.77 billion from advanced biofuels, including cellulosic biofuels. The blend wall 
+(or upper limit to the amount of ethanol that can be blended into U.S. gasoline and automobile performance and comply with the Clean
+Air Act) of limiting ethanol content in gasoline to 10 , limits the total amount of ethanol consumed in the United States. Recent proposals
+may make 15 blending available year around. The value of the D3 RIN fluctuates, but as of this filing, it is approximately 1.95 per
+gallon of ethanol. To profit from these incentives, the Company plans to apply for these D3 RIN credits as it brings its first plant
+into commercial operation. 
+
+The
+Company believes that its management and consultants have significant experience in the development of technologies from concept to commercialization.
+As of this date, the Company has not generated any material revenues from its business. 
+
+Description
+of the Company s Securities 
+
+The
+Company is currently authorized to issue 1,000,000,000 Shares of Common Stock par value 0.001 and 10,000,000 shares of Preferred Stock
+par value 0.001. Each share of Company Common Stock is entitled to one (1) vote per share. 
+
+Employees 
+
+The
+company currently employs seven full-time employees, three part-time employee and seventeen consultants. The Company plans to hire additional
+employees to more rapidly commercialize its technology. 
+
+ITEM
+1A. RISK FACTORS 
+
+Not
+required as the Company is a smaller reporting company. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM
+2. PROPERTIES 
+
+Offices 
+
+The
+Company maintains its corporate office at 3710 Buckeye Street, Suite 120, Palm Beach Gardens 33410. The Company s telephone number
+is 888-607-3555. On August 30, 2019, the Company signed a lease for a period of twenty-four (24) months from November 1, 2019, through
+October 31, 2021. In December 2020, this lease was extended for twelve (12) months, and in August 2022, extended the lease for two more
+years until October 31, 2024. Annual rent in the latest lease extension commenced at approximately 102,950 per annum and increases on
+a year-to-year basis by three percent (3 over the base year. In addition, the Company is obligated to pay an amount equal to 10.41 
+of the operating expenses of the building together with sales tax on all amounts. This office space includes the Company s research
+and demonstration facilities. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+The
+Company is subject, from time to time, to litigation, claims and suits arising in the ordinary course of business. As of the date of
+filing, there are no material claims or suits whose outcomes could have a material effect on the Company s financial statements. 
+
+ITEM
+4. [Removed and reserved] 
+
+Not
+applicable. 
+
+5 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY; RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market
+for Registrant s Common Equity 
+
+The
+Company became subject to Securities Exchange Act Reporting Requirements in October 2012. The symbol BIOF is assigned for
+its securities. The Company s common stock commenced trading on the OTCBB on February 5, 2014, under the symbol ALLM and changed
+to BIOF on August 27, 2021. 
+
+On
+November 13, 2018, the Company filed a Form 15, suspending its duty to file reports under sections 13 and 15(d) of the Securities Exchange
+Act. The Company has subsequently traded on the Pink Sheets. On January 5, 2021, the Company filed a Form 10 Registration Statement to
+become fully reporting again and has been fully reporting ever since. 
+
+Options
+and Warrants 
+
+At
+various times over the years, warrants have been issued for services, as parts of contracts, or in settlement agreements. Warrants also
+have been issued as a part of some financings. 
+
+As
+of the date of filing, not including expired or exercised warrants, the Company has issued warrants to purchase an aggregate of 18,098,310
+shares of common stock. The exercise prices associated with these agreements range from 0.05 to 0.30 and terms range from twenty four
+months to ten (10) years. 
+
+As
+of the date of this filing, the company has issued option agreements to its independent directors, officers, employees, and consultants,
+to purchase an aggregate of 65,530,000 shares of common stock of which 26,805,000 have vested and 38,725,000 have not yet vested. The
+exercise prices range from 0.05 to 0.30 and terms range from five (5) to ten (10) years. 
+
+Other
+than the foregoing, none of the Company s shares of Common Stock are subject to outstanding options or warrants. 
+
+6 
+
+Holders 
+
+As
+of the date of filing, there were 299,416,769 shares of common stock outstanding and approximately 342 stockholders of record. 
+
+Transfer
+Agent and Registrar 
+
+The
+Company s transfer agent is ClearTrust, LLC., 16540 Pointe Village Dr., Suite 205, Lutz, FL 33558, Phone: 813-235-4490. 
+
+Dividend
+Policy 
+
+The
+Company has never paid any cash dividends on its Common Stock and does not anticipate paying any cash dividends on its Common Stock in
+the foreseeable future. The Company intends to retain future earnings to fund ongoing operations and future capital requirements of its
+business. Any future determination to pay cash dividends will be at the discretion of the Board of Directors and will be dependent upon
+the Company s financial condition, results of operations, capital requirements and such other factors as the Board of Directors
+deems relevant. 
+
+Securities
+Authorized for Issuance Under Equity Compensation Plans 
+
+There
+are currently, as of the date of filing, fully earned and vested option agreements in place to purchase an aggregate of 26,805,000 shares
+of common stock under the Company s 2021 Employee, Director Stock Plan and there are additional agreements vesting over the next
+5 years, or conditional upon events, to purchase an additional 38,725,000 shares of common stock. 
+
+Plan Category 
+ Maximum number of securities reserved under equity compensation plan (1) 
+ Weighted average exercise price of outstanding options, warrants, and rights 
+ Number of securities to be issued upon exercise of outstanding options, warrant, and rights 
+
+Equity compensation plans approved by security holders 
+ 55,439,038 
+ 0.13 
+ 51,080,000 
+ 
+ Equity compensation plans not approved by security holders 
+ 0 
+ n/a 
+ n/a 
+ 
+ Total 
+ 55,439,038 
+ 
+ 51,080,000 
+
+(1) As
+ of December 31, 2022. 
+
+The
+Plan provides that awards may be granted to officers, employees, consultants, or directors of the Company and its affiliates Eligible
+Persons ). The Plan permits the board of directors of the Company to grant three types of awards Awards to Eligible Persons: (a) a stock appreciation right Stock Appreciation Right (b) a stock option Stock
+Option and (c) a stock award Stock Award ). 
+
+Stock
+Options may be granted alone or in addition to other Awards granted under the Plan and may be of two types: (a) incentive Stock Options;
+and (b) non-qualified Stock Options. The exercise price per share under a Stock Option is determined by the administrator of the Plan
+(which is either the entire board or a designated committee comprised solely of independent directors); provided, however, that such
+exercise price is not less than the fair market value per Purchaser Share on the date the Stock Option is granted, subject to certain
+exceptions. The term of each Stock Option is fixed by the administrator of the Plan and no incentive Stock Option may be exercisable
+more than 10 years after the date such incentive Stock Option is granted. The Plan provides that other terms and conditions may be attached
+to a particular Stock Option, such terms and conditions to be referred to in an option agreement. 
+
+7 
+
+In
+the event an option holder ceases to be an Eligible Person other than by reason of death, disability or cause, the option holder may
+exercise any Stock Option granted to him or her to the extent that such Stock Option is exercisable on the date of such termination.
+In the event an option holder ceases to be an Eligible Person by reason of death or disability, the option holder or his or her representative,
+as applicable, may exercise any Stock Option granted to him or her to the extent that such Stock Option is exercisable on the date of
+such death or disability. All outstanding and unexercised Stock Options of an option holder will be cancelled in the event that such
+person ceases to be an Eligible Person by reason of cause. 
+
+Stock
+Appreciation Rights may be granted either on a stand-alone basis or in conjunction with all or part of any Stock Option granted under
+the Plan. Stock Appreciation Rights granted on a stand-alone basis may be exercisable only at such time or times and to such extent as
+determined by the administrator of the Plan. Stock Appreciation Rights granted in conjunction with all or part of any Stock Option may
+be exercisable only at the time or times and to the extent that the Stock Options to which they relate are exercisable. Upon the exercise
+of a Stock Appreciation Right, a holder will be entitled to receive an amount in cash, Purchaser Shares or both, which in the aggregate
+is equal in value to the difference in the fair market value of the Purchaser Shares at the date of exercise less the fair market value
+of the Purchaser Shares at the date of grant. 
+
+Stock
+Awards may be directly issued under the Plan, subject to such terms, conditions, performance requirements, restrictions, forfeiture provisions,
+contingencies and limitations as the administrator of the Plan may determine. 
+
+Subject
+to adjustment as provided in the Plan, the aggregate number of shares of common stock which may be delivered under the Plan shall not
+exceed a number equal to 15 of the total number of shares of common stock outstanding. The maximum number of shares of common stock
+which may be delivered under the Plan shall automatically increase by a number sufficient to cause the number of shares of common stock
+covered by the Plan to equal 15 of the total number of shares of common stock then outstanding, assuming for this purpose the conversion
+into common stock of all outstanding securities that are convertible by their terms (directly or indirectly) into common stock. The exercise
+price per share of common stock purchasable under a Stock Option shall be determined by the administrator of the Plan; provided, however,
+that the exercise price per share shall be not less than the Fair Market Value (as defined in the Plan) per share on the date the Stock
+Option is granted, or if the Stock Option is intended to qualify as an Incentive Stock Option and is granted to an individual who is
+a Ten Percent Holder (as defined in the Plan), not less than 110 of such Fair Market Value per share. The term of each Stock Option
+shall be fixed by the administrator of the Plan, but no Incentive Stock Option shall be exercisable more than 10 years (or five years
+in the case of an individual who is a Ten Percent Holder) after the date the Incentive Stock Option is granted. 
+
+8 
+
+Recent
+Sales of Unregistered Securities 
+
+Below
+is a list of securities sold by the Company from January 1, 2022 through the date of filing which were not registered under the Securities
+Act. 
+
+Entity 
+ Date of Investment 
+ Title of Security 
+ Amount of Securities Sold 
+ Consideration 
+ 
+ Tom Camerlengo 
+ 01/12/22 
+ Common Stock 
+ 150,000 
+ Exercise of Warrants 
+ 
+ North Equities 
+ 03/05/22 
+ Common Stock 
+ 322,581 
+ Professional Services 
+ 
+ Bill Fitzpatrick 
+ 03/10/22 
+ Common Stock 
+ 100,000 
+ Professional Services 
+ 
+ NWBB, Inc 
+ 03/10/22 
+ Common Stock 
+ 25,200 
+ Professional Services 
+ 
+ NWBB, Inc 
+ 04/22/22 
+ Common Stock 
+ 28,600 
+ Professional Services 
+ 
+ Ben Slager 
+ 04/29/22 
+ Common Stock 
+ 500,000 
+ Purchase @ 0.15 per share 
+ 
+ AES Capital Resource Fund 
+ 05/02/22 
+ Common Stock 
+ 500,000 
+ Purchase @ 0.15 per share 
+ 
+ Chris and Angela Kneppers 
+ 05/02/22 
+ Common Stock 
+ 2,333,333 
+ Purchase @ 0.15 per share 
+ 
+ Raymond Leon 
+ 05/04/22 
+ Common Stock 
+ 500,000 
+ Purchase @ 0.15 per share 
+ 
+ Melvin H. Eaton II 
+ 05/23/22 
+ Common Stock 
+ 333,333 
+ Purchase @ 0.15 per share 
+ 
+ Mark Monahan 
+ 05/23/22 
+ Common Stock 
+ 333,333 
+ Purchase @ 0.15 per share 
+ 
+ Johan Foster 
+ 05/26/22 
+ Common Stock 
+ 25,000 
+ Professional Services 
+ 
+ Caroline Libra 
+ 05/26/22 
+ Common Stock 
+ 25,000 
+ Professional Services 
+ 
+ Thomas Camerlengo 
+ 05/31/22 
+ Common Stock 
+ 200,000 
+ Exercise of Options 
+ 
+ Steve Paul 
+ 07/07/22 
+ Common Stock 
+ 166,667 
+ Purchase @ 0.15 per share 
+ 
+ Randall Brodsky 
+ 07/11/22 
+ Common Stock 
+ 333,333 
+ Purchase @ 0.15 per share 
+ 
+ NWBB, Inc. 
+ 07/12/22 
+ Common Stock 
+ 34,000 
+ Professional Services 
+ 
+ Mudai Nakagawa 
+ 07/22/22 
+ Common Stock 
+ 500,000 
+ Purchase @ 0.15 per share 
+ 
+ NWBB, Inc. 
+ 08/17/22 
+ Common Stock 
+ 29,444 
+ Professional Services 
+ 
+ Linda Gulla 
+ 08/22/22 
+ Common Stock 
+ 23,889 
+ Professional Services 
+ 
+ NWBB, Inc. 
+ 08/29/22 
+ Common Stock 
+ 26,111 
+ Professional Services 
+ 
+ Bohdan Rudawski 
+ 09/02/22 
+ Common Stock 
+ 133,333 
+ Purchase @ 0.15 per share 
+ 
+ Mark Cox 
+ 09/02/22 
+ Common Stock 
+ 333,333 
+ Purchase @ 0.15 per share 
+ 
+ Kathleen Doherty 
+ 09/12/22 
+ Common Stock 
+ 133,333 
+ Purchase @ 0.15 per share 
+ 
+ NWBB, Inc. 
+ 09/20/22 
+ Common Stock 
+ 55,398 
+ Professional Services 
+ 
+ Charles McCann 
+ 10/21/22 
+ Common Stock 
+ 666,666 
+ Purchase @ 0.15 per share 
+ 
+ NWBB, Inc 
+ 10/21/22 
+ Common Stock 
+ 12,805 
+ Professional Services 
+ 
+ Alvian Istrate 
+ 10/21/22 
+ Common Stock 
+ 200,000 
+ Purchase @ 0.15 per share 
+ 
+ Alan Catterall 
+ 10/31/22 
+ Common Stock 
+ 170,000 
+ Purchase @ 0.15 per share 
+ 
+ Wingard, LLC 
+ 10/31/22 
+ Common Stock 
+ 70,000 
+ Professional Services 
+ 
+ Randall Brodsky 
+ 11/07/22 
+ Common Stock 
+ 400,000 
+ Purchase @ 0.15 per share 
+ 
+ NWBB, Inc. 
+ 11/10/22 
+ Common Stock 
+ 34,091 
+ Professional Services 
+ 
+ Richard Snider 
+ 12/14/22 
+ Common Stock 
+ 100,000 
+ Purchase @ 0.15 per share 
+ 
+ Steven Dunkle Rev Trust 
+ 12/21/22 
+ Common Stock 
+ 7,000,000 
+ Exercise of Warrants 
+ 
+ Mudai Nakagawa 
+ 12/22/22 
+ Common Stock 
+ 150,000 
+ Purchase @ 0.15 per share 
+ 
+ Raymond Leon 
+ 01/03/23 
+ Common Stock 
+ 200,000 
+ Purchase @ 0.15 per share 
+ 
+ James Cherwin 
+ 01/30/23 
+ Common Stock 
+ 100,000 
+ Purchase @ 0.15 per share 
+ 
+ Edmund Burke 
+ 01/30/23 
+ Common Stock 
+ 4,450,148 
+ Exercise of Warrants 
+ 
+ Edmund Burke 
+ 01/31/23 
+ Common Stock 
+ 1,000,000 
+ Exercise of Warrants 
+ 
+ NWBB, Inc. 
+ 02/06/23 
+ Common Stock 
+ 40,000 
+ Professional Services 
+ 
+ Ron Smith 
+ 02/06/23 
+ Common Stock 
+ 166,666 
+ Purchase @ 0.15 per share 
+ 
+ Mark Monahan 
+ 02/17/23 
+ Common Stock 
+ 333,333 
+ Purchase @ 0.15 per share 
+ 
+ Michael Fidler 
+ 02/17/23 
+ Common Stock 
+ 200,000 
+ Purchase @ 0.15 per share 
+ 
+ Joseph Corry 
+ 02/17/23 
+ Common Stock 
+ 100,000 
+ Purchase @ 0.15 per share 
+ 
+ William Newman 
+ 02/21/23 
+ Common Stock 
+ 100,000 
+ Purchase @ 0.15 per share 
+ 
+ Johnny Anastasiades 
+ 03/01/23 
+ Common Stock 
+ 135,000 
+ Purchase @ 0.15 per share 
+ 
+ Jozef Kneppers 
+ 03/06/23 
+ Common Stock 
+ 1,333,333 
+ Purchase @ 0.15 per share 
+ 
+ James Michelle Dupre 
+ 03/06/23 
+ Common Stock 
+ 150,000 
+ Purchase @ 0.15 per share 
+ 
+ Randall Brodsky 
+ 03/07/23 
+ Common Stock 
+ 400,000 
+ Purchase @ 0.15 per share 
+ 
+ Tamara Chapman Revocable Trust 
+ 03/08/23 
+ Common Stock 
+ 333,333 
+ Purchase @ 0.15 per share 
+ 
+ John Comrie 
+ 03/08/23 
+ Common Stock 
+ 333,333 
+ Purchase @ 0.15 per share 
+ 
+ William Fitzpatrick 
+ 03/24/23 
+ Common Stock 
+ 100,000 
+ Professional Services 
+
+The
+securities issued in the above-mentioned transactions were issued in connection with private placements exempt from the registration
+requirements of Section 5 of the Securities Act of 1933, as amended, pursuant to the terms of Section 4(a)(2) of that Act and Rules 504
+and 506 of Regulation D. 
+
+9 
+
+ITEM
+6. [Removed and reserved] 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+
+The
+following discussion should be read in conjunction with the Company s audited financial statements and the notes thereto. 
+
+Forward-Looking
+Statements 
+
+This
+annual report contains forward-looking statements and information relating to the Company that are based on the beliefs of its management
+as well as assumptions made by, and information currently available to, its management. When used in this report, the words believe, 
+ anticipate, expect, estimate, intend , plan and similar expressions,
+as they relate to the Company or its management, are intended to identify forward-looking statements. These statements reflect management s
+current view of the Company concerning future events and are subject to certain risks, uncertainties and assumptions, including among
+many others: a general economic downturn; a downturn in the securities markets; federal or state laws or regulations having an adverse
+effect on proposed transactions that the Company desires to effect; Securities and Exchange Commission regulations which affect trading
+in the securities of penny stocks and other risks and uncertainties. Should any of these risks or uncertainties materialize,
+or should underlying assumptions prove incorrect, actual results may vary materially from those described in this report as anticipated,
+estimated or expected. The accompanying information contained in this registration statement, including, without limitation, the information
+set forth under the heading Management s Discussion and Analysis and Plan of Operation Risk Factors identifies
+important additional factors that could materially adversely affect actual results and performance. You are urged to carefully consider
+these factors. All forward-looking statements attributable to the Company are expressly qualified in their entirety by the foregoing
+cautionary statement. 
+
+Business
+Overview 
+
+Blue
+Biofuels, Inc (the Company is a technology company focused on emerging technologies in the renewable energy, biofuels,
+and bioplastics technologies sectors. 
+
+In
+early 2018, our chief executive officer CEO Ben Slager invented a new technology system referred to as Cellulose-to-Sugar
+or CTS, and the Company filed, and received, two patents for this technology. The CTS process is a continuous mechanical/chemical dry
+process for converting cellulose material into sugar and lignin. 
+
+The
+CTS system converts plant-based feedstock into one primary product, soluble sugars, which can be further processed into cellulosic ethanol
+and other biofuels like jet fuel, and potentially into bio chemicals. 
+
+The
+primary co-product of the CTS system is sulfur-free lignin. Our lignin potentially can be used in ion exchange resins or specialty chemicals.
+Lignin can also be burned as a renewable fuel. 
+
+In
+2022, the Company partnered with K.R. Komarek to build its CTS machines going forward. Komarek is an industry leading manufacturing company
+that builds briquetting machines and compaction/granulation systems with throughput capacities up to 50 tons per hour. The Company has
+begun successful testing on a Komarek-made machine at a throughput processing rate of 2.5 tons per day. The Company has designed a pilot
+plant around that machine and is in the process of completing the buildout of the plant. We anticipate having the pilot plant completed
+in Q1, 2023 and anticipate to continue testing it and optimizing parameters and sugar production in the first half of 2023. This pilot
+plant is designed to show successful volume production and scalability. 
+
+The
+Company expects to engage an engineering firm to design a semi-commercial scale pilot plant that integrates a larger CTS system into
+the pre-processing and post-processing elements of the plant. It is anticipated that the semi-commercial plant will have the capacity
+to produce sugar at a rate sufficient to make around 500,000 1,000,000 gallons of ethanol per year. The goal of the semi-commercial
+plant is to provide operating cost estimates of a full commercial volume system. Due to its mechanical nature and modularity, we anticipate
+that one plant would have multiple modular CTS systems, and that the semi-commercial plant would contain one such module. The Company
+expects to have the semi-commercial system ready in 2024. 
+
+10 
+
+Plan
+of Operation 
+
+The
+Company s strategy is to diversify its product portfolio to include a number of product lines. These potentially include (1) biofuels
+ such as ethanol, or converting ethanol into higher biofuels like jet-fuel and the like; (2) selling sulfur-free lignin to ion
+exchange resin producers; or, (3) using the sugars and lignin to make biochemicals. We believe that one or more of these co-products
+could potentially be profitable for the Company. 
+
+Our
+goal is to develop our CTS technology to a commercial scale and then seek to either enter into a joint venture with or acquire existing
+corn ethanol plants to install the CTS technology. The Company is also looking into converting ethanol to jet fuel. To minimize dilution
+to shareholders, we will seek project-based financing to build (or acquire and retrofit) or joint venture with existing ethanol producers
+to produce cellulosic ethanol and lignin and other specialty chemicals from our CTS system. We believe retrofitting existing plants with
+the CTS technology may achieve more rapid commercialization than building new plants. If its first plant is profitable, the Company intends
+to grow with additional plants in the United States and explore international growth by either licensing the technology or forming joint
+ventures with foreign domestic partners to build plants ourselves. 
+
+The
+Energy Policy Act of 2005, which included the Renewable Fuel Standard Program enforced by the US Environmental Protection Agency EPA ),
+mandates a certain amount of renewable fuel be blended into the transportation fuel used by all vehicles in the country. This Program
+provides monetary incentives to companies that produce renewable transportation fuel, and establishes Renewable Identification Numbers RINs or credits for each gallon of renewable transportation fuel produced in the United States, and breaks down those
+fuels into different D-codes depending on the source of the renewable fuel. D3 is the code for renewable ethanol that comes from cellulosic
+materials. (D6 is for corn ethanol). The value of the D3 RIN fluctuates, but as of this filing, it is approximately 1.95 per gallon
+of ethanol. To profit from these incentives, the Company plans to apply for these D3 RIN credits as it brings its first plant into commercial
+operation. 
+
+The
+Company believes that its management and consultants have significant experience in the development of technologies from concept to commercialization.
+As of this date, the Company has generated 194,319 in revenue, however it has not generated any revenues from its core business. 
+
+Capital
+Formation 
+
+From
+January 1, 2022 through the date of filing, 12,450,148 warrants were exercised for proceeds of 177,251. 
+
+From
+January 1, 2022 through the date of filing, 350,000 options were exercised for proceeds of 15,900. 
+
+From
+January 1, 2022, through the date of filing, the Company issued 11,671,662 shares at prices ranging from 0.15 to 0.15 per share for
+proceeds of 1,750,750. 
+
+From
+January 1, 2022 through the date of filing, the Company issued an aggregate of 952,119 shares of its common stock for services valued
+at 160,550. 
+
+From
+January 1, 2022 through the date of filing, the Company issued an aggregate of 77,333 warrants for services. Using a Black-Scholes asset-pricing
+model, these warrants were valued at 9,773. 
+
+Results
+of Operations 
+
+Comparison
+of the year ended December 31, 2022, to December 31, 2021 
+
+For
+the year ended December 31, 2022, the Company recognized 0 in revenue and also 0 in 2021. 
+
+For
+the year ended December 31, 2022, the Company s general and administrative expenses increased by 507,011 to 1,541,959 from 1,034,948
+in 2021. This increase is primarily due to the vesting and expensing of options in 2022 valued at 526,636, as compared to 31,104 non-cash
+stock compensation in 2021. 
+
+Interest
+expense decreased in the year ended December 31, 2022 by 4,366 to 29,406 from 33,772 in 2021. 
+
+For
+the year ended December 31, 2022, the Company received a loan forgiveness of 0 versus 66,330 in 2021. 
+
+Research
+and Development 
+
+The
+Company expenses all research and development costs as incurred. For the years ended December 31, 2022, and 2021, the amounts charged
+to research and development expenses were 2,350,218 and 1,103,436, respectively. The increase is largely due to the vesting of options
+in 2022 valued at 1,038,953, versus 0 in 2021. 
+
+11 
+
+Liquidity
+and Capital Resources 
+
+Liquidity 
+
+As
+of December 31, 2022, the Company had 211,901 in cash and total stockholders equity December 31, 2022, was negative 2,356,917.
+As of December 31, 2021 the Company had 1,164,664 in cash and total stockholders equity at December 31, 2021 was negative 1,396,046.
+Total debt, including advances, accounts payable and other notes payable at December 31, 2022, together with interest payable thereon
+and contingent liabilities, was 3,462,835 an increase of 228,542 from December 31, 2021, where it stood at 3,234,293. This increase
+is primarily attributable to a renewal of the lease which increased liabilities by 108,809. 2,738,132 of the remaining debt was renegotiated
+to be payable out of future revenue or future profits and otherwise does not come due. 
+
+During
+the fiscal year ended December 31, 2022, the Company s operating expenses increased 1,760,408 to 3,932,276 from 2,171,868 in
+2021. This increase can primarily be attributed to equity based compensation of 1,565,589 in 2022 due to the vesting of options. 
+
+During
+the fiscal year ended December 31, 2022, the Company s investing activities used 205,502 in cash. This can be attributed to 138,170
+used to purchase machinery and equipment, and 67,350 in patent costs. These are to be compared with 233,132 in cash used in fiscal
+year ended December 31, 2021, which consisted of 216,390 used to purchase machinery and equipment, and 16,742 in patent expenses. 
+
+During
+the fiscal year ended December 31, 2022, the Company generated an aggregate of 1,288,900 through its financing activities, which is
+a decrease of 2,287,567 from 3,576,467 raised during fiscal year ended December 31, 2021. This decrease from the prior year can be
+attributed to 1,168,000 raised in private placements as compared to 2,260,750 in 2021, and 120,900 received from the exercise of warrants
+as compared to 1,315,717 in 2021. 
+
+Capital
+Resources 
+
+At
+this time, the Company has limited liquidity and capital resources. To continue funding its operations, the Company will need to generate
+revenue or obtain additional financing for current and future operations. The Company anticipates needing around 15 million to optimize
+and scale up its CTS system to be commercially ready. The Company anticipates reaching this stage in around 12-18 months. There is no
+guarantee that we will achieve all of the additional funding that is needed. 
+
+As
+of the date of filing, the Company has raised 655,001 through a private placement and the exercise of warrants in 2023, 1,288,900 in
+2022, through the issuance of common stock and the exercise of warrants and options, in addition to 14,826,952 raised through the end
+of 2021 through its private placement offerings, and in addition to capital raised through debt or convertible notes. However, there
+is no guarantee that the company will be able to raise any additional capital on terms acceptable to the Company. 
+
+The
+inability to obtain this funding either in the near term and/or longer term will materially affect the ability of the Company to implement
+its business plan of operations and jeopardize the viability of the Company. In that case, the Company may need to re-evaluate and revise
+its operations. 
+
+Going
+Concern 
+
+The
+Company has incurred losses since inception, and it may be unable to raise further capital. At December 31, 2022, the Company had a working
+capital deficit of 383,700 and had incurred accumulated losses of 52,781,586 since its inception. The Company expects to incur significant
+additional losses in connection with its continued start-up activities. As disclosed in Note 2 to the financial statements, there is
+substantial doubt as to the Company s ability to continue as a going concern based upon recurring operating losses and its need
+to obtain additional financing to sustain operations. The Company s ability to continue as a going concern is dependent upon its
+ability to obtain the necessary financing to meet its obligations and repay its liabilities when they become due and to generate sufficient
+revenues from its operations to pay its operating expenses. 
+
+Equity 
+
+As
+of December 31, 2022, shareholders equity was negative (2,356,917). 
+
+There
+were 289,941,623 shares of common stock issued and outstanding as of December 31, 2022. 
+
+There
+were no preferred shares outstanding. 
+
+The
+Company has paid no dividends. 
+
+12 
+
+Critical
+Accounting Policies 
+
+Basis
+of Presentation 
+
+The
+accompanying consolidated financial statements of the Company were prepared in accordance with generally accepted accounting principles
+in the U.S. U.S. GAAP and include the assets, liabilities, revenues and expenses of the Company s majority-owned
+subsidiaries over which the Company exercised control, if any, and there are currently none. 
+
+Principles
+of Consolidation 
+
+The
+Company s consolidated financial statements include the accounts of the Company and its then-existing subsidiaries, after elimination
+of intercompany accounts and transactions. Investments in business entities in which the Company lacks control but has the ability to
+exercise significant influence over operating and financial policies are accounted for using the equity method. The Company s proportionate
+share of net income or loss of the entity is recorded in the Consolidated Statements of Earnings. 
+
+Use
+of Estimates 
+
+The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States requires management
+to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and
+liabilities as of the dates presented and reported amounts of revenues and expenses during the reporting periods presented. Significant
+estimates inherent in the preparation of the accompanying Consolidated Financial Statements include estimates of impairment assessment
+of identifiable intangible assets and valuation allowance for deferred tax assets. Estimates are based on past experience and other considerations
+reasonable under the circumstances. Actual results may differ from these estimates. 
+
+Stock
+Compensation 
+
+The
+Company recognizes the cost of all share-based payments under the relevant authoritative accounting guidance. Share-based payments include
+any remuneration paid by the Company in shares of the Company s common stock or financial instruments that grant the recipient
+the right to acquire shares of the Company s common stock. For share-based payments to employees, which consist only of awards
+made under the stock option plan described below, the Company accounts for the payments in accordance with the provisions of ASC Topic
+718, Stock Compensation (formerly referred to as SFAS No. 123(R)). Share-based payments to consultants, service providers
+and other non-employees are accounted for under in accordance with ASC Topic 718, ASC Topic 505, Equity Payments to Non-Employees 
+or other applicable authoritative guidance. 
+
+Impairment
+of Long-Lived Assets 
+
+Long-lived
+assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset group may
+not be recoverable. If events or changes in circumstances indicate that the carrying amount of an asset group may not be recoverable,
+the Company compares the carrying amount of the asset group to future undiscounted net cash flows, excluding interest costs, expected
+to be generated by the asset group and their ultimate disposition. If the sum of the undiscounted cash flows is less than the carrying
+value, the impairment to be recognized is measured by the amount by which the carrying amount of the asset group exceeds the fair value
+of the asset group. Assets to be disposed of are reported at the lower of the carrying amount or fair value, less costs to sell. The
+Company monitors its investment for impairment at least annually and makes appropriate reductions in the carrying value if it determines
+that an impairment charge is required based on qualitative and quantitative information. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+As
+a smaller reporting company as defined by Item 10 of Regulation S-K, the Company is not required to provide information
+required by this Item. 
+
+Item
+8. Financial Statements and Supplementary Data. 
+
+Set
+forth below are the audited financial statements for the Company for the years ended December 31, 2022, and December 31, 2021, and the
+report thereon of Pragermetis, P.A. 
+
+13 
+
+Blue
+Biofuels, Inc. 
+
+ Financial
+Statements 
+
+ Years
+Ended December 31, 2022, and 2021 
+
+Index
+to Financial Statements Page 
+
+Page 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ F-2 
+
+Consolidated Balance Sheets as of December 31, 2022, and December 31, 2021. 
+ F-3 
+
+Consolidated Statements of Operations for the years ended December 31, 2022, and December 31, 2021. 
+ F-4 
+
+Consolidated Statements of Changes in Stockholder s Equity for the years ended December 31, 2022, and December 31, 2021. 
+ F-5 
+
+Consolidated Statements of Cash Flows for the years ended December 31, 2022, and December 31, 2021. 
+ F-6 
+
+Notes to the Consolidated Financial Statements 
+ F-7 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Stockholders of 
+
+ Blue
+Biofuels, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Blue Biofuels, Inc. (the Company) as of December 31, 2022 and 2021, and
+the related consolidated statements of operations, stockholders equity, and cash flows for the years then ended, and the related
+notes (collectively referred to as the consolidated the financial statements). In our opinion, the consolidated financial statements
+present fairly, in all material respects, the consolidated financial position of the Company as of December 31, 2022 and 2021, and the
+results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in
+the United States of America. 
+
+Going
+Concern 
+
+The
+accompanying consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the
+United States, which contemplate continuation of the Company as a going concern. As described in Note 2 to the consolidated financial
+statements, the Company has not generated any significant revenue since inception and has incurred losses since inception. As of December
+31, 2022, the Company has incurred losses of 52,781,586. The Company expects to incur significant additional losses and liabilities
+in connection with its start-up and commercialization activities. These factors, among others, raise substantial doubt about the ability
+of the Company to continue as a going concern. Continuation as a going concern is dependent on the ability to raise additional capital
+and financing, though there is no assurance of success. Management s plans in regard to these matters are also described in Note
+2 to the accompanying consolidated financial statements. 
+
+Basis
+for Opinion 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance
+with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.
+The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part
+of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing
+an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements.
+We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+We
+determined that there are no critical audit matters. 
+
+/s/
+
+We have served as the Company s auditor since 2020. Our Auditor Firm ID is . 
+
+March 31, 2023 
+
+F- 2 
+
+Blue
+Biofuels, Inc. 
+
+ Formerly
+known as Alliance Bioenergy Plus, Inc. 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ ASSETS 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Prepaid expenses 
+
+TOTAL CURRENT ASSETS 
+
+Other assets 
+
+Property and equipment, net of accumulated depreciation and amortization of and at December 31, 2022 and December 31,2021, respectively 
+
+Security deposits 
+
+Right of Use Assets, net of accumulated amortization 
+
+Patents 
+
+TOTAL OTHER ASSETS 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current liabilities 
+
+Accounts payable 
+
+Accounts payable - Related Party 
+
+Deferred wages and director s fees - Related party 
+
+Right of Use Lease Liability - Current 
+
+Chapter 11 Settlement 
+
+Interest Payable - Related Party 
+
+TOTAL CURRENT LIABILITIES 
+
+Long term liabilities 
+
+Right of Use Lease Liability, net of current portion 
+
+Notes Payable Related Party 
+
+Notes Payable Other 
+
+TOTAL LONG TERM LIABILITIES 
+
+TOTAL LIABILITIES 
+
+STOCKHOLDERS EQUITY (DEFICIT) 
+
+Preferred stock; par value; shares authorized; shares issued and outstanding 
+ - 
+ - 
+ 
+ Common stock; par value; shares authorized; issued and outstanding at December 30, 2022, and issued and outstanding at December 30, 2021. 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders equity (deficit) 
+
+TOTAL EQUITY (DEFICIT) 
+
+TOTAL LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+The
+accompanying notes are an integral part of these consolidated financial statements 
+
+F- 3 
+
+Blue
+Biofuels, Inc 
+
+ Formerly
+known as Alliance Bioenergy Plus, Inc. 
+
+ CONSOLIDATED
+STATEMENT OF OPERATIONS 
+
+2022 
+ 2021 
+
+Year Ended 
+
+31-Dec 
+
+2022 
+ 2021 
+ 
+ Revenues 
+ - 
+ - 
+ 
+ Operating expense: 
+
+General and administrative 
+
+Research Development 
+
+Loss on disposal of assets 
+
+Total operating expenses 
+
+Loss from operations: 
+
+Other (income) expense: 
+
+Loan Forgiveness 
+ - 
+
+Common Stock Recission 
+
+Interest expense - related party 
+
+Interest expense - other 
+
+Total other (income) expense 
+
+Income (Loss) before provisions for income taxes 
+
+Provisions for income taxes 
+ - 
+ - 
+ 
+ Net Income / (Loss): 
+
+Net income (loss) per share 
+
+Weighted average common shares outstanding 
+
+Basic 
+
+The
+accompanying notes are an integral part of these consolidated financial statements 
+
+F- 4 
+
+Blue
+Biofuels, Inc. 
+
+ Formerly
+known as Alliance Bioenergy Plus, Inc. 
+
+ CONSOLIDATED
+STATEMENTS OF STOCKHOLDERS EQUITY (DEFICIT) 
+
+Shares 
+ Amount 
+ Shares 
+ Amt 
+ Capital 
+ Deficit 
+ (Deficit) 
+
+Common Stock 
+ Preferred Stock 
+ Additional Paid-in 
+ Accumulated 
+ Total Stockholder s 
+
+Shares 
+ Amount 
+ Shares 
+ Amt 
+ Capital 
+ Deficit 
+ (Deficit) 
+ 
+ Balance as of December 31, 2021 
+
+- 
+ - 
+
+Issuance of common stock for services 
+
+Issuance of warrants for services 
+
+- 
+
+Warrants exercised 
+
+Issuance of common stock and warrants for cash through PPM 
+
+- 
+ - 
+
+Issuance of common stock in exchange for debt 
+ - 
+
+- 
+ 
+ Vesting of options under the employee, director plan 
+
+- 
+ - 
+
+Employee stock options exercised 
+
+Stock Recinded 
+
+Net Income (Loss) 
+
+Balance as of December 31, 2022 
+
+- 
+ - 
+
+Balance as of December 31, 2020 
+
+- 
+ - 
+
+Issuance of common stock for services 
+
+- 
+ - 
+ 
+ - 
+
+Issuance of warrants for services 
+ 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Issuance of warrants for services 
+ 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Warrants exercised 
+
+- 
+ - 
+ 
+ - 
+
+Issuance of common stock and warrants for cash through PPM 
+
+- 
+ - 
+ 
+ - 
+
+Issuance of common stock in exchange for debt 
+
+- 
+ - 
+ 
+ - 
+
+Vesting of options under the employee, director plan 
+ 
+ - 
+
+Vesting of options under the employee, director plan 
+ 
+ - 
+
+Employee stock options exercised 
+
+- 
+ - 
+ 
+ - 
+
+Cashless exercise of stock options 
+
+- 
+ - 
+ 
+ - 
+ - 
+ 
+ Net Income (Loss) 
+
+Balance as of December 31, 2021 
+
+- 
+ - 
+
+The
+accompanying notes are an integral part of these consolidated financial statements 
+
+F- 5 
+
+Blue
+Biofuels, Inc. 
+
+ Formerly
+known as Alliance Bioenergy Plus, Inc. 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+31-Dec-22 
+ 
+ 31-Dec-21 
+
+For the Year Ended 
+ For the Year Ended 
+
+31-Dec-22 
+ 31-Dec-21 
+ 
+ Cash flows from operating activities 
+
+Net Income (Loss) 
+
+Reconciliation of net loss to net cash used in operating activities 
+
+Depreciation and amortization 
+
+Stock based compensation for services 
+
+Recission of stock 
+
+Net Issuance of options and warrants for services 
+
+Loss on Disposal of assets 
+
+Changes in operating assets and liabilities 
+
+Prepaid expenses 
+
+Accrued interest - related party 
+
+Accounts payable and accrued liabilities 
+
+Forgiveness of PPP Loan 
+
+Right of use lease 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities 
+
+Net purchase of property and equipment 
+
+Security deposits 
+ - 
+ - 
+ 
+ Patent Costs 
+
+Net cash from used in investing activities 
+
+Cash flows from financing activities 
+
+Proceeds from exercise of warrants and options 
+
+Net proceeds from issuance of common stock 
+
+Net cash provided by financing activities 
+
+Net increase (decrease) in cash and cash equivalents 
+
+Cash and cash equivalent at beginning of the period 
+
+Cash and cash equivalent at end of the period 
+
+Supplemental disclosure of cash flow information 
+
+Cash paid during the period for 
+
+Interest 
+ - 
+ - 
+ 
+ Taxes 
+ - 
+ - 
+
+Supplemental schedule of non-cash activities 
+
+Conversion of convertible debenture to common stock 
+ - 
+
+The
+accompanying notes are an integral part of these consolidated financial statements 
+
+F- 6 
+
+Blue
+Biofuels, Inc. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+. The Company expects to incur significant
+additional losses and liabilities in connection with its start-up and commercialization activities. These factors, among others, raise
+substantial doubt as to the Company s ability to continue as a going concern. The Company s ability to continue as a going
+concern is dependent upon its ability to obtain the necessary financing to meet its obligations and repay its liabilities when they become
+due and to generate sufficient revenues from its operations to pay its operating expenses. These factors, among others, raise substantial
+doubt about the Company s ability to continue as a going concern. These financial statements do not include any adjustments related
+to the recoverability and classifications of recorded asset amounts, or amounts and classifications of liabilities that might result
+from this uncertainty. There are no assurances that the Company will continue as a going concern. 
+
+Management
+believes that the Company s future success is dependent upon its ability to achieve profitable operations, generate cash from operating
+activities, and obtain additional financing. There is no assurance that the Company will be able to generate sufficient cash from operations,
+or sell additional shares of stock or borrow additional funds. The Company s inability to obtain additional cash could have a material
+adverse effect on its financial position, results of operations, and its ability to continue in existence. These financial statements
+do not include any adjustments that might result from the outcome of this uncertainty. 
+
+The
+COVID-19 pandemic has negatively affected the U.S. and global economies, disrupted global supply chains, resulted in significant travel
+and transport restrictions, including mandated closures and orders to shelter-in-place, and created significant disruption
+of the financial markets. We are closely monitoring the impact of the COVID-19 pandemic on all aspects of our business, including how
+it will impact our supply chain, employees, and potential future customers. Our office and lab have remained open during the pandemic.
+Nevertheless, the pandemic slowed our ability to commercialize our process in two ways: by adversely affecting our ability to raise capital,
+and by adversely affecting the supply chain of laboratory equipment and various parts of upgrades to our CTS system, which slowed the
+development of our prototypes. Supply chain issues also delayed the delivery of various parts of our pilot plant. The extent to which
+our operations may be further impacted by the COVID-19 pandemic will depend largely on future developments, which are highly uncertain
+and cannot be accurately predicted. We may experience additional operating costs due to increased challenges with our workforce (including
+as a result of illness, absenteeism or government orders), access to supplies, capital, and fundamental support services (such as shipping
+and transportation). Even after the COVID-19 pandemic has subsided, we may experience materially adverse impacts to our business due
+to any resulting economic recession or depression. Furthermore, the effects of a potential worsening of global economic conditions and
+the continued disruptions to and volatility in the financial markets remain unknown. 
+
+Expected
+ life 
+ 
+ years 
+ 
+ years 
+ 
+ years 
+ 
+ years 
+ 
+ years 
+ 
+ Expected
+ dividends 
+
+Expected
+ volatility 
+
+ALLM common
+ stock fair value 
+
+1/5/22 
+ 4/19/22 
+ 6/21/22 
+ 9/30/22 
+ 12/30/22 
+ 
+ Risk-free interest rate 
+
+Expected life 
+ years 
+ years 
+ years 
+ years 
+ years 
+ 
+ Expected dividends 
+
+Expected volatility 
+
+BIOF common stock fair value 
+
+to years. Expenditures for additions and improvements are capitalized; repairs and maintenance are
+expensed as incurred. 
+
+and , respectively. 
+
+Machinery and Equipment 
+
+Furniture and Fixtures 
+
+Computer Equipment 
+
+Property and Equipment, gross 
+
+Less Accumulated Depreciation 
+
+Property and Equipment 
+
+Total
+depreciation expense was and for the years ended December 31, 2022, and 2021, respectively. 
+
+In
+the fiscal year ended December 31, 2022, The Company disposed of laboratory equipment and machinery that was no longer in use for a total
+of that originally was purchased for and that had accumulated depreciation of , thereby taking a loss of 
+on the disposal of assets. In fiscal year ended December 31, 2021, the Company disposed of laboratory equipment and machinery purchased
+for and that had accumulated depreciation of , taking a loss on disposal of assets of . 
+
+as of December 31, 2022. 
+
+Notes
+Payable Related Parties 
+
+In
+July 2016, the Company issued six (6) short-term notes payable to related parties in conjunction with the Company s acquisition
+of the remaining 49 of AMG Energy Group. These notes had a value of 2,002,126 and accrued interest at a rate of six percent (6 per
+annum. As of December 31, 2018, and December 31, 2017, the total interest accrued on the notes was 278,795 and 176,460 respectively.
+All of the notes were due on August 4, 2017 and then were in default. However, the notes were held by related parties with the understanding
+that the notes were not to be paid until the Company begins generating profit. The Company renegotiated some of these notes during its
+Chapter 11 proceedings, whereas others failed to submit a claim and were discharged upon the Court s Confirmation Order approving
+the Company s Chapter 11 Plan on September 18, 2019. The renegotiated amounts, as per the Plan Confirmation are all to be paid
+from 50 of the future net profits and discharged to the extent unpaid five years after the Plan effective date of September 18, 2019.
+These amount are 1) Mark Koch 240,990 plus 6 interest on any portion not repaid within 12 months of the Company s first reported
+quarterly net profit; 2) Animated Family Films 579,942 out of the Company s net profits plus 6 interest; 3) Steven Dunkle, CTWC,
+ Wellington Asset Holdings 1.5 million plus 6 interest once there is positive quarterly EBITDA from the first plant of Company,
+or, at its option, may convert that into an equity investment in the first plant of the Company, measured by a percentage of the total
+cost to build, subject to a minimum equity interest of 1.25 in said plant. 
+
+On
+February 28, 2018, the Company entered into a short-term loan with Steven Sadaka, with a principal balance of 100,000 due and payable
+on May 1, 2018. The note does not accrue interest, however the Company provided 2,000,000 inducement shares to secure the note. These
+inducement shares were valued at 84,000 and are being amortized over the life of the note. The note s maturity date was extended
+to 7/1/2018. If the note is not repaid at maturity, then an additional 5,000,000 shares of common stock will be due. The note was renegotiated
+during the Company s Chapter 11 proceedings, and as per the Plan Confirmation, it is agreed that 100,000 is to be paid out of
+future gross revenues to satisfy this note in full, with no additional shares to be issued. 
+
+On
+May 15, 2018, the Company entered into a short term loan with Christopher Jemapete, with a principal balance of 50,000 due and payable
+on May 16, 2019. The note carried an interest rate of 5 plus the company issued 1,250,000 inducement shares to secure the note as well
+as 1,000,000 warrants with a 0.10 strike price and with a 5-year expiration. These inducement shares were valued at 36,250 and are
+being amortized over the life of the note; the warrants had a value of 24,449. On August 25, 2018, this note was restructured to remove
+the warrants. As of June 30, 2018 accrued interest on this note is 315. The note was renegotiated during the Company s Chapter
+11 proceedings, and as per the Plan Confirmation, it is agreed that 50,315 is to be paid out of future gross revenues. 
+
+On
+May 15, 2018, the Company entered into a short term loan with Pamela Jemapete, with a principal balance of 50,000 due and payable on
+May 16, 2019. The note carried an interest rate of 5 plus the company issued 1,250,000 inducement shares to secure the note as well
+as 1,000,000 warrants with a 0.10 strike price and with a 5-year expiration. These inducement shares were valued at 36,250 and are
+being amortized over the life of the note; the warrants had a value of 24,449. On August 25, 2018, this note was restructured to remove
+the warrants. As of June 30, 2018 accrued interest on this note is 315. The note was renegotiated during the Company s Chapter
+11 proceedings, and as per the Plan Confirmation, it is agreed that 50,315 is to be paid out of future gross revenues. 
+
+Notes
+Payable Other 
+
+In
+July 2016, the Company issued a short-term note payable to a third party in conjunction with the Company s acquisition of the remaining
+49 of AMG Energy Group. The note had a principal balance of 96,570 and accrued interest at a rate of six percent (6 per annum. As
+of December 31, 2018, and December 31, 2017, the total interest accrued on the note was 14,382 and 8,588 respectively. The note was
+due on August 4, 2017 and was then in default. The Company renegotiated this note during its Chapter 11 proceedings, and as per the Plan
+Confirmation, now the 96,570 is to be paid with no interest out of the same 50 of the future net profits of the Company as the notes
+mentioned above, if any, or discharged to the extent unpaid five years after September 18, 2019. 
+
+In
+November 2017, the Company entered into a convertible debenture with Lucas Hoppel, with a principal balance of 143,000 due and payable
+on May 30, 2018. The note carries an 8 one-time interest charge, a 43,000 original issue discount and a 35 conversion discount to
+the lowest trade price in the prior twenty-five trading days, after 180 days, in whole or in part at the option of the holder. In addition,
+the Company provided 500,000 inducement shares to secure the note, and may have to provide additional shares on the note s 6-month
+anniversary if the Company s share price declines. These inducement shares were valued at 39,500 and were amortized over the life
+of the note. The note can be repaid, without prepayment penalties, within the first 90 days. Thereafter, the note will incur a 120 prepayment
+penalty of the then outstanding principal and interest due. In May 2018, the company made two principal payments totaling 40,000. The
+note went into default on June 1, 2018 and incurred a 40 penalty of the outstanding balance immediately prior to the default event.
+On August 30, 2018, Hoppel sued the Company in Superior Court of the State of California County of San Diego Central District. That case
+was staid on October 22, 2018 when the Company filed for Chapter 11 protection in the US Bankruptcy Court in the Southern District of
+Florida. Negotiations took place and a settlement was reached on this note and a subsequent note, and confirmed as part of the Plan Confirmation
+Order, that Hoppel would be paid a total of 100,000 out of 5 of the future gross revenue of the Company. 
+
+In
+February 2018, the Company entered into a convertible debenture with Lucas Hoppel, with a principal balance of 165,000 due and payable
+on September 21, 2018. The note carries an 8 one-time interest charge, a 15,000 original issue discount and a 40 conversion discount
+to the lowest trade price in the prior twenty-five trading days, after 180 days, in whole or in part at the option of the holder. In
+addition, the Company provided 500,000 inducement shares to secure the note. These inducement shares were valued at 14,500, and were
+amortized over the life of the note. The note can be repaid, without prepayment penalties, within the first 90 days. Thereafter, the
+note will incur a 120 prepayment penalty of the then outstanding principal and interest due. The Note went into default on June 1, 2018,
+through a cross default provision with another Note to Hoppel, and incurred a 40 penalty of the outstanding balance immediately prior
+to the default event. On August 30, 2018, Hoppel sued the Company in Superior Court of the State of California County of San Diego Central
+District. That case was staid on October 22, 2018 when the Company filed for Chapter 11 protection in the US Bankruptcy Court in the
+Southern District of Florida. Negotiations took place and a settlement was reached on this note and a prior note, and confirmed as part
+of the Plan Confirmation Order, that Hoppel would be paid a total of 100,000 out of 5 of the future gross revenue of the Company to
+settle both notes. 
+
+On
+March 27, 2019, the Company entered into an agreement with another creditor, such that its debt will be reduced from 32,000 to 20,000
+payable out of future gross revenues, upon the bankruptcy court s acceptance of the Company s plan of reorganization. The
+Plan was confirmed by the Court on September 18, 2019. 
+
+Long Term Notes Payable from future revenue Related Party 
+
+Long Term Notes Payable from future revenue Other 
+
+Long Term Note Payable from future profits Related Party 
+
+Long Term Note Payable from future profits Other 
+
+TOTAL NOTES 
+
+Of
+the 2,788,132 due as of September 30, 2022, 2,738,132 is due out of future revenue or future profits. 2,417,502 of the 2,788,132
+will be discharged if not paid by September 18, 2024, which is 5 years after the Company exited Chapter 11. The remaining debt that would
+not be discharged is 370,630, consisting of 200,630 due to related parties, 120,000 due to other, and a 50,000 Chapter 11 settlement. 
+
+million, million of which are designated
+as common stock at par value (the Common Stock and million of which are designated as preferred stock par value
+ (the Preferred Stock ). As of December 31, 2022, the Company had shares of Common Stock issued and outstanding
+and shares of Preferred Stock were issued. Holders of shares of Common stock shall be entitled to cast one vote for each share held
+at all stockholders meetings for all purposes, including the election of directors. The Common Stock does not have cumulative
+voting rights. No holder of shares of stock of any class shall be entitled as a matter of right to subscribe for or purchase or receive
+any part of any new or additional issue of shares of stock of any class, or of securities convertible into shares of stock of any class,
+whether now hereafter authorized or whether issued for money, for consideration other than money, or by way of dividend. The Company
+has yet to designate any rights, preferences and privileges for any of its authorized Preferred Stock. 
+
+In
+the year ended December 31, 2022, the company issued an aggregate of shares of its common stock for services, valued at . 
+
+In
+the year ended December 31, 2022, the Company issued an aggregate of warrants for services. Using a Black-Scholes asset pricing
+model, these were valued at . The Company also issued an aggregate of unvested warrants for services to be performed.
+The services were not performed, and the warrants expired in 2023. 
+
+In
+the year ended December 31, 2022, warrants were exercised for proceeds of . 
+
+In
+the year ended December 31, 2022, employee stock options were exercised for proceeds of . 
+
+In
+the year ended December 31, 2022, shares of common stock were rescinded. 
+
+In
+the year ended December 31, 2022, the Company issued common shares for cash through private placements of . 
+
+In
+the year ended December 31, 2022, the Company issued options under its Employee Directors Stock Option Plan to purchase an aggregate
+of shares of common stock for a period of ten years at an exercise price of . Using a Black-Scholes asset-pricing model,
+these agreements were valued at . Only of those options vested in 2022. A total of options vested. The vested
+options were valued at . 
+
+In
+the year ended December 31, 2021, the company issued an aggregate of shares of its common stock for services, valued at . 
+
+In
+the year ended December 31, 2021, the Company issued an aggregate of warrants for services. Using a Black-Scholes asset pricing
+model, these were valued at . 
+
+In
+the year ended December 31, 2021, warrants were exercised at an average price of cents for total proceeds of . 
+
+In
+the year ended December 31, 2021, employee stock options were exercised for proceeds of . 
+
+In
+the year ended December 31, 2021, employee stock options were exercised using the cashless exercise provision to obtain 
+shares. 
+
+In
+the year ended December 31, 2021, the Company issued common shares for cash through private placements of . 
+
+In
+the year ended December 31, 2021, of convertible notes issued during Chapter 11 to various parties converted into 
+shares of common stock. 
+
+In
+the year ended December 31, 2021, the Company issued options under its Employee Directors Stock Option Plan to purchase an aggregate
+of shares of common stock for a period of five to ten years at an exercise price ranging from to . Using a Black-Scholes
+asset-pricing model, these agreements were valued at . Only of those vested in 2021, along with an additional 
+options. The vested options were valued at . 
+
+Share-Based
+Awards 
+
+Awarded 
+
+Exercised 
+
+- 
+
+Expired or Rescinded 
+
+- 
+
+Outstanding as of December 31, 2022 
+
+Vested as of December 31, 2022 
+
+Option Shares Outstanding 
+ Weighted Average Exercise Price 
+ Weighted Average Remaining Contractual Term
+ (years) 
+ Aggregate Intrinsic Value 0 s) 
+ 
+ Outstanding as of December 31, 2020 
+
+Awarded 
+
+Exercised 
+
+- 
+
+Expired 
+
+- 
+
+Outstanding as of December 31, 2021 
+
+Vested as of December 31, 2021 
+
+Awarded 
+
+Exercised 
+
+- 
+
+Expired 
+
+- 
+
+Outstanding as of December 31, 2022 
+
+Vested as of December 31, 2022 
+
+Warrants Outstanding 
+ Weighted Average Exercise Price 
+ Weighted Average Remaining Contractual Term (years) 
+ Aggregate Intrinsic Value 0 s) 
+ 
+ Outstanding as of December 31, 2020 
+
+Awarded or received from note conversions 
+
+Exercised 
+
+- 
+
+Expired 
+
+- 
+
+Outstanding as of December 31, 2021 
+
+Vested as of December 31, 2021 
+
+for years ending December 31, 2022, and 2021, to the Company s
+effective tax rate, is as follows: 
+
+- 
+ 
+ State income tax, net of federal
+ benefits 
+ - 
+ - 
+ 
+ Valuation
+ Allowance 
+
+Income
+ tax provision (benefit) 
+
+State 
+
+Current 
+
+Deferred 
+
+Change
+ in valuation allowance 
+
+Income
+ tax provision (benefit) 
+ - 
+ - 
+
+Total deferred tax assets 
+
+Valuation
+ Allowance 
+
+Deferred
+ tax asset, net of allowance 
+ - 
+ - 
+
+As
+of December 31, 2022, and 2021, the Company had approximately and of Federal net operating loss carryovers NOLs to offset taxable income, if any, in future years which begin to expire in . . 
+
+In
+assessing the realization of deferred tax assets, management considers whether it is more likely than not that some portion or all of
+the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future
+taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal
+of deferred tax liabilities, projected future taxable income and tax planning strategies in making this assessment. Based on the assessment,
+management has established a full valuation allowance against the entire deferred tax asset relating to NOLs for every period because
+it is more likely than not that all of the deferred tax asset will not be realized. 
+
+On
+December 22, 2017, the Tax Cuts and Jobs Act of 2017 (the Tax Act was signed into law making significant changes to the
+Internal Revenue Code. Changes include, but are not limited to, a federal corporate tax rate decrease from to for tax years beginning
+after December 31, 2017, the transition of U.S international taxation from a worldwide tax system to a territorial system, and a one-time
+transition tax on the mandatory deemed repatriation of foreign earnings. The Company has estimated its provision for income taxes in
+accordance with the Tax Act and guidance available. 
+
+The
+Company files U.S. Federal and Florida tax returns that are subject to audit by tax authorities. The Company s policy is to classify
+assessments, if any, for tax and related interest and penalties as tax expense. 
+
+. Annual rent commenced at per annum and increased per year. The latest amendment adjusted to lease
+to per annum and increases at per year. Tenant is also required to cover operating costs that are estimated at per
+month. Operating lease expense is recognized on a straight-line basis over the lease term and is included in General Administrative
+expenses. 
+
+ASC
+842 was effective for us beginning January 1, 2019. The adoption had a material impact on our consolidated balance sheets, but did not
+have a material impact on our consolidated income statements. The most significant impact was the recognition of ROU assets and lease
+liabilities for operating leases. 
+
+Amortized
+lease expense for the years ending December 31, 2022, and 2021, were and , respectively. 
+
+Long-term portion 
+
+TOTAL 
+
+2024 
+
+2025 
+
+TOTAL 
+
+shares for services valued at . 
+
+Subsequent to December 31, 2022, warrants expired. 
+
+Subsequent to December 31, 2022, options expired. 
+
+Subsequent
+to December 31, 2022, warrants were exercised for total proceeds of . 
+
+Subsequent
+to December 31, 2022, employee stock options vested. These have a Black-Scholes valuation of . 
+
+Subsequent
+to December 31, 2022, 
+employee stock options were issued, 
+of which are unvested. 
+million of those vest upon deliverables, and all from the date of issuance with strike prices between 
+and .
+Using the Black-Scholes option pricing method, these were valued at . 
+
+Subsequent
+to December 31, 2022, shares were issued in private placements for proceeds of . 
+
+Subsequent
+to December 31, 2022, the company issued a convertible note to a related party for . If it is not paid back by July 4, 2023,
+it automatically converts into common stock at 13 cents per share for a total of shares. 
+
+F- 20 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+There
+were no changes in the Company s independent registered accounting firm, nor any disagreements between the Company and its independent
+registered accounting firm. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+We
+maintain disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act). Disclosure controls and procedures
+refer to controls and other procedures designed to ensure that information required to be disclosed in the reports we file or submit
+under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the
+SEC and that such information is accumulated and communicated to our management, including our chief executive officer and chief financial
+officer, as appropriate, to allow timely decisions regarding required disclosure. 
+
+As
+required by Rule 13a-15(e) of the Exchange Act, our management has carried out an evaluation, with the participation and under the supervision
+of our chief executive officer and chief financial officer, of the effectiveness of the design and operation of our disclosure controls
+and procedures, as of December 31, 2022. Based upon, and as of the date of this evaluation, our chief executive officer and chief financial
+officer determined that our disclosure controls and procedures were sufficient. 
+
+Management s
+Annual Report on Internal Controls over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)).
+The Company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally
+accepted in the United States of America. Because of its inherent limitations, internal control over financial reporting may not prevent
+or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls
+may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Under the supervision and with the participation of management, including the Chief Executive Officer and Chief Financial Officer, the
+Company conducted an evaluation of the effectiveness of the Company s internal control over financial reporting as of December
+31, 2022 using the criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission COSO ). 
+
+A
+material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a
+reasonable possibility that a material misstatement of the Company s annual or interim financial statements will not be prevented
+or detected on a timely basis. In its assessment of the effectiveness of internal control over financial reporting as of December 31,
+2022, the Company determined that there were no control deficiencies that constituted material weaknesses. The Company has an independent
+financial expert on its Audit Committee and an Audit Committee consisting entirely of independent directors; the Company backs up all
+financial data and material agreements in the cloud so that in the event of theft, misplacement, or loss due to fire or other unmitigated
+factors, the Company should still retain all of its material financial data and agreements. 
+
+As
+a result, management has concluded that the Company maintains effective internal control over financial reporting as of December 31,
+2022, based on criteria established in Internal Control Integrated Framework issued by COSO. 
+
+Material
+weaknesses in our disclosure controls and procedures may be identified in the future. Should we discover such conditions, we intend to
+remediate them as soon as practicable. We are committed to taking appropriate steps for remediation, as needed. 
+
+All
+internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective
+can provide only reasonable assurance with respect to financial statement preparation and presentation. Also, projections of any evaluation
+of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+has been no change in our internal control over financial reporting identified in connection with our evaluation we conducted of the
+effectiveness of our internal control over financial reporting as of December 31, 2022. The Company has an independent financial expert
+on its Audit Committee, and the Company now backs up all financial data and material agreements in the cloud so that in the event of
+theft, misplacement, or loss due to fire or other unmitigated factors, the Company should still retain all of its material financial
+data and agreements. In addition, the Company now has multiple persons reviewing and reconciling the bank account and our financial data. 
+
+This
+annual report does not include an attestation report of the Company s registered public accounting firm regarding internal control
+over financial reporting. Management s report was not subject to attestation by the Company s registered public accounting
+firm pursuant to temporary rules of the SEC that permit the Company to provide only management s report in this annual report. 
+
+14 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Directors,
+Executive Officers and Significant Employees 
+
+The
+following table sets forth information with respect to the Company s directors and executive officers. 
+
+Name 
+ 
+ Age 
+ 
+ Position
+ and Offices 
+ 
+ Benjamin Slager 
+ 
+ 60 
+ 
+ Chief Executive Officer and Chairman 
+ 
+ Anthony Santelli 
+ 
+ 57 
+ 
+ Chief Financial Officer and Director 
+ 
+ George D. Bolton 
+ 
+ 73 
+ 
+ Director and Secretary 
+ 
+ Charles F. Sills 
+ 
+ 79 
+ 
+ Director 
+ 
+ Peter Zimeri 
+ 
+ 69 
+ 
+ Director 
+ 
+ Edmund Burke 
+ 
+ 62 
+ 
+ Director 
+ 
+ Chris Kneppers 
+ 
+ 72 
+ 
+ Director 
+
+Benjamin
+Slager became a director in October 2016, the Chief Technology Officer on April 1, 2017, the CEO on July 6, 2018, and Chairman on
+February 26, 2019. Mr. Slager is a seasoned business professional with significant experience in corporate finance, venture capital,
+and entrepreneurship. He has a proven record in founding, developing and selling high tech companies. He is the inventor of the patented
+CTS technology. 
+
+Mr.
+Slager began his career in 1987 as a financial analyst with a venture capital firm, NesBic Holding BV, in Utrecht, the Netherlands. He
+also served as a market maker on the European Option Exchange in Amsterdam, while working for International Option Investment BV, in
+Amsterdam. In 1990, Mr. Slager turned his focus to sales and marketing while serving as a sales engineer and international sales director
+for ASM Pacific technologies in the Netherlands. In 1993, Mr. Slager began a 28-year career as a serial entrepreneur in starting, developing,
+and selling technically innovative companies. He was the Founder and CEO of NedCard and MicroIdentt a company assembling chips for bank
+cards and other electronic identification carriers. He started and grew that company from zero to a 100 million revenue base with affiliates
+in several countries. Further Ben was founder and CEO of SolarExcel BV, which had a patented solution to increase solar cell performance.
+He was also the CEO of Novameer BV, a company with high tech patented fibers. Ben sold off all of these companies to large multinationals.
+He has 20 families of patents summing to 108 in his name, divided over different territories in the world, including the CTS process
+that is owned by Blue Biofuels. 
+
+Mr.
+Slager received his Bachelor of Science in Chemical Engineering from Technical College of Chemical Engineering in Hilversum, the Netherlands,
+in 1985. He also received a degree in Business Administration from Nijenrode University for Business Administration in 1987. The Company s
+board determined that Mr. Slager is well-qualified to serve in senior management and member of the board of directors through his experience
+developing our technology and his prior experience founding, developing and selling technology companies. He is not a director of any
+other public company. 
+
+Anthony
+Santelli II became a director on May 4, 2018, the Chair of the Audit Committee on May 11, 2018, until 2020, the Chief Operating Officer
+on October 20, 2018, and the CFO on February 1, 2020. His financial expertise along with his experience restructuring and building companies
+is the reason he was selected to be a board member and senior executive. Dr. Santelli served as a money manager for 20 years as the Founder
+and Chief Executive Officer of AES Capital, a hybrid venture capital-hedge fund management company. Dr. Santelli is an entrepreneur who
+has started, helped finance, or turnaround, various private companies and micro-cap publicly traded companies concentrating in the mining,
+energy and alternative energy fields. He has served in senior management and board positions at various private and micro-cap companies,
+although he has not served on the board of any other public company in the past five years. He previously was employed by Andersen Consulting,
+now known as Accenture, rising to the level of a Senior Management Systems Consultant before going to graduate school. 
+
+Dr.
+Santelli received his M.A. and Ph.D. in Economics from George Mason University, did graduate studies in economics and finance at NYU,
+and has a B.S. in Industrial Engineering from Cornell University. He had taught economics and finance at Union College and George Mason
+University prior to creating AES Capital. He is not currently a director of any other public company. 
+
+Charles
+F Sills became a director of the Company in July 2015. Mr. Sills has worked for the Defense Leadership Forum since 2014 as National
+Program Director for the Defense Contracting Summit Conferences. He has extensive experience planning and directing international industrial,
+infrastructure, environmental and energy initiatives, having served as a member of the Danube Task Force, the governing council that
+ran the Danube Basin Environmental Restoration Program led by the World Bank, the European Bank for Reconstruction Development
+and the UN Development Program, involving 13 countries from Austria to Moldova. He also served on the Japan-U.S. Joint Fund for Social
+ Economic Development in Central/Eastern Europe, the Helsinki Commission focused on the environmental clean-up of the Baltic Sea,
+the Kaliningrad Defense Conversion Initiative, and the NGO Delegation to NAFTA, where he helped draft the Environmental Supplements.
+Mr. Sills was responsible for securing major funding support for the Smithsonian Institute s biodiversity preservation/cancer cure
+research program in Brazil s Amazon region; for the Sassari, Sardinia symposium on ozone depletion organized by the International
+Council of Scientific Unions; and for the White House Presidential Awards program sponsored by the President s Council on Sustainable
+Development. He is not a director of any other public company. 
+
+15 
+
+Mr.
+Sills has been engaged in the renewable energy sector since the 1980 s, when he led the Martin Marietta Aerospace (now Lockheed
+Martin) team that won the contract for and installed the world s largest (at that time) solar photovoltaic energy installation,
+under a pilot program co-funded by the U.S. and Saudi Arabian Governments; researched and wrote a worldwide survey of renewable energy
+technologies and commercialization opportunities; and testified before Congress on the need for pro-active U.S. Government support for
+advanced renewable energy R D and demonstration programs. Currently, he serves on both the Defense Security Advisory Committee
+and the International Advisory Committee for the American Council on Renewable Energy ACORE and serves as a Board Member
+and Advisor on Energy and Environment for the Eurasia Center/Eurasian Business Coalition, where he has planned and moderated conferences
+on Doing Business with the BRICS (Brazil, Russia, India, China and South Africa) , and energy and infrastructure investment
+opportunities associated with the New Silk Road . 
+
+He
+has extensive experience in Government Contracting, and an advocate for Small Business access to Federal and Military contracting opportunities,
+which is the reason he was chosen to be a director. (He is not a director of any other public company.) He has served as a member of
+the U.S. Chamber of Commerce s Small Business Council, and an observer to the White House sponsored Inter-Agency Task Force on
+Veterans Business Development. He is President of FED/Contracting LLC, a consultancy that assists Small Businesses in partnering with
+Prime Contractors, and helps the Prime Contractors qualify Veteran and Minority vendors as teammates for project opportunities with mandated
+Diversity Supplier content. Based on the U.S. Defense Dept. Mentor-Prot g program that he managed, Trillacorpe
+Construction, a Service-Disabled Veteran-Owned Small Business, was awarded the 2010 Defense Department Nunn-Perry Award for superior
+performance in the areas of business growth and return on investment, Government contracting, technical performance and quality management . 
+
+George
+D. Bolton became a director of the Company in July 2015. Mr. Bolton had been retired since 2010. Mr. Bolton was selected to the board
+for his agriculture industry experience and his expertise with climate change. Although not a member of any other corporate board, he
+is a seasoned business professional with significant experience in production agriculture. From the management of fertilizer and chemical
+plants to the development and integration of a precision farming system for a national fertilizer and chemical distribution company,
+George has worked to develop and integrate new technologies for agriculture. 
+
+Prior
+to becoming a director of the Company, Mr. Bolton recognized the impact carbon intensity would have on agriculture. Mr. Bolton was one
+of the founders of AgCert International, and co-author of the first agricultural baseline methodology approved by the United Nations
+Framework Convention on Climate Change (UNFCC) AM0016: Greenhouse gas mitigation from improved animal waste management systems in
+confined animal feeding operations . Under his direction this methodology was the catalyst which allowed AgCert International to construct
+over 725 biodigesters impacting more than 94 of the qualifying concentrated animal feeding operations in Mexico and Brazil. The construction
+and operation of these biodigesters dramatically improved each farms local environment impact while also lowering their carbon intensity.
+The cooperation between AgCert and the local farmers enabled the use of the Clean Development Mechanism of the UNFCC to produce and market
+millions of certified emissions for the purchasers, as well as covering the costs of each farm s biodigesters. 
+
+Peter
+Zimeri is self-employed and has been semi-retired since 2010. He has been the single largest private producer of electricity in Central
+America through his ownership and operation of five power plants producing 120 MW of electricity. He has also been the owner of a textile
+plant with a workforce of over 3000. He has degrees in Mechanical and Aeronautical Engineering from Georgia Tech. He has been a board
+member of the International Civil Aviation Organization and has extensive contacts in the aviation world, which is the reason he was
+selected to be a director, along with his experience managing plants. He is not currently a member of any other corporate board. 
+
+Edmund
+(Ned) Burke has been a director of the Company since 2020 and previously served in the financial services industry for the last 36
+years, and his extensive contacts are the reason he was selected to be a board member. He recently retired as CEO of ALPS Holdings Inc.,
+a wholly owned subsidiary of SS C Technologies Inc. Ned joined ALPS in 1992 as National Sales Manager, was named President in 2000
+and became CEO in 2005 with the acquisition of ALPS by private equity firm Lovell Minnick Partners. ALPS was then acquired by DST Systems
+in 2011 and he remained CEO through DST being acquired by SS C until his retirement in 2019. From the time he became president in
+2000 through his retirement in 2019, his company s revenue grew from approximately 10 million to over 220 million. Prior to ALPS,
+he held Regional Vice President positions with Fidelity Investments and Pioneer Investments. 
+
+16 
+
+Mr.
+Burke currently serves on the boards of 4 investment company complexes: Financial Investors Trust, ALPS ETF Trust, Clough Global Funds
+and Liberty AllStar Funds. He also is an investor/advisor to a number of small companies. He has a B.A. in Economics from the University
+of New Hampshire. 
+
+Chris
+Kneppers Chris has been a director of the Company since September, 2022, and is not on the board of any other public company. He
+was educated in South Africa as a Mechanical Engineer. He has 45 years of experience in the Construction industry in several engineering
+disciplines with an emphasis in Cost Estimating. His experience includes involvement in a wide range of projects, including large civil
+works, diesel generation in power stations, and solar electric installations. 
+
+Chris
+Kneppers was one of the Principals of MKA International, Inc. (formerly Madsen, Kneppers Associates) and has been involved in its
+running and development since 1989. MKA is a multi-disciplined Construction and Engineering Consulting firm. Chris recently stepped down
+from his position as Vice President and still serves as a Board Member. His role in the 33 years with the firm included establishing
+and developing offices, attracting and growing a client base, along with facilitating various technical disciplines within the company
+to address the needs of clients. 
+
+Audit
+Committee and Audit Committee Financial Expert 
+
+The
+Company s board of directors has an audit committee which currently consists of Edmund Burke (chair), Chris Kneppers, and Peter
+Zimeri. Mr. Burke is the audit committee financial expert. 
+
+Other
+Board Committees 
+
+The
+Company s board of directors has a compensation committee consisting entirely of independent directors, with Peter Zimeri as chair
+and Edmund Burke and Charles Sills as the other members. 
+
+The
+Company has established a nominating and corporate governance committee, consisting entirely of independent directors, with Edmund Burke
+serving as chair and George Bolton and Peter Zimeri as the other members. 
+
+Involvement
+in Certain Legal Proceedings 
+
+During
+the past five years no director, person nominated to become a director, executive officer, promoter or control person of the Company
+has: (i) had any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer
+either at the time of the bankruptcy or within two years prior to that time; (ii) been convicted in a criminal proceeding or been subject
+to a pending criminal proceeding (excluding traffic violations and other minor offenses); (iii) been subject to any order, judgment,
+or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining,
+barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities; or (iv) been found
+by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have violated
+a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated except for the following: 
+
+Four
+of the directors of the Company (Messrs. Slager, Santelli, Sills and Bolton) were directors or executive officers of the Company at the
+time of the Company s filing of a Voluntary Petition for Non-Individuals Filing for Bankruptcy pursuant to Chapter 11 of the United
+States Bankruptcy Act in the United States Bankruptcy Court for the Southern District of Florida (Case No. 18-23071-EPK) on October 22,
+2018. This Bankruptcy Proceeding was closed on October 25, 2019. 
+
+17 
+
+Section
+16(a) Beneficial Ownership Reporting Compliance 
+
+Our
+shares of common stock are registered under the Securities Exchange Act of 1934, and therefore our officers, directors and holders of
+more than 10 of our outstanding shares are subject to the provisions of Section 16(a) of such Act which requires them to file with the
+SEC initial reports of ownership and reports of changes in ownership of common stock and our other equity securities. Officers, directors
+and greater than 10 beneficial owners are required by SEC regulations to furnish us with copies of all Section 16(a) reports they file.
+The Company filed a Form 15 in 2018 ceasing to be a reporting Company . On January 5, 2021, the Company filed a Form 10,
+which became effective 60 days later, on March 8, 2021. Based solely upon our review of reports submitted to us during the fiscal year
+ended December 31, 2022, The following table sets forth the name of any such person that failed to file the required forms on a timely
+basis, including the number of late reports, the number of transactions not reported on a timely basis and any known failure to file
+a required form. 
+
+Name 
+ 
+ Number
+ of late reports 
+ 
+ Number
+ of transactions not reported timely 
+ 
+ None 
+ 
+ 0 
+ 
+ 0 
+
+Code
+of Ethics 
+
+The
+Company s board of directors has adopted a code of ethics that its officers, directors and any person who may perform similar functions
+is subject to. The Code of Ethics does not indicate the consequences of a breach of the code. If there is a breach, the board of directors
+would review the facts and circumstances surrounding the breach and take action that it deems appropriate, which action may include dismissal
+of the employee who breached the code. 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+The
+Company s board of directors has a compensation committee consisting entirely of independent directors, with Peter Zimeri as chair
+and Edmund Burke and Charles Sills as the other members. The Company s compensation philosophy is based on its belief that its
+compensation programs should be aligned with stockholders interests and business objectives; reward performance; and be externally
+competitive and internally equitable. The Company seeks to achieve three objectives, which serve as guidelines in making compensation
+decisions: 
+
+1. 
+ Providing a total compensation
+ package which is competitive and therefore enables it to attract and retain, high-caliber executive personnel; 
+
+2. 
+ Integrating compensation
+ programs with its short-term and long-term strategic plan and business objectives; and 
+
+3. 
+ Encouraging achievement
+ of business objectives and enhancement of stockholder value by providing executive management log-term incentive through equity ownership. 
+
+The
+Company may compensate its officers with cash compensation, common stock and common stock options. The Company has not established any
+quantifiable criteria with respect to the level of compensation, stock grants or options. Rather, the Board of Directors and its compensation
+committee will evaluate cash, stock grants and stock options paid to executives in similarly situated companies. 
+
+With
+respect to stock grants and options which may be issued to the Company s officers and directors, the Board and its compensation
+committee will consider an overall compensation package that includes both cash and stock-based compensation which would be in line with
+the Company s overall operations and compensation levels paid to similarly situated companies. Under the Company s 2012 Employee,
+Director Stock Plan, the administrator can provide for the grant of non-qualified stock options Non-Qualified Stock Options ),
+incentive stock options ISOs , together with Non-Qualified Stock Options referred to herein as Stock Options ),
+stock appreciation rights SARs ), restricted stock Restricted Stock and registered stock Registered
+Stock ), (collectively, the Awards to eligible Participants. 
+
+As
+of the date of this filing, the Company has two executives. 
+
+Commencing
+on January 1, 2021, Ben Slager, CEO, has an employment contract to receive a salary of 360,000 per annum. He received a 42,000 bonus
+in 2022 and has health insurance covered. In 2021, he also received his back pay from multiple prior years. In 2022, additional back
+pay was paid to offset the higher tax bracket that resulted from having been paid multiple years back pay in a single year. The board
+awarded one months salary as a bonus to all employees employed in 2020 who remained employed in 2021. He also received a 40,000
+bonus in 2021. In addition, he must be given 6-months notice of termination, and shall receive a severance package of one-month s
+pay in addition to the 6-months notice, or 3 months salary if he dies. If there is a change of control, all his options
+shall vest. 
+
+18 
+
+Commencing
+January 1, 2021, Anthony Santelli, CFO, has an employment contract to receive a salary of 250,000 per annum, and may not be terminated
+until all his back pay due is paid. The board awarded one months salary as a bonus to all employees employed in 2020 who remained
+employed in 2021. In addition, the CFO must be given 6-months notice of termination and shall receive a severance package of one-month s
+pay in addition to the 6-months notice, or 3 months salary if he dies. If there is a change of control, all his options
+shall vest. 
+
+As
+of December 31, 2021, Anthony Santelli is owed 187,922 in back pay plus 16,033 in unpaid director s fees, along with interest
+of 43,408. 
+
+As
+of December 31, 2021, AES Financial Advisors, LLC, an entity owned by Anthony Santelli II and his wife Marjorie Santelli, Esq., is owed
+ 72,670, primarily dating from 2018, prior to when Dr. Santelli became COO, plus interest of 11,152. 
+
+The
+following tables set forth the compensation paid by the Company to its officers and directors for the fiscal years ended December 31,
+2022, and December 31, 2021. This information includes the dollar value of base salaries, bonus awards and number of stock options granted,
+and certain other compensation, if any, actually paid. Accrued back pay is included in Other in the year in which it is actually paid.
+The compensation discussed addresses all compensation awarded to or paid to its named executive officers. 
+
+Principal Position 
+ Year 
+ Salary 
+ Bonus 
+ Stock Awards 
+ Option Awards (1) 
+ Non-Equity Incentive Plans 
+ Non-Qualified Deferred Comp on Earnings 
+ Other (back pay) 
+ Total 
+
+Benjamin Slager 
+ 2022 
+ 360,000 
+ 42,000 
+ - 
+ 743,298 
+ - 
+ - 
+ 78,500 
+ 1,223,798 
+ 
+ (CEO) 
+ 2021 
+ 360,000 
+ 70,000 
+ - 
+ - 
+ - 
+ - 
+ 587,205 
+ 1,017,205 
+
+Anthony Santelli II 
+ 2022 
+ 250,000 
+ - 
+ - 
+ 495,532 
+ - 
+ - 
+ 
+ 745,532 
+ 
+ (CFO) 
+ 2021 
+ 250,000 
+ 20,833 
+ - 
+ - 
+ - 
+ - 
+ 22,857 
+ 293,690 
+
+(1) 
+ See
+ note 3 to the audited financial statements included in this prospectus for assumptions used in valuation. 
+
+OUTSTANDING
+EQUITY AWARDS 
+
+Grants
+of Plan-Based Awards 
+
+Name 
+ Grant Date 
+ Number of Securities Underlying Unexercised Options (#) Exercisable 
+ Number of Securities Underlying Unexercised Unearned Options (#) 
+ Number of Securities Underlying Unexercised Options (#) Unexercisable (1) 
+ Option Exercise Price ) 
+ Option Expiration Date 
+ 
+ Ben Slager, CEO Chairman 
+ 1/5/2021 
+ 6,000,000 
+ - 
+ - 
+ 0.15 
+ 1/5/2031 
+ 
+ Anthony Santelli, CFO Director 
+ 1/5/2021 
+ 4,000,000 
+ - 
+ - 
+ 0.15 
+ 1/5/2031 
+ 
+ Ben Slager, CEO Chairman 
+ 5/9/2020 
+ 5,000,000 
+ - 
+ 5,000,000 
+ 0.10 
+ 5/9/2030 
+ 
+ Anthony Santelli, CFO Director 
+ 5/9/2020 
+ 5,000,000 
+ - 
+ 5,000,000 
+ 0.10 
+ 5/9/2030 
+ 
+ Peter Zimeri, Director 
+ 2/18/2020 
+ 100,000 
+ - 
+ - 
+ 0.07 
+ 2/18/2025 
+ 
+ Total 
+ 
+ 20,100,000 
+ - 
+ 10,000,000 
+
+19 
+
+Warrants
+Issued to Management 
+
+Grants
+of Plan-Based Awards 
+
+Name 
+ Grant Date 
+ Number of Securities Underlying Unexercised Warrants (#) Exercisable 
+ Number of Securities Underlying Unexercised Warrants (#) Unexercisable (1) 
+ Warrant Exercise Price ) 
+ Warrant Expiration Date 
+ 
+ NONE 
+ 
+ - 
+ - 
+ - 
+
+Total 
+ 
+ - 
+ - 
+ - 
+
+(1) 
+ As of December 31, 2022. 
+
+Outstanding
+Equity Awards at Fiscal Year End 
+
+In
+January 2021, the company s Chief Executive Officer Ben Slager received options to purchase up to 6,000,000 shares of the Company s
+common stock under the Company s 2012 Employee Director Stock Plan at an exercise price of 15 cents per share that vested January
+1, 2022. Using a Black-Scholes option pricing model, these were valued at 743,298. In the year ended December 31, 2020, the Company s
+Chief Executive Officer received options to purchase up to 10,000,000 shares of the company s common stock under the Company s
+2012 Employee Director Stock Plan at an exercise price of 10 cents per share, half that vested immediately, and half that vest upon the
+commercialization of the CTS process. Using a Black-Scholes asset pricing model, the vested options were valued at 414,850. 
+
+In
+January 2021, the company s Chief Financial Officer Anthony Santelli received options to purchase up to 4,000,000 shares of the
+Company s common stock under the Company s 2012 Employee Director Stock Plan at an exercise price of 15 cents per share that
+vested on January 1, 2022. Using a Black-Scholes option pricing model, these were valued at 495,532. In the year ended December 31,
+2020, the Company s Chief Financial Officer received options to purchase up to 10,000,000 shares of the company s common
+stock under the Company s 2012 Employee Director Stock Plan at an exercise price of 10 cents per share, half that vested immediately,
+and half that vest upon the commercialization of the CTS process. Using a Black-Scholes asset pricing model, the vested options were
+valued at 414,850. 
+
+Pay
+Versus Performance Disclosure Table 
+
+Average
+ Summary 
+ Average
+ 
+ Value
+ of Initial Fixed 100 Investment Based on: 
+
+Year 
+ Summary
+ Compensation on Table Total for PEO 
+ Compensation
+ Actually Paid to PEO (1) 
+ Compensation on Table Total for Non-PEO NEOs 
+ 
+ Compensation Actually Paid to Non-PEO NEOs (2) 
+ Total
+ Shareholder Return 
+ Total
+ Shareholder Return of Peer Group 
+ Net
+ Income (3) 
+ 
+ 2022 
+ 1,223,798 
+ 1,996,694 
+ 745,532 
+ 1,260,796 
+ -42 
+ N/A 
+ (3,964,483 
+ 
+ 2021 
+ 1,017,205 
+ 1,017,205 
+ 293,690 
+ 293,690 
+ 149 
+ N/A 
+ (2,139,310 
+ 
+ 2020 
+ 600,350 
+ 600,350 
+ 575,681 
+ 575,681 
+ 96 
+ N/A 
+ (2,181,127 
+ 
+ 2019 
+ 201,629 
+ (526,564 
+ 140,063 
+ (211,395 
+ 1175 
+ N/A 
+ 1,005,107 
+ 
+ 2018 
+ 557,261 
+ 62,026 
+ 433,754 
+ 187,314 
+ 29 
+ N/A 
+ (9,421,143 
+
+(1) 
+ Negative figures due to cancellation of previously
+ issued vested options. 
+
+(2) 
+ Negative figures due to cancellation of previously
+ issued vested options. 
+
+(3) 
+ 2018 Net Loss was largely due to prior management,
+ and 2019 gains due to wiping out debt in Chapter 11. 
+
+20 
+
+Additional
+Narrative Disclosures 
+
+A
+majority of the Company s employees, including its executive officers, have entered into employment contracts with the company.
+The company does not offer any benefits package, deferred compensation, or retirement plan at this time, other than an employee stock
+option plan. 
+
+Director
+Compensation 
+
+In
+March 2015, the Board of Directors approved a resolution to award compensation packages to the Company s independent directors
+for their service as directors or as members of any committee of directors. Directors who are also officers are not to receive additional
+compensation for being Directors. A resolution dated May 5, 2021, reduced board compensation to 2,500 per quarter paid, at the option
+of the director, in cash or stock at the market price at the end of the quarter. Some directors have been accruing that as back pay.
+A resolution dated February 27, 2023, granted each board member 500,000 options that vest when the Company uplists to a major exchange. 
+
+The
+following table sets forth compensation we paid to our non-officer directors during the year ended December 31, 2021: 
+
+Name 
+ Fees Earned or Paid in Cash ) 
+ Stock Awards ) 
+ Option Awards ) (1) 
+ All Other Compensation (S) 
+ Total ) 
+ 
+ George D. Bolton 
+ 11,600 
+ - 
+ - 
+ - 
+ 11,600 
+ 
+ Charles F. Sills 
+ 3,500 
+ - 
+ - 
+ - 
+ 3,500 
+ 
+ Peter Zimeri 
+ 31,250 
+ - 
+ - 
+ - 
+ 31,250 
+ 
+ Ned Burke 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Chris Kneppers 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+(1)
+See note 3 to the audited financial statements included in this prospectus for assumptions used in valuation. 
+
+21 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table sets forth certain information regarding beneficial ownership of the Company s Common Stock as of March 1, 2023,
+by: (i) each current director; each nominee for director, and executive officer of the Company; (ii) all directors and executive officers
+as a group; and (iii) each shareholder who owns more than five percent of the outstanding shares of the Company s Common Stock.
+Except as otherwise indicated, the Company believes each of the persons listed below possesses sole voting and investment power with
+respect to the shares indicated. 
+
+Name and Address 
+ No of Shares (2) 
+ Owned (1) 
+ 
+ Benjamin Slager (3) 
+ 41,640,000 
+ 13.5 
+ 
+ 3710 Buckeye Street, Suite 120 
+
+Palm Beach Gardens, FL 33410 
+
+Anthony Santelli, II (4) 
+ 48,490,027 
+ 15.6 
+ 
+ 3710 Buckeye Street, Suite 120 
+
+Palm Beach Gardens, FL 33410 
+
+Charles F. Sills (5) 
+ 1,100,000 
+ 0.4 
+ 
+ 3710 Buckeye Street, Suite 120 
+
+Palm Beach Gardens, FL 33410 
+
+George D. Bolton (6) 
+ 5,100,000 
+ 1.7 
+ 
+ 3710 Buckeye Street, Suite 120 
+
+Palm Beach Gardens, FL 33410 
+
+Peter Zimeri (7) 
+ 100,000 
+ 0.03 
+ 
+ 3710 Buckeye Street, Suite 120 
+
+Palm Beach Gardens, FL 33410 
+
+Edmund Burke (8) 
+ 13,430,276 
+ 4.5 
+ 
+ 3710 Buckeye Street, Suite 120 
+
+Palm Beach Gardens, FL 33410 
+
+Chris and Angela Kneppers (9) 
+ 21,851,270 
+ 7.3 
+ 
+ 3710 Buckeye Street, Suite 120 
+
+Palm Beach Gardens, FL 33410 
+
+All officers and directors as a group (seven persons) 
+ 131,711,573 
+ 40.6 
+
+Steven Sadaka (10) 
+ 18,401,025 
+ 6.7 
+ 
+ 3474 Derby Ln 
+
+Weston, FL 33331 
+
+22 
+
+(1) 
+ The percentages in this
+ table are based upon 296,631,770 shares of common stock issued and outstanding as of March 1, 2023, and assumes the persons vested
+ options and warrants are exercised but none other. 
+
+(2) 
+ Beneficial ownership is
+ determined in accordance with the rules of the Securities and Exchange Commission and includes voting and investment power with respect
+ to the shares. Shares of Common Stock subject to options or warrants currently exercisable or exercisable within 60 days are deemed
+ outstanding for computing the percentage of the person holding such options or warrants, but are not deemed outstanding for computing
+ the percentage of any other person. 
+
+(3) 
+ Includes 500,000 exercisable
+ warrants obtained as part of a private placement in the Company; 15,000,000 shares owned by the Benjamin Slager 2021 Irrevocable
+ Trust; and shares underlying 11,000,000 fully vested and exercisable employee options owned by Benjamin Slager. Benjamin Slager also
+ has 5,000,000 additional employee options awarded that will vest with the commercialization of the CTS system, unless the company
+ enters into a merger or purchase agreement, at which time all options shall vest immediately. He has also been granted 6,000,000
+ options that will vest if the Company uplists to the Nasdaq or NYSE. 
+
+(4) 
+ Includes 23,366,803 shares,
+ 260,136 fully vested and exercisable warrants, and 9,000,000 vested and exercisable employee options owned by Anthony Santelli, II;
+ 3,476,775 shares and 735,136 fully vested and exercisable warrants owned by AES Capital Partners, LP; 8,026,177 shares and 3,625,000
+ fully vested and exercisable warrants owned by The AES Capital Resource Fund, LP, two entities controlled by Anthony Santelli, II.
+ Anthony Santelli also has 5,000,000 additional employee options awarded that will vest with the commercialization of the CTS system,
+ unless the company enters into a merger or purchase agreement, at which time all options shall vest immediately. He has also been
+ granted 4,000,000 options that will vest if the Company uplists to the Nasdaq or NYSE. 
+
+(5) 
+ Charles Sills also has
+ 1 million options that vest upon obtaining an offtake agreement; and 500,000 options that will vest if the Company uplists to the
+ Nasdaq or NYSE. 
+
+(6) 
+ Includes 500,000 fully
+ vested and exercisable options. George Bolton also has 500,000 options that vest over time; 1 million options that vest upon obtaining
+ an offtake agreement; and 500,000 options that will vest if the Company uplists to the Nasdaq or NYSE. 
+
+(7) 
+ Includes 100,000 fully
+ vested and exercisable options. Peter Zimeri also has 500,000 options that will vest if the Company uplists to the Nasdaq or NYSE. 
+
+(8) 
+ Edmund Burke also has 500,000
+ options that will vest if the Company uplists to the Nasdaq or NYSE. 
+
+(9) 
+ Includes 19,517,937 shares
+ owned communally, and 2,333,333 fully vested and exercisable warrants. Chris Kneppers also has 500,000 options that will vest if
+ the Company uplists to the Nasdaq or NYSE. 
+
+(10) 
+ Includes 10,303,674 shares
+ owned by Steven Sadaka, and 8,097,351 shares owned by SLMJ Rocky Opportunity Trust controlled by Steven Sadaka. 
+
+The
+Company is not aware of any person who owns of record, or is known to own beneficially, five percent (5 or more of the outstanding
+securities of any class of the issuer, other than as set forth above. 
+
+Changes
+in Control 
+
+The
+Company does not currently have any arrangements which if consummated may result in a change of control of the Company. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+
+Related
+Transactions 
+
+1) 
+ A board resolution was
+ passed on February 13, 2020, that pledged the patents and pending patents to secure the back pay claims of Ben Slager, CEO, Anthony
+ Santelli, CFO, and Charles Sills, Director. This was done to ensure the continued involvement of management to build the Company
+ while they continue to be owed back pay. 
+
+2) 
+ Short-term notes payable,
+ convertible notes, and contingent liabilities issued to related parties are described in NOTE 6 above. 
+
+The
+officers and directors for the Company are involved in other business activities and may, in the future, become involved in other business
+opportunities. If a specific business opportunity becomes available, such persons may face a conflict in selecting between the Company
+and their other business interest. The Company has not formulated a policy for the resolution of such conflicts. 
+
+23 
+
+Director
+Independence 
+
+The
+Company currently has five (5) independent directors within the meaning of Nasdaq Marketplace Rule 4200. With five (5) independent directors,
+the company feels that the current board can competently perform the functions that an independent Board of Directors should provide. 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+
+Audit
+Fees 
+
+The
+aggregate fees billed by the Company s auditors, Prager Metis CPA s LLC for professional services rendered for the audit
+of its annual financial statements for fiscal year ended December 31, 2022, and December 31, 2021, and review its interim financial statements
+for the first, second and third quarters of 2022 and 2021 are approximately 51,000 and 44,500 respectively. 
+
+Audit
+Related fees 
+
+During
+the past fiscal year, no fees were billed or incurred for assurance or related services by the Company s auditors that were reasonably
+related to the audit or review of financial statements reported above. 
+
+Tax
+Fees 
+
+During
+the past fiscal year, the Company incurred approximately 3,000 for tax preparation fees for the fiscal year ended December 31, 2021
+and 5,000 for fiscal year ended December 31, 2020. 
+
+All
+Other Fees 
+
+During
+the past fiscal year, no other fees were billed or incurred for services by the Company s auditors other than the fees noted above.
+The Company s board, acting as an audit committee, deemed the fees charged to be compatible with maintenance of the independence
+of its auditors. 
+
+The
+Board of Directors Preapproval Policies 
+
+The
+Company has had a functioning audit committee since May 2018. For the fiscal year ending December 31, 2022, the Company s full
+board approved of the audit arrangement with Prager Metis P.A. Board of directors pre-approval of audit and non-audit services will not
+be required if the engagement for the services is entered into pursuant to pre-approval policies and procedures established by the Company s
+board of directors regarding its engagement of the independent auditor, provided the policies and procedures are detailed as to the particular
+service, its board of directors is informed of each service provided, and such policies and procedures do not include delegation of its
+board of directors responsibilities under the Exchange Act to its management. The Company s board of directors may delegate
+to one or more designated members of its board of directors the authority to grant pre-approvals, provided such approvals are presented
+to the board of directors at a subsequent meeting. If the board of directors elects to establish pre-approval policies and procedures
+regarding non-audit services, the board of directors must be informed of each non-audit service provided by the independent auditor.
+Board of Directors pre-approval of non-audit services, other than review and attest services, also will not be required if such services
+fall within available exceptions established by the SEC. For the fiscal year ending December 31, 2022, 100 of audit-related services,
+tax services and other services performed by the Company s independent auditors were pre-approved by its board of directors. 
+
+The
+Company s board has considered whether the services described above under the caption All Other Fees , which are currently
+none, is compatible with maintaining the auditor s independence. 
+
+The
+board approved all fees described above. 
+
+24 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+The
+following documents are filed as part of this 10-K: 
+
+1.
+FINANCIAL STATEMENTS 
+
+The
+following documents are filed in Part II, Item 8 of this annual report on Form 10-K: 
+
+Page 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ F-2 
+
+Consolidated Balance Sheets as of December 31, 2022 and December 31, 2021 
+ F-3 
+
+Consolidated Statements of Operations for the years ended December 31, 2022 December 31, 2021 
+ F-4 
+
+Consolidated Statements of Changes in Stockholder s Equity for the years ended December 31, 2022 and December 31, 2021 
+ F-5 
+
+Consolidated Statements of Cash Flows for the years ended December 31, 2022 and December 31, 2021 
+ F-6 
+
+Notes to the Consolidated Financial Statements 
+ F-7 
+
+2.
+FINANCIAL STATEMENT SCHEDULES 
+
+All
+financial statement schedules have been omitted as they are not required, not applicable, or the required information is otherwise included. 
+
+3.
+EXHIBITS 
+
+The
+exhibits listed below are filed as part of or incorporated by reference in this report. 
+
+Exhibit
+ No. 
+ 
+ Identification
+ of Exhibit 
+
+3.1 
+ 
+ Articles of Incorporation (incorporated by reference to the Company s S-1 filed May 23, 2012) 
+
+3.2 
+ 
+ Certificate of Amendment to Articles of Incorporation filed November 19, 2014 (incorporated by reference to the Company s Form 10-12G/A filed on February 16, 2021) 
+
+3.3 
+ 
+ Certificate of Amendment to Articles of Incorporation filed June 17, 2016 (incorporated by reference to the Company s Form 10-12G/A filed on February 16, 2021) 
+
+3.4 
+ 
+ Certificate of Amendment to Articles of Incorporation filed July 26, 2021 (incorporated by reference to the Company s 8-K filed on July 30, 2021) 
+
+3.5 
+ 
+ Bylaws (incorporated by reference to the Company s Form 10-12G/A filed on February 16, 2021) 
+
+10.1 
+ 
+ Employment Agreement, dated June 1, 2020, between the Company and Ben Slager (incorporated by reference to the Company s Form 10-12G/A filed on February 16, 2021) 
+
+10.2 
+ 
+ Employment Agreement, dated June 1, 2020, between the Company and Anthony Santelli (incorporated by reference to the Company s Form 10-12G/A filed on February 16, 2021 
+
+10.3 
+ 
+ 2021 Employee, Director Stock Plan (incorporated by reference to definitive 14C filed with the SEC on June 24, 2021) 
+
+14 
+ 
+ Code of Ethics (attached hereto) 
+
+31.1. 
+ 
+ 31.1. Certification of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+32.2 
+ 
+ Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+101.INS 
+ 
+ Inline XBRL Instance Document 
+
+101.SCH 
+ 
+ Inline XBRL Taxonomy Extension
+ Schema Document 
+
+101.CAL 
+ 
+ Inline XBRL Taxonomy Extension
+ Calculation Linkbase Document 
+
+101.DEF 
+ 
+ Inline XBRL Taxonomy Extension
+ Definition Linkbase Document 
+
+101.LAB 
+ 
+ Inline XBRL Taxonomy Extension
+ Label Linkbase Document 
+
+101.PRE 
+ 
+ Inline XBRL Taxonomy Extension
+ Presentation Linkbase Document 
+
+104 
+ 
+ Cover Page Interactive
+ Data File (embedded within the Inline XBRL document) 
+
+25 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized. 
+
+Blue Biofuels, Inc. 
+
+(Registrant) 
+
+By 
+ /s/
+ Benjamin Slager 
+
+Benjamin Slager 
+
+Chief Executive Officer, (Principal Executive Officer) 
+
+Date 
+ March 31, 2023 
+
+By 
+ /s/ Anthony
+ Santelli 
+
+Anthony Santelli 
+
+Chief Financial Officer (Principal Financial and Accounting
+ Officer) 
+
+Date 
+ March 31, 2023 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following person on behalf of the
+registrant and in the capacity and on the date indicated. 
+
+By 
+ /s/
+ Benjamin Slager 
+
+Benjamin Slager 
+
+Chief Executive Officer, (Principal Executive Officer) 
+
+Date 
+ March 31, 2023 
+
+By 
+ /s/ Anthony
+ Santelli II 
+
+Anthony Santelli 
+
+Chief Financial Officer (Principal Financial and Accounting
+ Officer) 
+
+Date 
+ March 31, 2023 
+
+By 
+ /s/ George
+ D. Bolton 
+
+George D. Bolton 
+
+Director 
+
+Date 
+ March 31, 2023 
+
+By 
+ /s/ Charles
+ F. Sills 
+
+Charles F. Sills 
+
+Director 
+
+Date 
+ March 31, 2023 
+
+By 
+ /s/ Peter
+ Zimeri 
+
+Peter Zimeri 
+
+Director 
+
+Date 
+ March 31, 2023 
+
+By 
+ /s/ Edmund
+ Burke 
+
+Edmund Burke 
+
+Director 
+
+Date 
+ March 31, 2023 
+
+By 
+ /s/ Chris Kneppers 
+
+Chris Kneppers 
+
+Director 
+
+Date 
+ March 31, 2023 
+
+26 
+
+<EX-14>
+ 2
+ ex14.htm
+
+EXHIBIT
+14 
+
+BLUE
+BIOFUELS, INC. 
+
+ CODE
+OF BUSINESS CONDUCT AND ETHICS 
+
+ FOR
+MEMBERS OF MANAGEMENT AND 
+
+ THE
+BOARD OF DIRECTORS 
+
+Introduction 
+
+The
+Board of Directors (the Board of Blue Biofuels, Inc BLUE BIOFUELS has adopted the following Code of Business
+Conduct and Ethics for Members of Management and the Board of Directors (the Code ). Directors and officers, executives,
+and team leaders (together Managers are expected to comply with the letter and spirit of this Code. No code or policy
+can anticipate every situation that may arise. This Code is designed to maintain high standards of professional business ethics at BLUE
+BIOFUELS. Accordingly, this Code is intended to serve as a set of guiding principles for Managers and Directors. Managers and Directors
+must conduct themselves accordingly and seek to avoid even the appearance of improper behavior. Managers and Directors are encouraged
+to bring questions about particular circumstances that may involve one or more of the provisions of this Code to the attention of the
+Chairman of the Board. 
+
+1.
+Ethical Standards and Compliance with Laws, Rules and Regulations 
+
+BLUE
+BIOFUELS expects its Managers and Directors to exercise the highest degree of professional and business ethics in all actions they undertake
+on behalf of BLUE BIOFUELS. All Managers and Directors are expected to conduct all their business and affairs in full compliance with
+applicable laws, rules and regulations, and shall encourage and promote such behavior for themselves, their fellow Managers and Directors,
+and employees. 
+
+2.
+Conflicts of Interest 
+
+Managers
+and Directors must avoid any conflicts of interest between themselves and BLUE BIOFUELS. A conflict of interest exists
+when a Manager or Director s personal or professional interest is adverse to or may appear to be adverse to the
+interests of BLUE BIOFUELS or its shareholders. Conflicts of interest may also arise when a Manager or Director, or members of his or
+her family, or an organization with which the Manager or Director is affiliated receives improper personal benefits as a result of his
+or her position as a Manager or Director of BLUE BIOFUELS. Conflicts of interest should be promptly disclosed to the Chairman of the
+Board. 
+
+3.
+Insider Trading 
+
+The
+securities laws impose severe sanctions upon any individual who uses inside information for his or her own benefit or discloses
+it to others for their use. Managers or Directors who have access to confidential information as a result of their Management position
+or Board service are not permitted to use or share that information for securities trading purposes or for any other purpose except the
+conduct of BLUE BIOFUELS s business. All non-public information about BLUE BIOFUELS should be considered confidential information.
+To use non-public information for personal financial benefit or to tip others who might make an investment decision on
+the basis of this information is not only unethical but also illegal. 
+
+4.
+Corporate Opportunities 
+
+Managers
+and Directors are prohibited from taking for themselves personally or for the organizations with which they are affiliated opportunities
+that are discovered through the use of BLUE BIOFUELS property, information or position without the consent of the Board of Directors.
+No Manager or Director may use BLUE BIOFUELS property, information, or position for improper personal gain. Managers and Directors owe
+a duty to BLUE BIOFUELS to advance its legitimate interests when the opportunity to do so arises. 
+
+5.
+Competition and Fair Dealing 
+
+BLUE
+BIOFUELS adheres to a policy of fair dealing in all its activities. Managers and Directors shall endeavor to deal fairly with BLUE BIOFUELS s
+customers, suppliers, competitors and employees. No Manager or Director should take unfair advantage of anyone through manipulation,
+concealment, abuse of privileged information, misrepresentation of material facts, or any other intentional unfair-dealing practice. 
+
+The
+purpose of business entertainment and gifts in a commercial setting is to create goodwill and sound working relationships. It is not
+to gain unfair advantage with customers. Managers, Directors and members of their immediate families may not accept gifts from persons
+or entities where any such gift is being made in order to influence the Manager or Director s actions as a member Management or
+of the Board, or where acceptance of the gifts could create the appearance of such influence. 
+
+6.
+Confidentiality 
+
+Managers
+and Directors must maintain the confidential information entrusted to them by BLUE BIOFUELS and its customers, except when disclosure
+is required by law or regulation. Confidential information includes all non-public information that might be of use to competitors, or
+harmful to BLUE BIOFUELS, if disclosed. It also includes information that vendors have entrusted to BLUE BIOFUELS. 
+
+7.
+Protection and Proper Use of BLUE BIOFUELS Assets 
+
+Managers
+and Directors may not use BLUE BIOFUELS assets, labor or information for personal use, unless approved by the Corporate Governance Committee,
+or as part of a compensation or expense reimbursement available to all members of Management or the Board of Directors. 
+
+8.
+Waivers of the Code of Business Conduct and Ethics 
+
+Any
+waiver of this Code may be made only by the Board and will be promptly publicly disclosed. 
+
+9.
+Reporting any Illegal or Unethical Behavior 
+
+Managers
+and Directors should promote ethical behavior and encourage an environment in which BLUE BIOFUELS encourages employees to talk to supervisors,
+managers or other appropriate personnel about observed illegal or unethical behavior and, when in doubt, about the best course of action
+in a particular situation. It is the policy of BLUE BIOFUELS to not permit retaliation for reports of misconduct by others made in good
+faith. 
+
+10.
+Enforcement of the Code of Business Conduct and Ethics 
+
+The
+Chairman of the Board shall determine appropriate actions to be taken in the event of violations of this Code. Such actions shall be
+reasonably designed to deter wrongdoing and to promote accountability for adherence to the Code. In determining what action is appropriate
+in a particular case, the Chairman shall take into account all relevant information, including the nature and severity of the violation,
+whether the violation appears to have been intentional or inadvertent, and whether the individual in question had been advised prior
+to the violation as to the proper course of action. 
+
+11.
+Annual Review 
+
+The
+Board shall review and reassess the adequacy of the Code annually and make any amendments to the Code that the Board deems appropriate. 
+
+12.
+Acknowledgement by Management and Directors 
+
+Each
+member of Management and the Board of Directors shall execute a copy of this Code of Ethics to acknowledge that he or she has received
+a copy of the Code, is familiar with its contents and agrees to be bound by its terms. 
+
+Adopted
+by the Board of Directors on April 2, 2012 (Name Change edited) 
+
+</EX-14>
+
+<EX-31.1>
+ 3
+ ex31-1.htm
+
+EXHIBIT 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ (18 U.S.C. SECTION 1350) 
+
+I, Benjamin Slager, certify that: 
+
+1. 
+ I have reviewed this Form 10-K for the period ended December 31, 2022 of Blue Biofuels, Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 31, 2023 
+
+/s/ Benjamin Slager 
+
+Benjamin Slager 
+
+Principal Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex31-2.htm
+
+EXHIBIT
+31.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ (18
+U.S.C. SECTION 1350) 
+
+I,
+Anthony Santelli, certify that: 
+
+1. 
+ I have reviewed this Form
+ 10-K for the period ended December 31, 2022 of Blue Biofuels, Inc.; 
+
+2. 
+ Based on my knowledge,
+ this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+ made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+ report; 
+
+3. 
+ Based on my knowledge,
+ the financial statements, and other financial information included in this report, fairly present in all material respects the financial
+ condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s
+ other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in
+ Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f)
+ and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed such disclosure
+ controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+ information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities,
+ particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed such internal
+ control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+ to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+ external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated the effectiveness
+ of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+ of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ Disclosed in this report
+ any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+ fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ I have disclosed, based
+ on my most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee
+ of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+ All significant deficiencies
+ and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely
+ affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not
+ material, that involves management or other employees who have a significant role in the registrant s internal control over
+ financial reporting. 
+
+Date: March 31, 2023 
+
+/s/ Anthony
+ Santelli 
+
+Anthony Santelli 
+
+Principal Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATIONS
+PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ (18
+U.S.C. SECTION 1350) 
+
+Pursuant
+to section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United States Code),
+the undersigned officer of Blue Biofuels, Inc., a Nevada corporation (the Company ), does hereby certify, to such officer s
+knowledge, that: 
+
+The
+annual report on Form 10-K for the fiscal year ended December 31, 2022 (the Form 10-K of the Company fully complies with
+the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, and the information contained in the Form 10-K fairly
+presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: March 31, 2023 
+
+/s/ Benjamin
+ Slager 
+
+Benjamin Slager 
+
+Chief Executive Officer, (Principal Executive Officer) 
+
+A
+signed original of this written statement required by Section 906 has been provided to BLUE BIOFUELS, INC. and will be retained by BLUE
+BIOFUELS, INC. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ ex32-2.htm
+
+EXHIBIT
+32.2 
+
+CERTIFICATIONS
+PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ (18
+U.S.C. SECTION 1350) 
+
+Pursuant
+to section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United States Code),
+the undersigned officer of Blue Biofuels, Inc., a Delaware corporation (the Company ), does hereby certify, to such officer s
+knowledge, that: 
+
+The
+annual report on Form 10-K for the fiscal year ended December 31, 2022 (the Form 10-K of the Company fully complies with
+the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, and the information contained in the Form 10-K fairly
+presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: March 31, 2023 
+
+/s/ Anthony
+ Santelli 
+
+Anthony Santelli 
+
+Chief Financial Officer (Principal Financial and Accounting
+ Officer) 
+
+A
+signed original of this written statement required by Section 906 has been provided to BLUE BIOFUELS, INC. and will be retained by BLUE
+BIOFUELS, INC. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ biof-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ biof-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ biof-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ biof-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

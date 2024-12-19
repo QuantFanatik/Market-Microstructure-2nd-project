@@ -1,0 +1,5431 @@
+<Header>
+<FileStats>
+    <FileName>20230113_10-K_edgar_data_704172_0001493152-23-001450.txt</FileName>
+    <GrossFileSize>1116465</GrossFileSize>
+    <NetFileSize>191107</NetFileSize>
+    <NonText_DocumentType_Chars>4803</NonText_DocumentType_Chars>
+    <HTML_Chars>856562</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-001450.hdr.sgml : 20230113
+<ACCEPTANCE-DATETIME>20230113170457
+ACCESSION NUMBER:		0001493152-23-001450
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20220630
+FILED AS OF DATE:		20230113
+DATE AS OF CHANGE:		20230113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PHI GROUP INC
+		CENTRAL INDEX KEY:			0000704172
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT SERVICES [8741]
+		IRS NUMBER:				900114535
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38255
+		FILM NUMBER:		23529457
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5348 VEGAS DRIVE
+		STREET 2:		237
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89108
+		BUSINESS PHONE:		7146420571
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 11620
+		CITY:			WESTMINSTER
+		STATE:			CA
+		ZIP:			92685
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROVIDENTIAL HOLDINGS INC
+		DATE OF NAME CHANGE:	20000413
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROVIDENTIAL SECURITIES INC /NV/
+		DATE OF NAME CHANGE:	20000209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JR CONSULTING INC
+		DATE OF NAME CHANGE:	19950712
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-001450.txt : 20230113
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+10-K 
+
+ANNUAL REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended: JUNE 30, 2022 
+
+or 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from _______________________________to _____________________________________ 
+
+PHI
+GROUP, INC. 
+
+ (n/k/a
+PHILUX GLOBAL GROUP INC) 
+
+ (Exact
+name of 
+
+ registrant
+as specified in its charter) 
+
+Wyoming 
+ 
+ 001-38255-NY 
+ 
+ 90-0114535 
+ 
+ (State
+ or other jurisdiction 
+ 
+ (Commission 
+ 
+ (IRS
+ Employer 
+ 
+ of
+ incorporation) 
+ 
+ File
+ Number) 
+ 
+ Identification
+ No.) 
+
+2323
+ Main Street, Irvine, CA 
+ 
+ 92614 
+ 
+ (Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number, including area code: 702-475-5430 
+
+(Former
+name or former address, if changed since last report) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of exchange on which registered 
+ 
+ Common
+ Stock 
+ 
+ PHIL 
+ 
+ OTC
+ Markets 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes
+ No 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes
+ No 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or such shorter period that the registrant was required to file such reports) and (2) has
+been subject to such filing requirements for the past 90 days. 
+
+Yes
+ No 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (ss.232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit and post such files). 
+
+Yes
+ No 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (ss229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant s knowledge, indefinitive proxy or information statement incorporated
+by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+Yes
+ No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+
+Non-accelerated
+ filer 
+ Smaller
+ reporting company 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes
+ No 
+
+State
+the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which
+the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed fiscal quarter: 
+
+Indicate
+the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date: As of January
+12, 2022, there were 33,645,885,430 shares of the registrant s 0.001 par value Common Stock and 600,000 shares of Class B Series
+I Preferred Stock issued and outstanding. 
+
+TABLE
+OF CONTENTS 
+
+PART I 
+
+Item
+ 1. 
+ Business Overview 
+ 3 
+ 
+ Item
+ 1A. 
+ Risk Factors 
+ 7 
+ 
+ Item
+ 1B 
+ Unresolved Staff Comments 
+ 10 
+ 
+ Item
+ 2. 
+ Description of Properties 
+ 10 
+ 
+ Item
+ 3. 
+ Legal Proceedings 
+ 10 
+ 
+ Item
+ 4. 
+ Submission of Matters to a Vote of Security Holders 
+ 10 
+
+PART II 
+
+Item
+ 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 11 
+ 
+ Item
+ 6. 
+ Selected Financial Data 
+ 12 
+ 
+ Item
+ 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 12 
+ 
+ Item
+ 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 15 
+ 
+ Item
+ 8. 
+ Financial Statements and Supplementary Data 
+ 16 
+ 
+ Item
+ 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 17 
+ 
+ Item
+ 9A. 
+ Controls and Procedures 
+ 17 
+ 
+ Item
+ 9B. 
+ Other Information 
+ 18 
+
+PART III 
+
+Item
+ 10. 
+ Directors and Executive Officers of the Registrant 
+ 18 
+ 
+ Item
+ 11. 
+ Executive Compensation 
+ 19 
+ 
+ Item
+ 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 20 
+ 
+ Item
+ 13. 
+ Certain Relationships and Related Transactions 
+ 20 
+ 
+ Item
+ 14. 
+ Principal Accountant Fees and Services 
+ 21 
+
+PART IV 
+
+Item15.
+ 
+ Exhibits and Financial Statement Schedules 
+ 21 
+
+SIGNATURES 
+ 27 
+
+CERTIFICATIONS 
+
+The
+statements contained in this annual report that are not historical facts are forward-looking statements within the meaning
+of the Private Securities Litigation Reform Act of 1995 with respect to our financial condition, results of operations and business,
+which can be identified by the use of forward-looking terminology, such as estimates, projects, plans, 
+ believes, expects, anticipates, intends, or the negative thereof or other variations
+thereon, or by discussions of strategy that involve risks and uncertainties. All forward-looking statements are based largely on current
+expectations and beliefs concerning future events that are subject to substantial risks and uncertainties. Actual results may differ
+materially from the results suggested herein. Factors that may cause or contribute to such differences include, but are not limited to,
+the company s ability to develop and successfully market the products and services described in this report (and the costs associated
+therewith); their acceptance in the marketplace; technical difficulties or errors in the products and/or services; the company s
+customer and active prospect base containing a substantially lower number of interested customers than the company anticipates; the failure
+to consummate the pending acquisitions, joint ventures and/or strategic alliances at all (or on a timely basis) due to various reasons;
+difficulty integrating or managing multiple companies from technology, operational and marketing aspects; the success (and cost) of new
+marketing strategies as a result of mergers and acquisitions; unfavorable critical reviews; increased competition (including product
+and price competition); entrance of new competitors into the market; timing and significance of additional new product and service introductions
+by the company and its competitors; general economic and market factors, including changes in securities and financial markets; technology
+obsolescence, the adequacy of working capital, cash flows and available financing to fund the company s business model and the
+proposed acquisitions or investments ; and other risks and uncertainties indicated throughout this report and from time to time in the
+company s releases and filings including without limitation filings with the Securities and Exchange Commission. As used in this
+report, the terms we, us, our, the company and PHI mean PHI Group,
+Inc. and the term common stock means PHI Group, Inc. s common stock, .001 par value per share (unless context indicates
+a different meaning). 
+
+2 
+
+PART
+I 
+
+ITEM
+1. BUSINESS OVERVIEW 
+
+INTRODUCTION 
+
+PHI
+Group, Inc. (n/k/a Philux Global Group Inc) (the Company or PHI ( www.philuxglobal.com is primarily
+engaged in mergers and acquisitions, advancing PHILUX Global Funds, SCA, SICAV-RAIF, a Reserved Alternative Investment Fund RAIF under the laws of Luxembourg, and establishing the Asia Diamond Exchange in Vietnam. Besides, the Company provides
+corporate finance services, including merger and acquisition advisory and consulting services for client companies through our wholly
+owned subsidiary PHILUX Capital Advisors, Inc. (formerly PHI Capital Holdings, Inc.) (www.philuxcapital.com and invests in selective
+industries and special situations aiming to potentially create significant long-term value for our shareholders. PHILUX Global Funds
+intends to include a number of sub-funds for investment in select growth opportunities in the areas of agriculture, renewable energy,
+real estate, infrastructure, and the Asia Diamond Exchange in Vietnam. 
+
+BACKGROUND 
+
+Originally
+incorporated on June 8, 1982 as JR Consulting, Inc., a Nevada corporation, the Company applied for a Certificate of Domestication and
+filed Articles of Domestication to become a Wyoming corporation on September 20, 2017. In the beginning, the Company was foremost engaged
+in mergers and acquisitions and had an operating subsidiary, Diva Entertainment, Inc., which operated two modeling agencies, one in New
+York and one in California. In January 2000, the Company changed its name to Providential Securities, Inc., a Nevada corporation, following
+a business combination with Providential Securities, Inc., a California-based financial services company. In February 2000, the Company
+then changed its name to Providential Holdings, Inc. In October 2000, Providential Securities withdrew its securities brokerage membership
+and ceased its financial services business. Subsequently, in April 2009, the Company changed its name to PHI Group, Inc. From October
+2000 to October 2011, the Company and its subsidiaries were engaged in various transactions in connection with mergers and acquisitions
+advisory and consulting services, real estate and hospitality development, mining, oil and gas, telecommunications, technology, healthcare,
+private equity, and special situations. In October 2011, the Company discontinued the operations of Providential Vietnam Ltd., Philand
+Ranch Limited, a United Kingdom corporation (together with its subsidiaries Philand Ranch - Singapore, Philand Corporation - US, and
+Philand Vietnam Ltd. - Vietnam), PHI Gold Corporation (formerly PHI Mining Corporation, a Nevada corporation), and PHI Energy Corporation
+(a Nevada corporation), and mainly focused on acquisition and development opportunities in energy and natural resource businesses. 
+
+The
+Company is currently focused on PHILUX Global Funds, SCA, SICAV-RAIF by launching Philux Global Select Growth Fund and potentially other
+sub-funds for investment in real estate, renewable energy, infrastructure, agriculture and healthcare and the Asia Diamond Exchange in
+Vietnam. In addition, PHILUX Capital Advisors, Inc. (formerly Capital Holdings, Inc.), a wholly owned subsidiary of the Company, continues
+to provide corporate and project finance services, including merger and acquisition (M A) advisory and consulting services for U.S.
+and international companies. The Company has signed agreements to acquire majority equity interests in Kota Construction LLC and Kota
+Energy Group LLC which are engaged in solar energy business https://www.kotasolar.com ), Tin Thanh Group, a Vietnamese joint stock
+company www.tinthanhgroup.vn and Van Phat Dat Joint Stock Company, a Vietnamese joint stock company. In addition, the Company
+is in the process of amending the Purchase and Sale Agreement that was originally signed on January 18, 2022 with Five-Grain Treasure
+Spirits Co., Ltd., a Chinese baiju distiller, to collaborate in launching American-made baiju products through Empire Spirits, Inc.,
+a subsidiary of the Company. The Company will relocate CO2-1-0 (CARBON) Corp., a subsidiary of the Company engaged in carbon emission
+mitigation using blockchain and crypto technologies, to the United Arab Emirates. These activities are disclosed in greater detail elsewhere
+in this report. No assurances can be made that the Company will be successful in achieving its plans. 
+
+3 
+
+BUSINESS
+STRATEGY 
+
+PHI s
+strategy is to: 
+
+1.
+Identify, build, acquire, commit and deploy valuable resources with distinctive competitive advantages; 
+
+2.
+Identify, evaluate, acquire, participate and compete in attractive businesses that have large, growing market potential; 
+
+3.
+Build an attractive investment that includes points of exit for investors through capital appreciation or spin-offs of business units. 
+
+SUBSIDIARIES: 
+
+As
+of January 10, 2023, the Company owned the following subsidiaries: (1) Asia Diamond Exchange, Inc., a Wyoming corporation (100 ), (2)
+Empire Spirits, Inc., a Nevada corporation (85 - formerly Provimex, Inc.) (3) PHILUX Global Funds SCA, SICAV-RAIF, a Luxembourg Reserved
+Alternative Investment Fund (100 ), (4) PHILUX Capital Advisors, Inc., a Wyoming corporation (100 ), (5) PHI Luxembourg Development S.A.,
+a Luxembourg corporation (100 ), (6) PHILUX Global General Partners SA, a Luxembourg corporation (100 ), (7) PHI Luxembourg Holding SA,
+a Luxembourg corporation (100 ), (8) Philux Global Vietnam Investment and Development Company Ltd., a Vietnamese limited liability company
+(100 ), (9) Phivitae Healthcare, Inc. (100 ), (10) American Pacific Resources, Inc., a Wyoming corporation (100 ), (11) Philux Fidelity
+Global Group, a Wyoming corporation, (12) Philux Global Trade Inc., a Wyoming corporation. 
+
+ASIA
+DIAMOND EXCHANGE AND THE DEVELOPMENT OF MULTI-COMMODITIES AND LOGISTICS CENTER IN VIETNAM 
+
+Along
+with the establishment of PHILUX Global Funds, the Company has worked with the Authority of Chu Lai Open Economic Zone and the Provincial
+Government of Quang Nam, Vietnam to develop the Asia Diamond Exchange. Quang Nam Provincial Government has agreed in principle to allocate
+about 200 hectares in the sanctioned Free-Trade Zone near Chu Lai Airport, Nui Thanh District, Quang Nam Province in Central Vietnam
+for us to set up a multi-commodities center which would include the Asia Diamond Exchange. 
+
+On
+June 04, 2021 the Company incorporated Asia Diamond Exchange, Inc., a Wyoming corporation, ID number 2021-001010234, as the holding company
+for the development of the Asia Diamond Exchange in Vietnam. 
+
+In
+addition, another opportunity has arisen with the start of construction of the new international airport in Long Thanh District, Dong
+Nai Province near Ho Chi Minh City in Southern Vietnam. In December 2020, the Vietnamese central government designated approximately
+2,600 hectares of land in Bau Can and Tan Hiep Villages, Long Thanh District, Dong Nai Province as a new industrial zone. The Company
+has submitted a request for additional land close to the new Long Thanh International Airport to develop the Long Thanh Multi-Commodities
+Logistics Center (LMLC) together with the Industrial Zone and is currently working with the Dong Nai Provincial People s Committee
+and the relevant ministries of the Vietnamese central government on this project. 
+
+EMPIRE
+SPIRITS, INC. (FORMERLY PROVIMEX, INC.) 
+
+Provimex,
+Inc. was originally incorporated as a Nevada corporation on September 23, 2004, Entity Number C25551-4, as a subsidiary of the Company
+to engage in international trade. On 9/26/2021, Provimex, Inc. changed its name to Empire Spirits, Inc. as the holding company for the
+acquisition of a majority ownership in Five-Grain Treasure Spirits Company, Ltd., a baiju distiller in Jilin Province. The Company is
+in the process of amending the Purchase and Sale Agreement that was originally signed on January 18, 2022 with Five-Grain Treasure Spirits
+Co. Ltd., to collaborate in launching American-made baiju products through Empire Spirits, Inc. 
+
+Baijiu
+is a white spirit distilled from sorghum. It is similar to vodka but with a fragrant aroma and taste. It is currently the most consumed
+spirit in the world. Mainly consumed in China, it is gaining popularity in the rest of the world. 
+
+Five-Grain
+specializes in the production and sales of spirits and the development of proprietary spirit production processes. It also possesses
+a patented technology to grow red sorghum for baiju manufacturing. The patented grain produces superior yield and quality. Five-Grain
+is a reputable bulk alcohol supplier to some of the largest spirits companies in the world. 
+
+4 
+
+PHILUX
+GLOBAL FUNDS SCA, SICAV-RAIF 
+
+On
+June 11, 2020, the Company received the approval from the Luxembourg Commission de Surveillance du Secteur Financier (CSSF) and successfully
+established and activated PHILUX GLOBAL FUNDS SCA, SICAV-RAIF (the Fund ), Registration No. B244952, a Luxembourg bank fund
+organized as a Reserved Alternative Investment Fund in accordance with the Luxembourg Law of July 23, 2016 relative to reserved alternative
+investment funds, Law of August 23, 2016 relative to commercial companies, and Modified Law of July 12, 2013 relative to alternative
+investment fund managers. 
+
+The
+following entities had been engaged to support the Fund s operations: a) Custodian Bank: Hauck Aufhauser Privatbankiers AG,
+b) Administrative Registrar Transfer Agent: Hauck Aufhauser Alternative Investment Services S.A., c) Fund Manager: Hauck
+ Aufhauser Fund Services S.A., d) Fund Attorneys: DLP Law Firm SARL and VCI Legal, e) Investment Advisor: PHILUX Capital Advisors,
+Inc., f) Fund Auditors: E Y Luxembourg and E Y Vietnam, g) Fund Tax Advisor: ATOZ Tax Management, Luxembourg, h) Fund Independent
+Asset Valuator: Cushman Wakefield, Vietnam. Currently the Fund is in the process of changing the custodian bank, administrative
+registrar transfer agent, investment advisor and the fund manager. 
+
+The
+Fund is an umbrella fund intended to contain one or more sub-fund compartments for investing in select opportunities in the areas of
+real estate, infrastructure, renewable energy, agriculture, healthcare and especially the Asia Diamond Exchange and Multi-Commodities
+and Logistics Center in Vietnam. 
+
+Other
+subsidiaries of the Company that are established in conjunction with PHILUX Global Funds include PHI Luxembourg Development S.A., PHILUX
+Global General Partners SA, and PHI Luxembourg Holding SA. Website: www.philuxfunds.com. 
+
+PHILUX
+CAPITAL ADVISORS, INC. 
+
+PHILUX
+Capital Advisors, Inc. was originally incorporated under the name of Providential Capital, Inc. in 2004 as a Nevada corporation
+and wholly owned subsidiary of the Company to provide merger and acquisition (M A) advisory services, consulting services, project
+financing, and capital market services to clients in North America and Asia. In May 2010, Providential Capital, Inc. changed its name
+to PHI Capital Holdings, Inc. It was re-domiciled as a Wyoming corporation on September 20, 2017 and changed its name to PHILUX
+Capital Advisors, Inc. on June 03, 2020. This subsidiary has successfully managed merger plans for a number of privately held
+and publicly traded companies and continues to focus on serving the Pacific Rim markets in the foreseeable future. This subsidiary also
+arranges debt financing for international clients. Website: www.philuxcapital.com. 
+
+CO2-1-0
+(CARBON) CORP 
+
+In
+August 2021, PHI Group signed a Letter of Intent with Indonesia-based CYFS Group, headed by Mr. Choky Fernando Simanjuntak, to sponsor
+and co-found CO2-1-0 (CARBON) CORP to implement a new disruptive carbon mitigation initiative through environmentally sustainable projects
+starting in Indonesia, Vietnam, other ASEAN countries, and worldwide. On September 21, 2021 CO2-1-0 (CARBON) CORP was incorporated as
+a Wyoming corporation to manage this program. During the fiscal year ended June 30, 2022, PHI Group, Inc. has contributed a major portion
+of the development budget for CO2-1-0 (CARBON) CORP) and hold 50.1 shares of CO2-1-0 (CARBON). The Company is in the process of relocating
+CO2-1-0 (CARBON) CORP to the United Arab Emirates. 
+
+According
+to the United Nation Framework Convention on Climate Change (UNFCCC), together with the Paris agreement and Kyoto protocol in 2016, where
+Indonesia has actively participated and agreed to maintain the earth temperature not to exceed by 1,5 degrees Celsius by 2030. The greenhouse
+gases (GHG), mainly CO2, CH4, N2O, SF6, HFCs, PFCs, are the root cause of global climate change, each of which can be calculated as CER
+(CO2 Emission Reduction) equivalent. The target for Indonesia is 834 million tonnes of CER by 2030. 
+
+5 
+
+Currently,
+CER is being tediously registered, validated, and certified centrally under UNFCCC methodology by a few independent institutions, mostly
+in the US and Europe, where the CER later can be traded (as carbon credits) voluntarily. For the past 5 years, the market for carbon
+credits is nearly zero, and due to complexity of the processes, many companies/ projects have less appetite to be engaged into the carbon
+credit opportunity. Many environmentally sustainable projects (renewable energy/ waste/ agriculture/forestry/ etc.) have failed to get
+financial support especially at the initial/ development stage, due to the above reasons, causing less economic value of the project
+or delays. 
+
+Though
+the carbon market is still on hibernate stage, CER value is estimated to rise to US 100/ ton CER by 2030, while crypto currency is just
+starting and has attracted many millennials and gen-Z who are more aware to green environment and sustainability (recent survey result,
+Indonesian college students, 12-13 July 2021). It is believed that from year 2022 onward the world will witness the boom of renewable
+energy projects/ sustainability initiatives that are related to Carbon Credits, with an enormous market size of 23 Giga tones of CO2
+emission to be reduced in 2030. The Taskforce on Scaling Voluntary Carbon Markets (TSVCM), sponsored by the Institute of International
+Finance (IIF) with knowledge support from McKinsey, estimates that demand for carbon credits could increase by a factor of 15 or more
+by 2030 and by a factor of up to 100 by 2050. Overall, the market for carbon credits could be worth upward of 50 billion in 2030. 
+
+CO2-1-0
+(CARBON) aims to provide a solution in disruptive decentralized new carbon market system using blockchain technology which will be empowering
+environmentally sustainable projects (renewable energy/ waste/ agriculture/ forestry/ etc.) starting in Indonesia, Vietnam, other ASEAN
+countries and worldwide. It has a clear and systematic product development roadmap, and the ultimate milestones of the products estimated
+to be launched in the near future. The solution, methodology, and improved TACCC (transparent, accurate, consistent, complete, and comparable)
+business process originally introduced by CO2-1-0 (CARBON) will bring full impact to better environment and life of millions. 
+
+AMERICAN
+PACIFIC RESOURCES, INC. 
+
+American
+Pacific Resources, Inc. APR is a Wyoming corporation established in April 2016 as a subsidiary of the Company to serve
+as a holding company for various natural resource projects. On September 2, 2017, APR entered into an Agreement of Purchase and Sale
+with Rush Gold Royalty, Inc. RGR ), a Wyoming corporation, to acquire a 51 ownership in twenty-one mining claims over
+an area of approximately 400 acres in Granite Mining District, Grant County, Oregon, U.S.A., in exchange for a total purchase price of
+twenty-five million U.S. Dollars US 25,000,000) to be paid in a combination of cash, convertible demand promissory note and PHI Group,
+Inc. s Class A Series II Convertible Cumulative Redeemable Preferred Stock Preferred Stock ). This transaction was
+closed effective October 3, 2017. Following the first amendment dated April 19, 2018 and the second amendment dated September 29, 2018
+retroactively effective April 20, 2018, to the afore-mentioned Agreement of Purchase and Sale, PHI Group, Inc. paid ten million shares
+of its Class A Series II Convertible Cumulative Redeemable Preferred Stock to Rush Gold Royalty, Inc.. As of June 30, 2020, the Company
+recorded 462,000 paid for this transaction as expenses for research and development in connection with the Granite Mining Claims project.
+The value of these mining claims is expected to be adjusted later after a new valuation of these mining assets is conducted by an independent
+third-party valuator. 
+
+The
+Company has passed several resolutions with respect to the declaration of a twenty percent (20 special stock dividend in American Pacific
+Resources, Inc. to shareholders of Common Stock of the Company. Due to the continued adverse effects of the coronavirus pandemic and
+other factors that have delayed the development of APR, it deems necessary for the Company to suspend the distribution of the APR special
+stock dividend until later on in order to allow APR additional time to reach certain milestones that would make the spin-off of APR and
+this special stock dividend distribution economically beneficial for the Company s shareholders. The Company will provide an update
+regarding the new Record Date for this special dividend when certain conditions are met. 
+
+PHIVITAE
+HEALTHCARE, INC. 
+
+PHIVITAE
+HEALTHCARE, INC., a Wyoming corporation, is a wholly-owned subsidiary of PHI Group established on July 07, 2017 under the name of PHIVATAE
+Corporation, Inc. with the intention to acquire a pharmaceutical and medical equipment distribution company in Romania and to
+manage distribution of medical equipment and pharmaceutical products to emerging markets. This subsidiary changed its name to PHIVITAE
+HEALTHCARE, INC. on March 17, 2020. On April 27, 2020, PHI Group, Inc. signed a business cooperation agreement with Natural Well Technical
+Ltd. NWTL ), a Taiwanese company, to jointly cooperate in the research and development activities of pertinent technologies
+that have been initiated and continue to be carried out by NWTL and applying them to produce commercial products and services in the
+fields of healthcare, beauty supply, agriculture and industry as well as any other business activities deemed mutually beneficial. PHIVITAE
+is in the process of entering into a strategic alliance with a Vietnam-based medical supply company. 
+
+6 
+
+PHILUX
+GLOBAL ENERGY, INC. 
+
+On
+January 3, 2022, the Company filed Profit Corporation Articles of Incorporation with the Wyoming Secretary of State to
+incorporate PHILUX GLOBAL ENERGY, INC. Original ID: 2020-001066221, as a wholly-owned subsidiary of the Company
+to serve as the holding company for the contemplated acquisition of fifty-point one percent (50.10 ownership in both Kota Energy Group
+LLC and Kota Construction LLC, both of which are California limited liability companies. 
+
+PHILUX
+FIDELITY GLOBAL GROUP 
+
+PHILUX
+FIDELITY GLOBAL GROUP is a Wyoming corporation incorporated on June 30, 2022 to serve as the holding company for business cooperation
+between Tin Thanh Group www.tinthanhgroup.vn and the Company. 
+
+DISPOSAL
+OF STOCK OWNERSHIP IN SPORTS POUCH BEVERAGE COMPANY, INC. 
+
+On
+May 3, 2022, Philux Capital Advisors, Inc., a subsidiary of the Company, transferred 292,050,000 shares of Sports Pouch Beverage Company,
+Inc., a Nevada corporation traded on the OTC Markets under the symbol SPBV to Chinh T. Truong for twenty-five thousand
+U.S. dollars as part of the agreements in connection with the Business Combination Agreement entered into on March 19, 2021 between Sports
+Pouch Beverage Company, Inc. and Glink Apps International, Inc., a Wyoming corporation. Sports Pouch Beverage Company, Inc. has agreed
+to issue five million shares of its Common Stock to Philux Capital Advisors, Inc. after the consummation of said Business Combination
+Agreement and a 1-for-500 reverse split of the combined Sports Pouch Beverage Company, Inc. 
+
+ITEM
+1A. RISK FACTORS 
+
+RISK
+FACTORS 
+
+Investment
+in our securities is subject to various risks, including risks and uncertainties inherent in our business. The following sets forth factors
+related to our business, operations, financial position or future financial performance or cash flows which could cause an investment
+in our securities to decline and result in a loss. 
+
+General
+Risks Related to Our Business 
+
+Our
+success depends on our management team and other key personnel, the loss of any of whom could disrupt our business operations. 
+
+Our
+future success will depend in substantial part on the continued service of our senior management and certain external experts. The loss
+of the services of one or more of our key personnel and/or outside experts could impede implementation and execution of our business
+strategy and result in the failure to reach our goals. We do not carry key person life insurance for any of our officers or employees.
+Our future success will also depend on the continued ability to attract, retain and motivate highly qualified personnel in the diverse
+areas required for continuing our operations. We cannot assure that we will be able to retain our key personnel or that we will be able
+to attract, train or retain qualified personnel in the future. 
+
+7 
+
+Risks
+Related to Mergers and Acquisitions 
+
+Our
+strategy in mergers and acquisitions involves a number of risks and we have a limited history of successful acquisitions. Even when an
+acquisition is completed, we may have to continue our service for integration that may not produce results as positive as management
+may have projected. 
+
+The
+Company continues evaluating various opportunities and negotiating to acquire other companies, assets and technologies. Acquisitions
+entail numerous risks, including difficulties in the assimilation of acquired operations and products, diversion of management s
+attention from other business concerns, amortization of acquired intangible assets and potential loss of key employees of acquired companies.
+We have limited experience in assimilating acquired organizations into our operations. Although potential synergy may be achieved by
+acquisitions of related technologies and businesses, no assurance can be given as to the Company s ability to integrate successfully
+any operations, personnel, services or products that have been acquired or might be acquired in the future. Failure to successfully assimilate
+acquired organizations could have a material adverse effect on the Company s business, financial condition and operating results. 
+
+Acquisitions
+involve a number of special risks, including: 
+
+failure
+ of the acquired business to achieve expected results; 
+
+diversion
+ of management s attention; 
+
+failure
+ to retain key personnel of the acquired business; 
+
+additional
+ financing, if necessary and available, could increase leverage, dilute equity, or both; 
+
+the
+ potential negative effect on our financial statements from the increase in goodwill and other intangibles; and 
+
+the
+ high cost and expenses of completing acquisitions and risks associated with unanticipated events or liabilities. 
+
+These
+risks could have a material adverse effect on our business, results of operations and financial condition since the values of the securities
+received for the consulting service at the execution of the acquisition depend on the success of the company involved in acquisition.
+In addition, our ability to further expand our operations through acquisitions may be dependent on our ability to obtain sufficient working
+capital, either through cash flows generated through operations or financing activities or both. There can be no assurance that we will
+be able to obtain any additional financing on terms that are acceptable to us, or at all. 
+
+Risks
+associated with private equity (PE) funds 
+
+There
+are, broadly, five key risks to private equity investing: 
+
+1.
+ Operational risk: The risk of loss resulting from inadequate processes and systems supporting the organization. It is a
+key consideration for investors regardless of the asset classes that funds invest into. 
+
+2.
+ Funding risk: This is the risk that investors are not able to provide their capital commitments and is effectively the
+ investor default risk . PE funds typically do not call upon all the committed investor capital and only draw capital once
+they have identified investments. Funding risk is closely related to liquidity risk, as when investors are faced with a funding shortfall
+they may be forced to sell illiquid assets to meet their commitments. 
+
+3.
+ Liquidity risk: This refers to an investor s inability to redeem their investment at any given time. PE investors
+are locked-in for between five and ten years, or more, and are unable to redeem their committed capital on request during
+that period. Additionally, given the lack of an active market for the underlying investments, it is difficult to estimate when the investment
+can be realized and at what valuation. 
+
+4.
+ Market risk: There are many forms of market risk affecting PE investments, such as broad equity market exposure, geographical/sector
+exposure, foreign exchange, commodity prices, and interest rates. Unlike in public markets where prices fluctuate constantly and are
+marked-to-market, PE investments are subject to infrequent valuations and are typically valued quarterly and with some element of subjectivity
+inherent in the assessment. However, the market prices of publicly listed equities at the time of sale of a portfolio company will ultimately
+impact realization value. 
+
+5.
+ Capital risk: The capital at risk is equal to the net asset value of the unrealized portfolio plus the future undrawn commitments.
+In theory, there is a risk that all portfolio companies could experience a decline in their current value, and in the worst-case drop
+to a valuation of zero. Capital risk is closely related to market risk. Whilst market risk is the uncertainty associated with unrealized
+gains or losses, capital risk is the possibility of having a realized loss of the original capital at the end of a fund s life. 
+
+8 
+
+There
+are two main ways that capital risk brings itself to bear - through the failure of underlying companies within the PE portfolio and suppressed
+equity prices which make exits less attractive. The former is impacted by the quality of the fund manager, i.e. their ability to select
+portfolio companies with good growth prospects and to create value, hence why fund manager selection is key for investors. The condition,
+method, and timing of the exit are all factors that can affect how value can be created for investors. 
+
+Risks
+Associated with Building and Operating a Diamond Exchange 
+
+Fundamentally,
+the key requirements for a successful diamond exchange include the following: 
+
+1.
+ Supply : One of the most important things for a successful trading hub is the ability to secure ample, stable, and sustainable
+supply of commodities. In the case of a diamond exchange, adequate supply of rough diamond must be secured to make it successful. 
+
+2.
+ Capital : Besides the infrastructure, facilities, systems, and amenities to operate the diamond exchange, the organizers
+must be able to arrange very large amounts of capital to facilitate the trade and other business activities related to the exchange. 
+
+3.
+ Participants : The organizers must be able to attract a large number of international diamonteers to participate in the
+exchange. There is no guarantee that people will come when the exchange is built. 
+
+4.
+ Venue: The venue must be able to provide competitive advantages compared with existing diamond exchanges in the world in
+terms of (a) modern facilities, latest technologies and state-of-the-art provisions, (b) tax relief, (c) financial facilitating network
+from big investors, (d) retail banking, lending institutions and foreign exchange facilities, (e) licenses and registrations, (f) global
+multi-commodities trading flatform, and (g) other amenities. 
+
+Risks
+Associated with International Markets 
+
+As
+some of our business activities are currently involved with international markets, any adverse change to the economy or business environment
+in these countries could significantly affect our operations, which would lead to lower revenues and reduced profitability . 
+
+Some
+of our business activities are currently involved with non-US countries. Because of this presence in specific geographic locations, we
+are susceptible to fluctuations in our business caused by adverse economic or other conditions in this region, including stock market
+fluctuation. A stagnant or depressed economy in these countries generally, or in any of the other markets that we serve, could adversely
+affect our business, results of operations and financial condition. 
+
+Risks
+Related to Our Securities 
+
+Insiders
+have substantial control over the company, and they could delay or prevent a change in our corporate control, even if our other stockholders
+wanted such a change to occur. 
+
+Though
+our executive officers and directors as of the date of this report, in the aggregate, only hold a small portion of our outstanding common
+stock, we have the majority voting rights associated with the Company s Class B Series I Preferred Stock, which decision may allow
+the Board of Directors to exercise significant control over all matters requiring stockholder approval, including the election of directors
+and approval of significant corporate transactions. This could delay or prevent an outside party from acquiring or merging with us even
+if our other stockholders wanted it to occur. 
+
+9 
+
+The
+price at which investors purchase our common stock may not be indicative of the prevailing market price. 
+
+The
+stock market often experiences significant price fluctuations that are unrelated to the operating performance of the specific companies
+whose stock is traded. These market fluctuations could adversely affect the trading price of our shares. Investors may be unable to sell
+their shares of common stock at or above their purchase price, which may result in substantial losses. 
+
+Since
+we do not currently meet the requirements for our stock to be quoted on NASDAQ, NYSE MKT LLC or any other senior exchange, the tradability
+in our securities will be limited under the penny stock regulations. 
+
+Under
+the rules of the Securities and Exchange Commission, as the price of our securities on the OTCQB or OTC Markets is below 5.00 per share,
+our securities are within the definition of a penny stock. As a result, it is possible that our securities may be subject
+to the penny stock rules and regulations. Broker-dealers who sell penny stocks to certain types of investors are required
+to comply with the Commission s regulations concerning the transfer of penny stock. These regulations require broker-dealers to: 
+
+Make
+a suitability determination prior to selling penny stock to the purchaser; 
+
+ Receive
+the purchaser s written consent to the transaction; and 
+
+ Provide
+certain written disclosures to the purchaser. 
+
+These
+requirements may restrict the ability of broker/dealers to sell our securities, and may affect the ability to resell our securities. 
+
+Our
+compliance with the Sarbanes-Oxley Act and SEC rules concerning internal controls may be time consuming, difficult and costly for us. 
+
+It
+may be time consuming, difficult and costly for us to develop and implement the internal controls and reporting procedures required by
+the Sarbanes-Oxley Act. We may need to hire additional financial reporting, internal controls and other finance staff in order to develop
+and implement appropriate internal controls and reporting procedures. If we are unable to comply with the internal controls requirements
+of the Sarbanes-Oxley Act, we may not be able to obtain the independent accountant certifications that the Sarbanes-Oxley Act requires
+publicly traded companies to obtain. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS. 
+
+None. 
+
+ITEM
+2. DESCRIPTION OF PROPERTIES 
+
+As
+of June 30, 2022, the Company did not own any realty or equipment. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+The
+Company is currently not a party to any material pending legal proceedings and, to the best of its knowledge, no such action by or against
+Company has been threatened. 
+
+ITEM
+4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+None 
+
+10 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS 
+
+The
+Company s Common Stock is currently trading on the OTC Markets under the symbol PHIL . The following sets forth the
+high and low prices of the Company s Common Stock in the US for the most recent month, two most recent quarters and each quarter
+during the preceding two fiscal years. 
+
+The
+prices for the Company s common stock quoted by brokers are not necessarily a reliable indication of the value of the Company s
+common stock. 
+
+Per
+ Share Common Stock Prices for the Month 
+ High 
+ Low 
+ 
+ Ended
+ December 31, 2022 
+ 0.0015 
+ 0.0008 
+
+Per
+ Share Common Stock Prices for the Quarters 
+ High 
+ Low 
+ 
+ Quarter
+ Ended December 31, 2022 
+ 0.0020 
+ 0.0008 
+ 
+ Quarter Ended September
+ 30, 2022 
+ 0.0026 
+ 0.0004 
+
+Per
+Share Common Stock Prices by Quarter 
+
+For
+the Fiscal Year Ended June 30, 2022 
+
+High 
+ Low 
+
+Quarter
+ Ended June 30, 2022 
+ 0.0019 
+ 0.0005 
+ 
+ Quarter Ended March
+ 31, 2022 
+ 0.0055 
+ 0.0016 
+ 
+ Quarter Ended December
+ 31, 2021 
+ 0.0093 
+ 0.0047 
+ 
+ Quarter Ended September
+ 30, 2021 
+ 0.0150 
+ 0.0047 
+
+Per
+Share Common Stock Prices by Quarter 
+
+For
+the Fiscal Year Ended June 30, 2021 
+
+High 
+ Low 
+ 
+ Quarter
+ Ended June 30, 2021 
+ 0.0198 
+ 0.0024 
+ 
+ Quarter Ended March
+ 31, 2021 
+ 0.0146 
+ 0.0002 
+ 
+ Quarter Ended December
+ 31, 2020 
+ 0.0007 
+ 0.0000 
+ 
+ Quarter Ended September
+ 30, 2020 
+ 0.0002 
+ 0.0000 
+
+Holders
+of Common Equity: 
+
+As
+of January 12, 2023 there are approximately 1,592 shareholders of record of the Company s common stock, of which 1,286 are active. 
+
+Dividends: 
+
+Cash
+dividend: The Company has not declared or paid a cash dividend to common stock shareholders since the Company s inception. The
+Board of Directors presently intends to retain any earnings to finance company operations and does not expect to authorize cash dividends
+to common shareholders in the foreseeable future. Any payment of cash dividends in the future will depend upon Company s earnings,
+capital requirements and other factors. 
+
+11 
+
+Share
+dividend: On March 12, 2012 the Board of Directors of the Company declared a special stock dividend to shareholders of Common Stock of
+the Company with the following stipulations: (a) Declaration date: March 16, 2012; (b) Record date: June 15, 2012; (c) Payment date:
+September 17, 2012; (d) Dividend ratio: All eligible shareholders of Common Stock of the Company as of the Record date shall receive
+three new shares of Common Stock of the Company for each share held by such shareholders as of the referenced record date. The purpose
+of this special stock dividend was to partially mitigate the impact of the dilution in connection with the 1-for-1,500 reverse split
+of the Common Stock on the Company s long-term shareholders and reward them for staying with the Company. On June 6, 2012, the
+Company s Board of Directors passed a resolution to change the record date for the special stock dividend to July 31, 2012 and
+the distribution date to November 30, 2012. The Company has reserved a total of 5,673,327 shares of Common Stock for this special dividend
+distribution and will reset a new distribution date when the market price of the Company s Common Stock makes the special stock
+dividend economically meaningful for such shareholders and a registration statement for the dividend shares is declared effective by
+the Securities and Exchange Commission. 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+June 30, 
+ 2022 
+ 2021 
+ 2020 
+ 
+ Net revenues 
+ 30,000 
+ 61,000 
+ 12,531 
+ 
+ Income (loss) from operations 
+ (16,899,928 
+ (852,616 
+ (1,861,207 
+ 
+ Net other income (expense) 
+ (4,254,515 
+ (5,700,562 
+ 539,402 
+ 
+ Net income (loss) 
+ (21,154,443 
+ (6,553,178 
+ (1,321,805 
+ 
+ Net income (loss) per share 
+ (0.00 
+ (0.00 
+ (0.00 
+ 
+ Total assets 
+ 469,963 
+ 927,796 
+ 465,469 
+ 
+ Total liabilities 
+ 7,013,465 
+ 6,925,185 
+ 7,525,259 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Except
+for the audited historical information contained herein, this report specifies forward-looking statements of management of the Company
+within the meaning of Section 27a of the Securities Act of 1933 and Section 21e of the Securities Exchange Act of 1934 forward-looking
+statements including, without limitation, forward-looking statements regarding the Company s expectations, beliefs, intentions
+and future strategies. Forward-looking statements are statements that estimate the happening of future events and are not based on historical
+facts. Forward- looking statements may be identified by the use of forward-looking terminology, such as could , may ,
+ will , expect , shall , estimate , anticipate , probable ,
+ possible , should , continue , intend or similar terms, variations of those terms
+or the negative of those terms. The forward-looking statements specified in this report have been compiled by management of the Company
+on the basis of assumptions made by management and considered by management to be reasonable. Future operating results of the Company,
+however, are impossible to predict and no representation, guaranty, or warranty is to be inferred from those forward-looking statements.
+The assumptions used for purposes of the forward-looking statements specified in this report represent estimates of future events and
+are subject to uncertainty as to possible changes in economic, legislative, industry, and other circumstances. As a result, the identification
+and interpretation of data and other information and their use in developing and selecting assumptions from and among reasonable alternatives
+require the exercise of judgment. To the extent that the assumed events do not occur, the outcome may vary substantially from anticipated
+or projected results, and, accordingly, no opinion is expressed on the achievability of those forward-looking statements. In addition,
+those forward-looking statements have been compiled as of the date of this report and should be evaluated with consideration of any changes
+occurring after the date of this report. No assurance can be given that any of the assumptions relating to the forward-looking statements
+specified in this report are accurate and the Company assumes no obligation to update any such forward-looking statements. 
+
+12 
+
+RESULTS
+OF OPERATIONS FOR THE YEARS ENDED JUNE 30, 2022 AND JUNE 30, 2021 
+
+Revenues: 
+
+The
+Company received 30,000 from consulting services for the fiscal year ended June 30, 2022 as compared to 61,000 from consulting services
+for the fiscal year ended June 30, 2021. 
+
+Operating
+Expenses: 
+
+The
+Company incurred total operating expenses of 16,929,928 for the fiscal year ended June 30, 2022 as compared to 913,616 for the
+year ended June 30, 2021. The increase of operating expenses between the two fiscal periods 16,047,312 includes an increase of
+ 45,538 in general and administrative expenses, an increase of 112,500 in salaries and wages, an increase of 1,018,651 for the
+development costs of the Asia Diamond Exchange and an increase of 14,839,623 in professional services mainly associated with the
+issuances of the Company s stock for the development and launching of an Asia Diamond Exchange (ADE) blockchain
+token. 
+
+Income
+(loss) from operations: 
+
+The
+Company had a loss from operations of 16,899,928 for the fiscal year ended June 30, 2022 as compared to a loss from operations of
+ 852,616 for the fiscal year ended June 30, 2021. This represents an increase of 16,047,312 in loss from operations during the
+current fiscal year as compared to that of the precious year. This was mainly due to an increase of 45,538 in general and
+administrative expenses, an increase of 112,500 in salaries and wages, an increase of 1,018,651 for the development costs of the
+Asia Diamond Exchange and an increase of 14,839,623 in professional services mainly associated with the issuances of the
+Company s stock for the development and launching of an Asia Diamond Exchange (ADE) blockchain token as mentioned
+above. 
+
+Other
+income (expense): 
+
+The
+Company had net other expenses of 4,254,515 for the fiscal year ended June 30, 2022 as compared to net other expenses of 5,700,562
+for the fiscal year ended June 30, 2021. The net variance of 1,446,047 between the two fiscal periods was primarily due to an increase
+of 711,419 in other income, an increase in interest expenses in the amount of 1,223,277 and a decrease in other expenses in the amount
+of 1,957,905. The Company recognized 1,118,195 as other income in connection with a gain in settlement of debt in the amount of 1,017,969
+and the sale of 400,000 CO2-1-0(CARBON) Corp. tokens for 100,000. As for other expenses, the Company incurred 3,780,153 under this
+category during the fiscal year ended June 30, 2022, primarily due to a loss in the amount of 877,484 in connection with cashless warrant
+exercises, a loss on note discounts of 221,307, penalties of 215,663, commissions of 10,000, a loss on derivatives of 427,704, a
+loss on issuance of stock in the amount of 237,879, prepayment premium of 23,809, and total financing costs of 336,392, as compared
+to 5,700,562 in other expenses during the previous fiscal year. Interest expenses for the current fiscal year is 1,592,557 as compared
+to interest expenses of 369,280 for the previous fiscal year. 
+
+Net
+income (loss): 
+
+The
+Company had a net loss of 21,154,443 for the fiscal ended June 30, 2022, as compared to a net loss of 6,553,178 for the fiscal year
+ended June 30, 2021, representing a variance of 14,601,265 in net loss between the two fiscal years. The net loss per share based on
+the basic and diluted weighted average number of common shares outstanding for the fiscal years ended June 30, 2022 and June 30, 2021
+was both (0.00). 
+
+CASH
+FLOWS 
+
+We
+had in cash and cash equivalents of 67,896 as of June 30, 2022 as compared to 95,344 in cash and cash equivalents as of June
+30, 2021, respectively. 
+
+Net
+cash used in our operating activities was 1,545,570 for the fiscal year ended June 30, 2022 as compared to cash used in operating
+activities of 79,446 for the fiscal year ended June 30, 2021. 
+
+13 
+
+The
+underlying reasons for the variance in net cash provided by and used in operating activities between the two fiscal year periods were
+mainly due to an increase in net loss from operations of 14,601,265, a net change in non-cash issuances of stock of 20,404,740 ,
+an increase in deferred financing costs of 355,860 ,
+a net decrease in assets and prepaid expenses of 179,420 and a net increase in accounts payable and accrued expenses of 224,410 between
+the two fiscal years. 
+
+There
+was 410,438 cash provided by investing activities during the fiscal year ended June 30, 2022, compared to 441,995 cash used in investing
+activities during the same period ended June 30, 2021. 
+
+Net
+cash provided by financing activities was 1,107,288 for the fiscal year ended June 30, 2022 as compared with net cash provided
+by financing activities of 391,404 for the fiscal year ended June 30, 2021. The net cash provided by financing activities for the current
+fiscal year primarily came from notes payable in the amount of 1,087,288 and 20,000 from issuances of common stock
+for cash. 
+
+HISTORICAL
+FINANCING ARRANGEMENTS 
+
+SHORT
+TERM NOTES PAYABLE AND ISSUANCE OF COMMON STOCK 
+
+In
+the course of its business, the Company has obtained short-term loans from individuals and institutional investors and from time to time
+raised money by issuing restricted common stock of the Company under the auspices of Rule 144. These notes bear interest rates ranging
+from 0 to 36 per annum. (Notes 8 13). 
+
+CONVERTIBLE
+PROMISSORY NOTES 
+
+The
+Company has also from time to time issued convertible promissory notes to various private investment funds for short-term working capital
+and special projects. Typically, these notes bear interest rates from 5 to 12 per annum, mature within one year, are convertible to
+common stock of the Company at a discount ranging from 42 to 50 , and may be repaid within 180 days at a prepayment premium ranging
+from 130 to 150 . (Note 8) 
+
+COMPANY S
+PLAN OF OPERATION FOR THE FOLLOWING 12 MONTHS 
+
+In
+the next twelve months the Company s goals are to advance a number of sub-funds under PHILUX Global Funds SCA, SICAV-RAIF for
+investment in real estate, renewable energy, agriculture, infrastructure, and healthcare, as well as develop the Asia Diamond
+Exchange in Vietnam. The Company will also continue to carry out its merger and acquisition program by acquiring target companies
+for roll-up strategy and also invest in special situations. In particular, the Company plans to complete the pending acquisitions of
+KOTA Energy Group LLC, KOTA Construction LLC, and Tin Thanh Group and intends to execute the new business plan in conjunction with
+Tin Thanh Group regarding the smart-tire leasing program and the production of hydrogen in collaboration with Air Products and
+Chemicals. Moreover, the Company will continue to provide advisory and consulting services to international clients through its
+wholly owned subsidiary PHILUX Capital Advisors, Inc. (formerly known as PHI Capital Holdings, Inc.) 
+
+In
+addition, the Company and its subsidiaries have entered into loan financing agreements, investment management agreements, joint venture
+agreement, and memorandum of understanding with six international investor groups for a total of six billion three hundred million U.S.
+dollars, as reported in various 8-K filings with the Securities and Exchange Commission. The Company expects to begin receiving capital
+through these sources in the near future to support its merges and acquisitions and investment programs. 
+
+FINANCIAL
+PLANS 
+
+MATERIAL
+CASH REQUIREMENTS: We must raise substantial amounts of capital to fulfill our plans for PHILUX Global Funds and for acquisitions. We
+intend to use equity, debt and project financing to meet our capital needs for acquisitions and investments. 
+
+Management
+has taken action and formulated plans to meet the Company s operating needs through June 30, 2023 and beyond. The working capital
+cash requirements for the next 12 months are expected to be generated from operations, sale of marketable securities and additional financing.
+The Company plans to generate revenues from its consulting services, merger and acquisition advisory services, and acquisitions of target
+companies with cash flows. 
+
+AVAILABLE
+FUTURE FINANCING ARRANGEMENTS: The Company may use various sources of funds, including short-term loans, long-term debt, equity capital,
+and project financing as may be necessary. The Company believes it will be able to secure the required capital to implement its business
+plan. 
+
+14 
+
+EQUITY
+LINE OF CREDIT WITH INSTITUTIONAL INVESTOR 
+
+On
+March 01, 2022, the Company entered into an equity purchase agreement with an institutional investor The Investor as
+follows: 
+
+The
+Investor will provide an equity line of up to 10,000,000 to the Company, pursuant to which the Company has the right, but not the obligation,
+during the 24 months after an effective registration of the underlying shares, to issue a notice to the Investor (each a Drawdown
+Notice which shall specify the amount of registered shares of common stock of the Company (the Put Shares that
+the Company elects to sell to the Investor, from time to time, up to an aggregate amount equal to 10,000,000. 
+
+The
+pricing period of each put will be the 7 trading days immediately following receipt of the Put Shares (the Pricing Period ). 
+
+The
+purchase price per share shall mean 90 of the average of the 2 lowest volume-weighted average prices of the Common Stock during the
+Pricing Period, less clearing fees, brokerage fees, other legal, and transfer agent fees incurred in the deposit (the Net Purchase
+Amount ). The Investor shall pay the Net Purchase Amount to the Company by wire for each Drawdown Notice within 2 business days
+of the end of the Pricing Period. 
+
+The
+put amount in each Drawdown Notice shall not be less than 50,000 and shall not exceed the lesser of (i) 500,000 or (ii) 200 of the
+average dollar trading volume of the Common Stock during the 7 trading days immediately before the Put Date, subject to Beneficial Ownership
+cap. 
+
+There
+shall be a 7 trading day period between the receipt of the Put Shares and the next put. 
+
+The
+Company intends to file an S-1 Registration Statement with the Securities and Exchange Commission for this Equity Line of Credit. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+The
+following discussion about PHI Group Inc. s market risk involves forward-looking statements. Actual results could differ materially
+from those projected in the forward-looking statements. 
+
+Currency
+Fluctuations and Foreign Currency Risk 
+
+Some
+of our acquisition targets and partner companies are located outside of the United States and use currencies other than the U.S. dollar
+as the official currencies of those countries. The fluctuations of exchange rates in these countries may affect the value of our business. 
+
+Interest
+Rate Risk 
+
+We
+do not have significant interest rate risk, as most of our debt obligations are primarily short-term in nature to individuals, with fixed
+interest rates. 
+
+Valuation
+of Securities Risk 
+
+Since
+some of our income in the past was paid with the marketable securities, the value of our assets may fluctuate significantly depending
+on the market value of the securities we hold. 
+
+15 
+
+ITEM
+8. FINANCIAL STATEMENTS 
+
+PHI
+GROUP, INC. 
+
+ INDEX
+TO FINANCIAL STATEMENTS 
+
+Report of Independent Registered Public Accounting Firm (PCAOB No.:6662) 
+ 
+ F-1 
+
+Balance Sheet as of June 30, 2022 and June 30, 2021 
+ 
+ F-2 
+
+Statement of Operations for the fiscal years ended June 30, 2022 and June 30, 2021 
+ 
+ F-3 
+
+Statement of Cash Flows for the fiscal years ended June 30, 2022 and June 30, 2021 
+ 
+ F-4 
+
+Statement of Stockholders Equity (Deficit) for the fiscal years ended June 30, 2022 and June 30, 2021 
+ 
+ F-5 
+
+Notes to Financial Statements 
+ 
+ F-6 
+
+16 
+
+M.S.
+ Madhava Rao 
+ 316,
+ 1 st Cross, Gururaja Layout, 7 th Block, 4 th Phase, BSK 3 rd Stage, Bangalore 560085 
+ Tel
+ No: 91-8861838006 email : mankalr@yahoo.com 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Shareholders 
+
+ PHI
+Group Inc. 
+
+ 2323
+Main Street, 
+
+ Irvine,
+CA 92614 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying Consolidated balance sheet of PHI Group, Inc. (the Company as of June 30, 2022 and 2021,
+the related statements of operations, changes in shareholders deficit and the related notes (collectively referred to as the financial
+statements ). In our opinion, the financial statements present fairly, in all material respects, the financial position of the
+Company as of June 30, 2022 and 2021, and the results of its operations and its cash flows for the period June 30, 2022 and 2021, in
+conformity with accounting principles generally accepted in the United States of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+The
+Company s financial statements are prepared using the generally accepted accounting principles applicable to a going concern, which
+contemplates the realization of assets and liquidation of the liabilities in the normal course of business. The Company has an accumulated
+deficit of 71,717,973 and had a negative cash flow from operations amounting to 1,545,570 for the year ended June 30, 2022. These factors
+as discussed in Note 19 of the financial statements raise substantial doubt about the Company s ability to continue as a going
+concern. Management s plans in regard to these matters are also described in Note 19. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty 
+
+Critical
+Audit Matters 
+
+Critical
+audit matters arising from the current period of the financial statements that were communicated or required to be communicated to the
+audit committee and that (1) relate to accounts or disclosure that are material to the financial statements and (2) involve especially
+challenging, subjective, or complex judgements. The communication of critical audit matters does not alter in any way our opinion on
+the financial statements, taken as a whole, and we are not, by communicating the critical audit below, providing separate opinions on
+the critical audit matters or the accounts or disclosures to which they relate. 
+
+Related
+party transactions. 
+
+As
+discussed in Notes 7 and 16 to the financial statement, the Company has borrowed and accrued salaries from related parties in the amounts
+of 1,077,218 and 360,000 as of the date of June 30, 2022 respectively. The Company is relying on borrowings and contributions by shareholders
+as well as by selling stock. It is expected to incur losses and negative cash flow in the future. 
+
+The
+procedure performed to address the matter included: obtaining confirmation from related party. 
+
+Chartered
+ Accountant 
+
+Bangalore,
+ India 
+
+January
+ 13, 2023 
+
+F- 1 
+
+PHI
+GROUP, INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+BALANCE SHEETS (AUDITED) 
+
+June
+ 30, 
+ June
+ 30, 
+
+2022 
+ 2021 
+ 
+ ASSETS 
+
+Current
+ Assets 
+
+Cash
+ and cash equivalents 
+ 67,896 
+ 95,344 
+ 
+ Marketable
+ securities 
+ 546 
+ 385,457 
+ 
+ Other
+ current assets 
+ 365,360 
+ - 
+ 
+ Total
+ current assets 
+ 433,802 
+ 480,801 
+ 
+ Other
+ assets: 
+
+Investments 
+ 36,161 
+ 446,995 
+ 
+ Total
+ Assets 
+ 469,963 
+ 927,796 
+
+TOTAL
+ LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current
+ Liabilities 
+
+Accounts
+ payable 
+ 615,805 
+ 608,521 
+ 
+ Sub-fund
+ obligations 
+ 1,574,775 
+ 1,474,775 
+ 
+ Accrued
+ expenses 
+ 931,417 
+ 1,993,478 
+ 
+ Short-term
+ loans and notes payable 
+ 676,888 
+ 325,621 
+ 
+ Convertible
+ Promissory Notes 
+ 756,250 
+ 220,230 
+ 
+ Due
+ to officers 
+ 1,077,218 
+ 1,720,323 
+ 
+ Advances
+ from customers 
+ 665,434 
+ 582,237 
+ 
+ Derivative
+ liabilities and Note Discount 
+ 715,677 
+ - 
+ 
+ Total
+ Liabilities 
+ 7,013,465 
+ 6,925,185 
+
+Stockholders 
+ deficit: 
+
+Preferred
+ Stock, 0.001 par value; 500,000,000 shares authorized. 600,000 shares and 180,000 shares Class B Series I issued and outstanding
+ as of 06/30/2022 and 06/30/2021 respectively. Par value: 
+ 600 
+ 180 
+ 
+ APIC
+ - Class B Series I 
+ 1,840 
+ - 
+ 
+ Total
+ Preferred Stock 
+ 2,440 
+ 180 
+ 
+ Common stock, 0.001
+ par value; 60 billion shares authorized; 31,429,380,453 shares issued and
+ outstanding on 06/30/2022; 40 billion shares authorized and 26,081,268,895 shares issued and outstanding
+ on 6/30/2021, respectively, adjusted for 1 for 1,500 reverse split effective March 15, 2012. 
+
+Par value: 
+ 31,429,381 
+ 26,081,269 
+ 
+ APIC
+ - Common Stock 
+ 34,394,912 
+ 21,123,349 
+ 
+ Common
+ Stock to be issued 
+ - 
+ 15,000 
+ 
+ Common
+ Stock to be cancelled 
+ (35,500 
+ (2,696,410 
+ 
+ Treasury
+ stock: 484,767 shares as of 6/30/22 and 6/30/21, respectively - cost method. 
+ (44,170 
+ (44,170 
+ 
+ Accumulated
+ deficit 
+ (71,717,973 
+ (50,563,530 
+ 
+ Total
+ Acc. Other Comprehensive Income (Loss) 
+ (572,591 
+ 86,923 
+ 
+ Total
+ stockholders deficit 
+ (6,543,502 
+ (5,997,389 
+ 
+ Total
+ liabilities and stockholders deficit 
+ 469,963 
+ 927,796 
+
+The
+accompanying notes form an integral part of these audited consolidated financial statements 
+
+F- 2 
+
+PHI
+GROUP, INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENT OF OPERATIONS (AUDITED) 
+
+ FOR
+THE YEARS ENDED 
+
+JUNE
+ 30, 
+
+2022 
+ 2021 
+ 
+ Net
+ revenues 
+
+Consulting,
+ advisory and management services 
+ 30,000 
+ 61,000 
+ 
+ Total
+ revenues 
+ 30,000 
+ 61,000 
+ 
+ Operating
+ expenses: 
+
+Salaries
+ and wages 
+ 360,000 
+ 247,500 
+ 
+ Professional
+ services, including non-cash compensation 
+ 15,347,903 
+ 508,280 
+ 
+ Asia Diamond Exchange development costs 
+ 1,018,651 
+ - 
+ 
+ General
+ and administrative 
+ 203,374 
+ 157,836 
+ 
+ Total
+ operating expenses 
+ 16,929,928 
+ 913,616 
+
+Income
+ (loss) from operations 
+ (16,899,928 
+ (852,616 
+
+Other
+ income and expenses 
+
+Other
+ income 
+ 1,118,195 
+ 406,776 
+ 
+ Interest
+ expense 
+ (1,592,557 
+ (369,280 
+ 
+ Other
+ expenses 
+ (3,780,153 
+ (5,738,058 
+ 
+ Net
+ other income (expenses) 
+ (4,254,515 
+ (5,700,562 
+
+Net
+ income (loss) 
+ (21,154,443 
+ (6,553,178 
+
+Net
+ loss per share: 
+
+Basic 
+ (0.00 
+ (0.00 
+ 
+ Diluted 
+ (0.00 
+ (0.00 
+
+Weighted
+ average number of shares outstanding: 
+
+Basic 
+ 28,448,615,941 
+ 17,386,377,288 
+ 
+ Diluted 
+ 28,448,615,941 
+ 17,386,377,288 
+
+The
+accompanying notes form an integral part of these audited consolidated financial statements 
+
+F- 3 
+
+PHI
+GROUP, INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ FOR
+THE YEARS ENDED JUNE 30, 2022 AND 2021 
+
+ AUDITED 
+
+2022 
+ 2021 
+ 
+ Cash flows from operating activities: 
+
+Net income (loss) from operations 
+ (21,154,443 
+ (6,553,178 
+ 
+ Mark-to-market adjustments 
+ (659,514 
+ 110,222 
+ 
+ Net change due to non-cash issuances of stock 
+ 20,404,740 
+ 6,903,693 
+ 
+ Adjustments to reconcile net income to net cash used in operating activities: 
+
+(Increase) decrease in assets and prepaid expenses 
+
+Marketable securities 
+ 384,911 
+ (150,369 
+ 
+ Total deferred financing costs 
+ (355,860 
+ - 
+ 
+ Total (increase) decrease in assets and prepaid expenses 
+ 29,051 
+ (150,369 
+ 
+ Increase (decrease) in accounts payable and accrued expenses 
+
+Accounts payable 
+ 7,284 
+ 254,441 
+ 
+ Sub-fund obligations 
+ 90,500 
+ 208,141 
+ 
+ Accrued expenses 
+ (1,062,061 
+ (805,265 
+ 
+ Advances from customers 
+ 83,197 
+ 151,737 
+ 
+ Derivative liabilities 
+ 715,677 
+ (198,868 
+ 
+ Total increase (decrease) in accounts payable and accrued expenses 
+ (165,404 
+ (389,814 
+ 
+ Net cash provided by (used in) operating activities 
+ (1,545,570 
+ (79,446 
+
+Cash flows from investing activities: 
+
+Net cash provided by (used in) investing activities 
+ 410,834 
+ (441,995 
+
+Cash flows from financing activities: 
+
+Loans from Directors/Officers 
+ - 
+ 24,049 
+ 
+ Notes payable 
+ 1,087,288 
+ 254,825 
+ 
+ Common Stock 
+ 20,000 
+ 112,530 
+ 
+ Net cash provided by (used in) financing activities 
+ 1,107,288 
+ 391,404 
+ 
+ Net decrease in cash and cash equivalents 
+ (27,448 
+ (130,037 
+ 
+ Cash and cash equivalents, beginning of period 
+ 95,344 
+ 225,381 
+ 
+ Cash and cash equivalents, end of period 
+ 67,896 
+ 95,344 
+
+The
+accompanying notes form an integral part of these audited consolidated financial statements 
+
+F- 4 
+
+PHI
+GROUP, INC. AND SUBSIDIARIES 
+
+ STATEMENT
+OF STOCKHOLDERS DEFICIT (AUDITED) 
+
+ FOR
+THE YEARS ENDED JUNE 30, 2022 AND JUNE 30, 2021 
+
+Common
+ Stock 
+ Preferred
+ Stock 
+ Additional 
+ Treasury
+ Stock 
+ Common Stock 
+ Other 
+ 
+ Total 
+
+Shares 
+ Par
+ Value Amount 
+ Shares 
+ Amount 
+ Paid-in
+ Capital 
+ Shares 
+ Amount 
+ to be
+ Cancelled 
+ Comprehensive 
+ Gain
+ (loss) 
+ Accumulated 
+ Deficit 
+ Shareholders 
+ Deficit 
+ 
+ Balance at Fiscal Year Ended June 30, 2021 
+ 26,081,268,895 
+ 26,081,269 
+ 180,000 
+ 180 
+ 21,123,350 
+ (484,767 
+ (44,170 
+ (35,500 
+ (266,890 
+ (50,563,350 
+ (5,997,389 
+ 
+ Common Shares cancelled during quarter ended September 30, 2021 
+ -784,249 
+ (784 
+
+(753 
+
+(1,537 
+ 
+ Common Shares issued for conversion of loans duirng quarter ended September
+ 30, 2021 
+ 103,279,112 
+ 103,279 
+
+495,740 
+
+599,019 
+ 
+ Common Shares issued for accrued salaries during quarter ended September
+ 30, 2021 
+ 222,823,725 
+ 222,824 
+
+1,362,666 
+
+1,585,490 
+ 
+ Common Shares issued for consulting service during quarter ended September
+ 30, 2021 
+ 767,000,000 
+ 767,000 
+
+4,141,800 
+
+4,908,800 
+ 
+ Net Income (Loss) for the quarter ended September 30, 2021 
+
+(5,960,170 
+ 
+ Balance as of September 30, 2021 
+ 27,173,587,483 
+ 27,173,588 
+ 180,000 
+ 180 
+ 27,122,803 
+ (484,767 
+ (44,170 
+ (35,500 
+ 2,423,041 
+ (56,523,700 
+ (2,514,670 
+ 
+ Common Shares cancelled during the quarter ended December 31, 2021 
+ -235,478,810 
+ -235,479 
+
+-2,425,432 
+
+(2,660,911 
+ 
+ Common Shares issued for Consulting service during the quarter ended December
+ 31, 2021 
+ 1,533,000,000 
+ 1,533,000 
+
+8,201,200 
+
+9,734,200 
+ 
+ Common Shares issued for accrued salaries during the quarter ended December
+ 31, 2021 
+ 52,196,586 
+ 52,197 
+
+245,524 
+
+297,721 
+ 
+ Common Shares issued for conversion of note during the quarter ended December
+ 31, 2021 
+ 54,750,000 
+ 54,750 
+
+117,859 
+
+172,609 
+ 
+ Common Shares issued for exercise of warrants during the quarter ended December 31, 2021 
+ 166,443,119 
+ 166,443 
+
+53,211 
+
+219,654 
+ 
+ Common Shares issued for previously paid subscription during the quarter
+ ended December 31, 2021 
+ 30,000,000 
+ 30,000 
+
+135,000 
+
+165,000 
+ 
+ Preferred Stock issued for loan payment during the quarter ended December
+ 31, 2021 
+
+420,000 
+ 420 
+ 1,840 
+
+600 
+ 
+ Net Income (Loss) for the quarter ended December 31, 2021 
+
+(10,591,638 
+ 
+ Balance as of December 31, 2021 
+ 28,774,498,378 
+ 28,774,498 
+ 600,000 
+ 600 
+ 33,450,163 
+ (484,767 
+ (44,170 
+ (35,500 
+ 3,504,806 
+ (67,115,338 
+ (1,463,100 
+ 
+ Common Shares issued for conversion of notes during the quarter ended March
+ 31, 2022 
+ 827,958,704 
+ 827,959 
+
+1,042,281 
+
+1,870,240 
+ 
+ Common Shares issued for exercise of warrants during the quarter ended March 31, 2022 
+ 220,476,431 
+ 220,476 
+
+456,128 
+
+676,604 
+ 
+ Common Shares issued for accrued salaries during the quarter ended March
+ 31, 2022 
+ 55,000,000 
+ 55,000 
+ 600,000 
+ 600 
+ 88,000 
+
+143,000 
+ 
+ Balance as of March 31, 2022 
+ 29,877,933,513 
+ 29,877,933 
+ 600,000 
+ 600 
+ 35,036,572 
+ (484,767 
+ (44,170 
+ (35,500 
+ 3,283,997 
+ (69,617,693 
+ (946,420 
+ 
+ Common Shares issued for conversion of notes during the quarter ended June
+ 30, 2022 
+ 1,541,446,776 
+ 1,541,447 
+
+(636,660 
+
+904,787 
+ 
+ Common Shares issued for cash during the quarter ended June 30, 2022 
+ 10,000,000 
+ 10,000 
+
+(5,000 
+
+5,000 
+ 
+ Balance at Fiscal Year Ended June 30, 2022 
+ 31,429,380,289 
+ 31,429,381 
+ 600,000 
+ 600 
+ 34,394,912 
+ (484,767 
+ (44,170 
+ (35,500 
+ (572,591 
+ (71,717,973 
+ (6,543,502 
+
+The
+accompanying notes form an integral part of these audited consolidated financial statements. 
+
+F- 5 
+
+PHI
+GROUP, INC. AND SUBSIDIARIES 
+
+ (a/k/a
+PHILUX GLOBAL GROUP INC) 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE
+1 NATURE OF BUSINESS 
+
+PHI
+Group, Inc. (n/k/a Philux Global Group Inc) (the Company or PHI ( www.philuxglobal.com is primarily
+engaged in mergers and acquisitions, advancing PHILUX Global Funds, SCA, SICAV-RAIF, a Reserved Alternative Investment Fund RAIF under the laws of Luxembourg, and establishing the Asia Diamond Exchange in Vietnam. Besides, the Company provides
+corporate finance services, including merger and acquisition advisory and consulting services for client companies through our wholly
+owned subsidiary PHILUX Capital Advisors, Inc. (formerly PHI Capital Holdings, Inc.) (www.philuxcapital.com and invests in selective
+industries and special situations aiming to potentially create significant long-term value for our shareholders. PHILUX Global Funds
+intends to include a number of sub-funds for investment in select growth opportunities in the areas of agriculture, renewable energy,
+real estate, infrastructure, and the Asia Diamond Exchange in Vietnam. 
+
+BACKGROUND 
+
+Originally
+incorporated on June 8, 1982 as JR Consulting, Inc., a Nevada corporation, the Company applied for a Certificate of Domestication and
+filed Articles of Domestication to become a Wyoming corporation on September 20, 2017. In the beginning, the Company was foremost engaged
+in mergers and acquisitions and had an operating subsidiary, Diva Entertainment, Inc., which operated two modeling agencies, one in New
+York and one in California. In January 2000, the Company changed its name to Providential Securities, Inc., a Nevada corporation, following
+a business combination with Providential Securities, Inc., a California-based financial services company. In February 2000, the Company
+then changed its name to Providential Holdings, Inc. In October 2000, Providential Securities withdrew its securities brokerage membership
+and ceased its financial services business. Subsequently, in April 2009, the Company changed its name to PHI Group, Inc. From October
+2000 to October 2011, the Company and its subsidiaries were engaged in various transactions in connection with mergers and acquisitions
+advisory and consulting services, real estate and hospitality development, mining, oil and gas, telecommunications, technology, healthcare,
+private equity, and special situations. In October 2011, the Company discontinued the operations of Providential Vietnam Ltd., Philand
+Ranch Limited, a United Kingdom corporation (together with its subsidiaries Philand Ranch - Singapore, Philand Corporation - US, and
+Philand Vietnam Ltd. - Vietnam), PHI Gold Corporation (formerly PHI Mining Corporation, a Nevada corporation), and PHI Energy Corporation
+(a Nevada corporation), and mainly focused on acquisition and development opportunities in energy and natural resource businesses. 
+
+The
+Company is currently focused on PHILUX Global Funds, SCA, SICAV-RAIF by launching Philux Global Select Growth Fund and potentially other
+sub-funds for investment in real estate, renewable energy, infrastructure, agriculture and healthcare and the Asia Diamond Exchange in
+Vietnam. In addition, PHILUX Capital Advisors, Inc. (formerly Capital Holdings, Inc.), a wholly owned subsidiary of the Company, continues
+to provide corporate and project finance services, including merger and acquisition (M A) advisory and consulting services for U.S.
+and international companies. The Company has signed agreements to acquire majority equity interests in Kota Construction LLC and Kota
+Energy Group LLC which are engaged in solar energy business https://www.kotasolar.com ), Tin Thanh Group, a Vietnamese joint stock
+company www.tinthanhgroup.vn and Van Phat Dat Joint Stock Company, a Vietnamese joint stock company. In addition, the Company
+is in the process of amending the Purchase and Sale Agreement that was originally signed on January 18, 2022 with Five-Grain Treasure
+Spirits Co., Ltd., a Chinese baiju distiller, to collaborate in launching American-made baiju products through Empire Spirits, Inc.,
+a subsidiary of the Company. The Company will relocate CO2-1-0 (CARBON) Corp., a subsidiary of the Company engaged in carbon emission
+mitigation using blockchain and crypto technologies, to the United Arab Emirates. These activities are disclosed in greater detail elsewhere
+in this report. No assurances can be made that the Company will be successful in achieving its plans. 
+
+NOTE
+2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+PRINCIPLES
+OF CONSOLIDATION 
+
+The
+consolidated financial statements include the accounts of (1) PHI Group, Inc., its subsidiaries including (2) PHILUX Global Funds SCA,
+SICAV-RAIF, a Luxembourg bank fund designed to hold a number of subfund compartments for investing in various selective industries, (3)
+PHI Luxembourg Development S.A., the mother holding company for PHILUX Global Funds, (4) PHI Luxembourg Holding S.A., (5) PHILUX Global
+General Partner S.A., (6) Asia Diamond Exchange, Inc., a Wyoming corporation (100 ), (7) PHILUX Capital Advisors, Inc., a Wyoming corporation
+(100 ), and (8) CO2-1-0 (CARBON) Corp., collectively referred to as the Company. The other subsidiaries of the Company
+were not active during the fiscal year ended June 30, 2022. All significant inter-company transactions have been eliminated in consolidation. 
+
+USE
+OF ESTIMATES 
+
+The
+preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of
+America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during
+the reporting period. Actual results could differ from those estimates. 
+
+CASH
+AND CASH EQUIVALENTS 
+
+The
+Company considers all liquid investments with a maturity of three months or less from the date of purchase that are readily convertible
+into cash to be cash equivalents. 
+
+F- 6 
+
+MARKETABLE
+SECURITIES 
+
+The
+Company s securities are classified as available-for-sale and, as such, are carried at fair value. Securities classified as available-for-sale
+may be sold in response to changes in interest rates, liquidity needs, and for other purposes. 
+
+Each
+investment in marketable securities typically represents less than twenty percent (20 of the outstanding common stock and stock equivalents
+of the investee, and each security is quoted on a national exchange or on the OTC Markets. As such, each investment is accounted for
+in accordance with the provisions of ASC 320 (previously SFAS No. 115). 
+
+Unrealized
+holding gains and losses for available-for-sale securities are excluded from earnings and reported as a separate component of stockholder s
+equity. Realized gains and losses for securities classified as available-for-sale are reported in earnings based upon the adjusted cost
+of the specific security sold. On June 30, 2022 and 2021 the marketable securities have been recorded at 546 and 385,457, respectively,
+based upon the fair value of the marketable securities at that time. 
+
+ACCOUNTS
+RECEIVABLE 
+
+Management
+reviews the composition of accounts receivable and analyzes historical bad debts. There was no account receivable or bad debt during
+the fiscal ended June 30, 2022. 
+
+IMPAIRMENT
+OF LONG-LIVED ASSETS 
+
+Effective
+January 1, 2002, the Company adopted ASC 350 (Previously SFAS 144, Accounting for the Impairment or Disposal of Long-Lived Assets ),
+which addresses financial accounting and reporting for the impairment or disposal of long-lived assets and supersedes SFAS No. 121, Accounting
+for the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed Of, and the accounting and reporting provisions
+of APB Opinion No. 30, Reporting the Results of Operations for a Disposal of a Segment of a Business. The Company periodically
+evaluates the carrying value of long-lived assets to be held and used in accordance with ASC 350. ASC 350 requires impairment losses
+to be recorded on long-lived assets used in operations when indicators of impairment are present and the undiscounted cash flows estimated
+to be generated by those assets are less than the assets carrying amounts. In that event, a loss is recognized based on the amount
+by which the carrying amount exceeds the fair market value of the long-lived assets. Loss on long-lived assets to be disposed of is determined
+in a similar manner, except that fair market values are reduced for the cost of disposal. 
+
+PROPERTY
+AND EQUIPMENT 
+
+Property
+and equipment are stated at cost. Maintenance and repair costs are charged to expense as incurred; costs of major additions and betterments
+are capitalized. When property and equipment are sold or otherwise disposed of, the cost and related accumulated depreciation are eliminated
+from the accounts and any resulting gain or loss is reflected in income. Depreciation is computed using the straight-line method over
+the estimated useful lives of the assets, ranging from three to ten years. 
+
+DEPRECIATION
+AND AMORTIZATION 
+
+The
+cost of property and equipment is depreciated over the estimated useful lives of the related assets. Depreciation and amortization of
+fixed assets are computed on a straight-line basis. 
+
+NET
+EARNINGS (LOSS) PER SHARE 
+
+The
+Company adopted the provisions of ASC 260 (previously SFAS 128). ASC 260 eliminates the presentation of primary and fully diluted earnings
+per share EPS and requires presentation of basic and diluted EPS. Basic EPS is computed by dividing income (loss) available
+to common stockholders by the weighted-average number of common shares outstanding for the period. Diluted EPS is based on the weighted-average
+number of shares of common stock outstanding for the period and common stock equivalents outstanding at the end of the period. 
+
+The
+net earnings (loss) per share is computed as follows: 
+
+ Schedule
+of Net Earnings (Loss) Per Share 
+
+Basic
+ and diluted loss per share: 
+ 2022 
+ 2021 
+ 
+ Numerator: 
+
+Net
+ income (loss): 
+ (21,154,443 
+ (6,553,178 
+ 
+ Denominator: 
+
+Basic
+ weighted average number of common shares outstanding: 
+ 28,448,615,941 
+ 17,386,377,288 
+ 
+ Basic
+ net income per share 
+ - 
+ - 
+
+Diluted weighted
+ average number of common shares outstanding: 
+
+Diluted
+ net income (loss) per share: 
+ (0.00 
+ (0.00 
+
+F- 7 
+
+STOCK-BASED
+COMPENSATION 
+
+Effective
+July 1, 2006, the Company adopted ASC 718-10-25 (previously SFAS 123R) and accordingly has adopted the modified prospective application
+method. Under this method, ASC 718-10-25 is applied to new awards and to awards modified, repurchased, or cancelled after the effective
+date. Additionally, compensation cost for the portion of awards that are outstanding as of the date of adoption for which the requisite
+service has not been rendered (such as unvested options) is recognized over a period of time as the remaining requisite services are
+rendered. 
+
+FAIR
+VALUE OF FINANCIAL INSTRUMENTS 
+
+Fair
+Value - Definition and Hierarchy 
+
+Fair
+value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between
+market participants at the measurement date. Assets and liabilities measured at fair value are categorized based on whether or not the
+inputs are observable in the market and the degree that the inputs are observable. The categorization of financial assets and liabilities
+within the valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement. 
+
+A
+fair value hierarchy for inputs is used in measuring fair value that maximizes the use of observable inputs and minimizes the use of
+unobservable inputs by requiring that the most observable inputs are to be used when available. 
+
+ Valuation
+techniques that are consistent with the market or income approach are used to measure fair value. The fair value hierarchy is categorized
+into three levels based on the inputs as follows: 
+
+Level
+ 1 - Valuations based on unadjusted quoted prices in active markets for identical assets or liabilities that the Fund has the ability
+to access. 
+
+Level
+ 2 - Valuations based on inputs other than quoted prices included in Level 1 that are observable, either directly or indirectly. 
+
+Level
+3 - Valuations based on inputs that are unobservable and significant to the overall fair value measurement. 
+
+Fair
+value is a market-based measure, based on assumptions of prices and inputs considered from the perspective of a market participant that
+are current as of the measurement date, rather than an entity-specific measure. Therefore, even when market assumptions are not readily
+available, the Company s own assumptions are set to reflect those that market participants would use in pricing the asset or liability
+at the measurement date. The availability of valuation techniques and observable inputs can vary from investment to investment and are
+affected by a wide variety of factors, including; type of investment, whether the investment is new and not yet established in the marketplace,
+the liquidity of markets, and other characteristics particular to the transaction. 
+
+To
+the extent that valuation is based upon models or inputs that are less observable or unobservable in the market, the determination of
+fair value requires more judgment. Because of the inherent uncertainty of valuation, those estimated values may be materially higher
+or lower than the values that would have been used had a ready market for the investments existed. Accordingly, the degree of judgment
+exercised by the Fund in determining fair value is greatest for investments categorized in Level 3. In certain cases, the inputs used
+to measure fair value may fall into different levels of the fair value hierarchy. In such cases, the level in the fair value hierarchy
+in which the fair value measurement falls in its entirety is determined based upon the lowest level input that is significant to the
+fair value measurement. 
+
+Fair
+Value - Valuation Techniques and Inputs 
+
+The
+Company holds and may invest public securities traded on public exchanges or over-the-counter (OTC), private securities, real estate,
+convertible securities, interest bearing securities and other types of securities and has adopted specific techniques for their respective
+valuations. 
+
+Equity
+Securities in Public Companies 
+
+Unrestricted 
+
+The
+Company values investments in securities that are freely tradable and listed on major securities exchanges at their last reported sales
+price as of the valuation date. To the extent these securities are actively traded and valuation adjustments are not applied, they are
+categorized in Level 1 of the fair value hierarchy. 
+
+Securities
+traded on inactive markets or valued by reference to similar instruments are generally categorized in Level 2 or 3 of the fair value
+hierarchy. 
+
+F- 8 
+
+Restricted 
+
+Securities
+traded on public exchanges or over-the-counter (OTC) where there are formal restrictions that limit (i.e. Rule 144 holding periods and
+underwriter s lock-ups) their sale shall be valued at the closing price on the date of valuation less applicable discounts. The
+Company may apply a discount to securities with Rule 144 restrictions. Additional discounts may be assessed if the Company believes there
+are other mitigating factors which warrant the additional discounting. When determining potential additional discounts, factors that
+will be taken into consideration include, but are not limited to; securities trading characteristics, volume, length and overall
+impact of the restriction as well as other macro-economic factors. Valuations should be discounted appropriately until the securities
+may be freely traded. 
+
+If
+it has been determined that the exchange or OTC listed price does not accurately reflect fair market value, the Company may elect to
+treat the security as a private company and apply an alternative valuation method. 
+
+Investments
+in restricted securities of public companies may be included in Level 2 of the fair value hierarchy. However, to the extent that significant
+inputs used to determine liquidity discounts are not observable, investments in restricted securities in public companies may be categorized
+in Level 3 of the fair value hierarchy. 
+
+The
+Company s financial instruments primarily consist of cash and cash equivalents, accounts receivable, marketable securities, short-term
+notes payable, convertible notes, derivative liability and accounts payable. 
+
+As
+of the balance sheet dates, the estimated fair values of the financial instruments were not materially different from their carrying
+values as presented on the balance sheet. This is primarily attributed to the short maturities of these instruments. 
+
+Effective
+July 1, 2008, the Company adopted ASC 820 (previously SFAS 157), Fair Value Measurements and adopted this Statement for the assets
+and liabilities shown in the table below. ASC 820 clarifies the definition of fair value, prescribes methods for measuring fair value,
+establishes a fair value hierarchy based on the inputs used to measure fair value, and expands disclosures about the use of fair value
+measurements. The adoption of ASC 820 did not have a material impact on our fair value measurements. ASC 820 permits the Company to defer
+the recognition and measurement of the nonfinancial assets and nonfinancial liabilities until January 1, 2010. At June 30, 2022, the
+Company did not have any nonfinancial assets or nonfinancial liabilities that are recognized or disclosed at fair value. ASC 820 requires
+that financial assets and liabilities that are reported at fair value be categorized as one of the types of investments based upon the
+methodology mentioned in Level 1, Level 2 and Level 3 above for determining fair value. 
+
+Assets
+measured at fair value on a recurring basis are summarized below. The Company also has convertible notes and derivative liabilities as
+disclosed in this report that are measured at fair value on a regular basis until paid off or exercised. 
+
+The
+Company uses various approaches to measure fair value of available-for-sale securities, while applying the three-level valuation hierarchy
+for disclosures, specified in ASC 820. Our Level 1 securities were measured using the quoted prices in active markets for identical assets
+and liabilities. 
+
+The
+company s policy regarding the transfers in and/or out of Level 3 depends on the trading activity of the security, the volatility
+of the security, and other observable units which clearly represents the fair value of the security. If a level 3 security can be measured
+using a more fairly represented fair value, we will transfer these securities either into Level 1 or Level 2, depending on the type of
+inputs. 
+
+F- 9 
+
+REVENUE
+RECOGNITION STANDARDS 
+
+ASC
+606-10 provides the following overview of how revenue is recognized from an entity s contracts with customers: An entity recognizes
+revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity
+expects to be entitled in exchange for those goods or services. 
+
+Step
+1: Identify the contract(s) with a customer. 
+
+Step
+2: Identify the performance obligations in the contract. 
+
+Step
+3: Determine the transaction price The transaction price is the amount of consideration in a contract to which an entity expects
+to be entitled in exchange for transferring promised goods or services to a customer. 
+
+Step
+4: Allocate the transaction price to the performance obligations in the contract Any entity typically allocates the transaction
+price to each performance obligation on the basis of the relative standalone selling prices of each distinct good or service promised
+in the contract. 
+
+Step
+5: Recognize revenue when (or as) the entity satisfies a performance obligation An entity recognizes revenue when (or as) it
+satisfies a performance obligation by transferring a promised good or service to a customer (which is when the customer obtains control
+of that good or service). 
+
+The
+amount of revenue recognized is the amount allocated to the satisfied performance obligation. A performance obligation may be satisfied
+at a point in time (typically for promises to transfer goods to a customer) or over time (typically for promises to transfer service
+to a customer). For performance obligations satisfied over time, an entity recognizes revenue over time by selecting an appropriate method
+for measuring the entity s progress toward complete satisfaction of that performance obligation. (Paragraphs 606-10 25-23 through
+25-30). 
+
+In
+addition, ASC 606-10 contains guidance on the disclosures related to revenue, and notes the following: 
+
+It
+also includes a cohesive set of disclosure requirements that would result in an entity providing users of financial statements with comprehensive
+information about the nature, amount, timing, and uncertainty of revenue and cash flows arising from the entity s contracts with
+customers. Specifically, Section 606-10-50 requires an entity to provide information about: 
+
+-
+Revenue recognized from contracts with customers, including disaggregation of revenue into appropriate categories. 
+
+-
+Contract balances, including the opening and closing balances of receivables, contract assets, and contract liabilities. 
+
+-
+Performance obligations, including when the entity typically satisfies its performance obligations and the transaction prices is that
+is allocated to the remaining performance obligations in a contract. 
+
+-
+Significant judgments, and changes in judgments, made in applying the requirements to those contracts. 
+
+Additionally,
+Section 340-40-50 requires an entity to provide quantitative and/or qualitative information about assets recognized from the costs to
+obtain or fulfill a contract with a customer. 
+
+The
+Company s revenue recognition policies are in compliance with ASC 606-10. The Company recognizes consulting and advisory fee revenues
+in accordance with the above-mentioned guidelines and expenses are recognized in the period in which the corresponding liability is incurred. 
+
+ADVERTISING 
+
+The
+Company expenses advertising costs as incurred. Advertising costs for the years ended June 30, 2022 and 2021 were 8,700 and 0, respectively.
+The Company incurred 8,700 advertising and investor relations expenses during the fiscal year ended June 30, 2022. 
+
+F- 10 
+
+COMPREHENSIVE
+INCOME (LOSS) 
+
+ASC
+220-10-45 (previously SFAS 130, Reporting Comprehensive Income) establishes standards for reporting and display of comprehensive income,
+its components and accumulated balances. Comprehensive income is defined to include all changes in equity, except those resulting from
+investments by owners and distributions to owners. Among other disclosures, SFAS No. 130 requires that all items that are required to
+be recognized under current accounting standards as components of comprehensive income be reported in a financial statement that is displayed
+with the same prominence as other financial statements. As of June 30, 2022 and 2021, respectively, accumulated other comprehensive income
+(loss) of (570,530) and 86,923 are presented on the accompanying consolidated balance sheets. 
+
+INCOME
+TAXES 
+
+The
+Company accounts for income taxes in accordance with ASC 740 (previously SFAS No. 109, Accounting for Income Taxes ). Deferred
+taxes are provided on the liability method whereby deferred tax assets are recognized for deductible temporary differences, and deferred
+tax liabilities are recognized for taxable temporary differences. Temporary differences are the differences between the reported amounts
+of assets and liabilities and their tax bases. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management,
+it is more likely than not that some portion or all of the deferred tax assets will not be realized. Deferred tax assets and liabilities
+are adjusted for the effects of changes in tax laws and rates on the date of enactment. 
+
+REPORTING
+OF SEGMENTS 
+
+ASC
+280 (previously Statement of Financial Accounting Standards No. 131, Disclosures about Segments of an Enterprise and Related Information),
+which supersedes Statement of Financial Accounting Standards No. 14, Financial Reporting for Segments of a Business Enterprise, establishes
+standards for the way that public enterprises report information about operating segments in annual financial statements and requires
+reporting of selected information about operating segments in interim financial statements regarding products and services, geographic
+areas and major customers. ASC 280 defines operating segments as components of an enterprise about which separate financial information
+is available that is evaluated regularly by the chief operating decision maker in deciding how to allocate resources and in assessing
+performance. The Company operated in one revenue-generating segment during the years ended June 30, 2022 and June 30, 2021. 
+
+RISKS
+AND UNCERTAINTIES 
+
+In
+the normal course of business, the Company is subject to certain risks and uncertainties. The Company provides its service and receives
+marketable securities upon execution of transactions. Consequently, the value of the securities received from customers can be affected
+by economic fluctuations and each customer s business growth. The actual realized value of these securities could be significantly
+different than recorded value. 
+
+RECENT
+ACCOUNTING PRONOUNCEMENTS 
+
+In
+August 2020, the Financial Accounting Standards Board FASB issued Accounting Standards Update ASU 2020-06-Debt-Debt
+with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging-Contracts in Entity s Own Equity (Subtopic 815-40)-Accounting
+For Convertible Instruments and Contracts in an Entity s Own Equity. The ASU simplifies accounting for convertible instruments
+by removing major separation models required under current GAAP. Consequently, more convertible debt instruments will be reported as
+a single liability instrument with no separate accounting for embedded conversion features. The ASU removes certain settlement conditions
+that are required for equity contracts to qualify for the derivative scope exception, which will permit more equity contracts to qualify
+for it. The ASU also simplifies the diluted net income per share calculation in certain areas. The new guidance is effective for annual
+and interim periods beginning after December 15, 2021, and early adoption is permitted for fiscal years beginning after December 15,
+2020. The Company intends to adopt ASU 2020-06 for the quarter beginning January 1, 2022. 
+
+F- 11 
+
+Update
+No. 2018-13 August 2018 
+
+Fair
+Value Measurement (Topic 820): Changes to the Disclosure Requirements for Fair Value Measurement 
+
+Modifications:
+The following disclosure requirements were modified in Topic 820: 
+
+1.
+In lieu of a rollforward for Level 3 fair value measurements, a nonpublic entity is required to disclose transfers into and out of Level
+3 of the fair value hierarchy and purchases and issues of Level 3 assets and liabilities. 
+
+2.
+For investments in certain entities that calculate net asset value, an entity is required to disclose the timing of liquidation of an
+investee s assets and the date when restrictions from redemption might lapse only if the investee has communicated the timing to
+the entity or announced the timing publicly. 
+
+3.
+The amendments clarify that the measurement uncertainty disclosure is to communicate information about the uncertainty in measurement
+as of the reporting date. 
+
+Additions:
+The following disclosure requirements were added to Topic 820; however, the disclosures are not required for nonpublic entities: 
+
+1.
+The changes in unrealized gains and losses for the period included in other comprehensive income for recurring Level 3 fair value measurements
+held at the end of the reporting period. 
+
+2.
+The range and weighted average of significant unobservable inputs used to develop Level 3 fair value measurements. For certain unobservable
+inputs, an entity may disclose other quantitative information (such as the median or arithmetic average) in lieu of the weighted average
+if the entity determines that other quantitative information would be a more reasonable and rational method to reflect the distribution
+of unobservable inputs used to develop Level 3 fair value measurements. 
+
+The
+amendments in this Update are effective for all entities for fiscal years, and interim periods within those fiscal years, beginning after
+December 15, 2019. 
+
+Update
+No. 2018-07 June 2018 
+
+Compensation
+ Stock Compensation (Topic 718) 
+
+Improvements
+to Nonemployee Share-Based Payment Accounting 
+
+Main
+Provisions: The amendments in this Update expand the scope of Topic 718 to include share-based payment transactions for acquiring goods
+and services from nonemployees. An entity should apply the requirements of Topic 718 to nonemployee awards except for specific guidance
+on inputs to an option pricing model and the attribution of cost (that is, the period of time over which share-based payment awards vest
+and the pattern of cost recognition over that period). The amendments specify that Topic 718 applies to all share-based payment transactions
+in which a grantor acquires goods or services to be used or consumed in a grantor s own operations by issuing share-based payment
+awards. The amendments also clarify that Topic 718 does not apply to share-based payments used to effectively provide (1) financing to
+the issuer or (2) awards granted in conjunction with selling goods or services to customers as part of a contract accounted for under
+Topic 606, Revenue from Contracts with Customers. 
+
+The
+amendments in this Update are effective for public business entities for fiscal years beginning after December 15, 2018, including interim
+periods within that fiscal year. 
+
+Update
+No. 2017-13 - September 2017 
+
+Revenue
+Recognition (Topic 605), Revenue from Contracts with Customers (Topic 606) 
+
+FASB
+Accounting Standards Updates No. 2014-09, Revenue from Contracts with Customers (Topic 606), issued in May 2014 and codified in ASC Topic
+606, Revenue from Contracts with Customers, and No. 2016-02. 
+
+The
+transition provisions in ASC Topic 606 require that a public business entity and certain other specified entities adopt ASC Topic 606
+for annual reporting 3 periods beginning after December 15, 2017, including interim reporting periods within that reporting period. FN2
+All other entities are required to adopt ASC Topic 606 for annual reporting periods beginning after December 15, 2018, and interim reporting
+periods within annual reporting periods beginning after December 15, 2019. 
+
+F- 12 
+
+Update
+No. 2016-10 - April 2016 
+
+Revenue
+from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing 
+
+The
+core principle of the guidance in Topic 606 is that an entity should recognize revenue to depict the transfer of promised goods or services
+to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
+To achieve that core principle, an entity should apply the following steps: 
+
+1.
+Identify the contract(s) with a customer. 
+
+ 2.
+Identify the performance obligations in the contract. 
+
+ 3.
+Determine the transaction price. 
+
+ 4.
+Allocate the transaction price to the performance obligations in the contract. 
+
+ 5.
+Recognize revenue when (or as) the entity satisfies a performance obligation. 
+
+The
+amendments in this Update do not change the core principle of the guidance in Topic 606. Rather, the amendments in this Update clarify
+the following two aspects of Topic 606: identifying performance obligations and the licensing implementation guidance, while retaining
+the related principles for those areas. 
+
+The
+Company has either evaluated or is currently evaluating the implications, if any, of each of these pronouncements and the possible impact
+they may have on the Company s financial statements. In most cases, management has determined that the implementation of these
+pronouncements would not have a material impact on the financial statements taken as a whole. 
+
+NOTE
+3 OTHER CURRENT ASSETS 
+
+The
+Company s marketable securities are classified as available-for-sale and, as such, are carried at fair value. All of the securities
+are comprised of shares of common stock of the investee. Securities classified as available-for-sale may be sold in response to changes
+in interest rates, liquidity needs, and for other purposes. Each investment in marketable securities represents less than twenty percent
+(20 of the outstanding common stock and stock equivalents of the investee, and each security is nationally quoted on the National Association
+of Securities Dealers OTC Bulletin Board OTCBB or the OTC Markets. As such, each investment is accounted for in accordance
+with the provisions of SFAS No. 115. 
+
+Marketable
+securities owned by the Company and classified as available for sale as of June 30, 2022 consisted of 905,000 shares of Myson Group,
+Inc. (formerly Vanguard Mining Corporation) traded on the OTC Markets (Trading symbols MYSN). The fair value of the marketable securities
+recorded as of June 30, 2022 was 546. During the fiscal year ended June 30, 2022, the Company transferred 292,050,000 shares of Sports
+Pouch Beverage Company to David Truong, Chief Executive Officer of Glink Global Group, Inc., for 25,000 pursuant to an agreement between
+PHILUX Capital Advisors, Inc. and Mr. David Truong whereby PHILUX Capital Advisors, Inc. would receive five million (5,000,000) shares
+of post 500-for-1 split stock of SPBV and ninety thousand dollars (USD 90,000) for services rendered in connection with a Business Combination
+Agreement between SPBV and an operating company. 
+
+ SCHEDULE OF FAIR VALUE OF INVESTMENTS MARKETABLE EQUITY SECURITIES 
+
+Securities
+ available for sale 
+ Level
+ 1 
+ Level
+ 2 
+ Level
+ 3 
+ Total 
+ 
+ June
+ 30, 2022 
+ - 
+ 546 
+ - 
+ 385,457 
+ 
+ June
+ 30, 2021 
+ - 
+ 5,792 
+ 379,665 
+ 385,457 
+
+During
+the fiscal year ended June 30, 2022, there was no transfer of securities from level 3 to level 2. 
+
+NOTE
+4 OTHER ASSETS 
+
+The
+Other Assets comprise of the following as of June 30, 2022 and 2021 
+
+ SCHEDULE
+OF OTHER ASSETS 
+
+2022 
+ 2021 
+
+Investment
+ in Philux Global Funds 
+ 31,161 
+ 35,568 
+ 
+ Investment
+ in AQuarius Power, Inc. 
+ 5,000 
+ 5,000 
+ 
+ Total
+ Other Assets 
+ 36,161 
+ 446,995 
+
+Investments
+as of June 30, 2022 consist of a 5,000
+investment in AQuarius Power, Inc., a renewable energy technology company, and 31,161
+in the initial General Partner, Limited and Ordinary Shares of Philux Global Funds SCA, SICAV-RAIF. 
+
+F- 13 
+
+NOTE
+5 PROPERTY AND EQUIPMENT 
+
+As
+of June 30, 2022 the Company did not have any property or equipment. 
+
+NOTE
+6 CURRENT LIABILITIES 
+
+Current
+liabilities of the Company consist of the followings as of June 30, 2022 and 2021: 
+
+ SCHEDULE
+OF CURRENT LIABILITIES 
+
+Current
+ Liabilities 
+ 30-Jun-22 
+ June
+ 30 2021 
+ 
+ Accounts
+ payable 
+ 615,805 
+ 608,521 
+ 
+ Sub-fund obligations 
+ 1,574,775 
+ 1,474,775 
+ 
+ Accrued
+ expenses 
+ 931,417 
+ 1,993,478 
+ 
+ Short-term loans and notes payable 
+ 676,888 
+ 325,621 
+ 
+ Convertible
+ Promissory Notes 
+ 756,250 
+ 220,230 
+ 
+ Due
+ to officers 
+ 1,077,218 
+ 1,720,323 
+ 
+ Advances
+ from customers 
+ 665,434 
+ 582,237 
+ 
+ Derivative liabilities and Note Discount 
+ 715,677 
+ - 
+ 
+ Total
+ Current Liabilities 
+ 7,013,465 
+ 6,925,185 
+
+ACCRUED
+EXPENSES: Accrued expenses as of June 30, 2022 consist of 673,842 in accrued salaries and payroll taxes and 257,575 in accrued interest
+from notes and loans. 
+
+NOTES
+PAYABLE (NET): Notes payable consist of 676,888
+in short-term notes and loans payable and 756,250 in convertible promissory notes. 
+
+ADVANCES
+FROM CUSTOMERS 
+
+Advances
+from Customers were 665,434 and 582,237 as of June 30, 2022 and June 30, 2021, respectively. 
+
+SUB-FUND
+OBILGATIONS: As of June 30, 2022, the Company has received 800,000 from European Plastic Joint Stock Company towards the expenses for
+setting up the energy sub-fund, 518,409 from Saigon Pho Palace Joint Stock Company and 100,000 from Sinh Nguyen Co., Ltd. towards the
+expenses for setting up the real estate sub-fund, and 156,366.25 from TECCO Group towards the expenses for setting up the infrastructure
+sub-fund, respectively, under the master PHILUX Global Funds. The Company recorded these amounts as liabilities until these sub-funds
+are set up and capitalized, at which time the sub-fund participants will receive 49 of the general partners portion of ownership
+in the relevant sub-funds for a total contribution of 2,000,000 each. The Company recorded a total of 1,574,775 as of June 30, 2022
+and 1,474,775 as of June 30, 2021 as sub-fund obligations. 
+
+NOTE
+7 - DUE TO OFFICERS AND DIRECTORS 
+
+Due
+to officer, represents loans and advances made by officers and directors of the Company and its subsidiaries, unsecured and due on demand.
+As of June 30, 2022 and 2021 , the balances were 1,077,218 and 1,720,333, respectively. 
+
+ Schedule
+of Components of Due to Officers and Directors 
+
+Officers/Directors 
+ June
+ 30, 2022 
+ June
+ 30, 2021 
+ 
+ Henry
+ Fahman 
+ 413,868 
+ 1,056,973 
+ 
+ Tam
+ Bui 
+ 663,350 
+ 663,350 
+ 
+ Total 
+ 1,077,218 
+ 1,720,333 
+
+F- 14 
+
+NOTE
+8 LOANS AND PROMISSORY NOTES 
+
+SHORT
+TERM NOTES PAYABLE: 
+
+In the course of its business, the Company has obtained short-term loans from individuals and institutional investors and from time to
+time raised money by issuing restricted common stock of the Company under the auspices of Rule 144. As of June 30, 2022, the Company
+had 341,421 in short-term notes payable consisting of 297,670 of regular short-term notes and 43,750 SBA loan, and 291,717 merchant
+cash advance including a total of 87,475 in deferred interest. These notes bear interest rates ranging from 0 to 36 per annum. 
+
+CONVERTIBLE
+PROMISSORY NOTES: 
+
+As
+of June 30, 2022, the principal balance of the outstanding convertible notes was 756,250 with total derivative liabilities of 715,677.
+The Company relies on professional third-party valuation to record the value of derivative liabilities, discounts, and changes in fair
+value of derivatives in connection with these convertible notes and warrants, if any, that are related to the convertible notes. 
+
+NOTE
+9 PAYROLL TAX LIABILITIES 
+
+As
+of June 30, 2022, payroll tax liabilities were 5,747. 
+
+NOTE
+10 BASIC AND DILUTED NET LOSS PER SHARE 
+
+Net
+loss per share is calculated in accordance with SFAS No. 128, Earnings per Share . Under the provision of SFAS No. 128,
+basic net loss per share is computed by dividing the net loss for the period by the weighted-average number of common shares outstanding
+for the period. Diluted EPS is based on the weighted-average number of shares of common stock outstanding for the period and common stock
+equivalents outstanding at the end of the period. Basic and diluted weighted average numbers of shares for the year ended June 30, 2022
+were the same since the inclusion of Common stock equivalents is anti-dilutive. 
+
+NOTE
+11 Domestication in the State of Wyoming 
+
+On
+September 20, 2017, the Company applied for a Certificate of Domestication and filed Articles of Domestication with the office of the
+Secretary of State of Wyoming to re-domicile the Company s jurisdiction to the State of Wyoming. 
+
+On
+September 20, 2017, the Company filed Articles of Amendment with the Wyoming Secretary of State to amend the authorized capital of the
+Company as follows: 
+
+F- 15 
+
+The
+total number of shares into which the authorized capital stock of the corporation is divided is one billion shares, consisting of: nine
+hundred million shares of voting Common Stock with a par value of 0.001 per share; fifty million shares of non-voting Class A Series
+I Preferred Stock with a par value of 5.00 per share; twenty-five million shares of non-voting Class A Series II Preferred Stock with
+a par value of 5.00 per share; twenty million shares of non-voting Class A Series III Preferred Stock with a par value of 5.00 per
+share and five million shares of voting Class A Series IV Preferred Stock with a par value of 5.00 per share. The relative rights, preferences,
+limitations and restrictions associated with the afore-mentioned shares of Class A Preferred Stock will be determined by the Board of
+Directors of the corporation. 
+
+On
+June 25, 2020, the Company filed Articles of Amendment with the Wyoming Secretary of State to amend Article 10 of the Articles of Domestication
+to authorize Forty Billion (40,000,000,000) shares of Common Stock with a par value of 0.001 per share and Five Hundred Million (500,000,000)
+shares of Preferred Stock with a par value of 0.001 per share and to designate Classes A and B and the Series of those classes of Preferred
+Stock as following: 
+
+I.
+Class A Preferred Stock 
+
+A.
+DESIGNATIONS, AMOUNTS AND DIVIDENDS 
+
+1.
+Class A Series I Cumulative Convertible Redeemable Preferred Stock 
+
+a.
+Designation: Fifty million (50,000,000) shares of the authorized 500,000,000 shares of Preferred Stock, with a par value of 0.001 per
+share, are designated as Class A Series I Cumulative Convertible Redeemable Preferred Stock 
+
+b.
+Number of Shares: The number of shares of Class A Series I Preferred Stock authorized shall be fifty million (50,000,000) shares. 
+
+c.
+Dividends: Each holder of Class A Series I Preferred Stock is entitled to receive ten percent (10 non-compounding cumulative dividends
+per annum, payable semi-annually. 
+
+2.
+Class A Series II Cumulative Convertible Redeemable Preferred Stock 
+
+a.
+Designation. Two hundred million (200,000,000) shares of the authorized 500,000,000 shares of Preferred Stock, with a par value of 0.001
+per share, are designated Class A Series II Cumulative Convertible Redeemable Preferred Stock (the Class A Series II Preferred
+Stock ). 
+
+c.
+Number of Shares. The number of shares of Class A Series II Preferred Stock authorized shall be two hundred million (200,000,000) shares. 
+
+c.
+Dividends: Each holder of Class A Series II Preferred Stock is entitled to receive eight percent (8 cumulative dividends per annum,
+payable semi-annually. 
+
+3.
+Class A Series III Cumulative Convertible Redeemable Preferred Stock 
+
+a.
+Designation. Fifty million (50,000,000) shares of the authorized 500,000,000 shares of Preferred Stock, with a par value of 0.001 per
+share, are designated as Class A Series III Cumulative Convertible Redeemable Preferred Stock (the Class A Series III Preferred
+Stock ). 
+
+b.
+Number of Shares. The number of shares of Class A Series III Preferred Stock authorized shall be fifty million (50,000,000) shares. 
+
+c.
+Dividends: Each holder of Class A Series III Preferred Stock is entitled to receive eight percent (8 cumulative dividends per annum,
+payable semi-annually. 
+
+F- 16 
+
+4.
+Class A Series IV Cumulative Convertible Redeemable Preferred Stock 
+
+a.
+Designation. One hundred ninety-nine million (199,000,000) shares of the authorized 500,000,000 shares of Preferred Stock, with a par
+value of 0.001 per share, are designated as Class A Series IV Cumulative Convertible Redeemable Preferred Stock (the Class
+A Series IV Preferred Stock ). 
+
+b.
+Number of Shares. The number of shares of Class A Series III Preferred Stock authorized shall be one hundred ninety-nine million (199,000,000)
+shares. 
+
+c.
+Dividends: To be determined by the Corporation s Board of Directors. 
+
+B.
+CONVERSION 
+
+1.
+Conversion of Series I, Series II and/or Series IV Class A Preferred Stock into Common Stock of PHI Group, Inc. 
+
+Each
+share of the Class A Preferred Stock, either Series I, Series II or Series IV shall be convertible into the Company s Common Stock
+any time after two years from the date of issuance at a Variable Conversion Price (as defined herein) of the Common Stock. The Variable
+Conversion Price shall mean 75 multiplied by the Market Price (as defined herein) (representing a discount rate of 25 ). Market
+Price means the average Trading Price for the Company s Common Stock during the ten (10) trading-day period ending one trading
+day prior to the date the Conversion Notice is sent by the Holder of the Class A Preferred Stock to the Company via facsimile or email
+(the Conversion Date ). Trading Price means, for any security as of any date, the closing price on the OTC
+Markets, OTCQB, NASDAQ Stock Markets, or applicable trading market as reported by a reliable reporting service Reporting Service mutually acceptable to the Company and Holder of the Class A Preferred Stock. 
+
+2.
+Conversion of Series I, Series II and/or Series IV Class A Preferred Stock into Common Stock of a subsidiary of PHI Group, Inc. s. 
+
+Alternatively,
+each share of the Class A Preferred Stock, either Series I, Series II and/or Series IV may be convertible into Common Stock of a subsidiary
+of PHI Group, Inc. s, to be determined by the Company s Board of Directors, any time after such subsidiary has become a fully-reporting
+publicly traded company for at least three months, at a Variable Conversion Price (as defined herein). The Variable Conversion Price
+to be used in connection with the conversion into Common Stock of a subsidiary of PHI Group, Inc. s shall mean 50 multiplied by
+the Market Price (as defined herein), representing a discount rate of 50 , of that Common Stock. Market Price means the
+average Trading Price for the Common Stock of said subsidiary of PHI Group, Inc. s during the ten (10) trading-day period ending
+one trading day prior to the date the Conversion Notice is sent by the Holder of the Preferred Stock to the Company via facsimile or
+email (the Conversion Date ). Trading Price means, for any security as of any date, the closing price on the
+OTC Markets, OTCQB, NASDAQ Stock Markets, NYSE or applicable trading market as reported by a reliable reporting service Reporting
+Service mutually acceptable to the Company, said subsidiary and Holder of the Class A Preferred Stock. 
+
+3.
+Conversion of Class A Series III Preferred Stock of PHI Group, Inc. into Common Stock of American Pacific Plastics, Inc., a subsidiary
+of PHI Group, Inc. s. 
+
+The
+entire Class A Series III Preferred Stock of PHI Group, Inc. (i.e. fifty million (50,000,000) shares) may be convertible into eighty
+percent (80 American Pacific Plastics, Inc. s Common Stock which will have been issued and outstanding immediately after such
+conversion or exchange on a pro rata basis. 
+
+4.
+Conversion Shares. 
+
+The
+amount of shares of Common Stock of PHI Group, Inc., or alternatively, of a subsidiary of PHI Group, Inc. s, to be received by
+Holder at the time of conversion of Class A Series I or Series II Preferred Stock of PHI Group, Inc. will be based on the following formula: 
+
+Where
+ 
+ CS : 
+ Common
+ Shares of PHI Group, Inc., 
+ 
+ Amount
+ of CS = 
+
+or
+ alternatively, of a subsidiary of PHI Group, Inc. s. 
+ 
+ OIP
+ + AUD 
+
+VCP 
+ 
+ OIP : 
+ Original
+ Issue Price of Class A Series I or Series II Preferred Stock of PHI Group, Inc. 
+
+AUD : 
+ Accrued
+ and Unpaid Dividends. 
+
+VCP : 
+ Variable
+ Conversion Price of PHI Common Stock or of a subsidiary of PHI Group, Inc. s as defined above. 
+
+F- 17 
+
+C.
+REDEMPTION RIGHTS 
+
+The
+Corporation, after a period of two years from the date of issuance, may at any time or from time to time redeem the Class A Preferred
+Stock, either Series I, Series II, Series III or Series IV in whole or in part, at the option of the Company s Board of Directors,
+at a price equal to one hundred twenty percent (120 of the original purchase price of the Class A Preferred Stock or of a unit consisting
+of any shares of Class A Preferred Stock and any warrants attached thereto, plus, in each case, accumulated and unpaid dividends to the
+date fixed for redemption. 
+
+D.
+LIQUIDATION 
+
+Upon
+the occurrence of a Liquidation Event (as defined below), the holders of Class A Preferred Stock are entitled to receive net assets on
+a pro rata basis. As used herein, Liquidation Event means (i) the liquidation, dissolution or winding-up, whether
+voluntary or involuntary, of the Corporation, (ii) the purchase or redemption by the Corporation of shares of any class of stock or the
+merger or consolidation of the Corporation with or into any other corporation or corporations, unless (a) the holders of the Class A
+Preferred Stock receive securities of the surviving corporation having substantially similar rights as the Class A Preferred Stock and
+the stockholders of the Corporation immediately prior to such transaction are holders of at least a majority of the voting securities
+of the successor corporation immediately thereafter (the Permitted Merger ), unless the holders of the shares of
+Class A Preferred Stock elect otherwise or (b) the sale, license or lease of all or substantially all, or any material part of, the Corporation s
+assets, unless the holders of Class A Preferred Stock elect otherwise. 
+
+E.
+RANK 
+
+All
+shares of the Class A Preferred Stock shall rank (i) senior to the Corporation s Common Stock and any other class or series of
+capital stock of the Corporation hereafter created, (ii) pari passu with any class or series of capital stock of the Corporation
+hereafter created and specifically ranking, by its terms, on par with the Class A Preferred Stock and (iii) junior to any class or series
+of capital stock of the Corporation hereafter created specifically ranking, by its terms, senior to the Class A Preferred Stock, in each
+case as to distribution of assets upon liquidation, dissolution or winding up of the Corporation, whether voluntary or involuntary. 
+
+F.
+VOTING RIGHTS 
+
+1.
+ Class A Series I, II, III and IV Preferred Stock of PHI Group, Inc. shall have no voting rights. 
+
+G.
+PROTECTION PROVISIONS 
+
+So
+long as any shares of Class A Preferred Stock are outstanding, the Corporation shall not, without first obtaining the majority written
+consent of the holders of Class A Preferred Stock, alter or change the rights, preferences or privileges of the Class A Preferred Stock
+so as to affect adversely the holders of Class A Preferred Stock. 
+
+H.
+MISCELLANEOUS 
+
+1.
+Status of Redeemed Stock : In case any shares of Class A Preferred Stock shall be redeemed or otherwise repurchased or reacquired,
+the shares so redeemed, repurchased, or reacquired shall resume the status of authorized but unissued shares of preferred stock, and
+shall no longer be designated as Class A Preferred Stock. 
+
+2.
+Lost or Stolen Certificates : Upon receipt by the Corporation of (i) evidence of the loss, theft, destruction or mutilation of any
+Preferred Stock Certificate(s) and (ii) in the case of loss, theft or destruction, indemnity (with a bond or other security) reasonably
+satisfactory to the Corporation, or in the case of mutilation, the Preferred Stock Certificate(s) (surrendered for cancellation), the
+Corporation shall execute and deliver new Preferred Stock Certificates. However, the Corporation shall not be obligated to reissue such
+lost, stolen, destroyed or mutilated Preferred Stock Certificates if the holder of Class A Preferred Stock contemporaneously requests
+the Corporation to convert such holder s Class A Preferred Stock into Common Stock. 
+
+F- 18 
+
+3 .
+ Waiver : Notwithstanding any provision in this Certificate of Designation to the contrary, any provision contained herein and any
+right of the holders of Class A Preferred granted hereunder may be waived as to all shares of Class A Preferred Stock (and the holders
+thereof) upon the majority written consent of the holders of the Class A Preferred Stock. 
+
+4 .
+ Notices : Any notices required or permitted to be given under the terms hereof shall be sent by certified or registered mail (return
+receipt requested) or delivered personally, by nationally recognized overnight carrier or by confirmed facsimile transmission, and shall
+be effective five (5) days after being placed in the mail, if mailed, or upon receipt or refusal of receipt, if delivered personally
+or by nationally recognized overnight carrier or confirmed facsimile transmission, in each case addressed to a party as set forth below,
+or such other address and telephone and fax number as may be designated in writing hereafter in the same manner as set forth in this
+Section. 
+
+If
+to the Corporation: 
+
+ PHI
+GROUP, INC. 
+
+ 30
+N Gould Street, Suite R 
+
+ Sheridan,
+WY 82801 
+
+ Facsimile:
+702-472-8556 
+
+ Email:
+ info@phiglobal.com 
+
+If
+to the holders of Class Preferred Stock, to the address to be listed in the Corporation s books and Records. 
+
+II.
+Class B Preferred Stock 
+
+1.
+Class B Series I Preferred Stock 
+
+a.
+Designation: One million (1,000,000) shares of the authorized 500,000,000 shares of Preferred Stock, with a par value of 0.001 per share,
+are designated as Class B Series I Preferred Stock. 
+
+b.
+Number of Shares: The number of shares of Class B Series I Preferred Stock authorized will be one million (1,000,000) shares. 
+
+c.
+Dividend: None 
+
+d.
+Voting rights: Except as provided by law, the shares of Class B Series I Preferred Stock shall have the same right to vote or act on
+all matters on which the holders of Common Stock have the right to vote or act and the holders of the shares of Class B Series I shall
+be entitled to notice of any stockholders meeting or action as to such matters on the same basis as the holders of Common Stock,
+and the holders of Common Stock and shares of Class B Series I shall vote together or act together thereon as if a single class on all
+such matters; provided, in such voting or action each one share of Class B Series I shall be entitled to one hundred thousand (100,000)
+votes. 
+
+NOTE
+12. DISSOLUTION OF NEVADA CORPORATION AND OPERATING AS A WYOMING CORPORATION. 
+
+On
+June 30, 2020, the Company filed a Certificate of Dissolution/Withdrawal with the Nevada Secretary of State to cease its corporate registration
+and dissolve PHI Group, Inc. in the State of Nevada. A Certificate of Dissolution/Withdrawal was issued by the Nevada Secretary of State
+on June 30, 2020, Filing number 20200754868. The Company currently maintains its corporate registration with the State of Wyoming pursuant
+to the Articles of Domestication filed with the Wyoming Secretary of State on September 20, 2017 and operates as a Wyoming corporation.
+The Company filed a Form 8-K to report this event with the Securities and Exchange Commission on June 30, 2020. 
+
+F- 19 
+
+NOTE
+13. STOCKHOLDER S EQUITY 
+
+As
+of June 30, 2022, the total number of authorized capital stock of the Company consisted of Sixty Billion shares of voting Common Stock
+with a par value of 0.001 per share and Five Hundred Million shares of Preferred Stock with a par value of 0.001 per share. 
+
+Treasury
+Stock 
+
+The
+balance of treasury stock as of June 30, 2022 was 487,767 shares valued at 44,170 based on cost basis. 
+
+Common
+Stock 
+
+During
+the fiscal year ended June 30, 2022, the Company issued/cancelled the following shares of its Common Stock for cash, conversion of promissory
+notes, loan payments, salaries, warrants, and consulting services: 
+
+SCHEDULE
+OF CONVERSIONS OF COMMON STOCK 
+
+7/1/21 
+ Beginning
+ balance 
+ Issuances/Cancellations 
+ 26,081,268,895 
+ 
+ 7/7/21 
+ Cancel
+ 784,249 shares from Luan Ngo 
+ -784,249 
+ 26,080,484,646 
+ 
+ 8/20/21 
+ Henry
+ Fahman 
+ 103,279,112 
+ 26,183,763,758 
+ 
+ 8/25/21 
+ Henry
+ Fahman 
+ 114,672,922 
+ 26,298,436,680 
+ 
+ 8/25/21 
+ Tina
+ Phan 
+ 45,347,928 
+ 26,343,784,608 
+ 
+ 9/27/21 
+ Johnny
+ Park 
+ 767,000,000 
+ 27,110,784,608 
+ 
+ 9/30/21 
+ Henry
+ Fahman 
+ 62,802,875 
+ 27,173,587,483 
+ 
+ 10/4/21 
+ PHILUX
+ Global Funds SCA, SICAV-RAIF 
+ -235,478,810 
+ 26,938,108,673 
+ 
+ 10/4/21 
+ Whankuk
+ Je 
+ 767,000,000 
+ 27,705,108,673 
+ 
+ 10/18/21 
+ EMA
+ Financial LLC 
+ 54,750,000 
+ 27,759,858,673 
+ 
+ 10/19/21 
+ Henry
+ Fahman 
+ 52,196,586 
+ 27,812,055,259 
+ 
+ 11/19/21 
+ Whankuk
+ Je 
+ 383,000,000 
+ 28,195,055,259 
+ 
+ 11/19/21 
+ Johnny
+ Park 
+ 383,000,000 
+ 28,578,055,259 
+ 
+ 12/8/21 
+ EMA
+ Financial LLC 
+ 94,949,495 
+ 28,673,004,754 
+ 
+ 12/28/21 
+ Craig
+ Mauk 
+ 30,000,000 
+ 28,703,004,754 
+ 
+ 12/29/21 
+ Mast
+ Hill Fund LP 
+ 71,493,624 
+ 28,774,498,378 
+ 
+ 1/25/22 
+ Mast
+ Hill Fund LP 
+ 57,883,838 
+ 28,832,382,216 
+ 
+ 1/27/22 
+ Power
+ Up Lending Group Ltd 
+ 36,173,913 
+ 28,868,556,129 
+ 
+ 2/10/22 
+ Power
+ Up Lending Group Ltd 
+ 15,909,091 
+ 28,884,465,220 
+ 
+ 2/10/22 
+ Power
+ Up Lending Group Ltd 
+ 9,500,000 
+ 28,893,965,220 
+ 
+ 2/25/22 
+ Henry
+ Fahman 
+ 30,000,000 
+ 28,923,965,220 
+ 
+ 2/25/22 
+ Tina
+ Phan 
+ 25,000,000 
+ 28,948,965,220 
+ 
+ 3/2/22 
+ Mast
+ Hill Fund LP 
+ 70,000,000 
+ 29,018,965,220 
+ 
+ 3/4/22 
+ EMA
+ Financial LLC 
+ 101,750,000 
+ 29,120,715,220 
+ 
+ 3/11/22 
+ EMA
+ Financial LLC 
+ 92,592,593 
+ 29,213,307,813 
+ 
+ 3/14/22 
+ EMA
+ Financial LLC 
+ 79,966,120 
+ 29,293,273,933 
+ 
+ 3/18/22 
+ Mast
+ Hill Fund LP 
+ 584,659,580 
+ 29,877,933,513 
+ 
+ 4/19/22 
+ FirstFire
+ Global Opportunities Fund 
+ 303,000,000 
+ 30,180,933,513 
+ 
+ 5/12/22 
+ 1800
+ Diagonal Lending LLC 
+ 92,857,143 
+ 30,273,790,656 
+ 
+ 6/7/22 
+ Mast
+ Hill Fund LP 
+ 500,000,000 
+ 30,773,790,656 
+ 
+ 6/16/22 
+ Mast
+ Hill Fund LP 
+ 645,589,633 
+ 31,419,380,289 
+ 
+ 6/7/22 
+ Thai
+ Kieu Trinh 
+ 10,000,000 
+ 31,429,380,289 
+
+BALANCE
+ AS OF JUNE 30, 2022 
+ 
+ 31,429,380,289 
+
+As
+of June 30, 2022, there were 31,429,380,289 shares of the Company s common stock issued and outstanding. 
+
+F- 20 
+
+Preferred
+Stock 
+
+As
+of June 30, 2022, the following amounts of Preferred Stock were issued and outstanding: 
+
+Class
+B Series I Preferred Stock: 600,000 shares. 
+
+NOTE
+14 STOCK-BASED COMPENSATION PLANS 
+
+On
+February March 18, 2015, the Company adopted an Employee Benefit Plan to set aside 1,000,000 shares of common stock for eligible employees
+and independent contractors of the Company and its subsidiaries. As of June 30, 2022 the Company has not issued any stock in lieu of
+cash under this plan. 
+
+On
+September 23, 2016, the Company issued incentive stock options and nonqualified stock options to certain key employee(s) (Henry Fahman
+ CEO/CFO) and directors (Tam Bui, Henry Fahman, and Frank Hawkins constitute the Board of Directors) as deferred compensation.
+The options allow the holders to acquire the Company s Common Stock at the fair exercise price of the Company s Common Stock
+on the grant date of each option at 0.24 per share, based on the 10-days volume-weighted average price prior to the grant date.
+The number of options is equal to a total of 6,520,000. The options terminate seven years from the date of grant and become vested and
+exercisable after one year from the grant date. The following assumptions were used in the Monte Carlo analysis by Doty Scott Enterprises,
+Inc., an independent valuation firm, to determine the fair value of the stock options: 
+
+ SCHEDULE OF FAIR VALUE OF STOCK OPTION ASSUMPTIONS 
+
+Risk-free
+ interest rate 
+ 1.18 
+ 
+ Expected
+ life 
+ 7
+ years 
+ 
+ Expected
+ volatility 
+ 239.3 
+
+Vesting
+is based on a one-year cliff from grant date. 
+
+Annual
+attrition rates were used in the valuation since ongoing employment was condition for vesting the options. 
+
+The
+fair value of the Company s Stock Options as of issuance valuation date is as follows: 
+
+ SCHEDULE OF FAIR VALUE OF STOCK OPTION ISSUANCE DATE 
+
+Holder 
+ Issue
+ Date 
+ Maturity 
+ Date 
+ Stock
+ Options 
+ Exercise
+ Price 
+ Fair
+ Value at 
+ Issuance 
+
+Tam
+ Bui 
+ 9/23/2016 
+ 9/23/2023 
+ 875,000 
+ Fixed
+ price: 0.24 
+ 219,464 
+ 
+ Frank
+ Hawkins 
+ 9/23/2016 
+ 9/23/2023 
+ 875,000 
+ Fixed
+ price: 0.24 
+ 219,464 
+ 
+ Henry
+ Fahman 
+ 9/23/2016 
+ 9/23/2023 
+ 4,770,000 
+ Fixed
+ price: 0.24 
+ 1,187,984 
+
+NOTE
+15 OTHER INCOME (EXPENSE) 
+
+Net
+Other Income (Expense) for the fiscal year ended June 30, 2022 consists of the following: 
+
+ SCHEDULE OF OTHER INCOME (EXPENSE) 
+
+OTHER
+ INCOME (EXPENSES) 
+ FY
+ ended June
+ 30, 2022 
+ 
+ Interest
+ expense 
+ (1,592,557 
+ 
+ Other
+ income 
+ 1,118,195 
+ 
+ Net
+ other income/expense 
+ (3,780,153 
+ 
+ NET
+ OTHER INCOME (EXPENSES) 
+ (4,254,515 
+
+F- 21 
+
+NOTE
+16 RELATED PARTY TRANSACTIONS 
+
+The
+Company recognized a total of 360,000 in salaries for the President and Chief Executive Officer, the Chief Operating Officer and the
+Secretary and Treasurer of the Company during the year ended June 30, 2022. 
+
+NOTE
+17 INCOME TAXES 
+
+No
+provision was made for income tax since the Company has significant net operating loss carry forward. Through June 30, 2022, the Company
+incurred net operating losses for tax purposes of approximately 71,717,973. The net operating loss carry forward may be used to reduce
+taxable income through the year 2036. Net operating loss for carry forwards for the State of California is generally available to reduce
+taxable income through the year 2026. The availability of the Company s net operating loss carry-forward is subject to limitation
+if there is a 50 or more positive change in the ownership of the Company s stock. 
+
+Under
+section 6501(a) of the Internal Revenue Code (Tax Code) and section 301.6501(a)-1(a) of the Income Tax Regulations (Tax Regulations),
+the IRS is required to assess tax within 3 years after the tax return was filed with the IRS. 
+
+NOTE
+18 CONTRACTS AND COMMITMENTS 
+
+ACQUISITION
+OF 51 EQUITY INTEREST IN VINAFILMS JOINT STOCK COMPANY 
+
+On
+August 06, 2018, signed a Business Cooperation Agreement with Vinafilms JSC (C ng ty C ph n M ng Bao B 
+T n Vinh Nam Ph t), a Vietnamese joint stock company, with principal business address at Lot G9, Road No. 9, Tan Do Industrial
+Zone, Duc Hoa Ha Village, Duc Hoa District, Long An Province, Vietnam, hereinafter referred to as VNF and its majority
+shareholder, to exchange fifty-one percent ownership in VNF for Preferred Stock of PHI. According to the Agreement, PHI will be responsible
+for filing a S-1 Registration Statement with the Securities and Exchange Commission for American Pacific Plastics, Inc., a subsidiary
+of PHI that holds the 51 equity ownership in VNF, to become a fully-reporting public company in the U.S. Stock Market. 
+
+On
+September 20, 2018, a Stock Swap Agreement was signed by and between Ms. Do Thi Nghieu, the majority shareholder holding 76 of ownership
+in VNF, and PHI to exchange 3,060,000 shares of ordinary stock of VNF owned by Ms. Do Thi Nghieu for 50 million shares of Class A Series
+III Cumulative, Convertible, Redeemable Preferred Stock of PHI. Though this transaction was technically closed on September 28, 2018,
+the Company did not recognize the operations of Vinafilms JSC in its consolidated financial statements as of June 30, 2022. On
+October 20, 2022, the Company, VNF and Ms. Do Thi Nghieu signed an agreement to terminate said Business Cooperation Agreement and Stock
+Swap Agreement. The termination of the referenced Business Cooperation Agreement, retroactively effective August 06, 2018, was due to
+the resultant impact of the Covid-19 pandemic and particular microeconomic conditions which made it infeasible for the Parties herein
+to continue the originally-planned Business Cooperation Agreement. 
+
+CONSULTING
+SERVICE AGREEMENT WITH GLINK APPS JSC 
+
+On
+December 23, 2019, PHI Capital Holdings, Inc. a subsidiary of the Company, (name changed to PHILUX Capital Advisors, Inc. effective June
+03, 2020) signed a Consulting Service Agreement to provide consulting service to Glink Apps JSC, a Wyoming corporation, and assist the
+latter to become a publicly traded company in the U.S. According to the agreement, Glink Apps JSC will pay PHI Capital Holdings, Inc.
+ 88,500 in cash and five million (5,000,000) shares of its common stock of the newly combined public entity after a 1-for-500 reverse
+split for the consulting service to be rendered. 
+
+F- 22 
+
+BUSINESS
+COOPERATION AGREEMENT WITH NATURAL WELL TECHNICAL LTD. 
+
+On
+April 27, 2020, the Company signed a Business Cooperation Agreement with Natural Well Technical Ltd. NWTL ), a company
+organized and existing under the laws of Republic of China and engaged in research and development of innovative biotechnologies that
+may have significant applications for healthcare, beauty supply, agriculture and industry. 
+
+NWTL
+and the Company agree to jointly cooperate in the research and development activities of pertinent technologies that have been initiated
+and continue to be carried out by NWTL and applying them to produce commercial products and services in the fields of healthcare, beauty
+supply, agriculture and industry, as the case may be, as well as any other business activities deemed mutually beneficial. 
+
+In
+particular, NWTL and the Company will initially focus on the following activities: 
+
+a.
+Developing and implementing a comprehensive plan to increase the production, marketing and sale of the Super Green High
+Energy Drop Drink and Mistyrious Fine Mist Spray products on a large scale worldwide; 
+
+b.
+Developing and implementing a plan to increase the production, marketing and sale of Super Cassava and Uni-Wash 
+Engine Booster products as well as other products related to the fields of agriculture and energy that have been studied and developed
+by NWTL; 
+
+c.
+Continuing to conduct research and accumulate clinical data for NWTL s biotechnologies in order to obtain U.S. FDA s approval
+of cancer treatments and other healthcare products. In addition, both parties also develop, produce and market beauty supply products. 
+
+d.
+Designing a financial plan and providing the required funding for NWTL to execute its business plan. 
+
+F- 23 
+
+AGREEMENT
+WITH TECCO GROUP FOR PARTICIPATION IN PHILUX INFRASTRUCTURE FUND COMPARTMENT OF PHILUX GLOBAL FUNDS 
+
+On
+August 10, 2020, Tecco Group, a Vietnamese company, signed an agreement with PHI Luxembourg Development SA, a subsidiary of the Company,
+to participate in the proposed infrastructure fund compartment of PHILUX Global Funds SCA, SICAV-RAIF. According to the agreement, Tecco
+Group will contribute 2,000,000 for 49 ownership of the general partners portion of said infrastructure fund compartment. As
+of June 30, 2022, Tecco Group has paid a total of 156,366.25 towards the total agreed amount. 
+
+INVESTMENT
+AGREEMENTS AND MEMORANDUM OF UNDERSTANDING 
+
+From
+August 24, 2020 to November 03, 22, the Company and its subsidiaries have entered into loan financing agreements, investment management
+agreements, joint venture agreement, and memorandum of understanding with six international investor groups for a total six billion three
+hundred million U.S. dollars, as reported in various 8-K filings with the Securities and Exchange Commission. The Company expects to
+begin receiving capital through these sources in the near future to support its merges and acquisitions and investment programs. 
+
+NOTE
+19 GOING CONCERN UNCERTAINTY 
+
+As
+shown in the accompanying consolidated financial statements, the Company has accumulated deficit of 71,717,973
+ and total stockholders deficit of 6,543,502
+ as of June 30, 2022. These factors as well as
+the uncertain conditions that the Company faces in its day-to-day operations with respect to cash flows create an uncertainty as to the
+Company s ability to continue as a going concern. The financial statements do not include any adjustments that might be necessary
+should the Company be unable to continue as a going concern. Management has taken action to strengthen the Company s working capital
+position and generate sufficient cash to meet its operating needs through June 30, 2022 and beyond. 
+
+NOTE
+20 SUBSEQUENT EVENTS 
+
+These
+financial statements were approved by management and available for issuance on January 12, 2023. Subsequent events have been evaluated
+through this date. 
+
+1.
+Joint Venture/Partnership Agreement (Fund Management MOU) between an investor in the Gulf Cooperation Council region and PHILUX Global
+Group, Inc. (a/k/a PHI Group, Inc.) 
+
+On
+July 08, 2022, the registrant signed a Joint Venture/Partnership Agreement (Fund Management MOU) with an investor in the Gulf Cooperation
+Council region to manage an initial amount of Three Billion United States Dollars (USD 3,000,000,000) for investment in different transactions
+chosen and advised by the registrant for a period of ten years. According to the Agreement, after the first twenty four months of investment
+implementation, the registrant will be allocated 40 of the net profit from these investments. 
+
+2.
+Entry into Agreement with Tin Thanh Group 
+
+Effective
+August 13, 2022, PHI Group, Inc. (a/k/a PHILUX GLOBAL GROUP INC.) the Registrant signed a Stock Transfer Agreement with
+Tin Thanh Group Joint Stock Company, a joint stock company organized and existing by virtue of the laws of Socialist Republic of Vietnam,
+with principal business address at 71 Pho Quang Street, Ward 2, Tan Binh District, Ho Chi Minh City, Vietnam, hereinafter referred to
+as TTG and Mr. Tran Dinh Quyen, the holder of at least fifty-one percent (51.00 of equity ownership in TTG (the Majority
+Shareholder ), hereinafter referred to as Seller, to acquire Twenty-Two Million Thirty-Two Thousand (22,032,000)
+Shares of Ordinary Stock of TTG, which is equivalent to Fifty-One Percent (51.00 of all the issued and outstanding Ordinary Stock of
+TTG for a total purchase price of Sixty Million U.S. Dollars US 60,000,000) in cash. The closing date of this transaction shall be
+the date on which the closing actually occurs, which was expected to happen as soon as possible within sixty days following the signing
+of the Stock Transfer Agreement, and was extended to January 15, 2023. This transaction may be extended further in writing by all Parties
+to said Agreement. 
+
+3.
+Entry into Agreement with Van Phat Dat Joint Stock Company 
+
+Effective
+August 16, 2022, PHI Group, Inc. (a/k/a PHILUX GLOBAL GROUP INC.) the Registrant signed an Agreement of Purchase and
+Sale with Van Phat Dat Export Joint Stock Company, a joint stock company organized and existing by virtue of the laws of Socialist Republic
+of Vietnam, with principal business address at 316 Le Van Sy Street, Ward 1, Tan Binh District, Ho Chi Minh City, Vietnam, hereinafter
+referred to as VPD, and the holder of at least fifty-one percent (51.00 of equity ownership in VPD, hereinafter referred
+to as Seller, to acquire Five Million One Hundred Thousand (5,100,000) Shares of Ordinary Stock of VPD, which is equivalent
+to Fifty-One percent (51.00 of all the issued and outstanding Ordinary Stock of VPD for a total purchase price of Six Million One Hundred
+Twenty-Seven Thousand Eight Hundred Ninety-Five U.S. Dollars US 6,127,895) in form of a convertible promissory note to be issued by
+Philux Global Trade Inc., a Wyoming corporation and wholly-owned subsidiary of the Registrant. The closing date of this transaction shall
+be the date on which the closing actually occurs, which is expected to happen as soon as possible within sixty days following the signing
+of the Agreement of Purchase and Sale, unless extended in writing by the Parties to said Agreement. 
+
+The
+convertible promissory note, which will be guaranteed by Philux Global Group Inc. and carries no interest, will be due and payable 180
+days commencing the date of issuance and may be converted into common stock of Philux Global Trade Inc. any time after this subsidiary
+becomes a publicly traded company in the United States. The conversion price will be 50 of the average closing price during the ten
+trading-day period ending one trading day prior to the date of conversion. 
+
+On
+September 30, 2022 PHI Group, Inc. entered into a Closing Memorandum for the Agreement of Purchase and Sale dated August 16, 2022 with
+and among Van Phat Dat Export Joint Stock Company and Mr. Huynh Ngoc Vu, an individual and the majority shareholder of VPD. 
+
+4.
+Termination of Business Cooperation Agreement with Vinafilms Joint Stock Company 
+
+On
+October 20, 2022, Philux Global Group Inc. (f/k/a PHI Group, Inc.), Vinafilms JSC (C ng ty C ph n M ng Bao
+B T n Vinh Nam Ph t), a Vietnamese joint stock company, with principal business address at Lot G9, Road No. 9, Tan
+Do Industrial Zone, Duc Hoa Ha Village, Duc Hoa District, Long An Province, Vietnam, and Ms. Do Thi Nghieu, the majority shareholder
+of Vinafilms JSC, signed an agreement to terminate the Business Cooperation Agreement that was previously entered into by the parties
+hereto on August 06, 2018. The termination of the referenced Business Cooperation Agreement, retroactively effective August 06, 2018,
+is due to the resultant impact of the Covid-19 pandemic and particular microeconomic conditions which make it infeasible for the Parties
+herein to continue the originally-planned Business Cooperation Agreement. 
+
+5.
+Financial Investment Management Agreement/Contract between an international ultra-high-net-worth investor and Philux Global Group, Inc.
+(aka PHI Group, Inc.). 
+
+On
+November 03, 2022, the registrant (the Investment Manager ), signed a Financial Management Agreement/Contract (the Agreement with an international ultra-high-net-worth investor group (the Investor Party to manage an investment amount (the Investment
+Amount of One Billion United States Dollars (USD 1,000,000,000) on behalf of the Investor Party for investment in select transactions
+and projects to be selected, advised and managed by the Investment Manager for a period of ten years. According to the Agreement, the
+Investment Manager shall be entitled to 15 of the Investment Amount for its own investment and benefits. In addition, the sharing of
+profits and dividends from the investment results of 80 of the Investment Amount will be determined by the two parties in a subsequent
+agreement. 
+
+F- 24 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Disclosure
+Controls and Procedures 
+
+As
+required by Rule 13a-15(b) under the Securities Exchange Act of 1934, as amended (the Exchange Act ), our management carried
+out an evaluation, with the participation of our Chief Executive Officer, of the effectiveness of the design and operation of our disclosure
+controls and procedures (as defined in Rules 13a-15(e) of the Exchange Act), as of the period covered by this report. Disclosure controls
+and procedures are defined as controls and other procedures that are designed to ensure that information required to be disclosed by
+us in reports filed with the SEC under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified
+in the SEC s rules and forms and (ii) accumulated and communicated to the Company s management, including its principal executive
+officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. Based upon their evaluation,
+our management (including our Chief Executive Officer) concluded that our disclosure controls and procedures were not effective as of
+June 30, 2022, based on the material weaknesses defined below. 
+
+Internal
+Control over Financial Reporting 
+
+Management s
+Annual Report on Internal Control of Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over
+financial reporting is a set of processes designed by, or under the supervision of, a company s principal executive and principal
+financial officers, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with GAAP and includes those policies and procedures that: 
+
+pertain
+ to the maintenance of records that in reasonable detail accurately and fairly reflect our transactions and dispositions of our assets, 
+
+provide
+ reasonable assurance that our transactions are recorded as necessary to permit preparation of our financial statements in accordance
+ with GAAP, and that receipts and expenditures are being made only in accordance with authorizations of our management and directors,
+ and 
+
+provide
+ reasonable assurance regarding prevention or timely detection of authorized acquisition, use or disposition of our assets that could
+ have a material effect on our financial statements. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. It should be noted that
+any system of internal control, however well designed and operated, can provide only reasonable, and not absolute, assurance that the
+objectives of the system will be met. Also, projections of any evaluation of effectiveness to future periods are subject to the risk
+that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures
+may deteriorate. 
+
+Under
+the supervision and with the participation of management, including its principal executive officer and principal financial officer,
+the Company s management assessed the design and operating effectiveness of internal control over financial reporting as of June
+30, 2022 based on the framework set forth in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring
+Organizations of the Treadway Commission. 
+
+We
+have identified material weaknesses in our internal control over financial reporting. 
+
+If
+we fail to develop and maintain an effective system of internal control over financial reporting, we may not be able to accurately report
+our financial results in a timely manner, which may adversely affect investor confidence in our company. 
+
+The
+material weaknesses related to a lack of a full segregation of duties and to our lack of sufficient personnel in our accounting and financial
+reporting functions with sufficient experience and expertise with respect to the application of U.S. GAAP and related financial reporting. 
+
+Based
+on this assessment, management concluded that the Company s internal control over financial reporting was not effective as of June
+30, 2022. 
+
+Management s
+Remediation Plan 
+
+We
+plan to take steps to enhance and improve the design of our internal control over financial reporting. During the period covered by this
+annual report on Form 10-K, we have not been able to remediate the material weaknesses identified above. To remediate such weaknesses,
+we plan to implement the following changes in the future: 
+
+(i) 
+ appoint
+ additional qualified personnel to address inadequate segregation of duties and ineffective risk management; and 
+
+(ii) 
+ adopt
+ sufficient written policies and procedures for accounting and financial reporting. 
+
+The
+remediation efforts set out in (i) are largely dependent upon our company securing additional financing to cover the costs of implementing
+the changes required. If we are unsuccessful in securing such funds, remediation efforts may be adversely affected in a material manner.
+Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control
+issues, if any, within our company have been detected. These inherent limitations include the realities that judgments in decision-making
+can be faulty and that breakdowns can occur because of simple error or mistake. 
+
+17 
+
+Management
+believes that despite our material weaknesses set forth above, our consolidated financial statements for the fiscal year ended June 30,
+2022 are fairly stated, in all material respects, in accordance with US GAAP. 
+
+Attestation
+Report of the Registered Accounting Firm 
+
+This
+Annual Report does not include an attestation report of the Company s independent registered public accounting firm regarding internal
+control over financial reporting. Management s report was not subject to attestation by the Company s independent registered
+public accounting firm pursuant to Rule 308(b) of Regulation S-K, which permits the Company to provide only management s report
+in this Annual Report. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+No
+changes in the Company s internal control over financial reporting have come to management s attention during the Company s
+last fiscal quarter that have materially affected, or are likely to materially affect, the Company s internal control over financial
+reporting. 
+
+ITEM
+9B. OTHER MATTERS 
+
+None. 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS, COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT 
+
+The
+following table sets forth certain information as of June 30, 2022, with respect to the Directors and Executive Officers of the Company. 
+
+NAME 
+ 
+ AGE 
+ 
+ POSITION 
+ 
+ Henry
+ D. Fahman 
+ 
+ 68 
+ 
+ Chairman
+ of the Board, President, Acting CFO 
+ 
+ Tina
+ T. Phan 
+ 
+ 55 
+ 
+ Treasurer,
+ Secretary 
+ 
+ Tam
+ T. Bui 
+ 
+ 61 
+ 
+ Director 
+ 
+ Frank
+ Hawkins 
+ 
+ 81 
+ 
+ Director 
+
+Directors
+are elected at the annual meeting of shareholders and hold office until the following annual meeting and until their successors are elected
+and qualified. All Executive Officers serve at the discretion of the Board of Directors. The Company s securities are not registered
+under Section 12(g) of the Exchange Act. Accordingly, the Directors and Executive Officers of the Company are not required to file reports
+under Section 16(a) of that act. 
+
+Henry
+D. Fahman has more than 30 years experience in general management, finance, investments and corporate strategy. He has been
+President and Chairman of the Board of PHI Group, Inc. since January 2000, and is currently Acting Financial Officer of the Company.
+Mr. Fahman served as President and Chairman of the Board of Providential Securities, Inc. from its inception in October 1992 to October
+2000. He holds a B.S., magna cum laude, in business administration from the University of California at Berkeley, with emphasis in finance
+and economic analysis and policy, and is a graduate of the Advanced Management Program (AMP166) from Harvard Business School. He has
+also attended other Executive Education programs at Harvard Business School and Stanford University, including Mergers and Acquisitions,
+Creating Competitive Advantage, and Advanced General Management. Previously, he served as a Resettlement Coordinator for the United Nations
+High Commissioner for Refugees. Mr. Fahman also serves as Chairman/Managing Director of PHILUX Capital Advisors, Inc., a wholly owned
+subsidiary of the Company, Chairman of PHILUX Global Funds SCA, SICAV-RAIF, and interim Chief Executive Officer of American Laser Healthcare
+Corporation, a Delaware corporation. Mr. Fahman is the husband of Tina T. Phan, our Secretary and Treasurer. 
+
+18 
+
+Tam
+Bui has been a Director of the Company since April 2009 and served as a Chief Technology Officer from May 2002 to April 2009. Mr.
+Bui holds Bachelor and Master of Science degrees from the University of Minnesota and has attended continuing Education at the University
+of California, Los Angeles. He has over 25 years of experience with Northrop Grumman, Honeywell, Inc. and TRW in various capacities such
+Project Director, Project Manager, Department Manager, Program Manager and Implementation Manager. One of Mr. Bui s major responsibilities
+has been the construction of dual Emergency Command Control Communication (ECCC) centers and implementation of the Los Angeles Police
+Department ECCC Systems. He has a broad knowledge and experience in the areas of information technology, intranet/internet technology,
+inventory management, material resource planning, enterprise resource planning, human resource management, investment management, real
+estate, and international business. Mr. Bui also serves as Vice-Chairman of PHILUX Capital Advisors, Inc., a wholly-owned subsidiary
+of the Company and a member of the Board of Directors of PHILUX Global Funds, a Luxembourg bank fund. Mr. Bui was appointed to serve
+as Chief Operating Officer for the Company effective July 01, 2021. 
+
+Frank
+Hawkins, Director has been a Director of the Company since April 2009 and Mr. Hawkins is a founder and CEO of Hawk Associates with
+30 years of award-winning investor relations experience, Mr. Hawkins has earned the wide respect of Wall Street s investment community
+for straight talk and integrity. He was formerly vice president/corporate relations and planning and head of the investor relations program
+at Knight-Ridder, Inc. in Miami. Mr. Hawkins started his career as an agent handler in clandestine collection operations for the Defense
+Intelligence Agency in Germany and went on to become a foreign and war correspondent, international businessman, senior corporate executive
+and president of the Access Asia Group in Hong Kong. He has lived in eight countries. He has been involved in stock listings in Tokyo
+and Frankfurt and company presentations in London, Zurich, Geneva and Singapore. Fluent in German, he is a graduate of Cornell University
+and author of Ritter s Gold, an adventure novel published in several languages by the New American Library. He is
+a member of the Association of Former Intelligence Officers and the Audubon Society and is listed in Who s Who in America and Who s
+Who in the World. He serves on the board of the Florida Keys Electric Cooperative. 
+
+Tina
+T. Phan has been Treasurer of the Company since April 2009. She served as a Director and Secretary of the Company from January 2000
+to April 10, 2009 and was Vice President of Operations of Providential Securities, Inc. from 1995 to 2000. Mrs. Phan holds a B.S. in
+management information system from California State University, Los Angeles. Currently Mrs. Phan serves as Treasurer and Secretary of
+the Company and a member of the Board of Directors of PHI Luxembourg Development S.A., the mother holding company of PHILUX Global Funds.
+Mrs. Phan is the wife of Henry D. Fahman. 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+(a)
+Any compensation received by officers, directors, and management personnel of the Company will be determined and approved from time to
+time by the Board of Directors of the Company as it deems appropriate and reasonable. Officers, directors, and management personnel of
+the Company will be reimbursed for any out-of-pocket expenses incurred on behalf of the Company. 
+
+Except
+for any non-cash payments mentioned in this report, there was no monetary compensation paid to any officers of the Company during the
+year ended June 30, 2022. 
+
+(b)
+There are no annuity, pension or retirement benefits proposed to be paid to officers, directors, or employees of the Company in the event
+of retirement at normal retirement date as there is no existing plan provided for or contributed to by the Company. 
+
+(c)
+All members of the Company s Board of Directors, whether officers of the Company or not, may receive an amount yet to be determined
+annually for their participation in meetings of the Board and will be required to attend a minimum of four meetings per fiscal year.
+The Company reimburses all expenses for meeting attendance or out of pocket expenses connected directly with their Board participation. 
+
+19 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 
+
+The
+following table sets forth information regarding the beneficial ownership of shares of the Company s common stock as of January
+, 2023 by (i) all shareholders known to the Company to be beneficial owners of more than 5 of the outstanding common stock; and (ii)
+all directors and executive officers of the Company, and as a group (out of 33,645,885,430 shares issued and outstanding): 
+
+Title
+ of Class 
+ Name
+ and Address of Beneficial Owner (1) 
+ Amount
+ of Beneficial
+ Ownership 
+ Percent
+ of Class 
+ 
+ Common
+ Stock 
+ Henry
+ D. Fahman (2) 15272 Flintridge Lane Huntington Beach, CA 92647 
+ 405,000,000 
+ 1.12 
+
+Common
+ Stock 
+ Natalie
+ Bui (3) 9132 Helm Avenue Fountain Valley, CA 92708 
+ 1,032,502 
+
+Common
+ Stock 
+ Tam
+ Bui 9132 Helm Avenue Fountain Valley, CA 92708 
+ 956,881 
+
+Common
+ Stock 
+ Tina
+ T. Phan (4) 15272 Flintridge Lane Huntington Beach, CA 92647 
+ 76,887,055 
+
+Common
+ Stock 
+ Frank
+ Hawkins 14543 Topsail Drive Naples, FL 34114 
+ 200 
+
+Common
+ Stock 
+ Shares
+ of all directors and executive officers as a group (4 persons): 
+ 483,876,638 
+ 1.43 
+
+(1) 
+ Each
+ person has sole voting power and sole dispositive power as to all of the shares shown as beneficially owned by them. 
+ 
+ (2)
+ 
+ Certain
+ of these shares have been pledged to secure certain obligations of the Company. 
+ 
+ (3)
+ 
+ Natalie
+ Bui is the spouse of Tam Bui. 
+ 
+ (4)
+ 
+ Tina
+ Phan is the spouse of Henry Fahman. 
+
+:
+ Less than 1 . 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+Henry
+D. Fahman, Chairman and Chief Executive Officer of the Company, has from time to time made cash advances to the Company. The advances
+are unsecured, interest free and payable on demand. 
+
+Certain
+of the officers and directors of the Company are engaged in other businesses, either individually or through partnerships and corporations
+in which they have an interest, hold an office, or serve on a board of directors. As a result, certain conflicts of interest may arise
+between the Company and its officers and directors. The Company will attempt to resolve such conflicts of interest in favor of the Company.
+The officers and directors of the Company are accountable to it and its shareholders as fiduciaries, which require that such officers
+and directors exercise good faith and integrity in handling the Company s affairs. A shareholder may be able to institute legal
+action on behalf of the Company or on behalf of itself and other similarly situated shareholders to recover damages or for other relief
+in cases of the resolution of conflicts is in any manner prejudicial to the Company. 
+
+Henry
+D. Fahman, Chairman and Chief Executive Officer of the Company, also serves as Interim Chief Executive Officer of American Laser Healthcare
+Corp., a Delaware corporation and a client of PHILUX Capital Advisors, Inc. 
+
+20 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+Audit
+Fees 
+
+The
+negotiated package fees billed by M.S. Madhava Rao, an independent accountancy firm, are 24,000 for the audit of the Company s
+annual consolidated financial statements for the fiscal year ended June 30, 2022 and for the review of unaudited financial statements
+for the quarters ending 9/30/2022, 12/31/2022 and 3/31/2023. 
+
+All
+Other Fees 
+
+The
+Company did not pay M.S. Madhava Rao any fees that are not related to audit and/or review of its financial statements for fiscal year
+2022 or 2021. 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS AND FINANCIAL STATEMENTS SCHEDULES 
+
+Financial
+Statements 
+
+The
+following consolidated financial statements of PHI Group, Inc. and its subsidiaries are included: 
+
+Report of Independent Registered Public Accounting Firm M.S. Madhava Rao 
+ F-1 
+ 
+ Consolidated Balance Sheets June 30, 2022 and 2021 
+ F-2 
+ 
+ Consolidated Statements of Operations For the fiscal years ended June 30, 2022 and 2021 
+ F-3 
+ 
+ Consolidated Statements of Cash Flows For the fiscal years ended June 30, 2022 and 2021 
+ F-4 
+ 
+ Consolidated Statements of Changes in Owners Equity For the fiscal years ended June 30, 2022 and 2021 
+ F-5 
+ 
+ Notes to Consolidated Financial Statements 
+ F-6 
+
+21 
+
+EXHIBIT
+INDEX 
+
+Exhibit
+ No. 
+ 
+ Exhibit
+ Description 
+
+2.1 
+ 
+ Plan
+ of Exchange between the Company and Prima Eastwest Model Management, Inc. (incorporated by reference to Exhibit 2 to the Form 8-K
+ filed on March 1, 1996) 
+ 
+ 2.2 
+ 
+ Corporate Combination Agreement between the Company and Providential Securities, Inc., effective on January 14, 2000 (incorporated by reference to Exhibit 10.12 to the Form 10-KSB filed on January 10, 2000). 
+ 
+ 3.1 
+ 
+ Articles
+ of Incorporation (1) 
+ 
+ 3.2 
+ 
+ Amendment
+ to Articles of Incorporation (incorporated by reference to Exhibit 3.1 of the Form 10-KSB for the fiscal year ended June 30, 1995). 
+ 
+ 3.3 
+ 
+ Amendment to Articles of Incorporation (6) 
+ 
+ 3.4 
+ 
+ Certificate of Amendment to Articles of Incorporation (6) 
+ 
+ 3.5 
+ 
+ Bylaws, as amended (6) 
+ 
+ 4.1 
+ 
+ Form of Series 1 Bridge Notes Purchase and Security Agreement between the Company and investors, dated March 27, 2000 (6) 
+ 
+ 4.2 
+ 
+ Form of Series 1 Bridge Note executed by the Company issued by the Company to Investors. (6) 
+ 
+ 4.3 
+ 
+ Form of Common Stock Purchase Warrant issued by the Company to investors. (6) 
+ 
+ 4.4 
+ 
+ Form of Re-pricing Warrant issued by the Company to investors. (6) 
+ 
+ 4.5 
+ 
+ Form of Registration Rights Agreement between the Company and investors, dated March 27, 2000 (6) 
+ 
+ 4.6 
+ 
+ Form of Common Stock Purchase Warrant to be issued by the Company to Sovereign Capital Advisors, LLC (6) 
+ 
+ 4.7 
+ 
+ Form of Convertible Promissory Note issued by the Company to preferred shareholders of Providential Securities, Inc. (6) 
+ 
+ 5.1 
+ 
+ Opinion
+ Re Validity of Agreements (6) 10.1 Benatone Exchange Agreement, with Creditors (2) 
+ 
+ 10.2 
+ 
+ Benatone
+ Share Acquisition Agreement (for Weldnow Enterprise, Ltd.) (2) 
+ 
+ 10.3 
+ 
+ Benatone
+ Share Acquisition Agreement (Dynedeem Limited) (2) 
+ 
+ 10.4 
+ 
+ Benatone
+ Exchange Agreement (2) 
+ 
+ 10.5 
+ 
+ Benatone
+ Asset Sale Agreement (2) 
+ 
+ 10.6 
+ 
+ Benatone
+ Royalty Agreement (2) 
+ 
+ 10.7 
+ 
+ Benatone
+ Consultancy Agreement (2) 
+ 
+ 10.8 
+ 
+ Benatone
+ Deed (2) 
+ 
+ 10.9 
+ 
+ Autokraft
+ Stock Purchase Agreement (3) 
+ 
+ 10.10 
+ 
+ Autokraft
+ Stock Subscription Agreement (3) 
+ 
+ 10.11 
+ 
+ Prima
+ Agreement and Plan of Merger (4) 
+ 
+ 10.12 
+ 
+ Escrow Agreement between the Company and Warshaw Burstein Cohen Schelsinger Kuh, LLP, dated March 28, 2000. (6) 
+ 
+ 10.13 
+ 
+ Placement Agency Agreement between the Company and Sovereign Capital Advisors, LLC, dated March 28, 2000. (6) 
+ 
+ 10.14 
+ 
+ Guaranty Agreement between Henry Fahman and SovCap Equity Partners, Ltd, dated March 28, 2000. (6) 
+ 
+ 10.15 
+ 
+ Pledge Agreement between Henry Fahman and SovCap Equity Partners, Ltd, dated March 28, 2000. (6) 
+ 
+ 10.16 
+ 
+ Partnership Purchase Agreement between the Company and Holt Collins, dated May 31, 2000. (6) 
+ 
+ 10.17 
+ 
+ Memorandum of Agreement between DataLogic Consulting, Inc. and PHI Group, Inc., dated April 25, 2001. (5) 
+ 
+ 10.18.1 
+ 
+ Letter of Intent between PHI Group, Inc. and Epicenter, Inc., dated October 30, 2000. (5) 
+ 
+ 10.18.2 
+ 
+ Amendment to Letter of Intent between PHI Group, Inc. and Epicenter, Inc., dated November 30, 2000. (5) 
+
+22 
+
+10.18.3 
+ 
+ Amendment to Letter of Intent between PHI Group, Inc. and Epicenter, Inc., dated January 12, 2001. (5) 
+ 
+ 10.18.4 
+ 
+ Amendment to Letter of Intent between PHI Group, Inc. and Epicenter, Inc., dated June 26, 2001. (5) 
+ 
+ 10.18.5 
+ 
+ Amendment to Letter of Intent between PHI Group, Inc. and Epicenter, Inc., dated October 02, 2001. (5) 
+ 
+ 10.19 
+ 
+ Joint Venture Agreement between Providential Holdings, Inc and Boxo, Inc., dated January 1, 2001. (5) 
+ 
+ 10.20 
+ 
+ License of Manna Technologies Joint Venture Company, dated March 21, 2001. (5) 
+ 
+ 10.21 
+ 
+ Memorandum of Agreement between International Consulting and Training Center, Ministry of Trade, Vietnam and the Company, dated March 24, 2001. (5) 
+ 
+ 10.22 
+ 
+ Memorandum of Agreement among General Transportation Company No. 5, Chu Lai Industrial Zone and the Company, dated March 25, 2001. (5) 
+ 
+ 10.23 
+ 
+ Letter of Intent between PHI Group, Inc. and Global Systems and Technologies, Corp. dated October 18, 2001. (6) 
+ 
+ 10.24 
+ 
+ Letter of Intent between PHI Group, Inc. and Estate Planning and Investment Company dated November 7, 2001. (6) 
+ 
+ 10.25 
+ 
+ Joint Venture Agreement between PHI Group, Inc. and Mimi Ban dated November 23, 2001. (6) 
+ 
+ 10.26 
+ 
+ Plan of acquisition of Nettel Global Communication Corp. (incorporated by reference to the Company s Current Report on Form 8-K filed May 3, 2002) 
+ 
+ 10.27 
+ 
+ Joint Venture Agreement with Vietnam s Minh Hieu Joint Stock Company. (7) 
+ 
+ 10.28 
+ 
+ Memorandum of Agreement with HDT Enterprises, LLC dated March 15, 2002. (7) 
+ 
+ 10.29 
+ 
+ Memorandum of Agreement and Principal Contract with Vietnam s Center of Telecom Technology. (7) 
+ 
+ 10.30 
+ 
+ Stock Purchase Agreement with SlimTech, Inc. (incorporated by reference to the Company s Current Report on Form 8-K, filed May 1, 2002). 
+ 
+ 10.31 
+ 
+ Stock Purchase Agreement with ATC Technology Corp. (incorporated by reference to the Company s Current Report on Form 8-K, Filed September 17, 2002) 
+ 
+ 10.32 
+ 
+ Mutual Rescission of Stock Purchase Agreement with Nettel Global Communication Corp. (8). 
+ 
+ 10.33 
+ 
+ Business Consulting Agreement with Nettel Global Communication Corp. (8) 
+ 
+ 10.34 
+ 
+ Business Consulting Agreement with Medical Career College (8) 
+ 
+ 10.35 
+ 
+ Mutual Rescission of Stock Purchase Agreement with SlimTech (8) 
+ 
+ 10.36 
+ 
+ Mutual Rescission of Stock Purchase Agreement with Clear Pass, Inc. (8). 
+ 
+ 10.37 
+ 
+ Mutual Rescission of Joint Venture Agreement with HTV CO, Ltd. (8). 
+ 
+ 10.38 
+ 
+ Mutual Rescission of Stock Purchase Agreement with Real ID Technology (8). 
+ 
+ 10.39 
+ 
+ Business Consulting Agreement with Lexor Incorporated (8). 
+ 
+ 10.40 
+ 
+ Amended Closing Memorandum with ATC Technology Corp. (8) 
+ 
+ 10.41 
+ 
+ Stock Purchase Agreement with Tangshan YutianSaw Corporation (incorporated by reference to the Company s Current Report on Form 8-K filed June 15, 2004) 
+ 
+ 10.42 
+ 
+ Asset Purchase Agreement with Western Medical, Inc. (incorporated by reference to the Company s Current Report on Form 8-K, file June 2, 2006) 
+ 
+ 10.43 
+ 
+ Principle Business Cooperation Agreement with Cavico Vietnam Joint Stock Corporation (incorporated by reference to the Company s Current Report on Form 8-K, filed October 2, 2006) 
+ 
+ 16.1 
+ 
+ Notification of Change of Accountants, Kabani Co. appointed (incorporated by reference to exhibits filed with Form 8-K/A, filed September 10, 2001) 
+ 
+ 17.1 
+ 
+ Resignation of Nhi T. Le as director and officer and appointment of Thorman Hwinn as Director (incorporated by reference to exhibits filed with Form 8-K, filed July 9, 2001) 
+ 
+ 17.2 
+ 
+ Resignation of Tam Bui as Director (incorporated by reference to the Company s Current Report on Form 8-K, filed September 30, 2004). 
+ 
+ 17.3
+
+Resignation of Gene M. Bennett as Chief Financial Officer (incorporated by reference to the Company s Current Report on Form 8-K, filed March 23, 2005). 
+ 
+ 17.4
+
+Resignation of Robert Stevenson as Director (incorporated by reference to the Company s Current Report on Form 8-K, filed July 18, 2006). 
+ 
+ 17.5
+
+Resignation of Ghanshyam Dass as Director (incorporated by reference to the Company s Current Report on Form 8-K, filed September 29, 2010). 
+
+23 
+
+17.6
+
+Resignation of Paul Nguyen as Director (incorporated by reference to the Company s Annual Report for the Fiscal Year ended June 30, 2012 as filed with the Securities and Exchange Commission on June 2, 2014). 
+ 
+ 17.7 
+ 
+ Unregistered Sale of Equity Securities (incorporated by reference to Company s Current Report on Form 8-K, filed on December 23, 2016). 
+ 
+ 17.8 
+ 
+ Unregistered Sale of Equity Securities (incorporated by reference to Company s Current Report on Form 8-K, filed on December 29, 2016). 
+ 
+ 17.9 
+ 
+ Investment Agreement with Azure Capital (incorporated by reference to Company s Current Report on Form 8-K, filed on March 7, 2017). 
+ 
+ 17.10 
+ 
+ Unregistered Sale of Equity Securities (incorporated by reference to Company s Current Report on Form 8-K, filed on April 10, 2017). 
+ 
+ 17.11 
+ 
+ Private Stock Purchase and Sale Agreement with Maxagro Farm SRL (incorporated by reference to Company s Current Report on Form 8-K, filed on June 1, 2017). 
+ 
+ 17.12 
+ 
+ Contract for Transfer of Shares to purchase 51 of equity ownership in Constructii SA (incorporated by reference to Company s Current Report on Form 8-K, filed on June 30, 2017). 
+ 
+ 17.13 
+ 
+ Unregistered Sale of Equity Securities (incorporated by reference to Company s Current Report on Form 8-K, filed on July 27, 2017). 
+ 
+ 17.14 
+ 
+ Amendment to Private Stock Purchase and Sale Agreement with Maxagro Farm SRL (incorporated by reference to Company s Current Report on Form 8-K, filed on August 9, 2017). 
+ 
+ 17.15 
+ 
+ Agreement of Purchase and Sale with Rush Gold Royalty Inc, a Wyoming corporation, to acquire a 51 ownership in twenty-one mining claims over an area of approximately 400 acres in Granite Mining District, Grant County, Oregon, U.S.A. (incorporated by reference to Company s Current Report on Form 8-K, filed on September 7, 2017). 
+ 
+ 17.16 
+ 
+ Registration Statements in connection with Azure Capital Investment Agreement (incorporated by reference to Company s S-1 Registration Statement filed on April 3, 2017, 
+ 
+ 17.17
+
+Withdrawal of Registration Statement filed on August 7, 2017, new S-1 Registration Statement filed on August 7, 2017 and S-1/A filed on September 15, 2017). 
+ 
+ 17.18 
+ 
+ Closing Memorandum for the Agreement of Purchase and Sale with Rush Gold Royalty Inc, a Wyoming corporation, to acquire a 51 ownership in twenty-one mining claims over an area of approximately 400 acres in Granite Mining District, Grant County, Oregon, U.S.A. (incorporated by reference to Company s Current Report on Form 8-K, filed on October 9, 2017). 
+
+(1) 
+ Incorporated
+ by reference to the Company s Registration Statement on Form S-18, declared effective August 10, 1982 (SEC File No. 2-78335-NY),
+ and to the Company s Annual Report on Form 10-K for the fiscal year ended June 30, 1995. 
+
+(2) 
+ Incorporated
+ by reference to the Company s Current Report on Form 8-K, dated September 7, 1995 
+
+(3) 
+ Incorporated
+ by reference to the Company s Current Report on Form 8-K/A, dated September 12, 1995. 
+
+(4) 
+ Incorporated
+ by reference to the Company s Current Report on Form 8-K, dated March 1, 1996. 
+
+(5) 
+ Incorporated
+ reference to Form 10KSB for the year ended June 30, 2000 filed October 16, 2001. 
+
+(6) 
+ Incorporated
+ by reference to Form 10KSB for the year ended June 30, 2001 filed December 17, 2001. 
+
+(7) 
+ Incorporated
+ by reference to Form 10QSB for the quarter ended March 31, 2002 filed May 14, 2002. 
+
+(8) 
+ Incorporated
+ by reference to Form 10KSB for the year ended June 30, 2003, filed October 17, 2003. 
+
+24 
+
+EXHIBIT
+INDEX (CONTINUED). 
+
+Incorporation
+ by reference 
+ 
+ Filed
+ or 
+ Furnished 
+ 
+ Exhibit
+ No. 
+ 
+ Exhibit
+ Description 
+ 
+ Form 
+ 
+ File
+ Number 
+ 
+ Exhibit 
+ 
+ Filing
+ Date 
+ 
+ Herewith 
+ 
+ 3.6 
+ 
+ Articles of Amendment to Articles of Domestication 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1;
+ Item 7.01 
+ 
+ 2020-06-30 
+
+3.7 
+ 
+ Certificate of Dissolution/Withdrawal from Nevada Secretary of State 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.2;
+ 10.2 
+ 
+ 2020-06-30 
+
+3.8 
+ 
+ Articles of Amendment to Articles of Domestication and Designations of Preferred Stock. 
+ 
+ 10-K
+
+001-38255 
+ 
+ 3.8 
+ 
+ 2021-03-11 
+
+10.44 
+ 
+ Entry Into a Material Definitive Agreement 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 99.1;
+ 99.2 
+ 
+ 2018-07-25 
+
+10.45 
+ 
+ Business Cooperation Agreement with Vinafilms Joint Stock Company 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1;
+ 10.2 
+ 
+ 2018-08-10 
+
+10.46 
+ 
+ Completion of Acquisition or Disposition of Assets Vinafilms Joint Stock Company 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2018-10-10 
+
+16.2 
+ 
+ Changes in Registrant s Certifying Accountant 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 16.1 
+ 
+ 2018-07-30 
+
+16.3 
+ 
+ Changes in Registrant s Certifying Accountant 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 16.1 
+ 
+ 2020-05-07 
+
+16.4 
+ 
+ Changes in Registrant s Certifying Accountant 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 16.1 
+ 
+ 2020-09-30 
+
+17.19 
+ 
+ Declaration of Special Common Stock Dividend from Issuer s Subsidiary 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2018-05-01 
+
+17.20 
+ 
+ Extension of Record Date for Special Common Stock Dividend from Issuer s Subsidiary 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2018-05-31 
+
+17.21 
+ 
+ Extension of Record Date for Special Common Stock Dividend from Issuer s Subsidiary 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2018-11-13 
+
+17.22 
+ 
+ Extension of Record Date for Special Common Stock Dividend from Issuer s Subsidiary 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2019-02-28 
+
+17.23 
+ 
+ Extension of Record Date for Special Common Stock Dividend from Issuer s Subsidiary 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2019-03-01 
+
+17.24 
+ 
+ PHI Group, Inc. Approves Stock Repurchase Program 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2019-03-26 
+
+17.25 
+ 
+ Extension of Record Date for Special Common Stock Dividend from Issuer s Subsidiary 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2019-05-31 
+
+25 
+
+17.26 
+ 
+ Extension of Record Date for Special Common Stock Dividend from Issuer s Subsidiary 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1;
+ 10.2 
+ 
+ 2019-09-25 
+
+17.27 
+ 
+ Extension of Record Date for Special Common Stock Dividend from Issuer s Subsidiary 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2019-12-30 
+
+17.28 
+ 
+ Extension of Repurchase Date for the Company s Common Stock 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2020-03-05 
+
+17.29 
+ 
+ Relying on Order for Reporting Relief 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ N/A 
+ 
+ 2020-05-15 
+
+17.30 
+ 
+ Extension
+ of Repurchase Date for the Company s Common Stock and Extension of Record Date For Special Stock Dividend Distribution 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 ;
+ 10.2 
+
+2020-06-30 
+
+17.31 
+ 
+ Extension
+ of Repurchase Date for the Company s Common Stock and Extension of Record Date For Special Stock Dividend Distribution 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 ;
+ 10.2 
+ 
+ 2020-12-29 
+
+17.32 
+ 
+ Amendment to Promissory Notes dated April 01, 2019 between Luan Ngo and the Company 
+ 
+ 10-K/A 
+ 
+ 001-38255 
+ 
+ 17.32 
+ 
+ 2021-06-30 
+
+17.33 
+ 
+ Amendment to Articles of Domestication 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 
+ 
+ 2020-06-30 
+
+17.34 
+ 
+ Withdrawal from State of Nevada 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1;
+ 10.2 
+ 
+ 200-06-30 
+
+17.35 
+ 
+ Change in Registrant s Certifying Accountant 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 16.1 
+ 
+ 2020-09-30 
+
+17.36 
+ 
+ Extension
+ of Purchase Date for Common Stock and Extension of Record Date for Special Stock Dividend Distribution. 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1 ;
+ 10.2 
+ 
+ 2021-06-28 
+
+17.37 
+ 
+ Memorandum of Understanding with Five-Grain Treasure Spirits Co., Ltd 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1;
+ 99.1 
+ 
+ 2021-09-17 
+
+17.38 
+ 
+ Securities to be offered in Employee Benefit Plan 
+ 
+ S-8 
+ 
+ 333-259633 
+ 
+ 4.1
+ et al. 
+ 
+ 2021-09-17 
+
+17.39 
+ 
+ Asia Diamond Exchange, Inc. and the Asia Diamond Exchange 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1
+ et al. 
+ 
+ 2021-10-01 
+
+17.40 
+ 
+ Name change of Provimex, Inc. to Empire Spirits, Inc. 
+ 
+ 8-K 
+ 
+ 001-38255 
+ 
+ 10.1
+ et al. 
+ 
+ 2021-10-04 
+
+21.1
+
+Subsidiaries of Registrant 
+
+X 
+ 
+ 31.1 -
+ 32.2 
+ 
+ Certifications
+ in Accordance with Sections 302 and 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+ Inline
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ Inline
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ Inline XBRL
+ Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ Inline
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ Inline
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ Inline
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+26 
+
+SIGNATURES 
+
+Pursuant
+to the requirement of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to
+be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+PHI
+ GROUP, INC. 
+ (a/k/a
+ PHILUX GLOBAL GROUP INC) 
+
+Dated:
+ January 13, 2023 
+
+By: 
+ /s/
+ Henry D. Fahman 
+
+Henry
+ D. Fahman, President 
+
+In
+accordance with the Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Company and in
+the capacities and on the dates indicated. 
+
+SIGNATURE 
+ 
+ TITLE 
+ 
+ DATE 
+
+/s/
+ Henry D. Fahman 
+ 
+ Chairman/President/Acting
+ Chief Financial Officer 
+ 
+ January
+ 13, 2023 
+ 
+ HENRY
+ D. FAHMAN 
+
+/s/
+ Tina T. Phan 
+ 
+ Secretary/Treasurer
+
+January
+ 13, 2023 
+ 
+ TINA
+ T. PHAN 
+
+/s/
+ Tam T. Bui 
+ 
+ Director
+
+January
+ 13, 2023 
+ 
+ TAM
+ T. BUI 
+
+/s/
+ Frank Hawkins 
+ 
+ Director 
+ 
+ January
+ 13, 2023 
+ 
+ FRANK
+ HAWKINS 
+
+27 
+
+<EX-21.1>
+ 2
+ ex21-1.htm
+
+Exhibit
+No. 21.1 
+
+SUBSIDIARIES
+OF REGISTRANT 
+
+As
+of January 13, 2023, the Company has the following subsidiaries: 
+
+1) 
+ PHILUX
+ Global Funds SCA, SICAV-RAIF, a Luxembourg corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: Luxembourg bank master fund. 
+
+2)
+ 
+ PHI
+ Luxembourg Development SA, a Luxembourg corporation 
+
+Percentage
+ of ownership: 100 owned by PHI Group, Inc. 
+
+Business
+ activity: mother holding company for Luxembourg bank funds. 
+
+3) 
+ PHI
+ Luxembourg Holding SA, a Luxembourg corporation 
+
+Percentage
+ of ownership: 100 owned by PHI Luxembourg Development SA. 
+
+Business
+ activity: holding company for participating shares in sub-funds of PHILUX Global Funds. 
+
+4) 
+ PHILUX
+ Global General Partner SA, a Luxembourg corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: holding management shares in PHILUX Global Funds. 
+
+5) 
+ PHILUX
+ Capital Advisors, Inc., a Wyoming corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: investment advisory and M A consulting services. 
+
+6) 
+ Philux
+ Global Vietnam Investment Development Co., Ltd., a Vietnamese limited liability company 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: direct investments, consulting services 
+
+7) 
+ Asia
+ Diamond Exchange, Inc., a Wyoming corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: holding company for the Asia Diamond Exchange to be established in Vietnam. 
+
+8) 
+ Vinafilms
+ International, Inc., a Wyoming corporation (formerly American Pacific Plastics, Inc.) 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: holding company for the acquisition of Vinafilms Co., Ltd. (inactive) 
+
+9) 
+ American
+ Pacific Resources, Inc., a Wyoming corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: holding company for mineral and natural resources business (inactive). 
+
+10) 
+ PHIVITAE
+ Healthcare, Inc., a Wyoming corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: medical and healthcare business (inactive). 
+
+11) 
+ Empire
+ Spirits, Inc., a Nevada corporation 
+
+Percentage
+ of ownership (to be determined). 
+ Business
+ activity: manufacturing and sale of American-made baijiu. 
+
+12) 
+ Philux
+ Fidelity Global Group, a Wyoming corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: holding company for acquisition of and collaboration with 
+ Tin
+ Thanh Group Joint Stock Company, startup. 
+
+13) 
+ Philux
+ Global Trade Inc., a Wyoming corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: holding company for acquisition of Van Phat Dat JSC, startup. 
+
+14) 
+ Philux
+ Global Energy Inc., a Wyoming corporation 
+
+Percentage
+ of ownership: 100 
+
+Business
+ activity: holding company for acquisition of majority interest in Kota Construction LLC and
+ Kota Energy Group LLC 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+Certification
+of Principal Executive Officer 
+
+ Pursuant
+to pursuant to Rule 13a-14(a) or Rule 15d-14(a) 
+
+ of
+the Securities Exchange Act of 1934, as amended 
+
+I,
+Henry Fahman, Principal Executive Officer of PHI Group, Inc., certify that: 
+
+1.
+I have reviewed this report on Form 10-K of PHI Group, Inc. for the fiscal year ended June 30, 2022; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a 15(e) and 15d 15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a 15(f) and 15d 15(f)) for the registrant and have: 
+
+a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+b)
+Designed such internal control over financial reporting, or caused such internal control over reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+PHI
+ GROUP, INC. (aka Philux Global Group Inc) 
+
+/s/
+ Henry Fahman 
+
+Henry
+ Fahman, Principal Executive Officer 
+
+Dated:
+ January 13, 2023 
+
+Exhibit
+31.2 
+
+Certification
+of Principal Financial Officer 
+
+ Pursuant
+to pursuant to Rule 13a-14(a) or Rule 15d-14(a) 
+
+ of
+the Securities Exchange Act of 1934, as amended 
+
+I,
+Henry Fahman, Acting Principal Financial Officer, PHI Group, Inc., certify that: 
+
+1.
+I have reviewed this report on Form 10-K of PHI Group, Inc. for the fiscal year ended June 30, 2022; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a 15(e) and 15d 15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a 15(f) and 15d 15(f)) for the registrant and have: 
+
+a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+b)
+Designed such internal control over financial reporting, or caused such internal control over reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+PHI
+ GROUP, INC. (aka Philux Global Group Inc) 
+
+/s/
+ Henry Fahman 
+
+Henry
+ Fahman, Acting Principal Financial Officer 
+
+Dated:
+ January 13, 2023 
+
+</EX-31.1>
+
+<EX-32.2>
+ 4
+ ex32-2.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 18 U.S.C. Section 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of PHI Group, Inc. on Form 10-K for the fiscal year ended June 30, 2022, as filed with the Securities
+and Exchange Commission on the date hereof (the Report ), I, Henry Fahman, President and Director of the Company, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge
+and belief: (1) the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+(2) the information contained in the Report fairly presents, in all material respects, the financial condition and result of operations
+of the Company. 
+
+/s/
+ Henry Fahman 
+
+Henry
+ Fahman 
+
+Principal
+ Executive Officer /Director 
+
+Dated:
+ January 13, 2023 
+
+Exhibit
+32.2 
+
+CERTIFICATION
+PURSUANT TO 18 U.S.C. Section 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of PHI Group, Inc. (aka Philux Global Group Inc) on Form 10-K for the fiscal year ended June 30, 2022,
+as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Henry D. Fahman, Acting Chief
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that, to the best of my knowledge and belief: (1) the Report fully complies with the requirements of Section 13(a) or 15(d)
+of the Securities Exchange Act of 1934; and (2) the information contained in the Report fairly presents, in all material respects, the
+financial condition and result of operations of the Company. 
+
+/s/
+ Henry Fahman 
+
+Henry
+ Fahman 
+
+Acting
+ Principal Financial Officer 
+
+Dated:
+ January 13, 2023 
+
+</EX-32.2>
+

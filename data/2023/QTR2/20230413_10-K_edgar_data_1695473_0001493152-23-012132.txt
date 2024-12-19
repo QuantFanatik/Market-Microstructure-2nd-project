@@ -1,0 +1,2965 @@
+<Header>
+<FileStats>
+    <FileName>20230413_10-K_edgar_data_1695473_0001493152-23-012132.txt</FileName>
+    <GrossFileSize>4296269</GrossFileSize>
+    <NetFileSize>112882</NetFileSize>
+    <NonText_DocumentType_Chars>748883</NonText_DocumentType_Chars>
+    <HTML_Chars>1328443</HTML_Chars>
+    <XBRL_Chars>955821</XBRL_Chars>
+    <XML_Chars>1069788</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-012132.hdr.sgml : 20230413
+<ACCEPTANCE-DATETIME>20230413161341
+ACCESSION NUMBER:		0001493152-23-012132
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		55
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230413
+DATE AS OF CHANGE:		20230413
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Greater Cannabis Company, Inc.
+		CENTRAL INDEX KEY:			0001695473
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				300842570
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56027
+		FILM NUMBER:		23818499
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 WALKER AVE,
+		STREET 2:		SUITE 101
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21208
+		BUSINESS PHONE:		(443) 738-4051
+
+	MAIL ADDRESS:	
+		STREET 1:		15 WALKER AVE,
+		STREET 2:		SUITE 101
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21208
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-012132.txt : 20230413
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act Of 1934 
+
+For
+the fiscal year ended , 
+
+Transition Report Under Section 13 or 15(d) of the Securities Exchange Act Of 1934 
+
+For
+the transition period from _____________ to _____________ 
+
+Commission
+File Number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction 
+ of
+ incorporation or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+,
+
+(Address
+of principal executive offices, including Zip Code) 
+
+(Issuer s
+telephone number, including area code) 
+
+NOT
+APPLICABLE 
+
+ (Former
+name or former address if changed since last report) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbols(s) 
+ 
+ Name
+ of each exchange on which registered 
+ 
+ NONE 
+ 
+ N/A 
+ 
+ N/A 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Check
+whether the issuer (1) has filed all reports required to be filed by section 13 or 15(d) of the Exchange Act during the past 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding
+12 months (or for such shorter period that the registrant was required to submit and post such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a small reporting
+company. See the definitions of large accelerated filer, accelerated filer, non-accelerated filer, 
+and smaller reporting company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+ 
+ Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+State
+the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which
+the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed second fiscal quarter: . 
+
+State
+the number of shares outstanding of each of the issuer s classes of common equity, as of the latest practicable date: 
+shares of common stock as of April 13, 2023. 
+
+TABLE
+OF CONTENTS 
+
+Page 
+ 
+ PART I 
+
+Item
+ 1 
+ Business 
+ 2 
+ 
+ Item
+ 1A 
+ Risk Factors 
+ 5 
+ 
+ Item
+ 1B 
+ Unresolved Staff Comments 
+ 5 
+ 
+ Item
+ 2 
+ Properties 
+ 5 
+ 
+ Item
+ 3 
+ Legal Proceedings 
+ 5 
+ 
+ Item
+ 4 
+ Mine Safety Disclosures 
+ 5 
+
+PART II 
+
+Item
+ 5 
+ Market for Company s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 6 
+ 
+ Item
+ 6 
+ Selected Financial Data 
+ 6 
+ 
+ Item
+ 7 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 7 
+ 
+ Item
+ 7A 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 7 
+ 
+ Item
+ 8 
+ Financial Statements. 
+ 7 
+ 
+ Item
+ 9 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 8 
+ 
+ Item
+ 9A 
+ Controls and Procedures 
+ 8 
+ 
+ Item
+ 9B 
+ Other Information 
+ 8 
+
+PART III 
+
+Item
+ 10 
+ Directors, Executive Officers and Corporate Governance 
+ 9 
+ 
+ Item
+ 11 
+ Executive Compensation 
+ 10 
+ 
+ Item
+ 12 
+ Security Ownership of Certain Beneficial Owners and Management 
+ 11 
+ 
+ Item
+ 13 
+ Certain Relationships and Related Transactions and Director Independence 
+ 11 
+ 
+ Item
+ 14 
+ Principal Accounting Fees and Services 
+ 11 
+
+Cautionary
+Note Regarding Forward Looking Statements 
+
+This
+annual report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of
+the Securities Exchange Act of 1934. The words believe, expect, anticipate, intend, 
+ estimate, may, should, could, will, plan, future, 
+ continue, and other expressions that are predictions of or indicate future events and trends and that do not relate to
+historical matters identify forward-looking statements. These forward-looking statements are based largely on our expectations or forecasts
+of future events, can be affected by inaccurate assumptions, and are subject to various business risks and known and unknown uncertainties,
+a number of which are beyond our control. Therefore, actual results could differ materially from the forward-looking statements contained
+in this document, and readers are cautioned not to place undue reliance on such forward-looking statements. We undertake no obligation
+to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. A wide
+variety of factors could cause or contribute to such differences and could adversely impact revenues, profitability, cash flows and capital
+needs. There can be no assurance that the forward-looking statements contained in this document will, in fact, transpire or prove to
+be accurate. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the
+risks in the section entitled Risk Factors that may cause our or our industry s actual results, levels of activity,
+performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed
+or implied by any forward-looking statements. 
+
+Important
+factors that may cause the actual results to differ from the forward-looking statements, projections or other expectations include, but
+are not limited to, the following: 
+
+risk
+ that we will not be able to remediate identified material weaknesses in our internal control over financial reporting and disclosure
+ controls and procedures; 
+
+risk
+ that we fail to meet the requirements of the agreements under which we acquired our business interests, including any cash payments
+ to the business operations, which could result in the loss of our right to continue to operate or develop the specific businesses
+ described in the agreements; 
+
+risk
+ that we will be unable to secure additional financing in the near future in order to commence and sustain our planned development
+ and growth plans; 
+
+risk
+ that we cannot attract, retain and motivate qualified personnel, particularly employees, consultants and contractors for our operations; 
+
+risks
+ and uncertainties relating to the various industries and operations we are currently engaged in; 
+
+results
+ of initial feasibility, pre-feasibility and feasibility studies, and the possibility that future growth, development or expansion
+ will not be consistent with our expectations; 
+
+risks
+ related to the inherent uncertainty of business operations including profit, cost of goods, production costs and cost estimates and
+ the potential for unexpected costs and expenses; 
+
+risks
+ related to commodity price fluctuations; 
+
+the
+ uncertainty of profitability based upon our history of losses; 
+
+risks
+ related to failure to obtain adequate financing on a timely basis and on acceptable terms for our planned development projects; 
+
+risks
+ related to environmental regulation and liability; 
+
+risks
+ related to tax assessments; 
+
+other
+ risks and uncertainties related to our prospects, properties and business strategy. 
+
+Although
+we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels
+of activity, performance or achievements. You should not place undue reliance on these forward-looking statements, which speak only as
+of the date of this report. Except as required by law, we do not undertake to update or revise any of the forward-looking statements
+to conform these statements to actual results, whether as a result of new information, future events or otherwise. 
+
+As
+used in this annual report, Greater Cannabis, the Company, we, us, or our 
+refer to The Greater Cannabis Company, Inc., unless otherwise indicated. 
+
+PART
+I 
+
+Item
+1. BUSINESS 
+
+HISTORY
+OF OUR COMPANY 
+
+The
+Greater Cannabis Company, Inc. (the Company was formed in March 2014 as a limited liability company under the name, The
+Greater Cannabis Company, LLC. The Company remained a wholly owned subsidiary of Sylios Corp until March 2017. The Company s initial
+business plan was to concentrate on cannabis related investment and development opportunities through its online retail store, direct
+equity investments, joint ventures, licensing agreements or acquisitions. Our current operations are focused on our online store, GCC
+Superstore. 
+
+On
+July 31, 2018, the Company entered into and consummated a voluntary share exchange transaction with Green C Corporation, a company incorporated
+under the laws of the Province of Ontario Green C and the shareholders of Green C (the Selling Shareholders pursuant to a Share Exchange Agreement by and among the Company, Green C and the Selling Shareholders (the Exchange Agreement ). 
+
+In
+accordance with the terms of the Exchange Agreement, the Company issued 9,411,998 shares of its preferred stock, par value 0.001 (the
+ Shares to the Selling Shareholders and certain individuals named below (collectively, the Shareholder Group in exchange for 100 of the issued and outstanding capital stock of Green C (the Exchange Transaction ). As a result of
+the Exchange Transaction, the Selling Shareholders acquired 29.67 of the Company s issued and outstanding shares of preferred
+stock, Green C became the Company s wholly-owned subsidiary and the Company acquired 100 of the business and operations of Green
+C. 
+
+After
+the consummation of the transactions contemplated by the Exchange Agreement, we switched our business model in fiscal 2018 and no longer
+intended to pursue E-commerce, advertising, licensing (except as specified below) or direct investment operations. We are now engaged
+in the development and commercialization of innovative cannabinoid therapeutics using our proprietary delivery system. Our mission is
+to bring our products to the global market through partnerships with leading cannabis and pharmaceutical companies, for the benefit of
+patients and consumers. 
+
+From
+July 2018 through mid-2021, Greater Cannabis focused on commercializing its own and licensed technologies worldwide for transmucosal
+and transdermal delivery of legal medical or recreational cannabis (other than in the field of oral care) and cannabinoids CBD (. While part of the cannabis family, CBD, which contains less than 0.3 tetrahydrocannabinol THC ), the psychoactive compound
+that produces the high in marijuana, is distinguished from cannabis by its use, physical appearance and lower THC concentration
+(cannabis generally has a THC level of 10 or more). The Company s initial product was an oral transmucosal patch platform which
+provides for loaded actives to be absorbed by the buccal mucosa into the body. Although the Company was able to launch the product and
+received some limited initial orders, Greater Cannabis management ultimately elected to pursue other opportunities, which they believed
+offered the Company greater potential for growth and ultimate profitability. 
+
+Accordingly,
+on October 19, 2021 the Company entered into a license agreement with Shaare Zedek Scientific Ltd. SZS ), the technology
+transfer arm of Jerusalem s Shaare Zedek Medical Center (SZMC). The license agreement covers the license of SZS s novel cannabinoid
+therapeutic focused on treatment of autism, schizophrenia, Parkinson s disease, Alzheimer s disease and other neuropsychiatric
+disorders. Shaare Zedek Medical Center, founded in 1901, is one of the largest multidisciplinary research hospitals in Israel with 1,000
+beds and over 850,000 patient visits a year. The SZMC Center for Research and Development has over 300 annual publications of investigator
+initiated studies in medical journals in addition to almost 160 clinical trials. 
+
+Accompanying
+the license agreement is a joint research and development agreement, which will focus on continuing the clinical program spearheaded
+by Dr. Adi Aran, M.D., Director of Pediatric Neurology at SZMC, Board Member of the Israeli Society for Pediatric Neurology, and co-inventor
+of the novel cannabinoid therapy. Dr. Aran is a world renowned expert in cannabis research and pediatric neurology and was the principal
+investigator of the first ever cannabis research study conducted on autistic children. 
+
+Dr.
+Aran s pioneering study assessed safety, tolerability and efficacy of CBD based medical cannabis as an adjuvant therapy for refractory
+behavioral problems in children with ASD. The results provided very compelling evidence that medical cannabis is an effective therapy
+for children on the autism spectrum. Conditions in 80 of the children improved, with 62 of parents reporting substantial improvements.
+Half of the children had improved communication and 40 reported a decrease in anxiety. The same children had not shown improvement with
+conventional drug therapies. Dr. Aran and his team have now developed a novel combination therapy that is believed to be significantly
+more effective than the cannabis-only formulation that had been used in the aforementioned study. The Company will continue to further
+develop this therapeutic and conduct clinical studies to further substantiate its safety and efficacy beginning in neuropsychiatric disorders. 
+
+The
+clinical studies of the therapeutic are expected to require an investment of up to 1,000,000 and up to two years to finalize. 
+
+The
+Company s business plan is to (i) conduct clinical studies on and commercialize the cannabinoid-based therapeutic and (ii) concentrate
+on cannabis related investment and development opportunities through direct equity investments, joint ventures, licensing agreements
+or acquisitions. 
+
+Our
+principal executive office is located at The Greater Cannabis Company, Inc., 2833 Smith Avenue Suite 333, Baltimore, MD 21209, and our
+telephone number is (443) 738-4051. 
+
+Competition 
+
+There
+are a number of other companies operating in the cannabis space. Such companies range from producers of cannabis plants to makers of
+cannabis-based edible products to developers of different methods of cannabis delivery. Known competitors in our space include Jazz Pharmaceuticals
+(NASDAQ: JAZZ) and Zynerba Pharmaceuticals (NASDAQ: ZYNE). 
+
+2 
+
+Intellectual
+Property 
+
+Not
+applicable. 
+
+Costs
+and Effects of Complying with Environmental Regulations 
+
+Not
+applicable. 
+
+Research
+and Development 
+
+The
+Company is involved in additional research and development of innovative cannabinoid based therapeutics. The Company expects to develop
+new formulations around cannabinoid therapeutics and intends to file more patents to protect the intellectual property resulting from
+that R D. To support these efforts, the Company will allocate additional funds of approximately 250,000 from financing proceeds
+to research and development, sample productions and preclinical studies. 
+
+Government
+Regulation 
+
+Cannabis
+is currently a Schedule I controlled substance under the Controlled Substances Act CSA and is, therefore, illegal under
+federal law. Even in those states in which the use of cannabis has been legalized pursuant to state law, its use, possession or cultivation
+remains a violation of federal law. A Schedule I controlled substance is defined as one that has no currently accepted medical use in
+the United States, a lack of safety for use under medical supervision and a high potential for abuse. The U.S. Department of Justice
+(the DOJ defines Schedule I controlled substances as the most dangerous drugs of all the drug schedules with potentially
+severe psychological or physical dependence. If the federal government decides to enforce the CSA in Colorado with respect to
+cannabis, persons that are charged with distributing, possessing with intent to distribute or growing cannabis could be subject to fines
+and/or terms of imprisonment, the maximum being life imprisonment and a 50 million fine. 
+
+Notwithstanding
+the CSA, as of the date of this filing, 33 U.S. states, the District of Columbia and the U.S. territories of Guam and Puerto Rico allow
+their residents to use medical cannabis and 11 states have legalized recreational marijuana. Such state and territorial laws are in conflict
+with the federal CSA, which makes cannabis use and possession illegal at the federal level. 
+
+In
+light of such conflict between federal laws and state laws regarding cannabis, the previous administration under President Obama had
+effectively stated that it was not an efficient use of resources to direct federal law enforcement agencies to prosecute those lawfully
+abiding by state-designated laws allowing the use and distribution of medical cannabis. For example, the prior DOJ Deputy Attorney General
+of the Obama administration, James M. Cole, issued a memorandum (the Cole Memo to all United States Attorneys providing
+updated guidance to federal prosecutors concerning cannabis enforcement under the CSA (see -The Cole Memo ). In addition,
+the Financial Crimes Enforcement Network FinCEN provided guidelines (the FinCEN Guidelines on February
+14, 2014, regarding how financial institutions can provide services to cannabis-related businesses consistent with their Bank Secrecy
+Act obligations). 
+
+3 
+
+Cole
+Memo 
+
+Because
+of the discrepancy between the laws in some states, which permit the distribution and sale of medical and recreational cannabis, from
+federal law that prohibits any such activities, DOJ Deputy Attorney General James M. Cole issued the Cole Memo concerning cannabis enforcement
+under the CSA. The Cole Memo guidance applies to all of the DOJ s federal enforcement activity, including civil enforcement and
+criminal investigations and prosecutions, concerning cannabis in all states. 
+
+The
+Cole Memo reiterates Congress s determination that cannabis is a dangerous drug and that the illegal distribution and sale of cannabis
+is a serious crime that provides a significant source of revenue to large-scale criminal enterprises, gangs, and cartels. The Cole Memo
+notes that the DOJ is committed to enforcement of the CSA consistent with those determinations. It also notes that the DOJ is committed
+to using its investigative and prosecutorial resources to address the most significant threats in the most effective, consistent, and
+rational way. In furtherance of those objectives, the Cole Memo provides guidance to DOJ attorneys and law enforcement to focus their
+enforcement resources on persons or organizations whose conduct interferes with any one or more of the following important priorities
+(the Enforcement Priorities in preventing: 
+
+the
+ distribution of cannabis to minors; 
+
+revenue
+ from the sale of cannabis from going to criminal enterprises, gangs, and cartels; 
+
+the
+ diversion of cannabis from states where it is legal under state law in some form to other states; 
+
+state-authorized
+ cannabis activity from being used as a cover or pretext for the trafficking of other illegal drugs or other illegal activity; 
+
+violence
+ and the use of firearms in the cultivation and distribution of cannabis; 
+
+drugged
+ driving and the exacerbation of other adverse public health consequences associated with cannabis use; 
+
+the
+ growing of cannabis on public lands and the attendant public safety and environmental dangers posed by cannabis production on public
+ lands; and 
+
+cannabis
+ possession or use on federal property. 
+
+4 
+
+We
+intend to conduct rigorous due diligence to verify the legality of all activities that we engage in and ensure that our activities do
+not interfere with any of the Enforcement Priorities set forth in the Cole Memo. 
+
+The
+Cole Memo is meant only as a guide for United States Attorneys and does not alter in any way the Department of Justice s authority
+to enforce Federal law, including Federal laws relating to cannabis, regardless of state law. 
+
+Agriculture
+Improvement Act of 2018 
+
+The
+federal Agricultural Improvement Act of 2018, signed into law on December 20, 2018, along with the Agricultural Act of 2014, the corresponding
+Consolidated Appropriations Act of 2016 provisions (as extended by resolution into 2018) and related state law, provide for the cultivation,
+processing, manufacturing and sale of hemp-derived products, as part of agricultural pilot programs and/or state plans adopted by individual
+states, including Colorado. However, there can be no assurance that new legislation or regulations may be introduced at either the federal
+and/or state level which, if passed, would impose substantial new regulatory requirements on the manufacture, packaging, labeling, advertising
+and distribution and sale of hemp-derived products. New legislation or regulations may require the reformulation, elimination or relabeling
+of certain products to meet new standards and revisions to certain sales and marketing materials and it is possible that the costs of
+complying with these new regulatory requirements could be material. 
+
+FDA 
+
+The
+use of our technology may be subject to pre-approval by the FDA for certain applications, or equivalent regulatory body approval in other
+jurisdictions. If so, obtaining FDA and other approvals will require a substantial investment of funds and may take years. In such case,
+we intend to rely on our sublicensees or strategic partners to fund and undertake any required approval process. There is no assurance
+that we will be able to successfully obtain any such required regulatory approvals needed to enter certain markets or market our technology
+for certain applications. 
+
+We
+also may be required to comply with FDA and other federal, state and foreign regulations regarding safety, dosing and other similar matters. 
+
+Employees 
+
+We
+have one person providing us services on a full-time basis, our chief executive officer. 
+
+Item
+1A. RISK FACTORS 
+
+As
+a smaller reporting company as defined in Rule 12b-2 under the Exchange Act, disclosure of this Item is not required. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS. 
+
+None 
+
+ITEM
+2. PROPERTIES 
+
+We
+currently lease office space at 15 Walker Street, Suite 101, Baltimore, Maryland 21208 from our chief executive officer, Aitan Zacharin,
+for no consideration. Our lease with Mr. Zacharin is terminable at will. 
+
+We
+do not own any real property. 
+
+We
+believe that our facilities are adequate for our current needs and that, if required, we will be able to expand our current space or
+locate suitable new office space and obtain a suitable replacement for our executive and administrative headquarters. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+We
+know of no pending proceedings to which any director, member of senior management, or affiliate is either a party adverse to us or has
+a material interest adverse to us. 
+
+None
+of our executive officers or directors have (i) been involved in any bankruptcy proceedings within the last five years, (ii) been convicted
+in or has pending any criminal proceedings (other than traffic violations and other minor offenses), (iii) been subject to any order,
+judgment or decree enjoining, barring, suspending or otherwise limiting involvement in any type of business, securities or banking activity
+or (iv) been found to have violated any Federal, state or provincial securities or commodities law and such finding has not been reversed,
+suspended or vacated. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+5 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR COMPANY S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market
+Information 
+
+Our
+shares of common stock have been quoted on the OTCQB tier of the over-the-counter market operated by OTC Markets Group Inc. under the
+symbol GCAN since August 2018. Such market is extremely limited. We can provide no assurance that our shares of common
+stock will be continued to be quoted on the OTC or another exchange, or if traded, that the current public market will be sustainable. 
+
+Holders
+of Record 
+
+On
+the date of this annual report, there were 337 holders of record of our common stock, as reported by the Company s transfer agent.
+In computing the number of holders of record, each broker-dealer and clearing corporation holding shares on behalf of its customers is
+counted as a single stockholder and accordingly, the Company believes that the number of beneficial owners of its common stock is significantly
+higher. 
+
+Dividends 
+
+We
+have never declared or paid any cash dividends on our common stock nor do we anticipate paying any in the foreseeable future. Furthermore,
+we expect to retain any future earnings to finance our operations and expansion. The payment of cash dividends in the future will be
+at the discretion of our Board of Directors. 
+
+Equity
+Compensation Plans 
+
+Not
+applicable 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+As
+a smaller reporting company, we are not required to provide this information. 
+
+6 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Results
+of Operations 
+
+For
+the year ended December 31, 2022, the Company generated 0 in annual revenue compared to 12,630 in 2021. 
+
+Cost
+of sales was 0 for the year ended December 31, 2022 and 12,655 for the year ended December 31, 2021. Our operating expenses in the
+year ended December 31, 2022 amounted to 174,535 as compared to 343,121 for the year ended December 31, 2021. 
+
+Our
+net loss in the year ended December 31, 2022 was 357,768 as compared to the net loss of 602,226 during the year ended December 31,
+2021. 
+
+The
+amounts presented in the financial statements do not provide for the effect of inflation on our operations or our financial position.
+Amounts shown for costs and expenses reflect historical cost and do not necessarily represent replacement cost. The net operating losses
+shown would be greater than reported if the effects of inflation were reflected either by charging operations with amounts that represent
+replacement costs or by using other inflation adjustments. 
+
+Liquidity
+and Capital Resources 
+
+We
+had 270,030 cash on hand at December 31, 2022, compared to 377,520 at December 31, 2021. 
+
+At
+December 31, 2022, we had 243,437 in principal amount of outstanding convertible notes. 
+
+Please
+ see NOTE E - NOTES PAYABLE TO THIRD PARTIES for further information. 
+
+The
+proceeds from loans, convertible debentures as well as cash on hand is being used to fund the operations of our current operations. 
+
+The
+following table provides detailed information about our net cash flows for the twelve months ended December 31, 2022 and 2021. 
+
+31-Dec-22 
+ 31-Dec-21 
+ 
+ Net cash (used in) operating activities 
+ (107,490 
+ (235,433 
+ 
+ Net cash (used in) investing activities 
+ - 
+ - 
+ 
+ Net cash provided by
+ financing activities 
+ - 
+ 500,000 
+ 
+ Net increase (decrease) in cash 
+ (107,490 
+ 264,567 
+
+Trends 
+
+The
+factors that will most significantly affect our future operating results, liquidity and capital resources will be: 
+
+Government
+ regulation of the marijuana industry; 
+
+Revision
+ of Federal banking regulations for the marijuana industry; and 
+
+Legalization
+ of the use of marijuana for medical or recreational use in other states. 
+
+Other
+than the foregoing, we do not know of any trends, events or uncertainties that have had, or are reasonably expected to have, a material
+impact on: 
+
+revenues
+ or expenses; 
+
+any
+ material increase or decrease in liquidity; or 
+
+expected
+ sources and uses of cash. 
+
+Critical
+Accounting Policies and Estimates 
+
+The
+SEC issued Financial Reporting Release No. 60, Cautionary Advice Regarding Disclosure About Critical Accounting Policies 
+suggesting that companies provide additional disclosure and commentary on their most critical accounting policies. In Financial Reporting
+Release No. 60, the SEC has defined the most critical accounting policies as the ones that are most important to the portrayal of a company s
+financial condition and operating results and require management to make its most difficult and subjective judgments, often as a result
+of the need to make estimates of matters that are inherently uncertain. Based on this definition, we have identified the following significant
+policies as critical to the understanding of our financial statements. The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make a variety of estimates and assumptions that affect (i) the reported amounts
+of assets and liabilities and disclosure of contingent assets and liabilities as of the date of the financial statements and (ii) the
+reported amounts of revenues and expenses during the reporting periods covered by the financial statements. Our management expects to
+make judgments and estimates about the effect of matters that are inherently uncertain. As the number of variables and assumptions affecting
+the future resolution of the uncertainties increase, these judgments become even more subjective and complex. Although we believe that
+our estimates and assumptions are reasonable, actual results may differ significantly from these estimates. Changes in estimates and
+assumptions based upon actual results may have a material impact on our results. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources
+that are material to investors. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+As
+a smaller reporting company, we are not required to provide this information. 
+
+ITEM
+8. FINANCIAL STATEMENTS 
+
+The
+financial statements and supplementary financial information required by this Item are set forth immediately below and are incorporated
+herein by reference. 
+
+7 
+
+THE
+GREATER CANNABIS COMPANY, INC. 
+
+ December
+31, 2022 
+
+INDEX
+TO FINANCIAL STATEMENTS 
+
+Page 
+ 
+ Report
+ of Independent Registered Public Accounting Firm (PCAOB ID No. 
+ F-2 
+ 
+ Consolidated Balance Sheets as of December 31, 2022 and 2021 
+ F-3 
+ 
+ Consolidated Statements of Operations for the years ended December 31, 2022 and 2021 
+ F-4 
+ 
+ Consolidated Statements of Stockholders Deficiency for the years ended December 31, 2022 and 2021 
+ F-5 
+ 
+ Consolidated Statements of Cash Flows for the years ended December 31, 2022 and 2021 
+ F-6 
+ 
+ Notes to Consolidated Financial Statements 
+ F-7
+ - F-18 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the shareholders and the Board of Directors of Greater Cannabis Company, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Greater Cannabis Company, Inc. the Company as of December 31, 2022, the
+related statements of operations, stockholder s deficit, and cash flows, for the period ended December 31, 2022, and the related notes
+(collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in all
+material respects, the financial position of the Company as of December 31, 2022, and the results of its operations and its cash flows
+for the period ended December 31, 2022, in conformity with accounting principles generally accepted in the United States of America. 
+
+Material
+Uncertainty Relating to Going Concern 
+
+The
+accompanying financial statements have been prepared assuming the company will continue as a going concern as disclosed in Note 3 to
+the financial statement, the Company has continuously incurred a net loss of (360,268) for the year ended December 31, 2022, working
+capital deficit of (555,247) and an accumulated deficit of (4,292,902) as at December 31, 2022. The continuation of the Company as a
+going concern through December 31, 2022, is dependent upon improving the profitability and the continuing financial support from its
+stockholders. Management believes the existing shareholders or external financing will provide additional cash to meet the Company s
+obligations as they become due. 
+
+These
+factors raise substantial doubt about the company s ability to continue as a going concern. These financial statements do not include
+any adjustments that might result from the outcome of the uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. We conducted our audits
+in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required
+to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required
+to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness
+of the Company s internal control over financial reporting. Accordingly, we express no such opinion. Our audits included performing
+procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management,
+as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for
+our opinion. 
+
+Critical
+Audit Matters 
+
+Critical
+audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be
+communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and
+(2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters. 
+
+(Chartered
+Accountants) 
+
+We
+have served as the Company s auditor since January 2023. 
+
+ March
+3rd, 2023. 
+
+F- 2 
+
+THE
+GREATER CANNABIS COMPANY, INC. 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+December
+ 31, 2022 
+ December
+ 31, 2021 
+
+ASSETS 
+
+CURRENT ASSETS 
+
+Cash 
+
+Total current assets 
+
+OTHER ASSETS 
+
+Right
+of first refusal agreement (net) 
+
+Total
+ assets 
+
+LIABILITIES AND STOCKHOLDERS DEFICIENCY 
+
+CURRENT LIABILITIES 
+
+Accounts payable 
+
+Accrued interest 
+
+Accrued officer compensation 
+
+Loans payable to related
+ parties 
+
+Notes
+payable to third parties 
+
+Derivative
+ liability 
+ - 
+ - 
+ 
+ Total
+ current liabilities and total liabilities 
+
+STOCKHOLDERS (DEFICIENCY) 
+
+Preferred stock: shares authorized,
+ par value: 
+
+Series
+ A Convertible Preferred shares, 
+ and 
+ shares issued and outstanding as of December 31, 2022, and 2021, respectively. 
+
+Series B Convertible Preferred-issued
+ and outstanding and shares, respectively 
+ - 
+ - 
+ 
+ Convertible
+ preferred stock value 
+ - 
+ - 
+ 
+ Common stock: 
+ shares authorized, par value, as of December 31, 2022, and 2021, there are and shares outstanding, respectively 
+
+Additional paid-in capital 
+
+Accumulated
+ deficit 
+
+Total stockholders 
+ (deficiency) 
+
+Total
+ liabilities and stockholders (deficiency) 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 3 
+
+THE
+GREATER CANNABIS COMPANY, INC. 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+ For
+the Years Ended December 31, 2022, and 2021 
+
+December
+ 31, 2022 
+ December
+ 31, 2021 
+
+Revenue: 
+
+Product
+ sales 
+ - 
+
+Total revenue 
+ - 
+
+Cost
+ of product sales 
+ - 
+
+Gross
+ loss 
+ - 
+
+Operating Expenses: 
+
+Officers compensation 
+
+Amortization of right of
+ first refusal agreement 
+
+Other
+ operating expenses 
+
+Total
+ operating expenses 
+
+Loss from operations 
+
+Other income (expenses): 
+
+Income (expense) from derivative
+ liability 
+ - 
+
+Loss on conversions of
+ notes payable and accrued interest to common stock 
+
+Interest expense 
+
+Amortization
+ of debt discounts 
+
+Total
+ other income (expenses) 
+
+Loss before provision
+ for income taxes 
+
+Provision
+ for income taxes 
+ - 
+ - 
+
+Net
+ income (loss) 
+
+Basic and diluted income
+ (loss) per common share 
+
+Weighted average common shares outstanding-basic
+ and diluted 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 4 
+
+THE
+GREATER CANNABIS COMPANY, INC. 
+
+ CONSOLIDATED
+STATEMENTS OF STOCKHOLDERS DEFICIENCY 
+
+ For
+the Years Ended December 31, 2022 and 2021 
+
+Series A Preferred Stock 
+ Series B Preferred Stock 
+ Common stock 
+ Additional 
+ 
+ Total 
+
+No. of shares 
+ Amount 
+ No. of shares 
+ Amount 
+ No. of shares 
+ Amount 
+ Paid
+ in capital 
+ Retained earnings 
+ shareholders equity 
+ 
+ Balance as of January 1, 2021, 
+
+- 
+ - 
+
+Conversion of note payable 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+Conversion of First Fire notes 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+Valuation of warrants 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Conversion of preferred shares to common shares 
+
+- 
+ - 
+
+- 
+
+Net loss for the year 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance as of December 31, 2021 
+
+- 
+ - 
+
+Balance as of January 1, 2022 
+
+- 
+ - 
+
+Conversion of note payable to common share 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+Net loss for the year 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance as of December 31, 2022 
+
+- 
+ - 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 5 
+
+THE
+GREATER CANNABIS COMPANY, INC. 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ For
+the Years Ended December 31, 2022 and 2021 
+
+December
+ 31, 2022 
+ December
+ 31, 2021 
+
+OPERATING ACTIVITIES 
+
+Net income
+ (loss) 
+
+Adjustments to reconcile
+ net income (loss) to net cash provided (used) in operating activities: 
+
+Loss on conversions of
+ notes payable and accrued interest to common stock 
+
+Forgiveness of royalty
+ payable 
+ 
+ - 
+ 
+ (Income) expense from derivative
+ liability 
+ - 
+
+Amortization of right of
+ first refusal agreement 
+
+Amortization of debt discounts 
+
+Changes in operating assets
+ and liabilities: 
+
+Prepaid officer compensation 
+ - 
+
+Accounts payable 
+
+Note
+ receivables 
+ - 
+
+Accrued interest 
+
+Accrued
+ officer compensation 
+
+Net cash used in operating
+ activities 
+
+INVESTING ACTIVITIES 
+ - 
+ - 
+ 
+ FINANCING ACTIVITIES 
+
+Proceeds
+ from notes payable to third parties 
+ - 
+
+Net cash provided by
+ financing activities 
+ - 
+
+NET INCREASE (DECREASE)
+ IN CASH 
+
+CASH BALANCE, BEGINNING OF PERIOD 
+
+CASH BALANCE, END OF PERIOD 
+
+Supplemental Disclosures
+ of Cash Flow Information: 
+
+Non-cash Investing and
+ Financing Activities: 
+
+Issuance of warrants 
+ - 
+
+Initial derivative liability
+ charged to debt discount 
+ - 
+
+Conversion of note payable
+ and accrued interest into shares of common stock (Fair Value of for the six months ended June
+ 30, 2021 
+ - 
+
+Conversion of FirstFire note into shares
+ of common stock (Fair Value of for the three months ended June 30, 2021, 
+ - 
+
+Conversion of FirstFire note into 
+ shares of common stock (Fair Value of for the three months ended September 30, 2021 
+ - 
+
+Conversion of FirstFire note into 
+ shares of common stock (Fair Value of for the three months ended June 30, 2022 
+ 
+ - 
+ 
+ Conversion of FirstFire note into 
+ shares of common stock (Fair Value of for the three months ended September 30, 2022 
+ 
+ - 
+
+Conversion of FirstFire note into shares of common. 
+
+ stock (Fair Value of for the three months ended December 
+
+- 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 6 
+
+THE
+GREATER CANNABIS COMPANY, INC. 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ For
+the Years Ended December 31, 2022 and 2021 
+
+of the issued and outstanding shares of Class A common stock of Green C Corporation Green
+C in exchange for newly issued shares of the Company s Series A Convertible Preferred Stock (the Exchange ).
+ shares of common stock and is entitled to vote 50 votes per
+share on all matters as a class with holders of common stock . Since after the Exchange was consummated, the former shareholders of Green
+C and their designees owned approximately of the issued and outstanding voting shares of the Company, Green C is the acquirer for
+accounting purposes. Prior to the Exchange, the Company had no assets and nominal business operations. Accordingly, the Exchange has
+been treated for accounting purposes as a recapitalization by the accounting acquirer, Green C, and the accompanying consolidated financial
+statements of the Company reflect the assets, liabilities and operations of Green C from its inception on December 21, 2017 to July 31,
+2018 and combined with the Company thereafter. 
+
+Green
+C was incorporated on December 21, 2017 under the laws of the Province of Ontario Canada with its principal place of business in North
+York, Ontario. 
+
+Green
+C was the owner of an exclusive, worldwide license for an eluting transmucosal patch platform ETP for non-invasive drug
+delivery in the cannabis field as further described in the exclusive license agreement dated June 21, 2018 with Pharmedica Ltd. (see
+Note J). 
+
+After
+the consummation of the above-described transactions, the Company switched its business model in fiscal 2018 and no longer intended to
+pursue E-commerce, advertising, licensing (except as specified below) or direct investment operations. Instead, the Company is now engaged
+in the development and commercialization of innovative cannabinoid therapeutics. 
+
+From
+July 2018 through mid-2021, the Company focused on commercializing its own and licensed technologies worldwide for transmucosal and transdermal
+delivery of legal medical or recreational cannabis (other than in the field of oral care) and cannabinoids. The Company s initial
+product was an oral transmucosal patch platform which provides for loaded actives to be absorbed by the buccal mucosa into the body.
+Although the Company was able to launch the product and received some limited initial orders, the Company s management ultimately
+elected to pursue other opportunities which they believed offered the Company greater potential for growth and ultimate profitability. 
+
+Accordingly,
+on October 19, 2021 the Company entered into a license agreement with Shaare Zedek Scientific Ltd. SZS ), the technology
+transfer arm of Jerusalem s Shaare Zedek Medical Center (SZMC). The license agreement covers the license of SZS s novel cannabinoid
+therapeutic focused on treatment of autism, schizophrenia, Parkinson s disease, Alzheimer s disease and other neuropsychiatric
+disorders. 
+
+Accompanying
+the license agreement is a joint research and development agreement, which will focus on continuing the clinical program spearheaded
+by Dr. Adi Aran, M.D. Director of Pediatric Neurology at SZMC, Board Member of the Israeli Society for Pediatric Neurology, and co-inventor
+of the novel cannabinoid therapy. 
+
+NOTE
+A NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+in cash equivalents. 
+
+NOTE
+A NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+Level 1: 
+ Observable inputs such as quoted market prices in active markets for identical assets or liabilities 
+ 
+ Level 2: 
+ Observable market-based inputs or unobservable inputs that are corroborated by market data 
+ 
+ Level 3: 
+ Unobservable inputs for which there is little or no market data, which require the use of the reporting entity s own assumptions. 
+
+The
+carrying value of financial assets and liabilities recorded at fair value is measured on a recurring or nonrecurring basis. Financial
+assets and liabilities measured on a recurring basis are those that are adjusted to fair value each time a financial statement is prepared.
+Financial assets and liabilities measured on a non-recurring basis are those that are adjusted to fair value when a significant event
+occurs. Except for derivative liabilities, we had no financial assets or liabilities carried and measured on a recurring or nonrecurring
+basis during the reporting periods. 
+
+NOTE
+A NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+NOTE
+A NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+shares relating to the Series A
+Convertible Preferred Stock (see Note H), shares relating to convertible notes payable to third parties (Please see NOTE F -
+NOTES PAYABLE TO THIRD PARTIES for further information) and shares relating to outstanding warrants (Please see NOTE H
+- CAPITAL STOCK AND WARRANTS for further information) from the calculation of diluted shares outstanding as the effect of their inclusion
+would be anti-dilutive. 
+
+In
+August 2020, the FASB issued ASU 2020-06, Debt Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives
+and Hedging Contracts in Entity s Own Equity (Subtopic 815-40) . This ASU reduces the number of accounting models
+for convertible debt instruments and convertible preferred stock. As well as amend the guidance for the derivatives scope exception for
+contracts in an entity s own equity to reduce form-over-substance-based accounting conclusions. In addition, this ASU improves
+and amends the related EPS guidance. This standard is effective for us on July 1, 2024, including interim periods within those fiscal
+years. Adoption is either a modified retrospective method or a fully retrospective method of transition. We are currently evaluating
+the impact of the adoption of ASU 2020-06 on our financial statements. 
+
+On
+July 13, 2017, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update ASU 2017-11. Among
+other things, ASU 2017-11 provides guidance that eliminates the requirement to consider down round features when determining
+whether certain financial instruments or embedded features are indexed to an entity s stock and need to be classified as liabilities.
+ASU 2017-11 provides for entities to recognize the effect of a down round feature only when it is triggered and then as a dividend and
+a reduction to income available to common stockholders in basic earnings per share. The guidance is effective for annual periods beginning
+after December 15, 2018. 
+
+NOTE
+A NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+In
+March 2016, the FASB issued ASU No. 2016-08, Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations,
+to clarify the implementation guidance on principal versus agent considerations and address how an entity should assess whether it is
+the principal or the agent in contracts that include three or more parties. The effective date and transition requirements for these
+amendments are the same as the effective date and transition requirements of ASU 2014-09 (discussed above). ASU 2016-08 has had no impact
+on our Financial statements for the periods presented. 
+
+In
+April 2016, the FASB issued ASU No. 2016-10, Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and
+Licensing, to clarify the following two aspects of Topic 606: 1) identifying performance obligations, and 2) the licensing implementation
+guidance. The effective date and transition requirements for these amendments are the same as the effective date and transition requirements
+of ASU 2014-09 (discussed above). ASU 2016-10 has had no impact on our financial statements for the periods presented. 
+
+Other
+standards not presented are not deemed to be material. 
+
+, total current liabilities
+of , and negative working capital of . For the year ended December 31, 2022, we incurred a net loss of and used
+ cash from operating activities. We expect to continue to incur negative cash flows until such time as our business generates
+sufficient cash inflows to finance our operations and debt service requirements. 
+
+In
+performing the second step of this assessment, we are required to evaluate whether our plans to mitigate the conditions above alleviate
+the substantial doubt about our ability to meet our obligations as they become due within one year after the date that the financial
+statements are issued. Our future plans include securing additional funding sources. 
+
+There
+is no assurance that sufficient funds required during the next year or thereafter will be generated from operations or that funds will
+be available through external sources. The lack of additional capital resulting from the inability to generate cash flow from operations
+or to raise capital from external sources would force the Company to substantially curtail or cease operations and would, therefore,
+have a material effect on the business. Furthermore, there can be no assurance that any such required funds, if available, will be available
+on attractive terms or that they will not have a significant dilutive effect on the Company s existing shareholders. We have therefore
+concluded there is substantial doubt about our ability to continue as a going concern through March 2024. 
+
+The
+accompanying consolidated financial statements have been prepared on a going-concern basis, which contemplates the realization of assets
+and the satisfaction of liabilities in the normal course of business. The accompanying consolidated financial statements do not include
+any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classification
+of liabilities that may result from the outcome of the uncertainty related to our ability to continue as a going concern. 
+
+to be repaid either (a) out of available cash as soon as practicable, including from
+sales of Bob Ross cosmetic products, or (b) on the date that is 18 months from the date thereof, whichever is earlier (the Maturity
+Date ). The Loan shall not bear interest except to the extent that any part of the Loan remains outstanding as at the Maturity
+Date, in which case the following sentence applies. From the date after the Maturity Date and onward, the outstanding principal amount
+of the Loan shall bear interest at a rate of per annum. Any payment of cash to be made by Borrower to Lender shall be applied first
+to outstanding principal and second to any accrued, but unpaid, interest. As of December 31, 2021, the Company recorded an allowance
+of doubtful account in the full amount of . 
+
+on January 30, 2020
+(which was paid January 30,2020) and to make other investments in opportunities to be pursued by KTV and/or payments to KTV to enable
+KTV to pursue and secure Cannabidiol CBD opportunities. The Agreement provides the Company an exclusive right of first
+refusal to participate in all CBD opportunities to be pursued by KTV for a term of . The cost for this Agreement is
+being amortized over the five year term of the Agreement. 
+
+shares of Series A Convertible Preferred stock 
+
+Loan from Fernando Bisker
+ and Sigalush, LLC, holders of a total of shares of Series A Convertible Preferred stock 
+
+Total 
+
+Pursuant
+to loan and contribution agreements dated July 31, 2018, the above loans are non-interest bearing and are to be repaid after the Company
+raises from investors no less than or generates sufficient revenue to make repayments (each, a Replacement Event ).
+If the First Replacement Event does not occur within 18 months from July 31, 2018, the loans are to be repaid immediately. In the event
+there is insufficient capital to repay the loans, the lenders have the option to convert all or part of the loans into shares at the
+Company common stock at the average trading price of the 10 days prior to the date of the conversion request. 
+
+, due , convertible into shares of common stock at a conversion
+ price of per share. 
+
+Convertible
+ Promissory Note dated March 15, 2021 payable to FirstFire Global Opportunities Fund, LLC FF ), interest at ,
+ due -less unamortized debt discount of 
+ and ,
+ respectively. (ii) 
+
+Total 
+
+Notes payable to third parties 
+
+(i) 
+ Convertible Promissory Note to FirstFire Global Opportunities Fund, LLC FF ), having
+ a principal amount of and an initial tranche principal amount of of which constituted an original issue
+ discount (the FF Note ). In connection with the FF Note, we and FF entered into a registration rights agreement, three
+ warrant agreements and a securities purchase agreement. On June 30, 2021, we issued the final tranche principle amount of 
+ of which constituted an original issue discount (the FF Note). will mature on. 
+
+During the year ended December 31, 2022, the Company issued shares for the conversion of principal
+on the FirstFire note dated March 5, 2021 at a conversion price of . 
+
+The FF Note may be pre-paid in whole or in part by paying FF the following premiums: 
+
+NOTE
+F - NOTES PAYABLE TO THIRD PARTIES (continued) 
+
+PREPAY
+ DATE 
+ PREPAY
+ AMOUNT 
+ 
+ 30 days 
+
+31- 60 days 
+
+61-90 days 
+
+91-120 days 
+
+121-150 days 
+
+151-180 days 
+
+Any
+amount of principal or interest on the FF Note, which is not paid when due shall bear interest at the rate of twenty-four (24 per annum
+from the due date thereof until the same is paid Default Interest ). FF has the right beginning on the date which is the
+earlier of . The Conversion Price shall be, equal to 
+of the average closing price of our common stock for the five prior trading days prior to the date that a registration statement in respect
+of the shares into which is the FF Note is convertible is declared effective. The FF Note contains other customary terms found in like
+instruments for conversion price adjustments. and interest
+shall accrue at the rate of Default Interest . Certain events of default will result in further penalties. Default obligations have been
+waived. 
+
+Copies
+of Warrant A, Warrant B and Warrant C are attached as Exhibits 10.4, 10.5 and 10.6 to our current report on Form 8-K dated March 16,
+2021. 
+
+The
+valuation of the above warrants issued and recorded during the three months ended June 30, 2021 was . 
+
+See
+NOTE -H WARRANTS 
+
+- 
+ - 
+
+Total derivative liability 
+ - 
+ - 
+
+The
+Convertible Promissory Notes (the Notes contain a variable conversion feature based on the future trading price of the
+Company s common stock. Therefore, the number of shares of common stock issuable upon conversion of the Notes is indeterminate. 
+
+The
+fair value of the derivative liability is measured at the respective issuance dates and quarterly thereafter using the Black Scholes
+option pricing model. Assumptions used for the calculation of the derivative liability of the Notes at December 31, 2020 were (1) stock
+price of per share, (2) conversion price of per share, (3) term of days, (4) expected volatility of , and (5)
+risk free interest rate of . Assumptions used for the calculation of the derivative liability of the Notes at March 31, 2021 were (1)
+stock price of per share, (2) conversion price of per share, (3) term of days, (4) expected volatility of ,
+and (5) risk free interest rate of . As of June 30, 2021, the note no longer carries variable conversion features and as such, the
+derivative was reduced to zero. 
+
+(i)As
+discussed in Note A above, warrants with down round features (and do not contain variable conversion features) are not
+subject to derivative liability treatment effective January 1, 2019. 
+
+of the issued and outstanding shares of Class
+A common stock of Green C Corporation Green C in exchange for newly issued shares of the Company s Series
+A Convertible Preferred Stock (the Exchange ). shares
+of common stock and is entitled to 50 votes on all matters as a class with the holders of common stock. 
+
+On
+February 14, 2019, the Company issued shares of Series B Convertible Preferred Stock to Emet Capital Partners, LLC Emet in exchange for the surrender of all outstanding warrants held by Emet. per share. On October 18, 2019, this exchange agreement was reversed. (See Note F) 
+
+On
+September 21, 2021, shares of Series A Preferred Shares were converted into shares of common stock. 
+
+NOTE
+H - CAPITAL STOCK AND WARRANTS (continued) 
+
+Common
+Stock 
+
+Effective
+March 10, 2017, in connection with a partial spin-off of the Company from Sylios Corp, the Company issued a total of shares
+of its common stock. shares were issued to Sylios Corp (representing of the issued and outstanding shares of Company
+common stock after the spin-off) and shares were issued to the stockholders of record of Sylios Corp on February 3, 2017 on
+the basis of one share of Company common stock for each shares of Sylios Corp common stock held (representing of the issued
+and outstanding shares of Company common stock after the spin-off). 
+
+On
+January 4, 2019, the Company issued shares of its common stock pursuant to a conversion of principal and accrued interest
+of its convertible note dated May 25, 2018 by Emet Capital Partners, LLC Emet ). This conversion was based on a conversion
+price of per share (rather than the Variable Conversion Price provided in the related note) submitted by Emet in its Conversion
+Notice. Emet asserted that the Company had committed a dilutive issuance, which triggered the ratchet-down provision of
+the related note which provides for a reduction of the conversion price. The excess of the fair value of the 
+shares over the liability reduction was charged to Loss on Conversion of Debt in the three months ended March 31, 2019. 
+
+On
+January 4, 2019, the Company issued shares of its common stock pursuant to an exercise of the equivalent of warrants (of
+the warrants issued to Emet Capital Partners, LLC on May 25, 2017) in a cashless exercise transaction based on a ratchet-down
+exercise price of per share. 
+
+On
+April 16, 2019, the Company issued shares of its common stock pursuant to conversions of principal and accrued
+interest of two convertible notes issued to by Emet Capital Partners, LLC Emet ). The excess of the fair
+value of the shares over the liability reduction was charged to Loss on Conversion of Debt in the three months ended
+June 30, 2019. 
+
+On
+May 29, 2019, the Company issued a total of shares of its common stock to two consulting firm entities for certain specified
+investor relations and advisory services. The fair value of the shares was charged to Other Operating Expenses in the
+three months ended June 30, 2019. 
+
+On
+August 15, 2019, the Company issued shares of its common stock to an entity consultant for accounting services rendered. The
+ fair value of the shares was charged to Other Operating Expenses. 
+
+On
+October 18, 2019, the Company entered into two Exchange Agreements with Emet Capital Partners, LLC Emet ). The first Exchange
+Agreement provided for the exchange of three outstanding convertible notes payable to Emet with a total remaining principal balance of
+ and a total accrued interest balance of for three new convertible notes payable to Emet in the total amount of .
+The new notes bear interest at , are due on and are convertible into common stock at a conversion price equal to
+ of the lowest Trading Price during the Trading Day Period prior to the Conversion Date. The second Exchange Agreement provided
+for the reversal of the February 14, 2019 exchange agreement pursuant to which certain warrants then held by Emet were exchanged for
+ shares of Series B Convertible Preferred Stock (see Note G) and the exchange of such warrants for four new convertible notes
+payable to Emet in the total amount of . These new note bear interest at , are due on October 18, 2020 and are convertible
+into common stock at a conversion price equal to of the lowest Trading Price during the Trading Day Period prior to the Conversion
+Date. 
+
+On
+November 11, 2019, the Company issued shares of its common stock pursuant to a conversion of principal and accrued
+interest and fees of its convertible note dated October 18, 2019 by Emet. 
+
+On
+December 20, 2019, the Company issued shares of its common stock pursuant to a conversion of principal and accrued
+interest and fees of its convertible note dated October 18, 2019 by Emet. 
+
+On
+December 24, 2019, the Company issued shares of its common stock pursuant to a conversion of principal and accrued
+interest and fees of its convertible note dated October 18, 2019 by Emet. 
+
+NOTE
+H - CAPITAL STOCK AND WARRANTS (continued) 
+
+During
+the three months ended March 31, 2020, the Company issued a total of shares of common stock pursuant to conversions of an
+aggregate of in principal and in interest under our outstanding convertible notes. The excess of the 
+fair value of the shares of common stock at the respective dates of issuance over the liability reduction was charged
+to Loss on Conversions of Notes Payable. 
+
+During
+the three months ended June 30, 2020, the Company issued a total of shares of common stock pursuant to conversions of an aggregate
+of in principal and in interest under our outstanding convertible notes. The excess of the fair value
+of the shares of common stock at the respective dates of issuance over the liability reduction was charged to Loss
+on Conversions of Notes Payable. 
+
+During
+the three months ended September 30, 2020, the Company issued a total of shares of common stock pursuant to conversions of
+an aggregate of in principal and in interest under our outstanding convertible notes. The excess of the 
+fair value of the shares of common stock at the respective dates of issuance over the liability reduction was charged
+to Loss on Conversions of Notes Payable. 
+
+During
+the three months ended December 31, 2020, the Company issued a total of shares of common stock pursuant to conversions of
+an aggregate of in principal and in interest under our outstanding convertible notes. The excess of the 
+fair value of the shares of common stock at the respective dates of issuance over the liability reduction was charged
+to Loss on Conversions of Notes Payable. 
+
+During
+the three months ended June 30, 2021, the Company recorded the value of the warrants at and the conversion of the second FirstFire
+note tranche in the amount of . 
+
+On
+July 15, 2021, the Company issued shares for the conversion of principal on the FirstFire note dated March 5, 2021
+at a conversion price of . . 
+
+On
+June 1, 2022, the Company issued shares for the conversion of principal on the FirstFire note dated March 5, 2021
+at a conversion price of . 
+
+During
+the three months ended September 30, 2022, the Company issued shares for the conversion of principal on the FirstFire
+note dated March 5, 2021 at a conversion price of . 
+
+During
+the three months ended December 31, 2022, the Company issued 64,000,000 shares for the conversion of 64,000 principal on the FirstFire
+note dated March 5, 2021 at a conversion price of . 
+
+Warrants 
+
+On
+March 11, 2021, in connection with the issuance of a Convertible Promissory Note to FirstFire Global Opportunities Fund, LLC FF (see Note F), we issued three warrants (Warrant A, Warrant B and Warrant C) to purchase shares of our common stock, as follows: 
+
+Warrant
+A permits FF to purchase shares of common stock at an exercise price of per share through September 11, 2022. 
+
+Warrant
+B permits FF to purchase shares of common stock at an exercise price of per share through September 11, 2022. 
+
+Warrant
+C permits FF to purchase shares of common stock at an exercise price of per share. through September 11, 2022. 
+
+Each
+warrant has other customary terms found in like instruments, including, but not limited to, events of default. 
+
+In
+any event of default, the exercise price for each warrant automatically becomes per share. 
+
+Copies
+of Warrant A, Warrant B and Warrant C are attached as Exhibits 10.4, 10.5 and 10.6 to our current report on Form 8-K dated March 16,
+2021 and the above summary of the warrant terms are subject to full terms of the applicable warrants. 
+
+The
+valuation of the above warrants issued and recorded during the three months ended June 30, 2021 was . 
+
+license fee (which was paid by 2591028 Ontario Limited, an entity affiliated with Green C s Chief Executive Officer, on June 26,
+2018) and annual royalties at a rate of of the Net Sales of the Licensed Product subject to a Minimum Annual Royalty of . The
+agreement also provides for certain milestones to be accomplished by Green C in order for Green C to retain the license. Green C and
+Pharmedica each may terminate the agreement upon the occurrence of a material breach by the other party of its obligations under the
+agreement and such other party s failure to remedy such breach to the reasonable satisfaction of the other party within thirty
+(30) days after being requested in writing to do so. 
+
+The
+Company generated only minimal revenues from this asset through December 31, 2019 and did not pay the Year 1 Minimum Annual Royalty of
+ due to Pharmedica. Accordingly, we recorded an impairment charge of at December 31, 2019 and reduced the remaining
+carrying value of this intangible asset to . 
+
+On
+September 2, 2020, Green C notified Pharmedica of Green C s termination of the Exclusive License Agreement and Green C s
+intention to wind up Green C. 
+
+On
+September 17, 2020, Pharmedica notified Green C of Pharmedica s acceptance of Green C s proposal to terminate the license
+agreement and Pharmedica s intention not to burden Green C further. Accordingly, we recorded Forgiveness of Royalty Payable 
+other income of in the three months ended September 30, 2020 and reduced the Accrued Royalties liability
+balance to . 
+
+Sub-License
+Agreement with Symtomax Unipessoal Lda 
+
+On
+July 15, 2019, the Company executed a Sub-License Agreement with Symtomax Unipessoal Lda Symtomax ). 
+
+The
+agreement provides for the Company s grant to Symtomax of a non-exclusive right and sub-license to use certain Company technology
+and intellectual property to develop and commercialize products for sale in Europe, the Middle East, and Africa. The agreement provides
+for Symtomax payments of royalties to the Company (payable monthly) ranging from to of Symtomax sales of eluting patches developed
+from Company technology. 
+
+On
+May 27, 2020, the Company executed an amended and restated sub-license agreement with Symtomax (the Amended License Agreement ).
+The term of the Amended License Agreement ends the earlier of (i) August 31, 2021 and (ii) the date that Symtomax is no longer commercializing
+any of the products. The term is extended for an additional year on each anniversary of the agreement for any country where the royalty
+payment in respect of such country was equal to or greater than for the previous year. 
+
+To
+date, Symtomax has not made any sales requiring the payment of royalties to the Company. 
+
+Service
+Agreements 
+
+On
+July 31, 2018, the Company executed Services Agreements with its newly appointed Chief Executive Officer (the CEO and
+its newly appointed Chief Legal Officer (the CLO ), for terms of five years. The Agreements provide for a monthly base salary
+of for the CEO and a monthly base salary of for the CLO. For the years ended December 31, 2021 and 2020 the Company expensed
+a total of and , respectively, as officers compensation pursuant to these agreements. The Services Agreement with the
+CLO was terminated on October 26, 2021 in connection with his separation from the Company. 
+
+F- 18 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Under
+the supervision and with the participation of our management, Aitan Zacharin, who is our chief executive officer and chief financial
+officer, as of December 31, 2018, we conducted an evaluation of our disclosure controls and procedures, as such term is defined under
+Rule 13a-15(e) and Rule 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended. Based on this evaluation, our chief
+executive officer has concluded that, based on the material weaknesses discussed below, our disclosure controls and procedures were not
+effective as of such date to ensure that information required to be disclosed by us in reports filed or submitted under the Securities
+Exchange Act were recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Act
+Commission s rules and forms and that our disclosure controls are not effectively designed to ensure that information required
+to be disclosed by us in the reports that we file or submit under the Securities Exchange Act is accumulated and communicated to management,
+including our chief executive officer, as appropriate to allow timely decisions regarding required disclosure. 
+
+Management s
+Annual Report on Internal Control over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting. As defined in Rules 13a-15(f) under
+the Securities Exchange Act of 1934, internal control over financial reporting is a process designed by, or under the supervision of,
+Aitan Zacharin, the Company s chief executive officer, and effected by the Company s board of directors, management and other
+personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with GAAP. 
+
+The
+Company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance
+of records, that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company s assets;
+(2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with
+authorizations of the Company s management and directors; and (3) provide reasonable assurance regarding prevention or timely detection
+of unauthorized acquisition, use or disposition of the Company s assets that could have a material effect on the financial statements. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Our
+management, including our principal executive officer and principal financial officer, assessed the effectiveness of our internal control
+over financial reporting at December 31, 2018. In making this assessment, management used the criteria set forth by the Committee of
+Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework (2013). Based on that assessment
+under those criteria, management has determined that, as of December 31, 2021, our internal control over financial reporting was not
+effective. 
+
+Our
+internal controls are not effective for the following reasons: (i) there is an inadequate segregation of duties consistent with control
+objectives as management is comprised of only two persons, one of which is the Company s principal executive officer and principal
+financial officer and, (ii) the Company does not have an audit committee with a financial expert, and thus the Company lacks the board
+oversight role within the financial reporting process. 
+
+In
+order to mitigate the foregoing material weakness, we have engaged an outside accounting consultant with significant experience in the
+preparation of financial statements in conformity with GAAP to assist us in the preparation of our financial statements to ensure that
+these financial statements are prepared in conformity with GAAP. We will continue to monitor the effectiveness of this action and make
+any changes that our management deems appropriate. 
+
+We
+would need to hire additional staff to provide greater segregation of duties. Currently, it is not feasible to hire additional staff
+to obtain optimal segregation of duties. Management will continue to reassess this matter to determine whether improvement in segregation
+of duty is feasible. In addition, we would need to expand our board to include independent members. 
+
+Going
+forward, we intend to evaluate our processes and procedures and, where practicable and resources permit, implement changes in order to
+have more effective controls over financial reporting. 
+
+This
+Annual Report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by the Company s registered public accounting firm pursuant
+to the exemption provided to issuers that are not large accelerated filers nor accelerated filers under the
+Dodd-Frank Wall Street Reform and Consumer Protection Act. 
+
+Changes
+in Internal Controls 
+
+During
+the twelve months ended December 31, 2022, there was no change in internal control over financial reporting that has materially affected
+or is reasonably likely to materially affect our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+Management
+Changes 
+
+None. 
+
+Acquisitions 
+
+None. 
+
+8 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+DIRECTORS
+AND EXECUTIVE OFFICERS 
+
+The
+following table sets forth certain information regarding the members of our Board of Directors and our executive officers as of December
+31, 2022. 
+
+The
+names and ages of our Directors and Executive Officers are set forth below. Our By-Laws provide for not less than one Director. All Directors
+are elected annually by the stockholders to serve until the next annual meeting of the stockholders and until their successors are duly
+elected and qualified. The officers are elected by our Board. 
+
+DIRECTORS
+AND EXECUTIVE OFFICERS 
+
+Our
+executive officers and directors and their respective ages as at the date hereof are as follows: 
+
+Name 
+ 
+ Age 
+ 
+ Positions
+ and Offices 
+ 
+ Aitan
+ Zacharin 
+ 
+ 39 
+ 
+ President,
+ Chief Executive Officer, Treasurer and Director 
+
+The
+directors named above will serve until the next annual meeting of the stockholders or until his resignation or removal from office. Thereafter,
+directors are anticipated to be elected for one-year terms at the annual stockholders meeting. Officers will hold their positions
+pursuant to their respective service agreements. 
+
+Set
+forth below is a brief description of the background and business experience of our executive officers and directors for the past five
+years. 
+
+Professional
+History of Aitan Zacharin 
+
+Mr. Zacharin is an experienced executive with broad knowledge in building and managing technology,
+biopharmaceutical, healthcare and consumer products businesses. Mr. Zacharin has founded a number of companies, and has seen them through
+successful listings in the public markets, with collective valuations of over 1 billion. Mr. Zacharin has been advising and investing
+in early to mid-stage startups, and assisting them with development, capitalization, accelerating growth, and turnaround strategies. He
+specializes in strategic acquisitions, structuring complex transactions, reverse mergers, and brings domestic and international experience
+in operations, accounting, audit preparation, due diligence, capital raising and restructuring, debt financing, and mergers and acquisitions.
+In 2012 he co-founded Fuse Science, an innovative biotechnology company and was responsible for growth of the business from its conceptual
+stage to a publicly traded CPG and biotech business with multiple subsidiaries. He structured pivotal deals with key partners, which led
+to the company successfully raising over 20 million to commercialize its products, including brand ambassador agreements with 26 sports
+celebrities, including world renowned athlete Tiger Woods. He successfully exited from the company, which had reached a 110 million valuation.
+In 2014, Mr. Zacharin was appointed to the Board of Directors for Mediconecta, the largest telehealth Company in Latin America serving
+millions of patients with on-demand, high quality healthcare. Within six months, Mr. Zacharin facilitated and negotiated an eight figure
+buyout offer from Teladoc (NASDAQ: TDOC), the world s largest telehealth company, just prior to its IPO. In 2015, Mr. Zacharin became
+the managing partner of Secure Hosting LLC, a blockchain mining company with a co-location mining farm in North Carolina. After two years
+of scaling out the operations to nearly 15,000,000 in assets, he successfully structured the sale of the company to a leading publicly
+traded blockchain mining company. In 2017, Mr. Zacharin founded GCANRx (OTC: GCAN), a publicly traded biopharmaceutical company focused
+on repurposing a highly bioavailable transmucosal drug delivery system that had previously been commercialized in partnership with Novartis.
+Mr. Zacharin repurposed the platform technology for use in cannabinoid therapeutics. He then negotiated a worldwide exclusive license
+from Shaare Zedek Scientific, the licensing arm of one of Israel s largest research hospitals, for a cannabinoid-based therapeutic
+used in treating neuropsychiatric disorders. The therapeutic was invented by world-renowned cannabis researcher, Dr. Adi Aran, M.D. The
+Company is currently in the final stages of regulatory approval for a 100 patient Phase 2 clinical study for the treatment of autism related
+spectrum disorders. In 2018, Mr. Zacharin became a shareholder in sports technology company, Slinger (NASDAQ: CNXA). The company manufactures
+an innovative, patented sports product called the Slinger Bag, which raised 1 million through a highly successful Kickstarter campaign.
+Mr. Zacharin was tasked by the founder to take the company public. The Company was led by the past- CEO of global tennis company Prince.
+Within the first 18 months of operations the company grew to a global footprint of 65 countries, signed 250 million in distribution agreements,
+and achieved a market cap of over 400 million. Throughout the growth of the company, Mr. Zacharin served as the head of investor relations
+and was instrumental in raising the company over 27 million from leading Wall Street investors, and overseeing the IR strategy, which
+led to the stock rising over 1,700 from its listing price. Mr. Zacharin was actively involved in Slinger s acquisition of three
+companies, most notably a Softbank and Verizon Ventures backed artificial intelligence sports company for 100 million. Mr. Zacharin led
+the effort of putting together a team, which successfully uplisted the Company from the OTC Markets to the Nasdaq. In 2019, Mr. Zacharin
+joined an investor group who acquired Solstice Sunglasses, the second largest sunglasses retailer in the US, to list the company s shares
+on the public markets. Mr. Zacharin led the merger of Solstice with a public vehicle, which enabled a multi-million dollar round of financing
+for the retailer. In 2020, Mr. Zacharin identified, structured and facilitated the acquisition of a luxury, multi-state substance abuse
+facility. Mr. Zacharin secured financing for the 18 million acquisition with a combination of investments from high net worth individuals
+and a loan facility from a speciality banking lender. The company subsequently purchased two additional drug rehab portfolios, and grew
+to become a leading multi-state operator in the drug rehabilitation industry. In 2021, Mr. Zacharin became the co-founder and CEO of PlasmaCure,
+a groundbreaking medical device company focused on R D and commercialization of an oncology treatment licensed from GW University.
+Mr. Zacharin holds dual degrees from the University of South Florida. He serves in an executive capacity to two publicly listed companies,
+and maintains various board non-profit board appointments. 
+
+9 
+
+Audit
+Committee and Financial Expert 
+
+We
+do not have an audit committee or an audit committee financial expert. Our corporate financial affairs are simple at this stage of development
+and each financial transaction can be viewed by any officer or Director at will. We will form an audit committee if it becomes necessary
+as a result of growth of the Company or as mandated by public policy. 
+
+Code
+of Ethics 
+
+We
+do currently have a Code of Ethics applicable to our principal executive, financial and accounting officers. 
+
+Potential
+Conflicts of Interest 
+
+Since
+we do not have an audit or compensation committee comprised of independent Directors, the functions that would have been performed by
+such committees are performed by our Board of Directors. Thus, there is a potential conflict of interest, in that our Directors who are
+also our officers have the authority to determine issues concerning management compensation, and audit issues that may affect management
+decisions. We are not aware of any other conflicts of interest with any of our Directors or officers. 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+Executive
+Compensation 
+
+Our
+executive officer(s) have not received any cash compensation since the date of our formation. Please see NOTE H -ISSUANCES
+OF COMMON STOCK AND WARRANTS for further information. 
+
+Summary
+Compensation Table 
+
+The
+following table sets forth information concerning the compensation of our principal executive officer, our principal financial officer
+and each of our other executive officers during 2022 and2021. 
+
+Non-Equity 
+
+Stock 
+ Incentive
+ Plan 
+ All Other 
+
+Name and Principal 
+ 
+ Salary 
+ Bonus 
+ Awards 
+ Compensation 
+ Compensation 
+ Total 
+ 
+ Position 
+ Year 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+
+Aitan Zacharin(1) 
+ 2022 
+ 120,000 
+
+2021 
+ 120,000 
+
+Mark Radom(2) 
+ 2021 
+ 31,000 
+
+2020 
+ 84,000 
+
+(1) 
+ Mr.
+ Aitan Zacharin became the Company s principal executive officer, principal financial officer and Chairman of the Board of Directors
+ on July 31, 2018. Mr. Zacharin has a monthly salary of 10,000. 
+
+(2) 
+ Mr.
+ Mark Radom became the Company s chief legal officer on July 31, 2018 and served until October 25, 2021. Mr. Radom had a monthly
+ salary of 7,000. 
+
+Employment
+Contracts . We have an employment agreement with Mr. Zacharin, our Executive Officer. 
+
+Compensation
+of Directors 
+
+The
+following table sets forth information concerning the compensation earned during 2021 by each individual who served as a non-employee
+director at any time during the fiscal year: 
+
+2022
+DIRECTOR COMPENSATION 
+
+Name 
+ Fees
+ Earned or Paid in Cash ) 
+ Stock 
+ Awards ) 
+ Total
+ ) 
+ 
+ Aitan Zacharin 
+ 0 
+ 0 
+ 0 
+
+0 
+ 0 
+ 0 
+
+Stock
+Options/SAR Grants . None. 
+
+10 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+CERTAIN
+RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+We
+have not entered into any transactions in which any of our directors, executive officers, or affiliates, including any member of an immediate
+family, had or are to have a direct or indirect material interest. 
+
+SECURITY
+OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 
+
+The
+following table sets forth certain information, as of April 24, 2018, with respect to any person (including any group ,
+as that term is used in Section 13(d)(3) of the Securities Exchange Act of 1934, as amended (the Exchange Act )) who is
+known to us to be the beneficial owner of more than five percent (5 of any class of our voting securities, and as to those shares of
+our equity securities beneficially owned by each of our directors and executive officers and all of our directors and executive officers
+as a group. Unless otherwise specified in the table below, such information, other than information with respect to our directors and
+executive officers, is based on a review of statements filed with the Securities and Exchange commission (the Commission pursuant to Sections 13 (d), 13 (f), and 13 (g) of the Exchange Act with respect to our common stock. As of April 24, 2018, there were
+29,380,969 shares of our common stock outstanding. 
+
+The
+number of shares of common stock beneficially owned by each person is determined under the rules of the Commission and the information
+is not necessarily indicative of beneficial ownership for any other purpose. Under such rules, beneficial ownership includes any shares
+as to which such person has sole or shared voting power or investment power and also any shares which the individual has the right to
+acquire within sixty (60) days after the date hereof, through the exercise of any stock option, warrant or other right. Unless otherwise
+indicated, each person has sole investment and voting power (or shares such power with his or her spouse) with respect to the shares
+set forth in the following table. The inclusion herein of any shares deemed beneficially owned does not constitute an admission of beneficial
+ownership of those shares. 
+
+The
+following table lists, as at the date hereof, the number of shares of common stock of our Company that are beneficially owned by (i)
+each person or entity known to our Company to be the beneficial owner of more than 5 of the outstanding common stock; (ii) each officer
+and director of our Company; and (iii) all officers and directors as a group. Information relating to beneficial ownership of common
+stock by our principal shareholders and management is based upon information furnished by each person using beneficial ownership 
+concepts under the rules of the Securities and Exchange Commission. Under these rules, a person is deemed to be a beneficial owner of
+a security if that person has or shares voting power, which includes the power to vote or direct the voting of the security, or investment
+power, which includes the power to vote or direct the voting of the security. The person is also deemed to be a beneficial owner of any
+security of which that person has a right to acquire beneficial ownership within 60 days. Under the Securities and Exchange Commission
+rules, more than one person may be deemed to be a beneficial owner of the same securities, and a person may be deemed to be a beneficial
+owner of securities as to which he or she may not have any pecuniary beneficial interest. Except as noted below, each person has sole
+voting and investment power. 
+
+Name of
+ Beneficial Owner 
+ Common
+ Stock Beneficially Owned(1) 
+ Percentage
+ of Common Stock (1)(2) 
+ 
+ Aitan Zacharin (3)(4) 
+ 74,166,650 
+ 10.01 
+ 
+ Mark Radom (4) 
+ 74,166,650 
+ 10.01 
+ 
+ Elisha Kalfa (4) 
+ 74,166,650 
+ 10.01 
+ 
+ Yonah Kalfa (4) 
+ 74,166,650 
+ 10.01 
+ 
+ Fernando Bisker (4) 
+ 74,166,650 
+ 10.01 
+ 
+ Sigalush Ventures LLC (4) 
+ 74,166,650 
+ 10.01 
+ 
+ Officers and directors as a Group (3) 
+ 74,166,650 
+ 10.01 
+
+(1)
+Beneficial Ownership is determined in accordance with the rules of the Securities and Exchange Commission and generally includes voting
+or investment power with respect to securities. Shares of common stock subject to options, warrants, convertible debt or convertible
+preferred shares currently exercisable or convertible, or exercisable or convertible within 60 days of December 31, 2022 are deemed outstanding
+for computing percentage of the person holding such option or warrant but are not deemed outstanding for computing the percentage of
+any other person. Percentages are based on a total of shares of common stock outstanding on December 31, 2022, which was 732,638,436
+and the shares issuable upon exercise of options, warrants exercisable, preferred stock and debt convertible on or within 60 days of
+december 31, 2022. 
+
+(2)
+The number of common shares outstanding used in computing the percentages is 732,638,436 
+
+(3)
+The shares included under Officers and Directors as a Group include those held by Aitan Zacharin, the Company s chief
+executive officer. Mr. Zacharin holds 1,695,333 shares of Series A Convertible Preferred Stock,. Each share of Series A Convertible Preferred
+Stock is convertible into 50 shares of common stock. 
+
+(4)
+These individuals are persons who received shares of Series A Preferred Shares in connection with the reverse merger described in the
+Company s current report on Form 8-K dated August 3, 2018. Each of the persons who received Series A Preferred Shares agreed not
+to request or effect any conversions of any shares until the Company has increased its authorized shares from 500,000,000 to the greater
+of (i) (no less than) 600,000,000 or such number of shares as is necessary to accommodate the conversion of all Series A Preferred Shares
+and the then number of shares of common stock outstanding. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+None 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+During
+fiscal year ended December 31, 2022, we incurred approximately 13,500 in fees to our principal independent accountants for professional
+services rendered in connection with the audit of our financial statements and for the quarterly reviews of our financial statements. 
+
+2022 
+ 2021 
+ 
+ Audit Fees 
+ 13,500 
+ 13,500 
+ 
+ Tax Fees 
+ Nil 
+ Nil 
+ 
+ All Other Fees 
+ Nil 
+ Nil 
+ 
+ Total 
+ 13,500 
+ 13,500 
+
+11 
+
+The
+following exhibits are filed as part of this report: 
+
+No. 
+ 
+ Description 
+ 
+ 1 
+ 
+ Fruci and Associates Auditor Opinion 
+ 
+ 3.1 
+ 
+ Articles
+ of Organization (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 3.2 
+ 
+ Notice
+ of Conversion (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 3.3 
+ 
+ Articles
+ of Incorporation (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 3.4 
+ 
+ Bylaws
+ (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 3.5 
+ 
+ The
+ Greater Cannabis Company, LLC Reinstatement State of Florida dated January 12, 2017 (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 3.6 
+ 
+ Articles
+ of Organization GCC Investment Holdings, LLC dated July 20, 2017 (previously filed on Amendment No. 2 to Form S-1 on August 8, 2017) 
+ 
+ 4.1 
+ 
+ Specimen
+ certificate of common stock (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 10.1 
+ 
+ Anti-Dilution
+ Agreement between Sylios Corp and The Greater Cannabis Company, Inc. dated as of February 22, 2017 (previously filed with Form S-1
+ on June 20, 2017) 
+ 
+ 10.2 
+ 
+ Licensing
+ Agreement with Artemis Technologies (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 10.3 
+ 
+ Valvasone
+ Trust Consulting Agreement dated as of December 24, 2016 (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 10.4 
+ 
+ Asset
+ Acquisition Agreement between Sylios Corp and The Greater Cannabis Company, Inc. dated April 21, 2017 (previously filed with Form
+ S-1 on June 20, 2017) 
+ 
+ 10.5 
+ 
+ Collateral
+ Agreement with SLMI Energy Holdings, LLC and Sylios Corp dated as of March 22, 2017 (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 10.6 
+ 
+ Resale
+ Certificate (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 10.7 
+ 
+ Promissory
+ Note between Sylios Corp and The Greater Cannabis Company, Inc. dated as of August 12, 2014 (previously filed with Form S-1 on June
+ 20, 2017) 
+ 
+ 10.8 
+ 
+ Board
+ of Directors Services Agreement with Jimmy Wayne Anderson dated as of March 10, 2017 (previously filed with Form S-1 on June 20,
+ 2017) 
+ 
+ 10.9 
+ 
+ Promissory
+ Note between The Greater Cannabis Company, Inc. and Expert Witness Locators dated as of March 22, 2017 (previously filed with Form
+ S-1 on June 20, 2017) 
+ 
+ 10.10 
+ 
+ Promissory
+ Note between The Greater Cannabis Company, Inc. and John T. Root, Jr. dated as of March 22, 2017 (previously filed with Form S-1
+ on June 20, 2017) 
+ 
+ 10.11 
+ 
+ Promissory
+ Note between Sylios Corp and The Greater Cannabis Company, Inc. dated as of March 31, 2017 (previously filed with Form S-1 on June
+ 20, 2017) 
+ 
+ 10.12 
+ 
+ Registration
+ Rights Agreement between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of May 25, 2017 (previously filed
+ with Form S-1 on June 20, 2017) 
+ 
+ 10.13 
+ 
+ Securities
+ Purchase Agreement between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of May 25, 2017 (previously
+ filed with Form S-1 on June 20, 2017) 
+ 
+ 10.14 
+ 
+ Convertible
+ Note between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of May 25, 2017 (previously filed with Form
+ S-1 on June 20, 2017) 
+
+12 
+
+10.15 
+ 
+ Escrow
+ Agreement among The Greater Cannabis Company, Inc., Emet Capital Partners, LLC and Grushko Mittman, P.C., as escrow agent,
+ dated as of May 25, 2017 (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 10.16 
+ 
+ Common
+ Stock Purchase Warrant Agreement between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of May 25, 2017
+ (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 10.17 
+ 
+ Advisory
+ Agreement between The Greater Cannabis Company, Inc. and MCAP, LLC dated July 17, 2017 (previously filed with Amendment No. 1 to
+ Form S-1 on July 20, 2017) 
+ 
+ 10.18 
+ 
+ Convertible
+ Promissory Note and Warrant Coverage between The Greater Cannabis Company, Inc. and Xeraflop Technologies, Inc. dated July 17, 2017
+ (previously filed with Amendment No. 1 to Form S-1 on July 20, 2017) 
+ 
+ 10.19 
+ 
+ Securities
+ Purchase Agreement between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of September 14, 2017 (previously
+ filed on Form 8-K on September 19, 2017) 
+ 
+ 10.20 
+ 
+ Common
+ Stock Purchase Warrant Agreement between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of September
+ 14, 2017 (previously filed on Form 8-K on September 19, 2017) 
+ 
+ 10.21 
+ 
+ Convertible
+ Note between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of September14, 2017 (previously filed on
+ Form 8-K on September 19, 2017) 
+ 
+ 10.22 
+ 
+ Waiver
+ between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of January 9, 2018 (previously filed on Form 8-K
+ on April 2, 2018) 
+ 
+ 10.23 
+ 
+ Convertible
+ Note between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of January 9, 2018 (previously filed on Form
+ 8-K on April 2, 2018) 
+ 
+ 10.24 
+ 
+ Allonge
+ made by The Greater Cannabis Company, Inc. to Emet Capital Partners, LLC dated March 28, 2018 (previously filed on Form 10-K on April
+ 17, 2018) 
+ 
+ 10.25 
+ 
+ Common
+ Stock Purchase Warrant Agreement between The Greater Cannabis Company, Inc. and Emet Capital Partners, LLC dated as of March 28,
+ 2018 (previously filed on Form 10-K on April 17, 2018) 
+ 
+ 10.26 
+ 
+ Emet
+ Exchange Agreement dated February 14, 2019 (previously filed on Form 8-K on February 15, 2019) 
+ 
+ 10.28 
+ 
+ Eagle
+ Convertible Note dated February 12, 2019 (previously filed on Form 8-K on February 15, 2019) 
+ 
+ 10.30 
+ 
+ Eagle
+ Securities Purchase Agreement dated February 12, 2019 (previously filed on Form 8-K on February 15, 2019) 
+ 
+ 10.31 
+ 
+ Emet
+ Certificate of Designation dated February 14, 2019 (previously filed on Form 8-K on February 15, 2019) 
+ 
+ 10.32 
+ 
+ GW
+ Note dated January 27, 2020 (previously filed on Form 8-K on February 3, 2020) 
+ 
+ 10.33 
+ 
+ GW
+ Securities Purchase Agreement dated January 27, 2020 (previously filed on Form 8-K on February 3, 2020) 
+ 
+ 10.34 
+
+FF
+ Note dated March 11, 2021 (previously filed on Form 8-K on March 16, 2021) 
+ 
+ 10.35 
+ 
+ FF
+ Registration Rights Agreement dated March 11, 2021 (previously filed on Form 8-K on March 16, 2021) 
+ 
+ 10.36 
+ 
+ FF
+ Securities Purchase Agreement dated March 11, 2021 (previously filed on Form 8-K on March 16, 2021) 
+ 
+ 10.37 
+ 
+ FF
+ Warrant Agreement A dated March 11, 2021 (previously filed on Form 8-K on March 16, 2021) 
+ 
+ 10.38 
+ 
+ FF
+ Warrant Agreement B dated March 11, 2021 (previously filed on Form 8-K on March 16, 2021) 
+ 
+ 10.39 
+ 
+ FF
+ Warrant Agreement C dated March 11, 2021 (previously filed on Form 8-K on March 16, 2021) 
+ 
+ 21.1 
+ 
+ Articles
+ of Organization GCC Superstore, LLC (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 23.1 
+ 
+ Consent
+ of John T. Root, Jr. (Please see Exhibit 5.1 Legal Opinion of John T. Root, Jr.) (previously filed with Amendment No. 3 to Form S-1
+ on August 25, 2017) 
+ 
+ Graphic 
+ 
+ Corporate
+ logo- GCC (previously filed with Form S-1 on June 20, 2017) 
+ 
+ Graphic 
+ 
+ Corporate
+ logo GCC Superstore (previously filed with Form S-1 on June 20, 2017) 
+ 
+ 31.1 
+ 
+ Certification
+ of Chief Executive Officer pursuant to Rule 13(a)-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as amended (filed herewith). 
+ 
+ 31.2 
+ 
+ Certification
+ of Principal Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act and Rule 13a-14(a) or 15d-14(a) under the Securities
+ Exchange Act of 1934 
+ 
+ 32.1 
+ 
+ Certification
+ of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+ (filed herewith). 
+
+101.INS 
+ 
+ Inline
+ XBRL Instance Document. 
+ 
+ 101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema Document. 
+ 
+ 101.CAL 
+ 
+ Inline
+ XBRL Taxonomy Extension Calculation Linkbase Document. 
+ 
+ 101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition Linkbase Document. 
+ 
+ 101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Label Linkbase Document. 
+ 
+ 101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation Linkbase Document. 
+ 
+ 104 
+ 
+ Cover
+ Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+++
+To be filed by subsequent amendment. 
+
+ XBRL
+Exhibits will be filed by subsequent amendment. 
+
+13 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. 
+
+Signatures 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Aitan Zacharin 
+ 
+ President
+ (Principal Executive Officer), Acting Chief Financial Officer 
+ 
+ April
+ 13, 2023 
+
+(Principal
+ Accounting Officer) and Chairman of the Board of Directors 
+
+14 
+
+<EX-1>
+ 2
+ ex1.htm
+
+Exhibit
+1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Shareholders of The Greater Cannabis Company, Inc. and Subsidiaries 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheet of The Greater Cannabis Company, Inc. and Subsidiaries the Company as of December 31, 2021, and the related consolidated statements of operations, stockholders deficiency, and cash flows for the
+year ended December 31, 2021, and the related notes (collectively referred to as the financial statements). In our opinion, the financial
+statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021 and the results of
+its operations and its cash flows for the year ended December 31, 2021, in conformity with accounting principles generally accepted in
+the United States of America. 
+
+Going
+Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+B to the financial statements, the Company has negative cash from operations, negative working capital, and historical net losses. These
+factors raise substantial doubt about the Company s ability to continue as a going concern. Management s plans in regard
+to these matters are also described in Note B. The financial statements do not include any adjustments that might result from the outcome
+of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Derivatives
+on Convertible Loans (Note G to the financial statements) 
+
+Derivatives
+associated with conversion features embedded in promissory notes are required to be assessed a fair value at inception, and subsequent
+period ends, using an appropriate valuation model. The Company uses Black Scholes Merton (BSM) model in assessing the fair value of derivatives. 
+
+Auditing
+management s valuation of derivatives was complex and highly judgmental due to the significant estimates and assumptions that are
+used as inputs in the valuation model. These fair value estimates are highly sensitive to changes in the underlying assumptions. 
+
+How
+the Critical Audit Matter Was Addressed in the Audit 
+
+Our
+audit procedures related to testing the Company s valuation of derivatives included the following, among others: 
+
+We
+ calculated an internal estimate of the fair value of derivatives transactions during the
+ year and compared to the valuation provided by the Company. 
+
+We
+ reviewed the inputs used in the Company s valuation model and traced that information
+ out to underlying documentation and publicly available information in determining those inputs
+ were reasonable. 
+
+We
+ reviewed executed and outstanding promissory notes and equity securities for conversion features
+ that had not been considered for derivative accounting, noting no unrecorded derivatives. 
+
+We
+ have served as the Company s auditor since 2021. 
+
+Spokane,
+ Washington 
+
+April
+ 11, 2022 
+
+</EX-1>
+
+<EX-31.1>
+ 3
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+CERTIFICATIONS 
+
+I,
+Aitan Zacharin, Chief Executive Officer of The Greater Cannabis Company, Inc., certify that: 
+
+1. 
+ I
+ have reviewed this Form 10-K for the year ended December 31, 2022 of The Greater Cannabis Company, Inc.; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ The
+ registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+(d) 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The
+ registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over
+ financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or
+ persons performing the equivalent functions): 
+
+(a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+(b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+April 13, 2023 
+ /s/
+ Aitan Zacharin 
+
+Aitan
+ Zacharin 
+
+Chief
+ Executive Officer 
+
+The
+ Greater Cannabis Company, Inc. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+Certification
+of Principal Financial Officer 
+
+ Pursuant
+to Section 302 of the Sarbanes-Oxley Act and Rule 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934 
+
+I,
+Aitan Zacharin, Principal Financial Officer of The Greater Cannabis Company, Inc., certify that: 
+
+1. 
+ I
+ have reviewed this Annual Report on Form 10-K of The Greater Cannabis Company, Inc. for the period ended December 31, 2022; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ I
+ am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+ 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+ and have: 
+
+a) 
+ designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d) 
+ disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ I
+ have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors
+ and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ all
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b) 
+ any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+April 13, 2023 
+
+By: 
+ /s/
+ Aitan Zacharin 
+
+Aitan
+ Zacharin 
+
+Principal
+ Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of The Greater Cannabis Company, Inc. (the Company on Form 10-K for the period ending
+December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Aitan Zacharin,
+Chief Executive Officer of The Greater Cannabis Company, Inc., certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The
+ Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+ the Company. 
+
+/s/
+ Aitan Zacharin 
+
+Aitan
+ Zacharin 
+ Chief Executive Officer 
+
+April 13, 2023 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 8
+ gcan-20221231.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ gcan-20221231_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ gcan-20221231_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ gcan-20221231_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

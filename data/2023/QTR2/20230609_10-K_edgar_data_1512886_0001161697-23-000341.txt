@@ -1,0 +1,2452 @@
+<Header>
+<FileStats>
+    <FileName>20230609_10-K_edgar_data_1512886_0001161697-23-000341.txt</FileName>
+    <GrossFileSize>3700007</GrossFileSize>
+    <NetFileSize>99035</NetFileSize>
+    <NonText_DocumentType_Chars>751370</NonText_DocumentType_Chars>
+    <HTML_Chars>817329</HTML_Chars>
+    <XBRL_Chars>924429</XBRL_Chars>
+    <XML_Chars>1028541</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001161697-23-000341.hdr.sgml : 20230609
+<ACCEPTANCE-DATETIME>20230609103420
+ACCESSION NUMBER:		0001161697-23-000341
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		55
+CONFORMED PERIOD OF REPORT:	20230131
+FILED AS OF DATE:		20230609
+DATE AS OF CHANGE:		20230609
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEUTRA CORP.
+		CENTRAL INDEX KEY:			0001512886
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		IRS NUMBER:				274505461
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55077
+		FILM NUMBER:		231004171
+
+	BUSINESS ADDRESS:	
+		STREET 1:		54 SUGAR CREEK CENTER BLVD.
+		STREET 2:		SUITE 200
+		CITY:			SUGAR LAND
+		STATE:			TX
+		ZIP:			77478
+		BUSINESS PHONE:		(702) 793-4121
+
+	MAIL ADDRESS:	
+		STREET 1:		54 SUGAR CREEK CENTER BLVD.
+		STREET 2:		SUITE 200
+		CITY:			SUGAR LAND
+		STATE:			TX
+		ZIP:			77478
+
+</SEC-Header>
+</Header>
+
+ 0001161697-23-000341.txt : 20230609
+
+10-K
+ 1
+ form_10-k.htm
+ FORM 10-K ANNUAL REPORT FOR 01-31-2023
+
+UNITED STATES 
+
+ SECURITY AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 
+
+(MARK ONE) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF
+THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended 
+
+or 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(D) OF
+THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from _________ to _________ 
+
+Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of Incorporation or organization) 
+ 
+ (I.R.S. Employer Identification Number) 
+
+, 
+ , 
+
+(Address of principal executive offices) 
+ 
+ (Zip code) 
+
+Registrant s telephone number, including area
+code: - 
+
+Securities registered pursuant to Section 12(g)
+of the Act: 
+
+Title of Each Class 
+ 
+ Name of Each Exchange on which Registered 
+
+OTC Markets QB 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ Yes [_] [X] 
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes [_] [X] 
+
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. 
+
+ [X] No [_] 
+
+Indicate by check mark whether the registrant has
+submitted electronically and posted on its corporate website, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit and post such files). 
+
+ [X] No [_] 
+
+Indicate by check mark if disclosures of delinquent
+filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the
+best of the registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. 
+
+ Yes [X] No [_] 
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large
+accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ [_] 
+ Accelerated filer 
+ [_] 
+
+[X] 
+ Smaller reporting company 
+
+(Do not check is smaller reporting company) 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. [_] 
+
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act) 
+
+ Yes [_] [X] 
+
+The Aggregate market value of the voting and non-voting
+common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter,
+July 31, 2022 was . 
+
+There were shares of the Registrant s common stock
+outstanding as of June 6, 2023. 
+
+- 2 - 
+
+NEUTRA CORP. 
+
+TABLE OF CONTENTS 
+
+Part I 
+
+Item 1. Business 
+ 5 
+ 
+ Item 1A. Risk Factors 
+ 7 
+ 
+ Item 1B. Unresolved Staff Comments 
+ 7 
+ 
+ Item 2. Properties 
+ 7 
+ 
+ Item 3. Legal Proceedings 
+ 7 
+ 
+ Item 4. Mine Safety Disclosures 
+ 7 
+ 
+ Part II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 7 
+ 
+ Item 6. Selected Financial Data 
+ 9 
+ 
+ Item 7. Management s Discussion and Analysis of Financial Condition and Results of operations 
+ 10 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 13 
+ 
+ Item 8. Financial Statements and Supplementary Data 
+ 13 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ 14 
+ 
+ Consolidated Balance Sheets 
+ 16 
+ 
+ Consolidated Statements of Operations 
+ 17 
+ 
+ Consolidated Statements of Changes in Stockholders Deficit 
+ 18 
+ 
+ Consolidated Statement of Changes in Mezzanine Equity 
+ 19 
+ 
+ Consolidated Statements of Cash Flows 
+ 20 
+ 
+ Notes to the Consolidated Financial Statements 
+ 21 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 30 
+ 
+ Item 9A. Controls and Procedures 
+ 30 
+ 
+ Item 9B. Other Information 
+ 31 
+ 
+ Part III 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 31 
+ 
+ Item 11. Executive Compensation 
+ 33 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 34 
+ 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 34 
+ 
+ Item 14. Principal Accounting Fees and Services 
+ 34 
+ 
+ Part IV 
+
+Item 15. Exhibits, Financial Statement Schedules 
+ 35 
+ 
+ Signatures 
+ 36 
+
+- 3 - 
+
+Table of Contents 
+
+ CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+
+Certain statements in this report contain or may contain
+forward-looking statements. These statements, identified by words such as plan , anticipate , believe ,
+ estimate , should , expect and similar expressions include our expectations and objectives regarding
+our future financial position, operating results and business strategy. These statements are subject to known and unknown risks, uncertainties
+and other factors, which may cause actual results, performance, or achievements to be materially different from any future results, performance
+or achievements expressed or implied by such forward-looking statements. These forward-looking statements were based on various factors
+and were derived utilizing numerous assumptions and other factors that could cause our actual results to differ materially from those
+in the forward-looking statements. These factors include, but are not limited to, our ability to secure suitable financing to continue
+with our existing business or change our business and conclude a merger, acquisition or combination with a business prospect, economic,
+political and market conditions and fluctuations, government and industry regulation, interest rate risk, U.S. and global competition,
+and other factors. Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider
+the areas of risk described in connection with any forward-looking statements that may be made herein. Readers are cautioned not to place
+undue reliance on these forward-looking statements, which speak only as of the date of this report. Readers should carefully review this
+report in its entirety, including but not limited to our financial statements and the notes thereto. We advise you to carefully review
+the reports and documents we file from time to time with the Securities and Exchange Commission (the SEC ), particularly
+our quarterly reports on Form 10-Q and our current reports on Form 8-K. Except for our ongoing obligations to disclose material information
+under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements, to
+report events or to report the occurrence of unanticipated events. 
+
+OTHER PERTINENT INFORMATION 
+
+When used in this report, the terms, we, 
+the Company, NTRR, our, and us refers to Neutra Corp., a Wyoming corporation. 
+
+- 4 - 
+
+Table of Contents 
+
+PART
+I 
+
+ITEM 1. BUSINESS 
+
+Overview 
+
+Neutra Corp. was incorporated in Nevada on January
+11, 2011 to market and participate in the nutraceutical space by bringing products derived from all natural and organic origins. On August
+16, 2019, Neutra Corp. reincorporated in Wyoming. 
+
+Along with participating in the actual nutraceutical
+products, we plan to research and bring new technology to the nutraceutical space. Nutraceutical natural medicine is an alternative system
+that focuses on natural remedies and the body s vital ability to heal and maintain itself. One of the nutraceutical sub-markets
+is the new thriving medical cannabis market, in which we intend to participate. We intend to entrust the manufacturing to a nutraceutical
+contractor to private label all of our products and to sell them under our unique brand. We have established a fiscal year end of January
+31. 
+
+As the global cannabis market grows exponentially,
+it is constantly in need of better technologies and products to be more efficient in how it grows, what it grows and how it consumes cannabis
+and its related products. From lighting to dosage devices, from pesticide replacements to plant enhancers, Neutra Corp. is constantly
+combing the industry for the latest and greatest to test, prove and bring to market. 
+
+On January 23, 2018, we entered into an agreement
+with Artillery Labs to sell and market natural nutraceuticals online. The objective of this agreement is for the Company to have its own
+line of all natural and legal CBD products for sale through Artillery Labs online sales infrastructure. Under the terms of the
+agreement, Artillery Labs will be paid 25,000 upon the successful marketing launch of a product. 
+
+On August 30, 2019, we purchased all of the outstanding
+stock of Vivis Corporation, a Wyoming corporation, Vivis from Sydney Jim, our CEO. The purchase price for Vivis is 35,000
+cash and a royalty of 40 percent of gross revenue until 100,000 is paid declining to 25 percent until an additional 100,000 has been
+paid. There will be a 10 percent royalty in perpetuity. 
+
+We have generated limited revenues to date and our
+activities have been primarily limited to developing our business plan and research and development of products. We will not have the
+necessary capital to fully develop or execute our business plan until we are able to secure additional financing. There can be no assurance
+that such financing will be available on suitable terms. We need to raise additional funds in order to implement our business plan. Our
+current cash on hand is insufficient to commercialize our products or fully develop our business strategy. If we are unable to raise adequate
+additional funds or if those funds are not available on terms that are acceptable to us, we will not be able to execute our business plan
+and we may cease operations. 
+
+Government Laws and Regulations 
+
+Neutra primarily sells hemp-derived products, including
+products containing delta-8-THC and other cannabinoids. Neutra is attempting to only conduct business to the extent permitted under applicable
+laws and regulations. 
+
+While Neutra is optimistic regarding the future of
+its business selling hemp-derived products and psychoactive products, and potentially products that contain nicotine, the manufacture
+and sale of these products involve significant risks associated with federal, state and local laws and regulations, and regulatory agencies,
+that have the potential to bankrupt Neutra and the Company, or at least to negatively impact the trading price of our common stock. 
+
+In regard to the sale of hemp-derived products in
+the United States, despite cannabis having been legalized at the state level for medical use in many states and for adult recreational
+use in a number of states, cannabis, other than plants of the same genus that meet the definition of industrial hemp, continues to be
+categorized as a Schedule I controlled substance under the federal Controlled Substances Act CSA ), and subject to the Controlled
+Substances Import and Export Act CSIEA ). As of December 20, 2018, the 2018 Farm Bill, formally known as the Agriculture
+Improvement Act of 2018 (the Farm Bill ), has reclassified hemp for commercial use by removing it from its Schedule I Status
+under the CSA, and Neutra seeks to operate in compliance with the legislation. However: 
+
+- 5 - 
+
+Table of Contents 
+
+(a) FDA: The US Food and Drug Administration FDA has stated that although hemp is no longer an illegal substance under the Farm Bill, the FDA continues to regulate
+cannabis products under the Food, Drug, and Cosmetic Act FD C Act and Section 351 of the Public Health Service Act.
+The health and safety impacts of delta-8-THC and other cannabinoids have not yet been established via traditional scientific and/or
+clinical studies. The FDA appears to believe that CBD, delta-8-THC and other hemp-derived cannabinoids may or could have significant adverse
+health impacts upon human beings, especially in regard to potential liver toxicity or liver damage. Furthermore, the FDA sometimes appears
+to believe that certain cannabinoids are drugs, and that the sale of certain cannabinoid-infused products without FDA approval is illegal.
+In deference to the FDA s position, various states and municipalities have similarly declared that the sale of certain hemp-derived
+cannabinoid-infused products such as delta-8-THC is illegal, or have imposed restrictions or prohibitions upon the sale of certain hemp-derived
+products. The FDA may in the future impose significant licensing or other requirements, regulations, restrictions and/or prohibitions
+on the sale of hemp-derived products, which could have a material adverse effect upon Neutra s business and the trading price of
+our common stock; 
+
+(b) DEA: The US Drug Enforcement
+Agency DEA has stated that although hemp is no longer an illegal substance under the Farm Bill, the FDA continues to pursue
+Schedule I controlled substances as well as certain synthetic substances. In particular: 
+
+(i) Hemp and hemp-derived cannabinoid-infused
+products which exceed a delta-9-THC concentration of 0.3 by dry weight are illegal under the Farm Bill. Any failure to keep the delta-9-THC
+concentration in Neutra s hemp-derived or cannabinoid-infused products below 0.3 by dry weight could subject us to action by the
+DEA or other regulatory authorities and/or to lawsuits by consumers, which could have a material adverse effect upon our Company s
+business and the trading price of our common stock. In addition, certain hemp-derived products may, over time, gradually increase their
+delta-9-THC concentration, and this may ultimately cause such products to exceed the 0.3 delta-9-THC by dry weight concentration level,
+making such products illegal in certain jurisdictions. If this happens, we could be subject to regulatory action that could have a material
+adverse effect upon our Company and the trading price of our common stock. In addition, the approval of medical and recreational marijuana
+by many states has created a situation in which it may be difficult or impossible for regulators and courts to determine whether the THC
+levels reflected in consumers blood tests are the result of legal hemp-derived products or marijuana-infused products. This may
+result in regulatory actions or lawsuits against the Company; 
+
+(ii) The DEA has issued a statement
+that some have interpreted as making hemp-derived delta-8-THC illegal. In deference to the DEA, certain state and local governments have
+imposed restrictions or prohibitions upon the sale of certain products containing delta-8-THC. Neutra sells significant quantities of
+products containing hemp-derived delta-8-THC, and any crackdown by the DEA or other regulatory authorities on products containing delta-8-THC
+may have a material adverse effect upon Neutra s business and the trading price of our common stock; and 
+
+(iii) The DEA has sent a letter
+saying that delta-9-THCO and delta-8-THCO do not occur naturally in the cannabis plant and can only be obtained synthetically,
+and therefore do not fall under the definition of hemp. Any crackdown by the DEA or other regulatory authorities on products containing
+delta-9-THCO and/or delta-8-THCO may have a material adverse effect upon Neutra s business and the trading price of our common stock. 
+
+(c) Amended PACT act: The recently
+amended federal PACT act makes the online sale of certain of Neutra s products to end users difficult or impossible. The amended
+federal PACT act may have a material adverse effect upon Neutra s business and the trading price of our common stock. 
+
+Furthermore, the regulation of hemp-derived, psychoactive
+and nicotine products is evolving. Neutra may become subject to new laws, rules, regulations, moratoriums, prohibitions, or other restrictions
+or impediments cannabis derived products for companies imposed by the U.S. President pursuant to executive orders, by the U.S. Congress
+in laws, by U.S. federal agencies such as the FDA and/or the DEA, and/or by state and local governments. For example, Neutra s business
+may be impacted by any language relating to hemp-derived or psychoactive products that might be contained in any bill that might federally
+legalize marijuana, or that might be contained in the next so-called Farm Bill , or that might be contained in other legislation
+at the federal or state level. Without limiting the generality of the foregoing, governmental laws, rules and regulations may impose significant
+new rules, restrictions, limitations, prohibitions and/or taxes on when, where, how and to whom Neutra may sell its products, and these
+new rules, restrictions, limitations, prohibitions and/or taxes may have a material adverse effect on Neutra s business and the
+trading price of our common stock. 
+
+- 6 - 
+
+Table of Contents 
+
+Neutra s sales are partially dependent upon
+the sale of products containing hemp-derived delta-8-THC. The FDA, the DEA and other federal, state and local governments and agencies
+may impose laws, rules, regulations and executive orders that effectively prohibit Neutra from selling products containing delta-8-THC
+or certain other cannabinoids. For example, the DEA has sent a letter saying that delta-9-THCO and delta-8-THCO do not occur naturally
+in the cannabis plant and can only be obtained synthetically, and therefore do not fall under the definition of hemp , and any crackdown
+by the DEA or other regulatory authorities on products containing delta-9-THCO and/or delta-8-THCO may have a material adverse effect
+upon Neutra s business and the trading price of our common stock. Consequently, Neutra s future financial prospects are uncertain,
+and no guarantee or assurance whatsoever can be made that Neutra will be able to continue to pay their financial obligations when they
+become due and payable in the future. This risk may have a material adverse effect on our Company and the trading price of our common
+stock. 
+
+Neutra is subject to the risks of investigations and/or
+enforcement actions by the DEA, the FDA, Federal Trade Commission FTC ), state attorneys general and/or other government
+and/or quasi-governmental agencies relating to the advertising, marketing, promotion, ingredients, usage and/or sale of their products.
+If an inquiry by the DEA, the FDA, FTC, a state attorney general or other government or quasi-government agency finds that Neutra s
+products and/or the advertising, marketing, promotion, ingredients, usage and/or sale of such products are not in compliance with applicable
+laws or regulations, or that they are misleading, untruthful or unsubstantiated, Neutra may become subject to fines, product reformulations,
+container changes, changes in the usage or sale of Neutra s products, changes in their advertising, marketing and promotion practices,
+and/or injunctions on the sale of the products, each of which may have a material adverse effect on our business, financial condition
+or results of operations and on the trading price of our common stock. 
+
+ITEM 1A. RISK FACTORS 
+
+As a smaller reporting company, we are not required
+to provide the information required by this item. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+As a smaller reporting company, we are not required
+to provide the information required by this item. 
+
+ITEM 2. PROPERTIES 
+
+We maintain our corporate offices at 54 Sugar Creek
+Center Blvd., Suite 200 Sugar Land, Texas 77478. Our telephone number is 702-793-4121. Our manufacturing facility is located in Katy,
+Texas. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+We know of no material, active or pending legal proceedings
+against us, nor are we involved as a plaintiff in any material proceedings or pending litigation. There are no proceedings in which any
+of our directors, officers or affiliates, or any registered beneficial shareholder are an adverse party or has a material interest adverse
+to us. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+PART
+II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY,
+RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market Information 
+
+Our common stock began trading on the Over
+the Counter Bulletin Board OTC under the symbol NTRR in October 2011. 
+
+Holders 
+
+As of the date of this filing, there were 11 holders
+of record of our common stock. 
+
+- 7 - 
+
+Table of Contents 
+
+Dividends 
+
+To date, we have not paid dividends on shares of our
+common stock and we do not expect to declare or pay dividends on shares of our common stock in the foreseeable future. The payment of
+any dividends will depend upon our future earnings, if any, our financial condition, and other factors deemed relevant by our Board of
+Directors. 
+
+Common Stock 
+
+We are authorized to issue unlimited shares of common
+stock, with a par value of 0.001. The closing price of our common stock on June 1, 2023, as quoted by OTC Markets Group, Inc., was 0.0003.
+There were 2,743,575,314 shares of common stock issued and outstanding as of January 31, 2023. All shares of common stock have one vote
+per share on all matters including election of directors, without provision for cumulative voting. The common stock is not redeemable
+and has no conversion or preemptive rights. The common stock currently outstanding is validly issued, fully paid and non-assessable. In
+the event of liquidation of the Company, the holders of common stock will share equally in any balance of the Company s assets available
+for distribution to them after satisfaction of creditors and preferred shareholders, if any. The holders of the Company s common
+are entitled to equal dividends and distributions per share with respect to the common stock when, as and if, declared by the Board of
+Directors from funds legally available. 
+
+Our Articles of Incorporation, our Bylaws, and the
+applicable statutes of the state of Wyoming contain a more complete description of the rights and liabilities of holders of our securities. 
+
+During the year ended January 31, 2023, there was
+no modification of any instruments defining the rights of holders of the Company s common stock and no limitation or qualification
+of the rights evidenced by the Company s common stock as a result of the issuance of any other class of securities or the modification
+thereof. 
+
+Non-cumulative voting 
+
+Holders of shares of our common stock do not have
+cumulative voting rights, which means that the holders of more than 50 of the outstanding shares, voting for the election of directors,
+can elect all of the directors to be elected, if they so choose, and, in that event, the holders of the remaining shares will not be able
+to elect any of our directors. 
+
+Securities Authorized for Issuance under Equity
+Compensation Plans 
+
+The following table shows the number of shares of
+common stock that could be issued upon exercise of outstanding options and warrants, the weighted average exercise price of the outstanding
+options and warrants, and the remaining shares available for future issuance as of January 31, 2023. 
+
+Plan Category 
+ 
+ Number of Securities to be issued upon exercise of outstanding options, warrants and rights 
+ 
+ Weighted average exercise price of outstanding options, warrants and rights 
+ 
+ Number of securities remaining available for future issuance 
+ 
+ Equity compensation plans approved by security holders. 
+
+Equity compensation plans not approved by security holders. 
+
+Total 
+
+Preferred Stock 
+
+Our authorized preferred stock consists of 20,000,000
+shares of 0.001 par value preferred stock. The Board of Directors is authorized to designate any series of preferred stock. Dividends,
+when, as and if declared by the Board of Directors, shall be paid out of funds at the time legally available for such purposes. 
+
+- 8 - 
+
+Table of Contents 
+
+Series A Preferred Stock. In January
+2020, our board of directors designated 50,000 shares of our preferred stock as Series A Preferred Stock which rank subordinate to all
+shares of common stock and do not have voting rights. The Series A Preferred Stock has a stated value of 5 per share. The Series A Preferred
+Stock is entitled to receive dividends of 10 of the net profit of VIVIS Corporation. The holders of the Series A Preferred Stock have
+the option to convert each share into 800 shares of common stock of the Company. As of January 31, 2023, there are 50,000 shares of Series
+A Preferred Stock outstanding. 
+
+Series B Preferred Stock. In July
+2020, our board of directors designated 10,000 shares of our preferred stock as Series B Preferred Stock which rank subordinate to all
+shares of common stock and do not have voting rights. The Series B Preferred Stock has a stated value of 5 per share. The Series B Preferred
+Stock is entitled to receive dividends of 0.4 of the net profit of VIVIS Corporation. Holders of the Series B Preferred Stock have the
+option to convert each share into 800 shares of common stock. As of January 31, 2023, there are 10,000 shares of Series B Preferred Stock
+outstanding. 
+
+Series C Preferred Stock. In November
+2020, our board of directors designated 40,000 shares of our preferred stock as Series C Preferred Stock which rank subordinate to all
+shares of common stock and do not have voting rights. The Series C Preferred Stock has a stated value of 5 per share. The Series C Preferred
+Stock is entitled to receive dividends of 10 of the net profit of VIVIS Corporation. After the Series C Preferred Stock has received
+cumulative dividends of 500,000, the dividend rate will reduce to 1 . Holders of the Series C Preferred Stock have the option to convert
+each share into 38 shares of common stock. As of January 31, 2023, there are 40,000 shares of Series C Preferred Stock outstanding. 
+
+Series E Preferred Stock. On November
+13, 2015, our board of directors designated 1,000,000 shares of our preferred stock as Series E Preferred Stock. The Series E Preferred
+Stock is subordinated to our common stock. It does not receive dividends and does not participate in equity distributions. The Series
+E Preferred stock has 2 votes for each outstanding share of common stock in the company. As of the date of this report, there are 1,000,000
+shares Series E Preferred Stock outstanding. Dividends, when, as and if declared by the Board of Directors, shall be paid out of funds
+at the time legally available for such purposes. 
+
+Series F Preferred Stock. On March
+15, 2019, our board of directors designated 1,000,000 shares of our preferred stock as Series F Preferred Stock. The Series F Preferred
+Stock is subordinated to our common stock and superior to all shares of Preferred Stock. It does not receive dividends and does not participate
+in equity distributions. The Series F Preferred stock retains 2/3 of the voting rights in the company. During the year ended January 31,
+2021, the Company issued 1,000,000 shares of Series F Preferred Stock to Sydney Jim, our CEO, in exchange for services. As of the date
+of this report, there are 1,000,000 shares Series F Preferred Stock outstanding. 
+
+Series G Preferred Stock. During
+the year ended January 31 2021, our board of directors designated 1,000,000 shares of our preferred stock as Series G Preferred Stock.
+The Series G convertible preferred stock has a stated value of 1.00 per share, carries no voting rights and earns dividends of 8 per
+annum on the stated value of the stock. Dividends are payable on liquidation, redemption or conversion. The Series G convertible preferred
+stock is redeemable at the option of the Company during the first nine months it is outstanding at a premium of between 3 and 33 depending
+on the date of redemption. After the stock has been outstanding for nine months, it is convertible into common stock of the Company at
+a 29 discount to the market value of the common stock. During the year ended January 31, 2022, we issued 514,000 shares of Series G convertible
+preferred stock for cash proceeds of 426,250, and 420,300 shares were converted into 289,308,377 shares of common stock. During the year
+ended January 31, 2023, we issued 60,200 shares of Series G convertible preferred stock for cash proceeds of 50,000, and 275,000 shares
+and 11,000 of accrued dividends were converted into 611,501,515 shares of common stock. As of January 31, 2023, there were 35,200 shares
+of Series G convertible stock outstanding and 2,061 of accrued dividends payable. 
+
+Recent Sales of Unregistered Securities 
+
+During the quarter ended January 31, 2023, the Company
+issued shares of common stock as a result of the conversion of Series G Convertible Preferred Stock, as detailed in the following table: 
+
+Date 
+ 
+ Shares Converted 
+ 
+ Number of Shares Issued 
+ 
+ January 20, 2023 
+
+25,000 
+ 
+ 92,857,143 
+ 
+ Total 
+
+25,400 
+ 
+ 92,857,143 
+
+The above transactions were exempt from registration
+per SEC Rule 144(a)(3). 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+As a smaller reporting company, we are not required
+to provide the information required by this item. 
+
+- 9 - 
+
+Table of Contents 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+THIS FILING CONTAINS FORWARD-LOOKING STATEMENTS. THE
+WORDS ANTICIPATED, BELIEVE, EXPECT, PLAN, INTEND, SEEK, 
+ ESTIMATE, PROJECT, WILL, COULD, MAY, AND SIMILAR EXPRESSIONS ARE
+INTENDED TO IDENTIFY FORWARD-LOOKING STATEMENTS. THESE STATEMENTS INCLUDE, AMONG OTHERS, INFORMATION REGARDING FUTURE OPERATIONS, FUTURE
+CAPITAL EXPENDITURES, AND FUTURE NET CASH FLOW. SUCH STATEMENTS REFLECT THE COMPANY S CURRENT VIEWS WITH RESPECT TO FUTURE EVENTS
+AND FINANCIAL PERFORMANCE AND INVOLVE RISKS AND UNCERTAINTIES, INCLUDING, WITHOUT LIMITATION, GENERAL ECONOMIC AND BUSINESS CONDITIONS,
+CHANGES IN FOREIGN, POLITICAL, SOCIAL, AND ECONOMIC CONDITIONS, REGULATORY INITIATIVES AND COMPLIANCE WITH GOVERNMENTAL REGULATIONS, THE
+ABILITY TO ACHIEVE FURTHER MARKET PENETRATION AND ADDITIONAL CUSTOMERS, AND VARIOUS OTHER MATTERS, MANY OF WHICH ARE BEYOND THE COMPANY S
+CONTROL. SHOULD ONE OR MORE OF THESE RISKS OR UNCERTAINTIES OCCUR, OR SHOULD UNDERLYING ASSUMPTIONS PROVE TO BE INCORRECT, ACTUAL RESULTS
+MAY VARY MATERIALLY AND ADVERSELY FROM THOSE ANTICIPATED, BELIEVED, ESTIMATED, OR OTHERWISE INDICATED. CONSEQUENTLY, ALL OF THE FORWARD-LOOKING
+STATEMENTS MADE IN THIS FILING ARE QUALIFIED BY THESE CAUTIONARY STATEMENTS AND THERE CAN BE NO ASSURANCE OF THE ACTUAL RESULTS OR DEVELOPMENTS. 
+
+The following discussion and analysis of our financial
+condition and plan of operations should be read in conjunction with our financial statements and related notes appearing elsewhere herein.
+This discussion and analysis contains forward-looking statements including information about possible or assumed results of our financial
+conditions, operations, plans, objectives, and performance that involve risk, uncertainties, and assumptions. The actual results may differ
+materially from those anticipated in such forward-looking statements. For example, when we indicate that we expect to increase our product
+sales and potentially establish additional license relationships, these are forward-looking statements. The words expect, anticipate,
+estimate or similar expressions are also used to indicate forward-looking statements. 
+
+Background of our Company 
+
+Neutra Corp. was incorporated in Florida on January
+11, 2011. On October 5, 2015, we reincorporated from Florida to Nevada. On August 16, 2019, Neutra Corp. reincorporated from Nevada to
+Wyoming. The reincorporation was approved by our board of directors and by a majority of the holders of voting rights in our stock. Our
+authorized shares increased to unlimited shares of common stock and 20,000,000 shares of preferred stock. 
+
+We have established a fiscal year end of January 31. 
+
+As the global cannabis market grows exponentially,
+it is constantly in need of better technologies and products to be more efficient in how it grows, what it grows and how it consumes cannabis
+and its related products. From lighting to dosage devices, from pesticide replacements to plant enhancers, Neutra Corp. is constantly
+combing the industry for the latest and greatest to test, prove and bring to market. 
+
+Neutra primarily sells hemp-derived products, including
+products containing delta-8-THC and other cannabinoids. Neutra is attempting to only conduct business to the extent permitted under applicable
+laws and regulations. While Neutra is optimistic regarding the future of its business selling hemp-derived products and psychoactive products,
+and potentially products that contain nicotine, the manufacture and sale of these products involve significant risks associated with federal,
+state and local laws and regulations, and regulatory agencies, that have the potential to bankrupt Neutra and the Company, or at least
+to negatively impact the trading price of our common stock. 
+
+We have generated limited revenues to date and our
+activities have been limited primarily to developing our business plan and research and development of products. We will not have the
+necessary capital to fully develop or execute our business plan until we are able to secure additional financing. There can be no assurance
+that such financing will be available on suitable terms. We need to raise additional funds in order to implement our business plan. Our
+current cash on hand is insufficient to commercialize our products or fully develop our business strategy. If we are unable to raise adequate
+additional funds or if those funds are not available on terms that are acceptable to us, we will not be able to execute our business plan
+and we may cease operations. 
+
+Plan of Operations 
+
+We believe we do not have adequate funds to fully
+execute our business plan for the next twelve months unless we obtain additional funding. However, should we not raise this capital, we
+will allocate our funding to first assure that all State, Federal and SEC requirements are met. 
+
+- 10 - 
+
+Table of Contents 
+
+As of January 31, 2023, we had cash on hand of 1,969. 
+
+We intend to pursue capital through public or private
+financing, as well as borrowing and other sources in order to finance our business activities. We cannot guarantee that additional funding
+will be available on favorable terms, if at all. If adequate funds are not available, then our ability to continue our operations may
+be significantly hindered. 
+
+Results of Operations 
+
+We had net loss of 561,417 for the year ended January
+31, 2023. We had a working capital deficit of 733,824 as of January 31, 2023. We do not anticipate having positive net income in the
+immediate future. Net cash used by operating activities for the year ended January 31, 2023 was 153,243. 
+
+We continue to rely on advances to fund operating
+shortfalls and do not foresee a change in this situation in the immediate future. There can be no assurance that we will continue to have
+such advances available. We will not be able to continue operations without them. We are pursuing alternate sources of financing, but
+there is no assurance that additional capital will be available to the Company when needed or on acceptable terms. 
+
+Fiscal year ended January 31, 2023 compared to
+the fiscal year ended January 31, 2022. 
+
+Revenue 
+
+We recognized revenue of 67,996 and 92,014 for the
+years ended January 31, 2023 and 2022, respectively. Revenue was generated from the sale of our CBD sports creams, Delta-8 THC products
+and other products. 
+
+Cost of Goods Sold 
+
+We incurred cost of goods sold of 32,690 and 60,853
+for the years ended January 31, 2023 and 2022, respectively. 
+
+Depreciation 
+
+We recognized depreciation of 78,906 and 77,785
+for the years ended January 31, 2023 and 2022, respectively, as a result of the acquisition of property and equipment during the prior
+period. 
+
+General and Administrative Expenses and Sales Commissions 
+
+We recognized general and administrative expenses
+in the amount of 227,974 and 508,482 for the years ended January 31, 2023 and 2022, respectively. The decrease is primarily related
+to the decrease in consulting fees and marketing expense and related to the receipt of employee retention tax credits which offset labor
+costs during the current period. 
+
+Interest Expense 
+
+Interest expense increased from 60,606 for the year
+ended January 31, 2022 to 62,063 for the year ended January 31, 2023 as a result of outstanding convertible and other notes payable. 
+
+Income Tax Expense 
+
+Income tax expense was 3,523 for the year ended January
+31, 2023 as a result of Section 280E of the Internal Revenue Code which prohibits the deduction of certain ordinary business expenses
+related to cannabis operations. There was no income tax provision in the year ended January 31, 2022 due to the Company s net operating
+losses. 
+
+Net Loss 
+
+We had a net loss of 561,417 for the year ended January
+31, 2023 as compared to net loss of 632,926 for the comparable period of 2022. The change in the net loss was primarily the result of
+lower general and administrative expense as discussed above. 
+
+Liquidity and Capital Resources 
+
+As of the date of this filing, we had yet to generate
+significant revenues from our business operations. 
+
+- 11 - 
+
+Table of Contents 
+
+We anticipate needing additional financing to fund
+our operations and to effectively execute our business plan over the next eighteen months. Currently available cash is not sufficient
+to allow us to commence full execution of our business plan. Our business expansion will require significant capital resources that may
+be funded through the issuance of common stock or of notes payable or other debt arrangements that may affect our debt structure. Despite
+our current financial status, we believe that we may be able to issue notes payable or debt instruments in order to start executing our
+business plan. However, there can be no assurance that we will be able to raise money in this fashion and have not entered into any agreements
+that would obligate a third party to provide us with capital. 
+
+We raised the cash amounts to be used in these activities
+from issuances of our Series G Preferred Stock during the year ended January 31, 2023. We currently have negative working capital of 733,824. 
+
+As of January 31, 2023, we had 1,969 of cash on hand.
+This amount of cash will be adequate to fund our operations for less than twelve months. 
+
+We have no known demands or commitments and are not
+aware of any events or uncertainties as of January 31, 2023 that will result in or that are reasonably likely to materially increase or
+decrease our current liquidity. 
+
+Capital Resources 
+
+We had no material commitments for capital expenditures
+as of January 31, 2023 and 2022. However, should we execute our business plan as anticipated, we would incur substantial capital expenditures
+and require financing in addition to what is required to fund our present operation. 
+
+Additional Financing 
+
+Additional financing is required to continue operations.
+Although actively searching for available capital, the Company does not have any current arrangements for additional outside sources of
+financing and cannot provide any assurance that such financing will be available. 
+
+Off-Balance Sheet Arrangements 
+
+We do not have any off-balance sheet arrangements
+that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues
+or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors. 
+
+Critical Accounting Policies and Estimates 
+
+We prepare our financial statements in conformity
+with GAAP, which requires management to make certain estimates and assumptions and apply judgments. We base our estimates and judgments
+on historical experience, current trends, and other factors that management believes to be important at the time the financial statements
+are prepared; actual results could differ from our estimates and such differences could be material. We have identified below the critical
+accounting policies, which are assumptions made by management about matters that are highly uncertain and that are of critical importance
+in the presentation of our financial position, results of operations and cash flows. Due to the need to make estimates about the effect
+of matters that are inherently uncertain, materially different amounts could be reported under different conditions or using different
+assumptions. On a regular basis, we review our critical accounting policies and how they are applied in the preparation our financial
+statements. 
+
+USE OF ESTIMATES - The preparation of financial statements
+in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date
+of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ
+from those estimates. 
+
+GOING CONCERN - The accompanying financial statements
+have been prepared assuming that the Company will continue as a going concern. For the year ended January 31, 2023, the Company had a
+net loss of 561,417 and generated negative cash flow from operations in the amount of 153,243. In view of these matters, the Company s
+ability to continue as a going concern is dependent upon its ability to achieve a level of profitability or to obtain additional capital
+to finance its operations. The Company intends on financing its future activities and its working capital needs largely from the sale
+of public equity securities with some additional funding from other traditional financing sources, including term notes until such time
+that funds provided by operations are sufficient to fund working capital requirements. The financial statements of the Company do not
+include any adjustments relating to the recoverability and classification of recorded assets, or the amounts and classifications of liabilities
+that might be necessary should the Company be unable to continue as a going concern. 
+
+- 12 - 
+
+Table of Contents 
+
+New Accounting Pronouncements 
+
+For a description of recent accounting standards,
+including the expected dates of adoption and estimated effects, if any, on our financial statements, see Note 3: Significant Accounting
+Polices: Recently Issued Accounting Pronouncements in Part II, Item 8 of this Form 10-K. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES
+ABOUT MARKET RISK 
+
+As a smaller reporting company, we are not required
+to provide the information required by this item. 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY
+DATA 
+
+Neutra Corp. 
+
+Consolidated Financial Statements 
+
+January 31, 2023 
+
+Contents 
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID 
+ 14 
+ 
+ Consolidated Balance Sheets 
+ 16 
+ 
+ Consolidated Statements of Operations 
+ 17 
+ 
+ Consolidated Statements of Stockholders Deficit 
+ 18 
+ 
+ Consolidated Statement of Changes in Mezzanine Equity 
+ 19 
+ 
+ Consolidated Statements of Cash Flows 
+ 20 
+ 
+ Notes to the Consolidated Financial Statements 
+ 21 
+
+- 13 - 
+
+Index to Financial Statements 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Board of Directors and Shareholders 
+
+ Neutra Corp. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance
+sheets of Neutra Corp. (the Company) as of January 31, 2023 and 2022, and the related consolidated statements of operations, stockholders 
+deficit, changes in mezzanine equity, and cash flows for each of the years in the two-year period ended January 31, 2023, and the related
+notes (collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in
+all material respects, the financial position of the Company as of January 31, 2023 and 2022, and the results of its operations and its
+cash flows for each of the years in the two-year period ended January 31, 2023, in conformity with accounting principles generally accepted
+in the United States of America. 
+
+Going Concern 
+
+The accompanying financial statements have been prepared
+assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company suffered a
+net loss from operations and has a net capital deficiency, which raises substantial doubt about its ability to continue as a going concern.
+Management s plans regarding those matters are also described in Note 2. The financial statements do not include any adjustments
+that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB . 
+
+We conducted our audits in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The
+Company is not required to have, nor were we engaged to perform, audits of its internal control over financial reporting. As part of our
+audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing
+an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and the significant estimates made
+by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe our audits provide
+a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matter communicated below is a
+matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit
+committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgements. The communication of a critical audit matter does not alter in any way our opinion on
+the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions
+on the critical audit matter or on the accounts or disclosures to which they relate. 
+
+- 14 - 
+
+Index to Financial Statements 
+
+Convertible Preferred Stock 
+
+As discussed in Note 10 to the financial statements,
+the Company had complex financing transactions due to the issuance of multiple series of preferred stock during the year, attached dividends,
+and differing terms on each class of stock, resulting in multiple placements of the different series throughout the balance sheet. 
+
+Auditing management s evaluation of these transactions
+can be complex due to the unusual nature of these transactions. 
+
+To evaluate the appropriateness of the instrument s
+classification, we examined and evaluated the agreement along with management s evaluation of the key terms and management s
+disclosure of the transactions. 
+
+/s/ M K CPAS, PLLC 
+
+We have served as the Company s auditor since
+2014. 
+
+June 9, 2023 
+
+- 15 - 
+
+Index to Financial Statements 
+
+ NEUTRA CORP. 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+January 31, 2023 
+ 
+ January 31, 2022 
+
+ASSETS 
+
+CURRENT ASSETS 
+
+Cash 
+
+Deposits 
+
+Inventory 
+
+Total current assets 
+
+Property and equipment, net 
+
+TOTAL ASSETS 
+
+LIABILITIES, MEZZANINE EQUITY AND STOCKHOLDERS EQUITY 
+
+CURRENT LIABILITIES 
+
+Accounts payable and accrued expenses 
+
+Accounts payable, related party 
+
+Advances payable 
+
+Advances payable to related party 
+
+Dividends payable on Series G preferred stock 
+
+Convertible notes payable, in default 
+
+Accrued interest payable 
+
+Total current liabilities 
+
+Notes payable, related party 
+
+TOTAL LIABILITIES 
+
+COMMITMENTS AND CONTINGENCIES 
+
+MEZZANINE EQUITY 
+
+Series G preferred stock; stated value, shares and shares issued and outstanding at January 31, 2023 and 2022, respectively 
+
+STOCKHOLDERS DEFICIT 
+
+Common stock, par value; unlimited shares authorized; and shares issued and outstanding at January 31, 2023 and January 31, 2022, respectively 
+
+Preferred stock; par value; shares authorized: 
+
+Series A convertible preferred stock; shares issued and outstanding at January 31, 2023 and 2022 
+
+Series B convertible preferred stock; and shares issued and outstanding at January 31, 2023 and 2022 
+
+Series C convertible preferred stock; and shares issued and outstanding at January 31, 2023 and 2022 
+
+Series E preferred stock, shares issued and outstanding at January 31, 2023 and 2022 
+
+Series F preferred stock, par value; shares issued and outstanding at January 31, 2023 and 2022 
+
+Additional paid-in capital 
+
+Preferred stock subscribed but not issued 
+
+Accumulated deficit 
+
+() 
+ 
+ () 
+ 
+ Total stockholders deficit 
+
+() 
+ 
+ () 
+
+TOTAL LIABILITIES, MEZZANINE EQUITY AND STOCKHOLDERS DEFICIT 
+
+The accompanying notes are an integral part of these
+consolidated financial statements. 
+
+- 16 - 
+
+Index to Financial Statements 
+
+ NEUTRA CORP. 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+Year ended 
+January 31, 
+
+2023 
+ 
+ 2022 
+
+REVENUE 
+
+COST OF GOODS SOLD 
+
+GROSS MARGIN 
+
+OPERATING EXPENSES 
+
+Depreciation 
+
+Sales commissions 
+
+General and administrative expenses 
+
+Total operating expenses 
+
+LOSS FROM OPERATIONS 
+ 
+ () 
+ 
+ () 
+
+OTHER INCOME (EXPENSE) 
+
+Interest expense 
+ 
+ () 
+ 
+ () 
+ 
+ Gain on forgiveness of debt 
+
+Loss on settlement of liabilities 
+ 
+ () 
+
+Total other income (expense) 
+ 
+ () 
+ 
+ () 
+
+Net loss before income taxes 
+ 
+ () 
+ 
+ () 
+ 
+ Provision for income taxes 
+ 
+ () 
+
+NET LOSS 
+ 
+ () 
+ 
+ () 
+
+Dividends on Series G convertible preferred stock 
+ 
+ () 
+ 
+ () 
+ 
+ Deemed dividend on preferred stock 
+ 
+ () 
+ 
+ () 
+
+NET LOSS ATTRIBUTABLE TO COMMON SHAREHOLDERS 
+ 
+ () 
+ 
+ () 
+
+NET LOSS PER COMMON SHARE Basic and fully diluted 
+ 
+ () 
+ 
+ () 
+
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING Basic and fully diluted 
+
+The accompanying notes are an integral part of these
+consolidated financial statements. 
+
+- 17 - 
+
+Index to Financial Statements 
+
+ NEUTRA CORP. 
+
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' DEFICIT 
+
+Series A 
+
+Stock 
+
+Convertible 
+ 
+ Series B 
+ 
+ Series C 
+ 
+ Series E 
+ 
+ Series F 
+ 
+ Additional 
+
+subscribed 
+ 
+ Total 
+
+Common stock 
+ 
+ Preferred Stock 
+ 
+ Preferred Stock 
+ 
+ Preferred Stock 
+ 
+ Preferred Stock 
+ 
+ Preferred Stock 
+ 
+ paid-in 
+ 
+ Accumulated 
+ 
+ but not 
+ 
+ Equity 
+
+Shares 
+ 
+ Par 
+ 
+ Shares 
+ 
+ Par 
+ 
+ Shares 
+ 
+ Par 
+ 
+ Shares 
+ 
+ Par 
+ 
+ Shares 
+ 
+ Par 
+ 
+ Shares 
+ 
+ Par 
+ 
+ capital 
+ 
+ Deficit 
+ 
+ issued 
+ 
+ (Deficit) 
+
+Balance, January 31, 2021 
+
+() 
+
+() 
+ 
+ Common stock issued for preferred stock conversions 
+
+Issuance of Series B preferred stock 
+
+() 
+
+Issuance of Series C preferred stock 
+
+() 
+
+Common stock issued for conversion of debt 
+
+Preferred stock subscribed but not issued 
+
+Dividends on Series G preferred stock 
+
+() 
+
+() 
+ 
+ Deemed dividend on Series G preferred stock 
+
+() 
+
+() 
+ 
+ Net loss 
+
+() 
+
+() 
+ 
+ Balance, January 31, 2022 
+
+() 
+
+() 
+ 
+ Common stock issued for preferred stock conversions 
+
+() 
+
+Issuance of Series B preferred stock 
+
+Issuance of Series C preferred stock 
+
+Common stock issued for conversion of debt 
+
+Preferred stock subscribed but not issued 
+
+Dividends on Series G preferred stock 
+
+() 
+
+() 
+ 
+ Deemed dividend on Series G preferred stock 
+
+() 
+
+() 
+ 
+ Net loss 
+
+() 
+
+() 
+ 
+ Balance, January 31, 2023 
+
+() 
+
+() 
+
+The accompanying notes are an integral part of these consolidated financial
+statements. 
+
+- 18 - 
+
+Index to Financial Statements 
+
+ NEUTRA CORP. 
+
+ CONSOLIDATED STATEMENT OF CHANGES IN MEZZANINE EQUITY 
+
+Series G Preferred Stock 
+
+Shares 
+ 
+ Amount 
+
+Balance, January 31, 2021 
+
+Series G preferred stock issued for cash 
+
+Series G preferred stock converted to common stock 
+ 
+ () 
+ 
+ () 
+
+Balance, January 31, 2022 
+
+Series G preferred stock issued for cash 
+
+Series G preferred stock converted to common stock 
+ 
+ () 
+ 
+ () 
+
+Balance, January 31, 2023 
+
+The accompanying notes are an integral part of these consolidated financial
+statements. 
+
+- 19 - 
+
+Index to Financial Statements 
+
+ NEUTRA CORP. 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+Year ended January 31, 
+
+2023 
+ 
+ 2022 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net loss 
+
+) 
+
+() 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation 
+
+Gain on forgiveness of debt 
+
+() 
+ 
+ Loss on settlement of liabilities 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Deposits 
+
+Inventory 
+
+() 
+
+Accounts payable and accrued liabilities 
+
+() 
+
+Accounts payable to related parties 
+
+Accrued interest payable 
+
+NET CASH USED IN OPERATING ACTIVITIES 
+
+() 
+ 
+ () 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Purchases of property and equipment 
+
+() 
+ 
+ NET CASH USED IN INVESTING ACTIVITIES 
+
+() 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Repayments of advance from related party 
+
+() 
+ 
+ Proceeds from sale of Series G convertible preferred stock 
+
+Stock subscriptions received 
+
+Repayments of notes payable, related party 
+
+() 
+
+Proceeds from issuance of note payable 
+
+Proceeds from issuance of note payable, related 
+
+Proceeds from advance from related party 
+
+NET CASH PROVIDED BY FINANCING ACTIVITIES 
+
+NET CHANGE IN CASH AND CASH EQUIVALENTS 
+
+() 
+
+CASH, at the beginning of the period 
+
+CASH, at the end of the period 
+
+Supplemental Disclosures of Cash Flow Information: 
+
+Cash paid during the period for: 
+
+Interest 
+
+Taxes 
+
+Noncash investing and financing transaction: 
+
+Conversion of Series G preferred stock 
+
+Deemed dividend on Series G preferred stock 
+
+Conversion of note payable and accrued interest 
+
+The accompanying notes are an integral part of these consolidated financial
+statements. 
+
+- 20 - 
+
+Index to Financial Statements 
+
+ NEUTRA CORP. 
+
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ JANUARY 31, 2023 
+
+. The Company has a history of recurring net losses and negative cash flows from operations. We have generated
+limited revenues to date and our activities have been primarily limited to developing our business plan and research and development of
+products. We will not have the necessary capital to fully develop or execute our business plan until we are able to secure additional
+financing. There can be no assurance that such financing will be available on suitable terms. We need to raise additional funds in order
+to implement our business plan. Our current cash on hand is insufficient to commercialize our products or fully develop our business strategy.
+If we are unable to raise adequate additional funds or if those funds are not available on terms that are acceptable to us, we will not
+be able to execute our business plan and we may cease operations. 
+
+These factors raise a substantial doubt about the
+Company s ability to continue as a going concern. The accompanying financial statements do not include any adjustments to reflect
+the possible future effects on the recoverability and classification of assets or the amounts and classifications of liabilities that
+may result from the possible inability of the Company to continue as a going concern. 
+
+The Company does not have the resources at this time
+to repay its credit and debt obligations, make any payments in the form of dividends to its shareholders or fully implement its business
+plan. Without additional capital, the Company will not be able to remain in business. 
+
+Management has plans to address the Company s
+financial situation as follows: 
+
+In the near term, management plans to continue to
+focus on raising the funds necessary to implement the Company s business plan. Management will continue to seek out debt financing
+to obtain the capital required to meet the Company s financial obligations. There is no assurance, however, that lenders will continue
+to advance capital to the Company or that the new business operations will be profitable. The possibility of failure in obtaining additional
+funding and the potential inability to achieve profitability raises doubts about the Company s ability to continue as a going concern. 
+
+In the long term, management believes that the Company s
+projects and initiatives will be successful and will provide cash flow to the Company that will be used to finance the Company s
+future growth. However, there can be no assurances that the Company s planned activities will be successful, or that the Company
+will ultimately attain profitability. The Company s long-term viability depends on its ability to obtain adequate sources of debt
+or equity funding to meet current commitments and fund the continuation of its business operations, and the ability of the Company to
+achieve adequate profitability and cash flows from operations to sustain its operations. 
+
+and at January 31, 2023 and 2022, respectively. 
+
+such valuation allowance was recognized. 
+
+impairment of long-lived assets during the years ended January 31, 2023 and 2022. 
+
+and , respectively. For the year ended January 31, 2023, the Company had two customers
+that accounted for and of total revenue. For the year ended January 31, 2022, the Company had two customers that accounted for
+ and of total revenue, respectively. 
+
+Contract Costs 
+
+Costs incurred to obtain a customer contract are not
+material to the Company. The Company elected to apply the practical expedient to not capitalize contract costs to obtain contracts with
+a duration of one year or less, which are expensed and included within cost of goods and services. 
+
+Cost of Sales 
+
+Cost of sales includes all of the costs to purchase
+and assemble the Company s products. Products are manufactured for the Company by third-party contractors, such costs represent
+the amounts invoiced by the contractors. Additionally, shipping costs are included in Cost of Sales in the Statements of Operations. 
+
+during the year ended December 31, 2021 compared to during the year ended December 31, 2020. Although we have
+net operating losses that we believe are available to us to offset this entire tax liability, which arises under Section 280E of the Code
+because we are a cannabis company, as a conservative measure, we have accrued this liability. 
+
+Fair value estimates discussed herein are based upon
+certain market assumptions and pertinent information available to management as of January 31, 2023 and 2022. The respective carrying
+value of certain on-balance-sheet financial instruments approximated their fair values due to the short-term nature of these instruments.
+These financial instruments include accounts receivable, other current assets, accounts payable, and accrued expenses. The fair value
+of the Company s notes payable is estimated based on current rates that would be available for debt of similar terms that is not
+significantly different from its stated value. 
+
+for full settlement of the customer s
+claims, which was paid subsequent to January 341, 2023. There were no other known commitments or contingencies as of January 31, 2023
+and January 31, 2022. 
+
+and , respectively. 
+
+Total property and equipment 
+
+Less: accumulated depreciation 
+
+() 
+ 
+ () 
+ 
+ Property and equipment, net 
+
+For the years ended January 31, 2023 and 2022, the
+Company recognized depreciation expense of and , respectively. 
+
+and to our CEO, Sydney Jim. In addition, we incurred commission expense of 
+and payable to Mr. Jim and owed and in unpaid compensation as of January 31, 2023 and 2022, respectively. The
+commissions were not paid during the period. During the year ended January 31, 2022, the Company repaid advances of owed to Mr.
+Jim. 
+
+As of January 31, 2023 and 2022, we owe Mr. Jim, or
+entities controlled by him, and , respectively, which is recorded on the balance sheet in Accounts Payable 
+Related Party and in Advances payable to related party related to the items discussed above. 
+
+On March 11, 2022, the Company entered into a loan
+agreement for of proceeds with the holder of the Company s Series A and B preferred stock. The loan is unsecured and bears
+interest at . The Company will make monthly payments of per month beginning in April 2022 through the maturity at June 18, 2023.
+As of January 31, 2023, the note principal balance was and accrued interest was . The Company has not made all required
+monthly payments under the note agreement to date. 
+
+During the year ended January 31, 2022, the Company
+acquired the assets of Deity Corporation, a Texas corporation which the Sydney Jim, the Company s CEO, had a controlling interest
+in that will produce hemp and cannabis products. The transaction was considered an asset acquisition, as there were no operations of Deity
+Corporation prior to the transaction. The Company received the formulas for certain hemp and cannabis-based products and a website to
+market the products that will be produced. In exchange, the Company will pay to Mr. Jim of the revenue from Deity Corporation sales
+until a total of is reached, at which point the Company will pay of Deity Corporation revenue to Mr. Jim. 
+
+at each period. These advances are not collateralized, non-interest bearing and are due on demand. 
+
+During the three months ended April 30, 2021, the
+Company received from the United States Small Business Administration Paycheck Protection Program. The loan bears interest at
+ annually and matures in April 2026. The loan was forgiven in full during the three months ended October 31, 2021, and the Company recorded
+a gain on debt forgiveness. 
+
+. The provision for income taxes is different from that which would be obtained by applying the statutory federal
+income tax rate to income before income taxes. The items causing this difference for the periods ended January 31, 2023 and 2022 are as
+follows. 
+
+less: amortization of beneficial conversion feature 
+
+Plus: permanent differences for nondeductible items 
+
+() 
+
+Plus: Section 280E adjustment 
+
+Plus: Gain on settlement of debt and PPP loan forgiveness 
+
+less: change in valuation allowance 
+
+() 
+
+() 
+ 
+ Tax provision, net 
+
+Section 280E of the Internal Revenue Code, as amended,
+prohibits businesses from deducting certain expenses associated with trafficking controlled substances (within the meaning of Schedule
+I and II of the Controlled Substances Act). The IRS has invoked Section 280E in tax audits against various cannabis businesses in the
+U.S. that are permitted under applicable state laws. Although the IRS issued a clarification allowing the deduction of certain expenses,
+the scope of such items is interpreted very narrowly and the bulk of operating costs and general administrative costs are not permitted
+to be deducted. While there are currently several pending cases before various administrative and federal courts challenging these restrictions,
+there is no guarantee that these courts will issue an interpretation of Section 280E favorable to cannabis businesses. 
+
+We recorded a provision for income taxes in the amount
+of during the year ended January 31, 2023 compared to during the year ended January 31, 2022. Although the Company has net operating
+losses that it believes are available to offset this entire tax liability, which arises under Section 280E of the Code because we are
+a cannabis company, as a conservative measure, the Company has accrued this liability. 
+
+Valuation allowance 
+
+() 
+
+() 
+ 
+ Deferred tax asset, net 
+
+We have net operating loss carryforwards of approximately
+ and as of January 31, 2023 and 2022, respectively. 
+
+- 26 - 
+
+Index to Financial Statements 
+
+, bearing interest at per annum, bearing default interest at per annum, matured on and convertible into shares of common stock at per share, in default 
+
+Convertible note, dated , bearing interest at per annum, bearing default interest at per annum, matured on and convertible into shares of common stock at a discount to the market price, in default 
+
+Total convertible notes payable 
+
+Less: convertible notes payable, in default 
+
+() 
+ 
+ Current convertible notes payable, net of discount 
+
+Settlement of Convertible Note Payable 
+
+On December 2, 2022, the Company entered into a convertible
+note exchange agreement with Lead Enterprises, Inc. Per the agreement, the Company issued shares of common stock in exchange
+for the settlement of the October 31, 2015 convertible note with principal of with accrued interest of and the January
+31, 2016 in the principal of with accrued interest of . As a result, the Company recognized a loss on settlement of liabilities
+of . As of January 31, 2023, the convertible notes were settled in full. 
+
+shares of preferred stock. 
+
+Series A Preferred Stock. In January
+2020, our board of directors designated shares of our preferred stock as Series A Preferred Stock which rank subordinate to all
+shares of common stock and do not have voting rights. The Series A Preferred Stock has a stated value of per share. The Series A Preferred
+Stock is entitled to receive dividends of of the net profit of VIVIS Corporation. The holders of the Series A Preferred Stock have
+the option to convert each share into shares of common stock of the Company. As of January 31, 2023 and 2022, there are shares
+of Series A Preferred Stock outstanding. 
+
+Series B Preferred Stock. In July 2020,
+our board of directors designated shares of our preferred stock as Series B Preferred Stock which rank subordinate to all shares
+of common stock and do not have voting rights. The Series B Preferred Stock has a stated value of per share. The Series B Preferred
+Stock is entitled to receive dividends of of the net profit of VIVIS Corporation. Holders of the Series B Preferred Stock have the
+option to convert each share into shares of common stock. During the year ended January 31, 2021, the Company subscribed shares
+of Series B Preferred Stock for cash proceeds of . The shares were issued during the year ended January 31, 2022. As of January
+31, 2023 and 2022, there are shares of Series B Preferred Stock outstanding. 
+
+Series C Preferred Stock. In November
+2020, our board of directors designated shares of our preferred stock as Series C Preferred Stock which rank subordinate to all
+shares of common stock and do not have voting rights. The Series C Preferred Stock has a stated value of per share. The Series C Preferred
+Stock is entitled to receive dividends of of the net profit of VIVIS Corporation. After the Series C Preferred Stock has received
+cumulative dividends of , the dividend rate will reduce to . Holders of the Series C Preferred Stock have the option to convert
+each share into shares of common stock. During the year ended January 31, 2021, the Company subscribed shares of Series B Preferred
+Stock for cash proceeds of . The shares were issued during the year ended January 31, 2022. As of January 31, 2023 and 2022, there
+are shares of Series C Preferred Stock outstanding. 
+
+Series E preferred stock issued for services 
+
+On November 13, 2015, our board of directors designated
+ shares of our preferred stock as Series E Preferred Stock. The Series E Preferred Stock is subordinated to our common stock.
+It does not receive dividends and does not participate in equity distributions. As of January 31, 2023 and 2022, there are shares Series E Preferred Stock outstanding.
+Dividends, when, as and if declared by the Board of Directors, shall be paid out of funds at the time legally available for such purposes.
+As of January 31, 2023 and 2022, there are shares of Series E Preferred Stock outstanding. 
+
+Series F preferred stock issued for services 
+
+The Series F Preferred Stock is subordinated to our
+common stock and superior to all shares of Preferred Stock. It does not receive dividends and does not participate in equity distributions.
+ . During the year ended January 31, 2021, the Company issued
+ shares of Series F Preferred Stock to Sydney Jim, our CEO, in exchange for services. As of January 31, 2023 and 2022, there
+are shares of Series F Preferred Stock outstanding. 
+
+Series G convertible preferred stock 
+
+Fiscal Year Ended January 31, 2023 
+
+During the year ended January 31, 2023, the Company
+issued shares of Series G convertible preferred stock and received cash proceeds of . The Series G convertible preferred
+stock has a stated value of per share, carries no voting rights and earns dividends of per annum on the stated value of the stock.
+During the year ended January 31, 2023, the Company accrued dividends of , and the holder of the Series G convertible preferred
+stock converted shares and accrued dividends of into shares of common stock. 
+
+Fiscal Year Ended January 31, 2022 
+
+During the year ended January 31, 2022, the Company
+issued shares of Series G convertible preferred stock and received cash proceeds of . The Series G convertible preferred
+stock has a stated value of per share, carries no voting rights and earns dividends of per annum on the stated value of the stock.
+Dividends are payable on liquidation, redemption or conversion. The Series G convertible preferred stock is redeemable at the option of
+the Company during the first six months it is outstanding at a After
+the stock has been outstanding for six months, it is convertible into common stock of the Company at a 29 discount to the market value
+of the common stock. The Series G convertible preferred stock is included in mezzanine equity on the condensed consolidated balance sheet,
+because it is convertible at the stated value into a variable number of shares. The difference between the stated value of the
+stock and the proceeds received has been recognized as a deemed dividend to the preferred shareholders. During the year ended January
+31, 2022, the Company accrued dividends of . The holder of the Series G convertible preferred stock converted shares and
+accrued dividends of into shares of common stock. 
+
+Preferred Stock Subscription 
+
+On February
+23, 2022, the Company sold shares of preferred stock not yet designated for cash proceeds of . 
+
+Conversions to common stock convertible
+notes payable 
+
+February 10, 2022 
+
+February 22, 2022 
+
+March 18, 2022 
+
+March 18, 2022 
+
+April 25, 2022 
+
+April 26, 2022 
+
+June 8, 2022 
+
+June 21, 2022 
+
+January 20, 2023 
+
+Total 
+
+During the year ended January 31, 2022, the holders
+of our Series G preferred stock elected to preferred shares and accumulated dividends into shares of common stock as detailed below: 
+
+Date 
+ 
+ Preferred 
+Shares 
+Converted 
+ 
+ Amount 
+Converted 
+ 
+ Number of 
+Shares Issued 
+ 
+ March 4, 2021 
+
+April 19, 2021 
+
+July 26, 2021 
+
+July 27, 2021 
+
+July 28, 2021 
+
+August 17, 2021 
+
+August 17, 2021 
+
+September 20, 2021 
+
+September 20, 2021 
+
+November 18, 2021 
+
+November 30, 2021 
+
+December 22, 2021 
+
+Total 
+
+shares of Series G convertible
+preferred stock and of dividends into shares of common stock. 
+
+- 29 - 
+
+Table of Contents 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+Changes in Accountants 
+
+None. 
+
+Disagreements with Accountants 
+
+There were no disagreements with accountants on accounting
+and financial disclosures for the years ended January 31, 2023 and 2022. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We carried out an evaluation, under the supervision
+and with the participation of our management, including our principal executive officer and principal financial officer, of the effectiveness
+of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)). Based upon that evaluation, our
+principal executive officer and principal financial officer concluded that, as of the end of the period covered in this report, our disclosure
+controls and procedures were not effective to ensure that information required to be disclosed in reports filed under the Securities Exchange
+Act of 1934 is recorded, processed, summarized and reported within the required time periods and is accumulated and communicated to our
+management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding
+required disclosure. 
+
+Limitations on Systems of Controls 
+
+Our management, including our principal executive
+officer and principal financial officer, does not expect that our disclosure controls and procedures or our internal controls will prevent
+all error or fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance
+that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource
+constraints and the benefits of controls must be considered relative to their costs. Due to the inherent limitations in all control systems,
+no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. To
+address the material weaknesses identified in our evaluation, we performed additional analysis and other post-closing procedures in an
+effort to ensure our consolidated financial statements included in this annual report have been prepared in accordance with generally
+accepted accounting principles. Accordingly, management believes that the financial statements included in this report fairly present
+in all material respects our financial condition, results of operations and cash flows for the periods presented. 
+
+Management s Report on Internal Control over
+Financial Reporting 
+
+Our management is responsible for establishing and
+maintaining adequate internal control over financial reporting. Internal control over financial reporting is defined in Rule 13a-15(f)
+or 15d-15(f) promulgated under the Securities Exchange Act of 1934 as a process designed by, or under the supervision of, the company s
+principal executive and principal financial officers and effected by the company s board of directors, management and other personnel,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with accounting principles generally accepted in the United States of America and includes those policies and procedures
+that: 
+
+Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the company; 
+
+Provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with accounting principles generally accepted in the United States of America and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and 
+
+Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+
+- 30 - 
+
+Table of Contents 
+
+Because of its inherent limitations, internal control
+over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are
+subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies
+or procedures may deteriorate. All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those
+systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation.
+Because of the inherent limitations of internal control, there is a risk that material misstatements may not be prevented or detected
+on a timely basis by internal control over financial reporting. However, these inherent limitations are known features of the financial
+reporting process. Therefore, it is possible to design into the process safeguards to reduce, though not eliminate, this risk. 
+
+As of January 31, 2023, management assessed the effectiveness
+of our internal control over financial reporting based on the criteria for effective internal control over financial reporting established
+in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO and SEC guidance on conducting such assessments. Based on that evaluation, they concluded that, during the period covered by this report,
+such internal controls and procedures were not effective to detect the inappropriate application of US GAAP rules as more fully described
+below. This was due to deficiencies that existed in the design or operation of our internal controls over financial reporting that adversely
+affected our internal controls and that may be considered to be material weaknesses. 
+
+The matters involving internal controls and procedures
+that our management considered to be material weaknesses under the standards of the Public Company Accounting Oversight Board were: lack
+of a functioning audit committee; lack of a majority of independent members and a lack of a majority of outside directors on our board
+of directors; inadequate segregation of duties consistent with control objectives; lack of a formal written policy for the approval, identification
+and authorization of related party transactions; and management is dominated by a single individual. The aforementioned material weaknesses
+were identified by our Chief Executive Officer in connection with the review of our financial statements as of January 31, 2023. 
+
+Management believes that the material weaknesses set
+forth above did not have an effect on our financial results. However, management believes that the lack of a functioning audit committee
+and the lack of a majority of outside directors on our board of directors results in ineffective oversight in the establishment and monitoring
+of required internal controls and procedures, which could result in a material misstatement in our financial statements in future periods. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+PART
+III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE
+GOVERNANCE 
+
+Our directors will each serve until a successor is
+elected and qualified. Our officers are elected by the board of directors to a term of one (1) year and serve until their successor is
+duly elected and qualified, or until they are removed from office. The board of directors has no nominating, auditing or compensation
+committees. 
+
+The name, address, age and position of our president,
+secretary/treasurer, and director and vice president is set forth below: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Sydney Jim 
+54 Sugar Creek Center Blvd., Suite 200 
+Sugar Land, Texas 77478 
+ 
+ 37 
+ 
+ President, Secretary, Treasurer, Principal Executive Officer, 
+Principal Financial and Accounting Officer, and Sole Director 
+
+Mr. Jim was appointed as CEO and a member of the board
+of directors on September 26, 2018. 
+
+Family Relationships 
+
+There are no family relationships among our directors,
+executive officers or persons nominated to become executive officers or directors. 
+
+Involvement in Certain Legal Proceedings 
+
+During the past ten (10) years, none of our directors,
+persons nominated to become directors, executive officers, promoters or control persons was involved in any of the legal proceedings listen
+in Item 401 (f) of Regulation S-K. 
+
+- 31 - 
+
+Table of Contents 
+
+Arrangements 
+
+There are no arrangements or understandings between
+an executive officer, director or nominee and any other person pursuant to which he was or is to be selected as an executive officer or
+director. 
+
+Committees of the Board of Directors 
+
+Our board of directors has not established any committees,
+including an Audit Committee, a Compensation Committee, or a Nominating Committee, any committee performing a similar function. The functions
+of those committees are being undertaken by our sole director. Because we do not have any independent directors, our sole director believes
+that the establishment of committees of the Board would not provide any benefits to our company and could be considered more form than
+substance. 
+
+We do not have a policy regarding the consideration
+of any director candidates that may be recommended by our stockholders, including the minimum qualifications for director candidates,
+nor has our sole director established a process for identifying and evaluating director nominees. We have not adopted a policy regarding
+the handling of any potential recommendation of director candidates by our stockholders, including the procedures to be followed. Our
+sole director has not considered or adopted any of these policies, as we have never received a recommendation from any stockholder for
+any candidate to serve on our Board of Directors. Given our relative size and lack of directors and officers insurance coverage, we do
+not anticipate that any of our stockholders will make such a recommendation in the near future. 
+
+While there have been no nominations of additional
+directors proposed, in the event such a proposal is made, all current members of our Board will participate in the consideration of director
+nominees. 
+
+Our directors are not an audit committee financial
+expert within the meaning of Item 401(e) of Regulation S-K. In general, an audit committee financial expert is an
+individual member of the audit committee or Board of Directors who: 
+
+understands generally accepted accounting principles and financial statements, 
+
+is able to assess the general application of such principles in connection with accounting for estimates, accruals and reserves, 
+
+has experience preparing, auditing, analyzing or evaluating financial statements comparable to the breadth and complexity to our financial statements, 
+
+understands internal controls over financial reporting, and 
+
+understands audit committee functions 
+
+Our Board of Directors is comprised of Mr. Jim, Mr.
+Daniel Chen, Mr. Gilbert Fung, Mr. Cole Munger and Mr. Amar Raval. Mr. Jim is also an officer of the Company and is involved in our day-to-day
+operations. We would prefer to have an audit committee financial expert on our board of directors. As with most small, early stage companies
+until such time our company further develops its business, achieves a stronger revenue base and has sufficient working capital to purchase
+directors and officers insurance, the Company does not have any immediate prospects to attract independent directors. When
+the Company is able to expand our Board of Directors to include independent directors, the Company intends to establish an Audit Committee
+of our Board of Directors. It is our intention that one or more of these independent directors will also qualify as an audit committee
+financial expert. Our securities are not quoted on an exchange that has requirements that a majority of our Board members be independent
+and the Company is not currently otherwise subject to any law, rule or regulation requiring that all or any portion of our Board of Directors
+include independent directors, nor are we required to establish or maintain an Audit Committee or other committee of our
+Board of Directors. 
+
+WE DO NOT HAVE ANY INDEPENDENT DIRECTORS AND THE COMPANY
+HAS NOT VOLUNTARILY IMPLEMENTED VARIOUS CORPORATE GOVERNANCE MEASURES, IN THE ABSENCE OF WHICH, STOCKHOLDERS MAY HAVE MORE LIMITED PROTECTIONS
+AGAINST INTERESTED DIRECTOR TRANSACTIONS, CONFLICTS OF INTEREST, AND SIMILAR MATTERS. 
+
+Code of Business Conduct and Ethics 
+
+We have adopted a code of ethics meeting the requirements
+of Section 406 of the Sarbanes-Oxley Act of 2002. We believe our code of ethics is reasonably designed to deter wrongdoing and promote
+honest and ethical conduct; provide full, fair, accurate, timely, and understandable disclosure in public reports; comply with applicable
+laws; ensure prompt internal reporting of violations; and provide accountability for adherence to the provisions of the code of ethic. 
+
+- 32 - 
+
+Table of Contents 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+Mr. Jim is paid 100,000 per year for his services
+to the company. 
+
+The table below summarizes all compensation awards
+to, earned by, or paid to our named executive officer for all service rendered in all capacities to us for the fiscal years ended January
+31, 2023 and 2022: 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and Principal Position 
+ 
+ Fiscal Year 
+ 
+ Salary ) 
+ 
+ Bonus ) 
+ 
+ Stock Awards ) 
+ 
+ Option Awards ) 
+ 
+ Non-Equity Incentive Plan Compensation ) 
+ 
+ Nonqualified Deferred Compensation ) 
+ 
+ All Other Compensation ) 
+ 
+ Total ) 
+
+Sydney Jim 
+ 
+ 2023 
+ 
+ 105,649 
+
+105,649 
+ 
+ CEO and chairman 
+ 
+ 2022 
+ 
+ 97,834 
+
+97,834 
+ 
+ of the board 
+
+OUTSTANDING EQUITY AWARDS AT JANUARY, 31, 2023 
+
+Option Awards 
+ 
+ Stock Awards 
+ 
+ Name 
+ 
+ Number of Securities Underlying Unexercised Options (#) Exercisable 
+ 
+ Number of Securities Underlying Unexercised Options (#) Unexercisable 
+ 
+ Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned Options (#) 
+ 
+ Option Exercise Price ) 
+ 
+ Option Expiration Date 
+ 
+ Number of Shares of Stock That Have Not Vested (#) 
+ 
+ Market Value of Shares of Stock That Have Not Vested ) 
+ 
+ Equity Incentive Plan Awards: Number of Unearned Shares or Other Rights That Have Not Vested (#) 
+ 
+ Equity Incentive Plan Awards: market or Payout Value of Unearned Shares or Other Rights That Have Not Vested ) 
+ 
+ Sydney Jim 
+
+Employment Agreements Retirement Benefits 
+
+None of our executive officers is subject to employment
+agreements, but we may enter into such agreements with them in the future. We have no plans providing for the payment of any retirement
+benefits. 
+
+Director Compensation 
+
+Directors receive no compensation for serving on the
+Board. We have no non-employee directors. 
+
+Our Board of Directors is comprised of Sydney Jim.
+Mr. Jim also serves as the CEO of the Company. None of our directors has or had a compensation arrangement with the Company for director
+services, nor have any of them been compensated for director services since the Company s inception. 
+
+We reimburse our directors for all reasonable ordinary
+and necessary business related expenses, but we did not pay director s fees or other cash compensation for services rendered as
+a director in the year ended January 31, 2023 or 2022 to any of the individuals serving on our Board during that period. We have no standard
+arrangement pursuant to which our directors are compensated for their services in their capacity as directors. We may pay fees for services
+rendered as a director when and if additional directors are appointed to the Board of Directors. 
+
+Director Independence 
+
+We do not currently have any independent directors
+and we do not anticipate appointing additional directors in the foreseeable future. If we engage further directors and officers, however,
+we plan to develop a definition of independence. 
+
+- 33 - 
+
+Table of Contents 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+We do not currently have a stock option plan in favor
+of any director, officer, consultant, or employee of our company. No individual grants of stock options, whether or not in tandem with
+stock appreciation rights known as SARs or freestanding SARs have been made to our sole director and officer since our inception; accordingly,
+no stock options have been granted or exercised by our sole director and officer since we were founded. 
+
+The following table sets forth certain information
+as of June 6, 2023, with respect to the beneficial ownership of our common stock by each beneficial owner of more than 5 of the outstanding
+shares of common stock of the Company, each director, each executive officer named in the Summary Compensation Table and
+all executive officers and directors of the Company as a group, and sets forth the number of shares of common stock owned by each such
+person and group. Unless otherwise indicated, the owners have sole voting and investment power with respect to their respective shares. 
+
+Name of Beneficial Owner 
+ 
+ Number of Shares Beneficially Owned 
+ 
+ Percentage of Outstanding Common Stock Owned 
+ 
+ Sydney Jim, CEO (1) 
+ 
+ 20,000,000 
+ 
+ 2 
+
+All directors and executive officers as a group (1) person. 
+ 
+ 20,000,000 
+ 
+ 2 
+
+__________ 
+
+ (1) In addition to the common stock, Mr. Jim owns
+1,000,000 shares of the Company s Series F Preferred Stock which represents 100 of the outstanding Series F Preferred Stock. The
+Series F Preferred Stock carries 2/3 voting control of the Company. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS,
+AND DIRECTOR INDEPENDENCE 
+
+None. 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The following table summarize the fees billed to the
+Company by its independent accountants, M K CPAs PLLC, for the years ended January 31, 2023 and 2022: 
+
+2023 
+ 
+ 2022 
+ 
+ Audit Fees 
+
+37,500 
+
+18,600 
+
+Audit Related Fees (1) 
+
+Tax Fees (2) 
+
+All Other Fees (3) 
+
+Total Fees 
+
+37,500 
+
+18,600 
+
+Notes to the Accountants Fees Table: 
+
+(1) 
+ Consists of fees for assurance and related services by our principal accountants that are reasonably related to the performance of the audit or review of the Company s financial statements and are not reported under Audit Fees. 
+
+(2) 
+ Consists of fees for professional services rendered by our principal accountants for tax related services. 
+
+(3) 
+ Consists of fees for products and services provided by our principal accountants, other than the services reported under Audit Fees, Audit-Related Fees and Tax Fees above. 
+
+As part of its responsibility for oversight of the
+independent registered public accountants, the Board has established a pre-approval policy for engaging audit and permitted non-audit
+services provided by our independent registered public accountants. In accordance with this policy, each type of audit, audit-related,
+tax and other permitted service to be provided by the independent auditors is specifically described and each such service, together with
+a fee level or budgeted amount for such service, is pre-approved by the Board. All of the services provided by M K CPAs PLLC described
+above were approved by our Board. 
+
+- 34 - 
+
+Table of Contents 
+
+The Company s principal accountant did not engage
+any other persons or firms other than the principal accountant s full-time, permanent employees. 
+
+PART
+IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+3.1 
+ Articles of Incorporation (1) 
+ 
+ 3.2 
+ Bylaws (1) 
+ 
+ 21 
+ Subsidiaries of the Registrant (2) 
+ 
+ 31.1 
+ Rule 13a-14(a) Certification of Chief Executive Officer (2) 
+ 
+ 32.1 
+ Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 of Chief Executive Officer and Chief Financial Officer (2) 
+ 
+ 101.INS 
+ Inline XBRL Instance Document the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document. (2) 
+ 
+ 101.SCH 
+ Inline XBRL Taxonomy Extension Schema Document (2) 
+ 
+ 101.CAL 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document (2) 
+ 
+ 101.DEF 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document (2) 
+ 
+ 101.LAB 
+ Inline XBRL Taxonomy Extension Label Linkbase Document (2) 
+ 
+ 101.PRE 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document (2) 
+ 
+ 104 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). (2) 
+ 
+ ______________ 
+
+(1) 
+ Incorporated by reference to our Form S-1 filed with the Securities and Exchange Commission on February 24, 2011. 
+ 
+ (2) 
+ Filed or furnished herewith. 
+
+- 35 - 
+
+Table of Contents 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Neutra Corp. 
+
+Date: June 9, 2023 
+ BY: /s/ Sydney Jim 
+
+Sydney Jim 
+
+President, Secretary, Treasurer, Principal Executive Officer, 
+Principal Financial and Accounting Officer and Sole Director 
+
+- 36 - 
+
+<EX-21>
+ 2
+ ex_21.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+Exhibit 21 
+
+SUBSIDIARIES OF THE REGISTRANT 
+
+Diamond Anvil Designs, LLC, a Texas limited-liability corporation, is a wholly owned subsidiary
+of Neutra Corp. 
+
+Vivis Corporation, a Wyoming corporation, is a wholly owned subsidiary of Neutra Corp. 
+
+</EX-21>
+
+<EX-31>
+ 3
+ ex_31-1.htm
+ RULE 13(A)-14(A)/15(D)-14(A) CERTIFICATION
+
+Exhibit 31.1 
+
+RULE 13A-14(A)/15D-14(A) CERTIFICATION 
+
+I, Sydney Jim, certify that: 
+
+1. I have reviewed this annual report on Form 10-K
+for the year ended January 31, 2023 of Neutra Corp. 
+
+2. Based on my knowledge, this report does not contain
+any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. I am responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15-d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and
+procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+b. Designed such internal control over
+financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change
+in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter
+(the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over financial reporting; and 
+
+5. I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material
+weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+b. Any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: June 9, 2023 
+ 
+ BY: /s/ Sydney Jim 
+
+Sydney Jim 
+
+President, Secretary, Treasurer, Principal Executive Officer, Principal Financial
+ and Accounting Officer and Sole Director 
+
+</EX-31>
+
+<EX-32>
+ 4
+ ex_32-1.htm
+ SECTION 1350 CERTIFICATION
+
+Exhibit 32.1 
+
+SECTION 1350 CERTIFICATION 
+
+In connection with the annual report of Neutra Corp.
+(the Company on Form 10-K for the year ended January 31, 2023 as filed with the Securities and Exchange Commission (the
+ Report ), I, Sydney Jim, President of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ 
+ The Report fully complies with the requirements of Section 13(a)
+ or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ 
+ The information contained in the Report fairly presents, in
+ all material respects, the financial condition and result of operations of the Company. 
+
+Date: June 9, 2023 
+ 
+ BY: /s/ Sydney Jim 
+
+Sydney Jim 
+
+President, Secretary, Treasurer, Principal Executive Officer, Principal Financial
+ and Accounting Officer and Sole Director 
+
+A signed original of this written statement required
+by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within
+the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to
+the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-101.SCH>
+ 6
+ ntrr-20230131.xsd
+ INLINE XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ ntrr-20230131_def.xml
+ INLINE XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ ntrr-20230131_lab.xml
+ INLINE XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ ntrr-20230131_pre.xml
+ INLINE XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

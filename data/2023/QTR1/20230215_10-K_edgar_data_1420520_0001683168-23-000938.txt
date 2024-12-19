@@ -1,0 +1,2970 @@
+<Header>
+<FileStats>
+    <FileName>20230215_10-K_edgar_data_1420520_0001683168-23-000938.txt</FileName>
+    <GrossFileSize>4499196</GrossFileSize>
+    <NetFileSize>163955</NetFileSize>
+    <NonText_DocumentType_Chars>939458</NonText_DocumentType_Chars>
+    <HTML_Chars>1153218</HTML_Chars>
+    <XBRL_Chars>1003586</XBRL_Chars>
+    <XML_Chars>1127697</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-23-000938.hdr.sgml : 20230215
+<ACCEPTANCE-DATETIME>20230215160055
+ACCESSION NUMBER:		0001683168-23-000938
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		71
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230215
+DATE AS OF CHANGE:		20230215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Atomera Inc
+		CENTRAL INDEX KEY:			0001420520
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37850
+		FILM NUMBER:		23635313
+
+	BUSINESS ADDRESS:	
+		STREET 1:		750 UNIVERSITY AVENUE
+		STREET 2:		SUITE 280
+		CITY:			LOS GATOS
+		STATE:			CA
+		ZIP:			95032
+		BUSINESS PHONE:		408-442-5248
+
+	MAIL ADDRESS:	
+		STREET 1:		750 UNIVERSITY AVENUE
+		STREET 2:		SUITE 280
+		CITY:			LOS GATOS
+		STATE:			CA
+		ZIP:			95032
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MEARS TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	20071206
+
+</SEC-Header>
+</Header>
+
+ 0001683168-23-000938.txt : 20230215
+
+10-K
+ 1
+ atomera_i10k-123122.htm
+ FORM 10-K
+
+Table of Contents 
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended , 2022 
+
+or 
+
+TRANSITION
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from to 
+
+Commission file number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or Other jurisdiction of Incorporation or Organization) 
+ (I.R.S. Employer Identification Number) 
+
+, 
+
+ , 
+
+ (Address, including zip code, of registrant s
+principal executive offices) 
+
+Registrant s telephone number, including
+area code 
+
+Securities registered pursuant to Section 12(b)
+of the Act: 
+
+Title of each class 
+ Trading Symbol(s) 
+ Name of each exchange on which registered 
+
+Capital Market 
+
+Securities registered pursuant to Section 12(g)
+of the Act: 
+
+ None 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or 15(d) of the Exchange Act. Yes 
+
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. No 
+
+Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of
+this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+No 
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company (as
+defined in Rule 12b-2 of the Exchange Act): 
+
+Large accelerated filer 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging Growth Company 
+
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its
+audit report. Yes No 
+
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s
+executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act) Yes 
+
+State the aggregate market value of voting and non-voting
+common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter:
+ . Shares of the registrant s common stock held by each executive officer, director and holder of 10 or more of the
+outstanding common stock (as determined based on public filings) have been excluded in that such persons may be deemed to be affiliates.
+This calculation does not reflect a determination that certain persons are affiliates of the registrant for any other purpose. 
+
+As of February 8, 2023, there were shares
+of the registrant s common stock outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+The registrant intends to file a definitive proxy
+statement pursuant to Regulation 14A within 120 days after the end of the fiscal year ended December 31, 2022. Portions of such proxy
+statement are incorporated by reference into Part III of this Form 10-K. 
+
+ATOMERA INCORPORATED 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+ Business 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors 
+ 10 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 17 
+ 
+ Item 2. 
+ Properties 
+ 18 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 18 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 18 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 19 
+ 
+ Item 6. 
+ Reserved 
+ 20 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 20 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 24 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 25 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 45 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 45 
+ 
+ Item 9B. 
+ Other Information 
+ 45 
+ 
+ Item 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 45 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 46 
+ 
+ Item 11. 
+ Executive Compensation 
+ 46 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 46 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions and Director Independence 
+ 46 
+ 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 46 
+
+PART IV 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 47 
+ 
+ Item 16. 
+ Form 10-K Summary 
+ 48 
+
+Signatures 
+ 49 
+
+i 
+
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This Annual Report on Form 10-K
+contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the
+Securities Exchange Act of 1934, as amended, or the Exchange Act, that are intended to be covered by the safe harbor created
+by those sections. The words believe, may, will, potentially, estimate, 
+ continue, anticipate, intend, could, would, should, 
+ ongoing, project, plan, expect and similar expressions that convey uncertainty
+of future events or outcomes are intended to identify forward-looking statements. These forward-looking statements include, but are not
+limited to, statements concerning the following: 
+
+our future financial and operating results; 
+
+our intentions, expectations and beliefs regarding anticipated growth, technology adoption, market penetration and trends in our business; 
+
+the timing and success of our plan of commercialization; 
+
+our ability to operate our license and royalty-based business model; 
+
+the effects of market conditions on our stock price and operating results; 
+
+our ability to maintain our competitive technological advantages against competitors in our industry; 
+
+our ability to have our technology solutions gain market acceptance; 
+
+our ability to maintain, protect and enhance our intellectual property; 
+
+the effects of competition in our market and our ability to compete effectively; 
+
+costs associated with initiating and defending intellectual property infringement and other claims; 
+
+our expectations concerning our relationships with customers, potential customers, partners and other third parties; 
+
+the attraction and retention of qualified employees and key personnel; 
+
+future acquisitions of or investments in complementary companies or technologies; and 
+
+our ability to comply with evolving legal standards and regulations, particularly concerning requirements for being a public company. 
+
+These forward-looking statements
+are subject to a number of risks, uncertainties and assumptions, including those described in Risk Factors and elsewhere
+in this Annual Report and our subsequently filed Quarterly Reports on Form 10-Q. Moreover, we operate in a very competitive and rapidly
+changing environment, and new risks emerge from time to time. It is not possible for us to predict all risks, nor can we assess the impact
+of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially
+from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the forward-looking
+events and circumstances discussed in this Annual Report may not occur and actual results could differ materially and adversely from those
+anticipated or implied in our forward-looking statements. 
+
+You should not rely upon forward-looking
+statements as predictions of future events. Although we believe that the expectations reflected in our forward-looking statements are
+reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances described in the
+forward-looking statements will be achieved or occur. Moreover, neither we nor any other person assumes responsibility for the accuracy
+and completeness of the forward-looking statements. We undertake no obligation to update publicly any forward-looking statements for any
+reason after the date of this Annual Report to conform these statements to actual results or to changes in our expectations, except as
+required by law. 
+
+You should read this Annual Report
+and the documents that we reference in this Annual Report and have filed with the Securities and Exchange Commission as exhibits with
+the understanding that our actual future results, levels of activity, performance and events and circumstances may be materially different
+from what we expect. 
+
+ii 
+
+PART I 
+
+Item 1. 
+ Business 
+
+Company Overview 
+
+We are engaged in the business
+of developing, commercializing and licensing proprietary processes and technologies for the 550+ billion semiconductor industry. Our
+lead technology, named Mears Silicon Technology , or MST , is a thin film of reengineered silicon, typically 100
+to 300 angstroms (or approximately 20 to 60 silicon atomic unit cells) thick. MST can be applied as a transistor channel enhancement to
+CMOS-type transistors, the most widely used transistor type in the semiconductor industry. MST is our proprietary and patent-protected
+performance enhancement technology that we believe addresses a number of key engineering challenges facing the semiconductor industry.
+We believe that by incorporating MST, transistors can be made smaller, with increased speed, reliability and power efficiency. In addition,
+since MST is an additive and low-cost technology, we believe it can be deployed on an industrial scale, with machines commonly used in
+semiconductor manufacturing. We believe that MST can be widely incorporated into the most common types of semiconductor products, including
+analog, logic, optical and memory integrated circuits. 
+
+We do not intend to design or
+manufacture integrated circuits directly. Instead, we develop and license technologies and processes that we believe offer the designers
+and manufacturers of integrated circuits a low-cost solution to the industry s need for greater performance and lower power consumption.
+Our customers and partners include: 
+
+foundries, which manufacture integrated circuits on behalf of fabless manufacturers; 
+
+integrated device manufacturers, or IDMs, which are the fully-integrated designers and manufacturers of integrated circuits; 
+
+fabless semiconductor manufacturers, which are designers of integrated circuits that outsource the manufacturing of their chips to foundries; 
+
+original equipment manufacturers, or OEMs, that manufacture the epitaxial, or epi, machines used to deposit semiconductor layers, such as the MST film, onto silicon wafers; and 
+
+electronic design automation companies, which make tools used throughout the industry to simulate performance of semiconductor products using different materials, design structures and process technologies. 
+
+We currently generate revenue
+through licensing arrangements whereby our customers initially pay us a fee for an integration license that provides them the right to
+use MST technology (with MST film deposited for the customer by Atomera) in the manufacture of silicon wafers for internal testing and
+sampling. Our goal is for each integration license to be the first of a three-stage licensing process with the customer, with the first
+integration stage to be followed by one or more agreements granting them manufacturing and distribution licenses. Our manufacturing license
+grants our customer rights to manufacture MST-enabled products for internal use only and the grant typically occurs when we deliver our
+MST film recipe to the customer. A distribution license grants the customer the rights to manufacture MST-enabled products for sale to
+their customers. Agreements granting manufacturing and distribution licenses provide for substantially larger upfront license fee payments
+than the integration licenses, and distribution agreements will require licensees to make royalty payments to us based on the number and
+sales price of MST-enabled products they sell to their customers. We also generate revenue through engineering services provided to customers
+during their evaluation of MST technology. Starting in late 2020, we have been providing our MSTcad software which enables customers to
+simulate the effects of MST on their products using Synopsys, Inc. s technology computer-aided design, or TCAD, software. 
+
+Starting in 2019, we began to
+develop deeper relationships with several potential large scale customers who were evaluating MST across multiple manufacturing processes
+and product lines. Accordingly, we have begun engaging with certain customers under an engagement format called a joint development agreement,
+or JDA, to certain customers. Our JDAs are customized to each customer s goals and they include development, technology transfer,
+manufacturing and licensing components. 
+
+1 
+
+In January 2021, we entered into
+a JDA with a leading semiconductor provider for integration of our MST technology into their manufacturing process. Under this JDA, we
+granted our customer a paid manufacturing license pursuant to which the customer installed the recipe for our MST film into a tool in
+their fab and was authorized to fabricate semiconductor wafers incorporating MST for internal use. This JDA also includes development
+milestones that we achieved in February 2022, resulting in additional revenue to us. Although this JDA does not confer commercial distribution
+rights, we believe that successful achievement of the JDA milestones is a significant step toward commercialization, as it should facilitate
+progress toward integrating MST into one or more of our customer s multiple production lines and thus provide opportunities for
+additional license revenues and potential royalty streams. In April 2022, we entered into a JDA with a major semiconductor foundry which
+contains technical targets which, if achieved, should result in a paid licenses and engineering services revenue. Although this JDA does
+not confer commercial distribution rights, we believe that achievement of the JDA s technical objectives would be a significant
+step toward commercialization. 
+
+In September and October 2018,
+respectively, we entered into separate integration license agreements with Asahi Kasei Microdevices, or AKM, and STMicroelectronics, or
+ST, both of which are leading IDMs. In October 2019, we entered into an integration license agreement with a leading fabless RF semiconductor
+provider. In February 2022, we entered into an integration license agreement with a semiconductor foundry. Under the integration license
+agreements, these customers have paid us for the right to evaluate MST technology, which is integrated onto their semiconductor wafers.
+We deposit MST onto the customers wafers and the customer has the right under the license agreement to complete the manufacturing
+process, which enables them to evaluate our technology and to provide limited samples to their customers. These agreements do not grant
+our customers the right to deposit MST at their site or to sell products incorporating MST. 
+
+To date, initial application of
+our MST technology has been for power devices, RFSOI devices and advanced CMOS integrated circuits. CMOS integrated circuits are the most
+widely used type of integrated circuits in the semiconductor industry. As applied to CMOS-type transistors, MST functions as a transistor
+channel enhancement. We believe MST has the potential to overcome the key challenges found in the implementation of next generation nano-scale
+semiconductor devices incorporating CMOS type transistors, namely enhancing drive current, reducing gate leakage and reducing variability.
+In addition, we believe that MST has the potential to deliver these benefits through a single technology that requires relatively minor
+modifications to the industry-standard CMOS manufacturing flow. Consequently, we believe that by incorporating MST, designers can make
+transistors with increased speed, reliability and energy efficiency, without significantly altering the current fabrication process or
+cost of production. 
+
+We were organized as a Delaware
+limited liability company under the name Nanovis LLC on November 26, 2001. On March 13, 2007, we converted to a Delaware corporation under
+the name Mears Technologies, Inc. On January 12, 2016, we changed our name to Atomera Incorporated. Shares of our common stock are listed
+on the NASDAQ Capital Market under the symbol ATOM . 
+
+Industry Overview 
+
+Semiconductors, Generally 
+
+Recent years have seen a remarkable
+proliferation of consumer and commercial products, especially in wireless, automotive and high-speed devices. Cloud computing and artificial
+intelligence technologies have provided people with new ways to create, store and share information. At the same time, the increasing
+use of electronics in cars, buildings, appliances and other consumer products is creating a broad landscape of smart devices
+such as wearable technologies and The Internet of Things. These trends in both enterprise and consumer applications are driving increasing
+demand for integrated circuits and systems with greater functionality and performance, reduced size, and much less power consumption as
+key requirements. The COVID-19 pandemic accelerated trends toward remote work, cloud computing and mobile devices. These trends coincided
+with the rollout of 5G cellular networks and 5G-enabled devices, growing popularity of augmented and virtual reality technologies and
+the growth in popularity of cryptocurrencies, all of which require high levels of processing power. 
+
+These developments depend, in
+large part, on integrated circuits, or microchips, which are sets of electronic circuits on a single chip of semiconductor material, normally
+silicon. It is common for a single semiconductor chip to combine many components (processor, communications, memory, custom logic, input/output)
+resulting in highly complex chip designs. Transistors are the building blocks of integrated circuits and the most complex semiconductor
+chips today contain more than a billion transistors, each of which may have features that are much less than 1/1,000 th the
+diameter of a human hair. 
+
+2 
+
+The most widely used transistors
+in semiconductor chips today are based on CMOS technology. Among its many attributes, CMOS allows for a higher density of transistors
+on a chip and lower power usage than non-CMOS technologies. 
+
+The Pursuit of Increased Semiconductor Performance 
+
+For years, the semiconductor industry
+was able to almost double the number of transistors it could pack into a single microchip about every two years, a rate of improvement
+commonly known as Moore s Law. The semiconductor industry uses the term node to describe the minimum
+line width or geometry on a semiconductor chip, expressed in nanometers, or nm, for today s technologies. Historically, smaller
+nodes enables more densely packed designs that produced less costly products on a per-transistor basis. Frequently, smaller nodes also
+correspond to an improvement in chip performance, making them the mile markers of Moore s Law, with each node marking a new generation
+of chip-manufacturing technology. 
+
+Until recently, the industry succeeded
+at maintaining the rate of improvement predicted by Moore s Law by scaling the key transistor parameters, such as shrinking feature
+sizes and reducing operating voltages, thereby allowing more transistors to be packed onto a single microchip. This trend was facilitated
+in large part by the development of CMOS technologies. However, a discontinuity in the rate of improvement delivered by scaling appeared
+when transistor technology reached feature sizes below 100 nanometers. The industry responded with advanced materials to supplement the
+ongoing geometry shrinks. Some of those materials advances included strained silicon, Silicon-on-Insulator and High-K/Metal Gate. Semiconductor
+makers also attempted to obtain performance improvements through more exotic design architectures which frequently required material innovations
+to support their manufacturability and reliability. 
+
+The designers and manufacturers
+of integrated circuits and systems our targeted customers are facing intense pressure to deliver innovative products while
+constantly reducing their time-to-market and prices. In other words, innovation in chip and system design today often hinges on better,
+sooner and cheaper. We believe that the semiconductor industry has accepted that moving forward in the nano-era will require adoption
+of new innovations that extend the scaling formula, including those based on the use of new engineered materials, a market opportunity
+our MST technology seeks to address. Because shrinking geometries at the smaller nodes incurs higher capital and manufacturing costs,
+only a limited number of companies can afford to continue investing in those nodes. We believe these constraints will cause semiconductor
+designers and manufacturers to turn to engineered materials, like MST, to solve this problem. 
+
+Vertical Disaggregation of the Industry 
+
+In trying to keep research and
+development costs manageable, while attempting to satisfy the demand for increasingly complex semiconductors, certain designers and manufacturers
+of integrated circuits have transitioned to a more open innovation model in which competing companies and third-party providers actively
+collaborate to address performance issues through various alliances, joint ventures, and licensing of externally developed technology. 
+
+Historically, most semiconductor
+companies were vertically integrated. They designed, fabricated, packaged and tested their semiconductors using internally developed software
+design tools and manufacturing processes and equipment. As the cost and skills required for designing and manufacturing complex semiconductors
+have increased, the semiconductor industry has become disaggregated, with companies concentrating on one or more individual stages of
+the semiconductor development and production process. This disaggregation has fueled the growth of fabless semiconductor companies, design
+tool vendors, semiconductor equipment manufacturers, third-party semiconductor manufacturers (or foundries), semiconductor assembly, package
+and test companies, and intellectual property companies that develop and license technology to others. 
+
+While specialization has enabled
+greater development and manufacturing efficiency, it has also created an opportunity for licensing companies, such as Atomera, that develop
+and license technology to meet fundamental, industry-wide challenges. These intellectual property companies have been able to gain broad
+adoption of their technology throughout the industry by working with companies within the semiconductor supply chain to evaluate and integrate
+their technology. Manufacturers and designers of semiconductors increasingly find it more cost-effective to license technologies from
+IP-based companies than to develop processes internally that are not their core competence. We believe this collaboration and integration
+of externally-developed IP benefits semiconductor companies by enabling them to bring new technology to market faster and more cost-effectively. 
+
+3 
+
+Applications of Mears Silicon Technology 
+
+The initial applications of MST
+are for power devices, RFSOI devices and advanced CMOS integrated circuits. We offer MST-SP, which is a type of MST-enabled power device
+that offers what we believe to be industry-leading on-resistance (also referred to as Rsp) and reduced footprint (enabling smaller devices).
+We believe that the MST-SP devices will have immediate application in power management integrated circuits (or PMICs) which are pervasive
+in hand-held, battery-powered devices and elsewhere. We also believe that insertion of MST can provide higher current and improved control
+of dopants, leading to improved device scaling. 
+
+We believe MST has the potential
+to overcome the key challenges found in the implementation of next generation nano-scale semiconductor devices incorporating CMOS-type
+transistors, namely enhancing drive current, reducing gate leakage and reducing variability. In addition, we believe that MST has the
+potential to deliver these benefits through a single technology that requires relatively minor modifications to the industry standard
+CMOS manufacturing flow. Consequently, we believe that by incorporating MST, designers can make transistors with increased speed, reliability
+and energy efficiency, without significantly altering the current fabrication process or cost of production. 
+
+As illustrated by the accompanying
+diagram, MST is a silicon-on-silicon solution that provides multiple potential benefits through a relatively simple modification
+to the standard CMOS manufacturing flow. MST improvements are delivered through our proprietary and patent-protected approach that is
+based on the quantum mechanics of modern deep sub-micron devices. The MST film allows carriers (electrons and holes) to flow more freely
+in the plane of the transistor, thereby enhancing drive current, while reducing carrier flow or leakage in the transverse
+direction. Our MST film can also create more controlled doping profiles, which allow dopants to be held in the desired locations, thereby
+enabling optimized device designs, lower variability and improved production yield. 
+
+4 
+
+We believe the enhancements enabled
+by MST, as demonstrated in simulations and on our own and our customers test chips, are approximately equivalent to the enhancements
+enabled by one-half to a full node of improvement and, therefore, can extend the productive life of capital equipment and wafer fabrication
+facilities. The extent of MST-enabled enhancement depends on the device technology and application. We believe that MST compares favorably
+to other alternatives for enhancing performance of CMOS-type transistors as follows: 
+
+Strained Silicon and Silicon-on-Insulator, or SOI : Unlike strained silicon or SOI, we believe that MST delivers multiple benefits in a single film in a cost-effective manner, including enhanced transistor drive current, reduced leakage, and reduced variability. Also, strained silicon tends to lose much of its effectiveness below 45nm, constraining its scalability, while our results to date indicate that the MST thin-film approach is scalable to the leading-edge nodes used for three-dimensional transistor devices using FinFET and gate-all-around structures. Based on our own research and development and third-party evaluations, we believe that MST can deliver improved cost-benefit performance, in most cases in an additive manner, compared to already successful strain technologies, such as dual stress liners and SiGe. Work with our foundry partners and fabless licensee shows potential for additive improvements on specialized SOI wafers used to manufacture radio frequency, or RF, devices, which are also referred to as RFSOI wafers. 
+
+High-K/Metal Gate, or HKMG : Unlike HKMG, MST is silicon-based. As a silicon-on-silicon solution, MST does not require new materials or equipment, which in our opinion makes it much easier and less costly to adopt than HKMG for devices not requiring ultrathin gate dielectrics. For devices with HKMG, lab tests and simulations indicate that MST benefits transistor performance and variability in a similar manner to the benefits observed in non-HKMG devices. Testing conducted with our university research partners indicates that MST has the potential to provide additive performance benefits in devices using HKMG. 
+
+Because of its physical characteristics
+in the channel region of the transistor, we believe MST has the further benefit of being complementary and additive to the performance-enhancing
+technologies noted above, making MST broadly applicable across multiple devices and process flows to meet a wide variety of customer design
+objectives. Given the costs of moving to more advanced technologies, we believe one of the most compelling aspects of MST is its cost/benefit
+profile. We believe that MST will provide a lower cost of production due to our technology s potential to reduce die size while
+leveraging existing manufacturing tools, thereby providing chip makers with increased performance at all process nodes with significantly
+fewer disruptions to manufacturing processes and less incremental cost than other advanced technologies. 
+
+We believe MST can improve transistor
+performance in a variety of device types including microprocessors; logic products; analog, RF, and mixed-signal devices; as well as DRAM,
+SRAM, and other memory integrated circuits. We have therefore developed different MST product options that can be applied to the critical
+industry segments and technology nodes. As of the date of this Annual Report, we have done technology simulation work with universities
+and leading industry players at nodes from 180nm to 5nm. We have also simulated devices with leading industry research facilities and
+built and electrically verified test chips using MST in customer manufacturing facilities which have produced results that demonstrate
+many of the benefits described above. 
+
+Development Partnerships 
+
+TSI Semiconductors. Since
+2016 we have worked under a Master R D Services Agreement with TSI Technology Development Commercialization Services LLC (or
+TSI). Under this agreement, TSI provides us with engineering services in their semiconductor manufacturing facility in California. By
+running tests in TSI's facility, which we utilize to run tests on a contract basis, we are able to build and test devices that incorporate
+MST much more quickly than when we test in our potential customers' facilities. We believe this arrangement enables faster product development,
+test, and integration, and should accelerate our time to market. 
+
+5 
+
+Synopsys . Since 2017 we
+have worked in collaboration with Synopsys, Inc., a provider of the most broadly used TCAD simulation software in the semiconductor industry.
+As a result of our collaboration, Synopsys software now supports modeling of MST, which enables semiconductor manufacturers and
+designers to model the interaction of MST with other process steps. In December 2020, we announced availability of our MSTcad TM 
+software which runs on Synopsys Sentaurus TCAD software and enables semiconductor engineers to simulate the benefits of integrating
+MST in a variety of devices. We continually refine our MSTcad software by calibrating our models against measured silicon results and
+we regularly release updates to that software. We believe these capabilities are helping us focus integration efforts for potential customers
+more quickly on those areas most likely to deliver benefits, thus shortening test cycles and, we believe, accelerating the time to a license
+decision. In the last three years, semiconductor fabs have generally been running at high capacity to keep up with industry supply shortages
+which has made it challenging for us to run wafers through our customers fabrication lines. MSTcad has been increasingly used by
+existing and potential customers to identify applications where MST can have the greatest benefit, without requiring access to customer
+fabs. 
+
+Epi Tool Lease. In August
+2021 we completed the acceptance process of an Applied Materials Centura epitaxial deposition reactor which handles both 200mm and 300mm
+wafers. We utilize this tool under a five-year lease and perform deposition on both customer and internal R D wafers. The terms of
+our tool lease include the lessor s maintenance and support as well as access to a clean-room with advanced cleaning and inspection
+tools. 
+
+MST Commercialization 
+
+We do not intend to design or
+manufacture integrated circuits directly. Instead, we develop and license technologies and processes that offer the designers and manufacturers
+of integrated circuits increased performance at a lower cost than currently-available alternatives. Our customers and partners include
+foundries, integrated device manufacturers, or IDMs, fabless semiconductor manufacturers, OEMs that manufacture epitaxial deposition,
+or EPI, machines, and electronic design automation software companies, such as Synopsys. 
+
+Our business model is to enter
+into licensing arrangements whereby foundries and IDMs pay us a license fee for their use of MST technology in the manufacture of silicon
+wafers as well as a royalty for each silicon wafer (in the case of foundries) or device (in the case of IDMs) that they sell that incorporates
+MST. In the case of fabless semiconductor licensees, our strategy is to charge a royalty for each device they sell that incorporates our
+MST technology. The primary beneficiaries of our commercialization activities are the IDMs and fabless semiconductor manufacturers, as
+they produce and distribute the integrated circuit devices which are enhanced when they incorporate MST technology. The foundries and
+OEMs also play an important role in our commercialization strategy because these parties traditionally seek to provide new and improved
+technologies to their customers the fabless semiconductor manufacturers in the case of the foundries, and the IDMs and foundries
+in the case of the OEMs. 
+
+In the semiconductor industry,
+new technologies are vetted thoroughly and carefully by early adopters who are trying to achieve differentiation over competitors. After
+the early adopters prove the technology in production, it then tends to be broadly and relatively quickly adopted by followers 
+who need to overcome their competitive disadvantage. Due to the cost and complexity of semiconductor manufacturing processes and the desire
+to maintain a stable and repeatable process flow, new technologies tend to be adopted broadly by the industry and, wherever possible,
+exploited for several generations until they are fully optimized and adoption costs are fully absorbed. 
+
+Although each customer or potential
+customer follows an evaluation and adoption model that is particular to its business model and product focus, our engagements generally
+consist of the following phases: 
+
+1. 
+ Engineering Planning: In this phase we engage in a technical exchange of information under a non-disclosure agreement to understand the customer s manufacturing process and to determine how best to integrate the deposition of MST film onto the customer s semiconductor wafers. 
+
+2. 
+ Set-up for MST Integration: We agree upon the technical evaluation details, including the expected rounds of evaluation testing, the parameters to be tested and allocation of costs. Customers provide us with wafers for our internal processing and physical characterization. Some customers work together with us to develop a TCAD model showing possible results of MST integration with their particular manufacturing process. 
+
+6 
+
+3. 
+ MST Integration. Typically, this phase includes several rounds of tests that involve building test devices on a semiconductor wafer using our MST technology within the customer s manufacturing process flow. In this phase, we perform the MST deposition on customer wafers, so wafers must be shipped back and forth between the customer and Atomera. We believe that this phase will continue to be the longest in our customer engagement process because integrating into a customer s flow frequently requires us to conduct subsequent tests based on the result of earlier test runs. This phase also requires investment of time and resources by customers. In order to progress beyond this phase, we must demonstrate benefits at a commercially significant level. It is difficult for both customers and for Atomera to estimate the amount of time a customer will be in the integration phase. 
+
+4. 
+ Process Installation . Prior to enabling a customer to install and use MST technology on epitaxial deposition machines in their own fab, we require execution of a manufacturing license which grants rights limited to manufacturing MST-enabled products for internal R D and qualification, but does not give the customer the right to distribute or sell products that use MST. The JDA that we announced in January 2021 granted a manufacturing license to our customer enabling the customer to install the MST film recipe in an epi tool in their fab for its internal use, at which point this customer entered Phase Four. 
+
+5. 
+ Technology qualification . After installation of MST in the fab, the customer will conduct additional testing to ensure manufacturing reliability under accelerated test conditions that simulate volume production. Upon successfully completing the qualification phase, products can be built and shipped using this manufacturing process. We have not had any customer move into Phase Five as of the date of this Annual Report. 
+
+6. 
+ Production . We expect that our license agreements will provide that upon commencement of sales of wafers or devices built using MST, our customer will pay us a royalty that will be a percentage of the selling price of the wafer or device, depending on the type of customer. 
+
+While the above steps describe
+a model customer engagement, we have engaged with some customers in ways that do not follow this precise order. JDAs are an example of
+an engagement format that may combine engineering service, development, manufacturing, process optimization and other joint activities
+that do not follow the order described above. In addition, we may from time to time enter into evaluation license agreements with certain
+customers under which they may install MST in their fabs to run internal tests only and not for commercial use or distribution. Other
+potential customers may run tests on wafers containing MST prior to further engagement with us to integrate MST into their manufacturing
+process. 
+
+We believe that our success is
+dependent upon the adoption of our MST technology through to commercial production by at least one IDM, foundry, or fabless semiconductor
+manufacturer. As of the date of this Annual Report, MST was in the integration phase (Phase Three as described above) on 14 different
+engagements and one engagement in Phase Four (process installation). Subject to process and subsequent product qualifications that demonstrate,
+in commercial scale production, the enhancements we believe our MST technology offers, including increased speed, reliability and energy
+efficiency, we expect that one or more of these companies will obtain licenses from us to take our MST technology to commercial production. 
+
+We are also working with OEMs
+on process development and equipment optimization to ensure that MST can be reliably and predictably deposited using their manufacturing
+tools. We have successfully deposited MST using tools made by each of the leading epitaxial deposition equipment suppliers and we believe
+that if we are successful in our commercialization efforts, these tool OEMs will promote the incorporation of our MST technology as an
+option to their standard offering. By doing so, we believe they will simultaneously stimulate additional sales of their capital equipment
+and encourage more customers to adopt MST. 
+
+Through our collaboration with
+Synopsys, we enable potential customers of MST to more quickly assess the potential benefits of MST to their semiconductor devices. By
+creating TCAD software models, we can work with manufacturers to assess which of their product types would most benefit from MST. We believe
+this modeling capability has shortened the time required for us to engage with new potential customers and should ultimately lead to a
+faster decision process by the customer regarding licensing MST. 
+
+We market our MST technology directly
+to the semiconductor industry through our significant industry contacts and relationships. We also sponsor academic research and participate
+in industry conferences and associations. In certain foreign jurisdictions, we engage sales representatives to assist us in establishing
+relationships with local customers. 
+
+7 
+
+Customers 
+
+In January 2021, we entered into
+a JDA with a leading semiconductor provider for integration of our MST technology into their manufacturing process. Under this JDA we
+granted our customer a paid manufacturing license pursuant to which the customer installed the recipe for our MST film into a tool in
+their fab and was authorized to fabricate semiconductor wafers incorporating MST for internal use. This JDA also includes development
+milestones that we achieved in February 2022, resulting in additional revenue to us. Although this JDA does not confer commercial distribution
+rights, we believe that successful achievement of the JDA milestones is a significant step toward commercialization as it should facilitate
+progress toward integrating MST into one or more of our customer s multiple production lines and thus provide opportunities for
+additional license revenues and potential royalty streams. In April 2022, we entered into a JDA with a major semiconductor foundry. 
+
+In September and October 2018,
+respectively, we entered into separate integration license agreements with AKM and ST, both of which are leading IDMs. In October 2019
+we entered into an integration license agreement with a leading fabless RF semiconductor provider. In February 2022 we entered into an
+integration license agreement with a semiconductor foundry. Under the integration license agreements, these customers have each agreed
+to pay us for the right to evaluate MST technology which is integrated onto their semiconductor wafers. We deposit MST onto the customers 
+wafers and the customer has the right under the license agreement to complete the manufacturing process which enables them to evaluate
+our technology. These agreements do not grant the customer the right to deposit MST at their site or to sell products incorporating MST
+and all of our licensees are in our Phase Three (MST Integration). 
+
+We intend that each integration
+license agreement will be the first of a three-stage licensing process with each of AKM, ST, our RF licensee and our foundry licensee,
+to be followed by manufacturing and distribution license agreements with each of them. Those manufacturing and distribution license agreements,
+if executed, will allow each licensee to manufacture or in the case of our RF licensee, to have its foundry partner manufacture
+ MST-enabled products and to sell them to their customers. We expect that the manufacturing and distribution agreements will provide
+for substantially larger upfront license fee payments than the integration license fees and will require the respective licensees to make
+royalty payments to us based on the number and sales price of MST-enabled products they sell to their customers. However, our ability
+to enter into royalty-based manufacturing and distribution agreements with our licensees under our integration license agreements will
+depend, in large part, on the performance of devices they build using MST and the successful integration of our MST technology on a high-volume
+production scale. There can be no assurance that our MST technology will deliver the performance, power, cost reduction or other requirements
+our customers seek for their products or that the integration of our technology with our customers manufacturing process will be
+successful in high volume. In addition, even if our MST technology meets our customers technical objectives one or more of our
+licensees may decide, for reasons unrelated to the price or performance of our MST technology, not to enter into manufacturing and distribution
+license agreements. 
+
+Competition 
+
+Our lead product, MST, is a proprietary
+and patent-protected performance enhancement technology that we believe addresses a number of key engineering challenges facing the semiconductor
+industry. Historically, development of a new material technology for the semiconductor industry has taken 10-20 years from conceptualization
+to volume production. Atomera s MST technology has followed a similar trajectory, from early patents, publications and presentations
+to the industry to early evaluations and installation at customers. 
+
+We compete with IDMs, OEMs, foundries,
+fabless manufacturers of semiconductors and semiconductor IP licensing companies for the development and commercialization of technologies
+that improve the performance of semiconductors. Historically, when a new fabrication process proves to be a low-cost improvement to the
+standard fabrication process, and is additive, rather than in place of other performance technologies, it has been successfully adopted
+industry-wide. Good examples of such advances have been chemical mechanical polishing (or CMP), strained silicon and High-K/Metal-Gate.
+We believe that MST has the potential to be one of these low-cost additive technologies, in which case MST would not be subject to significant
+direct competition from other technologies. We are not aware of another technology being offered in the market which provides the same
+technical benefits as MST. Nevertheless, in some cases the engineering teams in our customers, who are developing their own process improvements,
+may view MST as competition to their internally-developed solutions. 
+
+8 
+
+Research and Development 
+
+The principal focus of our research
+and development efforts is on enabling existing and prospective customers to integrate MST into their manufacturing processes and enable
+them to commercialize MST-enabled semiconductor products. We also dedicate research and development resources to evolving and expanding
+our technology to address new process technologies in the semiconductor industry roadmap. Our research and development is conducted internally,
+but we work closely with third parties in the semiconductor industry to evaluate and qualify our technology for incorporation into semiconductor
+products and fabrication equipment. During the years ended December 31, 2022 and 2021, we incurred research and development expenses of
+approximately 10.0 million and 8.8 million, respectively. 
+
+We believe that our success depends
+in part on our ability to achieve the following in a cost-effective and timely manner: 
+
+enable customers to integrate MST into their products; 
+
+develop new technologies that meet the changing needs of the semiconductor industry; 
+
+improve our existing technologies to enable growth into new application areas; and 
+
+expand our intellectual property portfolio. 
+
+Intellectual Property Rights 
+
+We regard the protection of our
+technologies and intellectual property rights as an important element of our business operations and crucial to our success. We rely primarily
+on a combination of patent laws, trade secret laws, confidentiality procedures, and contractual provisions to protect our proprietary
+technology. We require our employees, consultants, and advisors to enter into confidentiality agreements. These agreements provide that
+all confidential information developed or made known to the individual during the course of the individual s relationship with us
+is to be kept confidential and not disclosed to third parties except under specific circumstances. In the case of our employees and consultants,
+the agreements provide that all of the technology that is conceived by the individual during the course of employment is our exclusive
+property. The development of our technology and many of our processes are dependent upon the knowledge, experience, and skills of key
+scientific and technical personnel. 
+
+As of December 31, 2022, we have
+been granted 126 patents in the U.S. and 107 abroad. Our core patents relating to MST cover materials, physical structures and manufacturing
+processes. Our core patents relating to MST were filed beginning on August 22, 2003 and have grant dates beginning on December 14, 2004.
+Our MST patent portfolio begins to expire commencing August 22, 2023. Our patent portfolio has grown significantly over the last five
+years and during 2022 we were issued 20 new patents worldwide, an annual increase of 9 . We believe our core patents adequately block
+competitors from using our MST technology without our approval and our patent activity over the past five years has focused on extending
+the scope of our portfolio through a variety of means, including but not limited to patenting new structures, materials and methods uniquely
+enabled by MST technology. However, there can be no assurance that one or more of our patents would survive a legal challenge to their
+scope, validity, or enforceability, or provide significant protection for us. The failure of our patents, or the failure of trade secret
+laws, to adequately protect our technology, might make it easier for our competitors to offer similar products or technologies or for
+our potential customers to build products with methods and materials similar to MST without paying us a license fee. In addition, patents
+may not issue from any of our current or future applications. 
+
+We also hold registered trademarks
+in the United States for the marks Atomera and MST and in China for the mark Mears . We have
+applied with the U.S. Patent and Trademark Office for the registration of the mark MSTcad in the United States. 
+
+9 
+
+Employees and Human Capital Management 
+
+As of the date of this Annual
+Report, we employ 21 people on a full-time basis. 
+
+Our human capital resources objectives
+include, as applicable, identifying, recruiting, retaining, incentivizing and integrating our existing and new employees. The principal
+purposes of our equity incentive plans are to attract, retain and reward personnel through the granting of stock-based compensation awards
+that align their compensation with our business objectives and with creation of shareholder value. 
+
+Available Information 
+
+Our website is located at www.atomera.com.
+The information on or accessible through our website is not part of this Annual Report on Form 10-K. Copies of our Annual Reports on Form
+10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section
+13(a) or 15(d) of the Exchange Act are available free of charge, on our investor relations website as soon as reasonably practicable after
+we file such material electronically with or furnish it to the Securities and Exchange Commission, or the SEC. A copy of this Annual Report
+on Form 10-K is also located at the SEC s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the
+operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. The SEC also maintains an internet site that
+contains reports and other information regarding our filings at www.sec.gov. 
+
+Item 1A. 
+ Risk Factors 
+
+We are subject to various risks that may harm our
+business, prospects, financial condition and results of operation or prevent us from achieving our goals. If any of these risks occur,
+our business, financial condition or results of operation may be materially adversely affected. In such case, the trading price of our
+common stock could decline and investors could lose all or part of their investment. 
+
+Risks Related to Our Business 
+
+We only recently commenced
+limited revenue producing operations, so it is difficult for potential investors to evaluate our business. To date, our operations
+have consisted of technology research and development, testing, and joint development work with customers, potential customers and strategic
+partners. Our business model is to derive our revenue primarily from license fees and royalties, but to date we have only recognized minimal
+engineering services and licensing revenues. Our limited operating history makes it difficult to evaluate the commercial value of our
+technology or our prospective operations. As an early-stage company, we are subject to all the risks inherent in the initial organization,
+financing, expenditures, complications and delays in a new business, including, without limitation: 
+
+the timing and success of our plan of commercialization and the fact that we have not entered into a royalty-based manufacturing or distribution license with a potential customer; 
+
+our ability to replicate on a large commercial scale the benefits of our MST technology that we have demonstrated in preliminary testing; 
+
+our ability to execute joint development agreements with potential customers; 
+
+our ability to structure, negotiate and enforce license agreements that will allow us to operate profitably; 
+
+our ability to advance the licensing arrangements with our initial integration licensees, Asahi Kasei Microdevices, STMicroelectronics, our foundry licensee and our RF licensee, to royalty-based manufacturing and distribution licenses; 
+
+our success in capitalizing on the achievement of the technical milestones in our first JDA in order to enter into one or more distribution and royalty agreements with business units of that JDA customer as well as our success in meeting technical milestones in the JDA with our second JDA customer; 
+
+10 
+
+our ability to successfully operate, the epitaxial deposition reactor for processing 300mm wafers, together with supporting equipment, that we recently began using for internal research and development and to support customer activities; 
+
+our ability to protect our intellectual property rights; and 
+
+our ability to raise additional capital as and when needed. 
+
+Investors should evaluate an investment
+in us in light of the uncertainties encountered by developing companies in a competitive environment. There can be no assurance that our
+efforts will be successful or that we will ultimately be able to attain profitability. 
+
+We have a history of significant
+operating losses and anticipate continued operating losses for at least the near term. For the years ended December 31, 2022 and
+2021, we have incurred net losses of approximately 17.4 million and 15.7 million, respectively, and our operations have used approximately
+ 12.5 million and 12.4 million of cash, respectively. As of December 31, 2022, we had an accumulated deficit of approximately 183.3
+million. We will continue to experience negative cash flows from operations until at least such time as we are able to secure manufacturing
+and distribution license agreements with one or more foundries, IDMs or fabless semiconductor manufacturers. While management will endeavor
+to generate positive cash flows from the commercialization of our MST technology, there can be no assurance that we will be successful
+doing so. If we are unable to generate positive cash flow within a reasonable period of time, we may be unable to further pursue our business
+plan or continue operations. 
+
+While we have entered into
+four integration license agreements and two joint development agreements, there can be no assurance that any of these relationships will
+advance to further licensing stages or to royalty-based distribution license agreements . In September and October 2018, respectively,
+we entered into separate license agreements with AKM and ST, both of which are leading IDMs. In October 2019, we entered into a license
+agreement with a leading RF semiconductor supplier. In December 2021, we entered into a JDA with a leading semiconductor manufacturer.
+In February 2022, we entered into an integration license agreement with a semiconductor foundry. In April 2022 we entered into a JDA with
+a major semiconductor foundry. Our integration licensees have paid us licensing fees for the right to build products that integrate MST
+technology onto their semiconductor wafers, but the agreements do not grant the licensees the right to sell products incorporating MST.
+Such rights require our integration licensees to enter into additional license agreements that, if executed, would allow each licensee
+or their foundry to manufacture MST-enabled products and to sell them to their customers. We expect that the manufacturing and distribution
+agreements will provide for substantially larger upfront license fee payments than integration license fees and that the agreements will
+require the respective licensees to make royalty payments to us based the number and sales price of MST-enabled products they sell to
+their customers. However, our ability to enter into royalty-based manufacturing and distribution agreements with our current integration
+licensees or with new customers will depend, in large part, on the performance of devices they build using MST and the successful integration
+of our MST technology on a high-volume production scale. Our first JDA customer paid us for a manufacturing license in the first quarter
+of 2021 when we delivered our MST recipe to them. In February 2022, we successfully achieved all the development milestones in the JDA
+resulting in additional revenue. Nevertheless, neither of our JDAs commits the customers to take MST to production. There can be no assurance
+that our MST technology will deliver the performance, power or other requirements our customers seek for their products or that the integration
+of our technology with our customers manufacturing process will be successful in high volume. In addition, even if our MST technology
+is successfully integrated into the licensees products, any or all of our licensees may decide, for reasons unrelated to the price
+or performance of our MST technology, not to enter the subsequent license agreements required to take MST to commercial production. 
+
+AKM, one of our licensees,
+suffered a total loss of one of its fabs due to a fire, impacting their production capability and delaying their work with us. 
+On October 20, 2020, a fire broke out in AKM s factory in Nobeoka, Japan which lasted three days, causing substantial damage to
+the building and equipment. AKM subsequently decided not to resume manufacturing at that site. Although Atomera s work under our
+integration license agreement with AKM did not involve wafers in commercial production in this fab, the fire substantially disrupted AKM s
+business and interrupted their integration and testing of MST. We expect that cooperation on integrating MST into AKM s products
+will continue, but the fire has cast doubt on the timing for moving toward a manufacturing license or commercial distribution as AKM has
+moved production previously carried out in the Nobeoka fab to an external foundry. 
+
+11 
+
+We expect that our product
+qualification and licensing cycle will be lengthy and costly, and our marketing, engineering and sales efforts may be unsuccessful. We
+have incurred significant engineering, marketing and sales expenses during customer engagements without entering into license agreements,
+generating a license fee or establishing a royalty stream from the customer and we expect that such investments ahead of license revenue
+will continue to be necessary in the future. The introduction of any new process technology into semiconductor manufacturing is a lengthy
+process and we cannot forecast with any degree of assurance the length of time it takes to establish a new licensing relationship. However,
+based on our engagements with potential customers to date, we believe the time from initial engagement until our customers incorporate
+our technologies in their semiconductor products, can take 18 to 36 months or longer. Our integration license agreements with our current
+licensees do not commit them to manufacturing or distribution licenses and we expect those licensees to perform additional tests on evaluation
+wafers under their respective integration licenses before deciding whether to enter the next stages of licensing MST. As such, we will
+incur additional expenses in our engagements with our licensees before we receive license fees, if any, for manufacturing and distribution
+and before any subsequent royalty stream begins. Although we have successfully completed the objectives of our first JDA and granted that
+customer a manufacturing license, the agreement does not commit our customer to a distribution license. While we believe our JDAs and
+our integration license agreements should accelerate licensing decisions by other customers, the evaluation process for new technologies
+in the semiconductor industry is inherently long and complex and there can be no assurance that we will successfully convert other customer
+prospects into paying customers or that any of these customers will generate sufficient revenue to cover our expenses. 
+
+Qualification of our MST
+technology requires access to our potential customers manufacturing tools and facilities, as well as to leased tools and facilities,
+which may not be available on a timely basis or at all. The qualification of a new process technology like MST entails the integration
+of our MST film into the complex manufacturing processes employed by our potential customers. In order to validate the benefits of MST,
+our customer engagement process involves fabrication of wafers that incorporate MST deposited by us using our epitaxial deposition tools
+and then completing the manufacturing of the wafers in our customers facilities using their tools. The semiconductor industry in
+2022 exceeded 550 billion in sales, and over the past three years the industry has been characterized by product shortages as strong
+demand has outstripped supply, resulting in tight capacity among our potential customers. Although these supply/demand imbalances and
+tight capacity conditions have eased in recent months, we have experienced delays in completing the processing of evaluation wafers by
+our customers as those customers prioritize utilization of their equipment for production use. If our customers do not dedicate their
+equipment and facilities to testing our products in a timely fashion, we may experience delays that will increase our expenses and delay
+our customers decisions on entering into a commercial license with us. Additionally, we conduct our ongoing research and development
+and portions of our customer evaluation activities using a leased epitaxial (epi) deposition tool that we believe will accelerate internal
+development work and customer engagements. However, epi tools require ongoing, complex maintenance and they have been and will continue
+to be subject to both planned and unplanned downtime. Any interruption in our epi tool availability may negatively impact the progress
+of customer work as well as our internal research and development and accordingly could delay or prevent customers from entering into
+commercial licenses. 
+
+The long-term success of
+our business is dependent on a royalty-based business model, which is inherently risky. The long-term success of our business
+is dependent on future royalties paid to us by licensee-customers, whose business requires them to market products to their end customers.
+Royalty payments under our licenses are generally expected to be based on a percentage (i) in the case of foundries, the selling price
+of wafers made using MST and (ii) in the case of IDMs and fabless vendors, the selling price of MST-enabled semiconductor die sold. We
+will depend upon our ability to structure, negotiate and enforce agreements for the determination and payment of royalties, as well as
+upon our licensees compliance with their agreements. We face risks inherent in a royalty-based business model, many of which are
+outside of our control, such as the following: 
+
+the rate of adoption and incorporation of our technology by semiconductor designers and manufacturers and the manufacturers of semiconductor fabrication equipment; 
+
+customers willingness to agree to an ongoing royalty model, which may impact their wafer or chip costs and margins; 
+
+our licensee customers ability to successfully market MST-enabled products to their end customers; 
+
+the length of the design cycle and the ability to successfully integrate our MST technology into integrated circuits; 
+
+12 
+
+the demand for products incorporating semiconductors that use our licensed technology; 
+
+the cyclicality of supply and demand for products using our licensed technology; 
+
+the impact of economic downturns; and 
+
+the timing of receipt of royalty reports and the applicable revenue recognition criteria, which may result in fluctuation in our results of operations. 
+
+We may need additional financing
+to execute our business plan and fund operations, which additional financing may not be available on reasonable terms or at all. As
+of December 31, 2022, we had total assets of approximately 26.7 million, cash and cash-equivalents of approximately 21.2 million
+and working capital of approximately 18.7 million. We believe that we have sufficient capital to fund our current business plans
+and obligations over, at least, the 12 months following the date of this Annual Report. However, even after installation of MST in a customer s
+fab under a manufacturing license, the full production qualification of a new technology like MST can take more than an additional year,
+and we have limited ability to influence our customers testing and qualification processes. Accordingly, we may require additional
+capital prior to obtaining a royalty-based license or prior to such a license generating sufficient royalty income to cover our ongoing
+operating expenses. In the event we require additional capital over and above the amount of our presently available working capital, we
+will endeavor to seek additional funds through various financing sources, including the sale of our equity and debt securities, licensing
+fees for our technology and joint ventures with industry partners. In addition, we will consider alternatives to our current business
+plan that may enable to us to achieve material revenue with a smaller amount of capital. However, there can be no guarantees that such
+funds will be available on commercially reasonable terms, if at all. If such financing is not available on satisfactory terms, we may
+be unable to further pursue our business plan and we may be unable to continue operations. 
+
+Our revenues may be concentrated
+in a few customers and if we lose any of these customers, or these customers do not pay us, our revenues could be materially adversely
+affected. If we are able to secure the adoption of our MST by one or more foundries, IDMs or fabless semiconductor manufacturers,
+we expect that for at least the first few years substantially all of our revenue will be generated from license fees and engineering services
+before customers commence royalty-bearing shipments. Due to the concentration and ongoing consolidation within the semiconductor industry,
+we may also find that over the longer term our royalty-based revenues are dependent on a relatively few customers. If we lose any of these
+customers, or these customers do not pay us, our revenues could be materially adversely affected. 
+
+If we are unable to manage
+future expansion effectively, our business, operations and financial condition may suffer significantly, resulting in decreased productivity.
+ If our MST proves to be commercially valuable, it is likely that we will experience a rapid growth phase that could place a significant
+strain on our managerial, administrative, technical, operational and financial resources. Our organization, procedures and management
+may not be adequate to fully support the expansion of our operations or the efficient execution of our business strategy. If we are unable
+to manage future expansion effectively, our business, operations and financial condition may suffer significantly, resulting in decreased
+productivity. 
+
+It may be difficult
+for us to verify royalty amounts owed to us under our licensing agreements, and this may cause us to lose revenues. We will
+endeavor to provide that the terms of our license agreements require our licensees to document their use of our technology and
+report related data to us on a regular basis. We will endeavor to provide that the terms of our license agreements give us the right
+to audit books and records of our licensees to verify this information, however audits can be expensive, time consuming, and may not
+be cost justified based on our understanding of our licensees businesses. We will endeavor to audit certain licensees to
+review the accuracy of the information contained in their royalty reports in an effort to decrease the likelihood that we will not
+receive the royalty revenues to which we are entitled under the terms of our license agreements, but we cannot give assurances that
+such audits will be effective to that end. 
+
+13 
+
+Our business operations
+could suffer in the event of information technology systems failures or security breaches . While we believe that we
+have implemented adequate security measures within our internal information technology and networking systems, our information technology
+systems may be subject to security breaches, damages from computer viruses, natural disasters, terrorism, and telecommunication failures.
+Any system failure or security breach could cause interruptions in our operations, including but not limited to our technology computer-aided
+design, or TCAD, modeling using Synopsys software, in addition to the possibility of losing proprietary information and trade secrets.
+To the extent that any disruption or security breach results in inappropriate disclosure of our confidential information, our competitive
+position may be adversely affected, and we may incur liability or additional costs to remedy the damages caused by these disruptions or
+security breaches. 
+
+If integrated circuits incorporating
+our technologies are used in defective products, we may be subject to product liability or other claims. If our MST technology
+is used in defective or malfunctioning products, we could be sued for damages, especially if the defect or malfunction causes physical
+harm to people. While we will endeavor to carry product liability insurance, contractually limit our liability and obtain indemnities
+from our customers, there can be no assurance that we will be able to obtain insurance at satisfactory rates or in adequate amounts or
+that any insurance and customer indemnities will be adequate to defend against or satisfy any claims made against us. The costs associated
+with legal proceedings are typically high, relatively unpredictable and not completely within our control. Even if we consider any such
+claim to be without merit, significant contingencies may exist, similar to those summarized in the above risk factor concerning intellectual
+property litigation, which could lead us to settle the claim rather than incur the cost of defense and the possibility of an adverse judgment.
+Product liability claims in the future, regardless of their ultimate outcome, could have a material adverse effect on our business, financial
+condition and reputation, and on our ability to attract and retain licensees and customers. 
+
+Risks Related to Intellectual Property 
+
+If we fail to protect and
+enforce our intellectual property rights and our confidential information, our business will suffer. We rely primarily on
+a combination of nondisclosure agreements and other contractual provisions and patent, trade secret and copyright laws to protect our
+technology and intellectual property. If we fail to protect our technology and intellectual property, our licensees and others may seek
+to use our technology and intellectual property without the payment of license fees and royalties, which could weaken our competitive
+position, reduce our operating results and increase the likelihood of costly litigation. The growth of our business depends in large part
+on our ability to secure intellectual property rights in a timely manner, our ability to convince third parties of the applicability of
+our intellectual property rights to their products, and our ability to enforce our intellectual property rights. In certain instances,
+we attempt to obtain patent protection for portions of our technology, and our license agreements typically include both issued patents
+and pending patent applications as well as our proprietary know-how. If we fail to obtain patents in a timely manner or if the patents
+issued to us do not cover all of the inventions disclosed in our patent applications, others could use portions of our technology and
+intellectual property without the payment of license fees and royalties. 
+
+We also rely on trade secret laws
+rather than patent laws to protect other portions of our proprietary technology. However, trade secrets can be difficult to protect. The
+misappropriation of our trade secrets or other proprietary information could seriously harm our business. We protect our proprietary technology
+and processes, in part, through confidentiality agreements with our employees, consultants, suppliers and customers. We cannot be certain
+that these contracts have not been and will not be breached, that we will be able to timely detect unauthorized use or transfer of our
+technology and intellectual property, that we will have adequate remedies for any breach, or that our trade secrets will not otherwise
+become known or be independently discovered by competitors. If we fail to use these mechanisms to protect our technology and intellectual
+property, or if a court fails to enforce our intellectual property rights, our business will suffer. We cannot be certain that these protection
+mechanisms can be successfully asserted in the future or will not be invalidated or challenged. 
+
+Further, the laws and enforcement
+regimes of certain countries do not protect our technology and intellectual property to the same extent as do the laws and enforcement
+regimes of the U.S. In certain jurisdictions, we may be unable to protect our technology and intellectual property adequately against
+unauthorized use, which could adversely affect our business. 
+
+14 
+
+A court invalidation or
+limitation of our key patents could significantly harm our business . Our patent portfolio contains some patents that are particularly
+significant to our MST technology. If any of these key patents are invalidated, or if a court limits the scope of the claims in any of
+these key patents, the likelihood that companies will take new licenses and that any current licensees will continue to agree to pay under
+their existing licenses could be significantly reduced. The resulting loss in license fees and royalties could significantly harm our
+business. Moreover, our stock price may fluctuate based on developments in the course of ongoing litigation. 
+
+We may become involved in
+material legal proceedings in the future to enforce or protect our intellectual property rights, which could harm our business. From
+time to time, we may identify products that we believe infringe our patents. In that event, we expect to initially seek to license the
+manufacturer of the infringing products, however if the manufacturer is unwilling to enter into a license agreement, we may have to initiate
+litigation to enforce our patent rights against those products. Litigation stemming from such disputes could harm our ability to gain
+new customers, who may postpone licensing decisions pending the outcome of the litigation or who may, as a result of such litigation,
+choose not to adopt our technologies. Such litigation may also harm our relationships with existing licensees, who may, because of such
+litigation, cease making royalty or other payments to us or challenge the validity and enforceability of our patents or the scope of our
+license agreements. 
+
+In addition, the costs associated
+with legal proceedings are typically high, relatively unpredictable and not completely within our control. These costs may be materially
+higher than expected, which could adversely impair our working capital, affect our operating results and lead to volatility in the price
+of our common stock. Whether or not determined in our favor or ultimately settled, litigation would divert our managerial, technical,
+legal and financial resources from our business operations. Furthermore, an adverse decision in any of these legal actions could result
+in a loss of our proprietary rights, subject us to significant liabilities, require us to seek licenses from others, limit the value of
+our licensed technology or otherwise negatively impact our stock price or our business and financial position, results of operations and
+cash flows. 
+
+Even if we prevail in our legal
+actions, significant contingencies may exist to their settlement and final resolution, including the scope of the liability of each party,
+our ability to enforce judgments against the parties, the ability and willingness of the parties to make any payments owed or agreed upon
+and the dismissal of the legal action by the relevant court, none of which are completely within our control. Parties that may be obligated
+to pay us royalties could be insolvent or decide to alter their business activities or corporate structure, which could affect our ability
+to collect royalties from such parties. 
+
+Our technologies may infringe
+on the intellectual property rights of others, which could lead to costly disputes or disruptions . The semiconductor industry
+is characterized by frequent allegations of intellectual property infringement. Any allegation of infringement could be time consuming
+and expensive to defend or resolve, result in substantial diversion of management resources, cause suspension of operations or force us
+to enter into royalty, license, or other agreements rather than dispute the merits of such allegation. Furthermore, third parties making
+such claims may be able to obtain injunctive or other equitable relief that could block our ability to further develop or commercialize
+some or all of our technologies, and the ability of our customers to develop or commercialize their products incorporating our technologies,
+in the U.S. and abroad. If patent holders or other holders of intellectual property initiate legal proceedings, we may be forced into
+protracted and costly litigation. We may not be successful in defending such litigation and may not be able to procure any required royalty
+or license agreements on acceptable terms or at all. 
+
+Risks Related to Owning Our Common Stock 
+
+The market price of our
+shares may be subject to fluctuation and volatility. You could lose all or part of your investment . The market price of our common
+stock is subject to wide fluctuations in response to various factors, some of which are beyond our control. Between January 1, 2022 and
+February 8, 2023, the reported high and low sales prices of our common stock have ranged from 5.75 to 21.28. The market price of our
+shares on the NASDAQ Capital Market may fluctuate as a result of a number of factors, some of which are beyond our control, including,
+but not limited to: 
+
+actual or anticipated variations in our results of operations and financial condition; 
+
+market acceptance of our MST technology; 
+
+15 
+
+success or failure of our research and development projects; 
+
+announcements of technological innovations by us; 
+
+failure by us to achieve a publicly announced milestone; 
+
+failure by us to meet expectations of investors, some of which may not be within our control or related to our public announcements; 
+
+delays between our expenditures to develop and market new or enhanced technological innovations and the generation of licensing revenue from those innovations; 
+
+developments concerning intellectual property rights, including our involvement in litigation brought by or against us; 
+
+changes in the amounts that we spend to develop, acquire or license new technologies or businesses; 
+
+our sale or proposed sale, or the sale by our significant stockholders, of our shares or other securities in the future; 
+
+changes in our key personnel; 
+
+changes in earnings estimates or recommendations by securities analysts, if we continue to be covered by analysts; 
+
+the trading volume of our shares; and 
+
+general economic and financial market conditions and other factors, including factors unrelated to our operating performance. 
+
+These factors and any corresponding
+price fluctuations may materially and adversely affect the market price of our shares and result in substantial losses being incurred
+by our investors. In the past, following periods of market volatility, public company stockholders have often instituted securities class
+action litigation. If we were involved in securities litigation, it could impose a substantial cost upon us and divert the resources and
+attention of our management from our business. 
+
+We have not paid dividends
+in the past and have no immediate plans to pay dividends. We plan to reinvest all of our earnings, to the extent we have earnings,
+to cover operating costs and otherwise become and remain competitive. We do not plan to pay any cash dividends with respect to our securities
+in the foreseeable future. We cannot assure you that we would, at any time, generate sufficient surplus cash that would be available for
+distribution to the holders of our common stock as a dividend. Therefore, you should not expect to receive cash dividends on our common
+stock. 
+
+We expect to continue to
+incur significant increased costs as a result of being a public company that reports to the Securities and Exchange Commission and our
+management will be required to devote substantial time to meet compliance obligations . As a public company reporting to the Securities
+and Exchange Commission, we incur significant legal, accounting and other expenses that we did not incur as a private company. We are
+subject to reporting requirements of the Exchange Act and the Sarbanes-Oxley Act of 2002, as well as rules subsequently implemented by
+the Securities and Exchange Commission that impose significant requirements on public companies, including requiring establishment and
+maintenance of effective disclosure and financial controls and changes in corporate governance practices. In addition, on July 21, 2010,
+the Dodd-Frank Wall Street Reform and Protection Act was enacted. There are significant corporate governance and executive compensation-related
+provisions in the Dodd-Frank Act that increased our legal and financial compliance costs, make some activities more difficult, time-consuming
+or costly and may also place undue strain on our personnel, systems and resources. Our management and other personnel devote a substantial
+amount of time to these compliance initiatives. 
+
+16 
+
+Our charter documents and
+Delaware law may inhibit a takeover that stockholders consider favorable . Provisions of our certificate of incorporation
+and bylaws and applicable provisions of Delaware law may delay or discourage transactions involving an actual or potential change in control
+or change in our management, including transactions in which stockholders might otherwise receive a premium for their shares, or transactions
+that our stockholders might otherwise deem to be in their best interests. The provisions in our certificate of incorporation and bylaws: 
+
+limit who may call stockholder meetings; 
+
+do not permit stockholders to act by written consent; 
+
+allow us to issue blank check preferred stock without stockholder approval; 
+
+do not provide for cumulative voting rights; and 
+
+provide that all vacancies may be filled by the affirmative vote of a majority of directors then in office, even if less than a quorum. 
+
+In addition, Section 203 of the
+Delaware General Corporation Law may limit our ability to engage in any business combination with a person who beneficially owns 15 or
+more of our outstanding voting stock unless certain conditions are satisfied. This restriction lasts for a period of three years following
+the share acquisition. These provisions may have the effect of entrenching our management team and may deprive you of the opportunity
+to sell your shares to potential acquirers at a premium over prevailing prices. This potential inability to obtain a control premium could
+reduce the price of our common stock. 
+
+Our bylaws designate the
+Court of Chancery of the State of Delaware as the sole and exclusive forum for certain litigation that may be initiated by our stockholders,
+which could limit our stockholders ability to obtain a favorable judicial forum for disputes with the Company . Our
+bylaws provide that, unless we consent in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware
+shall be the sole and exclusive forum for (i) any derivative action or proceeding brought on our behalf, (ii) any action asserting a claim
+of breach of fiduciary duty owed by any of our directors, officers or other employees to us or our stockholders, (iii) any action asserting
+a claim against us or any our directors, officers or other employees arising pursuant to any provision of the Delaware General Corporation
+Law or our certificate of incorporation or bylaws, or (iv) any action asserting a claim against us or any our directors, officers or other
+employees governed by the internal affairs doctrine. This forum selection provision in our bylaws may limit our stockholders ability
+to obtain a favorable judicial forum for disputes with us or any our directors, officers or other employees. 
+
+Our board of directors may
+issue blank check preferred stock, which may affect the voting rights of our holders and could deter or delay an attempt to obtain control
+of us. Our board of directors is authorized, without stockholder approval, to issue preferred stock in series and to fix and state
+the voting rights and powers, designation, preferences and relative, participating, optional or other special rights of the shares of
+each such series and the qualifications, limitations and restrictions thereof. Preferred stock may rank prior to our common stock with
+respect to dividends rights, liquidation preferences, or both, and may have full or limited voting rights. If issued, such preferred stock
+would increase the number of outstanding shares of our capital stock, adversely affect the voting power of holders of our common stock
+and could have the effect of deterring or delaying an attempt to obtain control of us. 
+
+Item 1B. 
+ Unresolved Staff Comments 
+
+None. 
+
+17 
+
+Item 2. 
+ Properties 
+
+Our executive offices are presently
+located in a 4,101 square foot facility in Los Gatos, California pursuant to a five-year lease, expiring on January 31, 2026. As part
+of the amended lease entered into in August 2020, our current lease payment is 17,185. 
+
+We lease shared office space in
+Cambridge Massachusetts from which we conduct certain research activities. The Cambridge facilities are occupied pursuant to a month-to-month
+lease at a rate of 2,942 per month which has been effective since January 1, 2020. 
+
+Beginning in March 2021, we began
+leasing 474 square feet of office space in Tempe, Arizona. This lease has a two-year term, with an option to extend for an additional
+three years. The renewal option was exercised in January 2023. Our current monthly lease payment is 1,239 and will increase to 1,277
+in March 2023. 
+
+Item 3. 
+ Legal Proceedings 
+
+To our knowledge, as of the date
+of this Annual Report, there are no pending legal proceedings to which we or our properties are subject. 
+
+Item 4. 
+ Mine Safety Disclosures 
+
+Inapplicable. 
+
+18 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information 
+
+Our common stock trades on the
+NASDAQ Capital Market under the symbol ATOM . 
+
+Holders of Record 
+
+As of February 1, 2023, there were 151 holders of record
+of our common stock. 
+
+Dividend Policy 
+
+We have never declared or paid
+cash dividends on our common stock. We presently intend to retain earnings, if any, to finance the operation and expansion of our business. 
+
+Equity Compensation Plan Information 
+
+Our 2007 Equity Incentive Plan,
+or 2007 Plan, expired in March 2017, however all options and warrants outstanding at the time of the expiration remained outstanding and
+exercisable by their term. As of December 31, 2022, options to purchase [ ] shares of common stock were outstanding. 
+
+In May 2017, we established our
+2017 Stock Incentive Plan, or 2017 Plan. The 2017 Plan provides for the grant of non-qualified stock options and incentive stock options
+to purchase shares of our common stock and for the grant of restricted and unrestricted share grants. We have reserved a total of 3,750,000
+shares of common stock for issuance under the 2017 Plan. All employees, officers, directors, consultants, advisors and other persons who
+provide services to us or any of our subsidiaries are eligible to receive incentive awards under the 2017 Plan. As of December 31, 2022,
+awards of 3,072,791 shares of common stock had been granted under the 2017 Plan, net of forfeited restricted stock and option awards and
+a total of 677,209 shares of common stock are reserved for issuance. 
+
+The following table sets forth
+certain information as of December 31, 2022 about our stock plans under which our equity securities are authorized for issuance (in thousands,
+except exercise price). 
+
+Plan Category 
+ Number of Securities to be Issued Upon Exercise of Outstanding Options 
+(a) 
+ Weighted-Average Exercise Price of Outstanding Options 
+ Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected In Column (a)) 
+ 
+ Equity compensation plans approved by security holders 
+ 3,009 
+ 7.07 
+ 677 
+ 
+ Equity compensation plans not approved by security holders 
+
+Total 
+ 3,009 
+ 7.07 
+ 677 
+
+19 
+
+Item 6. 
+ Reserved 
+
+Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion and
+analysis of the financial condition and results of operations of Atomera Incorporated should be read in conjunction with our financial
+statements and the accompanying notes that appear elsewhere in this Annual Report. Statements in this Annual Report on Form 10-K include
+forward-looking statements based upon current expectations that involve risks and uncertainties, such as our plans, objectives, expectations
+and intentions. We use words such as anticipate, estimate, plan, project, continuing, 
+ ongoing, expect, believe, intend, may, will, should, 
+ could, and similar expressions to identify forward-looking statements. Although forward-looking statements in this Annual
+Report reflect the good faith judgment of our management, such statements can only be based on facts and factors currently known by us.
+Consequently, forward-looking statements are inherently subject to risks, uncertainties, and changes in condition, significance, value
+and effect, including those risk factors set forth in this Annual Report. Such risks, uncertainties and changes in condition, significance,
+value and effect could cause our actual results to differ materially from those expressed herein and in ways not readily foreseeable.
+Readers are urged not to place undue reliance on these forward-looking statements, which speak only as of the date of this Annual Report
+and are based on information currently and reasonably known to us. We undertake no obligation to revise or update any forward-looking
+statements in order to reflect any event or circumstance that may arise after the date of this Annual Report. Readers are urged to carefully
+review and consider the various disclosures made in this Annual Report, which attempt to advise interested parties of the risks and factors
+that may affect our business, financial condition, results of operations and prospects. 
+
+Overview 
+
+We are engaged in the business
+of developing, commercializing and licensing proprietary processes and technologies for the 550+ billion semiconductor industry. Our
+lead technology, named Mears Silicon Technology , or MST , is a thin film of reengineered silicon, typically 100
+to 300 angstroms (or approximately 20 to 60 silicon atomic unit cells) thick. MST can be applied as a transistor channel enhancement to
+CMOS-type transistors, the most widely used transistor type in the semiconductor industry. MST is our proprietary and patent-protected
+performance enhancement technology that we believe addresses a number of key engineering challenges facing the semiconductor industry.
+We believe that by incorporating MST, transistors can be made smaller, with increased speed, reliability and power efficiency. In addition,
+since MST is an additive and low-cost technology, we believe it can be deployed on an industrial scale, with machines commonly used in
+semiconductor manufacturing. We believe that MST can be widely incorporated into the most common types of semiconductor products, including
+analog, logic, optical and memory integrated circuits. 
+
+We do not intend to design or
+manufacture integrated circuits directly. Instead, we develop and license technologies and processes that we believe offer the designers
+and manufacturers of integrated circuits a low-cost solution to the industry s need for greater performance and lower power consumption.
+Our customers and partners include: 
+
+foundries, which manufacture integrated circuits on behalf of fabless manufacturers; 
+
+integrated device manufacturers, or IDMs, which are the fully-integrated designers and manufacturers of integrated circuits; 
+
+fabless semiconductor manufacturers, which are designers of integrated circuits that outsource the manufacturing of their chips to foundries; 
+
+original equipment manufacturers, or OEMs, that manufacture the epitaxial, or epi, machines used to deposit semiconductor layers, such as the MST film, onto silicon wafers; and 
+
+electronic design automation companies, which make tools used throughout the industry to simulate performance of semiconductor products using different materials, design structures and process technologies. 
+
+20 
+
+Our commercialization strategy
+is to generate revenue through licensing arrangements whereby foundries, IDMs and fabless semiconductor manufacturers pay us a license
+fee for their right to use MST technology in the manufacture of silicon wafers as well as a royalty for each silicon wafer or device that
+incorporates our MST technology. We also license our MSTcad TM software to our customers for use in simulating the effects of
+using MST technology on their wafers and/or devices. To date, we have generated revenue from (i) licensing agreements with two IDMs, one
+fabless manufacturer and one foundry, (ii) a joint development agreement, or JDA, with a leading semiconductor provider, (iii) engineering
+services provided to foundries, IDMs and fabless companies and (iv) licensing MSTcad. 
+
+We were organized as a Delaware
+limited liability company under the name Nanovis LLC on November 26, 2001. On March 13, 2007, we converted to a Delaware corporation under
+the name Mears Technologies, Inc. On January 12, 2016, we changed our name to Atomera Incorporated. 
+
+Between September 2020 and January
+2021,we conducted an at-the-market offering of our common shares through Craig-Hallum Capital Group LLC, as agent, pursuant to which we
+sold 2,221,575 shares at an average price per share of approximately 11.25, resulting in approximately 24.2 million of net proceeds
+to us after deducting commissions and other offering expenses. 
+
+On May 31, 2022, we entered into
+an Equity Distribution Agreement with Oppenheimer Co. Inc and Craig-Hallum Capital Group LLC, as agents, under which we may offer
+and sell, from time to time at our sole discretion, shares of our common stock having aggregate offering proceeds of up to 50.0 million
+in an at-the-market or ATM offering, to or through the agents. During the year ended December 31, 2022, approximately 527,000
+shares were sold at an average price per share of approximately 11.68, resulting in approximately 5.8 million of net proceeds to us
+after deducting commissions and other offering expenses. 
+
+Results of Operations for the Years Ended December
+31, 2022 and 2021 
+
+Revenues. To date,
+we have only generated limited revenue from customer engagements for integration engineering services, integration license agreements,
+a manufacturing license granted under a JDA, a success fee for achievement of milestones under that JDA and licensing our MSTcad software.
+In the future, we expect to collect increased fees from license agreements and JDAs as well as royalties from customer sales of products
+that incorporate our MST technology, subject to our ability to enter into manufacturing and distribution license agreements with our current
+and future licensees. Our integration services consist of depositing our MST film on semiconductor wafers, delivering such wafers to customers
+to finalize building devices, and performing tests for customers evaluating MST. The integration license agreements we have entered into
+to date grant the licensees the right to build products that integrate our MST technology deposited by us onto their semiconductor wafers,
+but the agreements do not grant the licensees the rights to manufacture on their site or to sell products incorporating MST. Our first
+JDA included the grant of a manufacturing license to our customer and we were paid for such license upon delivery of our IP transfer package
+which enabled our customer to install MST in a tool in their facility and to use it to manufacture wafers for internal use. This JDA also
+contained targeted technical specifications that, if met, would result in payment of a success fee to us. Those technical objectives were
+met and we have collected the success fee. 
+
+For revenue recognition purposes,
+we have determined that the grant of rights in integration licenses is not distinct from the delivery of integration services, and therefore
+revenue from both integration licenses and integration services is recognized as the services are provided to the customer. In general,
+this is proportionate to the delivery of MST processed wafers to the customer, but if the agreements do not specify a time and quantity
+of wafer delivery, we will record revenue over the period of time of which we anticipate delivering an estimated quantity of wafers. We
+have also determined that the grant of our manufacturing license under the JDA confers a right to use our technology and accordingly revenue
+was recognized at the point in time when we delivered our IP transfer package. The success fee under our JDA was treated as engineering
+services revenue and recognized upon our customer s confirmation that the JDA s technical objectives had been met. Our licensing
+of MSTcad grants customers the right to use MSTcad software to simulate the effects of incorporating MST technology into their semiconductor
+manufacturing process. Such MSTcad licenses are granted on a monthly basis and revenue is recognized over time. 
+
+Revenue for the years ended December
+31, 2022 and 2021 was approximately 382,000 and 400,000, respectively. Our revenue for 2022 consisted of a success fee pursuant to our
+JDA, a license fee paid under an integration license agreement and MSTcad license revenue. Our revenue for 2021 consisted of a manufacturing
+license fee pursuant to our JDA. 
+
+21 
+
+Cost of Revenue. Cost
+of revenue consists of costs of materials, as well as direct compensation and expenses incurred to provide integration engineering services.
+Cost of revenue was approximately 81,000 and 0 for the years ended December 31, 2022 and 2021, respectively. We anticipate that our
+cost of revenue will vary substantially depending on the mix of license and engineering services revenues we receive and the nature of
+products and/or services delivered in each customer engagement. 
+
+Operating Expenses. Operating
+expenses consist of research and development, general and administrative, and selling and marketing expenses. For the years ended December
+31, 2022 and 2021 our operating expenses totaled approximately 17.8 million and 15.9 million, respectively. 
+
+Research and development
+expense. To date, our operations have focused on the research, development, patent prosecution, and commercialization of our MST
+technology and related technologies such as MSTcad. Our research and development costs primarily consist of payroll and benefit costs
+for our engineering staff and costs of outsourced fabrication (including epi tool leases) and metrology of semiconductor wafers incorporating
+our MST technology. 
+
+For the years ended December 31,
+2022 and 2021, we incurred approximately 10.0 million and 8.8 million, respectively, of research and development expense, an increase
+of approximately 1.3 million, or 14 . The increase was primarily due to approximately 850,000 of increased tool lease related expenses
+as the tool lease commenced in August 2021, and increase of approximately 246,000 in stock-based compensation and an increase of approximately
+ 180,000 in technical consulting expenses. 
+
+General and administrative
+expense. General and administrative expenses consist primarily of payroll and benefit costs for administrative personnel, office-related
+costs and professional fees. General and administrative costs for the years ended December 31, 2022 and 2021 were approximately 6.4 million
+and 6.2 million, respectively, representing an increase of approximately 277,000, or 4 . The increase in costs was primarily due to
+an increase of approximately 103,000 in patent fees and legal fees associated with our patents, an increase of approximately 95,000
+in insurance costs and increase of approximately 86,000 in payroll related expenses. 
+
+Selling and marketing expense.
+ Selling and marketing expenses consist primarily of salary and benefits for our sales and marketing personnel and business development
+consulting services. Selling and marketing expenses for the years ended December 31, 2022 and 2021 were approximately 1.3 million and
+ 986,000, respectively, representing an increase of approximately 362,000, or 37 . The increase in costs is primarily related to increased
+spending in employee-related costs of approximately 104,000, an increase in outsourced marketing expenses of approximately 83,000 and
+an increase in stock-based compensation of approximately 77,000. 
+
+Interest income. Interest
+income for the years ended December 31, 2022 and 2021 was approximately 340,000 and 9,000, respectively. Interest income for each period
+related to interest earned on our cash and cash equivalents and the increase was primarily due to progressively higher interest rates
+during these periods. 
+
+Interest expense. Interest
+expense for the years ended December 31, 2022 and 2021 was approximately 255,000 and 128,000, respectively. Interest expense is related
+to the new tool financing lease entered into in August 2021. 
+
+Provision for income taxes .
+The provision for income tax for the year ended December 31, 2021 was 66,000 and related to income taxes due to a foreign country arising
+from withholding taxes imposed on payments received for revenue. There was no provision for income tax recorded for the year ended December
+31, 2022. 
+
+Liquidity and Capital Resources 
+
+As of December 31, 2022, we had
+cash and cash equivalents of approximately 21.2 million and working capital of approximately 18.7 million. For the year ended December
+31, 2022, we had a net loss of approximately 17.4 million and used approximately 12.5 million of cash and cash equivalents in operations.
+Since inception, we have incurred recurring operating losses. 
+
+22 
+
+During the year ended December
+31, 2022, we sold approximately 527,000 shares pursuant to our ATM at an average price per share of approximately 11.68, resulting in
+approximately 5.8 million of net proceeds to us after deducting commissions and other offering expenses 
+
+We believe that our available
+working capital is sufficient to fund our presently forecasted working capital requirements for, at least, the next 12 months following
+the date of the filing of this report. However, our future capital requirements and the adequacy of our available funds will depend on
+many factors, including our ability to successfully commercialize our MST technology, competing technological and market developments,
+and the need to enter into collaborations with other companies or acquire technologies to enhance or complement our current offerings.
+If we are not able to generate sufficient revenue from license fees and royalties in a time frame that satisfies our cash needs, we will
+need to raise more capital. In the event we require additional capital, we will endeavor to acquire additional funds through various financing
+sources, including our ATM Facility, follow-on equity offerings, debt financing and joint ventures with industry partners. In addition,
+we will consider alternatives to our current business plan that may enable to us to achieve revenue-producing operations and meaningful
+commercial success with a smaller amount of capital. If we are unable to secure additional capital, we may be required to curtail our
+research and development initiatives and take additional measures to reduce costs in order to conserve its cash. 
+
+Cash Flows from Operating, Investing and Financing
+Activities: 
+
+Net cash used in operating
+activities of approximately 12.5 million for year ended December 31, 2022 resulted primarily from our net loss of approximately 17.4
+million adjusted by approximately 3.4 million of stock-based compensation expense and amortization of right-of-use assets of approximately
+ 1.4 million 
+
+Net cash used in operating
+activities of approximately 12.4 million for year ended December 31, 2021 resulted primarily from our net loss of approximately 15.7
+million adjusted by approximately 3.0 million of stock-based compensation expense. 
+
+Net cash used by investing activities
+of approximately 39,000 and approximately 109,000 for the years ended December 31, 2022 and 2021, respectively, consisted of the purchase
+of computers, lab tools and leasehold improvements for the remodeled Los 
+
+ Gatos office space and our new Tempe office space. 
+
+Net cash provided by financing
+activities of approximately 5.0 million for the year ended December 31, 2022. related primarily to net proceeds from our at-the-market
+offering during the year ended December 31, 2022 offset in part by approximately 984,000 in principal payments on our financing lease. 
+
+Net cash provided by financing
+activities of approximately 3.3 million for the year ended December 31, 2021 related to the exercise of approximately 571,000 stock options
+and net proceeds from our at-the-market offering in January 2021. These amounts were offset in part by approximately 470,000 in principal
+payments on our financing lease. 
+
+Critical Accounting Estimates 
+
+Our financial statements are prepared
+in accordance with accounting principles generally accepted in the United States. The preparation of financial statements in conformity
+with those accounting principles requires us to use judgement in making estimates and assumptions based on the relevant information available
+at the end of each period. These estimates and assumptions have a significant effect on reported amounts of assets, liabilities, sales
+and expenses as well as the disclosure of contingent assets and liabilities because they result primarily from the need to make estimates
+and assumptions on matters that are inherently uncertain. Actual results could differ from our estimates. 
+
+Revenue 
+
+We generate revenue from integration
+engineering services, which we deliver either pursuant to integration license agreements or delivery of engineering services and from
+the grant of manufacturing licenses to customers to use its technology in the manufacture of semiconductor wafers and/or devices for the
+customer s internal use. Revenue is recognized based on the following steps: (i) identification of the contract, or contracts, with
+a customer, (ii) identification of the performance obligations in the contract, (iii) determination of the transaction price, (iv) allocation
+of the transaction price to the performance obligations of the contract, and (v) recognition of revenue when, or as, we satisfy a performance
+obligation. Integration services generally consist of depositing our proprietary technology onto the customer s semiconductor wafers
+and delivering such wafers back to the customer. Revenue from integration services is recognized as the performance obligations are satisfied,
+which is upon transfer of control of the wafers to the customer (generally upon shipment). Revenue from manufacturing licenses is recognized
+as the performance obligations are satisfied, which is upon delivery of the Company s MST recipe to the customer. 
+
+23 
+
+For recognizing integration service
+revenue from integration license agreements, we assess (i) whether the license grant is distinct from or combined with the transfer of
+goods or services and (ii) whether the license is a right to access intellectual property or a right to use the intellectual property.
+For licenses that are not distinct, but combined with other goods or services, the revenue is recognized at a point in time or over time
+as the obligations to perform the combined services and/or deliver the combined goods are satisfied. Integration license agreements contain
+a technology grant as well as a performance obligation to deliver wafers with our technology deposited on them. We have determined the
+grant of rights in these integration license agreements is not distinct from the integration service. Accordingly, revenue from integration
+license agreements is recognized as the service is provided to the customer. For manufacturing licenses, revenue is recognized at the
+point in time when we deliver our MST recipe as the license to manufacture using MST technology is a right to use the Company s
+technology and not a right to access the technology over time. 
+
+Leases 
+
+We account for leases in accordance
+with Financial Accounting Standards Board FASB issued Accounting Standards Update ASU No 2016-02, Leases
+ (Topic 842). We determine if a contract contains a lease in whole or in part at the inception of the contract. Right-of-use ROU assets represent its right to use an underlying asset for the lease term while lease liabilities represent its obligation to make lease
+payments arising from the lease. All leases greater than 12 months result in the recognition of a ROU asset and a liability at the lease
+commencement date based on the present value of the lease payments over the lease term. Lease expenses for operating leases is recognized
+on a straight-line-basis over the lease term. Lease expenses for financing leases is amortization of the he ROU assets over the life of
+the lease and interest expense is recognized on the liability. 
+
+Stock-based Compensation 
+
+ We
+have stock-based compensation programs, which include restricted stock awards RSAs and stock options and an employee stock
+purchase plan. We account for stock-based compensation expense, including the expense for grants of RSAs and stock options that may be
+settled in shares of our common stock, based on the fair values of the equity instruments issued. The fair value is determined on the
+measurement date, which is the date of grant. The fair value of our RSAs is measured at the market price of our common stock on the measurement
+date amortized over the vesting period of the award. The fair value for our stock option awards is determined at the grant date using
+the Black-Scholes Option Pricing Model and amortized over the vesting period of the option. 
+
+ Assumptions
+for the Black-Scholes valuation model used for employee stock awards include: 
+
+Expected term We derived the expected term for employee stock awards
+using limited historical information to develop expectations about future exercise patterns and post vesting employment termination behavior.
+
+Expected volatility Volatility is estimated using Atomera s
+historical volatility for similar terms. 
+
+Expected dividend rate We have not declared or paid dividends to
+our stockholders and have no plans to pay dividends; therefore, we have assumed an expected dividend yield of 0 . 
+
+Risk-free interest rate The risk-free interest rate is based on the
+yields of U.S. Treasury securities with maturities similar to the expected terms of the associated awards. 
+
+The fair value of our common stock is measured at the market price on the
+measurement date. 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+
+Not applicable. 
+
+24 
+
+Item 8. 
+ Financial Statements and Supplementary Data 
+
+Index to Financial Statements 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ 26 
+
+Balance Sheets at December 31, 2022 and 2021 
+ 
+ 27 
+
+Statements of Operations for the years ended December 31, 2022 and 2021 
+ 
+ 28 
+
+Statements of Stockholders Equity for the years ended December 31, 2022 and 2021 
+ 
+ 29 
+
+Statements of Cash Flows for the years ended December 31, 2022 and 2021 
+ 
+ 30 
+
+Notes to the Financial Statements 
+ 
+ 31 
+
+25 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Stockholders and Board of Directors of 
+
+ Atomera Incorporated 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets of
+Atomera Incorporated (the Company as of December 31, 2022 and 2021, the related consolidated statements of operations,
+stockholders equity and cash flows for each of the two years in the period ended December 31, 2022, and the related notes (collectively
+referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects,
+the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for each
+of the two years in the period ended December 31, 2022, in conformity with accounting principles generally accepted in the United States
+of America. 
+
+ Basis for Opinion 
+
+ These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements
+are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform,
+an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal
+control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control
+over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+Critical audit matters are matters arising from the
+current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that:
+(1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective,
+or complex judgments. We determined that there are no critical audit matters. 
+
+/s/ Marcum llp 
+
+We have served as the Company s auditor since 2015. 
+
+February 15, 2023 
+
+26 
+
+Atomera Incorporated 
+
+ Balance Sheets 
+
+ (in thousands, except per share data) 
+
+December 31, 
+
+2022 
+ 2021 
+ 
+ ASSETS 
+
+Current Assets: 
+
+Cash and cash equivalents 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Property and equipment, net 
+
+Long-term prepaid maintenance and supplies 
+
+Security deposit 
+
+Operating lease right-of-use-asset 
+
+Financing lease right-of-use-asset 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued expenses 
+
+Accrued payroll related expenses 
+
+Current operating lease liability 
+
+Current financing lease liability 
+
+Total current liabilities 
+
+Long-term operating lease liability 
+
+Long-term financing lease liability 
+
+Total liabilities 
+
+Commitments and contingencies (see Note 8) 
+
+Stockholders equity: 
+
+Preferred stock, 0 par value, authorized shares: issued and outstanding at December 31, 2022 and 2021 
+
+Common stock, par value, authorized shares; shares issued and outstanding at December 31, 2022 and issued and outstanding as of December 31, 2021 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders equity 
+
+Total liabilities and stockholders equity 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+27 
+
+Atomera Incorporated 
+
+ Statements of Operations 
+
+ (in thousands, except per share data) 
+
+Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ Revenue: 
+
+Cost of revenue 
+
+Gross margin 
+
+Operating Expenses: 
+
+Research and development 
+
+General and administrative 
+
+Selling and marketing 
+
+Total operating expenses 
+
+Loss from operations 
+
+Other income (expense): 
+
+Interest income 
+
+Interest expense 
+
+Total other income (expense), net 
+
+Net loss before income taxes 
+
+Provision for income taxes 
+
+Net loss 
+
+Net loss per common share, basic 
+
+Net loss per common share, diluted 
+
+Weighted average number of common shares outstanding, basic 
+
+Weighted average number of common shares outstanding, diluted 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+28 
+
+Atomera Incorporated 
+
+ Statements of Stockholders Equity 
+
+ (in thousands) 
+
+Common Stock 
+ Additional Paid-in 
+ Accumulated 
+ Total Stockholders 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Equity 
+ 
+ Balance January 1, 2021 
+
+Stock-based compensation 
+
+Warrant exercises 
+
+Stock option exercises 
+
+Forfeited restricted stock awards 
+
+At-the-market sale of stock, net of commissions and expenses 
+
+Net loss 
+
+Balance December 31, 2021 
+
+Stock-based compensation 
+
+Stock option exercises 
+
+At-the-market sale of stock, net of commissions and expenses 
+
+Net loss 
+
+Balance December 31, 2022 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+29 
+
+Atomera Incorporated 
+
+ Statements of Cash Flows 
+
+ (in thousands) 
+
+Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net Loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation and amortization 
+
+Operating lease right of use asset amortization 
+
+Financing lease right of use asset amortization 
+
+Stock-based compensation 
+
+Changes in operating assets and liabilities: 
+
+Prepaid expenses and other current assets 
+
+Accounts payable 
+
+Accrued expenses 
+
+Accrued payroll expenses 
+
+Operating lease liability 
+
+Net cash used in operating activities 
+
+CASH FROM INVESTING ACTIVITIES 
+
+Acquisition of property and equipment 
+
+Net cash used in investing activities 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from at-the-market sale of stock, net of commissions and expenses 
+
+Proceeds from exercise of stock options 
+
+Payments of principal for financing lease 
+
+Net cash provided by financing activities 
+
+Net increase/(decrease) in cash and cash equivalents 
+
+Cash and cash equivalents at beginning of year 
+
+Cash and cash equivalents at end of year 
+
+Supplemental information: 
+
+Cash paid for interest 
+
+Cash paid for taxes 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+30 
+
+Atomera Incorporated 
+
+ Notes to the Financial Statements 
+
+ million and working capital of approximately million . The Company has generated
+only limited revenues since inception and has incurred recurring operating losses. Accordingly, it is subject to all the risks inherent
+in the initial organization, financing, expenditures, and scaling of a new business that is not generating positive cashflow. 
+
+The Company has primarily financed
+operations through private placements of equity and debt securities, the Company s Initial Public Offering (the IPO which was consummated on August 10, 2016, and subsequent public offerings of its common stock. On May 31, 2022, Atomera entered into an
+Equity Distribution Agreement with Oppenheimer Co. Inc. and Craig-Hallum Capital Group LLC, as agents, under which the Company may
+offer and sell, from time to time at its sole discretion, shares of its 0.001 par value common stock, in at the market 
+offerings to or through the agent as its sales agent, having aggregate offering proceeds of up to .0 million (the ATM Facility ). 
+
+Based on the funds it has available
+as of the date of the filing of this report, the Company believes that it has sufficient capital to fund its current business plans and
+obligations over, at least, 12 months from the date that these financial statements have been issued. The Company s future capital
+requirements and the adequacy of its available funds will depend on many factors, including the Company s ability to successfully
+commercialize its technology, competing technological and market developments, and the need to enter into collaborations with other companies
+or acquire technologies to enhance or complement its current offerings. The Company s operating plans for the next 12 months include
+increased research and development expenses. For capital needs beyond the next 12 months, the Company currently expects to rely, in part,
+on its ATM, but the terms on which any future stock sales will occur will depend on both market conditions and the Company s business
+performance, so there can be no guarantee that funds will be available on commercially reasonable terms. 
+
+Level 1 Quoted prices (unadjusted) in active markets
+for identical assets and liabilities. 
+
+Level 2 Inputs other than Level
+1 that are observable, either directly or indirectly, such as unadjusted quoted prices for similar assets and liabilities,
+unadjusted quoted prices in the markets that are not active, or other inputs that are observable or can be corroborated by
+observable market data for substantially the full term of the assets or liabilities. 
+
+Level 3 Unobservable inputs that are supported by little
+or no market activity and that are significant to the fair value of the assets or liabilities. 
+
+and ,of revenue during the year ended December 31, 2022 and one customer represented of revenue during the
+year ended December 31, 2021. 
+
+At times, the amounts on deposit
+at the financial institution exceed the federally insured limits. Management believes that the financial institution which holds the Company s
+cash is financially sound and, accordingly, minimal credit risk exists. As of December 31, 2022 and 2021, the Company s cash balances
+were in excess of insured limits maintained at the financial institution. 
+
+allowances for doubtful accounts since the balances were collected during the year. 
+
+indicators of impairment. 
+
+interest and penalties related to uncertain tax positions were accrued at either December
+31, 2022 or 2021. 
+
+The Company follows authoritative
+guidance which requires the evaluation of existing tax positions. Management has analyzed all open tax years, as defined by the statute
+of limitations, for all major jurisdictions, which includes both federal and states where the Company has operations. Open tax years are
+those that are open for examination by taxing authorities. 
+
+The following table provides information about disaggregated
+revenue by primary geographical markets and timing of revenue recognition for the years ended December 31, 2022 and 2021 (in thousands): 
+
+Asia Pacific 
+
+Total 
+
+Timing of revenue recognition 
+
+Products and services transferred at a point in time 
+
+Products and services transferred over time 
+
+Total 
+
+Unbilled contracts receivable and deferred revenue : 
+
+Timing of revenue recognition
+may differ from the timing of invoicing customers. Accounts receivable includes amounts billed and currently due from customers. Unbilled
+contracts receivable represents unbilled amounts expected to be received from customers in future periods, where the revenue recognized
+to date exceeds the amount billed, and the right to receive payment is subject to the underlying contractual terms. Unbilled contracts
+receivable amounts may not exceed their net realizable value and are classified as long-term assets if the payments are expected to be
+received more than one year from the reporting date. 
+
+Unvested restricted stock 
+
+Warrants 
+
+Computer equipment 
+
+Furniture and fixtures 
+
+Leasehold improvements 
+
+Software 
+
+Office equipment 
+
+Less: Accumulated depreciation and amortization 
+
+Depreciation and amortization
+expense relating to property and equipment was approximately and for the years ended December 31, 2022 and 2021, respectively.
+The Company depreciates computer equipment, laboratory equipment and office equipment on straight-line basis over three years. Furniture
+and fixtures are depreciated on a straight-line basis over five years. The Company amortizes software on straight-line basis over three
+years. Leasehold improvements are amortized over the remaining life of the lease. 
+
+ . The lease contains escalating
+payments on the anniversary of the original commencement which are included in the measurement of the initial lease liability. Additional
+payments based on a change in the Company s share of the operating expenses, including property taxes and insurance, are recorded
+as a period expense when incurred. 
+
+In March 2021, the Company began
+leasing 474 square feet of office space in Tempe, Arizona. The new lease is classified as an operating lease with an initial term of two
+years and an option to extend for an additional three years through February 2026. The renewal option was exercised in January 2023. The
+lease also contains a performance standard for research collaboration with Arizona State University. The agreement requires a minimum
+value of collaborative research in each year of the lease. The lease is accounted for under ASC 842 and accordingly, the research payments
+are included in the ROU and lease liability at the commencement. In March 2021, the Company recorded an ROU and associated lease liability
+of approximately . The lease liability is based on the present value of the minimum lease payments, discounted using the Company s
+estimated incremental borrowing rate of over five years, as the Company expects to lease the space through the three-year extension.
+The lease also contains escalating payments on the anniversary of the original commencement which are included in the measurement of the
+initial lease liability. 
+
+In October 2019, the Company
+entered into an agreement to lease a tool for use in the development of the Company s technology. The lease is for five years
+at 150,000 per month and
+commenced on August 1, 2021. A prepayment of was
+made in year ended December 31, 2020 which represents the final three monthly payments under the lease and was recorded as a
+long-term prepaid until the lease commencement. At commencement, the Company recorded an ROU asset of approximately 
+million and a corresponding lease liability of approximately .0
+million. The lease was classified as a financing lease and accordingly, amortization is recorded as a research and development
+expense in the Company s statement of operations. Interest expense is also recorded and included in other income or expense in
+the Company s statement of operations. The lease liability is based on the present value of the minimum lease payments,
+discounted using the Company s estimated incremental borrowing rate of 
+at the time of commencement. The lease payment of 150,000 per month includes approximately in
+supplies and maintenance that is recorded as an operating expense and is not included in the valuation of the lease liability. The
+Company elected to exclude these costs from the asset and related lease liability valuation for this class of assets. These costs
+will be expensed as operating expenses in the period incurred. This lease contains a provision for an annual adjustment of lease
+payments based on tool availability and usage. The potential lease payment adjustment is determined on August 1 of each year of the
+lease and is calculated based on the tool availability and usage for the preceding 12 months. Effective August 1, 2022, the lease
+payments for this tool were reduced to 100,824 per month for the period August 1, 2022 through July 31, 2023. This adjustment to
+the variable lease payments resulted in a reduction in ROU and corresponding lease liability. 
+
+Lease expense for operating leases
+consists of the lease payments recognized on a straight-line basis over the lease term. Expenses for financing leases consists of the
+amortization expenses recognized on a straight-line basis over the lease term and interest expense. The components of lease costs were
+as follows (in thousands): 
+
+Interest on lease liabilities 
+
+Total financing lease costs 
+
+Operating lease costs 
+
+Fixed lease costs 
+
+Short-term lease costs 
+
+Total operating lease costs 
+
+Future minimum payments under non-cancellable leases
+as of December 31, 2022 were as follows (in thousands): 
+
+2024 
+
+2025 
+
+2026 
+
+Total future minimum lease payments 
+
+Less imputed interest 
+
+Total lease liability 
+
+The below table provides supplemental
+information and non-cash activity related to the Company s operating and financing leases are as follows (in thousands): 
+
+Cash paid for amounts included in the measurement of financing lease liabilities 
+
+Non-cash activity: 
+
+Right-of-use assets obtained in exchange for operating lease obligations 
+
+Right-of-use assets obtained in exchange for financing lease obligations 
+
+Remeasurement of right-of use asset and liability in financing lease obligations 
+
+The weighted average remaining
+discount rate is for the Company s operating and financing leases. The weighted average remaining lease term is years
+for financing lease and years for operating leases. 
+
+In October 2016, the Company entered
+into lease agreement for approximately 200 square feet of office space in Cambridge, Massachusetts. The lease, with current monthly payments
+of 2,942 per month, commenced on October 24, 2016. Since the lease is month to month and can be cancelled with a 30-day notice, the future
+lease payments are not included in the Company s lease accounting under ASC Topic 842. 
+
+In December 2022, the Company
+entered into a lease agreement for a tool in Tempe, Arizona. The term of this lease is for six months beginning on January 1, 2023 with
+an option to extend the lease for an additional six months. The initial lease terms are for 96,000 per month. If the option to extend
+the lease is exercised prior to March 31, 2023, the remaining lease payments will be reduced to an average of 87,000 over the twelve
+months. Since the lease and extension are not for more than one year, the future lease payments are not included in the Company s
+lease accounting under ASC Topic 842. 
+
+ ,000 shares of preferred stock, par value. As of December 31, 2022, and 2021, no shares have been designated and shares
+are issued and outstanding. Preferred stock may rank prior to common stock with respect to dividends rights, liquidation preferences,
+or both, and may have full or limited voting rights. 
+
+On September 2, 2020, Atomera
+entered into an Equity Distribution Agreement with Craig-Hallum Capital Group LLC, as agent, under which the Company offered and sold,
+from time to time at its sole discretion, shares of its common stock having aggregate offering proceeds of up to 25.0 million in an at-the-market 
+or ATM offering, to or through the agent. On January 5, 2021 we announced the completion of this offering after shares were
+sold for an average price per share of , resulting in approximately million of net proceeds to us after deducting commissions
+and other offering expenses. 
+
+On May 31, 2022, Atomera entered
+into an Equity Distribution Agreement with Oppenheimer Co. Inc and Craig-Hallum Capital Group LLC, as agents, under which we may
+offer and sell, from time to time at our sole discretion, shares of our common stock having aggregate offering proceeds of up to .0
+million in an at-the-market or ATM offering, to or through the agents. During the year ended December 31, 2022, approximately
+ shares were sold at an average price per share of approximately , resulting in approximately million of net proceeds
+to us after deducting commissions and other offering expenses. 
+
+As of December 31, 2022, the Company
+has reserved approximately .0 million shares of common stock for issuance pursuant to outstanding stock options. 
+
+Expired 
+
+Outstanding and exercisable at December 31, 2022 
+
+shares of common stock for issuance under the 2017 Plan. All employees, officers,
+directors, consultants, advisors and other persons who provide services to the Company or any subsidiaries of the Company are eligible
+to receive incentive awards under the 2017 Plan. As of December 31, 2022, awards of shares of common stock had been granted
+under the 2017 Plan, net of forfeited restricted stock and option awards and a total of shares of common stock are reserved for
+issuance. 
+
+The following table summarizes
+the stock-based compensation expense recorded in the Company s results of operations during the years ended December 31, 2022 and
+2021 for stock options and restricted stock (in thousands): 
+
+General and administrative 
+
+Selling and Marketing 
+
+As of December 31, 2022, there
+was approximately million of total unrecognized compensation expense related to non-vested share-based compensation arrangements
+that are expected to vest. This cost is expected to be recognized over a weighted-average period of years. 
+
+The Company records compensation
+expense for employee awards with graded vesting using the straight-line method. The Company records compensation expense for nonemployee
+awards with graded vesting using the accelerated expense attribution method. The Company recognizes compensation expense over the requisite
+service period applicable to each individual award, which generally equals the vesting term. The Company estimates the fair value of each
+option award using the Black-Scholes-Merton option pricing model. Forfeitures are recognized when realized. 
+
+The fair value of employee stock
+options issued was estimated using the following weighted-average assumptions: 
+
+Weighted average grant date fair value per share: 
+
+Assumptions: 
+
+Expected volatility 
+
+Weighted average expected term (in years) 
+
+Risk-free interest rate 
+
+Expected dividend yield 
+
+The risk-free interest rate was
+obtained from U.S. Treasury rates for the applicable periods. The Company s expected volatility was based upon the historical volatility
+of the Company. The expected life of the Company s options was determined using the simplified method as a result of limited historical
+data regarding the Company s activity. The dividend yield considers that the Company has not historically paid dividends and does
+not expect to pay dividends in the foreseeable future. 
+
+The following table summarizes
+stock option activity during the year ended December 31, 2022 (in thousands except exercise prices and contractual terms): 
+
+Granted 
+
+Exercised 
+
+Forfeited 
+
+Expired 
+
+Outstanding at December 31, 2022 
+
+Exercisable at December 31, 2022 
+
+During the year ended December
+31, 2022, the Company granted options under its 2017 Plan purchase approximately shares of its common stock to its employees.
+The fair value of these options was approximately .0 million. 
+
+The Company issues restricted
+stock to employees, directors and consultants and estimates the fair value based on the closing price on the day of grant. The following
+table summarizes all restricted stock activity during the year ended December 31, 2022 (in thousands except per share data): 
+
+Granted 
+
+Vested 
+
+Outstanding non-vested shares at December 31, 2022 
+
+. During the year ended December 31,
+2021, matching contributions were made by the Company. 
+
+International 
+
+Total 
+
+The Company had and 
+of current income tax expense for the years ended December 31, 2022 and 2021, respectively. The income tax expense for 2022 related to
+taxes due to a foreign country arising from withholding taxes imposed on payments received for revenue. The Company accounts for income
+taxes in accordance with ASC 740, which requires that the tax benefit of net operating losses, temporary differences and credit carryforwards
+be recorded as an asset to the extent that management assesses that realization is more likely than not. Realization of
+the future tax benefits is dependent on the Company's ability to generate sufficient taxable income within the carryforward period. Because
+of the Company's recent history of operating losses, management believes that recognition of the deferred tax assets arising from the
+above-mentioned future tax benefits is currently not likely to be realized and, accordingly, has provided a full valuation allowance.
+The valuation allowance increased by approximately million during the year ended December 31, 2022 and decreased by approximately
+ million during the year ended December 31, 2021. 
+
+The Company s deferred tax
+assets are as follows (in thousands): 
+
+Tax credit 
+
+Fixed assets and intangibles 
+
+Stock compensation 
+
+Accruals and other 
+
+Lease liability 
+
+Capitalized research and development 
+
+Total deferred tax assets 
+
+Deferred tax liabilities: 
+
+Right of use asset 
+
+Total deferred tax assets 
+
+Valuation allowance 
+
+Net deferred tax asset 
+
+Net operating losses and tax credit
+carryforwards as of December 31, 2022, are as follows (in thousands): 
+
+Net operating losses, federal 
+
+Net operating losses, state 
+
+Tax credits, federal 
+
+Tax credits, state 
+
+Tax credits, state 
+
+The effective tax rate of the
+Company s provision (benefit) for income taxes differs from the federal statutory rate as follows: 
+
+State rate 
+
+Change in valuation allowance 
+
+Change in tax credits 
+
+Foreign withholding tax 
+
+Section 382 limitation 
+
+Section 162(m) limitation 
+
+Stock based compensation excess windfall 
+
+Total 
+
+Utilization of U.S. net operating
+losses and tax credit carryforwards may be limited by ownership change rules, as defined in Section 382 and Section
+383 of the Internal Revenue Code. Similar rules may apply under state tax laws. Under those sections of the Code, if a corporation undergoes
+an ownership change, the corporation s ability to use its pre-change net operating loss carryforwards and other pre-change
+attributes, such as research tax credits, to offset its post-change income or tax may be limited. In general, an ownership change 
+will occur if there is a cumulative change in ownership by 5 stockholders that exceeds 50 percentage points over a rolling
+three-year period. 
+
+During the year ended 2021, the
+Company performed an analysis to assess whether an ownership change, as defined by Section 382 of the Code, has occurred
+from its inception through December 31, 2021. Based on this analysis, the Company has experienced ownership changes, limiting
+the utilization of the net operating loss carryforwards or research and development tax credit carryforwards under Section 382 of the
+Code. The limitation is calculated by first multiplying the value of the Company s stock at the time of the ownership change by
+the applicable long-term tax-exempt rate, and then applying additional adjustments, as required. As a result of the analysis, the Company
+has determined that approximately million of federal net operating loss and million of federal R D credit carryforwards are
+limited and will expire unutilized. Additionally, approximately million of state net operating loss and million of state tax
+credits are also limited and will expire unutilized. The Company s tax disclosures as of December 31, 2022 and 2021 reflect the
+impairment of the above-mentioned tax attributes. 
+
+The Company establishes reserves
+for uncertain tax positions based on the largest amount that is more-likely-than-not to be sustained. An uncertain income tax position
+will not be recognized if it has less than a 50 likelihood of being sustained. It is the Company s policy to recognize interest
+and penalties related to income tax matters in income tax expense. As of December 31, 2022 and 2021, respectively, the Company has 
+accrued interest or penalties related to uncertain tax positions. 
+
+The Company files income tax returns
+in the U.S. federal jurisdiction and various state jurisdictions. In the normal course of business, the Company is subject to examination
+by their respective taxing authorities. The Company is not currently under audit by the Internal Revenue Service or other similar state
+or local authority. The statute of limitations remains effectively open for all tax years since inception (2007). Tax years outside the
+normal statute of limitations remain open to examination by tax authorities due to tax attributes generated in earlier years which have
+been carried forward and may be examined and adjusted in subsequent years when utilized. 
+
+The following table summarizes
+the activity related to the Company s gross unrecognized tax benefits for the years ended December 31, 2022 and 2021 (in thousands): 
+
+Increases (decreases) prior year tax positions 
+
+Increases current year tax positions 
+
+December 31 - unrecognized tax benefits 
+
+The following table summarizes
+the activity in the Company s Valuation Allowance and Qualifying Accounts for the years ended December 31, 2022 and 2021 (in thousands): 
+
+Year ended December 31, 2021 
+
+44 
+
+Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+Not applicable. 
+
+Item 9A. 
+ Controls and Procedures 
+
+(a) 
+ Evaluation of Disclosure Controls and Procedures . 
+
+Our management, with the participation
+of our chief executive officer and chief financial officer evaluated the effectiveness of our disclosure controls and procedures pursuant
+to Rule 13a-15(e) under the Exchange Act. Based upon that evaluation, our management, including our chief executive officer and chief
+financial officer, concluded that our disclosure controls and procedures were effective as of December 31, 2022 in ensuring all material
+information required to be disclosed by us is recorded, processed, summarized and reported, within the time periods specified in the Commission's
+rules and forms, and that such information is accumulated and communicated to our management, including our chief executive officer and
+chief financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+
+(b) 
+ Changes in internal control over financial reporting. 
+
+There were no changes to our internal
+control over financial reporting, as defined in Rules 13a-15(f) under the Exchange Act that occurred during the quarter ended December
+31, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+(c) 
+ Management s report on internal controls over financial reporting. 
+
+Our management is responsible
+for establishing and maintaining adequate internal controls over financial reporting, as defined under Rule 13a-15(f) under the Exchange
+Act. Our management has assessed the effectiveness of our internal controls over financial reporting as of December 31, 2022 based on
+the framework established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (2013 Framework) COSO ). Our internal control system was designed to provide reasonable assurance to our management
+and board of directors regarding the preparation and fair presentation of published financial statements. Our management assessed the
+effectiveness of our internal control over financial reporting as of December 31, 2022, and based on that evaluation, management concluded
+that our internal control over financial reporting was effective as of December 31, 2022. 
+
+This report does not include an
+attestation report of our registered public accounting firm regarding internal control over financial reporting. Management s report
+was not subject to attestation by our registered public accounting firm pursuant to the rules of the Securities and Exchange Commission
+that permit us to provide only management s report in this Annual Report. 
+
+Item 9B. 
+ Other Information 
+
+Not applicable. 
+
+Item 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+
+Not applicable. 
+
+45 
+
+PART III 
+
+The information required by Part
+III is omitted from this report because we will file a definitive proxy statement within 120 days after the end of our 2022 fiscal year
+pursuant to Regulation 14A for our 2023 Annual Meeting of Stockholders, or the 2023 Proxy Statement, and the information to be included
+in the 2022 Proxy Statement is incorporated herein by reference. 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+
+The information required under
+this item will be contained in the 2023 Proxy Statement and is hereby incorporated by reference. 
+
+Item 11. 
+ Executive Compensation 
+
+The information required under this item will be contained
+in the 2023 Proxy Statement and is hereby incorporated by reference. 
+
+Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholders Matters 
+
+The information required under this item will be contained
+in the 2023 Proxy Statement and is hereby incorporated by reference. 
+
+Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+
+The information required under this item will be contained
+in the 2023 Proxy Statement and is hereby incorporated by reference. 
+
+Item 14. 
+ Principal Accountant Fees and Services 
+
+The information required under this item will be contained
+in the 2023 Proxy Statement and is hereby incorporated by reference. 
+
+46 
+
+PART IV 
+
+Item 15. 
+ Exhibits and Financial Statement Schedules 
+
+(a) 
+ Financial Statements 
+
+(1) 
+ Financial statements for our company are listed in the index under Item 8 of this document 
+
+(2) 
+ All financial statement schedules are omitted because they are not applicable, not material or the required information is shown in the financial statements or notes thereto. 
+
+Exhibit 
+
+No. 
+ 
+ Description 
+ 
+ Method of Filing 
+
+3.1 
+ 
+ Amended and Restated Certificate of Incorporation of the Registrant 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+3.2 
+ 
+ Amended and Restated Bylaws of the Registrant 
+ 
+ Incorporated by reference from the Registrant s
+ Registration Form 8-K filed on October 27, 2021. 
+
+3.3 
+ 
+ Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Registrant 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+3.4 
+ 
+ Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Registrant 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+4.1 
+ 
+ Description of Capital Stock 
+ 
+ Incorporated by reference from the Registrant s Annual Report on
+Form 10-K filed on February 19, 2021 
+
+10.1 
+ 
+ Assignment of Patent Rights dated April 3, 2009 between Dr. Robert Mears and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+10.2+ 
+ 
+ 2007 Stock Incentive Plan 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+10.3 
+ 
+ Exclusive License and Collaboration Agreement dated March 3, 2010 between K2 Energy Limited and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+10.4 
+ 
+ Letter Agreement dated June 6, 2014 between K2 Energy Limited and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+10.5 
+ 
+ Lease Agreement dated January 19, 2016 between 750 University, LLC and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+10.6+ 
+ 
+ Form of Restricted Stock Agreement 
+ 
+ Incorporated by reference from the Registrant s Amendment No. 1 to Registration Statement on Form S-1 filed on July 29, 2016 
+
+47 
+
+10.7+ 
+ 
+ Atomera Incorporated 2017 Stock Incentive Plan 
+ 
+ Incorporated by reference from the Registrant s Definitive Proxy Statement filed on April 10, 2017. 
+
+10.8 
+ 
+ First Amendment to Lease Agreement dated January 19, 2016 between 750 University, LLC and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Form 10-K filed on March 6, 2018. 
+
+10.9+ 
+ 
+ Employment Agreement dated January 26, 2021 between Scott Bibaud and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Annual Report on
+Form 10-K filed on February 19, 2021 
+
+10.10+ 
+ 
+ Employment Agreement dated January 26, 2021 between Frank Laurencio and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Annual Report on
+Form 10-K filed on February 19, 2021 
+
+10.11+ 
+ 
+ Employment Agreement dated January 26, 2021 between Dr. Robert Mears and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Annual Report on
+Form 10-K filed on February 19, 2021 
+
+10.12+ 
+ 
+ Employment Agreement dated January 26, 2021 between
+ Jeffrey Lewis and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Registration
+Form 8-K filed on June 3, 2021 
+
+10.13 
+ 
+ Second Amendment to Lease Agreement dated January 19, 2016 between 750 University, LLC and the Registrant 
+ 
+ Incorporated by reference from the Registrant s Annual Report on
+Form 10-K filed on February 19, 2021 
+
+10.14 
+ 
+ Equity Distribution Agreement dated May 31, 2022 between the Company and Oppenheimer Co. Inc. and Craig-Hallum Capital Group LLC 
+ 
+ Incorporated by reference from the Company s Current Report on Form
+8-K filed on May 31, 2022 
+
+21.1 
+ 
+ List of Subsidiaries 
+ 
+ Incorporated by reference from the Registrant s Registration Statement on Form S-1 filed on June 30, 2016. 
+
+23.1 
+ 
+ Consent of Marcum LLP, Independent Registered Public Accounting Firm 
+ 
+ Filed electronically herewith 
+
+31.1 
+ 
+ Certifications Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 . 
+ 
+ Filed electronically herewith 
+
+31.2 
+ 
+ Certifications Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 . 
+ 
+ Filed electronically herewith 
+
+32.1 
+ 
+ Certification of Principal Executive Officer and Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350) . 
+ 
+ Filed electronically herewith 
+
+101.INS 
+ 
+ XBRL Instance Document 
+ 
+ Filed electronically herewith 
+
+101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+ 
+ Filed electronically herewith 
+
+101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ Filed electronically herewith 
+
+101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ Filed electronically herewith 
+
+101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ Filed electronically herewith 
+
+101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ Filed electronically herewith 
+
++ Indicated
+management compensatory plan, contract or arrangement. 
+
+Item 16 . 
+ Form 10-K Summary 
+
+None provided. 
+
+48 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d)
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized. 
+
+ATOMERA INCORPORATED. 
+
+Date: February 15, 2023 
+ By: 
+ /s/ Scott A. Bibaud 
+
+Scott A. Bibaud 
+Chief Executive Officer, 
+
+(Principal Executive Officer) 
+
+and Director 
+
+Date: February 15, 2023 
+ 
+ By: /s/ Francis B. Laurencio 
+
+Francis B. Laurencio 
+
+Chief Financial Officer 
+
+(Principal Financial and 
+
+Accounting Officer) 
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates
+indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Scott A. Bibaud 
+ 
+ Chief Executive Officer and Director 
+ 
+ February 15, 2023 
+
+Scott A. Bibaud 
+ 
+ (Principal Executive Officer) 
+
+/s/ John D. Gerber 
+ 
+ Director and Chairman 
+ 
+ February 15, 2023 
+
+John Gerber 
+
+/s/ Steven K. Shevick 
+ 
+ Director 
+ 
+ February 15, 2023 
+
+Steven K. Shevick 
+
+/s/ Duy-Loan Le 
+ 
+ Director 
+ 
+ February 15, 2023 
+
+Duy-Loan Le 
+
+/s/ Suja Ramnath 
+ 
+ Director 
+ 
+ February 15, 2023 
+
+Suja Ramnath 
+
+49 
+
+<EX-23.1>
+ 2
+ atomera_ex2301.htm
+ INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM CONSENT
+
+Exhibit 23.1 
+
+Independent
+Registered Public Accounting Firm s Consent 
+
+We consent to the incorporation by reference in the
+Registration Statements of Atomera Incorporated on Form S-8 (File No. 333-213093 and File No. 333-218666) and Form S-3 (File No. 333 - 262750)
+of our report dated February 15, 2023, with respect to our audits of the financial statements of Atomera Incorporated as of December 31,
+2022 and 2021 and for each of the two years in the period ended December 31, 2022, which report is included in this Annual Report on Form
+10-K of Atomera Incorporated for the year ended December 31, 2022. 
+
+/s/ Marcum llp 
+
+Marcum llp 
+
+ Los Angeles, CA 
+February 15, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ atomera_ex3101.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATIONS 
+
+I, Scott A. Bibaud, certify that: 
+
+(1) 
+ I have reviewed this Annual Report on Form 10-K of Atomera Incorporated; 
+
+(2) 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+(3) 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+(4) 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d- 15(f)) for the company and have: 
+
+(a) 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the period covered by this report based on such evaluation; and 
+
+(d) 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent quarter (the registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; And 
+
+(5) 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+ATOMERA INCORPORATED 
+
+Date: February 15, 2023 
+ By: 
+ /s/ Scott A. Bibaud 
+
+Scott A. Bibaud, Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ atomera_ex3102.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+CERTIFICATIONS 
+
+I, Francis B. Laurencio, certify that: 
+
+(1) 
+ I have reviewed this Annual Report on Form 10-K of Atomera Incorporated; 
+
+(2) 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+(3) 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+(4) 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d- 15(f)) for the company and have: 
+
+(a) 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the period covered by this report based on such evaluation; and 
+
+(d) 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent quarter (the registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+(5) 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+ATOMERA INCORPORATED 
+
+Date: February 15, 2023 
+ By: 
+ /s/ Francis B. Laurencio 
+
+Francis B. Laurencio, Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ atomera_ex3201.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. 1350, AS ADOPTED
+PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Atomera Incorporated
+(the Company on Form 10-K for the period ended December 31, 2022 as filed with the Securities and Exchange Commission on
+the date hereof (the Report ), I, Scott A. Bibaud, the Chief Executive Officer, and Francis B. Laurencio, the Chief Financial
+Officer, of the Company, respectively, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that to my knowledge: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+By: 
+ /s/ Scott A. Bibaud 
+ 
+ Dated: February 15, 2023 
+
+Scott A. Bibaud 
+
+Title: 
+ 
+ President and Chief Executive Officer 
+
+By: 
+ /s/ Francis B. Laurencio 
+ 
+ Dated: February 15, 2023 
+
+Francis B. Laurencio 
+
+Title: 
+ Chief Financial Officer 
+
+This certification is made solely for the purposes of 18 U.S.C. Section
+1350, subject to the knowledge standard contained therein, and not for any other purpose. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 7
+ atom-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ atom-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ atom-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ atom-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

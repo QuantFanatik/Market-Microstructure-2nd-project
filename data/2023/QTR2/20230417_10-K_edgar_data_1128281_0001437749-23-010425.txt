@@ -1,0 +1,2534 @@
+<Header>
+<FileStats>
+    <FileName>20230417_10-K_edgar_data_1128281_0001437749-23-010425.txt</FileName>
+    <GrossFileSize>4780447</GrossFileSize>
+    <NetFileSize>148181</NetFileSize>
+    <NonText_DocumentType_Chars>886052</NonText_DocumentType_Chars>
+    <HTML_Chars>1259013</HTML_Chars>
+    <XBRL_Chars>1265825</XBRL_Chars>
+    <XML_Chars>1111106</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-23-010425.hdr.sgml : 20230417
+<ACCEPTANCE-DATETIME>20230417154537
+ACCESSION NUMBER:		0001437749-23-010425
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		57
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230417
+DATE AS OF CHANGE:		20230417
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Saker Aviation Services, Inc.
+		CENTRAL INDEX KEY:			0001128281
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRPORTS, FLYING FIELDS & AIRPORT TERMINAL SERVICES [4581]
+		IRS NUMBER:				870617649
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-52593
+		FILM NUMBER:		23823865
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 SOUTH STREET
+		STREET 2:		PIER 6 EAST RIVER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		212-776-4046
+
+	MAIL ADDRESS:	
+		STREET 1:		20 SOUTH STREET
+		STREET 2:		PIER 6 EAST RIVER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FirstFlight, Inc.
+		DATE OF NAME CHANGE:	20070104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FBO AIR, INC.
+		DATE OF NAME CHANGE:	20040929
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SHADOWS BEND DEVELOPMENT INC
+		DATE OF NAME CHANGE:	20010220
+
+</SEC-Header>
+</Header>
+
+ 0001437749-23-010425.txt : 20230417
+
+10-K
+ 1
+ skas20221231_10k.htm
+ FORM 10-K
+
+skas20221231_10k.htm 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 
+
+(Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the Transition Period from _______________ to ________________ 
+
+Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+
+(I.R.S. Employer 
+
+incorporation or organization) 
+
+Identification No.) 
+
+, 
+
+(Address of principal executive offices) 
+
+(Zip Code) 
+
+) 
+
+ (Registrant s telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+ None 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+
+Title of each class 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262 (b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+ Yes No 
+
+As of June 30, 2022 (the last business day of the registrant s most recently completed second fiscal quarter), the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold as of the close of such business day was . 
+
+As of March 31, 2023, the Registrant had shares of its Common Stock, par value 0.03 per share, issued and outstanding. 
+
+SAKER AVIATION SERVICES, INC. AND SUBSIDIARIES 
+
+ FORM 10-K 
+
+ INDEX 
+
+ITEM 1. 
+
+BUSINESS 
+
+1 
+
+ITEM 1A. 
+
+RISK FACTORS 
+
+3 
+
+ITEM 1B. 
+
+UNRESOLVED STAFF COMMENTS 
+
+8 
+
+ITEM 2. 
+
+PROPERTIES 
+
+8 
+
+ITEM 3. 
+
+LEGAL PROCEEDINGS 
+
+8 
+
+ITEM 4. 
+
+MINE SAFETY DISCLOSURES 
+
+8 
+
+ITEM 5. 
+
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+8 
+
+ITEM 6. 
+
+[RESERVED] 
+
+9 
+
+ITEM 7. 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+9 
+
+ITEM 7A. 
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+17 
+
+ITEM 8. 
+
+FINANCIAL STATEMENTS 
+
+18 
+
+ITEM 9. 
+
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+34 
+
+ITEM 9A. 
+
+CONTROLS AND PROCEDURES 
+
+34 
+
+ITEM 9B. 
+
+OTHER INFORMATION 
+
+35 
+
+ITEM 9C. 
+
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+35 
+
+ITEM 10. 
+
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+
+36 
+
+ITEM 11. 
+
+EXECUTIVE COMPENSATION 
+
+38 
+
+ITEM 12. 
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+40 
+
+ITEM 13. 
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+42 
+
+ITEM 14. 
+
+PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+42 
+
+ITEM 15. 
+
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+44 
+
+ITEM 16. 
+
+FORM 10-K SUMMARY 
+
+45 
+
+SIGNATURES 
+
+46 
+
+THIS FORM 10-K CONTAINS FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933, AS AMENDED, AND SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. OUR ACTUAL RESULTS COULD DIFFER MATERIALLY FROM THOSE SET FORTH IN SUCH FORWARD-LOOKING STATEMENTS. CERTAIN FACTORS THAT MIGHT CAUSE SUCH A DIFFERENCE ARE DISCUSSED IN ITEM 1A, RISK FACTORS AND ITEM 7, MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS OF THIS ANNUAL REPORT ON FORM 10-K. SEE ALSO FORWARD-LOOKING STATEMENTS WITHIN SUCH ITEM 7 OF THIS ANNUAL REPORT ON FORM 10-K. 
+
+PART I 
+
+ITEM 1. 
+
+BUSINESS 
+
+General 
+
+Saker Aviation Services, Inc. we , us , our is a Nevada corporation. Our common stock, 0.03 par value per share (the common stock ), is quoted on the OTCQB Marketplace OTCQB under the symbol SKAS . Through our subsidiaries, we operate in the aviation services segment of the general aviation industry, in which we serve as the operator of a heliport. 
+
+We were formed on January 17, 2003 as a proprietorship and were incorporated in Arizona on January 2, 2004. We became a public company as a result of a reverse merger transaction on August 20, 2004 with Shadows Bend Development, Inc., an inactive public Nevada corporation, and subsequ.ly changed our name to FBO Air, Inc. On December 12, 2006, we changed our name to FirstFlight, Inc. On September 2, 2009, we changed our name to Saker Aviation Services, Inc. 
+
+Our business activities are carried out as the operator of the Downtown Manhattan (New York) Heliport and until October 31, 2022 as a fixed base operation FBO and a provider of aircraft maintenance and repair services MRO at the Garden City (Kansas) Regional Airport. FBOs provide ground-based services, such as fueling and aircraft storage for general aviation, commercial and military aircraft, and other miscellaneous services. 
+
+Our business activities at the Downtown Manhattan (New York) Heliport facility (the New York Heliport commenced in November 2008 when we were awarded the Concession Agreement by the City of New York to operate the New York Heliport, which we assigned to our subsidiary, FirstFlight Heliports, LLC d/b/a Saker Aviation Services. 
+
+We believe the tourism industry has been historically cyclical, with revenue correlated to general U.S. economic conditions. Although not truly seasonal in nature, the spring and summer months tend to generate higher levels of revenue and our operations generally follow that trend. The COVID-19 pandemic contributed to a decline in travel and tourism related businesses and general economic conditions in the United States and significantly disrupted our business and operations in the year ended December 31, 2021 and the first quarter of 2022, as well as disrupted business operations in the United States and globally. Beginning in April 2022, sightseeing tour operators saw an increase in activity and a much higher demand for tours. There can be no assurance that this increased activity will continue as demand for sightseeing tours will depend on future developments of the COVID-19 pandemic, including the duration and spread and any future related travel advisories and restrictions and associated impact on overall demand for air travel. The COVID-19 pandemic had a less substantial impact on our former operations at our Kansas FBO and MRO. Please see Item 1A. Risk Factors below. 
+
+Concession Agreement for New York Heliport 
+
+We are a party to a Concession Agreement, dated as of November 1, 2008, with the City of New York for the operation of the New York Heliport (the Concession Agreement ). Pursuant to the terms of the Concession Agreement, we must pay the greater of 18 of the first 5,000,000 in any program year based on cash collected Gross Receipts and 25 of Gross Receipts in excess of 5,000,000, or minimum annual guaranteed payments. 
+
+We and the New York City Economic Development Corporation (the NYCEDC announced new measures to reduce helicopter noise and impacts across New York City (the Air Tour Agreement ). Under the Air Tour Agreement, we have not been allowed to permit our tenant operators to conduct tourist flights from the New York Heliport on Sundays since April 1, 2016. We are also required to ensure that its tenant operators reduce the total allowable number of tourist flights from 2015 levels by 20 percent beginning June 1, 2016, by 40 percent beginning October 1, 2016 and by 50 percent beginning January 1, 2017. The Air Tour Agreement also provided for the minimum annual guarantee payments we are required to pay to the City of New York under the Concession Agreement be reduced by 50 , effective January 1, 2017. Additionally, since June 1, 2016, we have been required to provide monthly written reports to the NYCEDC and the New York City Council detailing the number of tourist flights conducted out of the New York Heliport compared to 2015 levels, as well as information on any tour flight that flies over land and/or strays from agreed upon routes. The Air Tour Agreement also extended the Concession Agreement for 30 months and gave the City of New York two one-year options to extend the term of the Concession Agreement. The term of the Concession Agreement was subsequently extended by the City of New York through April 30, 2023 by the city s exercise of both its two one-year option renewals 
+
+1
+
+On February 15, 2023, it was reported in the public record that NYCEDC would be bringing a new Concession Agreement with the Company as the operator of the Downtown Manhattan Heliport to the Franchise and Concession Review Committee meeting on March 3, 2023. The item was subsequently pulled off the agenda, with NYCEDC announcing on April 7, 2023 that the previous Request for Proposals ("RFP") had been cancelled and that it is their intention to put out a new RFP in 2023. Saker's current Concession Agreement terminates on April 30, 2023. The Company has been notified by NYCEDC that the Company will receive a new permit to operate the heliport from May 1, 2023 until a new RFP process is concluded. The Company is currently working with NYCEDC on the new agreement and expects to file a Form 8-K once the new agreement is finalized. 
+
+Lease for Garden City (Kansas) Regional Airport 
+
+As disclosed in a Current Report on Form 8-K filed with the Securities and Exchange Commission (the SEC) on October 3, 2022, FBO Air-Garden City, Inc., GCK ), one of our wholly owned subsidiaries entered into a FBO Transfer Agreement (the Transfer Agreement with Crosby Flying Services, LLC Crosby pursuant to which GCK agreed (i) to sell to Crosby substantially all of its assets and none of its liabilities, and (ii) to a seven year non-competition covenant (the Non-Compete whereby we, including our subsidiaries and affiliates, agreed not to engage in any business involving the operation of a fixed based operation supplying aviation fuels and lubricants or the supply of other goods or provision of services typically supplied or performed at fixed base operations at airports at any facility located within one hundred (100) miles of the Garden City Regional Airport in Garden City, Kansas, for 1.6 million. 
+
+As disclosed in a Current Report on Form 8-K filed with the SEC on November 2, 2022, on October 31, 2022 (the Closing Date ), the transaction contemplated by the Transfer Agreement closed and we became subject to the Non-Compete, for an aggregate purchase price of, after certain closing adjustments, approximately 1.5 million. The Crosby paid the purchase price on the Closing Date less 160,000 which is to be paid in cash upon the first anniversary of the Closing Date subject to GCK s and our compliance with the Non-Compete, pursuant to the Transfer Agreement. Both GCK leases, which allowed us to operate at the Garden City Regional Airport, were terminated by Garden City as of the October 31, 2022 closing date. 
+
+Suppliers and Raw Materials 
+
+We obtain supplies from a variety of sources, generally from more than one supplier. Our suppliers are both domestic and foreign, and we believe that our sources of supplies and materials are adequate to meet our needs for the foreseeable future. We do not believe the loss of any one supplier would have a material adverse effect on our business or results of operations. We generally purchase our supplies on the open market, where certain commodities have fluctuated in price significantly in recent years. We have not experienced any significant shortage of our key supplies. 
+
+Marketing and Sales 
+
+The main goal of our marketing and sales efforts was to increase traffic at both our Kansas facility and New York Heliport, which we believed would then drive revenue through the sale of our products and services. Our marketing and sales efforts at our Kansas location ceased with the sale of our Kansas operation on October 31, 2022. Going forward, our marketing and sales effort will be to focus advertising efforts in the environments (web, periodical and industry publications) which we believe will increase our incremental revenue from our customer s sale of services at our New York Heliport. We intend to continue to invest in improvements to our sales and marketing strategies to drive revenue growth. 
+
+2
+
+Government Approvals 
+
+The aviation services that we provide are performed on government owned real estate properties. Accordingly, at times we will need to obtain certain consents or approvals from governmental entities in conjunction with our operations. There can be no assurance that we will obtain further consents or approvals on favorable terms or be able to renew existing consents or approvals on favorable terms, if at all. 
+
+Government Regulation 
+
+We are subject to a variety of governmental laws and regulations that apply to companies in the aviation industry. These include, among other matters, compliance with the Federal Aviation Administration FAA rules and regulations, and local, regional and national rules and regulations as they relate to environmental matters. The FAA, from time to time, issues directives and other regulations relating to the management, maintenance and operation of facilities, including the potential of emergency regulations, such as those related to public health crises including pandemics and epidemics. Additionally, we may be subject to government procurement regulations as they relate to obtaining new agreements or renewing or extending existing agreements with governmental entities. Compliance with those requirements may cause us to incur significant expenditures. The proposal and enactment of additional laws and regulations, as well as any charges that we have not complied with any such laws and regulations, could significantly increase the cost of our operations and reduce overall revenue. We believe we are in compliance with, and intend to continue to comply with, all applicable government regulations but cannot provide assurance that compliance with existing laws and regulations or that laws or regulations enacted in the future will not adversely affect our business and results of operations. The adoption of new regulations could result in increased costs and have an adverse impact on our results of operations, including, for example, regulations that restricted air travel such as reduced seating capacity or possible temporary orders to cease operations as a result of public health crises. 
+
+Customers 
+
+In 2021, the Company s accounts receivable primarily comprised of two customers at our New York Heliport. These customers continued to operate throughout 2021, but at substantially reduced levels of operation when compared to pre-COVID-19 levels. For the fiscal year ended December 31, 2021, these two customers represented approximately 180,000, or 59.8 , of the balance of our accounts receivable. In addition, these two customers represented approximately 27.6 of our revenue in 2021. 
+
+One of the Company s former customers resumed operations at our New York Heliport from March 2022 through June 2022, when it ceased operation. A new tenant began operating at our New York Heliport in June 2022. Beginning in April 2022, the Company s customers began operating at pre-pandemic levels which continued through the end of 2022. For the fiscal year ended December 31, 2022, three customers represented approximately 184,000, or 75 , of the balance of our accounts receivable. In addition, these three customers represented approximately 83 of our revenue in 2022. The Company has a security deposit in place for each of these customers. 
+
+Competition 
+
+Our New York location is the only heliport authorized by New York City to perform sightseeing tours. Therefore, we face no direct competition in servicing this line of business. There are two other New York City heliports who offer fuel and corporate charter services that we face direct competition from in providing these services. 
+
+Costs and Effects of Complying With Environmental Laws 
+
+We are subject to a variety of federal, state and local environmental laws and regulations, including those that govern health and safety requirements, the discharge of pollutants into the air or water, the management and disposal of hazardous substances and wastes and the responsibility to investigate and clean up contaminated sites that are or were owned, leased, operated or used by us or our predecessors. Some of these laws and regulations require us to obtain permits, which contain terms and conditions that impose limitations on our ability to emit and discharge hazardous materials into the environment and may be periodically subject to modification, renewal and revocation by issuing authorities. Fines and penalties may be imposed for non-compliance with applicable environmental laws and regulations and the failure to have or to comply with the terms and conditions of required permits. We intend to comply with these laws and regulations. However, from time to time, our operations may not be in full compliance with the terms and conditions of our permits or licenses. We periodically review our procedures and policies for compliance with environmental laws and requirements. We believe that our operations are in material compliance with applicable environmental laws and requirements and that any potential non-compliance would not be expected to result in us incurring material liability or cost to achieve compliance. Although the cost of achieving and maintaining compliance with environmental laws and requirements has not been material, we can provide no assurance that such cost will not become material in the future. 
+
+3
+
+Employees 
+
+As of December 31, 2022, we employed 13 persons, 12 of whom were employed on a full-time basis. None of these employees were an executive officer. All of our personnel are employed in connection with our operations in New York. 
+
+Available Information 
+
+We are subject to the informational requirements of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Therefore, we file periodic reports, proxy statements and other information with the SEC. We maintain a website at www.sakeraviation.com where we make available, free of charge, documents that we file with, or furnish to, the SEC, including our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements, registration statements and any amendments to those reports. Our SEC reports can be found under the SEC Filings heading in the Investor Relations tab on our website. The information found on our website is not part of this or any other report we file with, or furnish to, the SEC. 
+
+ITEM 1A. RISK FACTORS 
+
+Risks related to our business and operations: 
+
+The impact of pandemics, including the COVID-19 pandemic, or other epidemics or widespread health crises is difficult to predict and could materially and adversely affect our business and results of operations. 
+
+Our ability to generate revenues is highly sensitive to the strength of the economies in which we operate. Any adverse public health developments in locations where we conduct business, as well as any governmental restrictive measures implemented to control such outbreaks and consumer responses to such outbreaks, could have a material adverse impact on our financial condition. These impacts, which are highly uncertain and cannot be accurately predicted, could be significant and long term. Further, any actions taken to mitigate any health crises could lead to an economic recession. For example, ." The COVID-19 pandemic has impacted the global and United States economies. Federal, state, and local governments implemented certain travel restrictions, stay-at-home orders, and social distancing initiatives which negatively impacted our operations and those of our customers. As a result of the COVID-19 pandemic, on March 17, 2020 all sightseeing tour operations at the New York Heliport ceased. On July 20, 2020, New York City started Phase 4 of the city s reopening. Sightseeing tour operators at the New York Heliport restarted operations under this phase. For the period July 20, 2020 through March 31, 2022, sightseeing tour operators experienced much lower demand for tours as compared to pre-pandemic levels of activity. Beginning in April 2022 and through the date of this report, sightseeing tour operators have seen an increase in activity and a much higher demand for tours. The COVID-19 pandemic had a less substantial impact on our operations at our Kansas FBO and MRO. 
+
+Further, there can be no assurance that cost constraint actions, if any, in response to the pandemic or any future crisis, will offset possible future impacts of the crisis. While restrictions related to the COVID-19 pandemic have eased, the ultimate impact of it or any other public health crisis on our business and results of operations will depend on, among other things, the severity and length of the health crisis, the duration, effectiveness, and extent of the mitigation measures and actions designed to contain the outbreak, the emergence, contagiousness, and threat of new and different strains of the disease, the availability and efficacy of vaccines and effective treatments, public acceptance of the vaccines, changes in customer and consumer behavior as a result of the crisis, as well as the resulting economic conditions and how quickly and to what extent normal economic and operating conditions resume, all of which are highly uncertain. Such extraordinary events and their aftermaths can cause investor fear and panic, which could further materially and adversely affect our operations, the economies in which we operate, and the financial markets generally in ways that cannot necessarily be predicted. The effects of the COVID-19 pandemic, or any future public health crisis, and mitigation measures taken in response, have had and could have a material negative impact on our business and results of operations and may amplify many of the other risk factors disclosed elsewhere in this "Item 1A. Risk Factors." 
+
+4
+
+We could be adversely affected by increases in the price, or decreases in the availability, of jet fuel. 
+
+Our operations could be significantly affected by the availability and price of jet fuel. The price and supply of jet fuel is unpredictable and fluctuates based on events we cannot control, such as geopolitical developments, including but not limited to heightened uncertainties and impacts resulting from Russian military actions in Ukraine and associated response, supply and demand for crude oil, actions by oil and jet fuel producers, actions by jet fuel refiners, conflict, unrest or economic instability in oil producing countries and regions, regional production patterns and weather conditions. A significant increase in the price of jet fuel would most likely have a material impact on our ability to achieve and maintain profitability unless we are able to pass on such costs to our customers. Due to the competitive nature of the industry, our ability to pass on increased fuel prices by increasing our rates is uncertain. Likewise, any potential benefit of lower fuel prices may be offset by increased competition and lower revenue, in general. If there are new outbreaks of hostility or other conflicts in oil producing areas or elsewhere, there could be a reduction in the availability of jet fuel or significant increases in costs to our business, as well as to the entire aviation industry, which in turn would adversely affect our business and results of operations. While we do not currently anticipate a significant reduction in fuel availability, dependency on foreign imports of crude oil and the impacts resulting from Russian military actions in Ukraine and possibility of changes in government policy on jet fuel production, transportation and marketing make it impossible to predict the future availability of jet fuel. As a result, any increases in these prices or decrease in the availability of fuel may adversely affect our profitability and competitiveness. 
+
+We could be adversely affected by the loss of our Concession Agreement with the City of New York. 
+
+All of our business is conducted and reliant on the New York Heliport. Any disruption in business at the New York Heliport or additional restrictions imposed on the operations of the New York Heliport by the NYCEDC could adversely impact our results of operations. Additionally, our business depends on us remaining as the operator of the New York Heliport. Our current Concession Agreement with the City of New York expires April 30, 2023. 
+
+On February 15, 2023, it was reported in the public record that NYCEDC would be bringing a new Concession Agreement with the Company as the operator of the Downtown Manhattan Heliport to the Franchise and Concession Review Committee meeting on March 3, 2023. The item was subsequently pulled off the agenda, with NYCEDC announcing on April 7, 2023 that the previous Request for Proposals ("RFP") had been cancelled and that it is their intention to put out a new RFP in 2023. Saker's current Concession Agreement terminates on April 30, 2023. The Company has been notified by NYCEDC that the Company will receive a new permit to operate the heliport from May 1, 2023 until a new RFP process is concluded. The Company is currently working with NYCEDC on the new agreement and expects to file a Form 8-K once the new agreement is finalized. 
+
+Our business is subject to extensive governmental regulation. 
+
+We are subject to extensive regulatory requirements that could result in significant costs. For example, the FAA, from time to time, issues directives and other regulations relating to the management, maintenance and operation of facilities, including the potential of emergency regulations, such as those related to public health crises including pandemics and epidemics. Additionally, we may be subject to government procurement regulations as they relate to obtaining new agreements or renewing or extending existing agreements with governmental entities. Compliance with those requirements may cause us to incur significant expenditures. The proposal and enactment of additional laws and regulations, as well as any charges that we have not complied with any such laws and regulations, could significantly increase the cost of our operations and reduce overall revenue. We cannot provide assurance that compliance with existing laws and regulations or that laws or regulations enacted in the future will not adversely affect our business and results of operations. 
+
+We must maintain and add key management and other personnel. 
+
+Our future success is heavily dependent on the performance of our managers. Our growth and future success depends, in large part, on the continued contributions of management and our ability to retain management. 
+
+Our growth and future success also depends on our ability to motivate and retain these personnel or hire other persons. Although we believe we will be able to retain and hire qualified personnel, we can give no assurance that we will be successful in retaining and recruiting such personnel in sufficient numbers to increase revenue, maintain profitability or successfully implement our growth strategy. If we lose the services of management or any of our key personnel, or are not able to retain or hire qualified personnel, our business could be adversely affected. 
+
+5
+
+If our employees were to unionize, our operating costs would increase and our business could be adversely affected. 
+
+None of our employees are currently represented under a collective bargaining agreement. From time to time, there may be efforts to organize our employees. There is no assurance that our employees will not unionize in the future, particularly if legislation is passed that facilitates unionization. The unionization of our employees could have a material adverse effect on our business, financial condition and results of operations due to the possibility of work stoppage, wage increases, or other developments that may result from the unionization of our employees. 
+
+Changes in minimum wage laws outside of our control could affect our profitability. 
+
+We have employees who are paid wage rates based on the applicable federal or state minimum wage and increases in the minimum wage may increase our labor costs and reduce profitability. Federal, state, or local minimum wages may be raised in the future and we may be unable or unwilling to increase our prices in order to pass these increased labor costs on to our customers, in which case, our business and results of operations could be materially and adversely affected. 
+
+We are subject to environmental laws that could impose significant costs on us and the failure to comply with such laws could subject us to sanctions and material fines and expenses. 
+
+We are subject to a variety of federal, state and local environmental laws and regulations, including those governing the discharge of pollutants into the air or water, the management and disposal of hazardous substances and wastes and the responsibility to investigate and clean-up contaminated sites that are or were owned, leased, operated or used by us or our predecessors. Some of these laws and regulations require us to obtain permits, which contain terms and conditions that impose limitations on our ability to emit and discharge hazardous materials into the environment and may be periodically subject to modification, renewal and revocation by issuing authorities. Fines and penalties may be imposed for non-compliance with applicable environmental laws and regulations, the failure to have required permits or the failure to comply with the terms and conditions of such permits. We intend to comply with all laws and regulations, however, from time to time, our operations may not be in full compliance with the terms and conditions of our permits. We periodically review our procedures and policies for compliance with environmental laws and requirements. We believe that our operations are in material compliance with applicable environmental laws, requirements and permits and any lapses in compliance are not expected to result in us incurring material liability or cost to achieve compliance. However, there can be no assurance that our operations will remain in material compliance with applicable environmental laws and requirements. Historically, the costs of achieving and maintaining compliance with environmental laws, requirements and permits have not been material; however, the operation of our business entails risks in these areas and a failure by us to comply with applicable environmental laws, regulations or permits could result in civil or criminal fines, penalties, enforcement actions, third party claims for property damage and personal injury, requirements to clean up property or to pay for the costs of cleanup and/or regulatory or judicial orders enjoining or curtailing operations or requiring corrective measures. Moreover, if applicable environmental laws and regulations, or the interpretation or enforcement thereof, become more stringent in the future, we could incur capital or operating costs beyond those currently anticipated and our business and results of operations could be harmed. 
+
+Risks related to our securities: 
+
+There is no active market for our common stock, which makes our common stock less liquid. 
+
+To date, trading of our common stock has been sporadic and nominal in volume. In addition, there are only a limited number of broker-dealers trading our common stock. As a result, there is little, if any, liquidity in our common stock. We can provide no assurance that an active trading market will ever develop. 
+
+Our common stock is subject to the penny stock rules, which makes our common stock less liquid. 
+
+The SEC has adopted a set of rules called the penny stock rules that regulate broker-dealers with respect to trading in securities with a bid price of less than 5.00. These rules do not apply to securities registered on certain national securities exchanges (including the Nasdaq Stock Market), provided that current price and volume information regarding transactions in such securities is provided by the exchange. Our stock is not listed on such an exchange and we have no expectation that our common stock will be listed on such an exchange in the future. The penny stock rules require a broker-dealer to deliver to the customer a standardized risk disclosure document prepared by the SEC that provides information about penny stocks and the nature and level of risks in the penny stock market. Additionally, the broker-dealer must provide the customer with other information. The penny stock rules also require that, prior to a transaction in a penny stock, the broker-dealer must determine in writing that the penny stock is a suitable investment for the purchaser. The broker-dealer must also receive the purchaser s written agreement to the transaction. These disclosure requirements have the effect of reducing the level of trading activity in the secondary market for a stock such as ours that is subject to the penny stock rules. 
+
+6
+
+Our common stock may not continue to be traded on the OTCQB. 
+
+We cannot provide any assurance that our common stock will continue to be eligible to be quoted on the OTCQB Marketplace OTCQB ). Should our common stock cease to be quoted on the OTCQB and fail to qualify for listing on a stock exchange (including the Nasdaq Stock Market), our common stock would only trade in the pink sheets which generally provides an even less liquid market than the OTCQB. In such event, stockholders may find it more difficult to trade their shares of our common stock or to obtain accurate and current information concerning market prices for our common stock. 
+
+Our management team currently has the ability to influence stockholder votes. 
+
+As of December 31, 2022, our executive officers, directors and their family members and associates, collectively, are entitled to vote 284,876 shares, or 29 of the 976,330 shares of our outstanding shares of common stock. Accordingly, and because there is no cumulative voting for directors, our executive officers and directors are currently in a position to influence the election of all of our Board of Directors. The management of our company is controlled by our Board of Directors, which is currently comprised of two independent directors, one non-independent director, and one executive officer/director. 
+
+General risk factors: 
+
+Potential additional financings, the granting of additional stock options and any anti-dilution provisions in potential future derivative securities could further dilute our existing stockholders. 
+
+As of December 31, 2022, there were 976,330 shares of our common stock outstanding. If all of our outstanding options were exercised, there would be 1,043,824 shares outstanding, an increase of approximately 6.9 . Any further issuances due to additional equity financings, or the granting of additional options could further dilute our existing stockholders, which could cause the value of our common stock to decline. 
+
+Our Board of Directors right to issue shares of preferred stock could adversely impact the rights of holders of our common stock. 
+
+Our Board of Directors currently has the right to authorize the issuance of up to 333,306 shares of one or more series of our preferred stock with such voting, dividend and other rights as our directors determine. Such action can be taken by our Board of Directors without the approval of our shareholders. Accordingly, the holders of any new series of preferred stock could be granted voting rights that reduce the voting power of the holders of our common stock. For example, the preferred holders could be granted the right to vote on a merger as a separate class even if the merger would not have an adverse effect on their rights. This right, if granted, would give such preferred holders a veto with respect to any merger proposal. Alternatively, such preferred holders could be granted a large number of votes per share while voting as a single class with the holders of our common stock, thereby diluting the voting power of the holders of our common stock. In addition, the holders of any new series of preferred stock could be given the option to redeem their shares for cash in the event of a merger. This would make acquiring us less attractive to a potential buyer. Thus, our Board of Directors could authorize the issuance of shares of the new series of preferred stock in order to defeat a proposal for the acquisition of our company that a majority of the holders of our common stock otherwise favor. 
+
+7
+
+ITEM 1B. 
+
+UNRESOLVED STAFF COMMENTS 
+
+Not applicable. 
+
+ITEM 2. 
+
+PROPERTIES 
+
+As of March 31, 2023, the Company operates the New York Heliport pursuant to the Concession Agreement and has no leased offices or hangar space. 
+
+ITEM 3. 
+
+LEGAL PROCEEDINGS 
+
+From time-to-time, we may be a party to, or otherwise involved in, legal proceedings arising in the ordinary course of business. As of the date of this Report, we are not aware of any proceedings, threatened or pending, against us which, if determined adversely, would have a material effect on our business, results of operations, cash flows or financial position. 
+
+ITEM 4. 
+
+MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+PART II 
+
+ITEM 5. 
+
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market Information 
+
+Our common stock is quoted on the OTCQB under the symbol SKAS . The OTCQB is a regulated quotation service that displays real-time quotes, last-sale prices and volume information in over-the-counter OTC equity securities. Our common stock is only traded on a limited or sporadic basis and should not be deemed to constitute an established public trading market. OTC quotations reflect intra-dealer prices, without retail mark-up, mark-down, or commission and may not necessarily represent actual transactions. 
+
+8
+
+The following table sets forth the high and low closing sale prices for common stock as reported on the OTCQB each full quarterly period within for the two most recent fiscal years. 
+
+Common Stock 
+
+Quarterly Period Ended 
+
+High 
+
+Low 
+
+March 31, 2021 
+
+4.00 
+
+2.16 
+
+June 30, 2021 
+
+2.95 
+
+2.30 
+
+September 30, 2021 
+
+3.20 
+
+2.19 
+
+December 31, 2021 
+
+3.85 
+
+2.35 
+
+March 31, 2022 
+
+4.20 
+
+2.50 
+
+June 30, 2022 
+
+4.91 
+
+4.10 
+
+September 30, 2022 
+
+4.78 
+
+3.51 
+
+December 31, 2022 
+
+5.75 
+
+4.10 
+
+Stock Repurchases 
+
+On November 17, 2021, the Company agreed to purchase all of the shares of the Company s common stock owned by the Company s former President and Chief Executive Officer, Mr. Ronald Ricciardi. The purchase price for the 53,789 shares was 204,399, or 3.80 a share, the previous day closing price of the Company s stock. All of Mr. Ricciardi s shares were canceled by the Company. 
+
+Holders 
+
+As of March 31, 2023, there were approximately 156 holders of record of our common stock. This number does not include beneficial owners of the common stock whose shares are held in the names of various broker-dealers, clearing agencies, banks and other fiduciaries. 
+
+ITEM 6. 
+
+[RESERVED] 
+
+Not applicable. 
+
+ITEM 7. 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-looking Statements 
+
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Forward-looking statements can be identified by words such as anticipates, intends, plans, seeks, believes, estimates, expects and similar references to future periods. These statements may include projections of revenue, provisions for doubtful accounts, income or loss, capital expenditures, repayment of debt, other financial items, statements regarding our plans and objectives for future operations, acquisitions, divestitures and other transactions, statements of future economic performance, statements of the assumptions underlying or relating to any of the foregoing statements and statements other than statements of historical fact. 
+
+Forward-looking statements are based on our current expectations and assumptions regarding our business, the economy and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncer tainties, risks and changes in circumstances that are difficult to predict. Our actual results may differ materially from those contemplated by such forward-looking statements. We therefore caution you against relying on any of these forward-looking statements because they are neither statements of historical fact nor guarantees or assurances of future performance. Important factors that could cause actual results to differ materially from those in the forward-looking statements include our services and pricing, the impact of the COVID-19 pandemic, general economic conditions, our ability to raise additional capital and the other risk factors contained in Item 1A of this report. 
+
+Any forward-looking statement made by us in this report speaks only as of the date on which it is made. Factors or events that could cause our actual results to differ may emerge from time to time and it is not possible for us to predict all of them. We undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by law. 
+
+9
+
+Overview 
+
+Saker Aviation Services, Inc. is a Nevada corporation. Our common stock, 0.03 par value per share (the common stock ), is quoted on the OTCQB Marketplace OTCQB under the symbol SKAS . Through our subsidiaries, we operate in the aviation services segment of the general aviation industry, in which we serve as the operator of a heliport. 
+
+We were formed on January 17, 2003 as a proprietorship and were incorporated in Arizona on January 2, 2004. We became a public company as a result of a reverse merger transaction on August 20, 2004 with Shadows Bend Development, Inc., an inactive public Nevada corporation, and subsequently changed our name to FBO Air, Inc. On December 12, 2006, we changed our name to FirstFlight, Inc. On September 2, 2009, we changed our name to Saker Aviation Services, Inc. 
+
+Our business activities are carried out as the operator of the New York Heliport and until October 31, 2022 as an FBO and MRO at the Garden City (Kansas) Regional Airport. On October 31, 2022, the Garden City facilities were sold and we no longer maintain an FBO or MRO at the Garden City (Kansas) Regional Airport. 
+
+Our business activities at the New York Heliport commenced in November 2008 when we were awarded the Concession Agreement by the City of New York to operate the New York Heliport, which we assigned to our subsidiary, FirstFlight Heliports, LLC d/b/a Saker Aviation Services. On February 15, 2023, it was reported in the public record that NYCEDC would be bringing a new Concession Agreement with the Company as the operator of the Downtown Manhattan Heliport to the Franchise and Concession Review Committee meeting on March 3, 2023. The item was subsequently pulled off the agenda, with NYCEDC announcing on April 7, 2023 that the previous Request for Proposals ("RFP") had been cancelled and that it is their intention to put out a new RFP in 2023. Saker's current Concession Agreement terminates on April 30, 2023. The Company has been notified by NYCEDC that the Company will receive a new permit to operate the heliport from May 1, 2023 until a new RFP process is concluded. The Company is currently working with NYCEDC on the new agreement and expects to file a Form 8-K once the new agreement is finalized. 
+
+The COVID-19 pandemic has impacted the global and United States economies. Federal, state, and local governments implemented certain travel restrictions, stay-at-home orders, and social distancing initiatives which negatively impacted our operations and those of our customers. As a result of the COVID-19 pandemic, on March 17, 2020 all sightseeing tour operations at the New York Heliport ceased. On July 20, 2020, New York City started Phase 4 of the city s reopening. Sightseeing tour operators at the New York Heliport restarted operations under this phase. 
+
+For the period July 20, 2020 through March 31, 2022, sightseeing tour operators experienced much lower demand for tours as compared to pre-pandemic levels of activity. Beginning in April 2022, sightseeing tour operators had an increase in activity and a much higher demand for tours. 
+
+Our long-term strategy is to increase our sales through growth within our aviation services operations. To do so, we may expand our geographic reach and product offering through strategic acquisitions and improved market penetration within the markets we serve. We expect that any future acquisitions or product offerings would be to complement and/or augment our current aviation services operations. 
+
+10
+
+Summary Financial Information 
+
+The summary financial data set forth below is derived from and should be read in conjunction with the consolidated financial statements, including the notes thereto, filed as part of this Annual Report on Form 10-K. 
+
+Consolidated Statement of Operations Data: 
+
+Year Ended 
+			December 31, 
+
+			 2022 
+
+Year Ended 
+
+			 December 31, 
+
+			 2021 
+
+(in thousands, except for share and per share data) 
+
+Revenue 
+
+7,599 
+
+2,400 
+
+Operating income, before income tax expense 
+
+732 
+
+441 
+
+Other income, before income tax expense 
+
+628 
+
+308 
+
+Income from continuing operations, before income taxes 
+
+1,361 
+
+749 
+
+Income tax expense 
+
+(300 
+
+(150 
+
+Discontinued operations (loss) income, net of income taxes 
+
+186 
+
+127 
+
+Net Income 
+
+1,247 
+
+726 
+
+Net income per share basic 
+
+1.28 
+
+0.71 
+
+Net income per share diluted 
+
+1.26 
+
+0.71 
+
+Weighted average number of shares basic 
+
+976,048 
+
+1,023,709 
+
+Weighted average number of shares diluted 
+
+987,149 
+
+1,026,729 
+
+Balance Sheet Data: (in thousands) 
+
+December 31, 
+
+			 2022 
+
+December 31, 
+
+			 2021 
+
+Working capital surplus 
+
+5,740 
+
+3,442 
+
+Total assets 
+
+6,913 
+
+5,602 
+
+Total liabilities 
+
+1,130 
+
+1,138 
+
+Stockholders equity 
+
+5,783 
+
+4,464 
+
+Total liabilities and Stockholders equity 
+
+6,913 
+
+5,602 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Comparison of Results for the Years Ended December 31, 2022 and December 31, 2021. 
+
+REVENUE AND RESULTS OF CONTINUING OPERATIONS 
+
+DISCONTINUED OPERATIONS 
+
+As disclosed in a Current Report on Form 8-K filed with the SEC on November 2, 2022, on October 31, 2022, the Company sold its subsidiary FBO and MRO operations of FBO Air-Garden City, Inc. GCK to Crosby Flying Services, LLC Crosby for an aggregate purchase price of 1.6 million. Crosby paid the purchase price on October 31, 2022 less 160,000 (the Installment Payment which is to be paid in cash upon the first anniversary of the Closing Date. The Installment Payment is subject to GCK s and the Company s compliance with a Non-Compete agreement. GCK results of operations have been reported as discontinued operations in the Condensed Consolidated Statements of Operations for the year ended December 31, 2022 and 2021. 
+
+Comparison of Continuing Operations from the Twelve Months Ended December 31, 2022 and December 31, 2021. 
+
+REVENUE 
+
+Revenue from continuing operations increased by 216.6 percent to 7,598,597 for the twelve months ended December 31, 2022 as compared with corresponding prior-year period revenue of 2,400,316. 
+
+For the twelve months ended December 31, 2022, revenue from continuing operations associated with services and supply items increased by 240.7 percent to approximately 5,747,000 as compared to approximately 1,687,000 in the twelve months ended December 31, 2021. This increase was attributable to increased demand for services at our New York location in 2022 compared to the prior year, which was negatively impacted by the COVID-19 pandemic. 
+
+For the twelve months ended December 31, 2022, revenue from continuing operations associated with the sale of jet fuel and related items increased by 261.6 percent to approximately 1,582,000 as compared to approximately 438,000 in the twelve months ended December 31, 2021. This increase was attributable to the higher volume of gallons and price of jet fuel sold at our New York location in 2022 compared to the prior year, which was negatively impacted by the COVID-19 pandemic. 
+
+11
+
+For the twelve months ended December 31, 2022, all other revenue from continuing operations decreased by 2.4 percent to approximately 269,000 as compared to approximately 276,000 in the twelve months ended December 31, 2021. 
+
+GROSS PROFIT 
+
+Total gross profit increased 152.8 percent to 4,613,317 in the twelve months ended December 31, 2022 as compared to 1,824,954 in the twelve months ended December 31, 2021. Gross margin was 60.7 percent for the twelve months ended December 31, 2022 as compared to 76.0 percent for the same period in 2021. Gross profit for the year ended December 31, 2021 was positively impacted by Employee Retention Tax Credits due the Company under the CARES Act. These credits were recorded in the second and third quarters of 2021. The increase in gross profit is also related to higher levels of activity at our New York location in 2022 as compared to the prior year. The decrease in gross margin is related to the higher cost of jet fuel and higher costs associated with services and supplies in 2022 as compared to the prior year. 
+
+OPERATING EXPENSE 
+
+Selling, General and Administrative 
+
+Total selling, general and administrative expenses SG A were 3,880,902 in the twelve months ended December 31, 2022, an increase of 2,496,494, or 180.3 percent, as compared to the same period in 2021. 
+
+SG A associated with our New York operations were approximately 3,329,000 in the twelve months ended December 31, 2022, an increase of approximately 2,416,000, or 264.6 percent, as compared to the twelve months ended December 31, 2021. SG A associated with our New York operations, as a percentage of revenue, was 43.8 percent for the twelve months ended December 31, 2022, as compared with 38.0 percent in the corresponding prior year period. The increase in SG A was primarily attributable to increased fees due under the Company s management agreement and fees due the NYCEDC in 2022 compared to the prior year due to pre-pandemic levels of activity beginning in April, 2022. 
+
+Corporate SG A was approximately 552,000 for the twelve months ended December 31, 2022, representing an increase of approximately 81,000, or 17.2 percent, as compared with the corresponding prior year period. The increase in Corporate SG A on a year-over-year basis was largely attributable to non-recurring expenses in 2022. 
+
+OPERATING INCOME 
+
+Operating income for the year ended December 31, 2022 was 732,414 as compared to operating income of 440,546 in the year ended December 31, 2021. The increase in operating income on a year-over-year basis was driven by the factors described above. 
+
+Depreciation and Amortization 
+
+Depreciation and amortization was approximately 100,089 and 128,990 for the twelve months ended December 31, 2022 and 2021, respectively. The decrease in depreciation expense was attributable to assets becoming fully depreciated in 2022. 
+
+Interest Income and Expense 
+
+Interest income was 3,302 and 3,780 for the twelve months ended December 31, 2022 and 2021, respectively. Interest expense for the year ended December 31, 2022 was 17,979, as compared to 24,823 in the same period in 2021. Interest expense in both years is included in gain (loss) from discontinued operations. The decrease in interest expense on a year-over-year basis was due primarily to the repayment of notes payable in connection with the sale of our Kansas operation on October 31, 2022. 
+
+12
+
+Impairment of Goodwill and Other Intangibles 
+
+We had 0 and 750,000 of goodwill at December 31, 2022 and 2021, respectively. The Company s goodwill was included in the sale of the Company s Kansas location on October 31, 2022. 
+
+Income Tax Expense 
+
+Income tax expense for the twelve months ended December 31, 2022 was approximately 300,000 , as compared to 150,000 in the same period in 2021. The increase in income tax expense is attributable to higher net income in the twelve months ended December 31, 2022 as compared to 2021. 
+
+Net Income Per Share 
+
+Net income for the twelve months ended December 31, 2022 was 1,246,621 as compared to net income of 726,184 in the twelve months ended December 31, 2021. The increase in net income was attributable to higher revenue at our New York location as well as an increase in other income in 2022 as compared to 2021. 
+
+Basic net income per share for the twelve months ended December 31, 2022 was 1.28 as compared to basic net income per share of 0.71 in 2021. Diluted net income per share for the twelve months ended December 31, 2022 was 1.26 as compared to diluted net income per share of 0.71 in 2021. 
+
+Liquidity and Capital Resources 
+
+As of December 31, 2022, we had cash and restricted cash of 5,977,157 and a working capital surplus of 5,739,663. We generated revenue from continuing operations of 7,598,597 and had net income of 1,246,621 for the year ended December 31, 2022 . For the year ended December 31, 2022, cash flows included net cash provided by operating activities of 2,435,018, net cash provided by investing activities of 1,201,853, and net cash used in financing activities of 106,620. 
+
+As disclosed in a Current Report on Form 8-K filed on March 21, 2018 with the SEC, on March 15, 2018 the Company entered into a loan agreement (the Loan Agreement with Key Bank National Association (the Bank ). The Loan Agreement contains three components: (i) a 2,500,000 acquisition line of credit (the Key Bank Acquisition Note ); (ii) a 1,000,000 revolving line of credit (the Key Bank Revolver Note ); and (iii) a 338,481 term loan (the Key Bank Term Note ). On October 11, 2018, and as subsequently amended, the Company entered into a new loan agreement with the Bank (as so amended, the Change of Terms Agreement which modified the original terms of the Key Bank Acquisition Note. The Bank notified the Company of its decision to discontinue the Key Bank Acquisition Note, effective June 30, 2021. There were no amounts due under the Key Bank Acquisition Note as of the date it was discontinued. All amounts due under the Key Bank Term Note have been repaid. 
+
+The Key Bank Revolver Note, at the discretion of the Bank, provides for the Company to borrow up to 1,000,000 for working capital and general corporate purposes. This revolving line of credit is a demand note with no stated maturity date. Borrowings under the Key Bank Revolver Note will bear interest at a rate per annum equal to Daily Simple SOFR plus 2.75 . The Company is required to make monthly payments of interest on any outstanding principal under the Key Bank Revolver Note and is required to pay the entire balance, including principal and all accrued and unpaid interest and fees, upon demand by the Bank. Any proceeds from the Key Bank Revolver Note would be secured by substantially all of the Company s assets. There were no amounts due under the Key Bank Revolver Note at December 31, 2022 or 2021. 
+
+On August 14, 2020, the Company was granted a loan from the Bank (the Loan in the amount of 304,833, pursuant to the Paycheck Protection Program (PPP) under Division, Title I of the CARES Act, which was enacted March 27, 2020. The Loan, which was in the form of a note dated August 14, 2020, was to mature in August 2025 and bore interest at a rate of 1 per annum and was payable in monthly installments commencing on, or before, October 31, 2021 if not forgiven and legally released. At December 31, 2020, in accordance with FASB ASC 470, Debt, and ASC 405-20, Liabilities Extinguishment of Liabilities, the Company recorded the cash inflow from the Loan as a liability, and cash flows from financing, pending legal release from the obligation by the U.S. Small Business Administration S.B.A. ). The Company used the Loan proceeds for eligible expenses during the covered period and the Loan was forgiven and legally released by the S.B.A. in full in the second quarter of 2021. The Company recorded the forgiveness of the Loan as a gain on extinguishment of debt PPP Loan in 2021. 
+
+13
+
+The Company is party to a Concession Agreement, dated as of November 1, 2008, with the City of New York for the operation of the New York Heliport (the Concession Agreement ). Pursuant to the terms of the Concession Agreement, the Company must pay the greater of 18 of the first 5,000,000 in any program year based on cash collected Gross Receipts and 25 of Gross Receipts in excess of 5,000,000, or minimum annual guaranteed payments. 
+
+As disclosed in a Current Report on Form 8-K filed with the SEC on February 5, 2016, the Company and the New York City Economic Development Corporation (the NYCEDC announced new measures to reduce helicopter noise and impacts across New York City (the Air Tour Agreement ). Under the Air Tour Agreement, the Company has not been allowed to permit its tenant operators to conduct tourist flights from the New York Heliport on Sundays since April 1, 2016. The Company was also required to ensure that its tenant operators reduce the total allowable number of tourist flights from 2015 levels by 20 percent beginning June 1, 2016, by 40 percent beginning October 1, 2016 and by 50 percent beginning January 1, 2017. The Air Tour Agreement also provided for the minimum annual guarantee payments the Company is required to pay to the City of New York under the Concession Agreement be reduced by 50 , effective January 1, 2017. Additionally, since June 1, 2016, the Company has been required to provide monthly written reports to the NYCEDC and the New York City Council detailing the number of tourist flights conducted out of the New York Heliport compared to 2015 levels, as well as information on any tour flight that flies over land and/or strays from agreed upon routes. The Air Tour Agreement also extended the Concession Agreement for 30 months, resulting in a new expiration date of April 30, 2021 and gave the City of New York two one-year options to extend the term of the Concession Agreement. The term of the Concession Agreement was subsequently extended by the City through April 30, 2023 by the City s exercise of both one-year option renewals. 
+
+The reductions under the Air Tour Agreement have negatively impacted the Company s business and financial results as well as those of its management company at the New York Heliport, Empire Aviation. The Company incurred management fees with Empire Aviation of approximately 2,138,000 and 0 during the twelve months ended December 31, 2022 and 2021, respectively. Empire Aviation notified the Company that it believes additional fees are due under the management agreement with the New York Heliport for both 2021 and 2020. If the Company is unable to come to an agreement with Empire Aviation regarding amounts due under the agreement, the Company could incur additional expense as disclosed in the Company s 2021 Annual Report on Form 10-K (Note 10. Contingent Liabilities). 
+
+During the program year that began on May 1, 2020, the City of New York agreed, in recognition of the pandemic s impact, that the Company could defer payment of minimum guaranteed payments. In April 2021, the City of New York waived the deferred fees through December 31, 2020. In May 2021, the City of New York waived the deferred fees through April 30, 2021 which coincided with the original expiration of the Concession Agreement as amended by the Air Tour Agreement. The Company worked with the City of New York to address fees to be paid by the Company for the period May 1, 2021 through December 31, 2021. In March 2022, the City of New York agreed to accept 18 of monthly Gross Receipts in excess of 100,000 as Concession fees for this period. In April 2022, the Company agreed to resume paying the City of New York the total monthly amounts due under the Concession Agreement retro-active to January 2022 and to continue paying fees due under the Concession Agreement through the remainder of the Air Tour Agreement. During the twelve months ended December 31, 2022 and 2021, we incurred approximately 1,509,000 and 192,000 in concession fees, respectively, which are recorded in the cost of revenue. 
+
+On February 15, 2023, it was reported in the public record that NYCEDC would be bringing a new Concession Agreement with the Company as the operator of the Downtown Manhattan Heliport to the Franchise and Concession Review Committee meeting on March 3, 2023. The item was subsequently pulled off the agenda, with NYCEDC announcing on April 7, 2023 that the previous Request for Proposals ("RFP") had been cancelled and that it is their intention to put out a new RFP in 2023. Saker's current Concession Agreement terminates on April 30, 2023. The Company has been notified by NYCEDC that the Company will receive a new permit to operate the heliport from May 1, 2023 until a new RFP process is concluded. The Company is currently working with NYCEDC on the new agreement and expects to file a Form 8-K once the new agreement is finalized. 
+
+14
+
+On April 20, 2018, the Company s Kansas subsidiary entered into a purchase lease with Commerce Bank for a refueling truck (the Truck Lease ). The Truck Lease commenced on May 1, 2018 and continues for 60 months with a monthly payment of 2,568 and an interest rate of 5.5 . At the end of the Truck Lease, the Company s subsidiary may purchase the vehicle for 1.00. The refueling truck was included in the sale of the Company s Kansas subsidiary and the Truck Lease was paid in full at closing. 
+
+On May 1, 2021, the Company s Kansas subsidiary executed a promissory note for 76,000 with Avfuel Corporation Avfuel for the purchase of a Jet-A refueling truck (the Truck Note ). The Truck Note requires six annual payments of 13,432.56 commencing April 30, 2022 with the entire balance of unpaid principal and interest due on, or before, April 30, 2028. Interest accrues at prime plus 3 on the outstanding principal amount. The Company is required to make prepayments against the Truck Note at the rate of 0.018 per gallon of fuel purchased under a fuel supply agreement between the Company and Avfuel. The Jet-A refueling truck was included in the sale of the Company s Kansas subsidiary and the Truck Note was paid in full at closing. 
+
+During the twelve months ended December 31, 2022, we had a net increase in cash of 3,530,251. Our sources and uses of funds during this period were as follows: 
+
+Cash from Operating Activities 
+
+For the year ended December 31, 2022, net cash provided by operating activities was 1,712,556. This amount included an increase in operating cash related to net profit of 1,246,621 and additions for the following items: (i) depreciation, 100,089; (ii) stock based compensation, 71,995; (iii) accounts receivable, 60,866; (iv)inventories, 227,091; (v) income tax receivable, 573,679; (vi) prepaid expenses, 150,805; (vii) customer deposits, 123,755; (viii) accounts payable, 116,284; and (vii) accrued expenses, 192,689. The increase in cash provided by operating activities in 2022 was offset by the following item: (i) gain on sale of assets, 431,318 and life insurance proceeds (500,000). For the year ended December 31, 2021, net cash provided by operating activities was 813,751. This amount included an increase in operating cash related to net profit of 726,184 and additions for the following items: (i) depreciation, 128,990; (ii) stock based compensation, 34,392; (iii) extinguishment of debt, 304,833; (iv)income tax receivable, 261,922; (v) customer deposits, 2,512; (vi) accounts payable, 150,200; and (vii) accrued expenses, 185,266. The increase in cash provided by operating activities in 2021 was offset by the following items: (i) accounts receivable, trade, 43,308; (ii) inventories, 79,485; and (iii) prepaid expenses, 248,089. 
+
+Cash from Investing Activities 
+
+For the year ended December 31, 2022, net cash provided by investing activities was 1,424,315. This amount included (i) net proceeds from sale of assets, 1,440,000; and (ii) the purchase of property and equipment, 15,685. For the year ended December 31, 2021, net cash used in investing activities was 81,544 for purchases of property and equipment. 
+
+Cash from Financing Activities 
+
+For the year ended December 31, 2022, net cash provided by financing activities was 393,380. This amount included proceeds from life insurance 500,000 offset by (i) repayment of notes payable, 67,045; and (ii) repayment of right of use lease payables, 39,575. For the year ended December 31, 2021, net cash used in financing activities was 184,383. This amount included an addition for the issuance of notes payable of 76,000 offset by the following items: (i) purchase and cancellation of common stock, 204,399; (ii) repayment of notes payable, 8,955; and (iii) repayment of right of use leases, 47,029. 
+
+Off-Balance Sheet Arrangements 
+
+We have not entered into any transactions with unconsolidated entities in which we have financial guarantees, subordinated retained interests, derivative instruments or other contingent arrangements that expose us to material continuing risks, contingent liabilities or any other obligations under a variable interest in an unconsolidated entity that provides us with financing, liquidity, market risk or credit risk support. 
+
+15
+
+Critical Accounting Estimates 
+
+Discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with generally accepted accounting principles in the United States. The preparation of these consolidated financial statements requires us to make estimates and judgments that affect the amounts reported in the consolidated financial statements and the accompanying notes. We evaluate our estimates on an ongoing basis, including those estimates related to product returns, product and content development expenses, bad debts, inventories, intangible assets, income taxes, contingencies and litigation. We base our estimates on experience and on various assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. 
+
+The critical accounting policies which we believe affect our more significant judgments and estimates used in the preparation of our consolidated financial statements are provided as follows: 
+
+Accounts Receivable 
+
+In 2021, the Company s accounts receivable was primarily comprised of two customers at our New York Heliport. These customers continued to operate throughout 2021, but at substantially reduced levels of operation when compared to pre-pandemic levels. For the fiscal year ended December 31, 2021, these two customers represented approximately 180,000, or 59.8 , of the balance of accounts receivable. In addition, these two customers represented approximately 27.6 of our revenue in 2021. The Company has a security deposit in place in connection with both of these receivables. 
+
+In March 2022, one of the Company s former customers resumed operations. In June 2022, this customer ceased operating. In June 2022, a new tenant began operating at our New York Heliport. Beginning in April 2022, the Company s customers began operating at pre-pandemic levels which continued through the end of 2022. For the fiscal year ended December 31, 2022, the Company s three customers represented approximately 184,000, or 75 , of the balance of accounts receivable. In addition, these three customers represented approximately 83 of our revenue in 2022. The Company has a security deposit in place for each of these customers. 
+
+Goodwill and Intangible Assets 
+
+Goodwill and intangibles that are deemed to have indefinite lives are not amortized but, instead, are to be reviewed at each reporting period for impairment. We assessed potential impairment of goodwill using qualitative factors by considering various factors including macroeconomic conditions, industry and market conditions, cost factors, a sustained share price or market capitalization decrease and any reporting unit specific events. We performed an analysis of our goodwill and intangible assets at December 31, 2021. The Company had no goodwill recorded as of December 31, 2022 due to the sale of the Company s Kansas location on October 31, 2022. 
+
+Income Taxes 
+
+Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between their financial statement carrying amounts and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. 
+
+Deferred tax assets are subject to a valuation allowance because it is more likely than not that certain of the deferred tax assets will not be realized in future periods. During 2020 we experienced a decrease in demand and minimal activity in our business. The extent of the impact of COVID-19 on our operational and financial performance cannot be predicted and will depend on future developments, including the duration and spread of the outbreak, related travel advisories and restrictions. Accordingly, we have established a valuation allowance on net deferred assets. We file income tax returns in the United States (federal) and in various state and local jurisdictions. In most instances, we are no longer subject to federal, state and local income tax examinations by tax authorities for years prior to 2019. 
+
+16
+
+Stock Based Compensation 
+
+Stock-based compensation expense for all share-based payment awards are based on the estimated grant-date fair value. We recognize these compensation costs over the requisite service period of the award, which is generally the option vesting term. 
+
+Option valuation models require the input of highly subjective assumptions, including the expected life of the option. Because our employee stock options have characteristics significantly different from those of traded options, and because changes in the subjective input assumptions can materially affect the fair value estimate, in management's opinion, the existing models do not necessarily provide a reliable single measure of the fair value of its employee stock options. 
+
+ITEM 7A. 
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not applicable. 
+
+17
+
+ITEM 8. 
+
+FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA 
+
+SAKER AVIATION SERVICES, INC. AND SUBSIDIARIES 
+
+Table of Contents to Consolidated Financial Statements 
+
+Report of Independent Registered Public Accounting Firm 
+
+19 
+
+Consolidated Financial Statements 
+
+Consolidated Balance Sheets as of December 31, 2022 and 2021 
+
+21 
+
+Consolidated Statements of Operations For the Years Ended December 31, 2022 and 2021 
+
+22 
+
+Consolidated Statements of Stockholders Equity For the Years Ended December 31, 2022 and 2021 
+
+23 
+
+Consolidated Statements of Cash Flows For the Years Ended December 31, 2022 and 2021 
+
+24 
+
+Notes to Consolidated Financial Statements 
+
+25 
+
+18
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Audit Committee of the Board of Directors and Stockholders of 
+
+ Saker Aviation Services, Inc. 
+
+Opinion on the Consolidated Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of Saker Aviation Services, Inc. and Subsidiaries (the "Company") as of December 31, 2022 and 2021, the related consolidated statements of operations, stockholders equity and cash flows, for the years then ended, and the related notes (collectively referred to as the "consolidated financial statements"). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of their operations and their cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Contingent Liabilities 
+
+As described in Note 14 to the consolidated financial statements, Management assesses matters to determine whether it can reasonably estimate the amount of a loss contingency and whether the loss is probable. Where the reasonable estimate of the probable loss is a range, Management records as an accrual in its financial statements the most likely estimate of the loss or the low end of the range, if there is no best estimate. Management either discloses the amount of a possible loss or range of a loss in excess of the recorded accrual or states that such an estimate cannot be made. Management discloses significant contingencies even where the liability is not probable or the amount of the loss is not estimable, or both, if management believes there is at least a reasonable possibility that a loss may be incurred. 
+
+The principal considerations for our determination that performing procedures relating to loss contingencies is a critical audit matter are the significant judgment by Management when assessing the likelihood of a loss being incurred and when estimating the loss or range of loss for each contingency, which in turn led to significant auditor judgment, subjectivity and effort in performing procedures and evaluating Management s assessment of the liabilities and disclosure associated with loss contingencies. 
+
+19
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included auditing the estimated range of loss provided by Management to determine if the amount of loss can be reasonably estimated, as well as financial statement disclosures. These procedures also included, among others, evaluating the reasonableness of Management s assessment regarding whether the loss is probable and evaluating the sufficiency of the Company s disclosures related to this contingency. 
+
+/s/ Kronick Kalada Berdy Co. P.C. 
+
+We have served as the Company's auditor since 2009. 
+
+April 17, 2023 
+
+ PCAOB ID No. 
+
+20
+
+SAKER AVIATION SERVICES, INC. AND SUBSIDIARIES 
+
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+December 31, 
+
+			 2022 
+
+December 31, 
+
+			 2021 
+
+ASSETS 
+
+CURRENT ASSETS 
+
+Cash and restricted cash 
+
+Accounts receivable 
+
+Non-Compete receivable 
+
+Inventories 
+
+Income tax receivable 
+
+Prepaid expenses 
+
+Assets of discontinued operations 
+
+Total current assets 
+
+PROPERTY AND EQUIPMENT , net of accumulated depreciation and amortization of and respectively 
+
+Assets of discontinued operations 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+CURRENT LIABILITIES 
+
+Accounts payable 
+
+Customer deposits 
+
+Accrued expenses 
+
+Liabilities of discontinued operations 
+
+Total liabilities 
+
+LONG-TERM LIABILITIES 
+
+Liabilities of discontinued operations 
+
+TOTAL LIABILITIES 
+
+STOCKHOLDERS EQUITY 
+
+Preferred stock - par value; authorized ; none issued and outstanding 
+
+Common stock - par value; authorized ; and shares issued and outstanding as of December 31, 2022 and 2021, respectively 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+TOTAL STOCKHOLDERS EQUITY 
+
+TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+
+See accompanying notes to consolidated financial statements. 
+
+21
+
+SAKER AVIATION SERVICES, INC. AND SUBSIDIARIES 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+For the Years Ended 
+
+			 December 31, 
+
+2022 
+
+2021 
+
+REVENUE 
+
+COST OF REVENUE 
+
+GROSS PROFIT 
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES 
+
+OPERATING INCOME 
+
+OTHER INCOME: 
+
+BAD DEBT RECOVERY 
+
+LIFE INSURANCE PROCEEDS, FORMER PRESIDENT 
+
+GAIN ON EXTINGUISHMENT OF DEBT PPP LOAN 
+
+INTEREST INCOME 
+
+TOTAL OTHER INCOME 
+
+INCOME FROM CONTINUING OPERATIONS, before income taxes 
+
+INCOME TAX EXPENSE 
+
+INCOME FROM CONTINUING OPERATIONS, net 
+
+DISCONTINUED OPERATIONS: 
+
+(Loss) Income from 
+
+Gain on Sale of Assets 
+
+Income tax expense 
+
+INCOME FROM DISCONTINUED OPERATIONS, net of income taxes 
+
+NET INCOME 
+
+Basic Net Income Per Common Share 
+
+Diluted Net Income Per Common Share 
+
+Weighted Average Number of Common Shares Basic 
+
+Weighted Average Number of Common Shares Diluted 
+
+See accompanying notes to consolidated financial statements. 
+
+22
+
+SAKER AVIATION SERVICES, INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+
+ FOR YEARS ENDED DECEMBER 31, 2022 AND 2021 
+
+Additional 
+
+Total 
+
+Common Stock 
+
+Paid-in 
+
+Accumulated 
+
+Stockholders 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Equity 
+
+BALANCE January 1, 2021 
+
+Amortization of stock based compensation 
+
+Purchase and cancellation of Common Stock 
+
+Net income 
+
+BALANCE December 31, 2021 
+
+Amortization of stock based compensation 
+
+Issuance of Common Stock in connection with a cashless exercise of stock options 
+
+Net income 
+
+BALANCE December 31, 2022 
+
+See accompanying notes to consolidated financial statements. 
+
+23
+
+SAKER AVIATION SERVICES, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+For the Years Ended 
+
+			 December 31, 
+
+2022 
+
+2021 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net income 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+Life insurance proceeds 
+
+Stock based compensation 
+
+Gain on sale of assets 
+
+Gain on extinguishment of debt - PPP loan 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Inventories 
+
+Income tax receivable 
+
+Prepaid expenses 
+
+Customer deposits 
+
+Accounts payable 
+
+Accrued expenses 
+
+TOTAL ADJUSTMENTS 
+
+NET CASH PROVIDED BY OPERATING ACTIVITIES 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Net proceeds from sale of assets 
+
+Purchase of property and equipment 
+
+NET CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Purchase and cancellation of common stock 
+
+Proceeds from notes payable 
+
+Proceeds from life insurance 
+
+Repayment of notes payable 
+
+Repayment of right of use leases payable 
+
+NET CASH, PROVIDED BY (USED IN) FINANCING ACTIVITIES 
+
+NET CHANGE IN CASH AND RESTRICTED CASH 
+
+CASH AND RESTRICTED CASH Beginning 
+
+CASH AND RESTRICTED CASH Ending 
+
+NON-CASH INVESTING ACTIVITIES 
+
+Net proceeds from sale of assets was reduced by issuance of a note receivable 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION: 
+
+Cash paid during the periods for: 
+
+Interest 
+
+Income taxes 
+
+See accompanying notes to consolidated financial statements. 
+
+24
+
+SAKER AVIATION SERVICES, INC. AND SUBSIDIARIES
+
+Notes To Consolidated Financial Statements
+
+and a working capital surplus of . We generated revenue from continuing operations of and had net income of for the year ended December 31, 2022 . For the year ended December 31, 2022, cash flows included net cash provided by operating activities of , net cash provided by investing activities of , and net cash provided by financing activities of . 
+
+As disclosed in a Current Report on Form 8-K filed on March 21, 2018 with the SEC, on March 15, 2018 the Company entered into a loan agreement (the Loan Agreement with Key Bank National Association (the Bank ). The Loan Agreement contains three components: (i) a acquisition line of credit (the Key Bank Acquisition Note ); (ii) a revolving line of credit (the Key Bank Revolver Note ); and (iii) a term loan (the Key Bank Term Note ). On October 11, 2018, and as subsequently amended, the Company entered into a new loan agreement with the Bank (as so amended, the Change of Terms Agreement which modified the original terms of the Key Bank Acquisition Note. The Bank notified the Company of its decision to discontinue the Key Bank Acquisition Note, effective June 30, 2021. There were no amounts due under the Key Bank Acquisition Note as of the date it was discontinued. All amounts due under the Key Bank Term Note have been repaid. 
+
+The Key Bank Revolver Note, at the discretion of the Bank, provides for the Company to borrow up to for working capital and general corporate purposes. This revolving line of credit is a demand note with no stated maturity date. Borrowings under the Key Bank Revolver Note will bear interest at a rate per annum equal to Daily Simple SOFR plus . The Company is required to make monthly payments of interest on any outstanding principal under the Key Bank Revolver Note and is required to pay the entire balance, including principal and all accrued and unpaid interest and fees, upon demand by the Bank. Any proceeds from the Key Bank Revolver Note would be secured by substantially all of the Company s assets. There were no amounts due under the Key Bank Revolver Note at December 31, 2022 or 2021. 
+
+On August 14, 2020, the Company was granted a loan from the Bank (the Loan in the amount of , pursuant to the Paycheck Protection Program (PPP) under Division, Title I of the CARES Act, which was enacted March 27, 2020. The Loan, which was in the form of a note dated August 14, 2020, was to mature in August 2025 and bore interest at a rate of 1 per annum and was payable in monthly installments commencing on, or before, October 31, 2021 if not forgiven and legally released. At December 31, 2020, in accordance with FASB ASC 470, Debt, and ASC 405-20, Liabilities Extinguishment of Liabilities, the Company recorded the cash inflow from the Loan as a liability, and cash flows from financing, pending legal release from the obligation by the U.S. Small Business Administration S.B.A. ). The Company used the Loan proceeds for eligible expenses during the covered period and the Loan was forgiven and legally released by the S.B.A. in full in the second quarter of 2021. The Company recorded the forgiveness of the Loan as a gain on extinguishment of debt PPP Loan in 2021. 
+
+The Company is party to a Concession Agreement, dated as of November 1, 2008, with the City of New York for the operation of the New York Heliport (the Concession Agreement ). Pursuant to the terms of the Concession Agreement, the Company must pay the greater of of the first in any program year based on cash collected Gross Receipts and of Gross Receipts in excess of 5,000,000, or minimum annual guaranteed payments. 
+
+As disclosed in a Current Report on Form 8-K filed with the SEC on February 5, 2016, the Company and the New York City Economic Development Corporation (the NYCEDC announced new measures to reduce helicopter noise and impacts across New York City (the Air Tour Agreement ). Under the Air Tour Agreement, the Company has not been allowed to permit its tenant operators to conduct tourist flights from the New York Heliport on Sundays since April 1, 2016. The Company was also required to ensure that its tenant operators reduce the total allowable number of tourist flights from 2015 levels by percent beginning June 1, 2016, by percent beginning October 1, 2016 and by percent beginning January 1, 2017. The Air Tour Agreement also provided for the minimum annual guarantee payments the Company is required to pay to the City of New York under the Concession 
+
+Agreement be reduced by , effective January 1, 2017. Additionally, since June 1, 2016, the Company has been required to provide monthly written reports to the NYCEDC and the New York City Council detailing the number of tourist flights conducted out of the New York Heliport compared to 2015 levels, as well as information on any tour flight that flies over land and/or strays from agreed upon routes. The Air Tour Agreement also extended the Concession Agreement for months, resulting in a new expiration date of April 30, 2021 and gave the City of New York two one-year options to extend the term of the Concession Agreement. The term of the Concession Agreement was subsequently extended by the City through April 30, 2023 by the City s exercise of both one-year option renewals. 
+
+The reductions under the Air Tour Agreement have negatively impacted the Company s business and financial results as well as those of its management company at the New York Heliport, Empire Aviation. The Company incurred management fees with Empire Aviation of approximately and during the twelve months ended December 31, 2022 and 2021, respectively. Empire Aviation notified the Company that it believes additional fees are due under the management agreement with the New York Heliport for both 2021 and 2020. If the Company is unable to come to an agreement with Empire Aviation regarding amounts due under the agreement, the Company could incur additional expense (See Note 10. Contingent Liabilities). 
+
+During the program year that began on May 1, 2020, the City of New York agreed, in recognition of the pandemic s impact, that the Company could defer payment of minimum guaranteed payments. In April 2021, the City of New York waived the deferred fees through December 31, 2020. In May 2021, the City of New York waived the deferred fees through April 30, 2021 which coincided with the original expiration of the Concession Agreement as amended by the Air Tour Agreement. The Company worked with the City of New York to address fees to be paid by the Company for the period May 1, 2021 through December 31, 2021. In March 2022, the City of New York agreed to accept of monthly Gross Receipts in excess of as Concession fees for this period. In April 2022, the Company agreed to resume paying the City of New York the total monthly amounts due under the Concession Agreement retro-active to January 2022 and to continue paying fees due under the Concession Agreement through the remainder of the Air Tour Agreement. During the twelve months ended December 31, 2022 and 2021, we incurred approximately and in concession fees, respectively, which are recorded in the cost of revenue. 
+
+On February 15, 2023, it was reported in the public record that NYCEDC would be bringing a new Concession Agreement with the Company as the operator of the Downtown Manhattan Heliport to the Franchise and Concession Review Committee meeting on March 3, 2023. The item was subsequently pulled off the agenda, with NYCEDC announcing on April 7, 2023 that the previous Request for Proposals ("RFP") had been cancelled and that it is their intention to put out a new RFP in 2023. Saker's current Concession Agreement terminates on April 30, 2023. The Company has been notified by NYCEDC that the Company will receive a new permit to operate the heliport from May 1, 2023 until a new RFP process is concluded. The Company is currently working with NYCEDC on the new agreement and expects to file a Form 8-K once the new agreement is finalized. 
+
+On April 20, 2018, the Company s Kansas subsidiary entered into a purchase lease with Commerce Bank for a refueling truck (the Truck Lease ). The Truck Lease commenced on May 1, 2018 and continues for months with a monthly payment of and an interest rate of 5.5 . At the end of the Truck Lease, the Company s subsidiary may purchase the vehicle for . The refueling truck was included in the sale of the Company s Kansas subsidiary and the Truck Lease was paid in full at closing. 
+
+On May 1, 2021, the Company s Kansas subsidiary executed a promissory note for with Avfuel Corporation Avfuel for the purchase of a Jet-A refueling truck (the Truck Note ). The Truck Note requires six annual payments of commencing April 30, 2022 with the entire balance of unpaid principal and interest due on, or before, April 30, 2028. Interest accrues at prime plus on the outstanding principal amount. The Company is required to make prepayments against the Truck Note at the rate of per gallon of fuel purchased under a fuel supply agreement between the Company and Avfuel. The Jet-A refueling truck was included in the sale of the Company s Kansas subsidiary and the Truck Note was paid in full at closing. 
+
+at December 31, 2022 and 2021. 
+
+, or , of the balance of accounts receivable. In addition, these two customers represented approximately of our revenue in 2021. 
+
+, or , of the balance of accounts receivable. In addition, these three customers represented approximately of our revenue in 2022. The Company has a security deposit in place for each of these customers. 
+
+, a long-term lease liability of approximately 328,000 , and a short-term liability of approximately 46,000 . The Company s right of use assets and right of use lease liabilities were included in the sale of our Kansas location on October 31, 2022. 
+
+and , respectively. The company had previously expended funds to advertise services at its Kansas location. 
+
+Common shares upon exercise of options 
+
+Weighted average common shares outstanding, diluted 
+
+(1) 
+
+Common shares of and underlying outstanding stock options for the years ended December 31, 2022 and 2021, respectively, were excluded from the computation of diluted earnings per share as their inclusion would be anti-dilutive. 
+
+and , respectively. Such amounts have been recorded as part of the Company s selling, general and administrative expenses in the accompanying consolidated statements of operations. As of December 31, 2022, the unamortized fair value of the options totaled and the weighted average remaining amortization period of the options approximated five years. 
+
+Expected volatility 
+
+4,918 
+
+Risk-free interest rate 
+
+Expected lives (in years) 
+
+and , respectively. 
+
+Leasehold improvements (in years) 
+
+Total 
+
+Less: accumulated depreciation and amortization 
+
+Property and equipment, net 
+
+46,407 
+
+Depreciation and amortization expense for the years ended December 31, 2022 and 2021 was approximately and , respectively. 
+
+Property and equipment 
+
+Total deferred tax assets 
+
+Valuation Allowance 
+
+Deferred tax asset net of valuation allowance 
+
+Decrease in valuation allowance 
+
+The valuation allowance fluctuated due to the uncertainty of future taxable income. 
+
+The provision for income taxes from continuing operations using the statutory federal tax rate as compared to the Company's effective tax rate is summarized as follows: 
+
+Extinguishment of debt (PPP loan) 
+
+Life insurance proceeds 
+
+State and local income taxes, net of federal 
+
+Effective income tax expense rate 
+
+Income tax receivable principally consists of funds due from the taxing authorities resulting from the carryback of net operating loss to prior tax years. 
+
+Issuance of common stock in connection with a cashless exercise of a stock option 
+
+December 31, 2022 
+
+Stock Options 
+
+ On August 27, 2019, at the Company s Annual Meeting, the stockholders of the Company approved the Stock Incentive Plan of 2019 (the 2019 Plan at which time the Company s 2005 Stock Incentive Plan (the 2005 Plan was terminated and no future awards could be issued under the 2005 plan. As of December 31, 2022, options were outstanding under the 2005 Plan. 
+
+The 2019 Plan is administered by the Company s Compensation Committee and provides for shares of common stock to be reserved for issuance under the Plan. Directors, officers, employees, and consultants of the Company are eligible to participate in the Plan. The Plan provides for the awards of incentive and non-statutory stock options. The Compensation Committee determined the vesting schedule to be up to five years at the time of grant of any options under the Plan, and unexercised options will expire in up to ten years. The exercise price is to be equal to at least of the fair market value of a share of the common stock, as determined by the Compensation Committee, on the grant date. The fair value of stock options are calculated in accordance with FASB ASC Topic 718. As of December 31, 2022 and 2021, there were and shares, respectively, available for grant as options under the 2019 Plan. 
+
+Details of all options outstanding under the Plan are presented in the table below: 
+
+Granted 
+
+Expired 
+
+Balance, December 31, 2021 
+
+Granted 
+
+Exercised 
+
+Expired 
+
+Balance, December 31, 2022 
+
+A summary of the Company s stock options outstanding at December 31, 2022 is presented in the table below: 
+
+TOTALS 
+
+Preferred Stock 
+
+ As of December 31, 2022 and 2021, the Company has shares of preferred stock authorized and none of which is issued and outstanding. On February 27, 2019, the Company filed with the Secretary of State of the state of Nevada a certificate of amendment to our articles of incorporation. The amendment provided for, among other things, a reduction in the number of authorized shares of preferred stock to . The Company s Board of Directors currently has the right, with respect to the authorized shares of our preferred stock, to authorize the issuance of one or more series of preferred stock with such voting, dividend and other rights as the directors determine. As of December 31, 2022 and 2021, there were no shares of preferred stock outstanding. 
+
+on day one. Employer contributions prior to the change vest over a five-year period on a per year basis. The Company s Safe Harbor 401K Plan provides that the Company match each participant's contribution at up to of the employee s deferral. Company contributions to the 401K Plan totaled approximately and for the years ended December 31, 2022 and 2021, respectively. 
+
+million. 
+
+As disclosed in a Current Report on Form 8-K filed with the SEC on November 2, 2022, on October 31, 2022 (the Closing Date ), the transaction contemplated by the Transfer Agreement closed and we became subject to the Non-Compete, for an aggregate purchase price of approximately million, after certain closing adjustments. Crosby paid the purchase price on the Closing Date less which is to be paid in cash upon the first anniversary of the Closing Date subject to GCK s and our compliance with the Non-Compete, pursuant to the Transfer Agreement. 
+
+GCK results of operations have been reported as discontinued operations in the Condensed Consolidated Statements of Operations for the twelve months ended December 31, 2022 and 2021. 
+
+Accounts receivable 
+
+Inventories 
+
+Prepaid expenses 
+
+Total current assets 
+
+Property and equipment 
+
+Right of use assets 
+
+Goodwill 
+
+Total long-term assets 
+
+Total assets 
+
+Current liabilities 
+
+Accounts payable 
+
+Accrued expenses 
+
+Note Payable 
+
+Right of use lease payable 
+
+Total current liabilities 
+
+Long-term liabilities 
+
+Note payable Long Term 
+
+Right of use lease payable 
+
+Total long-term liabilities 
+
+Total liabilities 
+
+Components of discontinued operations are as follows: 
+
+Cost of revenue 
+
+Gross profit 
+
+Operating expenses 
+
+Operating (loss) income from discontinued operations 
+
+Gain on Sale 
+
+Income tax expense 
+
+Interest expense 
+
+Net income from discontinued operations 
+
+Basic and diluted net income per common share 
+
+Weighted average number of shares outstanding, basic 
+
+Weighted average number of shares outstanding, diluted 
+
+For the year ended December 31, 2022, total operating, investing and financing cash flows from discontinued operations were (213,475) , , including the proceeds from the sale of , and (106,620) respectively. 
+
+On March 17, 2020, all sightseeing tour operations at the New York Heliport ceased as a result of the COVID-19 pandemic. Payments to Empire Aviation also ceased around this time and did not resume due to the substantial losses the Company incurred throughout 2020. In May 2021, the Company began to see a slight uptick in activity at our New York Heliport, but activity levels continue to be at substantially lower levels than pre-pandemic years. Because of the continued lower levels of activity, payments to Empire Aviation did not resume in 2021. Empire Aviation had previously made a claim for in unpaid fees in 2020 which the Company disputes. There can be no assurance that Empire Aviation will not make subsequent claims of amounts due under its management agreement. The Company estimates the range of the contingent liability at December 31, 2021 will not exceed , which has not been accrued at either December 31, 2021 or December 31, 2022. Management intends to vigorously defend against any claim. 
+
+ITEM 9. 
+
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM 9A. 
+
+CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Management, including our President (principal financial officer) and Chief Executive Officer (principal executive officer), have evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of the end of the period covered by this Annual Report on Form 10-K. Based upon, and as of the date of that evaluation, our President and our Chief Executive Officer concluded that the disclosure controls and procedures were effective, in all material respects, to ensure that information required to be disclosed in the reports filed and submitted by us under the Exchange Act, is (i) recorded, processed, summarized and reported as and when required, and (ii) is accumulated and communicated to our management, including our President and our Chief Executive Officer, as appropriate to allow timely decisions regarding required disclosure. 
+
+Changes in Internal Control over Financial Reporting 
+
+There has been no change to our internal control over financial reporting during the fourth quarter of the fiscal year covered by this Annual Report on Form 10-K that has materially affected, or that is reasonably likely to materially affect our internal control over financial reporting. 
+
+Management s Report on Internal Control over Financial Reporting 
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. All internal control systems, no matter how well designed and tested, have inherent limitations, including, among other things, the possibility of human error, circumvention or disregard. Therefore, even those systems of internal control that have been determined to be effective can provide only reasonable assurance that the objectives of the control system are met and may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+34
+
+Under the supervision and with the participation of management, including our Chief Executive Officer (principal executive officer) and our President (principal financial officer), we conducted an assessment of the effectiveness of our internal control over financial reporting based on the framework in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on the assessment under this framework, management concluded that our internal control over financial reporting was effective as of December 31, 2022. 
+
+ITEM 9B. 
+
+OTHER INFORMATION 
+
+None. 
+
+ITEM 9C. 
+
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+Not Applicable. 
+
+35
+
+Part III 
+
+ITEM 10. 
+
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+
+The following table contains certain information related to the directors and executive officers of the Company as of December 31, 2022: 
+
+Name 
+
+Age 
+
+Position 
+
+William B. Wachtel 
+
+68 
+
+Director, Chairman of the Board 
+
+Samuel Goldstein 
+
+44 
+
+Director, President Chief Executive Officer 
+
+Marc Chodock 
+
+44 
+
+Director 
+
+Roy P. Moskowitz 
+
+68 
+
+Director 
+
+Each of our directors is elected at the Annual Meeting of Stockholders to serve until the next Annual Meeting of Stockholders or until his successor is duly elected and qualified. Our officers are appointed annually by the Board of Directors to serve at the discretion of the Board. 
+
+Business History 
+
+William B. Wachtel Director, Chairman of the Board 
+
+Mr. Wachtel was elected as a director and our Chairman of the Board on March 31, 2005. Mr. Wachtel served as our Chairman until April 8, 2009, when he resigned from such capacity but remained a member of the Board. Mr. Wachtel was re-elected as our Chairman of the Board and has served in that capacity since October 27, 2011. 
+
+Mr. Wachtel has been a managing partner of Wachtel Missry LLP (previously Wachtel Masyr, LLP, and before that, its predecessor law firm Gold Wachtel, LLP), since its founding in August 1984. Such firm has provided certain legal services to the Company in the past. Services provided in 2022 and 2021 totaled approximately 3,000 and 0, respectively. Mr. Wachtel is a co-founder of the Drum Major Institute, an organization carrying forth the legacy of the late Reverend Martin Luther King, Jr. 
+
+We believe that Mr. Wachtel s experience advising companies regarding legal issues gives him the qualifications and skills to serve on our board of directors.. 
+
+Samuel Goldstein Director, President and Chief Executive Officer 
+
+Mr. Goldstein was appointed as a director on September 21, 2018 and our President and Chief Executive Officer on July 5, 2022. 
+
+Mr. Goldstein had served on the Helicopter Tourism and Jobs Council HTJC from 2014 through 2019. During this time, HTJC successfully negotiated a settlement with the City of New York enabling the helicopter air tour industry to continue operations. In early 2019, Mr. Goldstein joined Marino, a leading strategic communications firm with offices in New York and Los Angeles, where he has served as a director with Marino s Land Use Public Policy unit since 2019, and as Senior Director, Public Policy External Relations since 2021. Mr. Goldstein was also a principal at Kivvit Public Affairs from 2017 to 2018 and served previously as the director of government relations for Selfhelp Community Services, one of New York s largest senior housing and social service organizations, from 2008 to 2013. 
+
+36
+
+We believe Mr. Goldstein s exposure and outreach skills, developed in part as the previous Deputy Director of HTJC and corresponding knowledge of the local helicopter marketplace, gives him the qualifications and skills to serve on our board of directors. 
+
+Marc Chodock Director 
+
+Mr. Chodock was appointed as a director on June 25, 2015. 
+
+Mr. Chodock has been acting as a private investor since February 2013. Previously, he was a consultant in the New York office of McKinsey Company and a Principal at MatlinPatterson Global Advisers, where he served on the Board of Directors of four companies. He holds a Bachelor of Science in Economics from the University of Pennsylvania s Wharton School of Business and a Bachelor of Applied Science in Biomedical Science from the School of Engineering and Applied Science of the University of Pennsylvania. 
+
+We believe Mr. Chodock's experience in advising companies by serving on boards as well as his knowledge of the aviation industry gives him the qualifications and skills to serve on our board of directors. 
+
+Roy P. Moskowitz Director 
+
+Mr. Moskowitz was appointed as a director on June 25, 2015. 
+
+Mr. Moskowitz has been the Chief Legal Officer of The New School from 2006 to 2019. From 1988 2004, Mr. Moskowitz held senior positions of legal oversight for New York educational institutions, including the New York State Education Department, City University of New York, Community School District #2, and the Regional Superintendent of Region 9. 
+
+We believe Mr. Moskowitz experience analyzing legal issues gives him the qualifications and skills to serve on our board of directors.. 
+
+Family Relationships 
+
+There are no family relationships among our directors and executive officers. 
+
+Other Directorships 
+
+None of our directors serves as a director of a company (1) with a class of securities registered pursuant to Section 12 of the Exchange Act, (2) subject to Section 15(d) of the Exchange Act, or (3) registered as an investment company under the Investment Company Act of 1940. 
+
+Code of Ethics 
+
+On May 19, 2006, our Board of Directors adopted a Code of Ethics that applies to our principal executive officer, principal financial officer, principal accounting officer or controller or persons performing similar functions as well as to all of our other employees and directors. Our Code of Ethics is posted on our website at www.sakeraviation.com under the Investor Relations tab, and then under the Saker Aviation IR - Corporate Governance sub-tab. We intend to satisfy any disclosure requirements pursuant to Item 5.05 of Form 8-K regarding any amendment to, or a waiver from, certain provisions of our Code of Ethics by posting such information on our website under the Investor Relations section. 
+
+Committees of the Board of Directors 
+
+There are three committees of the Board of Directors: the Audit Committee comprised of Marc Chodock and Roy P. Moskowitz, the Nominating Committee comprised of William B. Wachtel and Samuel Goldstein; and the Compensation Committee comprised of Roy P. Moskowitz, Marc Chodock, and Samuel Goldstein. 
+
+37
+
+Delinquent Section 16(a) Reports 
+
+Based solely on a review of Forms 3 and 4 and amendments thereto, furnished to us during the fiscal year ended December 31, 2022 and Forms 5 and amendments thereto, furnished to us with respect to the fiscal year ended December 31, 2022, each director and officer timely reported all of his transactions during that most recent fiscal year as required by Section 16(a) of the Exchange Act, except for Messrs. Wachtel, Goldstein, Chodock, and Raab, each of whom filed one late Form 4 reporting one transaction, Mr. Moskowitz who filed two late Form 4s reporting two transactions, and Mr. Raab who filed one late Form 3. 
+
+Corporate Governance 
+
+There have been no changes to the procedures by which our security holders may recommend nominees to our Board of Directors since our Board of Directors set forth such policy in our proxy statement for our Annual Meeting of Stockholders held on November 6, 2013. 
+
+Our Board of Directors has determined that, of its Audit Committee, Marc Chodock qualifies as a financial expert as such term is defined in applicable SEC rules, and Roy P. Moskowitz, Samuel Goldstein and Marc Chodock qualify as independent as such term is defined by the rules of the Nasdaq Stock Market. 
+
+Audit Committee 
+
+The board of directors has an audit committee that is responsible for assisting our board of directors in its oversight of the integrity of our financial statements, the qualifications and independence of our independent auditors, and our internal financial and accounting controls. The audit committee has direct responsibility for the appointment, compensation, retention (including termination) and oversight of our independent auditors, and our independent auditors report directly to the audit committee. The audit committee also prepares the audit committee report that the SEC requires to be included in our annual proxy statement. 
+
+The members of the audit committee are Messrs. Roy P. Moskowitz and Marc Chodock. Each member of the audit committee qualifies as an independent director under the corporate governance standards of the Nasdaq Listing Rules. Our board of directors has determined that Marc Chodock qualifies as an audit committee financial expert as such term is currently defined in Item 407(d)(5) of Regulation S-K. 
+
+ITEM 11. 
+
+EXECUTIVE COMPENSATION 
+
+As a smaller reporting company under the Exchange Act, we are providing the following executive compensation information in accordance with the scaled disclosure requirements pursuant to Item 402(m)-(q) of Regulation S-K. 
+
+COMPENSATION OF EXECUTIVE OFFICERS 
+
+The following table sets forth the annual and long-term compensation paid by us during the fiscal years ended December 31, 2022 and 2021 for services performed on our behalf with respect to our named executive. 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and Principal Position 
+
+Year 
+
+Salary 
+
+			 ) 
+
+Bonus 
+
+			 ) 
+
+Option Awards 
+
+			 ) (1) 
+
+All Other 
+
+			 Compensation 
+
+			 ) 
+
+Total 
+
+			 ) 
+
+Samuel Goldstein, President and Chief Executive Officer 
+
+2022 
+
+- 
+
+- 
+
+17,998 
+			 (2) 
+
+4,500 
+			 (3) 
+
+22,498 
+
+2021 
+
+- 
+
+11,499 
+			 (2) 
+
+4,000 
+			 (3) 
+
+15,499 
+
+Mark Raab, Former Acting Principal Financial Officer 
+
+2022 
+
+127,246 
+
+- 
+
+30,000 
+
+4,362 
+
+161,608 
+
+2021 
+
+101,340 
+
+- 
+
+- 
+
+8,982 
+
+110,322 
+
+(1) 
+
+The fair value of the option awards are calculated in accordance with FASB ASC Topic 718. 
+
+(2) 
+
+Represents the fair value of the option awards granted to Mr. Goldstein in 2022 for his services as a non-employee director. 
+
+(3) 
+
+Represents the total non-employee director fees received by Mr. Goldstein in 2022. 
+
+38
+
+Mr. Raab, ceased to be the company s Acting Principal Financial Officer in July 2022. He received an annual gross salary of 127,246 and 101,340 in 2022 and 2021, respectively, annual health insurance coverage estimated at a value of 0 and 5,000 in both 2022 and 2021, respectively, and an annual 401K contribution of approximately 4,362 and 3,900 in 2022 and 2021, respectively. On May 1, 2022, Mr. Raab received a stock option to purchase 7,500 shares of the Company s stock at 4.00 per share, the closing price on the day prior to the award. Mr. Raab received no bonuses in either 2022 or 2021. On December 1, 2022, Mr. Goldstein was granted options for his service in 2022 as a non-employee director for 3,333 shares at 5.40 per share, which was the closing sales price of our common stock on December 1, 2022. The options vest on December 1, 2023 and may be exercised until December 1, 2027 
+
+Mr. Samuel Goldstein became our acting principal executive officer in March 2021. He was appointed as the company s President, Chief Executive Officer, and principal executive, financial, and accounting officer, on July 5, 2022. He received no salary, bonuses, or other compensation in 2022, except for non-employee director stock option issuances and non-employee director fees. As a non-employee director Mr. Goldstein is entitled to a fee of 1,000 per board meeting and 750 and 500 per committee meeting for committee chairman and committee members, respectively. Each director is also entitled to reimbursement for expenses incurred in connection with attendance at meetings of the Board of Directors. 
+
+Mr. Goldstein is currently the Company s sole executive officer. 
+
+OUTSTANDING EQUITY AWARDS AT DECEMBER 31, 2022 
+
+The following table shows information about the number of unexercised stock options held by our named executive officer as of December 31, 2022: 
+
+Option Awards (1) 
+
+Name 
+
+Number of Securities 
+			Underlying Unexercised 
+			Options (#) Exercisable 
+
+Number of Securities Underlying Unexercised Options (#) 
+			Unexercisable 
+
+Option Exercise 
+			Price ) 
+
+Option 
+			Expiration 
+			Date 
+
+Samuel Goldstein : 
+
+3,333 
+
+- 
+
+2.40 
+
+12/01/2023 
+
+3,333 
+
+- 
+
+5.60 
+
+12/05/2024 
+
+3,333 
+
+- 
+
+2.58 
+
+12/01/2025 
+
+3,333 
+
+- 
+
+3.45 
+
+12/01/2026 
+
+- 
+
+3,333 
+
+5.40 
+
+12/01/2027 
+
+Mark Raab: 
+
+- 
+
+7,500 
+
+4.00 
+
+05/01/2027 
+
+(1) 
+
+All outstanding awards of stock options were granted under either our 2005 or 2019 Stock Incentive Plan 
+
+2022 DIRECTOR COMPENSATION TABLE 
+
+The table below shows information about the compensation of our non-executive directors except for Samuel Goldstein for their service during fiscal 2022. The Compensation for our non-employee director Samuel Goldstein, who is our President and Chief Executive Officer, is set forth in the Summary Compensation Table above. 
+
+Name 
+
+Fees 
+
+			 Earned in 
+
+			 Cash 
+
+			 )(1) 
+
+Option 
+
+			 Awards 
+
+			 )(2) 
+
+Total 
+
+			 ) 
+
+William B. Wachtel 
+
+4,000 
+
+17,998 
+
+21,998 
+
+Marc Chodock 
+
+7,000 
+
+17,998 
+
+24,998 
+
+Roy P. Moskowitz 
+
+6,000 
+
+17,988 
+
+23,998 
+
+1. 
+
+Each non-employee director is entitled to a fee of 1,000 per board meeting and 750 and 500 per committee meeting for committee chairman and committee members, respectively. Each director is also entitled to reimbursement for expenses incurred in connection with attendance at meetings of the Board of Directors. 
+
+2. 
+
+Each non-employee director is eligible to be granted an annual option to purchase shares of our common stock. On December 1, 2022, the Board of Directors granted each non-employee director an option for their service in 2022. Each option was for 3,333 shares and was priced at 5.40 per share, which was the closing sales price of our common stock on December 1, 2022. The options vest on December 1, 2023 and may be exercised until December 1, 2027. See Item 12. for a description of all outstanding options held by non-employee directors and employees at December 31, 2022. The fair value of the option awards are calculated in accordance with FASB ASC Topic 718. 
+
+39
+
+Employment Agreements 
+
+As of December 31, 2022, the Company has no Employment Agreements in place. 
+
+Additional Narrative Disclosure 
+
+We do not offer a defined benefit retirement or pension plan. The Company maintains a 401K Plan (the 401K Plan which covers all employees of the Company. Effective January 1, 2020, the Company switched to a Safe Harbor 401K plan. The Safe Harbor 401K Plan stipulates that, going forward, all employees become vested 100 on day one. Employer contributions prior to the change vest over a five-year period on a 20 per year basis. The Company s Safe Harbor 401K Plan provides for the Company to match each participant's contribution at 100 up to 4 of the employee s deferral. The employer match prior to the change was 50 up to 6 of the employee s deferral. Company contributions to the 401K Plan totaled approximately 40,000 and 36,000 for the years ended December 31, 2022 and 2021, respectively. 
+
+ITEM 12. 
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+Beneficial Owners 
+
+The following table presents certain information as of March 31, 2023 regarding the beneficial ownership of our common stock by: 
+
+each of our current named executive officer and directors; and 
+
+all of our current directors and executive officer as a group; and 
+
+each other person or entity known by us to own beneficially 5 or more of our issued and outstanding common stock; 
+
+Unless otherwise indicated below, the address for each of our directors and officers is 20 South Street, Pier 6 East River, New York, New York 10004. 
+
+Name of Beneficial Owner 
+
+Number of 
+			Shares 
+			of Common 
+			Stock 
+			Beneficially 
+			Owned 
+
+Percentage of 
+			Common Stock 
+			Beneficially 
+
+			 Owned (1) 
+
+William B. Wachtel (2) 
+
+187,279 
+			 (3) 
+
+18.9 
+
+Samuel Goldstein (4) 
+
+13,332 
+			 (5) 
+
+1.3 
+
+Marc Chodock (6) 
+
+117,180 
+			 (7) 
+
+11.8 
+
+Roy P. Moskowitz (8) 
+
+13,747 
+			 (9) 
+
+1.4 
+
+Mark Raab (10) 
+
+7,500 
+			 (11) 
+
+- 
+
+All directors and officers as a group (5 in number) 
+
+339,038 
+
+34.7 
+
+Ronald I. Heller (12) 
+
+64,085 
+			 (12) 
+
+6.6 
+
+Ravi Desai (13) 
+
+73,445 
+			 (13) 
+
+7.5 
+
+(1) 
+
+The percentages computed in the table are based upon 976,330 shares of our common stock, which were outstanding on March 31, 2023. Under the rules of the SEC, beneficial ownership is deemed to include shares for which an individual, directly or indirectly, has or shares voting or dispositive power, whether or not they are held for the individual s benefit, and includes shares that may be acquired within 60 days, including, but not limited to, the right to acquire shares by the exercise of options or the vesting of restricted stock units. Effect is given to shares of our common stock issuable upon the exercise of options currently exercisable or exercisable within 60 days of March 31, 2023. We have omitted percentages of less than 1 from the table. 
+
+40
+
+(2) 
+
+William B. Wachtel is our Chairman of the Board and a director. 
+
+(3) 
+
+The shares of our common stock reported in the table include: (a) 145,563 shares held by Mr. Wachtel in the open market; (b) 3,333 shares issuable upon the exercise of an option expiring December 1, 2023, which option is currently exercisable; (c) 3,333 shares issuable upon the exercise of an option expiring December 1, 2024, which option is currently exercisable; (d) 3,333 shares issuable upon the exercise of an option expiring December 1, 2025, which option is currently exercisable; and (e) 3,333 shares issuable upon the exercise of an option expiring December 1, 2026, which option is currently exercisable. The shares of our common stock reported in the table do not reflect (x) 3,333 shares issuable upon the exercise of an option granted on December 1, 2022, which shall become exercisable on December 1, 2023; and (y) 11,113 shares of our common stock acquired by Wachtel Missry, LLP, which has provided certain legal services for us. Mr. Wachtel is a managing partner of such firm, but does not have sole dispositive or voting power with respect to such firm s securities. 
+
+(4) 
+
+Samuel Goldstein is our President, Chief Executive Officer and a director. 
+
+(5) 
+			 
+			 The shares of our common stock reported in the table include (a) 3,333 shares issuable upon the exercise of an option expiring December 1, 2023, which option is currently exercisable and (b) 3,333 shares issuable upon the exercise of an option expiring December 1, 2024, which option is currently exercisable and (c) 3,333 shares issuable upon the exercise of an option expiring December 1, 2025, which option is currently exercisable and (d) 3,333 shares issuable upon the exercise of an option expiring December 1, 2026, which is currently exercisable. The shares of our common stock in the table do not reflect 3,333 shares issuable upon the exercise of an option granted on December 1, 2022, which shall become exercisable on December 1, 2023. 
+
+(6) 
+
+Marc Chodock is a director. 
+
+(7) 
+			 
+			 The shares of our common stock reported in the table are based on a Schedule 13D filed with the SEC on February 9, 2015 and subsequent Form 4s filed by Mr. Chodock. The reporting persons are (i)ACM Value Opportunities Fund I, LP, a Delaware limited partnership (the Fund ), with respect to the shares of our common stock directly owned by it; (ii) ACM Value Opportunities Fund I GP, LLC, a Delaware limited liability company (the General Partner ), as general partner of the Fund, with respect to the shares of our common stock directly owned by the Fund, (iii) Arvice Capital Management, LLC, a Delaware limited liability company (the Manager ), as manager of the Fund, with respect to the shares of our common stock directly owned by the Fund; and (iv) Mr. Marc Chodock Mr. Chodock ), as managing member of the Manager, with respect to the shares of our common stock directly owed by the Fund. The business address of each of the Reporting Persons is 110 East 25th St., 3rd Floor, New York, New York 10011. The shares of our common stock reported in the table also include: (a) 3,333 shares issuable upon the exercise of an option expiring December 1, 2023, which option is currently exercisable and (b) 3,333 shares issuable upon the exercise of an option expiring December 1, 2024, which option is currently exercisable and (c) 3,333 shares issuable upon the exercise of an option expiring December 1, 2025, which option is currently exercisable and (d) 3,333 shares issuable upon the exercise of an option expiring December 1, 2026, which is currently exercisable. The shares of our common stock reported in the table do not reflect 3,333 shares issuable upon the exercise of an option granted on December 1, 2022, which shall become exercisable on December 1, 2023. 
+
+(8) 
+
+Roy P. Moskowitz is a director. 
+
+(9) 
+
+The shares of our common stock reported in the table include (a) 7,081 shares held by Mr. Moskowitz; (b) 3,333 shares issuable upon the exercise of an option expiring December 1, 2024, which option is currently exercisable; (b) 3,333 shares issuable upon the exercise of an option expiring December 1, 2026, which option is currently exercisable. The shares of our common stock reported in the table do not reflect 3,333 shares issuable upon the exercise of an option granted on December 1, 2022, which shall become exercisable on December 1, 2023. 
+
+(10) 
+
+Mark Raab is our former Acting Principal Financial Officer and ceased serving in that role in July 2022. 
+
+(11) 
+			 The shares of our common stock reported in the table include 7,500 shares issuable upon the exercise of an option expiring December 1, 2027, which option is exercisable within 60 days of March 31, 2023. 
+
+(12) 
+			 Ronald I. Heller s address is c/o Heller Capital Partners, 700 E. Palisade Avenue, Englewood, NJ 07632. Mr. Heller is the beneficial owner of 64,085 shares of common stock as disclosed in a 13G filed with the Securities and Exchange Committee on April 10, 2015, after taking into account our 1 for 30 reverse stock split which was effective March 1, 2019. The Heller Family Foundation holds 45,752 shares of common stock and the Ronald I. Heller IRA holds 18,333 shares of common stock. Mr. Heller controls the voting and disposition of such securities held by the Heller Family Foundation and Ronald I. Heller IRA. 
+
+(13) 
+
+Ravi Desai s address is 14 Walsh Drive, Parsippany, NJ 07054. Mr Desai is the beneficial owner of 73,445 shares of common stock as disclosed in a 13D/A filed with the Securities and Exchange Committee on March 15, 2023. 
+
+41
+
+Equity Compensation Plan Information 
+
+The following table sets forth certain information, as of December 31, 2022, with respect to securities authorized for issuance under equity compensation plans. The only security being so offered is our common stock. 
+
+Number of Securities to 
+			be issued upon exercise 
+			of outstanding options, 
+			warrants and rights 
+
+Weighted-average 
+			exercise price of 
+			outstanding options, 
+			warrants and rights 
+
+Number of securities 
+			remaining available for 
+			future issuance under 
+			equity compensation 
+			plans (excluding 
+			securities reflected in 
+			column (a)) 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Equity compensation plans approved by security holders 
+
+67,494 
+
+4.04 
+
+127,505 
+
+Equity compensation plans not approved by security holders 
+
+Total 
+
+67,494 
+
+4.04 
+
+127,505 
+
+On August 27, 2019, at the Company s Annual Meeting, the stockholders of the Company approved the Stock Incentive Plan of 2019 (the 2019 Plan at which time the Company s 2005 Stock Incentive Plan (the 2005 Plan was terminated and no future awards could be issued under the 2005 plan. As of December 31, 2022, 9,999 options were outstanding under the terminated 2005 Plan. 
+
+The 2019 Plan is administered by the Company s Compensation Committee and provides for 185,000 shares of common stock to be reserved for issuance under the Plan. Directors, officers, employees, and consultants of the Company are eligible to participate in the Plan. The Plan provides for the awards of incentive and non-statutory stock options. The Compensation Committee determined the vesting schedule to be up to five years at the time of grant of any options under the Plan, and unexercised options will expire in up to ten years. The exercise price is to be equal to at least 100 of the fair market value of a share of the common stock, as determined by the Compensation Committee, on the grant date. The fair value of stock options are calculated in accordance with FASB ASC Topic 718. 
+
+ITEM 13. 
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Certain Relationships and Related Transactions 
+
+Our Board of Directors adopted a Policy and Procedure Governing Related Party Transactions on April 26, 2007, which policy delegates certain functions related to the review and approval of related party transactions to the audit committee and the compensation committee. 
+
+We had no transactions, since the beginning of our last fiscal year, or any currently proposed transaction, in which we were or are to be a participant and the amount involved exceeds the lesser of the lesser of 120,000 or one percent of the average of our total assets at year end for the last two completed fiscal years, and in which any related person had or will have a direct or indirect material interest. 
+
+Director Independence 
+
+Our Board of Directors made the determination of director independence in accordance with the definition set forth in the Nasdaq Stock Market rules. Under such definition, Marc Chodock and Roy P. Moskowitz qualify as independent. 
+
+ITEM 14. 
+
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+Audit Fees. The aggregate fees billed for professional services rendered by the principal accountant were approximately 101,500 by Kronick Kalada Berdy Co. in both 2022 and 2021 for the audits of our annual financial statements for the fiscal years ended December 31, 2022 and 2021, and the reviews of the financial statements included in the Company s Quarterly Reports on Forms 10-Q for those fiscal years. 
+
+Audit-Related Fees . There were no Audit-Related Fees billed for the years ended December 31, 2022 and December 31, 2021. 
+
+Tax Fees . For both years ended December 31, 2022 and 2021, the aggregate fees billed by the principal accountant for services categorized as Tax Fees were 15,000. 
+
+All Other Fees . There were no fees billed for services categorized as All Other Fees by the principal accountant for the fiscal years ended December 31, 2022 and 2021. 
+
+42
+
+Audit Committee Policies and Procedures. The audit committee of the Board of Directors must pre-approve all auditing services and permitted non-audit services (including the fees and terms thereof) to be performed for us by our independent registered public accountants, subject to the de minimus exceptions for non-audit services described in Section 10A(i)(1)(B) of the Exchange Act, which nonetheless must be approved by our audit committee prior to the completion of the audit. Each year the audit committee approves the engagement of our independent registered public accountant to audit our financial statements, including the associated fee, before the filing of the previous year s Annual Report on Form 10-K. At the beginning of the fiscal year, the audit committee will evaluate other known potential engagements of the independent registered public accountants, including the scope of work proposed to be performed and the proposed fees, and approve or reject each service, taking into account whether the services are permissible under applicable law and the possible impact of each non-audit service on the independent registered public accountant s independence from management. At each such subsequent meeting, the registered public accountants and management may present subsequent services for approval. Typically, these would be services such as due diligence for an acquisition, that would not have been known at the beginning of the year. 
+
+Since December 17, 2009 when our Board of Directors initially authorized the engagement of Kronick Kalada Berdy Co., pursuant to the SEC rules stating that an auditor is not independent of an audit client if the services it provides to the client are not appropriately approved, each subsequent engagement of Kronick Kalada Berdy Co, has been approved in advance by the audit committee of the Board of Directors, and none of these engagements made use of the de minimus exception to the pre-approval contained in Section 10A(i)(1)(B) of the Exchange Act. 
+
+43
+
+Part VI 
+
+ITEM 15. 
+
+EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(a) 
+
+Financial Statements 
+
+The consolidated financial statements of Saker Aviation Services, Inc. and subsidiaries as of December 31, 2022 and 2021 and for each of the years then ended, and the Report of Independent Registered Public Accounting Firm thereon, are included herein as shown in the Table of Contents to Consolidated Financial Statements. 
+
+(b) 
+
+Financial Statement Schedules 
+
+None. 
+
+(c) 
+
+Exhibits 
+
+Exhibit No. 
+
+Description of Exhibit 
+
+3.1 
+
+Amended and Restated Articles of Incorporation, incorporated by reference from Exhibit 3(i)(6) to the Company s Current Report on Form 8-K filed on December 18, 2006. 
+
+3.2 
+
+Articles of Merger (Changing name to Saker Aviation Services, Inc.), incorporated by reference from Exhibit 3.1 to the Company s Current Report on Form 8-K filed on October 1, 2009. 
+
+3.3 
+
+Certificate of Amendment to Articles of Incorporation of Saker Aviation Services, Inc., incorporated by reference from Exhibit 3.1 to the Company s Current Report on Form 8-K filed on February 28, 2019. 
+
+3.4 
+
+Bylaws of Saker Aviation Services, Inc., incorporated by reference from Exhibit 3.2 to the Company s Current Report on Form 8-K filed on October 1, 2009. 
+
+4.1 
+
+Description of Securities, incorporated by reference from Exhibit 4.1 to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2019. 
+
+10.1+ 
+
+Stock Option Plan of 2005, incorporated by reference from Exhibit 10-18 to the Company s Annual Report on Form 10-KSB for the fiscal year ended December 31, 2005. 
+
+10.2 
+
+Concession Agreement between FirstFlight, Inc. and the City of New York by and through New York City of Department of Small Business Services, dated October 7, 2008, incorporated by reference from Exhibit 33.1 to the Company s Annual Report on Form 10-K for the fiscal year ended December 31, 2015. 
+
+10.3+ 
+
+2019 Stock Incentive Plan, incorporated by reference from Exhibit 10.1 to the Company s Current Report on Form 8-K filed on December 12, 2019. 
+
+10.4 
+
+Amendment to NYC Heliport Concession Agreement, dated as of July 13, 2016, incorporated by reference from Exhibit 10.1 to the Company s Quarterly Report on Form 10-Q for the period ended June 30, 2016. 
+
+10.5 
+
+Loan Agreements entered into by and between the Company and KeyBank, dated as of March 15, 2018, incorporated by reference from Exhibit 10.1 to the Company s Current Report on Form 8-K filed on March 21, 2018. 
+
+10.6 
+
+Modified Loan Agreement entered into by and between the Company and KeyBank, dated as October 11, 2018, incorporated by reference from Exhibit 10.13 to the Company s Annual Report on Form 10-K for the fiscal year ended December 31, 2018. 
+
+44
+
+10.7 
+
+FBO Transfer Agreement between FBO Air-Garden City Inc. and Crosby Flying Services, LLC dated September 27, 2022, incorporated by reference from exhibit 10.1 to the Company s Current Report on Form 8-K filed October 3, 2022. 
+
+21.1 
+
+Subsidiaries of Saker Aviation Services, Inc. 
+
+23.1 
+
+Consent of Independent Registered Public Accounting Firm. 
+
+31.1 
+
+Certification pursuant to Rule 13a-14(a)/15d-14(a) under the Securities Exchange Act (principal financial officer). 
+
+31.2 
+
+Certification pursuant to Rule 13a-14(a)/15d-14(a) under the Securities Exchange Act (principal executive officer). 
+
+32.1 
+
+Certification pursuant to Section 1350 Certification of Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+			 
+			 Inline XBRL Instance Document 
+
+101.SCH 
+
+Inline XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+
+Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+
+Inline XBRL Taxonomy Extension Linkbase Document 
+
+101.LAB 
+
+Inline XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+
+Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+
+104 
+			 Cover Page Interactive Data File (Formatted as Inline XBRL and contained in Exhibit 101) 
+
+Filed herewith 
+
+ Furnished herewith 
+
+ +Management compensation plan or arrangement 
+
+ITEM 16. 
+
+FORM 10-K SUMMARY 
+
+None. 
+
+45
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Saker Aviation Services, Inc. 
+
+Date: April 17, 2023 
+
+By: 
+
+/s/ Samuel Goldstein 
+
+Samuel Goldstein 
+
+President, Chief Executive Officer, Principal Executive 
+			Officer, Principal Financial Officer, and Principal 
+			Accounting Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+SIGNATURE 
+
+TITLE 
+
+DATE 
+
+/s/ William B. Wachtel 
+
+Chairman of the Board, 
+
+April 17, 2023 
+
+William B. Wachtel 
+			 
+			 Director 
+
+/s/ Samuel Goldstein 
+
+President, Chief Executive Officer, 
+
+April 17, 2023 
+
+Samuel Goldstein 
+
+Director 
+
+/s/ Marc Chodock 
+
+Director 
+
+April 17, 2023 
+
+Marc Chodock 
+
+/s/ Roy P. Moskowitz 
+
+Director 
+
+April 17, 2023 
+
+Roy P. Moskowitz 
+
+46
+
+<EX-21.1>
+ 2
+ ex_499288.htm
+ EXHIBIT 21.1
+
+ex_499288.htm 
+
+Exhibit 21.1 
+
+SUBSIDIARIES OF SAKER AVIATION SERVICES, INC. 
+
+The following is a list of our subsidiaries as of December 31, 2022 that are required to be disclosed pursuant to Item 601(b)(21) of Regulation S-K. 
+
+Subsidiary Company 
+
+Jurisdiction of Incorporation or Organization 
+
+FirstFlight Heliports, LLC d/b/a Saker Aviation Services 
+
+			 FBO Air Garden City, Inc. d/b/a Saker Aviation Services 
+
+New York 
+
+			 Kansas 
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ ex_499289.htm
+ EXHIBIT 23.1
+
+ex_499289.htm 
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+Saker Aviation Services, Inc. 
+
+ New York, New York 
+
+We consent to the incorporation by reference in the Registration Statement on Form S-8 (File No. 333-235477) of our report dated April 17, 2023, relating to the consolidated financial statements of Saker Aviation Services, Inc. and Subsidiaries (the Company appearing in this Annual Report on Form 10-K for the year ended December 31, 2022. 
+
+/s/ Kronick Kalada Berdy Co. P.C. 
+
+Kingston, Pennsylvania 
+
+ April 17, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ ex_499290.htm
+ EXHIBIT 31.1
+
+ex_499290.htm 
+
+EXHIBIT 31.1 
+
+Certification of Chief Executive Officer 
+
+ (principal executive officer) 
+
+ Pursuant To Rule 13a-14(a)/15d-14(a) 
+
+I, Samuel Goldstein, certify that: 
+
+1. I have reviewed this Annual Report on Form 10-K of Saker Aviation Services, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: April 17, 2023 
+
+By: 
+			 /s/ Samuel Goldstein 
+
+Samuel Goldstein 
+
+Chief Executive Officer (principal executive officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex_499291.htm
+ EXHIBIT 31.2
+
+ex_499291.htm 
+
+EXHIBIT 31.2 
+
+Certification of President 
+
+ (principal financial officer) 
+
+ Pursuant To Rule 13a-14(a)/15d-14(a) 
+
+I, Samuel Goldstein, certify that: 
+
+1. I have reviewed this Annual Report on Form 10-K of Saker Aviation Services, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: April 17, 2023 
+
+By: 
+			 /s/ Samuel Goldstein 
+
+Samuel Goldstein 
+
+President (principal financial officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex_499292.htm
+ EXHIBIT 32.1
+
+ex_499292.htm 
+
+EXHIBIT 32.1 
+
+Section 1350 Certification 
+
+Pursuant to U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 Section 906 ), Samuel Goldstein, the Chief Executive Officer (principal executive officer) and President (principal financial officer) of Saker Aviation Services, Inc., does hereby certify that: 
+
+1. 
+
+The Annual Report on Form 10-K for the year ended December 31, 2022 (the Report of Saker Aviation Services, Inc. fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operation of Saker Aviation Services, Inc. 
+
+Date: April 17, 2023 
+
+By: 
+
+/s/ Samuel Goldstein 
+
+Samuel Goldstein 
+
+Chief Executive Officer 
+
+			 (principal executive officer) 
+
+Date: April 17, 2023 
+
+By: 
+
+/s/ Samuel Goldstein 
+
+Samuel Goldstein 
+
+President 
+
+			 (principal financial officer) 
+
+A signed original of this written statement required by Section 906 has been provided to Saker Aviation Services, Inc. and will be retained by Saker Aviation Services, Inc., and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 7
+ skas-20221231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.DEF>
+ 8
+ skas-20221231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ skas-20221231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ skas-20221231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
+<EX-101.CAL>
+ 11
+ skas-20221231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+

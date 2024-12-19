@@ -1,0 +1,1884 @@
+<Header>
+<FileStats>
+    <FileName>20230131_10-K_edgar_data_1730732_0001096906-23-000237.txt</FileName>
+    <GrossFileSize>3382608</GrossFileSize>
+    <NetFileSize>151247</NetFileSize>
+    <NonText_DocumentType_Chars>1342206</NonText_DocumentType_Chars>
+    <HTML_Chars>644356</HTML_Chars>
+    <XBRL_Chars>459470</XBRL_Chars>
+    <XML_Chars>728319</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001096906-23-000237.hdr.sgml : 20230131
+<ACCEPTANCE-DATETIME>20230131151743
+ACCESSION NUMBER:		0001096906-23-000237
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		67
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230131
+DATE AS OF CHANGE:		20230131
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			3FORCES INC.
+		CENTRAL INDEX KEY:			0001730732
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				814128534
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-230070
+		FILM NUMBER:		23572261
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7702 E DOUBLETREE RANCH RD
+		STREET 2:		SUITE 300
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85258
+		BUSINESS PHONE:		4809023062
+
+	MAIL ADDRESS:	
+		STREET 1:		7702 E DOUBLETREE RANCH RD
+		STREET 2:		SUITE 300
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85258
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GUURU Corp.
+		DATE OF NAME CHANGE:	20210326
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Live Inc
+		DATE OF NAME CHANGE:	20180207
+
+</SEC-Header>
+</Header>
+
+ 0001096906-23-000237.txt : 20230131
+
+10-K
+ 1
+ live-20221231.htm
+ 3FORCES INC. - FORM 10-K SEC FILING
+
+3FORCES INC. - Form 10-K SEC filing 
+
+SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the fiscal year ended: 
+ 
+ or 
+ 
+ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from ________ to ________ 
+
+Commission file number: 
+
+(Exact name of small business issuer as specified in its charter) 
+
+(State or other jurisdiction of 
+ 
+ (I.R.S. employer 
+ 
+ incorporation or formation) 
+ 
+ Identification No.) 
+
+, 
+ 
+ , 
+ 
+ (Address of principal executive offices) 
+
+- 
+ 
+ (Issuer s telephone number) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+ None 
+ 
+ Securities registered pursuant to Section 12(g) of the Act: 
+ None 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+ No 
+ 1 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. (Check one): 
+ 
+ Large accelerated filer 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. No 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+ Yes No 
+ 
+ State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter. due to lack of trading market. 
+ 
+ State the number of shares outstanding of each of the issuer's classes of common equity, as of the latest practicable date: common shares issued and outstanding as of January 31, 2023. 
+ 2 
+
+PAGE 
+ 
+ PART I 
+
+Item 1. 
+ Business 
+ 4 
+
+Item 1A. 
+ Risk Factors 
+ 15 
+
+Item 1B. 
+ Unresolved Staff Comments 
+ 23 
+
+Item 2. 
+ Properties 
+ 23 
+
+Item 3. 
+ Legal Proceedings 
+ 23 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 23 
+
+PART II 
+
+Item 5. 
+ Market for Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 24 
+
+Item 6 
+ [Reserved] 
+ 24 
+
+Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 25 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 27 
+
+Item 8. 
+ Financial Statements 
+ 28 
+
+Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 41 
+
+Item 9A. 
+ Controls and Procedures 
+ 41 
+
+Item 9B. 
+ Other Information 
+ 42 
+
+Item 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 43 
+
+Item 11. 
+ Executive Compensation 
+ 47 
+
+Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 48 
+
+Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 49 
+
+Item 14. 
+ Principal Accountant Fees and Services 
+ 51 
+
+Item 15. 
+ Exhibits 
+ 52 
+
+SIGNATURES 
+ 53 
+
+3 
+
+PART I 
+ 
+ FORWARD-LOOKING STATEMENTS 
+ 
+ Certain statements made in this Annual Report on Form 10-K are forward-looking statements (within the meaning of the Private Securities Litigation Reform Act of 1995) regarding the plans and objectives of management for future operations. Such statements involve known and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements of the Registrant to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. The forward-looking statements included herein are based on current expectations that involve numerous risks and uncertainties. The Registrant s plans and objectives are based, in part, on assumptions involving the continued expansion of business. Assumptions relating to the foregoing involve judgments with respect to, among other things, future economic, competitive and market conditions and future business decisions, all of which are difficult or impossible to predict accurately and many of which are beyond the control of the Registrant. Although the Registrant believes its assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate and, therefore, there can be no assurance the forward-looking statements included in this Report will prove to be accurate. In light of the significant uncertainties inherent in the forward-looking statements included herein, the inclusion of such information should not be regarded as a representation by the Registrant or any other person that the objectives and plans of the Registrant will be achieved. 
+ 
+ Unless stated otherwise, the words we, us, our, the Company or 3Forces Inc. in this Annual Report collectively refers to 3Forces Inc., an Arizona corporation. 
+ 
+ Item 1. Business 
+ 
+ BUSINESS DESCRIPTION 
+ 
+ Our Company Overview 
+ 
+ The Company was incorporated under the laws of the State of California on September 6, 2016 under the name Taluhu Inc. The Company s name was changed to Live Inc. on September 29, 2016 and on September 6, 2020, the Company s name was changed to Guuru Corp. As discussed further below, on April 29, 2021, the Company s name was changed to 3Forces Inc. 
+ 
+ On October 2, 2020, the Company formed Talguu Inc., an Arizona corporation, as a wholly owned subsidiary for the purpose of changing the domicile of the Company from California to Arizona. The process involved the filing of respective merger forms in each of Arizona and California. On January 15, 2021, the State of Arizona approved the Statement of Merger whereby the parent entity, then Guuru Corp (a California corporation, formerly Live Inc.), was merged into Talguu Inc. (an Arizona corporation). On March 15, 2021, the State of California is approved the merger transaction. As mentioned above, on April 29, 2021, the Company s name was changed to 3Forces Inc. 
+ 
+ Our offices are located at 7702 E. Doubletree Ranch Road, Unit 300, Scottsdale, Arizona 85258. Our telephone number is 480.902.3062. 
+ 
+ We currently have developed and are managing three cloud based platforms: 
+ 
+ Talguu.com . Our entertainment broadcasting platform, www.Talguu.com , will be a digital media supermarket for the digital media producers to monetize their work in entertainment, news, education, and other channels that can be offered to the public. We allow the producers to sell tickets of their digital content to our users. The producers are given individual channels for them to market their products. We will receive an agreed percentage of the ticket revenues. Due to the impact of Covid 19, our development progress has been adversely impacted. We now plan to launch select channels in the second quarter of 2023 in the Philippines and third quarter of 2023 in the United States. 
+ 
+ 9000Jobs.com (formerlyTrabahanap.com) . Our jobs platform helps bring employers and entry level, job hunters together, the platform has been launched in the Philippines, and will be launched in the United States in the third quarter of 2023. In the Philippines, our former partner, ABS-CBN, a large national TV network in the Philippines initially handled the marketing of the platform. This arrangement ended on November 30, 2022. We commercially launched the site as a beta test site to the public in late 2019. Due to impact of Covid 19, we were unable attract users until July 2021 when we started charging employers on the site. In late 2021 and early 2022, there were two spikes in the Covid pandemic in the Philippines, which forced the employers to stop hiring. We saw a drop in revenues in our beta test site As of December 31, 2022, we have 
+ 4 
+ 
+ over 738,546 users and over 4,136 employers on this site, and we booked 2,655 in gross revenue for the fiscal year. We expect this revenue stream to rise slowly as the pandemic begins to abate in the Philippines. Concurrent with the termination of our marketing agreement with ABS-CBN, we rebranded the site as 9000Jobs.com. We intend to do our own direct sales and marketing. 
+ 
+ ManagerSpecial.com. Our third platform, www.ManagerSpecial.com, helps sellers to sell and buyers to buy, products and services that have a limited useful life, such as food, produce, hotel rooms, beauty salon seats, manicure stations, idling labor, and any thing that has a short expiration date. The sellers usually offer deep discounts to the buyers to move their excess inventories. Instead of letting their inventories become worthless after a certain time, we help sellers turn a total loss to a partial gain and we help the buyers purchase good products at an attractive discount. The software development has been completed. Due to Covid 19, the initial launch date in 2021 was revised multiple times in the United States. Since we already have over 700,000 users in the Philippines, we plan to launch ManagerSpecial in the Philippines in the first quarter of 2023, followed by the United States launch in the third quarter of 2023. 
+ 
+ Our offices are located at 7702 E Doubletree Ranch Road, Unit 300, Scottsdale, Arizona. Our telephone number is 480.902.3062 Our websites are www.3Forces.com , www.Talguu.com, www.ManagerSpecial.com, and 9000Jobs.com (which replaces JobDor.com and Trabahanap.com due to our re-branding). 
+ 
+ Our Business Model 
+ 
+ Our Plan for Fiscal Year 202 3 . 
+ 
+ Our plan of operations for each platform through fiscal year 2023 is as follows: 
+ 
+ Talguu.com . We have completed approximately 80 of the required software by the end of fiscal year 2022. This accelerated development speed was made possible by the Company s CEO. Mr. Wong has spent a considerable amount of time to designing and programing the software in conjunction with our contract programmers. Therefore, we do not expect much additional expenditure in finishing the software for this platform. The marketing cost will not start until the second quarter of 2023. We require approximately 50,000 for marketing in the Philippines and 100,000 for marketing in the United States in order to launch the platform in both counties. If we are unable to obtain the required funding in 2023, the marketing and launch of the platform will be delayed. 
+ 
+ 9000Jobs.com becomes our global brand for our job posting site (formerlyTrabahanap.com in the Philippines and JobDor.com in the US) . As of the date of this filing, the platform in the Philippines is fully operational and generating limited revenues. We plan to launch the US version in the third quarter of 2023. We require approximately 50,000 to market this platform annually in the Philippines and 100,000 for annual marketing in the United States. If we are unable to obtain the required funding in 2023, the marketing and launch of the platform will be delayed. 
+ 
+ ManagerSpecial.com . The software development has been completed. Due to Covid 19, the initial launch date in 2021 was revised multiple times. We are now planning to launch this platform in first quarter of 2023 in the Philippines and in the third quarter of 2023 in the United States. We are waiting for the restaurants to commence dining room service as one of the main features of our platform is designed to attract customers for dine-in restaurants. We require approximately 50,000 to initially market this platform in the Philippines for the first 12 months and 100,000 in annual marketing for the United States in 2023. If we are unable to obtain the required funding in 2023, the marketing and launch of the platform will be delayed. 
+ 
+ Full Implementation of Business Plan. 
+ 
+ In order for us to fully implement our business plan, we will use our available cash of approximately 136,000 as of December 31, 2022 and we will need approximately 954,000 in public or private financing for a total of 1,090,000 in required funds. Our founder, Mr. Keith Wong, has devoted substantial software engineering time into these various platforms. As a result, his contributions to date have obviated or minimized the need to hire similar professionals, and has resulted in a considerable saving for the Company. Nonetheless, we will need additional funds to enable us to fully develop and market our 3 platforms for the next 12 months. The breakdown of these costs is as follows: 
+ 5 
+
+Amount ) 
+ Expenditure 
+ 
+ 50,000 
+ Costs for being a public entity 
+ 
+ 60,000 
+ Software programming across 4 platforms 
+ 
+ 30,000 
+ Cloud Hosting across 4 platforms 
+ 
+ 450,000 
+ Marketing for Talguu.com, ManagerSpecial.com and 9000Jobs.com 
+ 
+ 500,000 
+ General, administrative and miscellaneous costs, 
+
+1,090,000 
+
+If we are unable to receive sufficient funding from private or public equity or debt offerings, the Company will be required to scale back or delay our software development and marketing efforts. Further, if we do not receive any funds from the Offering or other funding, our operations will be limited as stated in Our Plan for Fiscal Year 202 2 above. We continue to rely on our founder, Mr. Wong, to provide financial support for our platforms. However, we cannot be assured that Mr. Wong will continue to do so in the future. 
+ 
+ Description of our Platforms . 
+ Our four platforms are described in greater detail below. 
+ 
+ Talguu Platform 
+ 
+ Our Talguu.com website is a livecast platform which provides content developed independently by the producers who produce and deliver content to our platform. Our platform is segregated by channels which focuses on a specific service market, like entertainment personal health care, do-it-yourself topics, business formation, education, entertainment, news, and political talk shows, among others. The topic duration can vary from minutes to hours per day, week or month. The content producer will determine whether the content is available for a fee, on a gratuity basis or for free. If fee based, a registered user can either pay for a ticket before a show starts or watch 15 minutes of content for free before deciding to pay for a ticket. If a ticket is not purchased after 15 minutes, the user will be logged out. Some content producers, however, may allow viewers to watch for free and rely on gratuities instead. In this case, our software will flash a Please Support Me button from time to time to entice the viewers to leave a gratuity for the provider. Other providers may provide content for free as preview of a future viewing. 
+ 
+ We will negotiate with the content provider for an agreed percentage of the fees which we expect to range between 15 to 25 of the total ticket sales or gratuities collected by the producer. We will work with each producer to schedule air times and determine his revenue method. For a content producer, we provide the delivery facility consisting of the technical infrastructure, data security, scheduling, payment gateway, and eventually in the future, a large user base. 
+ 
+ A viewer will subscribe to the Talguu website by creating a user profile which will include payment information and the usual alert settings. Once the user logs in, he can navigate to any channel of his choosing and select a channel for viewing. Our database will go through our collection of users to alert those that have expressed an interest in certain subjects that match that of a certain provider s content. Our database also can use algorithms to alert users based on their past viewings of upcoming programs of interest. 
+
+6 
+
+The below images illustrate a new user registration page and program/channel schedule page: 
+ (The actual photos, designs and usage might change as improve the content of our sites.) 
+
+Talguu will differ from YouTube and other social media networks in that each channel will host a specific theme such as personal health care, do-it-yourself topics, business formation, education, entertainment, news, political talk shows, and business, among other topics. More importantly, we enable the producers to sell tickets or receive gratuity directly from their viewers. 
+ 7 
+
+Presently, we continue to develop and test our platform s live cast software which is approximately 80 complete as of December 31, 2022. Subject to available funding, we plan to start some channels in the second quarter of 2023 in the Philippines, and intend to launch the full platform in the third quarter of 2023. In order to establish and maintain commercial viability, we believe it is necessary to recruit over 500,000 users and over 100 content producers. Our cost to attract users to our site will be variable and not predictable. If we can create viral events through our bloggers and influencers, it will increase the likelihood that we will reach a commercially viable user base. We will make business adjustments based on the result attained and the funding available. 
+ 
+ 9000Jobs.com (formerly Trabahanap and JobDor Platforms) 
+ 
+ Our 9000Jobs.com website is a job search platform which initially was dedicated to the Philippines. We commercially launched the platform in the Philippines in June 2019. As of December 31, 2022, we have over 674,291 users and over 3,392 employers on this site. We developed a similar site in the United States, initially called JobDor.com. We plan to launch the US version in the third quarter of 2023. We do not expect to generate any meaningful revenue until the Covid pandemic has subsided in the Philippines as many of the employers have been and will be given an introductory free trial period. The platforms will match skilled and unskilled, generally entry level, workers with employers. The Philippine website was formerly called www.trabahanap.com. This site will be linked to our Talguu.com website. Our Philippines job search site is designed to help the job seekers and employers in industries like retail, warehousing, hospitality, manufacturing, and media among other industries. The positions are generally entry level for both part time and full-time workers. There are no fees for the job seekers, however, employers will pay fees to the Company for downloading resumes and contact info. An employer would sign on as a new user, upload their company s credentials such as incorporation certificate, corporate ID, and a description of the business. A site administrator will review company information and determine if the submitted material comports with the government records which we obtain online. The new employer then can post their jobs after paying the appropriate fees. Our fees would be competitively set relative to the local market. A job seeker would sign on as a new member, with information like: name, gender, age, email address, phone number, and a description of past job experience and other relevant information. Once approved by an automated email validity check, the new job applicant would be available for prospective employers to contact by email or phone. We are not involved in the actual hiring or vetting processes, which is performed by the employers and job seekers themselves. 
+
+The below images illustrate the home page and user login page of our job search platform in the Philippines. 
+
+8 
+
+The below images illustrate the search page and the open listing page of our job search platform in the Philippines. 
+
+9 
+
+Agreement with ABS-CBN 
+ In March 2017, we entered into a Representation Agreement with ABS-CBN corporation, a Philippine company. ABS-CBN is the second largest television station in the Philippines. Under the agreement, we are required to develop a web based and mobile application for job searches, matching employers with prospective employees. Under the Agreement, ABS-CBN was appointed the exclusive agent to advertise, market and promote the job search platform in the Philippines. The agent also is required, at its cost and expense, to develop and implement the brand for the web-site, conceptualize and develop marketing materials for the web-site, organize and sponsor events and promotions for the web-site and efficiently and sufficiently promote the web-site to prospective users. 
+ 
+ The term of the agreement was five years and terminated on November 30, 2022. Under the agreement, the agent received 60 of the net receipts from the site and the Company received the remaining 40 of the net receipts (gross receipts after all the relevant sales and expatriation taxes for a foreign company). 
+ 
+ ManagerSpecial Platform 
+ 
+ Our third website, www.ManagerSpecial.com, which provides a discount market place for the sellers and buyers of certain goods and services to interact. Primarily, ManagerSpecial helps connect sellers and buyers of products and services that have a limited useful life, such as bakery goods, produce, hotel rooms, and anything thing that has a short expiration date. The sellers usually offer deep discounts to the buyers to move their excess inventories prior to their expiration. Instead of letting their inventories become worthless after a certain time, we help the sellers turn a total loss to a partial gain. Due to the impact of Covid 19, we now plan to launch this site, for restaurants only, in the first quarter of 2023 in the Philippines and the third quarter of 2023 in the United States. ManagerSpecial will also bring customers to dine-in restaurants. 
+ 
+ A registered seller can upload product pictures to our ManagerSpecial server with the quantity and price information as well as the pick up and offer expiration times. A ManagerSpecial buyer can order, pay online and then proceed to the seller s business to pick up the paid product. In the process, our platform levies a percentage fee on the transactions ranging from 5 to 25 of the transaction price. 
+
+10 
+
+A registered buyer or seller signs in: 
+
+A new buyer opens an account: 
+
+11 
+
+Initially, a new seller will open an account at our website. We then will approve or disapprove a seller prior to posting products on our platform. Approval will be dependent on the seller products, credit and other ratings. 
+
+Our Technology and Equipment 
+ We are cloud based and deploy our proprietary software programs to run in the cloud as well as on our users computers and handheld devices. We believe we have minimized the technology risks with respect to the technology needed to run our business because our Chief Executive Officer has a BS and MS degree in Electrical Engineering, is capable of evaluating the necessary programs and methodology to make things happen in the cloud. 
+ 
+ Intellectual Property 
+ On November 14, 2018, we filed a utility patent application with the US Patent and Trademark office (Application No. 16190484). The utility patent application is in connection with certain novel claims to facilitate the buying and selling of perishable products and services from a cloud platform. While we have filed a patent application for this process involved in our ManagerSpecial platform, the lack of patent protection will not adversely impact the use of this process or the success of the platform. We cannot predict whether we will be successful in obtaining a patent for this process. 
+ 
+ On February 13, 2019, we filed a utility patent application with the US Patent and Trademark office (Application No. 16275182). The utility patent application is in connection with certain novel claims for hosting and pricing live streamed events via an internet cloud based platform. 
+ 
+ On June 1, 2021, we were awarded a new US utility patent, #11025989, for an invention related to streaming related to Application No. 16275182 which was filed on February 13, 2019. On July 9, 2021, we have filed for patent protection for this patent in the European Union and on October 12, 2021, we have filed for patent protection for this patent in Japan. In November 2022, we have decided not to pursue the patent protection in the EU based on the advice of our EU patent attorney. 
+ 
+ On October 13, 2021, we were awarded a new US utility patent, #11176569, for certain aspects of our business model related to ManageSpecial.com under patent application number 16,534,944, which was filed on August 07, 2019. 
+ 
+ We have entered into non-disclosure, confidentially and intellectual property assignment agreements with all new consultants as a condition of engagement. We also plan to enter into confidentiality and non-disclosure agreements with consultants, suppliers, financial partners and others to attempt to limit access to, use and disclosure of our proprietary information. 
+ 12 
+
+Our Growth Strategy and Marketing Efforts 
+ 
+ Currently, we continue to develop, test, and refine the software programs for Talguu.com, ManagerSpecial.com and 9000Jobs.com platforms. 
+ 
+ Our livecasting platform, www.Talguu.com, enables the individual producers to create their content and monetize their work in selling tickets to the viewers. We do not insert involuntary ads nor sell user info to generate income. We believe that people are placing more value on their privacy and the time they save in not watching the ads. The content will be consumed by individual viewers for a fee or on a gratuity basis. We will receive a negotiated percentage of the fees. We plan to launch Talguu.com in the second quarter of 2023 in the Philippines and the third quarter of 2023 in the United States. Recruiting content providers for livecasting will be much different than recruiting users. We plan on attending conferences and meetings for the various content creator groups which will result in more one on one interactions between us and the providers. We believe a strong motivator will be the favorable income arrangement that we offer, and we will not interfere with the development and delivery of their content. We also allow the creators to set their own prices, subject to our input. 
+ 
+ Our jobs platform in the Philippines, 9000Jobs.com, initially called www.Trabahanap.com, attract employers and job seekers to fill jobs and find employment in that country. It was commercially introduced in the Philippines during June 2019. This platform is developed by the Company and initially was marketed by our Philippine partner, ABS-CBN, a large national TV network in the Philippines. As of December 31, 2022, we have over 738,546 users and over 4,136 employers on this site. Due to the impact of Covid 19, we continue to offer employers free job postings until the third quarter of 2021. We began to generate revenue, albeit insignificant, in the second half of 2021. Our agreement with ABS-CBN terminated in November 2022. We intend to do our own direct sales and marketing in both the Philippines and the United States. 
+ 
+ Our ManagerSpecial platform, www.ManagerSpecial.com, helps connect sellers and buyers of products and services that have a limited useful life, such as bakery goods, produce, hotel rooms, and anything thing that has a short expiration date. Sellers usually offer deep discounts to the buyers to move their excess inventories. Instead of letting their inventories become worthless after a certain time, we help the sellers turn a total loss to a partial gain. Due to the impact of Covid 19, we now plan to launch this platform, for restaurants only, in the first quarter of 2023 in the Philippines and in the third quarter of 2022 in the United States. We intend to recruit sellers and buyers via direct sales, bloggers and influencers. 
+
+We cannot predict whether our strategy for attracting sellers, content providers and users will be successful. 
+ 
+ Industry Trends 
+ 
+ The social media industry is populated by such big names like, Youtube, Facebook, Twitter, Instagram, and lately TikTok. They companies are wildly successful. They all vie for the same advertising dollar. Industry experts claim that Facebook and Google accounted for about 99 percent of all advertising growth in the third quarter of 2016 54 percent of the pie for Google, 45 percent of it for Facebook, 1 percent for everybody else (See How Google and Facebook have taken over the Digital Ad Industry Fortune Magazine January 4, 2017: http://fortune.com/2017/01/04/google-facebook-ad-industry/). 
+ 
+ The industry trends are that Facebook and Google will continue to dominate the industry and they will charge more for ads and consumers will be forced to view more irrelevant ads or they would be micro-targeted based on their viewing and spending habits. The Company believes that most of today s online consumers are fatigued with viewing too many ads per day for internet content. 
+ 
+ Management has recognized that, other than the behemoths like Facebook and Google, both of which are diversified and do not rely on live streaming alone, the ad based revenue model of many live streaming focused media providers, like Pandora, Snapchat, Spotify, and others, is inherently flawed in that revenue generation (from advertisers) has not been able to keep pace with the overhead necessary to operate these types of companies in an ad based environment. Most of them rely on a fixed subscription fee for unlimited content (ie songs); it would mean that each subscription can become a loss leader if too many royalty based songs are downloaded. Many of these companies operate on thin gross margins as many allow unlimited streaming for a fixed or no monthly fee, and yet they are obligated to pay royalties based on streaming volume. If their ad revenues ran below their royalties, they would lose money every time a user live streams a content (song). 
+ 
+ One well known exception is YouTube Red, which is based on subscriptions and is ad free. However, creators on YouTube Red do not have a full control of their income as they all share from one revenue pool, which is split each pay period between all the YouTube Red creators and song royalty owners. 
+ 13 
+ 
+ The Company s business model runs counter to current industry trends by eliminating advertisement based revenue and its necessary by product - annoying ads which intrude on content. Instead, our revenue stream is based on ticket sales, small service fees, and gratuities from site users. 
+ 
+ Our Value Proposition 
+ 
+ Management believes we offer a strong value proposition to content providers and users alike. 
+ 
+ From a user perspective, we believe the TV broadcasting industry and many web content sites have created an adversarial position with their viewers. They place too much emphasis on ad based revenues. In many cases, the content is thinly veiled information designed to create clicks for ad based programs. On average, a TV viewer and internet user spends 20 -30 of their time watching ads. In addition, many internet ads are designed to limit or reduce the viewable content on a page. In many cases, viewing content is surrounded by ads vertically and horizontally making it difficult to view or read your desired information. Users typically inadvertently or unknowingly click on ads leading them to an unwanted internet journey. As such, many internet sites have alienated many of their viewers. As discussed above, the cornerstone of our business model is to eschew advertising dollars as our revenue stream in favor of revenues from program sales and gratuities from our channels. Thus, we feel our content offering is fresh alternative for our viewers, meaning zero ads with many of channels of content managed by the channel producers. 
+ 
+ From a content provider standpoint, we will attract and draw from the literally tens of thousands of comedians, musicians, professors, animation producers, news reporters and web gurus. Management believes many of these content providers merely lack the name recognition and media exposure of famous internet gurus. We intend to scout the internet for savvy live streaming producers, educators, bloggers and news casters, and engage them with our product offerings. We believe they will be eager to participate with us as we will provide them with the delivery facility consisting of the technical infrastructure, data security, scheduling and payment gateway. We intend to develop a large user base and drive traffic to the specific channels based upon our users preferences and alert settings. We also expect to capture their existing user base and migrate them to our site. 
+ 
+ Our Competition 
+ 
+ We operate in the internet products, services, and content markets and to a lesser extent the TV market, which are highly competitive and characterized by rapid changes, converging technologies, and increasing competition. Our most significant competition for users will come from YouTube and YouTube Red and to a lesser extent social networking sites, such as Facebook, TikTok, and Twitter. Our jobs search platforms will face competition from sites like Linkedin, monster.com and ziprecruiter.com, among others. Our ManagerSpecial.com will face competition to some extent from Groupon.com, Too Good To Go, among others. However, we believe that ManagerSpecial s decision not to partake in seller s revenue is attractive to the seller. 
+ 
+ Our principal considerations related to attracting and retaining online users include functionality, ease of use, diverse content from a wide range of providers, the arrangement of content by channels, and most importantly creating a user experience which is free of ad clutters. We consider our ad free content our most significant competitive advantage. 
+ 
+ Notwithstanding our perceived competitive advantages, we face competitions from companies that are substantially larger, better-financed companies that may develop products superior to our proposed products. Our future success depends on our ability to compete effectively with our competitors. As a result, we may have difficulty competing with larger, established competitor companies. Generally, these competitors have: 
+
+substantially greater financial, technical and marketing resources; 
+
+larger customer bases; 
+
+better name recognition; and 
+
+potentially more expansive product or channel offerings. 
+
+14 
+
+These competitors are likely to command a larger market share, which may enable them to establish a stronger competitive position than we have, in part, through greater marketing opportunities. Further, our competitors may be able to respond more quickly than us to new or emerging technologies and changes in user preferences and to devote greater resources than us to developing and operating networks of affinity websites. These competitors may develop products or services that are comparable or superior. If we fail to address competitive developments quickly and effectively, we may not become or be able to remain a viable entity. 
+ 
+ To some extent, our granted patents would offer certain protection for our Talguu.com and ManagerSpecial.com sites to ward off some potential copycats. We cannot guarantee that the legal protection offered by these patents would not be breached. 
+ 
+ Regulatory Matters 
+ 
+ We are unaware of and do not anticipate having to expend significant resources to comply with any governmental regulations. We are subject to the laws and regulations of those jurisdictions in which we plan to conduct our services and sell advertising, which are generally applicable to business operations, such as business licensing requirements, income taxes and payroll taxes. In general, the development and operation of our business is not subject to special regulatory and/or supervisory requirements. 
+ 
+ Item 1A. Risk Factors 
+ 
+ RISK FACTORS 
+ 
+ An investment in our common stock involves a high degree of risk. You should carefully consider the risks described below and the other information in this prospectus before investing in our common stock. If any of the following risks occur, our business, operating results and financial condition could be seriously harmed. Please note that throughout this prospectus, the words we , our , us , or Live Inc. refer to the Company and its subsidiaries and not to the selling stockholders. 
+ 
+ RISKS RELATED TO OUR FINANCIAL CONDITION 
+ 
+ THERE IS SUBSTANTIAL DOUBT ABOUT THE COMPANY S ABILITY TO CONTINUE AS A GOING CONCERN. Our financial statements as of December 31, 2022 were prepared under the assumption that we will continue as a going concern for the next twelve months from the date of issuance of these financial statements. Our independent registered public accounting firm has issued a report that includes an explanatory paragraph referring to our losses from operations and net cash used in operating activities, and have expressed substantial doubt in our ability to continue as a going concern. Our ability to continue as a going concern is dependent upon our ability to obtain additional financing and the development of the Company s contemplated plan of operations, which are uncertain at this time. In addition, we can not predict the impact of COVID 19 on our future operations. Our financial statements do not include adjustments that would result from the outcome of these uncertainties. As a result, this may adversely affect our ability to obtain new financing on reasonable terms or at all. Investors may be investing in a company that will not have the funds necessary to continue to deploy its business strategies. 
+ 
+ WE HAVE A LIMITED OPERATING HISTORY THAT YOU CAN USE TO EVALUATE US, AND THE LIKELIHOOD OF OUR SUCCESS MUST BE CONSIDERED IN LIGHT OF THE PROBLEMS, EXPENSES, DIFFICULTIES, COMPLICATIONS AND DELAYS FREQUENTLY ENCOUNTERED BY A SMALL DEVELOPING COMPANY. We were incorporated on September 6, 2016. We have limited financial resources and have not started generating revenues. The likelihood of our success must be considered in light of the problems, expenses, difficulties, complications and delays frequently encountered by a small developing company starting a new business enterprise and the highly competitive environment in which we will operate. Since we have a limited operating history, we cannot assure you that our business will be profitable or that we will ever generate sufficient revenues to meet our expenses and support our anticipated activities. 
+ 
+ FAILURE TO RAISE ADDITIONAL CAPITAL TO FUND FUTURE OPERATIONS COULD HARM OUR BUSINESS AND RESULTS OF OPERATIONS. Reflected on our balance sheet as of December 31, 2022 contained herein, we have total current assets of 136,048 and total current liabilities of 2,383,907. We will require additional financing in order to maintain its corporate existence and to implement its business plans and strategy. The timing and amount of our capital requirements will depend on several factors, including our initial operational results with respect to user acceptance of our three platforms, the need for other expenditures, and competitive pressures. If additional funds are raised through the issuance of equity or convertible debt securities, the percentage ownership of our then-existing stockholders will likely be reduced significantly. We cannot make assurances that any financing will be available on terms 
+ 15 
+ 
+ favorable to us or at all. If adequate funds are not available on acceptable terms, our ability to fund our business strategy, ongoing operations, take advantage of unanticipated opportunities, or otherwise respond to competitive pressures could be significantly limited. Our business, financial condition and results of operations will be harmed by such limitations. 
+ 
+ RISKS RELATED TO OUR BUSINESS 
+ 
+ LACK OF COMMERCIAL ACCEPTABILITY. We launched our Philippine job search platform, formerly www.Trabahanap.com now 9000Jobs.com, in June 2019, and as of December 31, 2022, we have over 674,291 users and over 3,392 employers on our Trahabanap platform. For the other platforms, and due to the impact of Covid 19, we now intend to launch Talguu.com, ManagerSpecial.com, and 9000Jobs.com in the United States platforms during 2023, subject to available funds. 
+ 
+ While we believe that our platforms will be commercially received, we cannot predict if our products will be a commercial success. 
+ 
+ WE HAVE NO OPERATING HISTORY ON WHICH TO EVALUATE OUR POTENTIAL FOR FUTURE SUCCESS. Our business has had no material operations to date. Consequently, evaluating an investment in us and predicting our future results based upon our past performance is not possible, particularly with respect to our ability to develop our products and services, to generate and sustain a revenue base sufficient to cover operating expenses or to achieve profitability. We face many of the risks and uncertainties encountered by early stage companies, and our future operating results may differ from what we expect due to many factors, including: (i) slower than expected growth; (ii) the uncertain adoption by consumers of the services that we intend to provide; and (iii) potential competition from other service providers. 
+ 
+ OUR FOUR PLATFORMS COULD FAIL TO ATTRACT OR RETAIN USERS OR GENERATE REVENUE. For our job search platforms, we will need to attract enough employers willing to use our platform in the Philippines and the United States, and, in particular, to pay for our platforms use. For our ManagerSpecial platform, we need to convince enough sellers to offer their discounted products to our buyers and our ability to attract enough buyers. For our internet livecasting platform, our success will depend not only on our ability to attract and engage our livecasting users and to monetize these users; we also need to attract and migrate the users from ManagerSpecial to try out livecasting channels. In part, this will depend on our ability to attract independent content providers that produce content that will attract users willing to pay for such content. We may not be successful in our efforts to generate meaningful revenue from our three platforms over the long term. If we fail to engage users, marketers, or employers, or if we are unsuccessful in our monetization efforts, we may fail to attract or retain users or to generate enough revenue, operating margin, or other value to justify our investments, and our business may fail. 
+ 
+ OUR COMPANY CANNOT PREDICT IF IT CAN ACHIEVE PROFITABLE OPERATIONS. The Company has only had limited operations to date and requires significant additional financing to reach its projected milestones, which includes further product development relating to the launch of our internet broadcasting platform, product marketing to attract users and general overhead expenditures. While the Company considers its business to be highly prospective, nonetheless it may be difficult for the Company to attract funding necessary to reach its projected milestones. Moreover, even if it achieves its projected milestones, the Company cannot predict whether it will reach profitable operations. 
+ 
+ OUR BUSINESS IS HIGHLY COMPETITIVE. COMPETITION PRESENTS AN ONGOING THREAT TO THE SUCCESS OF OUR BUSINESS. We face significant competition in every aspect of our business, including from companies that provide job search or placement capabilities, web based content similar to what we plan on offering and websites offering discount products and services. We compete with companies that offer full-featured products that replicate the range of content and related capabilities we provide. We also compete with companies that develop applications, particularly mobile applications, that provide social or other communications functionality, such as messaging, photo- and video-sharing, and micro-blogging, and companies that provide web- and mobile-based information and entertainment products and services that are designed to engage users and capture time spent online and on mobile devices. In addition, we face competition from traditional, online, and mobile businesses that provide media for marketers to reach their audiences and/or develop tools and systems for managing and optimizing advertising campaigns. 
+ 
+ Most, if not all, of our current and potential competitors may have significantly greater resources or better competitive positions in certain product segments, geographic regions or user demographics than we do. These factors may allow our competitors to respond more effectively than us to new or emerging technologies and changes in market conditions. 
+ 16 
+
+Our competitors may develop products, features, or services that are like ours or that achieve greater acceptance, may undertake more far-reaching and successful product development efforts or marketing campaigns, or may adopt more aggressive pricing policies. Certain competitors could use strong or dominant positions in one or more markets to gain competitive advantage against us in our target market or markets. As a result, our competitors may acquire and engage users or generate revenue at the expense of our own efforts, which may negatively affect our business and financial results. 
+
+We believe that our ability to compete effectively depends upon many factors both within and beyond our control, including: 
+ 
+ the popularity, usefulness, ease of use, performance, and reliability of our products and content compared to our competitors' products; 
+ the size and composition of our user base; 
+ the engagement of our users with our products and competing products; 
+ the timing and market acceptance of products, including developments and enhancements to our or our competitors' products; 
+ our ability to monetize our products; 
+ our customer service and support efforts; 
+ acquisitions or consolidation within our industry, which may result in more formidable competitors; 
+ our ability to cost-effectively manage and grow our operations; 
+ our reputation and brand strength relative to those of our competitors; and 
+ our management s ability to manage a start-up enterprise. 
+ 
+ OUR COSTS ARE CONTINUING TO GROW, WHICH COULD HARM OUR BUSINESS AND PROFITABILITY. Operating our business will be costly and we expect our expenses to continue to increase in the future as we expand our broadcast channels and the broadcast hours per channel. We expect to continue to use cloud based servers, recruit users and content producers and employ other efforts to operate and expand our business around the world, including in countries and/or projects where we may not have a clear path to monetization. In addition, we intend to increase marketing, sales, and other operating expenses to grow our operations and to remain competitive. Increases in our costs may adversely affect our business and profitability. Our expenses are expected to grow faster than our revenue in the near term and may be greater than we anticipate, and our investments may not be successful. 
+ 
+ WE DEPEND ON OUR SOLE OFFICERS AND THE LOSS OF HIS SERVICES WOULD FORCE US TO EXPEND TIME AND RESOURCES IN PURSUIT OF REPLACEMENTS WHICH COULD ADVERSELY AFFECT OUR BUSINESS. We consider our sole officer, Mr. Keith Wong, to be essential to the success of the business. Currently, he is subject to written consulting agreements which allows him to terminate his agreement at any time. Although he has not indicated any intention of leaving the Company, the loss of Mr. Wong, could have a negative impact on our ability to fulfill our business plan and achieve profitable operations. 
+ 
+ WE MAY INCUR SIGNIFICANT COSTS TO BE A PUBLIC COMPANY TO ENSURE COMPLIANCE WITH U.S. CORPORATE GOVERNANCE AND ACCOUNTING REQUIREMENTS AND WE MAY NOT BE ABLE TO ABSORB SUCH COSTS. We may incur significant costs associated with our public company reporting requirements, costs associated with newly applicable corporate governance requirements, including requirements under the Sarbanes-Oxley Act of 2002 and other rules implemented by the Securities and Exchange Commission. We expect these costs to approximate at between 18,000 to 50,000 per year, consisting of legal, accounting, EDGAR conversion and transfer agent fees. We expect all these applicable rules and regulations to significantly increase our legal and financial compliance costs and to make some activities more time consuming and costly. We may not be able to cover these costs from our operations and may need to raise or borrow additional funds. We also expect that these applicable rules and regulations may make it more difficult and more expensive for us to obtain director and officer liability insurance and we may be required to accept reduced policy limits and coverage or incur substantially higher costs to obtain the same or similar coverage. As a result, it may be more difficult for us to attract and retain qualified individuals to serve on our board of directors or as executive officers. We are currently evaluating and monitoring developments with respect to these newly applicable rules, and we cannot predict or estimate the amount of additional costs we may incur or the timing of such costs. In addition, we may not be able to absorb these costs of being a public company which will negatively affect our business operations. 
+ 17 
+
+OUR OFFICERS AND DIRECTORS BENEFICIALLY OWN A SIGNIFICANT AMOUNT OF THE OUTSTANDING COMMON STOCK AS OF THE DATE OF THIS FILING AND COULD TAKE ACTIONS DETRIMENTAL TO YOUR INVESTMENT FOR WHICH YOU WOULD HAVE NO REMEDY. Mr. Keith Wong, our Chief Executive Officer and sole director, beneficially owns approximately 81 of the outstanding common stock as of the date of this filing. He will continue to have the ability to substantially influence the management, policies, and business operations. In addition, the rights of the holders of our common stock will be subject to, and may be adversely affected by, the rights of holders of any preferred stock that may be issued in the future. Because of his shareholdings as well as his management control, such officer and director may cause the company to engage in business combinations without seeking shareholder approval. 
+ 
+ OUR SOLE OFFICER AND DIRECTOR INTENDS TO DEVOTE A SUFFICIENT AMOUNT OF TIME TO OUR BUSINESS. HOWEVER, WE MAY HAVE CONFLICTS OF INTERESTS IN ALLOCATING HIS TIME BETWEEN OUR COMPANY AND THOSE OF OTHER BUSINESSES AND DETERMINING TO WHICH ENTITY A PARTICULAR BUSINESS OPPORTUNITY SHOULD BE PRESENTED WHICH MAY NOT BE SUFFICIENT TO SUCCESSFULLY DEVELOP OUR BUSINESS. Our sole officer and director has business interests apart from the Company. While we do not face direct competition with respect to his current business interests, we do face competition in the amount of time that the officer intends to devote to our business. Currently, he devotes a sufficient amount of time to the affairs of the Company. However, the amount of time which he may actually devote to our business may not be sufficient to fully develop our business. 
+ 
+ WE COULD EXPERIENCE UNFORESEEN DIFFICULTIES IN BUILDING AND OPERATING KEY PORTIONS OF OUR TECHNICAL INFRASTRUCTURE. We have designed and built our own application programs and key portions of our platforms through which we provide our services, and we plan to continue to significantly expand the size of our infrastructure primarily through cloud servers and software development. The infrastructure expansion we are undertaking is complex, and unanticipated delays in the completion of these projects or availability of components may lead to increased project costs, operational inefficiencies, or interruptions in the delivery or degradation of the quality of our products. In addition, there may be issues related to this infrastructure that are not identified during the testing phases of design and implementation, which may only become evident after we have started to fully utilize the underlying equipment, that could further degrade the user experience or increase our costs. 
+ 
+ OUR PRODUCTS AND INTERNAL SYSTEMS RELY ON SOFTWARE THAT IS HIGHLY TECHNICAL, AND IF IT CONTAINS UNDETECTED ERRORS, OUR BUSINESS COULD BE ADVERSELY AFFECTED. Our services and internal systems rely on software, including software developed or maintained internally and/or by third parties that is highly technical and complex. In addition, our products and internal systems depend on the ability of such software to store, retrieve, process, and manage immense amounts of data. The software on which we rely has contained, and may now or in the future contain, undetected errors, bugs, or vulnerabilities. Some errors may only be discovered after the code has been released for external or internal use. Errors or other design defects within the software on which we rely may result in a negative experience for users and marketers who use our products, delay product introductions or enhancements, result in measurement or billing errors, or compromise our ability to protect the data of our users and/or our intellectual property. Any errors, bugs, or defects discovered in the software on which we rely could result in damage to our reputation, loss of users, loss of revenue, or liability for damages, any of which could adversely affect our business and financial results. 
+ 
+ In addition, our software and cloud based software, our cloud hosting companies, our data centers, our hardware and our own inhouse staff or contractors may cause or be subject to, unfriendly intrusions, sabotages, or viruses to our systems. Any of these events can result in minor or major harms to our Company. We have instituted passwords and hierarchical access protocols to safe guard our digital assets. There is no guarantee these measures would always succeed. 
+ 
+ POTENTIAL DATA BREACHES. If we are successful, our services will generate and process a large quantity of personal data of user, including credit card and other financial information. We face risks inherent in handling large volumes of data and in protecting the security of such data. In particular, we face a number of challenges relating to the user data, including: 
+ 
+ protecting the data in and hosted on our system, including against hacking on our system by outside parties or our employees; 
+ addressing concerns related to privacy and sharing, safety, security and others; 
+ 18 
+ 
+ complying with applicable laws, rules and regulations relating to the collection, use, disclosure of personal information, including any requests from regulatory and government authorities relating to such data; 
+ Any systems failure, whether or not caused by us, or security breach or lapse that results in the release of user data could harm our reputation and brand and, consequently, our business, in addition to exposing us to potential legal liability. 
+ 
+ As we expand our operations, we may be subject to these laws in other jurisdictions where our customers and other participants are located. The laws, rules and regulations of other jurisdictions may impose more stringent or conflicting requirements and penalties than those in the United States and Philippines, compliance with which could require significant resources and costs. Our privacy policies and practices concerning the collection, use and disclosure of user data will be posted on our websites. Any failure, or perceived failure, by us to comply with our posted privacy policies or with any regulatory requirements or privacy protection-related laws, rules and regulations could result in proceedings or actions against us by authorities or others. These proceedings or actions may subject us to significant penalties and negative publicity, require us to change our business practices, increase our costs and severely disrupt our business. In addition, we may be subject to litigation resulting from any data breaches, which likewise will severely disrupt our business. 
+ 
+ PROBLEMS WITH CONTENT DELIVERY SERVICES, BANDWIDTH PROVIDERS, DATA CENTERS OR OTHER THIRD PARTIES COULD HARM OUR BUSINESS, FINANCIAL CONDITION OR RESULTS OF OPERATIONS. Our business relies significantly on third-party vendors, such as data centers, content delivery services and bandwidth providers. If any third-party vendor fails to provide their services or if their services are no longer available to us for any reason and we are not immediately able to find replacement providers, our business, financial conditions or results of operations could be materially adversely affected. 
+ 
+ Additionally, any disruption in network access or related services provided by these third-party providers or any failure of these third-party providers to handle current or higher volumes of use could significantly harm our business operations. If our service is disrupted, we may lose revenues due to our inability to provide services to our franchised learning centers and we may be obligated to compensate these franchisees for their loss. Our reputation also may suffer in the event of a disruption. Any financial or other difficulties our providers face may negatively impact our business and we are unable to predict the nature and extent of any such impact. We exercise very little control over these third-party vendors, which increases our vulnerability to problems with the services they provide. Any errors, failures, interruptions or delays experienced in connection with these third-party technologies and information services could negatively impact our relationships with our franchisees and materially adversely affect our brand reputation and our business, financial condition or results of operations and expose us to liabilities to third parties. 
+ 
+ WE EXPECT OUR QUARTERLY RESULTS TO FLUCTUATE WHICH MAY ADVERSELY AFFECT OUR STOCK PRICE. We expect that our quarterly results will fluctuate significantly. We believe that period-to-period comparisons of our operating results are not meaningful. Additionally, if our operating results in one or more quarters do not meet securities analysts' or your expectations, the price of our common stock could decrease. 
+ 
+ IF OUR COSTS AND EXPENSES ARE GREATER THAN ANTICIPATED AND WE ARE UNABLE TO RAISE ADDITIONAL WORKING CAPITAL, WE MAY BE UNABLE TO FULLY FUND OUR OPERATIONS AND TO OTHERWISE EXECUTE OUR BUSINESS PLAN. Our currently available working capital will be sufficient to continue our existing operations in a limited basis through December 2022. Should our costs and expenses prove to be greater than we currently anticipate, or should we change our current business plan in a manner that will increase or accelerate our anticipated costs and expenses, the depletion of our working capital would be accelerated. To the extent it becomes necessary to raise additional cash in the future as our current cash and working capital resources are depleted, we will seek to raise it through the public or private sale of debt or equity securities, funding from joint-venture or strategic partners, debt financing or short-term loans, or a combination of the foregoing. We may also seek to satisfy indebtedness without any cash outlay through the private issuance of debt or equity securities. We currently do not have any binding commitments for, or readily available sources of, additional financing. We cannot give you any assurance that we will be able to secure the additional cash or working capital we may require to continue our operations. 
+ 19 
+
+IF WE REQUIRE ADDITIONAL CAPITAL AND EVEN IF WE ARE ABLE TO RAISE ADDITIONAL FINANCING, WE MIGHT NOT BE ABLE TO OBTAIN IT ON TERMS THAT ARE NOT UNDULY EXPENSIVE OR BURDENSOME TO THE COMPANY OR DISADVANTAGEOUS TO OUR EXISTING SHAREHOLDERS. If we require additional capital and even if we are able to raise additional cash or working capital through the public or private sale of debt or equity securities, funding from joint-venture or strategic partners, debt financing or short-term loans, or the satisfaction of indebtedness without any cash outlay through the private issuance of debt or equity securities, the terms of such transactions may be unduly expensive or burdensome to the Company or disadvantageous to our existing shareholders. For example, we may be forced to sell or issue our securities at significant discounts to market, or pursuant to onerous terms and conditions, including the issuance of preferred stock with disadvantageous dividend, voting or veto, board membership, conversion, redemption or liquidation provisions; the issuance of convertible debt with disadvantageous interest rates and conversion features; the issuance of warrants with cashless exercise features; the issuance of securities with anti-dilution provisions; and the grant of registration rights with significant penalties for the failure to quickly register. If we raise debt financing, we may be required to secure the financing with all of our business assets, which could be sold or retained by the creditor should we default in our payment obligations. 
+ 
+ OUR SUCCESS IS DEPENDENT ON OUR ABILITY TO RETAIN AND ATTRACT KEY PERSONNEL. 
+ Many of our management personnel have worked for us for less than one year. Our efficiency may be limited while these employees and future employees are being integrated into our operations. In addition, we may be unable to find and hire additional qualified management and professional personnel to help lead us. 
+ 
+ Our expenses will increase as we build an infrastructure to implement our business model. For example, we expect to hire additional employees, expand information technology systems and lease more space for our corporate offices to the extent we have capital available. Due to our current limited capital, we initially intend to offer independent contractor arrangements. If any of these and other expenses are not accompanied by increased revenue, our operating losses will be greater than we anticipate. 
+ 
+ A SIGNIFICANT OR PROLONGED ECONOMIC DOWNTURN WOULD HAVE A MATERIAL ADVERSE EFFECT ON OUR RESULTS OF OPERATIONS. Our results of operations are affected by general economic conditions and the level of economic activity in the industries and markets that we serve. On an aggregate basis, our users may be less likely to purchase our software solutions and programs during economic downturns and periods of economic uncertainty. To the extent our users delay or reduce purchasing our services, our results of operations will be adversely affected. A continued economic downturn or period of economic uncertainty and a decline in the level of purchases of our users would have a material adverse effect on our business, financial condition and results of operations. 
+ 
+ OUR BUSINESS HAS BEEN AND MAY CONTINUE TO BE NEGATIVELY AFFECTED BY ADVERSE GENERAL ECONOMIC CONDITIONS INCLUDING THE IMPACT OF COVID 19. Current conditions in domestic and global economies are extremely uncertain. Adverse changes may occur as a result of softening global economies, wavering consumer confidence caused by the threat of terrorism and war, and other factors capable of affecting economic conditions. Such changes could have a material adverse effect on our business, financial condition, and results of operations. In March 2020, the World Health Organization declared the novel coronavirus (COVID-19) a global pandemic and recommended containment and mitigation measures worldwide. The spread of COVID-19 has affected segments of the global economy and has affected our operations and may continue to negatively impact our operations in the future. We are monitoring this situation closely, and although operations have not been materially affected by the COVID-19 outbreak to date, the ultimate duration and severity of the outbreak and its impact on the economic environment and our business is uncertain. 
+ 
+ RISKS RELATED TO OUR COMMON STOCK 
+ 
+ SHAREHOLDERS MAY NOT BE ABLE TO LIQUIDATE YOUR INVESTMENT SINCE THERE IS NO ASSURANCE THAT A PUBLIC MARKET WILL DEVELOP FOR OUR COMMON STOCK OR THAT OUR COMMON STOCK WILL EVER BE APPROVED FOR TRADING ON A RECOGNIZED EXCHANGE. There is no established public trading market for our securities. Although we intend to be quoted on the OTC-QB tier of OTC Markets in the future, our shares are not and have not been quoted on any exchange or quotation system. We cannot assure you that a market maker will agree to file the necessary documents with the FINRA, nor can there be any assurance that such an application for quotation will be approved or that a regular trading market will develop or that if developed, will be sustained. In the absence of a trading market, an investor may be unable to liquidate its investment, which will result in the loss of your investment. 
+ 20 
+ 
+ SHOULD OUR STOCK BECOME QUOTED ON THE OTC MARKETS, IF WE FAIL TO REMAIN CURRENT ON OUR REPORTING REQUIREMENTS, WE COULD BE REMOVED FROM THE OTC BULLETIN BOARD WHICH WOULD LIMIT THE ABILITY OF BROKER-DEALERS TO SELL OUR SECURITIES AND THE ABILITY OF STOCKHOLDERS TO SELL THEIR SECURITIES IN THE SECONDARY MARKET. Companies quoted on the OTC-QB tier of OTC Markets, such as we are seeking to become, must be reporting issuers under Section 12 of the Securities Exchange Act of 1934, as amended, and must be current in their reports under Section 13, in order to maintain price quotation privileges on the OTC-QB. If we fail to remain current on our reporting requirements, we could be removed from the OTC-QB tier. As a result, the market liquidity for our securities could be severely adversely affected by limiting the ability of broker-dealers to sell our securities and the ability of stockholders to sell their securities in the secondary market. In addition, we may be unable to get re-quoted on the OTC-QB tier, which may have an adverse material effect on our Company. 
+ 
+ ONCE PUBLICLY TRADING, THE APPLICATION OF THE PENNY STOCK RULES COULD ADVERSELY AFFECT THE MARKET PRICE OF OUR COMMON SHARES AND INCREASE YOUR TRANSACTION COSTS TO SELL THOSE SHARES. The Securities and Exchange Commission has adopted Rule 15g-9 which establishes the definition of a penny stock, for the purposes relevant to us, as any equity security that has a market price of less than 5.00 per share or with an exercise price of less than 5.00 per share, subject to certain exceptions. For any transaction involving a penny stock, unless exempt, the rules require: 
+ 
+ that a broker or dealer approve a person s account for transactions in penny stocks; and 
+ 
+ the broker or dealer receive from the investor a written agreement to the transaction, setting forth the identity and quantity of the penny stock to be purchased. 
+ 
+ In order to approve a person s account for transactions in penny stocks, the broker or dealer must: 
+ 
+ obtain financial information and investment experience objectives of the person; and 
+ 
+ make a reasonable determination that the transactions in penny stocks are suitable for that person and the person has sufficient knowledge and experience in financial matters to be capable of evaluating the risks of transactions in penny stocks. 
+ 
+ The broker or dealer must also deliver, prior to any transaction in a penny stock, a disclosure schedule prescribed by the Commission relating to the penny stock market, which, in highlight form: 
+ 
+ sets forth the basis on which the broker or dealer made the suitability determination; and 
+ 
+ that the broker or dealer received a signed, written agreement from the investor prior to the transaction. 
+ 
+ Generally, brokers may be less willing to execute transactions in securities subject to the penny stock rules. This may make it more difficult for investors to dispose of our common stock and cause a decline in the market value of our stock. 
+ 
+ Disclosure also has to be made about the risks of investing in penny stocks in both public offerings and in secondary trading and about the commissions payable to both the broker-dealer and the registered representative, current quotations for the securities and the rights and remedies available to an investor in cases of fraud in penny stock transactions. Finally, monthly statements have to be sent disclosing recent price information for the penny stock held in the account and information on the limited market in penny stocks. 
+ 
+ WE DO NOT EXPECT TO PAY DIVIDENDS IN THE FUTURE; ANY RETURN ON INVESTMENT MAY BE LIMITED TO THE VALUE OF OUR COMMON STOCK. We do not currently anticipate paying cash dividends in the foreseeable future. The payment of dividends on our Common Stock will depend on earnings, financial condition and other business and economic factors affecting it at such time as the board of directors may consider relevant. Our current intention is to apply net earnings, if any, in the foreseeable future to increasing our capital base and development and marketing efforts. There can be no assurance that the Company will ever have sufficient earnings to declare and pay dividends to the holders of our Common Stock, and in any event, a decision to declare and pay dividends is at the sole discretion of our Board of Directors. If we do not pay dividends, our Common Stock may be less valuable because a return on your investment will only occur if its stock price appreciates. 
+ 21 
+ 
+ OUR COMMON STOCK PRICE IS LIKELY TO BE HIGHLY VOLATILE WHICH MAY SUBJECT US TO SECURITIES LITIGATION THEREBY DIVERTING OUR RESOURCES WHICH MAY AFFECT OUR PROFITABILITY AND RESULTS OF OPERATION. The market price for our common stock is likely to be highly volatile as the stock market in general and the market for Internet-related stocks. 
+ 
+ The following factors will add to our common stock price s volatility: 
+ 
+ actual or anticipated variations in our quarterly operating results; 
+ 
+ announcements by us of acquisitions; 
+ 
+ additions or departures of our key personnel; and. 
+ 
+ sales of our common stock 
+ 
+ Many of these factors are beyond our control. These factors may decrease the market price of our common stock, regardless of our operating performance. In the past, plaintiffs have initiated securities class action litigation against a company following periods of volatility in the market price of its securities. We may in the future be the target of similar litigation. Securities litigation could result in substantial costs and liabilities and could divert management s attention and resources. 
+ 
+ WE ARE NOT A FULLY REPORTING COMPANY UNDER SECTION 12(G) OF THE SECURITIES EXCHANGE ACT OF 1934, RATHER WE WILL BE SUBJECT TO THE REPORTING REQUIREMENTS OF SECTION 15(D) OF THE EXCHANGE ACT WHICH IS LESS RESTRICTIVE ON US AND OUR INSIDERS. In order for us to become a fully reporting company under Section 12(g) of the Exchange Act, we will have to file a Registration Statement on Form 8-A. If we do not become subject to Section 12 of the Exchange Act, we will be subject to Section 15(d) of the Exchange Act, and as such we will not be required to comply with (i) the proxy statement requirements which means shareholders may have less notice of pending matters, and (ii) the Williams Act which requires disclosure of persons or groups that acquire 5 of a company s publicly traded stock and also regulates tender offers. In addition, our officer, director and 10 stockholder will not be required to submit reports to the SEC on their stock ownership and stock trading activity. These reports include Form 3, 4 and 5. Therefore, as a shareholder, less information and disclosure concerning these matters will be available to you. In addition, if we fail to become a full reporting company under Section 12(g) of the Exchange Act, our periodic reporting obligations may be automatically suspended in our next fiscal year. 
+ 
+ REDUCED DISCLOSURE REQUIREMENTS APPLICABLE TO EMERGING GROWTH COMPANIES MAY MAKE OUR COMMON STOCK LESS ATTRACTIVE TO INVESTORS. We qualify as an emerging growth company under the JOBS Act. As a result, we are permitted to, and intend to, rely on exemptions from certain disclosure requirements. For so long as we are an emerging growth company, we will not be required to: 
+ 
+ have an auditor report on our internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act; 
+ comply with any requirement that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm rotation or a supplement to the auditor s report providing additional information about the audit and the financial statements (i.e., an auditor discussion and analysis); 
+ submit certain executive compensation matters to shareholder advisory votes, such as say-on-pay and say-on-frequency; and 
+ disclose certain executive compensation related items such as the correlation between executive compensation and performance and comparisons of the CEO s compensation to median employee compensation. 
+ 
+ In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We will remain an emerging growth company for up to five full fiscal years, although if the market value of our common stock that is held by non-affiliates exceeds 700 million as of any January 31 before that time, we would cease to be an emerging growth company as of the following December 31, or if our annual revenues exceed 1 billion, we would cease to be an emerging growth company the following fiscal year, or if we issue more than 1 billion in non-convertible debt in a three-year period, we would cease to be an emerging growth company immediately. 
+ 22 
+ 
+ Notwithstanding the above, we are also currently a smaller reporting company, meaning that we are not an investment company, an asset-backed issuer, nor a majority-owned subsidiary of a parent company that is not a smaller reporting company, and has a public float of less than 75 million and annual revenues of less than 50 million during the most recently completed fiscal year. If we are still considered a smaller reporting company at such time as we cease to be an emerging growth company, we will be subject to increased disclosure requirements. However, the disclosure requirements will still be less than they would be if we were not considered either an emerging growth company or a smaller reporting company. Specifically, similar to emerging growth companies , smaller reporting companies are able to provide simplified executive compensation disclosures in their filings; are exempt from the provisions of Section 404(b) of the Sarbanes-Oxley Act requiring that independent registered public accounting firms provide an attestation report on the effectiveness of internal control over financial reporting; are not required to conduct say-on-pay and frequency votes until annual meetings occurring on or after January 21, 2015; and have certain other decreased disclosure obligations in their SEC filings, including, among other things, only being required to provide two years of audited financial statements in annual reports. Decreased disclosures in its SEC filings due to its status as an emerging growth company or smaller reporting company may make us less attractive to investors given that it will be harder for investors to analyze the Company s results of operations and financial prospects and, as a result, it may be difficult for us to raise additional capital as and when we need it. 
+ 
+ IN THE FUTURE, WE MAY ISSUE ADDITIONAL COMMON AND PREFERRED SHARES, WHICH WOULD REDUCE INVESTORS PERCENT OF OWNERSHIP AND MAY DILUTE OUR SHARE VALUE . Our Articles of Incorporation authorize the issuance of 10,000,000,000 shares of common stock. As of the date of this filing, the Company had 7,589,500 shares of common stock issued and outstanding. Accordingly, we may issue up to an additional 9,992,410,500 shares of common stock without shareholder approval. The future issuance of common stock may result in substantial dilution in the percentage of our common stock held by our then existing shareholders. We may value any common stock issued in the future on an arbitrary basis. The issuance of common stock for future services or acquisitions or other corporate actions may have the effect of diluting the value of the shares held by our investors, and might have an adverse effect on any trading market for our common stock. 
+ 
+ Item 1B. Unresolved Staff Comments 
+ 
+ None. 
+ 
+ Item 2. Properties 
+ 
+ The Company neither rents nor owns any properties. The Company utilizes the office space and equipment of its management at no charge and management of the Company determined it to be immaterial. The Company currently has no policy with respect to investments or interests in real estate, real estate mortgages or securities of, or interests in, persons primarily engaged in real estate activities. 
+ 
+ Item 3. Legal Proceedings 
+ 
+ There are presently no pending legal proceedings to which the Company or any of its property is subject, or any material proceedings to which any director, officer or affiliate of the Company, any owner of record or beneficially of more than five percent of any class of voting securities is a party or has a material interest adverse to the Company, and no such proceedings are known to the Company to be threatened or contemplated against it. 
+ 
+ Item 4. Mine Safety Disclosures 
+ 
+ None. 
+ 23 
+
+PART II 
+ 
+ Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ Market Information 
+ There is no established public market for our common stock, and a public market may never develop. No market maker has agreed to file an application with FINRA. There can be no assurance as to whether such a market maker will agree to file an application or the market maker s application will be accepted by FINRA nor can we estimate the time period that will be required for the application process. Even if our common stock were quoted in a market, there may never be substantial activity in such market. If there is substantial activity, such activity may not be maintained, and no prediction can be made as to what prices may prevail in such market. 
+ 
+ If we become able to have our shares of common stock quoted on the OTC-QB tier of OTC Markets, we will then try, through a broker-dealer and its clearing firm, to become eligible with the DTC to permit our shares to be traded electronically. If an issuer is not DTC-eligible, its shares cannot be electronically transferred between brokerage accounts, which, based on the realities of the marketplace as it exists today (especially OTC Markets), means that shares of an issuer will not be able to be traded (technically the shares can be traded manually between accounts, but this may take days and is not a realistic option for issuers relying on broker-dealers for stock transactions - like all the companies on the OTC Markets). What this means is that while DTC-eligibility is not a requirement to trade on the OTC Markets, it is however a necessity to efficiently process trades on the OTC Markets if a company s stock is going to trade with any volume. There are no assurances that our shares will ever become DTC-eligible or, if they do, how long it may take. 
+ 
+ Common Stock : 
+ 
+ The Company is authorized by its Articles of Incorporation, as amended, to issue 10,000,000,000 shares of Common Stock, of which 7,589,500 are issued and outstanding. As of December 31, 2022, there were 318 holders of record of the Common Stock. 
+ 
+ Preferred Stock : 
+ 
+ Our Articles of Incorporation do not allow for the issuance of preferred stock. 
+ 
+ Dividend Policy 
+ 
+ The Company has not declared or paid any cash dividends on its Common Stock and does not intend to declare or pay any cash dividend in the foreseeable future. The payment of dividends, if any, is within the discretion of the Board of Directors and will depend on the Company s earnings, if any, its capital requirements and financial condition and such other factors as the Board of Directors may consider. 
+ 
+ Securities Authorized for Issuance under Equity Compensation Plans 
+ 
+ The Company does not have any equity compensation plans or any individual compensation arrangements with respect to its Common Stock or Preferred Stock. The issuance of any of our Common Stock or Preferred Stock is within the discretion of our Board of Directors, which has the power to issue any or all of our authorized but unissued shares without stockholder approval. 
+ 
+ Recent Sales of Unregistered Securities 
+ 
+ None 
+ 
+ Issuer Purchases of Equity Securities 
+ 
+ None. 
+ 
+ Item 6. [Reserved] 
+ 24 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ You should read the following discussion together with our financial statements and the related notes included elsewhere in this Annual Report. This discussion contains forward-looking statements, which involve risks and uncertainties. Our actual results may differ materially from those we currently anticipate as a result of many factors. 
+ 
+ Forward Looking Statements 
+ 
+ Some of the information in this section contains forward-looking statements that involve substantial risks and uncertainties. You can identify these statements by forward-looking words such as "may," "will," "expect," "anticipate," "believe," "estimate" and "continue," or similar words. You should read statements that contain these words carefully because they: 
+ 
+ discuss our future expectations; 
+ contain projections of our future results of operations or of our financial condition; and 
+ state other "forward-looking" information. 
+ 
+ We believe it is important to communicate our expectations. However, there may be events in the future that we are not able to accurately predict or over which we have no control. Our actual results and the timing of certain events could differ materially from those anticipated in these forward-looking statements as a result of certain factors. 
+ 
+ Summary of Business 
+ 
+ We were formed on September 6, 2016 under the laws of the State of California under the name Taluhu Inc. We changed our name to Live Inc. on October 3, 2016 and on September 6, 2020, we changed our name to Guuru Corp. As discussed further below, on April 29, 2021, the Company s name was changed to 3Forces Inc. 
+ 
+ On October 2, 2020, the Company formed Talguu Inc., an Arizona corporation, as a wholly owned subsidiary for the purpose of changing the domicile of the Company from California to Arizona. The process involved the filing of respective merger forms in each of Arizona and California. On January 15, 2021, the State of Arizona approved the Statement of Merger whereby the parent entity, then Guuru Corp (a California corporation, formerly Live Inc.), was merged into Talguu Inc. (an Arizona corporation). On March 15, 2021, the State of California is approved the merger transaction. As mentioned above, on April 29, 2021, the Company s name was changed to 3Forces Inc. 
+ 
+ We currently have developed and are managing three cloud based platforms: 
+ 
+ Our livecasting platform, www.Talguu.com, enables the individual producers to create their content and monetize their work in selling tickets to the viewers. We do not insert involuntary ads or selling user info to generate income. We believe that people are putting more value on their privacy and the time they save in not watching the ads. The content will be consumed by individual viewers for a fee or on a gratuity basis. We will receive a negotiated percentage of the fees. We will require approximately 50,000 for marketing in the Philippines and 100,000 for marketing in the United States to launch this platform. 
+ 
+ Our jobs platform 9000Jobs.com (formerlyTrabahanap.com in the Philippines and Job.Dor.com in the United States) connects employers and job seekers to fill jobs and find employment. It was commercially introduced in the Philippines during June 2019. As of December 31, 2021, we have over 738,546 users and over 4,136 employers on this site. We received 2,655 in gross revenues for fiscal 2022. We plan to launch the US version in the third quarter of 2023. We require approximately 50,000 to market this platform annually in the Philippines and 100,000 for annual marketing in the United States. 
+ 
+ Our ManagerSpecial.com platform helps prospective sellers and buyers to buy and sell, products and services that have a limited useful life, such as bakery goods, produce, hotel rooms, and anything thing that has a short expiration date. The sellers usually offer deep discounts to the buyers to move their excess inventories. Instead of letting their inventories become worthless after a certain time, we help the sellers turn a total loss to a partial gain. Due to Covid 19, we now plan to launch this platform in the second half of 2022. We intend to recruit sellers and buyers via direct sales, bloggers and influencers. 
+ We require approximately 50,000 to initially market this platform in the Philippines for the first 12 months and 100,000 in annual marketing for the United States in 2023. 
+ 
+ Our offices are located at 7702 E Doubletree Ranch Road, Unit 300, Scottsdale, Arizona. Our telephone number is 480 902 3062. Our websites are www.3Forces.com , www.Talguu.com, www.ManagerSpecial.com and 9000Jobs.com. 
+ 25 
+ 
+ RESULTS OF OPERATIONS 
+ 
+ Results of Operations for the Year Ended December 31, 2022 Compared to the Year Ended December 31, 2021 
+ 
+ Revenues . 
+ For the years ended December 31, 2022 and 2021, we had 2,655 and 3,256 in revenues, respectively attributable to our 9000Jobs platform in the Philippines. During the current year, a number of users ceased using the platform due to a Covid spike in the Philippines resulting in a decrease in revenues. 
+ 
+ Operating Expenses . 
+ For the year ended December 31, 2022, we had total operating expenses of 439,534, as compared to total operating expenses of 355,458 for the year ended December 31, 2021, a 24 increase from the prior year period. The increase was due to increases in software development and administrative expenses. Operating expenses consists of officer compensation, consulting fees, professional fees and general and administrative expenses. 
+ 
+ Officer compensation for each of the years ended December 31, 2022 and 2021 was 227,500. Officer compensation relates to annual compensation expense for our CEO, Mr. Keith Wong, under his consulting agreement. 
+ 
+ Software development costs for the years ended December 31, 2022 and 2021 was 42,268 and 9,600, respectively. We expensed software development costs for two of our applications in the current year. In the prior year we capitalized the majority of our costs related to the applications under development and only started to expense our costs in Q4 of 2021. 
+ 
+ General and administrative expenses for the years ended December 31, 2022 and 2021 were 144,566 and 114,158, respectively, an increase of 27 . The increase for the current period was due to mainly due to an increase of travel expense of 15,400 and an increase of consulting expense of 28,500, 4,601 of which is non-cash stock compensation expense. General and administrative expenses consist of audit, accounting, consulting and legal expense. 
+ 
+ Other Expense. 
+ F or the year ended December 31, 2022, we received interest income of 222 and incurred interest expense of 149,185, as compared to interest income of 132 and interest expense of 111,110 for the year ended December 31, 2021. The increase in interest income in the current period is due to the rise in interest rates on cash on hand held in interest bearing accounts. The increase in interest expense in the current period is due to the increase of related party loans which occurred during the current period. During the 2021 period, we had a gain on the forgiveness of debt attributable to the salary of our Vice President of Marketing, which was forgiven. We didn t have a similar event during the current year end period. In addition, during the current period, we had an unrealized loss from trading in securities of 24,099 attributable to shares of stock of a public company that we purchased during the current fiscal period. Our loss for the same securities last year was 4,046. 
+ 
+ Net Loss . We had a net loss of 609,941 for the year ended December 31, 2022, compared with a net loss of 367,419 for the year ended December 31, 2021 for the reasons discussed above. 
+ 
+ Liquidity and Capital Resources 
+ 
+ From inception through December 31, 2022, we have received total of 204,000 in funds from the private placement of our common stock. In addition, Mr. Wong, has loaned the Company the sum of 662,141 pursuant to eight promissory notes which amounts are due on demand. Mr. Wong has informed the Company in writing that he does not intend to demand payment, in whole or in part, of the outstanding promissory note until the earlier of (i) December 31, 2023 or (ii) at such time as the Company receives a minimum of 2,000,000 in proceeds from a public or private offering. As of December 31, 3022, our cash balance is 136,048. 
+ 
+ As set forth in our Business Description-Our Business Model above, we will need proceeds from public or private for the future development of our business. Given our limited cash on hand, if we are unable to receive a significant amount of the total proceeds from these offerings, we will be unable to fully develop our business plan. Thus, we are highly dependent upon the success of our ability to raise funds. Therefore, the failure thereof would result in need to seek capital from other resources such as debt financing, which may not even be available to us. However, if such financing were available, because we are in are early stages of our business plan, we would likely have to pay additional costs associated with high risk loans and be subject to an above market interest rate. At such time these funds are required, management would evaluate the terms of such debt financing. If we cannot raise additional proceeds via a private placement of its common stock or secure debt financing, it would be required to cease business operations. As a result, investors could lose all of their investment. 
+ 26 
+
+These conditions and the ability to successfully resolve these factors, among others, raise substantial doubt about the Company s ability to continue as a going concern. The financial statements of the Company do not include any adjustments that may result from the outcome of these aforementioned uncertainties. 
+ 
+ Recently issued accounting pronouncements 
+ 
+ The Company has implemented all new accounting pronouncements that are in effect. These pronouncements did not have any material impact on the financial statements unless otherwise disclosed, and the Company does not believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 
+ 
+ Off-balance sheet arrangements 
+ 
+ The Company has no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect or change on the Company s financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. The term off-balance sheet arrangement generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with the Company is a party, under which the Company has (i) any obligation arising under a guarantee contract, derivative instrument or variable interest; or (ii) a retained or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market risk support for such assets. 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ As a smaller reporting company as defined by Rule 12b-2 of the Exchange Act, the Company is not required to provide this information. 
+ 27 
+
+Item 8. Financial Statements and Supplementary Data 
+ 
+ 3FORCES INC. 
+ 
+ Table of Contents 
+ 
+ Reports of Independent Registered Public Accounting Firm (PCAOB ID: 
+ 29 
+
+Balance Sheets as of December 31, 2022 and 2021 
+ 30 
+
+Statements of Operations for the Years Ended December 31, 2022 and 2021 
+ 31 
+
+Statements of Stockholders Deficit for the Years Ended December 31, 2022 and 2021 
+ 32 
+
+Statements of Cash Flows for the Years Ended December 31, 2022 and 2021 
+ 33 
+
+Notes to the Financial Statements 
+ 34 
+
+28 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and Stockholders of 
+ 3Forces, Inc. 
+ Opinion on the Financial Statements 
+ We have audited the accompanying balance sheets of 3Forces, Inc. (the Company) as of December 31, 2022 and 2021, and the related statements of operations and comprehensive loss, stockholders deficit, and cash flows for the years then ended, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+ Going Concern 
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As described in Note 3 to the financial statements, the Company has an accumulated deficit of 2,763,351 as of December 31, 2022, had a net loss of 609,941 and net cash used in operating activities of 141,668 for the year end December 31, 2022. These factors, among others, raise substantial doubt regarding the Company s ability to continue as a going concern. Management s plans in regard to these matters are also described in Note 3 to the accompanying financial statements. The accompanying financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+ Basis for Opinion 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ /s/ 
+ 
+ We have served as the Company s auditor since 2020 
+
+January 31, 2023 
+ 29 
+
+3FORCES INC. 
+ BALANCE SHEETS 
+
+December 31, 
+
+December 31, 
+
+2022 
+
+2021 
+
+ASSETS 
+
+Current Assets: 
+
+Cash 
+
+Investment in trading securities 
+
+Total Current Assets 
+
+Software development costs, net 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current Liabilities: 
+
+Accounts payable and accrued liabilities 
+
+Accrued interest related party 
+
+Note payable related party 
+
+Accrued officer compensation related party 
+
+Total Liabilities 
+
+Stockholders' Deficit: 
+
+Common stock, par value; shares authorized, and shares issued and outstanding, respectively 
+
+Additional paid-in capital 
+
+Common stock to be issued 
+
+Treasury stock 
+
+) 
+
+) 
+ 
+ Accumulated other comprehensive income 
+
+) 
+ 
+ Accumulated deficit 
+
+) 
+
+) 
+
+Total Stockholders Deficit 
+
+) 
+
+) 
+
+Total Liabilities and Stockholders' Deficit 
+
+The accompanying notes are an integral part of these financial statements. 
+ 30 
+
+3FORCES INC. 
+ STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+
+For the Years Ended 
+ December 31, 
+
+2022 
+ 
+ 2021 
+ 
+ Revenue, net 
+
+Operating Expenses: 
+
+Officer compensation related party 
+
+Software development expense 
+
+Amortization expense 
+
+General and administrative expenses 
+
+Total operating expenses 
+
+Loss from operations 
+
+) 
+
+) 
+
+Other income (expense): 
+
+Interest expense related party 
+
+) 
+
+) 
+
+Gain on forgiveness of debt 
+
+Realized loss on trading securities 
+
+) 
+
+) 
+
+Interest income 
+
+Total other income (expense) 
+
+) 
+
+) 
+
+Loss before income taxes 
+
+) 
+
+) 
+
+Provision for income taxes 
+
+Net loss 
+
+) 
+
+) 
+
+Other comprehensive loss: 
+
+Foreign currency translation adjustment 
+
+) 
+
+Comprehensive loss 
+
+) 
+
+) 
+
+Loss per share, basic and diluted 
+
+) 
+
+) 
+
+Weighted average shares, basic and diluted 
+
+The accompanying notes are an integral part of these financial statements . 
+ 
+ 31 
+
+3FORCES INC. 
+ STATEMENT OF STOCKHOLDERS DEFICIT 
+ FOR THE YEARS ENDED DECEMBER 31, 2022 AND 2021 
+
+Common Stock 
+ 
+ Additional 
+ 
+ Common Stock 
+ 
+ Treasury 
+ 
+ Accumulated 
+ 
+ Other Comprehensive 
+ 
+ Total Stockholders 
+ 
+ Shares 
+ 
+ Amount 
+ 
+ Paid in Capital 
+ 
+ to be Issued 
+ 
+ Stock 
+ 
+ Deficit 
+ 
+ Loss 
+ 
+ Total 
+ 
+ Balance, December 31, 2020 
+
+) 
+
+) 
+
+) 
+ 
+ Common stock issued for services related party 
+
+Common stock issued for services 
+
+) 
+
+Net Loss 
+
+) 
+
+) 
+
+) 
+ 
+ Balance, December 31, 2021 
+
+) 
+
+) 
+
+) 
+
+) 
+ 
+ Common stock issued for services related party 
+
+Common stock issued for services 
+
+Net Loss 
+
+) 
+
+) 
+ 
+ Balance, December 31, 2022 
+
+) 
+
+) 
+
+) 
+
+The accompanying notes are an integral part of these financial statements . 
+ 32 
+
+3FORCES INC. 
+ STATEMENTS OF CASH FLOWS 
+
+For the Years Ended December 31, 
+
+2022 
+
+2021 
+ 
+ Cash flows from operating activities: 
+
+Net Loss 
+
+) 
+
+) 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Stock based compensation related party 
+
+Stock based compensation 
+
+Gain on forgiveness of debt 
+
+) 
+ 
+ Amortization expense 
+
+Realized loss on trading securities 
+
+Changes in assets and liabilities: 
+
+Accounts payable and accrued liabilities 
+
+) 
+ 
+ Accrued interest related party 
+
+Accrued compensation related party 
+
+Net cash used in operating activities 
+
+) 
+
+) 
+
+Cash flows from investing activities: 
+
+Software development cost 
+
+) 
+
+) 
+ 
+ Purchase of trading securities 
+
+) 
+
+) 
+ 
+ Proceeds from sale of trading securities 
+
+Net cash provided (used) by investing activities 
+
+) 
+
+Cash flows from financing activities: 
+
+Proceeds from related party 
+
+Net cash provided by financing activities 
+
+Effect of exchange rate on cash 
+
+) 
+ 
+ Net change in cash 
+
+) 
+
+) 
+ 
+ Cash, beginning of year 
+
+Cash, end of year 
+
+Supplemental Disclosures: 
+
+Interest paid 
+
+Income taxes paid 
+
+The accompanying notes are an integral part of these financial statements. 
+ 33 
+ 
+ 3FORCES INC. 
+ Notes to Financial Statements 
+ December 31, 2022 
+
+34 
+
+Description 
+ 
+ December 31, 2021 
+ 
+ Level 1 
+ 
+ Level 2 
+ 
+ Level 3 
+ 
+ Assets: 
+
+Marketable securities 
+
+35 
+
+as of December 31, 2022, had a net loss of and net cash used in operating activities of for the year ended December 31, 2022. The Company s ability to raise additional capital through the future issuances of common stock and/or debt financing is unknown. The obtainment of additional financing, the successful development of the Company s contemplated plan of operations, and its transition, ultimately, to the attainment of profitable operations are necessary for the Company to continue operations. These conditions and the ability to successfully resolve these factors, among others, raise substantial doubt about the Company s ability to continue as a going concern. The financial statements of the Company do not include any adjustments that may result from the outcome of these aforementioned uncertainties. 
+ 
+ The Company has developed and is managing three cloud-based platforms as part of our overall business plan. In order for us to fully implement our business plan, we will use our available cash of approximately 136,000 as of December 31, 2022, and we will need approximately 954,000 in financing for a total of 1,090,000 in required funds. If all of these funds are not available from Mr. Keith Wong under our continued loan arrangements, we will seek to raise all or part of the funds through public or private debt or equity financings. These funds will enable us to fully develop and market our 3 platforms for the next 12 months, however, we cannot predict our ability to successfully raise such funds. 
+ 36 
+
+and , respectively, net of amortization of and , respectively, of capitalized software development costs. 
+
+) 
+
+Total 
+
+) 
+
+As of December 31, 2021 
+
+Cost 
+ 
+ Gross 
+ Unrealized Gains 
+ 
+ Gross 
+ Realized Losses 
+ 
+ Fair Value 
+ 
+ Available-for-sale: 
+
+Corporate Stocks 
+
+) 
+
+Total 
+
+) 
+
+37 
+
+. The note originally accrued interest at a rate of 10 (simple) per annum and is due on demand. The note was amended, effective November 1, 2019, in order to change the interest rate to compounded interest at per quarter. 
+ 
+ On June 21, 2019, the Company executed a promissory note with Mr. Wong for . The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. 
+ 
+ On August 16, 2019, the Company executed a promissory note with Mr. Wong for . The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. 
+ 
+ On February 4, 2021, the Company executed a promissory note with Mr. Wong for . The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. 
+ 
+ On May 27, 2021, the Company executed a promissory note with Mr. Wong for . The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. 
+ 
+ On September 1, 2021, the Company executed a promissory note with Mr. Wong for . The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. 
+ 
+ On November 1, 2021, the Company executed a promissory note with Mr. Wong for . The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. 
+ 
+ On December 1, 2022, the Company executed a promissory note with Mr. Wong for . The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. 
+ 
+ In addition to the above loans, on September 30, 2019, Mr. Wong advanced the Company to open a bank account in the Company s name in the Philippines. The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. On September 30, 2022, Mr. Wong advanced the Company an additional to open another bank account in the Company s name in the Philippines. The loan is unsecured, accrues interest at per quarter, compounded quarterly, and is due on demand. 
+ 
+ As of December 31, 2022, there is of total accrued interest due on the above notes. 
+ 
+ Mr. Wong has informed the Company in writing that he does not intend to demand payment, in whole or in part, of the outstanding promissory notes until the earlier of (i) December 31, 2023 or (ii) at such time as the Company receives a minimum of 2,000,000 in proceeds from a public or private offering. 
+ 
+ Mr. Wong s consulting agreement was renewed effective September 1, 2020. Annual compensation was increased from 180,000 to . In addition, he is entitled to receive 1,000,000 shares of common stock which will vest over four years (or monthly at the rate of 20,833 shares per month). The term of the agreement is for four years and either party may terminate the agreement by delivering notice to the other. In this regard, during the year ended December 31, 2021, Mr. Wong earned shares of common stock for services rendered under his consulting agreement, for total non-cash expense of . During year ended December 31, 2022, Mr. Wong earned 250,000 shares of common stock for services rendered under his consulting agreement, for total non-cash expense of 27,500. Since the Company s common stock is not currently trading, shares were issued at the price of shares sold to third parties of . As of December 31, 2022, the shares have not yet been issued, and have been recorded as common stock to be issued as shown in stockholders deficit. 
+ 
+ As of December 31, 2022 and 2021, there is and , respectively, of accrued compensation due to Mr. Wong. 
+ 38 
+
+shares of common stock for services, for total non-cash expense of . Since the Company s common stock is not currently trading, shares were issued at the price of shares last sold to third parties of 0.11. As of December 31, 2022, the shares have not yet been issued, and have been recorded as common stock to be issued as shown in stockholders deficit. 
+ 
+ The Company has entered into a consulting agreement that requires the issuance of shares of common stock. The shares will vest at 7,083 shares per month beginning September 1, 2022. Since the Company s common stock is not currently trading, shares were issued at the price of shares last sold to third parties of 0.11. During the year ended December 31, 2022, the Company granted shares of common stock for services, for total non-cash expense of . As of December 31, 2022, no shares have yet been issued by the transfer agent and are included in common stock to be issued. 
+ 
+ The Company has entered into a consulting agreement that requires the issuance of shares of common stock. The shares will vest at 834 shares per month beginning September 1, 2022. Since the Company s common stock is not currently trading, shares were issued at the price of shares last sold to third parties of 0.11. During the year ended December 31, the Company granted shares of common stock for services, for total non-cash expense of . As of December 31, 2022, no shares have yet been issued by the transfer agent and are included in common stock to be issued. 
+ 
+ Refer to Note 6 for related party equity transactions. 
+
+) 
+
+State and local taxes, net of Federal benefit 
+
+) 
+
+) 
+
+Change in valuation allowance 
+
+Components of deferred tax assets are as follows: 
+
+Related party accrual 
+
+Payroll accrual 
+
+Total Deferred Tax Assets 
+
+Valuation Allowance 
+
+) 
+
+) 
+
+Deferred Tax Assets 
+
+39 
+ 
+ net operating loss carryforwards that are available to reduce future taxable income. In assessing the realization of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities, projected future taxable income and tax planning strategies in making this assessment. Based on the assessment, management has established a full valuation allowance against all of the deferred tax assets for every period because it is more likely than not that all of the deferred tax assets will not be realized. 
+ 
+ The Company files income tax returns in the U.S. federal jurisdiction, and the state of Arizona. 
+ 
+ The Company adopted the provisions of ASC 740. Management evaluated the Company s tax positions and concluded that the Company had taken no uncertain tax positions that require adjustment to the financial statements to comply with the provisions of this guidance. The Company has no significant adjustments as a result of the implementation of ASC 740. 
+
+Change in cumulative translation adjustment 
+
+Accumulated other comprehensive loss, end of period 
+
+40 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ None . 
+ 
+ Item 9A. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ In connection with the preparation of this annual report, an evaluation was carried out by the Company s management, with the participation of the principal executive officer and the principal financial officer, of the effectiveness of the Company s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act Exchange Act as of December 31, 2022. Disclosure controls and procedures are designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the Commission s rules and forms, and that such information is accumulated and communicated to management, including the principal executive officer and the principal financial officer, to allow timely decisions regarding required disclosures. 
+ 
+ Based on that evaluation, the Company s management concluded, as of the end of the period covered by this report, that the Company s disclosure controls and procedures were not effective in recording, processing, summarizing, and reporting information required to be disclosed, within the time periods specified in the Commission s rules and forms, and that such information was not accumulated and communicated to management, including the principal executive officer and the principal financial officer, to allow timely decisions regarding required disclosures. 
+ 
+ Management s Report on Internal Control over Financial Reporting 
+ 
+ The management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. The Company s internal control over financial reporting is a process, under the supervision of the principal executive officer and the principal financial officer, designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company s financial statements for external purposes in accordance with United States generally accepted accounting principles (GAAP). Internal control over financial reporting includes those policies and procedures that: 
+ 
+ Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the Company s assets; 
+ 
+ Provide reasonable assurance that transactions are recorded as necessary to permit preparation of the financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorizations of management and the board of directors; and 
+ 
+ Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company s assets that could have a material effect on the financial statements. 
+ 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+ The Company s management conducted an assessment of the effectiveness of our internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013) as set forth in its Internal Control - Integrated Framework. This assessment identified material weaknesses in internal control over financial reporting. A material weakness is a control deficiency, or a combination of deficiencies in internal control over financial reporting that creates a reasonable possibility that a material misstatement in annual or interim financial statements will not be prevented or detected on a timely basis. Since the assessment of the effectiveness of our internal control over financial reporting did identify a material weakness, management considers its internal control over financial reporting to be ineffective. 
+ 41 
+
+Management has concluded that our internal control over financial reporting had the following material deficiencies: 
+ 
+ We were unable to maintain segregation of duties within our business operations due to our reliance on a single individual fulfilling the role of sole officer and director. 
+ 
+ Lack of a functioning audit committee due to a lack of a majority of independent members and a lack of a majority of outside directors on our Board of Directors, resulting in ineffective oversight in the establishment and monitoring of required internal control and procedures. 
+ 
+ These control deficiencies to our 2022 interim or annual financial statements could have resulted in a material misstatement that might have been prevented or detected by a segregation of duties. Accordingly, we have determined that this control deficiency constitutes a material weakness. 
+ 
+ To the extent reasonably possible, given our limited resources, our goal is, upon consummation of a merger with a private operating company, to separate the responsibilities of principal executive officer and principal financial officer, intending to rely on two or more individuals. We will also seek to expand our current board of directors to include additional individuals willing to perform directorial functions. Since the recited remedial actions will require that we hire or engage additional personnel, this material weakness may not be overcome in the near term due to our limited financial resources. Until such remedial actions can be realized, we will continue to rely on the advice of outside professionals and consultants. 
+ 
+ This annual report does not include an attestation report of our registered public accounting firm regarding our internal controls over financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to Section 404(c) of the Sarbanes-Oxley Act that permit us to provide only management s report in this annual report. 
+ 
+ Changes in Internal Controls over Financial Reporting 
+ 
+ During the year ended December 31, 2022, other than the change in ownership, there has been no change in internal control over financial reporting that has materially affected or is reasonably likely to materially affect our internal control over financial reporting. 
+ 
+ Item 9B. Other Information 
+ 
+ None 
+ 42 
+
+PART III 
+ 
+ Item 10. Directors, Executive Officers and Corporate Governance 
+ 
+ The following table sets forth certain information concerning our officers and directors. 
+ 
+ Name 
+ 
+ Age 
+ 
+ Title 
+ 
+ Keith Wong 
+ 
+ 69 
+ 
+ Chairman, Chief Executive Officer, 
+ Chief Financial Officer and Director 
+
+Mr. Wong has been our Chairman, Chief Executive Officer, Chief Financial Officer and Director since inception (September 6, 2016). Mr. Wong brings over 30 years of experiences in sales, business management, finance, manufacturing and business networks. Prior to 2001, Mr. Wong worked as a hardware and software engineer, sales manager for several technology companies including GE, Computervision, Tektronix, and Coherent. From 2001 until 2013, Mr. Wong was President and CEO of ATC Technology Group, which became EastBridge Investment Group, which later became Cellular Biomedicine Group Inc., a Nasdaq listed company CBMG ). From March 5, 2013 to March 4, 2014, Mr. Wong was a director of CBMG. From August 2014 to September 6, 2016, Mr. Wong was a business consultant to mainly start up enterprises. Mr. Wong holds degrees in Bachelor of Science and Master of Science in Electrical Engineering from Rutgers University and Northeastern University, respectively. Mr. Wong has also successfully completed the Advanced Management Program (AMP 2014) for executives from Harvard Business School in 2014. Mr. Wong holds four U.S. utility patents and one U.S. design patent. In considering Mr. Wong's eligibility to serve on the Board, the Board considered his extensive experiences in finance, marketing, sales and operational matters for public and early stage companies. 
+ 
+ Potential Conflicts 
+ 
+ The OTC-QB on which we plan to have our shares of common stock quoted does not currently have any director independence requirements. Thus, we are not currently subject to corporate governance standards defining the independence of our directors, and we have chosen to define an independent director in accordance with the NASDAQ Global Market s requirements for independent directors. 
+ 
+ Under the NASDAQ rules, our current director would not qualify as an independent director. 
+ 
+ Since inception, Mr. Wong has dedicated a substantial amount all of his business time and attention to the affairs of the Company. However, the existing consulting agreement with Mr. Wong does not require him to work exclusively for the Company. Therefore, certain conflicts of interest may arise between us and our officers and director in that they may have other business interests in the future to which they devote their attention, and they may be expected to continue to do so although management time must also be devoted to our business. As a result, conflicts of interest may arise that can be resolved only through their exercise of such judgment as is consistent with each officer's understanding of his/her fiduciary duties to us. 
+ 
+ Currently we have only two officers, and one is our director. We will seek to add additional officer(s) and/or director(s) as and when the proper personnel are located, and terms of employment are mutually negotiated and agreed, and we have sufficient capital resources and cash flow to make such offers. 
+ 
+ We cannot provide assurances that our efforts to eliminate the potential impact of conflicts of interest will be effective. 
+ 43 
+
+Code of Business Conduct and Ethics 
+ 
+ The Company has adopted the following Code of Business Conduct. 
+ 
+ The conduct of our officers shall be governed by this Code of Ethics, pursuant to Section 406 of the Sarbanes-Oxley Act, in order to deter wrongdoing and to promote: 
+ 
+ Honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships 
+ Full, fair, accurate, timely and understandable disclosure in reports and documents that company files with, or submits to, the Commission and in other public communications made by the Company 
+ Compliance with applicable governmental laws, rules and regulations 
+ The prompt internal reporting of violations of the Code to the appropriate person or persons identified in the Code 
+ Accountability for adherence to the Code 
+ 1. The Chief Executive Officer, the Chief Financial Officer, the Controller, and other senior officers performing financial management functions shall maintain the highest standards in performing their duties. 
+ Employees subject to this requirement include the chief executive officer, the chief financial officer, controller or chief accounting officer, and any person who performs similar functions. However, the Company expects that all employees who participate in the preparation of any part of the Company's financial statements should follow these guidelines: 
+ Act with honesty and integrity, avoiding violations of the Code, including actual or apparent conflicts of interest with the Company in personal and professional relationships. 
+ Disclose to the Governance Compliance Officer any material transaction or relationship that reasonably could be expected to give rise to any violations of the Code, including actual or apparent conflicts of interest with the Company. 
+ Provide the Company's other employees, consultants, and advisors with information that is accurate, complete, objective, relevant, timely, and understandable. 
+ Endeavor to ensure full, fair, timely, accurate, and understandable disclosure in the Company's periodic reports. 
+ Comply with rules and regulations of federal, state, and local governments, and other appropriate private and public regulatory agencies. 
+ Act in good faith, responsibly, and with due care, competence and diligence, without misrepresenting material facts or allowing your independent judgment to be subordinated. 
+ Respect the confidentiality of information acquired in the course of your work except where you have Company approval or where disclosure is otherwise legally mandated. Confidential information acquired in the course of your work will not be used for personal advantage. 
+ Maintain skills important and relevant to the Company's needs. 
+ Proactively promote ethical behavior among peers in your work environment. 
+ 44 
+ 
+ Achieve responsible use of and control over all assets and resources employed or entrusted to you. 
+ Record or participate in the recording of entries in the Company's books and records that are accurate to the best of your knowledge. 
+ 2. All known or suspected violations of the Code of Ethics shall be reported to the Governance Compliance Officer. The Corporate Secretary and Governance Compliance Officer will maintain a record of violations of the Code that are reported and of the disposition of each violation. The Company will maintain if the employee so desires, the anonymity of the employee and the confidentiality of the information that is reported. However, in order to conduct an effective investigation, it may not be possible to maintain confidentiality and anonymity. 
+ 3. Senior Financial Officers should assist in any investigation by any regulatory or law enforcement agency, elected officials or others responsible for such matters, concerning matters described in: 
+ Section 806 of the Sarbanes-Oxley Act, which relates to fraud. 
+ Section 301 of the Sarbanes-Oxley Act, which relates to questionable accounting, internal controls and auditing matters. 
+ Item 406 of S.E.C. Regulations S-K which relates to conduct that is not honest and ethical, conflicts of interest, and disclosures in SEC reports and other public disclosures that are not full, fair, accurate, timely and understandable, and 
+ Nasdaq listing requirements. 
+ 4. The Company will not retaliate against an officer, director or employee who files, causes to be filed, testifies, participates in, or otherwise assists in a proceeding filed or about to be filed regarding any matter covered in paragraph 3, above. 
+ 
+ 5. Any waivers of the Code for directors or executive officers must be approved by the Board and be promptly disclosed to shareholders. 
+ 
+ 6. The Company's Audit Committee shall also issue procedures for the reporting to them of complaints regarding accounting, internal accounting controls or auditing matters and submission to them by employees of concerns regarding accounting or auditing matters. Such procedures shall be in addition to, and not in lieu of, any procedures established by this Code of Ethics. 
+ 
+ 7. The Governance Compliance Officer shall be appointed by the CEO. 
+ 
+ Board of Directors 
+ 
+ All directors will hold office until the completion of their term of office, which is not longer than one year, or until their successors have been elected. All officers are appointed annually by the board of directors subject to existing employment agreements and will serve at the discretion of the board. 
+ 45 
+
+Involvement in Certain Legal Proceedings 
+ 
+ Except as described below, during the past ten years, no present director, executive officer or person nominated to become a director or an executive officer of the Company: 
+ 
+ 1. had a petition under the federal bankruptcy laws or any state insolvency law filed by or against, or a receiver, fiscal agent or similar officer appointed by a court for the business or property of such person, or any partnership in which he was a general partner at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer at or within two years before the time of such filing; 
+ 
+ 2. was convicted in a criminal proceeding or subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+ 
+ 3. was subject to any order, judgment or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining his from or otherwise limiting his involvement in any of the following activities: 
+ 
+ i. acting as a futures commission merchant, introducing broker, commodity trading advisor commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity; 
+ 
+ ii. engaging in any type of business practice; or 
+ 
+ iii. engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of federal or state securities laws or federal commodities laws; or 
+ 
+ 4. was the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of a federal or state authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph (3) (i), above, or to be associated with persons engaged in any such activity; or 
+ 
+ 5. was found by a court of competent jurisdiction (in a civil action), the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and for which the judgment has not been reversed, suspended or vacated. 
+ 
+ Committees of the Board of Directors 
+ 
+ Our Board of Directors acts as our Audit Committee and the Board has no separate committees. We expect our Board of Directors to appoint an audit committee, a nominating committee and a compensation committee and to adopt charters relative to each such committee in the near future. We intend to appoint such persons to committees of the Board of Directors as are expected to be required to meet the corporate governance requirements imposed by a national securities exchange, although we are not required to comply with such requirements until we elect to seek listing on a national securities exchange. 
+ 46 
+
+Item 11. Executive Compensation 
+ 
+ Summary Executive Compensation Table 
+ 
+ The following table reflects the Summary Compensation for our named executive officers for fiscal years ended December 31, 2022, 2021 and 2020, respectively. For such periods, there were no bonus, non-equity plan compensation, nonqualified compensation earnings or other compensation other than as stated below for the named executive officers. 
+ 
+ Name and principal position (a) 
+
+Year 
+
+Salary ) 
+
+Stock Awards Shares( 
+
+Total 
+ ) 
+
+Keith Wong 
+
+2020 
+
+166,667 
+
+27,500 
+
+194,167 
+
+Chief Executive Officer and 
+
+2021 
+
+200,000 
+
+27,500 
+
+227,500 
+
+Chief Financial Officer 
+
+2022 
+
+200,000 
+
+27,500 
+
+227,500 
+
+The Company and Mr. Wong entered into a Consulting Agreement dated September 1, 2016, as amended. The term of the agreement was four years, which expired on October 31, 2020. Mr. Wong s annual compensation under the agreement as amended was 150,000. Payment of the cash compensation accrued and is payable upon the earlier of; a Nasdaq listing or an aggregate of at least 51 ownership of the Company is beneficially controlled by parties other than the current management (as of March 2, 2018). In addition, Mr. Wong received 1,000,000 shares of common stock which vested over four years (or monthly at the rate of 20,833 shares per month). In addition, the 1,000,000 shares of common stock have fully vested in favor of Mr. Wong. Since the Company s common stock is not currently trading, the shares were valued at the price of shares sold to third parties, or 0.11. During the years ended December 31 , 2022 and 2021, 250,000 shares of common stock per year vested in favor of Mr. Wong under this agreement, valued at 27,500 per year. 
+ 
+ Effective September 1, 2020, the parties entered into a new Consulting Agreement. Mr. Wong s annual compensation is 200,000. In addition, he is entitled to receive an additional 1,000,000 shares of common stock which will vest over four years (or monthly at the rate of 20,833 shares per month). The term of the agreement is four years and either party may terminate the agreement by delivering notice to the other party. As of December 31, 2021, 333,332 shares of common stock have vested in favor of Mr. Wong under this agreement, valued at 36,667. 
+ 
+ As of December 31, 2022 and 2021, there is 1,260,528 and 1,060,528 of accrued salary, respectively, due to Mr. Wong. 
+ 
+ The Company also entered into a Consulting Agreement with Norman Klein dated November 1, 2018. Mr. Klein was entitled to receive annual cash compensation of 50,000 and 37,000 shares of common stock per year. Payment of the cash compensation was accrued and payable upon a Nasdaq listing or an acquisition of the Company. The agreement terminated on October 31, 2020. Under mutual agreement, because of the Covid pandemic, Mr. Klein has agreed to forgo the cash compensation in its entirety. The 74,000 shares of common stock are still owed to Mr. Klein were issued in October 2021. 
+ 47 
+
+Outstanding Equity Awards At Fiscal Year-End 
+ 
+ The following table reflects the Outstanding Equity Awards for our named executive officers as of fiscal year ended December 31, 2022. There were no option awards as of such date. 
+ 
+ Stock Awards 
+
+Name 
+ Number of shares or units of stock that have not vested (#) 
+ Market value of shares of units of stock that have not vested ) 
+ Equity incentive plan awards: Number of unearned shares, units or other rights that have not vested (#) 
+ Equity incentive plan awards: Market or payout value of unearned shares, units or other rights that have not vested ) 
+ 
+ Keith Wong 
+ 416,668 
+ 45,834 
+ 0 
+ 0 
+
+Except as stated in the Stock Awards Table above, none of our named executive officers exercised any stock options, and no restricted stock awards, if any, held by our named executive officers vested during the annual period ended December 31, 2022. The Company has no activity with respect to these awards. 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 
+ As of the date of this Form 10-K, we had 7,589,500 shares of common stock issued and outstanding. The chart below sets forth the ownership, or claimed ownership, of certain individuals and entities. This chart discloses those persons known by the board of directors to have, or claim to have, beneficial ownership of more than 5 of the outstanding shares of our common stock as of the date of this Form 10-K; of all directors and executive officers of Live Inc. and of our directors and officers as a group. Except as stated herein, the address of the shareholder is the address of the Company. 
+ 
+ Name 
+ Number of Shares(1) 
+ 
+ Percent of 
+ Common Stock 
+ Outstanding(1) 
+ 
+ Officers and Directors 
+
+Keith Wong 
+ 7,407,192(2) 
+ 
+ 81 
+
+Officers and Directors 
+ 7,407,193(2) 
+ 
+ 81 
+ 
+ (as a Group - 2 persons) 
+
+(1) The percent of common stock owned is calculated using the sum of (A) the number of shares of common stock owned and (B) the number of warrants and options of the Beneficial Owner that are exercisable within 60 days, as the numerator, and the sum of (Y) the total number of shares of common stock outstanding (Z) and the number of warrants and options of the Beneficial Owner that are exercisable within 60 days, as the denominator. 
+ 
+ (2) The amount includes 1,583,332 shares of common stock due Mr. Wong as of December 31, 2022 under his consulting agreements with the Company which shares are unissued. 
+ 48 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence. 
+ 
+ On December 5, 2019, Wonder International Education Investment Group Corporation, an Arizona corporation Wonder ), entered into a consulting agreement with the Company pursuant to which Wonder received 115,500 shares of common stock of the Company in exchange for certain consulting services to be performed by Wonder. As part of that agreement, the Company agreed, at its own expense, to file a Form S-1 registration statement with the Securities and Exchange Commission. Upon effectiveness of the registration statement, the 115,500 shares of common stock presently held by Wonder will be distributed to its shareholders on a ratable basis. Mr. Wong is the majority shareholder of Wonder and will receive 77,000 shares out of the total of 115,500 shares (or 66.67 of the shares) issued under the stated agreement. The stated shares were issued to Wonder on February 4, 2020. On February 11, 2020, the Company filed the referenced Form S-1 registration statement with the Commission. 
+ 
+ The Company and Mr. Wong entered into a Consulting Agreement dated September 1, 2016, as amended. The term of the agreement was four years, which expired on October 31, 2020. Mr. Wong s annual compensation under the agreement as amended was 150,000. Payment of the cash compensation accrued and is payable upon the earlier of; a Nasdaq listing or an aggregate of at least 51 ownership of the Company is beneficially controlled by parties other than the current management (as of March 2, 2018). In addition, Mr. Wong received 1,000,000 shares of common stock which vested over four years (or monthly at the rate of 20,833 shares per month). The 1,000,000 shares of common stock have fully vested in favor of Mr. Wong. Since the Company s common stock is not currently trading, the shares were valued at the price of shares sold to third parties, or 0.11. 
+ 
+ Effective September 1, 2020, the parties entered into a new Consulting Agreement. Mr. Wong s annual compensation is 200,000. In addition, he is entitled to receive 1,000,000 shares of common stock which will vest over four years (or monthly at the rate of 20,833 shares per month). The term of the agreement is four years and either party may terminate the agreement by delivering notice to the other party. As of December 31, 2022, 583,332 shares of common stock have vested in favor of Mr. Wong under this agreement, valued at 64,167. 
+ 
+ As of December 31, 2022 and 2021, there is 1,060,528 and 860,528 of accrued salary, respectively, due to Mr. Wong. 
+ 
+ As of December 31, 2021, the Company has eight promissory notes with Keith Wong, the Company s founder, Chief Executive Officer and sole director described herein below. 
+ 
+ On July 31, 2017, the Company executed a promissory note with Mr. Wong for 200,000. The note originally accrued interest at a rate of 10 (simple) per annum and is due on demand. The note was amended, effective November 1, 2019, in order to change the interest rate to compounded interest at 4 per quarter. As of December 31, 2021, there is 144,431 of accrued interest on this note. 
+ 
+ On June 21, 2019, the Company executed a promissory note with Mr. Wong for 160,000. The loan is unsecured, accrues interest at 4 per quarter, compounded quarterly, and is due on demand. As of December 31, 2021, there is 77,880 of accrued interest on this note. 
+ 
+ On August 16, 2019, the Company executed a promissory note with Mr. Wong for 60,000. The loan is unsecured, accrues interest at 4 per quarter, compounded quarterly, and is due on demand. As of December 31, 2021, there is 27,107 of accrued interest on this note. 
+ 
+ On February 4, 2021, the Company executed a promissory note with Mr. Wong for 40,000. The loan is unsecured, accrues interest at 4 per quarter, compounded quarterly, and is due on demand. As of December 31, 2021, there is 6,794 of accrued interest on this note. 
+ 
+ On May 27, 2021, the Company executed a promissory note with Mr. Wong for 54,141. The loan is unsecured, accrues interest at 4 per quarter, compounded quarterly, and is due on demand. As of December 31, 2021, there is 5,199 of accrued interest on this note. 
+ 49 
+ 
+ On September 1, 2021, the Company executed a promissory note with Mr. Wong for 37,000. The loan is unsecured, accrues interest at 4 per quarter, compounded quarterly, and is due on demand. As of December 31, 2021, there is 1,993 of accrued interest on this note. 
+ 
+ On November 1, 2021, the Company executed a promissory note with Mr. Wong for 60,000. The loan is unsecured, accrues interest at 4 per quarter, compounded quarterly, and is due on demand. As of December 31, 2021, there is 1,600 of accrued interest on this note. 
+ 
+ Mr. Wong has informed the Company in writing that he does not intend to demand payment, in whole or in part, of the outstanding promissory notes until the earlier of (i) December 31, 2023 or (ii) at such time as the Company receives a minimum of 2,000,000 in proceeds from a public or private offering. 
+ 
+ Except as set forth above, none of the following persons has any direct or indirect material interest in any transaction to which we are a party since our incorporation or in any proposed transaction to which we are proposed to be a party: 
+ 
+ (A) Any of our directors or officers; 
+ (B) Any proposed nominee for election as our director; 
+ (C) Any person who beneficially owns, directly or indirectly, shares carrying more than 10 of the voting rights attached to our common stock; or 
+ (D) Any relative or spouse of any of the foregoing persons, or any relative of such spouse, who has the same house as such person or who is a director or officer of any parent or subsidiary of our company. 
+ 
+ Item 14. Principal Accountant Fees and Services. 
+ 
+ Prager Metis CPAs LLC is the Company s current independent registered public accounting firm. 
+ 
+ (1) Audit Fees 
+ 
+ The aggregate fees billed for each of the last two fiscal years for professional services rendered by the principal accountant for our audit of annual financial statements and review of financial statements included in our quarterly reports or services that are normally provided by the accountant in connection with statutory and regulatory filings or engagements for those fiscal years were: 
+ 
+ 2022 
+ ______ 
+ Preger Metis CPAs LLC 
+ 
+ 2021 
+ 30,500 
+ Preger Metis CPAs LLC 
+
+(2) Audit-Related Fees 
+ 
+ The aggregate fees billed in each of the last two fiscal years for assurance and related services by the principal accountants that are reasonably related to the performance of the audit or review of our financial statements and are not reported in the preceding paragraph: 
+ 
+ 2022 
+
+0 
+
+2021 
+
+0 
+
+(3) Tax Fees 
+ 
+ The aggregate fees billed in each of the last two fiscal years for professional services rendered by the principal accountant for tax compliance, tax advice, and tax planning were: 
+ 
+ 2022 
+
+0 
+
+2021 
+
+0 
+
+50 
+
+(4) All Other Fees 
+ 
+ The aggregate fees billed in each of the last two fiscal years for the products and services provided by the principal accountant, other than the services reported in paragraphs (1), (2), and (3) were: 
+ 
+ 2022 
+
+0 
+
+2021 
+
+0 
+
+The percentage of hours expended on the principal accountant s engagement to audit our financial statements for the most recent fiscal year that were attributed to work performed by persons other than the principal accountant s full time, permanent employees was 0 . 
+ 
+ Audit Committee s Pre-Approval Process 
+ 
+ The Board of Directors acts as the audit committee of the Company, and accordingly, all services are approved by all the members of the Board of Directors. 
+ 
+ 51 
+
+PART IV. 
+ 
+ Item 15. Exhibits, Financial Statement Schedules. 
+ 
+ (b) Index to Exhibits required by Item 601 of Regulation S-K. 
+ 
+ 3.1 
+ 
+ Articles of Incorporation and Certificate of Amendment of the Company.(1) 
+ 
+ 3.2 
+ 
+ By-Laws of the Company.(1) 
+ 
+ 10.1 
+ 
+ Consulting Agreement dated September 1, 2016 by and between Keith Wong and the Company, as amended by the First Amendment and the Second Amendment.(1) 
+ 
+ 10.2 
+ 
+ Consulting Agreement dated September 1, 2016 by and between David Talbot and the Company, as amended by the First Amendment and the Second Amendment.(1) 
+ 
+ 10.3 
+ 
+ Business Purchase Agreement by and between the Company and David Talbot dated October 1, 2018. (1) 
+ 
+ 10.4 
+ 
+ Promissory note dated July 31, 2017 in favor of Mr. Keith Wong.(1) 
+ 
+ 10.5 
+ 
+ Representation Agreement dated March 2017 by and between Live Inc. and ABS-CBN Corporation.(1) 
+ 
+ 10.6 
+ 
+ Consulting Agreement by and between Norman Klein and the Company dated November 1, 2018. (1) 
+ 
+ 10.7 
+ 
+ Letter dated October 15, 2019 from Keith Wong to the Company regarding outstanding loans (2) 
+ 
+ 10.8 
+ 
+ Promissory note dated July 21, 2019 in favor of Mr. Keith Wong.(3) 
+ 
+ 10.9 
+ 
+ Promissory note dated August 16, 2017 in favor of Mr. Keith Wong.(3) 
+ 
+ 10.10 
+ 
+ Consulting Agreement by and between Wonder International Education Investment Group Corporation and the Company dated December 5, 2019. (3) 
+ 
+ 10.11 
+ 
+ Consulting Agreement dated September 1, 2020 by and between Keith Wong and the Company. 
+ 
+ 10.12 
+ 
+ Promissory note dated February 4 , 20 2 1 in favor of Mr. Keith Wong. (5) 
+ 
+ 10.13 
+ 
+ Promissory note dated May 27, 2021 in favor of Mr. Keith Wong. (5) 
+ 
+ 10.14 
+ 
+ Promissory note dated September 1 , 20 2 1 in favor of Mr. Keith Wong. (5) 
+ 
+ 10.15 
+ 
+ Promissory note dated November 1, 20 2 1 in favor of Mr. Keith Wong. (5) 
+ 
+ 99.1 
+ 
+ Form of Subscription Agreement.(1) 
+ 
+ 31.1 
+ 
+ Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.1 
+ 
+ Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 . 
+ 
+ 101.INS 
+ 
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+Filed herewith. 
+ 
+ Furnished herewith. Exhibit 32.1 is being furnished and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liability of that section, nor shall such exhibit be deemed to be incorporated by reference in any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as otherwise specifically stated in such filing. 
+ 
+ (1) Filed as an exhibit to the Company s Form S-1 filed on March 5, 2019. 
+ (2) Filed as an exhibit to the Company s Amendment No. 2 to Form S-1 filed on October 18, 2019. 
+ (3) Filed as an exhibit to the Company s Form S-1 filed on February 11, 2020. 
+ (4) Filed as an exhibit to the Company s Form 10-K for the period ended December 31, 2020 filed on March 31, 2021. 
+ (5) Filed as an exhibit to the Company s Form 10-K for the period ended December 31, 2021 filed on March 25, 2022. 
+ 52 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ 3Forces Inc. 
+ 
+ Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Keith Wong 
+ 
+ President, CEO, Principal Executive Officer, Treasurer, Chairman, Principal Financial Officer and Director 
+ 
+ January 31, 2023 
+ 
+ Keith Wong 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+ 
+ Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Keith Wong 
+ 
+ President, CEO, Principal Executive Officer, Treasurer, Chairman, Principal Financial Officer and Director 
+ 
+ January 31, 2023 
+ 
+ Keith Wong 
+
+53 
+
+<EX-31.1>
+ 2
+ live_ex31z1.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+ 
+ Certification of the Company s Principal Executive Officer and Principal Financial Officer 
+ Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ and Securities and Exchange Commission Release 34-46427 
+ 
+ I, Keith Wong, certify that: 
+ 
+ 1. I have reviewed this report on Form 10-K of 3Forces Inc . Report 
+ 
+ 2. Based on my knowledge, this Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this Report, fairly present in all material respects the financial condition, results of operations and cash flows of the small business issuer as of, and for, the periods present in this annual report; 
+ 
+ 4. As the registrant s sole certifying officer, I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 
+ 5. As the registrant s sole certifying officer, I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date: January 31, 2023 
+
+/s/ Keith Wong 
+
+Keith Wong Chief 
+
+Executive Officer and 
+ Chief Financial Officer (Principal Executive, 
+
+Financial and Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ live_ex32z1.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+ 
+ Certification of Principal Executive Officer and Principal Financial Officer 
+ Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to 
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ In connection with the Annual Report of 3Forces Inc . (the Company on Form 10-K for the period ended December 31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Keith Wong, certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge and belief: 
+ 
+ 1. The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date: January 31, 2023 
+ 
+ /s/ Keith Wong 
+
+Keith Wong 
+
+Chief Executive Officer and 
+ Chief Financial Officer (Principal Executive, 
+
+Financial and Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.CAL>
+ 4
+ live-20221231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 5
+ live-20221231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 6
+ live-20221231_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 7
+ live-20221231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 8
+ live-20221231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+

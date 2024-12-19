@@ -1,0 +1,3425 @@
+<Header>
+<FileStats>
+    <FileName>20230331_10-K_edgar_data_1454510_0001683168-23-002005.txt</FileName>
+    <GrossFileSize>2229168</GrossFileSize>
+    <NetFileSize>156229</NetFileSize>
+    <NonText_DocumentType_Chars>514730</NonText_DocumentType_Chars>
+    <HTML_Chars>526148</HTML_Chars>
+    <XBRL_Chars>409185</XBRL_Chars>
+    <XML_Chars>557164</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-23-002005.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331072351
+ACCESSION NUMBER:		0001683168-23-002005
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		44
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LNPR GROUP INC.
+		CENTRAL INDEX KEY:			0001454510
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				261381565
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54171
+		FILM NUMBER:		23783209
+
+	BUSINESS ADDRESS:	
+		STREET 1:		175 S. MAIN ST., SUITE 1410
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84111
+		BUSINESS PHONE:		801-699-2928
+
+	MAIL ADDRESS:	
+		STREET 1:		175 S. MAIN ST., SUITE 1410
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW ASIA ENERGY INC.
+		DATE OF NAME CHANGE:	20150811
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HIGH DESERT ASSETS, INC.
+		DATE OF NAME CHANGE:	20141023
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Univest Tech Inc.
+		DATE OF NAME CHANGE:	20090122
+
+</SEC-Header>
+</Header>
+
+ 0001683168-23-002005.txt : 20230331
+
+10-K
+ 1
+ lnpr_i10k-123122.htm
+ FORM 10-K
+
+Table of Contents 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended , 2022 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission file number: 
+
+(Exact Name of Registrant as Specified in its Charter) 
+
+(State of other jurisdiction of incorporation or organization) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+, , , 
+
+(Address of Principal Executive Offices) 
+ 
+ (Zip Code) 
+
+(Registrant s Telephone Number, including
+Area Code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ Trading Symbol(s) 
+ Name of each exchange on which registered 
+ 
+ N/A 
+ N/A 
+ N/A 
+
+Securities registered pursuant to Section 12(g) of the Act: Common
+Stock, par value 0.001 per share 
+
+Indicate by check mark if the registrant is
+a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. No 
+
+Indicate by check mark whether the registrant
+has submitted electronically, every Interactive Data File pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for
+such shorter period that the registrant was required to submit such files). 
+
+No 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer , smaller reporting company ,
+and emerging growth company in Rule 12b-2 of the Exchange Act. (Check one) 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. 
+
+If securities are registered
+pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing
+reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark
+whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by
+any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant
+is a shell company, as defined in Rule 12b-2 of the Exchange Act. Yes 
+
+The aggregate market value of the voting and non-voting
+stock held by non-affiliates of the registrant as of the last business day of the registrants most recently completed second fiscal quarter,
+based on the price at which the common equity was last sold on the OTC Markets on June 30, 2022 was approximately . For purposes
+of this computation only, all officers, directors and 10 or greater stockholders of the registrant are deemed to be affiliates. 
+
+The number of shares of the registrant s
+common stock, 0.001 par value per share, outstanding as of March 31, 2023, was . 
+
+TABLE OF CONTENTS 
+
+PART I 
+ 4 
+ 
+ ITEM 1. BUSINESS 
+ 4 
+ 
+ ITEM 1A. RISK FACTORS 
+ 9 
+ 
+ ITEM 1B. UNRESOLVED STAFF COMMENTS 
+ 9 
+ 
+ ITEM 2. PROPERTIES 
+ 9 
+ 
+ ITEM 3. LEGAL PROCEEDINGS 
+ 9 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES 
+ 9 
+
+PART II 
+ 10 
+ 
+ ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 10 
+ 
+ ITEM 6. [RESERVED] 
+ 12 
+ 
+ ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 12 
+ 
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 15 
+ 
+ ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 15 
+ 
+ ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 15 
+ 
+ ITEM 9A. CONTROLS AND PROCEDURES 
+ 15 
+ 
+ ITEM 9B. OTHER INFORMATION 
+ 17 
+ 
+ ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+ 17 
+
+PART III 
+ 18 
+ 
+ ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 18 
+ 
+ ITEM 11. EXECUTIVE COMPENSATION 
+ 20 
+ 
+ ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 21 
+ 
+ ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 22 
+ 
+ ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+ 23 
+ 
+ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+ 23 
+ 
+ ITEM 16. FORM 10-K SUMMARY 
+ 25 
+
+SIGNATURES 
+ 26 
+
+2 
+
+FORWARD-LOOKING STATEMENTS 
+
+This Annual Report on
+Form 10-K (the Form 10-K for LNPR Group Inc., a Colorado corporation (the Company ), contains
+forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical fact,
+contained in this Form 10-K, including statements regarding our strategy, future operations, future financial position, future revenues,
+projected costs, prospects, plans and objectives of management, are forward-looking statements. The words anticipate, believe, 
+ estimate, expect, intend, may, plan, predict, project, 
+ target, potential, would, could, should, continue, 
+and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these
+identifying words. 
+
+We may not actually achieve
+the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking
+statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking
+statements we make. We have included important cautionary statements in this Form 10-K that we believe could cause actual results or events
+to differ materially from the forward-looking statements that we make. Our forward-looking statements do not reflect the potential impact
+of any future acquisitions, mergers, dispositions, joint ventures or investments we may make. 
+
+You should read this
+Form 10-K and the documents that we have filed as exhibits to this Form 10-K with the understanding that our actual future results may
+be materially different from what we expect. The forward-looking statements contained in this Form 10-K are made as of the date of this
+Form 10-K, and we do not assume any obligation to update any forward-looking statements except as required by applicable law. 
+
+3 
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+As used in this Form 10-K, the terms we, 
+ us, our, and the Company refer to LNPR Group Inc., a Colorado corporation, and its subsidiaries. 
+
+Our Business 
+
+NYCEdutec, a wholly owned subsidiary of LNPR Group
+Inc., is building a breakthrough artificial intelligence (AI) system for the purpose of teaching the English language for learners across
+the globe. We are on pace to release our AI technology across an initial 13 countries in three continents in Q4 of 2023. 
+
+Nearly three billion people are trying to learn
+English every day. The market for learning English with digital devices is growing at 250 globally, (26 CAGR) and is projected to spend
+ 63Billion annually by 2026 [1] . Yet the market is experiencing
+a shift away from the traditional classrooms and toward digital and online solutions on personal devices. The most significant reasons
+for the market shift are the lack of teachers, the lack of meaningful practice, and the lack of individualized learning based on the learner s
+needs. 
+
+We believe our AI-powered Super Teachers 
+will solve the problem of human teachers being in short supply. The AI Super Teachers will bring more effective, affordable, and personalized
+instruction direct to learners devices. The AI under development has 20 unique engines to provide relevant instruction content
+to learners as well as capture and analyze behavioral data from millions of users, therefore enabling high-quality, individualized teaching
+on a huge scale. 
+
+We plan to initially offer free access to our
+product and, therefore, generating high user adoption. Once we have acquired a high volume of users, we plan to generate revenue via advertising,
+in-app purchase and subscription and/or premium upgrade offerings. In particular, we intend to monetize our unique metadata generated
+by our users. The AI engine(s) will capture and analyze behavioral data for learning the English language from millions of users across
+multiple countries that we believe is not accessible to others. Metadata would include speed of language acquisition across countries,
+genders, ages, economic strata, first languages, etc. 
+
+In order to support the operations and the growth
+of the business as well as the product development, we raised an initial 1,150,000 in funding in January through February of 2023. We
+plan on launching our product in Q4 of 2023 and we plan on raising additional capital to launch our AI product into the market. This raise
+will also be used for growth and expansion of brand building, product enhancement, infrastructure, and additional countries beyond the
+initial 13 countries we plan on focusing our initial launch, including, Indonesia, India, Malaysia, Myanmar, Thailand, Sri Lanka, U.S.,
+Mexico, Panama, UAE, Saudi Arabia, Jordan and Qatar, already prepared for product rollout. 
+
+Although there is currently no public market for
+our Common Stock, we intend to apply for quotation of our Common Stock on OTCQB during 2024 and we will consider a listing on a senior
+exchange (assuming it is in the best interest of shareholders and we comply with listing requirements) within 24 months beyond that as
+we grow globally. There can be no assurance that any application for the quotation of our Common Stock on an automated quotation system
+will be approved. There also can be no assurance that a market maker will agree to file the necessary documents with the Financial Industry
+Regulatory Authority FINRA nor can there be any assurance that such an application for quotation will be approved. 
+
+We are led by an experienced President/CEO who
+has successfully managed a public company previously, as well as served as VP of digital English products within Pearson Education. Our
+executive management consists of senior executives with extensive experience in the global market space of teach English language with
+technology. 
+
+_______________ 
+
+[1] 
+ Statista Infograph Data 2020 
+
+4 
+
+Principal Products or Services and Their
+Markets 
+
+We are focused on developing AI-powered products
+focusing on digital English learning. Our targeted markets are Asia, Eastern Europe and Middle East. 
+
+We are in the process of creating the ultimate
+ Super Teachers that we believe will replace conventional evening classes and weekend tutors. The AI Super Teachers will
+provide instructional content specifically tailored for each learner s English language capability. The Super Teachers will
+be analyzing in real time the strengths, weaknesses, mother tongue, age, education background and pace-of-learning of each student. With
+that data, the AI provides customized instruction in real time that suits each learner s needs to accelerate English language mastery.
+Learning the English language will no longer be the inefficient and rote model from the past of memorizing vocabulary words. With NYCEdutec s
+AI English learning system, learning English will be multi-dimensional, dynamic learning that covers all aspects of learning a language
+ especially pronunciation, listening comprehension and simulated conversation for practice . 
+
+ Nearly three billion people are trying to learn
+English every day while the market is experiencing a shift away from the traditional classrooms and toward digital and online
+solutions on personal devices. We believe that the most significant reasons for the market shift are the lack of teachers, the lack of
+meaningful practice, and the lack of individualized learning based on the learner s needs. Our AI English learning system will provide
+solutions to the market of these three billion people who can learn English in a more flexible and personalized way. 
+
+Distribution Methods for Our Products and
+Services 
+
+In order to accelerate adoption of our product
+by millions of end users, we have already begun establishing distribution with companies around the world that have large, built-in customer
+bases such as mobile wireless networks (aka providers ), webstores, international education publishers and government entities.
+We already have established relationships with such entities throughout 13 countries, and we expect to negotiate contracts with them beginning
+with a sales focus initially in Southeast Asia and expanding into Eastern Europe and the Middle East geographic markets in Q4 23. 
+
+We have decided to initially focus on Asia due
+to the increasing adoption of the digital education system in the Asia-Pacific region, which is anticipated to provide numerous profitable
+opportunities for the market players operating in the Digital English language Learning market in the coming years. [2] 
+
+We expect that the distribution inroads we have
+made throughout Asia will springboard the viral distribution of our product to the three billion population of South, North and Central
+Asia, followed immediately by Middle East countries and Eastern Europe assuming that the distribution contracts are successfully secured. 
+
+Competition 
+
+Historically, the market competition for English
+language learning has been by language centers and evening classes. However, the market has been shifting quickly away from in-classroom
+instruction and toward learning on personal devices with digital tools. Because this market shift is relatively new (last 10 years), we
+do not believe there are currently distinguished or dominant leaders, globally, as it relates to digital tools for language learners.
+While numerous English language apps exist, those apps are typically limited in their global reach and tend to focus primarily on the
+country from which they are based. For example, in Japan, several English language apps may be created and marketed there, but those apps
+are not often seen in the markets of other countries. 
+
+_______________ 
+
+[2] 
+ Markets and Research, April 2019 
+
+5 
+
+More specifically, when AI is applied
+to digital English language learning, it is difficult to point out a single leading company in the field as AI is relatively new to language
+instruction. However, some companies that claim to offer AI-powered English language learning solutions include: 
+
+1. LAIX a company in China that creates products to popularize English learning. 
+ 
+ 2. Duolingo a language learning platform marketing that they use AI to personalize the learning experience
+for each user. 
+ 
+ 3. Babbel States that it uses AI to provide personalized language learning content. 
+
+These are just a few examples of companies that
+claim to use AI for teaching English language. Each of the companies has its own unique approach to language learning and the effectiveness
+of their solutions may vary depending on the learner s dedication. 
+
+Customers 
+
+Our targeted customers are non-native English-speaking
+young adults who would like to improve their English for better prospects and opportunities by learning the English language digitally.
+We plan on reaching our target customers through large, built-in customer bases of mobile wireless networks, webstores, international
+education publishers and government entities in the B2C markets of Asia, Eastern Europe and Middle East. We aim to reach the three billion
+population in these territories who are keen to improve their English language skills for better prospects and opportunities with the
+AI English learning system. 
+
+Intellectual Property 
+
+On December 12, 2022,
+NYCEdutec entered into a Software License Agreement with NYC English, LLC NYC English ), a Utah limited liability
+company which is controlled by the Company s CEO, Mark Emerson. The initial term of the agreement is until December 31, 2024. Unless
+terminated pursuant to the agreement, the agreement may be renewed by mutual written agreement of the parties. Each of NYCEdutec and NYC
+English may immediately terminate and/or temporarily suspend the agreement at any time in the event of several defaults detailed in the
+agreement. 
+
+Pursuant to the agreement,
+NYCEdutec is appointed by NYC English as the non-exclusive licensee of all three levels of NYC English software (the Products throughout the world. 
+
+Through our wholly-owned subsidiary, NYCEdutec, we are developing state-of-the-art
+AI for English language acquisition. NYCEdutec will have exclusive, world-wide rights in perpetuity to the technology for English language
+acquisition that it is developing jointly with its AI development partner AI Tech. 
+
+We own our website, www.nycedutec.com, and we have registered two sets
+of domain names listed below: 
+
+NYCEDUTEC.NET 
+ AIENGLISHGPT.NET 
+ 
+ NYCEDUTEC.COM 
+ AIENGLISHGPT.ORG 
+
+AIENGLISHGPT.ONLINE 
+
+AIENGLISHGPT.AI 
+
+The trademark NYCEdutec design mark has also been created under work
+for hire. 
+
+6 
+
+Employees 
+
+As of March
+31, 2023, we had no employees and we have contracted those personnel responsible for our operations and development. Most of these personnel
+are engaged through independent contractor agreements as they are based in overseas countries nearby the targeted markets and the product
+production house. We believe this arrangement provides cost effective solutions to us because of the comparatively low compensation costs
+and business development costs due to the close proximity of the targeted markets. 
+
+Corporate History 
+
+LNPR Group Inc. was incorporated as Univest
+Tech, Inc. in the State of Colorado on November 6, 2007. The Company was originally formed to develop, and market music based on
+technology solutions. 
+
+After several name changes, on December 1, 2017,
+the Board of Directors adopted two separate amendments to its Articles of Incorporation: 1) changing the name of the Corporation to LNPR
+Group Inc. , and 2) effectuating a 40:1 reverse split of the Company s common stock. The amendments became effective on December
+4, 2017 and January 17, 2018, respectively. 
+
+Despite our auditor being located in China,
+we shall not undertake our initial business combination with any entity with its principal business operations in the People s Republic
+of China (or, the PRC (including Hong Kong and Macau). 
+
+Our current auditor, which is located in China,
+was appointed by previous management, who had ties to China and Hong Kong. It is our intent to appoint a new auditor, which is based in
+the U.S. as soon as is reasonably possible. We have begun the process of searching for a new auditor; however, we have not entered into
+an engagement. 
+
+Enforcement of
+Civil Liabilities 
+
+The following are the
+names of each officer and director located outside of the United States and their place of residence or current location: 
+
+Name of Officer or Director Located Outside of U.S. 
+ Place of Residence or Current Location 
+ 
+ Eng Wah Kung, CFO and Director 
+ Malaysia 
+
+We are incorporated under the laws of the State
+of Colorado with limited liability. Mr. Kung, our CFO and Director, is a national and/or residents of Malaysia, and all or a substantial
+portion his assets are located outside the United States. As a result, it may be difficult for investors to effect service of process
+within the United States upon us or Mr. Kung or to enforce against him or against us, judgments obtained in United States courts, including
+judgments predicated upon the civil liability provisions of the securities laws of the United States or any state thereof. 
+
+We have appointed Vcorp Services LLC as our agent
+to receive service of process with respect to any action brought against us. 
+
+A foreign judgment refers to a judgment that is
+handed down by a superior court outside Malaysia. Under Malaysian law, a foreign judgment cannot be directly or summarily executed (enforced)
+in Malaysia. The judgment must first be recognized by a Malaysian court either under applicable Malaysian statutes or in accordance with
+common law principles. Whilst a court must recognize every foreign judgment which it enforces, it need not enforce every foreign judgment
+which it recognizes. 
+
+7 
+
+A foreign judgment pronounced by the United States
+may be enforced by the Malaysian Courts through principles for the recognition of foreign judgments under common law. The common law rules
+applicable to the recognition of a foreign judgment come within the area of law known as private international law and have been adopted
+into Malaysian jurisprudence by virtue of Section 3 of the Civil Law Act 1956. This section allows the application of English Common Law
+and rules of equity in Malaysia. A plethora of cases from English courts derived from principles binding on Malaysian courts by virtue
+of the Civil Law Act 1956, have established the following requirements for an enforcement of a foreign judgment under the common law: 
+
+(a) 
+ 
+ The judgment is for a fixed sum of debt, (not being a sum payable in taxes or the like); 
+
+(b) 
+ 
+ The judgment is final and conclusive; 
+
+(c) 
+ 
+ The foreign court has a competent jurisdiction to decide on the case. 
+
+The prerequisite that a foreign judgment must
+be for a fixed sum excludes the enforcement of declaratory orders and injunctions and claims in rem. 
+
+The test of finality is proof that a judgment
+given by the foreign court is res judicata. For this it must be shown that the foreign court has established the existence of the debt
+based on the evidence and which conclusively determined a liability on the part of the defendant. In other words, the finality and conclusiveness
+of the judgment must base itself on the merits. 
+
+Jurisdictional incompetence of the foreign court
+is a common ground for challenging foreign judgements. In order to meet this requirement, the following elements of a jurisdictional competence
+were described by Buckley L.J. in Emanuel v Symon as follows: 
+
+(i) 
+ 
+ The defendant is a subject of the foreign country at the time the judgment is pronounced; 
+
+(ii) 
+ 
+ The defendant resides in the foreign country when the action began; 
+
+(iii) 
+ 
+ The defendant has, in character of the plaintiff, selected the forum; 
+
+(iv) 
+ 
+ The defendant has voluntarily appeared and defended the case; or 
+
+(v) 
+ 
+ The defendant has contracted to submit himself to the jurisdiction of the court. 
+
+Presence of the Defendant : A foreign court
+may have jurisdiction over a defendant that is present in the jurisdiction of that court Adam v Cape Industries ). When the
+defendant is a corporation, the test of presence is to be determined by considering whether the defendant has a place of business in the
+foreign country, or whether the corporation has a local representative who has been carrying on the corporation s business in the
+foreign country. 
+
+Selection of forum : A person who goes to
+the court for a claim must also bind himself to the outcome. Likewise, a defendant who resorts to a counterclaim in a proceeding in a
+foreign court clearly submits himself to the jurisdiction thereof. 
+
+A defendant can be said to have submitted himself
+to the foreign jurisdiction in the following circumstances. Firstly, when he entered appearance in the foreign action and defended himself
+in that suit without contesting the jurisdiction. Secondly, he contested the jurisdiction of the foreign court but nevertheless pleaded
+the merits of the case. Thirdly, submission can also be inferred when the defendant did not appear at the first instance but proceeded
+to appeal against the judgment at the foreign country. 
+
+8 
+
+Agreement to submit : If a contract provides
+that all disputes shall be referred to the exclusive jurisdiction of a foreign court, the foreign court is deemed to have jurisdiction
+over the defendant. The agreement to submit to foreign jurisdiction may also come in the form of accepting service of process in the foreign
+country. 
+
+Typically, the enforcement of a foreign judgment
+under the common law in Malaysia is done by taking out a writ action on the basis of the foreign order or judgment and providing the evidence
+of the elements stated above. Once the writ and statement of claim have been served on the defendant and the defendant has entered appearance
+to the action, the plaintiff may, on the ground that the defendant has no defense to the action, apply for a summary judgment to be entered
+against the defendant. Unless there is a triable issue, the court may give such judgment for the plaintiff by granting an order in terms
+of the foreign judgement. [3] 
+
+On August 26, 2022, the PCAOB signed a Statement
+of Protocol with the China Securities Regulatory Commission and the Ministry of Finance of the PRC to allow the PCAOB to inspect and investigate
+completely registered public accounting firms headquartered in China and Hong Kong, consistent with the HFCAA, and that the PCAOB will
+be required to reassess its determinations by the end of 2022. 
+
+Our auditor has stated that greater Cyberspace
+Administration of China (CAC) oversight by the Chinese government does not impact them. 
+
+Our auditor is
+subject to the determinations announced by the PCAOB on December 16, 2021 and, due to this, the Holding Foreign Companies Accountable
+Act and related regulations may have a negative affect our company. 
+
+Our shares of Common Stock may be prohibited from
+trading on a national exchange under the Holding Foreign Companies Accountable Act (the HFCA Act if the Public Company
+Accounting Oversight Board (United States) (the PCAOB is unable to inspect our auditor for three consecutive years.
+Our auditor is subject to the determinations announced by the PCAOB on December 16, 2021. If trading in our shares of Common Stock is
+prohibited under the HFCA Act in the future because the PCAOB determines that it cannot inspect or fully investigate our auditor at such
+future time, the Nasdaq may reject listing of our shares of Common Stock. On June 22, 2021, the U.S. Senate passed the Accelerating Holding
+Foreign Companies Accountable Act, which, if passed by the U.S. House of Representatives and signed into law, would reduce the period
+of time for foreign companies to comply with PCAOB audits to two consecutive years, instead of three, thus reducing the time period for
+triggering the prohibition on trading. See Risk Factors A recent joint statement by the SEC and the PCAOB, proposed rule
+changes submitted by Nasdaq, and the HFCA Act each calling for additional and more stringent criteria to be applied to emerging market
+companies upon assessing the qualification of their auditors, especially the non-U.S. auditors who are not inspected by the PCAOB. 
+
+ITEM 1A. RISK FACTORS 
+
+Not applicable to smaller
+reporting companies. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM 2. PROPERTIES 
+
+Our principal executive
+office is located at 175 S. Main St., Suite 1220, Salt Lake City, UT 84111, for which NYCEdutec pays a monthly rental fee of 100. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+We anticipate that we (including any future subsidiaries)
+will from time to time become subject to claims and legal proceedings arising in the ordinary course of business. It is not feasible to
+predict the outcome of any such proceedings and we cannot assure that their ultimate disposition will not have a materially adverse effect
+on our business, financial condition, cash flows or results of operations. As of the filing of this Form 10-K, we are not a party to any
+pending legal proceedings, nor are we aware of any civil proceeding or government authority contemplating any legal proceeding. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+_______________ 
+
+[3] 
+The entire section on the enforcement of foreign civil judgments in Malaysia is from: https://www.lexology.com/library/detail.aspx?g=e7b7e1eb-edb2-410b-acd8-4f0bb9e50d18 
+
+9 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY
+SECURITIES 
+
+Market Information 
+
+There is currently no
+public market for our common stock and we have not applied for the listing or quotation of our common stock on any public market. During
+2023, we intend to seek a market maker to file an application with the Financial Industry Regulatory Authority FINRA to have our common stock quoted on the OTC Pink or OTCQB designation with OTC Markets Group. We currently have no market maker who is
+willing to list quotations for our stock. There is no assurance that an active trading market for our shares will develop or will be sustained
+if developed. 
+
+The OTC Markets is a
+dealer-driven quotation service. Unlike the Nasdaq, companies cannot directly apply to be quoted on the OTC Markets, only market makers
+can initiate quotes, and quoted companies do not have to meet any quantitative financial requirements. Any equity security of a reporting
+company not listed on the Nasdaq or on a national securities exchange is eligible. 
+
+It is not possible to
+predict or guaranty where, if at all, the securities of the Company will be traded in the future. 
+
+Availability of
+Rule 144 
+
+We were a shell company
+prior to December 12, 2022. Rule 144 is not available for the resale of securities issued by companies that are, or previously were, shell
+companies, such as our company, unless certain conditions are met. Paragraph (i) of Rule 144 prohibits the use of the rule for resale
+of securities issued by any shell companies (other than business combination related shell companies) or any issuer that has been at any
+time previously a shell company, except where the following conditions are met: 
+
+the issuer of the securities that was formerly a shell company has ceased to be a shell company; 
+
+the issuer of the securities is subject to the reporting requirements of Section 13 or 15(d) of the Exchange Act; 
+
+the issuer of the securities has filed all Exchange Act reports and material required to be filed, as applicable, during the preceding 12 months (or such shorter period that the issuer was required to file such reports and materials), other than Current Reports on Form 8-K; and 
+
+at least one year has elapsed from the time that the issuer filed current comprehensive disclosure with the SEC reflecting its status as an entity that is not a shell company. 
+
+As a result, our shareholders
+will not be able to sell their shares of our common stock under Rule 144 at least prior to the one-year anniversary of December 12, 2022. 
+
+Holders 
+
+As of the close of business
+on March 31, 2023, we had approximately 177 holders of our common stock. The number of record holders was determined from the records
+of our transfer agent and does not include beneficial owners of common stock whose shares are held in the names of various security brokers,
+dealers, and registered clearing agencies. We have appointed Securitize, 6725 Via
+Austi Pkwy Suite 300, Las Vegas, NV 89119 , to act as transfer agent for the common stock. 
+
+Dividends 
+
+We have not paid any
+cash dividends on our common stock and do not expect to do so in the foreseeable future. We anticipate that any earnings generated from
+future operations will be used to finance our operations. No restrictions exist upon our ability to pay dividends. 
+
+10 
+
+Securities Authorized
+for Issuance under Equity Compensation Plans 
+
+Equity
+Compensation Plan Information 
+
+Plan category 
+ 
+ Number of 
+securities to be 
+issued upon 
+exercise of 
+outstanding 
+options, warrants 
+and rights 
+
+Weighted-average 
+exercise price of 
+outstanding 
+options, warrants 
+and rights 
+
+Number of 
+securities 
+remaining 
+available for 
+future issuance 
+under equity 
+compensation 
+plans (excluding 
+securities 
+reflected in 
+column (a)) 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Equity compensation plans approved by security holders 
+
+Equity compensation plans not approved by security holders 
+
+2,327,455 
+
+Total 
+
+2,327,455 
+
+2022 Stock Incentive Plan 
+
+On June 7, 2022, the Board of Directors adopted
+the 2022 Stock Incentive Plan (the 2022 Plan ). The purposes of the 2022 Plan are (a) to enhance our ability to attract
+and retain the services of qualified employees, officers, directors, consultants, and other service providers upon whose judgment, initiative
+and efforts the successful conduct and development of our business largely depends, and (b) to provide additional incentives to such persons
+or entities to devote their utmost effort and skill to the advancement and betterment of our company, by providing them an opportunity
+to participate in the ownership of our Company and thereby have an interest in the success and increased value of our Company. 
+
+The 2022 Plan is administered by our board of
+directors; however, the board of directors may designate administration of the 2022 Plan to a committee consisting of at least two independent
+directors. Awards may be made under the Plan for up to 6,500,000 shares of common stock of the Company. Only employees of our Company
+or of an Affiliated Company , as defined in the 2022 Plan, (including members of the board of directors if they are employees
+of our Company or of an Affiliated Company) are eligible to receive incentive stock options under the 2022 Plan. Employees of our Company
+or of an Affiliated Company, members of the board of directors (whether or not employed by our company or an Affiliated Company), and
+ Service Providers , as defined in the 2022 Plan, are eligible to receive non-qualified options, restricted stock units, and
+stock appreciation rights under the 2022 Plan. All awards are subject to Section 162(m) of the Internal Revenue Code. 
+
+No option awards may be exercisable more than
+ten years after the date it is granted. In the event of termination of employment for cause, the options terminate on the date of employment
+is terminated. In the event of termination of employment for disability or death, the optionee or administrator of optionee s estate
+or transferee has six months following the date of termination to exercise options received at the time of disability or death. In the
+event of termination for any other reason other than for cause, disability or death, the optionee has 30 days to exercise his or her options. 
+
+11 
+
+The 2022 Plan will continue in effect until all
+the stock available for grant or issuance has been acquired through exercise of options or grants of shares, or until ten years after
+its adoption, whichever is earlier. Awards under the 2022 Plan may also be accelerated in the event of certain corporate transactions
+such as a merger or consolidation or the sale, transfer or other disposition of all or substantially all our assets. 
+
+As of December 31, 2022, there were 4,172,545
+shares of Common Stock awarded with 2,327,455 shares remaining for awards under the 2022 Plan. 
+
+Stock Options 
+
+As of December 31, 2022, there were no stock options
+issued. 
+
+Recent Sales of Unregistered Securities. 
+
+There were no sales of
+registered securities during the quarter ended December 31, 2022. 
+
+Issuer Purchases of Equity Securities 
+
+There were no issuer
+purchases of equity securities during the year ended December 31, 2022. 
+
+ITEM 6. [RESERVED] 
+
+Not required for smaller reporting companies. 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This Management s Discussion and Analysis
+of Financial Condition and Results of Operations contain certain forward-looking statements. Historical results may not indicate future
+performance. Our forward-looking statements reflect our current views about future events; are based on assumptions and are subject to
+known and unknown risks and uncertainties that could cause actual results to differ materially from those contemplated by these statements.
+Factors that may cause differences between actual results and those contemplated by forward-looking statements include, but are not limited
+to, those discussed in the Risk Factors section. We undertake no obligation to publicly update or revise any forward-looking
+statements, including any changes that might result from any facts, events, or circumstances after the date hereof that may bear upon
+forward-looking statements. Furthermore, we cannot guarantee future results, events, levels of activity, performance, or achievements 
+
+Critical Accounting Policies 
+
+The following discussions are based upon our financial
+statements and accompanying notes, which have been prepared in accordance with accounting principles generally accepted in the United
+States. 
+
+The preparation of these financial statements
+requires management to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, revenues and
+expenses, and related disclosures of contingencies. We continually evaluate the accounting policies and estimates used to prepare the
+financial statements. We base our estimates on historical experiences and assumptions believed to be reasonable under current facts and
+circumstances. Actual amounts and results could differ from these estimates made by management. 
+
+12 
+
+Business Overview 
+
+LNPR Group Inc. was incorporated
+in the State of Colorado on November 6, 2007. On October 3, 2022, an entity named NYCEdutec LLC NYCEdutec was formed in the State of Utah. On November 22, 2022, the manager of NYCEdutec, Mark Emerson (who also serves as our Chief Executive
+Officer and director), approved the issuance to the Company of all of the equity interests of NYCEdutec .
+As a result, NYCEdutec is now a wholly-owned subsidiary of the Company. Prior to the equity issuance to the Company, NYCEdutec had no
+operations. 
+
+On December 12, 2022,
+NYCEdutec entered into a Software License Agreement with NYC English, LLC NYC English ), a Utah limited liability
+company which is controlled by the Company s CEO, Mark Emerson. The initial term of the agreement is until December 31, 2024. Unless
+terminated pursuant to the agreement, the agreement may be renewed by mutual written agreement of the parties. Each of NYCEdutec and NYC
+English may immediately terminate and/or temporarily suspend the agreement at any time in the event of several defaults detailed in the
+agreement. 
+
+Pursuant to the agreement,
+NYCEdutec is appointed by NYC English as the non-exclusive licensee of all three levels of NYC English software (the Products throughout the world. During the initial term, NYCEdutec is required to make (or arrange for) minimum purchases of the Products of 1,000,000
+in year one and 1,500,000 in year two. The suggested retail price for the Products and the purchase price of the Products by NYCEdutec
+will be decided between the parties at a later date. 
+
+Due to the agreement,
+as well as other factors, as of December 12, 2022, we ceased being a shell company. 
+
+Through our wholly-owned subsidiary, NYCEdutec,
+we are now building artificial intelligence with 20 unique engines to capture and analyze behavioral data from millions of users enabling
+high-quality, individualized teaching on a huge scale. Our AI-powered Super Teachers will solve the problem that human teachers
+are in short supply and bring more effective, affordable, and personalized teaching to all. We are currently building 'AI English 
+to address the growing demand for fluency in English. 
+
+Going Concern Uncertainty 
+
+As shown in the accompanying financial statements,
+the Company generated net losses of 79,772 and 3,500 during the years ended December 31, 2022 and 2021, respectively. As of December
+31, 2022, the Company s current liabilities exceeded its current assets by 269,962. As of December 31, 2022, the Company had 1,086
+of cash. 
+
+We will require additional funding to finance
+the growth of our operations and achieve our strategic objectives. These factors, as relative to capital raising activities, create doubt
+as to our ability to continue as a going concern. We are seeking to raise additional capital and are targeting strategic partners in an
+effort to accelerate the sales and marketing of our products and begin generating revenues. Our ability to continue as a going concern
+is dependent upon the success of future capital offerings or alternative financing arrangements, expansion of our operations and generating
+sales. The accompanying financial statements do not include any adjustments that might be necessary should we be unable to continue as
+a going concern. Management is actively pursuing additional sources of financing sufficient to generate enough cash flow to fund its operations;
+however, management cannot make any assurances that such financing will be secured. 
+
+Results of Operations during the years ended
+December 31, 2022 as compared to the year ended December 31, 2021. 
+
+We have not generated any revenues during the
+years ended December 31, 2022 and 2021. We had total operating expenses of 51,249 related to general and administrative expenses during
+the year ended December 31, 2022, compared to total operating expenses of 3,500 during the year ended December 31, 2021. We incurred
+zero interest expense during years ended December 31, 2022 and 2021. During the years ended December 31, 2022 and 2021, we had a net loss
+of 79,772 and 3,500 respectively, mainly due to our general and administrative expenses which includes general administration fees,
+audit, professional quarterly review fees and share-based compensation. 
+
+13 
+
+Liquidity and Capital Resources 
+
+At December 31, 2022, we had a cash balance of
+ 1,086, which represents a 1 increase from the 1,085 cash balance at December 31, 2021. This increase was primarily as a result of funds
+advanced from a director. Our working capital deficit at December 31, 2022 was 268,876, as compared to a working capital deficit of 217,627
+at December 31, 2021, respectively. 
+
+For the year ended December 31, 2022, we incurred
+a net loss of 79,772. Net cash flows used in operating activities was 35,849 for the year ended December 31, 2022. 
+
+The accompanying financial statements have been
+prepared assuming the Company will continue as a going concern. As shown in the accompanying financial statements, the Company has incurred
+losses from operations of 35,849 for the year ended December 31, 2022, and has an accumulated deficit of 1,141,519 at December 31, 2022,
+which raises substantial doubt about the Company s ability to continue as a going concern. 
+
+Management believes the Company will continue
+to incur losses and negative cash flows from operating activities for the foreseeable future and will need additional equity or debt financing
+to sustain its operations until it can achieve profitability and positive cash flows, if ever. Management plans to seek additional debt
+and/or equity financing for the Company but cannot assure that such financing will be available on acceptable terms. At the Company s
+current rate of expenditure, the Company anticipates being able to maintain current operations for three months; however, management is
+proposing to raise any necessary additional funds not provided by operations through loans or through additional sales of equity securities.
+There is no assurance that the Company will be successful in raising this additional capital or in achieving profitable operations. 
+
+The Company s continuation as a going
+concern is dependent upon its ability to ultimately attain profitable operations, generate sufficient cash flow to meet its
+obligations, and obtain additional financing as may be required. Our auditors have included a going concern qualification in their
+auditors report dated March 31, 2023. Such a going concern qualification may make it more difficult for us to raise funds
+when needed. The outcome of this uncertainty cannot be assured. 
+
+The accompanying financial statements do not include
+any adjustments that might result from the outcome of this uncertainty. There can be no assurance that management will be successful in
+implementing its business plan or that the successful implementation of such business plan will actually improve the Company s operating
+results. 
+
+Recent Accounting Pronouncements 
+
+We have provided a discussion of recent accounting
+pronouncements in Note 1 to the Condensed Audited Financial Statements. 
+
+Off-Balance Sheet Arrangements 
+
+We do not have any off-balance sheet arrangements
+that have or are reasonably likely to have a current or future material effect on our consolidated financial condition, changes in financial
+condition, revenues or expenses, results of operations, liquidity capital expenditures or capital resources. 
+
+Critical Accounting Policies 
+
+Our significant accounting policies are described
+in the notes to our financial statements for the years ended December 31, 2022 and 2021, and are included elsewhere in this Form 10-K. 
+
+14 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not applicable. 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+The financial statements of the Company are included
+beginning on page F-1 immediately following the signature page to this Form 10-K. 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We have established disclosure controls and procedures
+that are designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is recorded,
+processed, summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission
+and, as such, is accumulated and communicated to our Chief Executive Officer, Mark Emerson who serves as our principal executive officer,
+and our Chief Financial Officer, Eng Wah Kung who serves as our principal accounting and financial officer, as appropriate, to allow timely
+decisions regarding required disclosure. Messrs. Emerson and Kung evaluated the effectiveness of our disclosure controls and procedures,
+as defined in Rule 13a-15(e) of the Exchange Act, as of December 31, 2022. 
+
+Our management does not expect that our disclosure
+controls and procedures will prevent all error and all fraud. A control system, no matter how well designed and operated, can provide
+only reasonable, not absolute, assurance that the control system s objectives will be met. Further, the design of a control system
+must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because
+of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and
+instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision-making can
+be faulty, and that breakdowns can occur because of simple error or mistake. The design of any system of controls is based in part upon
+certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its
+stated goals under all potential future conditions. 
+
+With respect to the year ended December 31, 2022,
+under the supervision and with the participation of our management, we conducted an evaluation of the effectiveness of the design and
+operations of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) promulgated under the Exchange Act.
+Based upon our evaluation regarding the year ended December 31, 2022, our management, including our principal executive officer and principal
+financial officer, has concluded that our disclosure controls and procedures were ineffective. 
+
+15 
+
+Internal Control Over Financial Reporting 
+
+Our management is responsible for establishing
+and maintaining adequate internal controls over financial reporting for the Company. Due to limited resources, management conducted an
+evaluation of internal controls based on criteria established in 2013 Internal Control - Integrated Framework issued by the Committee
+of Sponsoring Organizations of the Treadway Commission COSO ). The results of this evaluation determined that our
+internal control over financial reporting was ineffective as of December 31, 2022, due to material weaknesses. A material weakness in
+internal control over financial reporting is defined as a deficiency, or a combination of deficiencies, in internal control over financial
+reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will
+not be prevented or detected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal
+control over financial reporting that is less severe than a material weakness, yet important enough to merit attention by those responsible
+for oversight of our financial reporting. 
+
+Management s assessment identified the following
+material weaknesses in internal control over financial reporting: 
+
+The small size of our company limits our ability to achieve the desired level of separation of duties to achieve effective internal controls over financial reporting. Although we do have a separate CEO and CFO to review and oversee our financial policies and procedures, which does achieve a degree of separation, until such time as we are able to hire a controller, we do not believe we meet the full requirement for separation. 
+
+We do not have an audit committee. 
+
+We have not achieved the desired level of documentation of our internal controls and procedures. This documentation will be strengthened through utilizing a third-party consulting firm to assist management with its internal control documentation and further help to limit the possibility of any lapse in controls occurring. 
+
+We have not achieved the desired level of corporate governance to ensure that our accounting for all of our contractual and other agreements is in accordance with all of the relevant terms and conditions. 
+
+As a result of the material weaknesses in internal
+control over financial reporting described above, our management has concluded that, as of December 31, 2022, our internal control over
+financial reporting was not effective based on the criteria in Internal Control - Integrated Framework issued by the COSO. 
+
+We will continue to follow the standards for the
+Public Company Accounting Oversight Board (United States) for internal control over financial reporting to include procedures that: 
+
+Pertain to the maintenance of records in reasonable detail accurately that fairly reflect the transactions and dispositions of our assets; 
+
+Provide reasonable assurance that transactions are recorded as necessary to permit preparation of the financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorizations of management and the Board of Directors; and 
+
+Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of our assets that could have a material effect on the financial statements. 
+
+Despite the material weaknesses in financial reporting
+noted above, we believe that our financial statements included in this report fairly present our financial position, results of operations
+and cash flows as of and for the years presented in all material respects. 
+
+16 
+
+Changes in Internal Controls 
+
+There has been no change in the Company s
+internal control over financial reporting, as defined in Rules 13a-15(f) of the Exchange Act, during the Company s three months
+ended December 31, 2022, that has materially affected, or is reasonably likely to materially affect, the Company s internal control
+over financial reporting. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+Not applicable to the
+Company. 
+
+17 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Executive Officers and Directors 
+
+The following table sets forth the name, age, and position of each
+executive officer and director of the Company: 
+
+Director's Name 
+ Age 
+ Position 
+ 
+ Mark Emerson 
+ 59 
+ Chief Executive Officer and Director 
+
+Eng Wah Kung 
+ 60 
+ Chief Financial Officer and Director 
+
+Our Chief Executive Officer 
+
+Mr. Emerson was appointed
+as an officer and director of the Company effective July 21, 2022. Mr. Emerson is a C level executive who has successfully owned and managed
+global digital English language companies for the past 22 years. 
+
+Mr. Emerson entered the
+English language learning market in 2000. Later, as President of Ellis Inc, an English language software company he expanded globally.
+In 2006, he sold Ellis to the largest education company in the world, Pearson Education, who later asked Emerson to serve as VP over Global
+Digital English products. Mr. Emerson grew Pearson s Digital English division significantly and expanded it across the world. 
+
+Mr. Emerson founded NYC English LLC in 2015. NYC
+English is a U.S.-based industry leader in English as Second Language, offering users two products
+ Software App and Teachers Online. 
+
+Mr. Emerson was appointed as a director of the
+Company due to his previous experience with building businesses and scaling them. 
+
+Our Chief Financial Officer 
+
+Mr. Kung was appointed as an officer and director
+of the Company on August 13, 2021. He holds a Diploma in Hotel Management and Food and Beverage with Les Roches, Switzerland. 
+
+In his earlier days, Mr Kung was the general manager
+of several Southeast Asian hotel operations companies including Nha Trang Lodge, Vietnam and NCL Cambodia Pte Ltd. Mr. Kung has over 33
+years experience in senior management positions in hotel and travel industry. 
+
+18 
+
+Associations with Companies with a Class of
+Securities Registered Pursuant to Section 12 or 15(d) of the Exchange Act 
+
+Prior to joining the Company, Mr. Kung has been
+the CFO and director of Star Alliance International Corp from which he resigned on May 16, 2018. He has also been the director and CEO
+for Tribal Rides International Corp., from which he resigned on May 17, 2018. Finally, Mr. Kung was the director and CEO of Glorywin Entertainment
+Group Inc., from which he resigned in 2015. 
+
+Legal Proceedings 
+
+During the past ten years there have been no events
+under any bankruptcy act, no criminal proceedings and no judgments, injunctions, orders or decrees material to the evaluation of the ability
+and integrity of any of our directors or executive officers, and none of these persons has been involved in any judicial or administrative
+proceedings resulting from involvement in mail or wire fraud or fraud in connection with any business entity, any judicial or administrative
+proceedings based on violations of federal or state securities, commodities, banking or insurance laws or regulations, or any disciplinary
+sanctions or orders imposed by a stock, commodities or derivatives exchange or other self-regulatory organization. 
+
+Family Relationships 
+
+There are no family relationships between any
+of our directors and executive officers. 
+
+Compliance with Section 16(a) of the Securities Exchange Act
+of 1934 
+
+Section 16(a) of the Exchange Act requires the
+Company s directors, executive officers, and persons who own more than 10 of a registered class of the Company s equity securities,
+to file with the Commission reports regarding initial ownership and changes in ownership. Directors, executive officers, and greater than
+10 stockholders are required by the Commission to furnish the Company with copies of all Section 16(a) forms they file. 
+
+During the year ended December 31, 2022, Mark
+Emerson, Paul Falconer (2), Eng Wah Kung, and Nicola Yip all filed Form 4s past the filing due date. To the knowledge of our management,
+there are no Form 4s that should have been filed during the year ended December 31, 2022 that were not filed. 
+
+Code of Ethics 
+
+Our Board of Directors had previously adopted
+a Code of Ethics; however, current management does not consider that Code of Ethics is valid. As a result, we have not adopted a formal,
+written code of ethics due to a small number of members of management. We plan to adopt a Code of Ethics during the fiscal year ending
+December 31, 2023. 
+
+19 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+Summary Compensation for Named Executive Officers 
+
+The following table shows the executive compensation
+paid to our named executive officers for the years ended December 31, 2022 and 2021. 
+
+Name and Principal Position 
+ Year Ended Dec. 31, 
+ Stock Awards ) 
+ Total ) 
+ 
+ Mark Emerson 
+ 2022 
+ 0 
+ 0 
+ 
+ CEO and Director (1) 
+ 2021 
+ 0 
+ 0 
+ 
+ Paul Falconer (1) 
+ 2022 
+ 26,823 (2) 
+ 26,823 
+ 
+ Former CEO and Director (1) 
+ 2021 
+ 0 
+ 0 
+
+(1) 
+ Mr. Emerson was appointed as an officer and director of the Company effective July 21, 2022 along with the resignation of Mr. Falconer from all positions. 
+
+(2) 
+ During 2022, Mr. Falconer was awarded an aggregate of 26,822,545 shares of Common Stock. 
+
+Summary Compensation for Directors 
+
+The following table shows the executive compensation
+paid to our directors (excluding named executive officers) for the year ended December 31, 2022. 
+
+Name and Principal Position 
+ Year Ended Dec. 31, 
+ Stock Awards ) 
+ Total ) 
+ 
+ Eng Wah Kung, Director 
+ 2022 
+ 250 (1) 
+ 250 
+
+(1) 
+ During 2022, Mr. Kung was awarded 250,000 shares of Common Stock. 
+
+At this time, our Directors do not receive cash
+compensation for serving as members of our Board of Directors. The term of office for each Director is until his/her successor is elected
+at our annual meeting and qualified. The term of office for each of our officers is at the pleasure of the Board of Directors. The Board
+of Directors has no nominating, auditing committee or a compensation committee. Therefore, the selection of person or election to the
+Board of Directors was neither independently made nor negotiated at arm s length. 
+
+Equity Awards 
+
+As of December 31, 2022, there were no outstanding
+equity awards. 
+
+20 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+Principal Shareholders 
+
+The following table and footnotes thereto sets
+forth information regarding the number of shares of Common Stock beneficially owned by (i) each director and named executive officer
+of our Company, (ii) named executive officers, executive officers, and directors of the Company as a group, and (iii) each person known
+by us to be the beneficial owner of 5 or more of our issued and outstanding shares of Common Stock. In calculating any percentage in
+the following table of common stock beneficially owned by one or more persons named therein, the following table assumes 57,735,382 shares
+of Common Stock outstanding. Unless otherwise further indicated in the following table, the footnotes thereto and/or elsewhere in this
+report, the persons and entities named in the following table have sole voting and sole investment power with respect to the shares set
+forth opposite the shareholder s name, subject to community property laws, where applicable. Unless as otherwise indicated in the
+following table and/or the footnotes thereto, the address of our named executive officers and directors in the following table is: 175
+S. Main St., Suite 1220, Salt Lake City, UT 84111. 
+
+Name and Address of Beneficial Owner 
+
+Amount and 
+ Nature of 
+ Beneficial 
+ Ownership (1) 
+
+Percent 
+ of Class (1) 
+
+Named Executive Officers and Directors 
+
+Mark Emerson, CEO and Director (2) 
+
+24,472,545 
+
+42.39 
+
+Eng Wah Kung, CFO and Director (3) 
+
+250,000 
+
+Paul Falconer, Former CEO and Director (4) 
+
+2,350,000 
+ (5) 
+
+4.07 
+
+Executive Officers, Named Executive Officers, and Directors as a Group (Three Persons) 
+
+27,422,545 
+
+47.50 
+
+Less than 1 
+
+(1) 
+ Under Rule 13d-3 of the Exchange Act, a beneficial owner of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct the voting of shares; and (ii) investment power, which includes the power to dispose or direct the disposition of shares. Certain shares may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire the shares (for example, upon exercise of an option) within 60 days of March 31, 2023. In computing the percentage ownership of any person, the amount of shares outstanding is deemed to include the number of shares beneficially owned by such person (and only such person) by reason of these acquisition rights. As a result, the percentage of outstanding shares of any person as shown in the above table does not necessarily reflect the person s actual ownership or voting power with respect to the number of shares of common stock actually outstanding on the date of this Registration Statement. 
+
+(2) 
+ Mark Emerson was appointed as CEO and director effective July 21, 2022. 
+
+(3) 
+ Mr. Kung was appointed as CFO and director on August 13, 2021. 
+
+(4) 
+ Mr. Falconer was appointed as CEO and director on April 21, 2021 and resigned from all positions effective July 21, 2022. 
+
+(5) 
+ Includes 1,700,000 shares owned by Falconer Family Office Limited, which is controlled by Paul Falconer. 
+
+21 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Except as disclosed below, for transactions with
+our executive officers and directors, please see the disclosure under EXECUTIVE COMPENSATION above. 
+
+On January 14, 2019, Joseph Grimes was appointed
+as an officer and director of the Company. On January 29, 2019, the Company entered into an agreement with Mr. Grimes (the Grimes
+Agreement pursuant to which Mr. Grimes would sell to the Company certain intellectual property owned by Mr. Grimes in exchange
+for 25,000,000 shares of the Company s Common Stock (the Grimes Shares On March 4, 2020, at Mr. Grimes 
+direction, the Company issued 22,000,000 of the Grimes Shares to Bodhisattva Investment Group (an entity controlled by Mr. Grimes) BIG ).
+On April 20, 2021, Mr. Grimes resigned from all positions within the Company. On November 29, 2021, the Company and Mr. Grimes entered
+into the Mutual General Release and Settlement Agreement pursuant to which Mr. Grimes and BIG agreed to cancel 21,650,000 and retain 350,000
+of the Grimes Shares. The remaining 3,000,000 shares consisting of the Grimes Shares had previously been gifted to several individuals
+by Mr. Grimes. Management has been attempting to enter into cancellation agreements with those shareholders but has only been successful
+in obtaining cancellation agreements from recipients holding an aggregate of 800,000 shares. Management has no assurances that additional
+shares will be cancelled and investors should invest under the presumption that the remaining 2,200,000 shares will be issued and outstanding.
+As additional shares are issued due to capital raising transactions, investors may be diluted and the value of their investment may decrease. 
+
+On January 25, 2022, the Company issued 23,700,000
+common shares at par value for a total of 23,700, which consisted of 22,000,000 shares of Common Stock to Paul Falconer (our CEO and
+the owner of FFO and 1,700,000 shares to FFO for services. 
+
+Effective June 7, 2022, we entered into Consulting
+Agreement with Yee Yui Advisory Limited, a subsidiary of FFO pursuant to which the Company
+issued 650,000 shares to Nicola Yip for consulting services. Ms. Yip is a former director and officer of the Company. 
+
+Effective June 7, 2022, we issued an aggregate
+of 4,172,545 shares of Common Stock to our officers and directors in exchange for previous services provided as officers and directors.
+The shares were issued under the Company s 2022 Stock Incentive Plan. 
+
+On July 21, 2022, Mark Emerson, our current CEO
+and director, purchased 24,472,545 (51 shares from Paul Falconer in a private sale and gained majority control of the Company. 
+
+Effective July 21, 2022, Paul Falconer resigned
+as the CEO and director of the Company and Mark Emerson was appointed as the CEO and director. 
+
+Paul Falconer advanced 11,800 to the Company
+as of December 31, 2022 for the routine operating expenditure. The advance was unsecured, interest free and payable on demand. Paul Falconer
+was the former Chief Executive Officer and director of the Company since the beginning of the last fiscal year for which the Company has
+filed an Annual Report on Form 10-K. 
+
+Mark Emerson advanced 35,850 to the Company as
+of December 31, 2022 for the routine operating expenditure. The advance was unsecured, interest free and payable on demand. Mark Emerson
+is currently the Chief Executive Officer and director of the Company. 
+
+Director Independence 
+
+We are not currently subject to listing requirements
+of any national securities exchange or inter-dealer quotation system which has requirements that a majority of the board of directors
+be independent and, as a result, we are not at this time required to have our Board of Directors comprised of a majority
+of independent directors. 
+
+We currently have not established any committees
+of the Board of Directors. Our Board of Directors may designate from among its members an executive committee and one or more other committees
+in the future. We do not have a nominating committee or a nominating committee charter. Further, we do not have a policy with regard to
+the consideration of any director candidates recommended by security holders. To date, other than as described above, no security holders
+have made any such recommendations. The entire Board of Directors performs all functions that would otherwise be performed by committees.
+Given the present size of our board it is not practical for us to have committees. If we are able to grow our business and increase our
+operations, we intend to expand the size of our board and allocate responsibilities accordingly. 
+
+22 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+Fees Paid 
+
+Audit Fees 
+
+The aggregate fees billed for professional services
+rendered by our principal accountants for the audit of our annual financial statements, review of financial statements included in the
+quarterly reports and other fees that are normally provided by the accountant in connection with statutory and regulatory filings or engagements
+for the year ended December 31, 2022 were 9,500 and 5,000 for the period ended December 31, 2021. 
+
+Audit-Related Fees 
+
+There were no fees billed for assurance and related
+services by our principal accountants that are reasonably related to the performance of the audit or review of the financial statements,
+other than those reported above, for the years ended December 31, 2022 and 2021. 
+
+Tax Fees 
+
+There were no fees billed for professional services
+rendered by our principal accountants for tax compliance, tax advice and tax planning in the years ended December 31, 2022 and 2021. 
+
+All Other Fees 
+
+There were no other fees billed for products or
+services provided by the principal accountants, other than those previously reported above, for the years ended December 31, 2022 and
+2021. 
+
+Audit Committee 
+
+We do not have an Audit Committee; therefore,
+the Board of Directors has considered whether the non-audit services provided by our auditors to us are compatible with maintaining the
+independence of our auditors and concluded that the independence of our auditors is not compromised by the provision of such services.
+Our Board of Directors pre-approves all auditing services and permitted non-audit services, including the fees and terms of those services,
+to be performed for us by our independent auditor prior to engagement. 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+Financial Statements 
+
+The following financial statements are filed with
+this Form 10-K: 
+
+Report of Independent Registered Public Accounting Firm 
+
+Audited Consolidated Balance Sheets at December 31, 2022 and 2021 
+
+Audited Consolidated Statements of Operations for the years ended December 31, 2022 and 2021 
+
+Audited Consolidated Statements of Changes in Stockholders Deficit for the years ended December 31, 2022 and 2021 
+
+Audited Consolidated Statements of Cash Flows for the years ended December 31, 2022 and 2021 
+
+Notes to Audited Consolidated Financial Statements 
+
+23 
+
+Exhibits 
+
+The following exhibits are included with this
+Form 10-K: 
+
+Incorporated by Reference 
+
+Exhibit 
+ Number 
+ 
+ Exhibit Description 
+ 
+ Form 
+ 
+ File No. 
+ 
+ Exhibit 
+ 
+ Filing 
+ Date 
+
+Filed or 
+ Furnished 
+ Herewith 
+ 
+ 3.1 
+ 
+ Articles of Incorporation dated November 6, 2007 
+ 
+ S-1 
+ 
+ 333-159315 
+ 
+ 3.1 
+ 
+ 5/18/09 
+
+3.2 
+ 
+ Articles of Amendment dated May 13, 2014 
+ 
+ 8-K 
+ 
+ 000-54171 
+ 
+ 3.01 
+ 
+ 5/19/14 
+
+3.3 
+ 
+ Articles of Amendment dated September 13, 2017 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 3.3 
+ 
+ 1/28/22 
+
+3.4 
+ 
+ Articles of Amendment dated October 20, 2017 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 3.4 
+ 
+ 1/28/22 
+
+3.5 
+ 
+ Articles of Amendment dated December 4, 2017 (Reverse Split) 
+ 
+ 8-K 
+ 
+ 000-54171 
+ 
+ 10.2 
+ 
+ 2/5/18 
+
+3.6 
+ 
+ Articles of Amendment dated December 4, 2017 (Name Change) 
+ 
+ 8-K 
+ 
+ 000-54171 
+ 
+ 10.1 
+ 
+ 2/5/18 
+
+3.7 
+ 
+ Bylaws 
+ 
+ S-1 
+ 
+ 333-159315 
+ 
+ 3.2 
+ 
+ 5/18/09 
+
+10.1 
+ 
+ Asset Purchase Agreement dated January 29, 2019 between the Company and Bodhisattva Investment Group, LLC 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.1 
+ 
+ 1/28/22 
+
+10.2 
+ 
+ Mutual Release and Settlement Agreement dated November 29, 2021 between the Company and Bodhisattva Investment Group, LLC 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.2 
+ 
+ 1/28/22 
+
+10.3 
+ 
+ Share Cancellation Agreement and Release dated December 2, 2021 between the Company and Christophe Martino 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.3 
+ 
+ 1/28/22 
+
+10.4 
+ 
+ Share Cancellation Agreement and Release dated December 2, 2021 between the Company and Michelle Monohan 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.4 
+ 
+ 1/28/22 
+
+10.5 
+ 
+ Share Cancellation Agreement and Release dated December 2, 2021 between the Company and Aika Patel 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.5 
+ 
+ 1/28/22 
+
+10.6 
+ 
+ Share Cancellation Agreement and Release dated November 30, 2021 between the Company and Baywall Inc. 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.6 
+ 
+ 1/28/22 
+
+10.7 
+ 
+ Share Cancellation Agreement and Release dated February 23, 2022 between the Company and Peter Grimes 
+ 
+ Form 10/A 
+ 
+ 000-54171 
+ 
+ 10.7 
+ 
+ 9/12/22 
+
+10.8 
+ 
+ Share Cancellation Agreement and Release dated February 23, 2022 between the Company and Kirkland Family Trust 
+ 
+ Form 10/A 
+ 
+ 000-54171 
+ 
+ 10.8 
+ 
+ 9/12/22 
+
+10.9 
+ 
+ Consulting Agreement dated effective June 7, 2022 with Falconer Family Office Limited later assigned to Yee Yui Advisory Limited 
+ 
+ Form 10/A 
+ 
+ 000-54171 
+ 
+ 10.9 
+ 
+ 9/12/22 
+
+10.10 
+ 
+ Services Agreement dated August 16, 2018 between the Company and Peter Grimes 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.7 
+ 
+ 1/28/22 
+
+10.11 
+ 
+ Services Agreement dated August 16, 2018 between the Company and Susan Accongio 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.8 
+ 
+ 1/28/22 
+
+10.12 
+ 
+ Services Agreement dated August 16, 2018 between the Company and Karen Andrea Design 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.9 
+ 
+ 1/28/22 
+
+10.13 
+ 
+ Services Agreement dated August 16, 2018 between the Company and Arthur G. Woodward 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.10 
+ 
+ 1/28/22 
+
+24 
+
+10.14 
+ 
+ Services
+ Agreement dated August 1, 2018 between the Company and Erica Presley 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.11 
+ 
+ 1/28/22 
+
+10.15 
+ 
+ Services
+ Agreement dated August 1, 2018 between the Company and Michelle Gregory 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.12 
+ 
+ 1/28/22 
+
+10.16 
+ 
+ Services
+ Agreement dated August 1, 2018 between the Company and Rachell Vasquez 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.13 
+ 
+ 1/28/22 
+
+10.17 
+ 
+ Consulting
+ Agreement dated effective January 13, 2022 with Falconer Family Office Limited 
+ 
+ Form 10 
+ 
+ 000-54171 
+ 
+ 10.14 
+ 
+ 1/28/22 
+
+10.18 
+ 
+ 2022
+ Stock Incentive Plan 
+ 
+ Form 10/A 
+ 
+ 000-54171 
+ 
+ 10.18 
+ 
+ 9/12/22 
+
+10.19 
+ 
+ Software License Agreement dated December 12, 2022 with NYC English, LLC 
+
+X 
+ 
+ 21.1 
+ 
+ List of Subsidiaries 
+
+X 
+ 
+ 31.1 
+ 
+ Rule 13a-14(a) Certification by Principal Executive Officer 
+
+X 
+ 
+ 31.2 
+ 
+ Rule 13a-14(a) Certification by Principal Financial and Accounting Officer 
+
+X 
+ 
+ 32.1 
+ 
+ Section 1350 Certification of Principal Executive Officer 
+
+X 
+ 
+ 32.2 
+ 
+ Section 1350 Certification of Principal Financial and Accounting Officer 
+
+X 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File
+ because its XBRL tags are embedded within the Inline XBRL document) 
+
+X 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document 
+
+X 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+
+X 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+
+X 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document 
+
+X 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+
+X 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted in Inline XBRL, and included in exhibit 101). 
+
+X 
+
+_________________ 
+
+ Management contract or compensatory plan or arrangement. 
+
+ITEM 16. FORM 10-K SUMMARY 
+
+None. 
+
+25 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+LNPR GROUP INC. 
+
+Date: March 31, 2023 
+ By: 
+ /s/ Mark Emerson 
+
+Mark Emerson, Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: March 31, 2023 
+ By: 
+ /s/ Eng Wah Kung 
+
+Eng Wah Kung, Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the date indicated. 
+
+NAME 
+ 
+ TITLE 
+ 
+ DATE 
+
+/s/ Mark Emerson 
+ Mark Emerson 
+ 
+ Director and Chief Executive Officer (Principal Executive Officer) 
+ 
+ March 31, 2023 
+
+/s/ Eng Wah Kung 
+ Eng Wah Kung 
+ 
+ Director and Chief Financial Officer (Principal Financial and Accounting Officer 
+ 
+ March 31, 2023 
+
+26 
+
+LNPR GROUP INC. 
+
+Index to Financial Statements 
+
+As of December 31, 2022 and 2021 
+
+ and for the Years Ended December 31, 2022 and
+2021 
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID 
+ F-2 
+
+Audited Consolidated Balance Sheets 
+ F-3 
+
+Audited Consolidated Statements of Operations 
+ F-4 
+
+Audited Consolidated Statements of Stockholders Deficit 
+ F-5 
+
+Audited Consolidated Statements of Cash Flows 
+ F-6 
+
+Notes to the Audited Consolidated Financial Statements 
+ F-7 
+
+F- 1 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+To the Shareholders and Board of Directors
+of LNPG Group Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated
+balance sheets of LNPR Group Inc. and its subsidiary (the Company as of December 31, 2022 and 2021, and the related consolidated
+statements of operations, changes in stockholders deficit, and cash flows for the years ended December 31, 2022 and 2021, and the
+related notes (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated financial
+statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results
+of its operations and its cash flows for the years ended December 31, 2022 and 2021, in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Going Concern Matter 
+
+The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the consolidated financial statements,
+the Company has suffered recurring losses from operations and has a significant net capital deficiency that raises substantial doubt about
+its ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 2. The consolidated
+financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the
+responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial
+statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United
+States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal
+control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide
+a reasonable basis for our opinion. 
+
+/s/ JTC Fair Song CPA Firm 
+
+ CPA Firm 
+
+We have served as the Company s auditor
+since 2021. 
+
+March 31, 2023 
+
+PCAOB Firm ID: 2747 
+
+F- 2 
+
+LNPR GROUP INC. 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+ AS OF DECEMBER 31, 2022 AND 2021 
+
+December 31, 
+ December 31, 
+
+2022 
+ 2021 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash and cash equivalents 
+
+TOTAL ASSETS 
+
+LIABILITIES AND SHAREHOLDERS' EQUITY (DEFICIT) 
+
+LIABILITIES 
+
+Current liabilities 
+
+Other Payables and Accruals 
+
+Amount due to a director 
+
+TOTAL LIABILITIES 
+
+SHAREHOLDERS' EQUITY (DEFICIT) 
+
+Preferred stock, par value per share; Authorized shares; issued and outstanding - - shares. 
+
+Common Stock, par value per share; Authorized shares; Issued and outstanding and as of December 31, 2022 and December 31, 2021, respectively. 
+
+Capital paid in excess of par value 
+
+Accumulated deficit 
+
+TOTAL SHAREHOLDERS' EQUITY (DEFICIT) 
+
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY (DEFICIT) 
+
+The accompanying notes are an integral
+part of these consolidated financial statements. 
+
+F- 3 
+
+LNPR GROUP INC. 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE
+LOSS 
+
+ FOR THE YEARS ENDED DECEMBER 31, 2022 AND 2021 
+
+Year Ended December 31, 2022 
+ Year Ended December 31, 2021 
+ 
+ Operating Expenses: 
+
+General and Administrative 
+
+Total Operating Expenses 
+
+Net Operating Loss 
+
+Share-based compensation 
+
+Provision for Income Tax 
+
+Net Loss 
+
+Foreign Currency Translation Adjustment 
+
+Comprehensive Loss 
+
+Net Loss Per Common Share - Basic 
+
+Net Loss Per Common Share - Diluted 
+
+Weighted Average Common Shares Outstanding - Basic 
+
+Weighted Average Common Shares Outstanding - Diluted 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 4 
+
+LNPR GROUP INC. 
+
+ CONSOLIDATED STATEMENTS OF SHAREHOLDERS 
+EQUITY (DEFICIT) 
+
+ FOR THE YEARS ENDED DECEMBER
+31, 2022 AND 2021 
+
+Number of Common Shares Issued 
+ Common Stock 
+ Capital Paid in Excess of Par Value 
+ Accumulated Deficit 
+ Total 
+
+Balance at December 31, 2020 
+
+Net loss 
+
+Balance at December 31, 2021 
+
+Cancellation of common stock 
+
+Issuance of common stock 
+
+Net loss 
+
+Balance at December 31, 2022 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 5 
+
+LNPR GROUP INC. 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ FOR THE YEARS ENDED DECEMBER 31, 2022 AND 2021 
+
+Year Ended December 31, 2022 
+ Year Ended December 31, 2021 
+
+Net Loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Share Based Compensation 
+
+Accrued expense and other payable 
+
+Cash used in operating activities 
+
+Cash flows from financing activities: 
+
+Advance from a director 
+
+Net cash from financing activities 
+
+Net increase in cash 
+
+Effects on changes in foreign exchange rate 
+
+Cash at beginning of the year 
+
+Cash at end of the year 
+
+Supplemental disclosure information: 
+
+Income taxes paid 
+
+Interest paid 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 6 
+
+LNPR GROUP INC. 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ FOR THE YEARS ENDED 
+
+ DECEMBER 31, 2022 AND 2021 
+
+potentially dilutive instruments
+outstanding during the years ended December 31, 2022 and 2021. 
+
+shares of par value common stock. 
+
+The following are issuances and cancellations
+of equity securities by the Company during the years ended December 31, 2022 and 2021: 
+
+On November 29, 2021, the Company entered into
+a mutual general release and settlement agreement with Bodhisattva Investment Group to cancel shares previously issued to the
+entity. 
+
+On November 30, 2021, the Company entered into
+a share cancellation agreement with Baywall Inc. to cancel shares previously issued to the entity. 
+
+On December 2, 2021, the Company entered into
+share cancellation agreements with Christophe Martino, Michelle Monohan, and, Aika Patel, individually, to cancel an aggregate of 
+shares previously issued to them. 
+
+As of January 25, 2022, the Company cancelled
+ common shares for a total consideration of and issued common shares at par value for a total of 
+which consisted of shares of Common Stock to Paul Falconer (the Company s former-CEO and director and the owner of Falconer
+Family Office FFO and shares to FFO for services. 
+
+On February 23, 2022, the Company entered into
+a Mutual General Release and Settlement Agreement with Peter Grimes pursuant to which Mr. Grimes agreed to cancel shares previously
+issued to him. 
+
+On February 23, 2022, we entered into a Mutual
+General Release and Settlement Agreement with Kirkland Family Trust pursuant to which the trust agreed to cancel shares previously
+issued to it. 
+
+On July 20, 2022, the Company issued common
+shares at par value for a total of to Nicola Yip, the former director of the Company, for consulting services. 
+
+On July 20, 2022, a total of shares
+at par value for a total of were issued to the directors of the Company for their services under the 2022 Stock Incentive Plan
+which was adopted on June 7, 2022. 
+
+On July 21, 2022, Mark Emerson purchased 24,472,545
+(51 shares from Paul Falconer in a private sale and gained majority control of the Company. Mr. Falconer has resigned as a director
+and officer of the Company. 
+
+SHARE-BASED COMPENSATION 
+
+The following table summarizes the Company's total share-based compensation
+expense recognized in operating overhead expense, as applicable: 
+
+Restricted Common Shares shares awards to consultants for service 
+
+Total Stock-Based Compensation Expense 
+
+As of January 25, 2022, the Company cancelled
+23,350,000 common shares for a total consideration of 23,350 and issued 23,700,000 common shares at par value for a total of 23,700
+which consisted of 22,000,000 shares of Common Stock to Paul Falconer (the Company s former-CEO, director and the owner of FFO and
+1,700,000 shares to FFO for services. 
+
+Effective June 7, 2022, the Company entered into
+Consulting Agreement with Yee Yui Advisory Limited, a subsidiary of FFO pursuant to which the Company issued 650,000 shares to Nicola
+Yip for consulting services. 
+
+Effective June 7, 2022, the Company issued an
+aggregate of 4,172,545 shares of Common Stock to our officers and directors in exchange for previous services provided as officers and
+directors. The shares were issued under the Company s 2022 Stock Incentive Plan. The Shares were fully earned, validly issued, fully
+paid and non-assessable securities of the Company. 
+
+2022 Stock Incentive Plan 
+
+The LNPR Group, Inc. 2022 Stock Incentive Plan
+(the Stock Incentive Plan provides for the issuance of up to Common Stock subject to adjustment as to the number
+and kind of shares. The Stock Incentive Plan authorizes the Company to grant incentive and non-qualified options and to grant restricted
+stock awards and units of the Company s Common Stock. The Board of Directors will be the initial administrator of the Stock Incentive
+Plan and will have the powers and authority set forth in the Stock Incentive Plan to grant options and restricted stock awards. 
+
+Basic weighted average outstanding shares of common stock 
+
+Dilutive effects of common share equivalents 
+
+Dilutive weighted average outstanding shares of common stock 
+
+Net loss per share of common stock - basic and diluted 
+
+Valuation allowance 
+
+Total deferred tax asset 
+
+On November 29, 2021, a total of shares
+held by Bodhisattva Investment Group, a substantial shareholder of the Company, were cancelled. 
+
+NYCEdutec entered into a Software License Agreement
+(the Agreement with NYC English, LLC NYC English ), a Utah limited liability company which is controlled
+by the Company s CEO, Mark Emerson. Pursuant to the Agreement, NYCEdutec is required to make (or arrange for) minimum purchases
+of the Products of 1,000,000 in year one and 1,500,000 in year two. During the fiscal year ended December 31, 2022, there was no purchase
+transaction made by NYCEdutec. 
+
+During the fiscal year ended December 31, 2022,
+the Company issued (i) shares of common Stock to Paul Falconer, the Company s former CEO and director of the Company
+and the owner of FFO and shares to FFO for consulting and director services, (ii) shares of common stock to Nicola
+Yip, the former director and officer of the Company for consulting and director services, shares of common stock to Eng Wah Kung,
+the CFO and the director of the Company for director service. There was no share-based payment made in the fiscal year ended December
+31, 2021. 
+
+Paul Falconer advanced to the Company
+as of December 31, 2022 for the routine operating expenditure. The advance was unsecured, interest free and payable on demand. Paul Falconer
+was the former Chief Executive Officer and director of the Company since the beginning of the last fiscal year for which the Company has
+filed an Annual Report on Form 10-K. 
+
+Mark Emerson advanced to the Company as
+of December 31, 2022 for the routine operating expenditure. The advance was unsecured, interest free and payable on demand. Mark Emerson
+is currently the Chief Executive Officer and director of the Company. 
+
+F- 13 
+
+<EX-10.19>
+ 2
+ lnpr_ex1019.htm
+ SOFTWARE LICENSE AGREEMENT DATED DECEMBER 12, 2022 WITH NYC ENGLISH, LLC
+
+Exhibit 10.19 
+
+NYC ENGLISH 
+
+SOFTWARE LICENSE AGREEMENT 
+
+DECEMBER 12, 2022 
+
+TABLE OF CONTENTS 
+
+Page 
+
+1. APPOINTMENT AS AUTHORIZED NYC ENGLISH Licensee 
+ 2 
+ 
+ 2. OBLIGATIONS OF Licensee 
+ 3 
+ 
+ 3. OBLIGATIONS OF NYC ENGLISH 
+ 5 
+ 
+ 4. PURCHASE ORDER PROCEDURE 
+ 5 
+ 
+ 5. PRICES AND PAYMENT 
+ 6 
+ 
+ 6. SHIPMENT, RISK OF LOSS AND DELIVERY 
+ 7 
+ 
+ 7. REPORTING, RECORDS AND INSPECTION 
+ 7 
+ 
+ 8. LOGO, TRADENAME USE AND LABELING OF SPECIFIED PRODUCTS 
+ 7 
+ 
+ 9. TRADEMARKS AND TRADE NAMES 
+ 7 
+ 
+ 10. TERM AND TERMINATION OF AGREEMENT 
+ 8 
+ 
+ 11. RELATIONSHIP OF THE PARTIES 
+ 9 
+ 
+ 12. INDEMNIFICATION 
+ 10 
+ 
+ 13. WARRANTIES 
+ 10 
+ 
+ 14. EXECUTION OF AGREEMENT AND CONTROLLING LAW 
+ 11 
+ 
+ 15. MISCELLANEOUS 
+ 11 
+
+Exhibit A Schedule of Specified Products 
+ A-1 
+
+Exhibit B Territory 
+ B-1 
+
+Exhibit C Business Plan 
+ C-1 
+
+Exhibit D Sales Forecast 
+ D-1 
+
+NYC ENGLISH 
+
+SOFTWARE LICENSE AGREEMENT 
+
+ NON-EXCLUSIVE NYCEdutec LLC. 
+
+This International Licensee 
+Agreement Agreement is made as of the _12, DECEMBER 2022 , (the Effective Date ),
+by and between NYC ENGLISH, LLC , a Utah limited liability company, USA NYC English ), and NYCEdutec
+LLC. , hereafter referred to as licensee . 
+
+INTRODUCTION 
+
+A. NYC
+English is engaged in the business of developing, distributing and selling products and programs, including the specified products
+and programs listed in Exhibit A hereto. The specified products listed in Exhibit A , as it may be amended or modified from
+time to time by NYC English , are hereafter referred to as Specified Products . This Agreement pertains only to the
+Specified Products and not to any other products which are now, or may hereafter be, developed, licensed or sold by NYC English . 
+
+B. Licensee 
+desires to purchase from NYC English (or otherwise arrange the sale to a third party), and NYC English desires to sell the
+Specified Products. 
+
+C. NYC
+English and licensee desire that licensee act as an independent, Licensee of the Specified
+Products on an exclusive basis in the Territory (as hereafter defined) under the terms and conditions set forth below. 
+
+NOW, THEREFORE, in consideration
+of the foregoing, and of the mutual covenants and agreements hereinafter set forth, NYC English and licensee agree
+as follows: 
+
+1. 
+APPOINTMENT AS AUTHORIZED NYC ENGLISH LICENSEE 
+
+a. 
+ Appointment . NYC English hereby appoints licensee 
+as the non-exclusive Licensee of the Specified Products, solely within the area or areas specified in the attached Exhibit
+B (the Territory ). licensee hereby accepts such appointment on the terms and conditions set forth
+in this Agreement. Licensee hereby represents and warrants to NYC English that Licensee has confirmed
+with its own legal counsel licensed to practice law in each jurisdiction specified on Exhibit B to the effect that (i) this
+Agreement has been duly authorized by licensee ; (ii) this Agreement is legal, valid and enforceable in accordance with its
+terms; (iii) the relationship of licensee and NYC English shall be as set forth in Section 11; and (iv) NYC English 
+may rely on the opinions of such counsel. 
+
+b. 
+ Limitations on Distribution Rights . licensee s
+ appointment is limited to distribution of the Specified Products to consumers within the Territory. Licensee shall not,
+without the prior written consent of NYC English , (i) advertise, promote, market, solicit or actively seek sales of Specified Products
+outside the Territory, (ii) establish an office outside the Territory through which orders for the Specified Products are solicited, (iii)
+sell Specified Products via the Internet except through the licensee s own website to customers in the Territory.
+If licensee receives a purchase order or inquiry, or otherwise becomes aware of any opportunity regarding the potential
+sale of the Specified Products (or any other NYC English products) outside the Territory, Licensee shall promptly
+provide NYC English with written notice thereof and copies of any related documents. 
+
+c. 
+ Sale Conveys No Right to Create, Develop or Modify; Reservation of Rights .
+Specified Products are offered for sale and are sold by NYC English subject in every case to the conditions that such sale does
+not convey any license, expressly or by implication, to develop, modify, license, duplicate or otherwise copy or reproduce any of the
+Specified Products WITHOUT CONSENT FROM NYC ENGLISH LLC. No express or implied license or other rights of any kind are granted to Licensee 
+regarding the Specified Products (or any other NYC English products) and Licensee acknowledges that the Specified
+Products (and all other NYC English products) and all right, title and interest therein, including without limitation any copyright,
+patent, trade secret or other intellectual property right in and to such products are the sole property of NYC English and its
+suppliers. NYC English reserves all rights not expressly granted herein. 
+
+d. 
+ Sub- Licensee s . Licensee shall not,
+without the prior written consent of NYC English , appoint any sub- Licensee s or agents (collectively sub-
+ Licensee s to promote or distribute the Specified Products (or any other NYC English products) within or outside
+the Territory. 
+
+2 
+
+2. 
+OBLIGATIONS OF LICENSEE 
+
+The parties acknowledge that
+each of Licensee s obligations listed below is essential to the relationship proposed and that any breach of the obligation
+will seriously harm NYC English s commercial reputation and goodwill. 
+
+a. 
+ General Obligations of Licensee . 
+
+(i) 
+ Best Efforts Marketing . licensee represents that it has both the willingness and the capacity, financial and otherwise,
+to adequately serve the market for Specified Products in the Territory. licensee covenants that it shall consistently use
+its best efforts to further the promotion, marketing, and distribution of the Specified Products in the Territory. 
+
+(ii) 
+ Competing Products . Unless otherwise authorized with the written consent of NYC English , licensee shall refrain
+from, and shall cause its affiliates, sub- Licensee s, agents and representatives to refrain from, selling, distributing,
+marketing, advertising, promoting the sale of or soliciting purchase orders for, directly or indirectly, any product that, in NYC English s 
+reasonable judgment, is competitive with or similar to the Specified Products. The obligations of licensee under this Section
+2(a)(ii) shall survive the expiration or earlier termination of this Agreement for a period of twelve (12) months. Licensee 
+acknowledges and agrees that this Section 2(a)(ii) is reasonable and necessary to protect the legitimate interests of NYC English 
+because of the relationships with the consumers of its products, marketing and know-how and market and product knowledge that licensee 
+will acquire in connection with its activities under this Agreement and because of licensee s access to Proprietary
+Information of NYC English . Notwithstanding the foregoing, licensee is encouraged to sell and offer non-competing
+products and not to rely solely on this Agreement and the sale of the Specified Products as its sole source of income. Licensee 
+hereby represents and warrants that it is customarily engaged in an independently established trade, occupation, profession, or business,
+and that it advertises for its independent business or trade and that this Agreement is not licensee s sole source
+of income. 
+
+(iii) 
+ Conduct of Business . licensee agrees: (a) to conduct its business in a manner that reflects favorably at all
+times on the Specified Products and the good name, goodwill and reputation of NYC English ; (b) not to engage in any deceptive,
+misleading or unethical practices that are or might be detrimental to NYC English , the Specified Products, or the public, including
+but not limited to disparagement of NYC English or the Specified Products; (c) to make no false or misleading representations
+with regard to NYC English or the Specified Products; (d) not to publish or employ or cooperate in the publication or employment
+of any misleading or deceptive advertising material; (e) to make no representations, warranties or guarantees to customers or to
+the trade with respect to the specifications, features or capabilities of the Specified Products which are inconsistent with the literature
+distributed by NYC English , including all warranties and disclaimers contained in such literature; and (f) not to sell the
+Specified Products to any dealer or organization that engages in illegal or deceptive trade practices such as bait and switch techniques
+or any other practices proscribed under law or this section. 
+
+(iv) 
+ Technical Capability; Customer Support . Licensee shall have the technical capability, including, without limitation,
+business phone lines, internet connections and other technical equipment to enable it to promote, market and advertise to consumers the
+features and capabilities of the Specified Products and the differences between such products and competing products. Licensee 
+shall be the primary point of contact on all technical issues and customer support for the Specified Products sold in the Territory or
+by Licensee . Licensee shall employ a sufficient number of personnel having the knowledge and training necessary
+to cause effective distribution, technical assistance and customer support for the Specified Products commensurate Licensee s 
+obligations under this Agreement. Licensee shall also hire and maintain a sufficient number of personnel to provide customer
+service and shipping services in connection with the distribution of the Specified Products. Licensee agrees to conduct
+or provide for any training of its personnel which may be necessary to impart such knowledge and shall extend complete cooperation to
+ NYC English in any product education programs which NYC English may establish. 
+
+(v) 
+ Financial Condition . Licensee warrants and represents that it is in good financial condition, solvent and able to
+pay its bills when due. Licensee shall maintain and employ in connection with Licensee s business under
+this Agreement such working capital and net worth as may be required in the reasonable opinion of NYC English to enable Licensee 
+to carry out and perform all of Licensee s obligations and responsibilities under this Agreement; and from time to
+time, on reasonable notice by NYC English , Licensee shall furnish such financial reports and other financial data
+as NYC English may reasonably request as necessary to determine Licensee s financial condition. 
+
+3 
+
+(vi) 
+ Adaptation for Local Market . Licensee may, at its sole cost and expense, translate or rephrase, if necessary, the
+advertising and promotional materials of the Specified Products into the language or phraseology of the Territory. Licensee 
+shall consult with NYC English as to such changes that may be required to the advertising and promotional materials of the Specified
+Products pursuant to this Section 2(a)(vii), and shall obtain NYC English s prior written consent to each such change. Licensee 
+acknowledges and agrees that, unless otherwise agreed by NYC English and notwithstanding any other provision of this Agreement,
+ NYC English shall not have any obligation to warrant or repurchase any Specified Products so modified by Licensee .
+The copyright to all translations and alterations for the Specified Products shall remain the sole property of NYC English , and
+ Licensee hereby agrees to take all steps necessary to provide copyright protection of the translations in the name of NYC
+English , and to assign to NYC English any rights it may have therein. 
+
+(vii) 
+ Market Information and Planning; Consumer Relationships . Licensee shall promptly advise NYC English concerning
+any market information that may come to Licensee s attention respecting NYC English, the Specified Products, NYC English s
+market position, or the continued competitiveness of the Specified Products in the marketplace, including but not limited to charges,
+complaints, or claims by consumers, or other persons, about NYC English or the Specified Products. Licensee shall
+reasonably resolve all consumer complaints related to the Specified Products . NYC English and Licensee shall reasonably
+agree on any credits resulting from any such complaints; provided, however, Licensee shall not resolve any complaint (or
+group of related/similar complaints) with any party(ies) relating to Specified Products, claims or damages in excess of US 1,000.00,
+in the aggregate, without the prior written consent of NYC English . Licensee shall confer from time to time, at the
+request of NYC English, on matters relating to market conditions, sales forecasting and product planning. 
+
+(viii) 
+ Compliance with Laws . Licensee shall be responsible for compliance with all requirements established by governmental
+authorities within the Territory, including but not limited to customs and registration requirements and technical product standards,
+paying any and all customs charges and duty fees, and any and all other legal or other requirements governing the use, importation, exportation,
+re-exportation, sale, distribution and advertising of the Specified Products in the Territory or which are otherwise necessary or useful
+for the implementation of this Agreement. Without limitation of the foregoing, Licensee shall not engage in any unfair or
+illegal trade practices. Licensee will provide to NYC English such documentation and certifications as may be required
+for compliance with the export control laws of the United States. Licensee shall comply with all applicable national, state,
+regional and local laws and regulations in performing its duties hereunder and in any of its dealings with respect to the Specified Products.
+ Licensee acknowledges that NYC English is subject to certain United States laws, including but not limited to the
+Foreign Corrupt Practices Act of 1977 and the Organization for Economic Cooperation and Development s Convention on Combating Bribery
+of Foreign Public Officials in International Business Transactions and any amendments thereto, which apply to activities carried out on
+ NYC English s behalf outside the United States. Licensee agrees to (a) neither to take nor omit to take
+any action if such act or omission might cause NYC English to be in violation of any such laws; and (b) be solely responsible for
+compliance with all applicable United States export laws, rules, and regulations. In distributing the Specified Products, Licensee 
+agrees to keep such books and records and to take such other actions as may be required by applicable laws, rules, and regulations. Without
+limiting the foregoing, Licensee shall not distribute or license the Specified Products (i) in any country that is subject
+to the United States export restrictions, or to any national of any such country, wherever located, who intends to transmit or transport
+the Specified Products back to such country, or (ii) to any person or entity who has been prohibited from participating in United States
+export transactions by any federal agency of the United States government. 
+
+(ix) 
+ Governmental Approval . If any approval with respect to this Agreement, or the registration thereof, shall be required at any time
+during the term of this Agreement, with respect to giving legal effect to the Agreement in the Territory, or with respect to compliance
+with exchange regulations or other requirements so as to assure the right of remittance abroad of US dollars pursuant to Section 4 hereof,
+ Licensee shall immediately take whatever steps may be necessary in this respect, and any charges incurred in connection
+therewith shall be for the account of Licensee . Licensee shall keep NYC English currently informed of its
+efforts in this connection. NYC English shall be under no obligation to ship Specified Products to Licensee hereunder
+until Licensee has provided NYC English with satisfactory evidence that such approval or registration is not required,
+or that it has been obtained. 
+
+(x) 
+ Non-solicitation of NYC English Employees . During the term of the Agreement, including any renewal term, and for a period of twelve
+(12) months after termination of this Agreement, Licensee shall not, directly or indirectly, solicit and hire any person
+who, during the year immediately preceding such hiring, has been an employee of NYC English . 
+
+4 
+
+b. 
+ Advertising, Marketing and Promotion by Licensee .
+ Licensee hereby commits, at its own cost and expense, to undertake the following advertising, marketing and promotional
+activities: 
+
+(i) 
+ Advertising/Public Relation . Licensee shall develop and execute an advertising campaign reasonably acceptable to
+ NYC English ; and 
+
+(ii) 
+ Marketing/Promotional Materials . Licensee shall develop a targeted marketing plan to aid in the sale of the Specified
+Products reasonably acceptable to NYC English . 
+
+c. 
+ Submission of Business Plan . No later than 60 days following
+the Effective Date, Licensee shall submit to NYC English a detailed marketing plan in the form substantially set
+forth in the attached Exhibit C (the Business Plan ). Such Business Plan shall include the obligations set
+forth in Sections 2(b) and 2(d) and describe in detail Licensee s advertising and marketing efforts planned with respect
+to the distribution of the Specified Products. 
+
+d. 
+ Minimum Commitment . During the Initial Term hereof, Licensee 
+shall make (or arrange for) minimum purchases of the Specified Products in accordance with the sales forecast set forth in Exhibit
+D (the Sales Forecast ). Such Sales Forecast shall contain a written forecast of the minimum number of units of
+each Specified Product, on a product-by-product basis, that Licensee commits to purchase (or arrange to be purchased) each
+quarter during the term of this Agreement . Licensee agrees that the amounts set forth in the Sales Forecast for each quarter
+shall be treated as separate and distinct obligations and shall not be cumulative in evaluating Licensee s performance
+hereunder. The parties acknowledge and agree that such minimum purchase requirements have been mutually established after due consideration
+of the market for the Specified Products in the Territory and represent the minimum quantities that a Licensee should be
+able to sell in the Territory using reasonable efforts. In the event that Licensee fails to meet the minimum purchase requirements
+set forth in the Sales Forecast, NYC English may elect to (i) terminate this Agreement pursuant to Section 10(c), (ii) modify
+the Territory, or (iii) waive such minimum purchase requirements for the relevant period. 
+
+3. 
+OBLIGATIONS OF NYC ENGLISH 
+
+a. 
+ Delivery of Specified Products . The parties hereto understand
+and agree that NYC English is the sole party responsible for filling the orders received from Licensee for the Specified
+Products. The parties agree that NYC English may at any time during the term of this Agreement designate a third party to produce
+the Specified Products in accordance with the quality standards established by NYC English . Notwithstanding anything contained
+herein to the contrary, NYC English may do any of the following without notice and without liability to Licensee : 
+
+(i) 
+Alter the specifications for any Specified Product or make any other improvements or modifications thereto; 
+
+(ii) 
+Discontinue the development of any improvements or modifications of a Specified Product, whether or not such improvements or modifications
+have been announced publicly and discontinue the sale of any Specified Product; and 
+
+(iii) 
+Commence the development and distribution of new products or a new version of a Specified Product having features which may make any Specified
+Product wholly or partially obsolete, whether or not Licensee is granted any distribution rights in respect of such new
+products. 
+
+b. 
+ Assistance . NYC English agrees to provide Licensee 
+with reasonable assistance of NYC English s technical, sales, and service personnel as NYC English deems appropriate.
+Except as otherwise agreed by NYC English and Licensee , such assistance shall be without charge to the Licensee . 
+
+4. 
+PURCHASE ORDER PROCEDURE 
+
+a. 
+ Initial Purchase Requirement . Unless otherwise set forth
+on Exhibit A , there shall not be an initial purchase requirement upon the execution of this Agreement. 
+
+5 
+
+b. 
+ Orders and Acceptance . Licensee shall order
+Specified Products by delivering a purchase order to NYC English by through the Licensee Store website made available
+by NYC English (the Store Website or such other order process established by NYC English . All orders for
+Specified Products placed in accordance with the instructions set forth on the Store Website. All such orders shall be subject to acceptance
+by NYC English at its principal place of business and shall not be binding until the earlier of (x) such acceptance; or (y) shipment,
+and then only as to the portion of the order actually shipped. All orders placed by Licensee shall be subject to the terms
+of this Agreement as well as the terms and conditions of the Store Website. In the event of a conflict between the information contained
+in any purchase order and this Agreement, this Agreement shall control. 
+
+c. 
+ Terms and Conditions . The terms and conditions of this
+Agreement and of the applicable NYC English invoice or confirmation will apply to each order accepted or shipped by NYC English 
+hereunder. The terms and conditions of Licensee s form of purchase order or other business forms will not apply to
+any order notwithstanding NYC English s acknowledgement or acceptance of such order. Licensee hereby waives
+any such provisions inconsistent with this Agreement. 
+
+d. 
+ Cancellation of Orders . NYC English reserves the
+right to cancel any orders placed by Licensee and accepted by NYC English as set forth above, or to refuse or delay
+shipment thereof, if Licensee (i) fails to make any payment as provided herein or under the terms of payment set forth
+in any invoice or otherwise agreed to by NYC English and Licensee , (ii) fails to meet credit or financial requirements
+established by NYC English, including any limitations on allowable credit, or (iii) otherwise fails to comply with the terms
+and conditions of this Agreement. NYC English also reserves the right to discontinue the development or sale of any or all of the
+Specified Products at any time, and to cancel any orders for such discontinued products without liability of any kind to Licensee 
+or to any other person. No such cancellation, refusal or delay will be deemed a termination (unless NYC English so advises Licensee or breach of this Agreement by NYC English . 
+
+5. 
+PRICES AND PAYMENT 
+
+a. 
+ Prices . NYC English agrees to sell the Specified
+Products and Licensee agrees to purchase (or arrange for purchase) such products at the prices set forth in Exhibit A 
+attached hereto. NYC English shall have the right, from time to time, at its sole discretion, to change the list of the Specified
+Products. In any such instance, NYC English shall issue a new Exhibit A to Licensee reflecting such change,
+which shall, as of the effective date stated thereon, supersede the prior Exhibit A . Notwithstanding the foregoing, NYC English 
+shall only have the right to change the prices in Exhibit A at any time following the Initial Term of this Agreement following
+thirty (30) days prior written notice to Licensee . The difference between Licensee s purchase price
+for the Specified Products and Licensee s selling price to Licensee s customers shall be Licensee s 
+sole remuneration for the sale of the Specified Products. 
+
+b. 
+ Taxes, Tariffs, Fees . NYC English s prices
+to Licensee do not include any national, state or local sales, use, value-added or other taxes, customs, duties or similar
+fees which NYC English may be required to pay or collect upon the sale or delivery of Specified Products or upon collection of
+the sales price. Should any such tax or levy be made, Licensee agrees to promptly pay the same and indemnify NYC English 
+for any claim for such tax or levy demanded. Licensee represents and warrants to NYC English that all Specified Products
+acquired hereunder are for redistribution in the ordinary course of Licensee s business, and Licensee 
+agrees to provide NYC English with appropriate resale certificate numbers and other documentation satisfactory to the applicable
+taxing authorities to substantiate any claim of exemption from any such taxes or fees. 
+
+c. 
+ Payment Terms . All payments shall be made in United States
+Dollars, free of any withholding tax, currency control or other restriction to NYC English at the address designated by NYC
+English . Unless otherwise agreed to by NYC English in writing, at the time of submission of any order for Specified Products
+purchased hereunder, Licensee shall pay in cash or by wire transfer the amount of the aggregate purchase price of the Specified
+Products ordered (plus any applicable taxes, shipping and other charges) at the time of the order. Payments made by wire transfer shall
+be made to NYC English s bank account as directed by NYC English from time to time. 
+
+d. 
+ Credit Terms . In lieu of payment for the Specified Products
+pursuant to section 4(c) hereof, NYC English may, by written notice to Licensee , allow Licensee to
+purchase Specified Products on open account, with payment due thirty (30) days from the date of invoice. 
+
+e. 
+ Acceleration for Default . NYC English reserves
+the right, upon written notice to Licensee , to declare all sums on open account immediately due and payable in the event
+of a breach by Licensee of any of its obligations to NYC English , including the failure of Licensee 
+to comply with credit terms and limitations. Furthermore, NYC English reserves the right at all times to vary, change or limit
+the amount or duration of credit to be allowed to Licensee , either generally or with respect to any particular order. 
+
+6 
+
+f. 
+ Attorneys Fees/Interest . In the event that it
+becomes necessary for NYC English to institute litigation to collect sums owed by Licensee for Specified Products
+purchased hereunder or to otherwise enforce NYC English rights hereunder, Licensee shall be responsible for reasonable
+attorneys fees and other costs incurred by NYC English in connection with such collection efforts (litigation or otherwise).
+Interest shall accrue on any delinquent amounts owed by Licensee for Specified Products at the greater of 1.5 per month
+or the maximum rate permitted under applicable law. 
+
+6. 
+SHIPMENT, RISK OF LOSS AND DELIVERY 
+
+a. 
+ Delivery . NYC English will use reasonable efforts
+to meet Licensee s requested delivery schedules for Specified Products, but NYC English reserves the right
+to refuse, cancel or delay shipment to Licensee when Licensee s credit is impaired, when Licensee 
+is delinquent in payments, or fails to meet other credit or financial requirements established by NYC English , or when Licensee 
+has failed to perform its obligations under this Agreement. NYC English shall not be liable for any damages, direct, consequential,
+special or otherwise, to Licensee or to any other person for failure to deliver or for any delay or error in delivery of
+Specified Products for any cause whatsoever. 
+
+b. 
+ Force Majeure . NYC English shall not be responsible
+for any failure to perform due to unforeseen circumstances or to causes beyond NYC English s reasonable control, including
+but not limited to acts of God, war, riot, embargoes, legal injunctions or restrictions, acts of civil or military authorities, fire,
+floods, accidents, strikes, or shortages of transportation, facilities, fuel, energy, labor or materials. In the event of any such delay,
+ NYC English may defer the delivery date for a period equal to the time of such delay. 
+
+7. 
+REPORTING, RECORDS AND INSPECTION 
+
+a. 
+ Sales Report . During the term of this Agreement, Licensee 
+shall provide to NYC English a written report each month showing, for the month immediately preceding the report, Licensee s 
+shipments of Specified Products by US dollar volume, both in the aggregate and for such geographic areas and product or other categories
+as NYC English may designate from time to time. Licensee shall also report to NYC English its current inventory
+levels of Specified Products, in the aggregate and by product, as frequently as NYC English reasonably requests. 
+
+b. 
+ Reports of Alleged Claims . Licensee shall
+notify NYC English in writing of any claim or proceeding involving advertisement or distribution of the Specified Products by Licensee ,
+including claims asserting infringement of any intellectual property rights by the Specified Products, within ten (10) days after Licensee 
+learns of such claim or proceeding. Licensee shall also report promptly to NYC English all claimed or suspected product
+defects. 
+
+c. 
+ Maintenance of Records . Licensee shall
+maintain for at least two (2) years its records, contracts and accounts relating to distribution of the Specified Products, and shall
+permit examination thereof by authorized representatives of NYC English at all reasonable times. 
+
+8. 
+LOGO, TRADENAME USE AND LABELING OF SPECIFIED PRODUCTS 
+
+Licensee shall not remove, alter,
+cover or obfuscate any logo, trademark notice or other proprietary rights notices placed or embedded by NYC English on or in any
+Specified Products. 
+
+9. 
+TRADEMARKS AND TRADE NAMES 
+
+a. 
+ Rights of NYC English . Licensee hereby
+recognizes that all right, title and interest in and to the trademarks, trade names, and logos (the Marks used in
+connection with the marketing, sale and distribution of the Specified Products are the exclusive rights of NYC English , or entities
+affiliated with NYC English , including, without limitation, those entities with whom NYC English has licensing arrangements.
+No right in or license to any Mark is granted by or is to be inferred from any provision in this Agreement . Licensee shall
+not take any action which jeopardizes NYC English s rights in the Marks. Licensee shall not register, directly
+or indirectly, any trademarks, trade names, corporate names or logos which are identical or confusing similar to the Marks or any translations
+thereof. Licensee shall not include or incorporate NYC English s name or any of its products names (or
+any similar to or confusingly similar names) in its website or e-mail address. Licensee shall, upon NYC English s 
+request, execute any instruments that may be required to register, maintain or renew the registration of any of the Marks in the Territory. 
+
+7 
+
+b. 
+ Use by Licensee . NYC English hereby grants
+to Licensee , and Licensee hereby accepts from NYC English , a nonexclusive, nontransferable, and royalty
+free right to use NYC English s trademarks, trade names and logos applied to the Specified Products, such use being solely
+for the purpose of promoting and marketing the Specified Products as set forth in this Agreement. Licensee s use of
+the Mark s shall be subject to NYC English s review and approval. Licensee has paid no consideration
+for the use of NYC English s Marks and nothing contained in this Agreement shall give Licensee any interest
+in such Marks. Licensee agrees not to attach any additional trademarks, logos or trade designations to any Specified Product.
+ Licensee further agrees not to affix any NYC English trademark, logo or trade name to any non-NYC English products. 
+
+c. 
+ After Termination or Expiration . Upon expiration or any
+termination of this Agreement, Licensee shall immediately cease all display, advertising and use of all NYC English 
+Marks and shall not thereafter use, advertise or display any name, mark or logo which is, or any part of which is, similar to or confusing
+with any trademark, trade name, corporate name or logo associated with any of the Specified Products or any other product sold, marketed,
+distributed or used by NYC English or any of its affiliated entities. 
+
+10. 
+TERM AND TERMINATION OF AGREEMENT 
+
+a. 
+ Term . Unless terminated earlier in accordance with the
+terms and conditions hereof, this Agreement shall commence on the Effective Date and continue until December 31, 2024 (the Initial
+Term ). In the event that NYC English continues to fulfill orders following the Initial Term without agreeing to a renewal
+term pursuant to Section 10(b), such orders shall only be fulfilled on an order by order basis (but still subject to the terms of this
+Agreement) and NYC English may cancel this Agreement in any such event at any time. 
+
+b. 
+ Renewal . Unless terminated as set forth below, this Agreement
+may be renewed thereafter by mutual written agreement of the parties. Any renewal term shall be made only pursuant to a writing signed
+by NYC English and Licensee and shall set forth, among other things, new minimum purchase requirements, the attachment
+of amended Exhibits and a certificate of an officer of Licensee as to its full compliance with this Agreement through
+the date thereof. Other than as revised pursuant to any such writing, the remaining provisions of this Agreement shall continue in full
+force and effect. 
+
+c. 
+ NYC English s Right to Terminate . NYC English 
+may immediately terminate and/or temporarily suspend this Agreement (in its entirety or with respect to portions of the Territory or portions
+or all orders for Specified Products, in NYC English s sole discretion) at any time prior to the termination of the Initial Term
+or thereafter in the event that: 
+
+(i) 
+ Monetary Default . Licensee defaults in any payment due hereunder and such default continues unremedied for a period
+of ten (10) days; 
+
+(ii) 
+ Specified Defaults . Licensee is in default under any of the following Sections: 2(a)(ii) (Competing Products), 2(a)(v)
+(Financial Condition), 2(a)(viii) (Compliance with Laws), 2(d) (Minimum Purchase Commitment); 4(a) (Initial Purchase Requirement), 15(d)
+(Assignment), or 15(g) (Confidentiality); 
+
+(iii) 
+ Other Default . Licensee fails to perform any other obligation, warranty, duty or responsibility or is in default
+with respect to any material term or condition undertaken by Licensee under this Agreement and such failure or default continues
+unremedied for a period of thirty (30) days following written notice by NYC English ; 
+
+(iv) 
+ Insolvency . A receiver is appointed for Licensee or its property; Licensee makes an assignment for
+the benefit of its creditors; any proceedings are commenced by, for or against Licensee under any bankruptcy, insolvency,
+debtor s relief or other similar law; or Licensee is liquidated, dissolved, or otherwise ceases the transaction of
+business; 
+
+(v) 
+ Misrepresentation . NYC English discovers that Licensee has made a material misrepresentation herein or in
+any materials provided by Licensee or its agents to NYC English ; 
+
+(vi) 
+ Legality . Upon the enactment, enforcement or adoption of any laws, rules, regulations or governmental policies or other change
+in circumstances that makes it illegal, impossible or impracticable to export the Specified Products to the Territory as contemplated
+in this Agreement; 
+
+(vii) 
+ Termination of Specified Products . NYC English withdraws the Specified Products from Licensee in the Territory;
+or 
+
+(viii) 
+ Change in Management . Licensee is merged, consolidated, sells all or substantially all of its assets, or implements
+or suffers any substantial change in management or control. 
+
+8 
+
+d. 
+ Licensee s Right to Terminate . Licensee 
+may terminate this Agreement at any time prior to the termination of the Initial Term or thereafter in the event that: 
+
+(i) 
+ Default . NYC English fails to perform any obligation, warranty, duty or responsibility or is in default with respect to
+any material term or condition undertaken by NYC English under this Agreement and such failure or default continues unremedied
+for a period of thirty (30) days following written notice by NYC English ; and 
+
+(ii) 
+ Insolvency . A receiver is appointed for NYC English or its property; NYC English makes an assignment for the benefit
+of its creditors; any proceedings are commenced by, for or against NYC English under any bankruptcy, insolvency, debtor s
+relief or other similar law; or NYC English is liquidated, dissolved, or otherwise ceases the transaction of business. 
+
+e. 
+ Pending Orders . In the event that notice of termination
+of this Agreement is given, NYC English shall be entitled to reject all or part of any orders received from Licensee 
+after notice but prior to the effective date of termination if availability of the Specified Products is insufficient at that time to
+meet the needs of NYC English and its customers fully. In any case, NYC English may limit any shipments to Licensee .
+Notwithstanding any credit terms made available to Licensee prior to such notice, any Specified Products shipped thereafter
+shall be paid for by certified or cashier s check or wire transfer prior to shipment. 
+
+f. 
+ Effect of Termination . Licensee agrees
+that in case of termination under Sections 10(c) all of Licensee s rights to distribute and sell Specified Products
+shall cease as of the date of such termination, except that Licensee may sell such Specified Products in Licensee s
+possession that NYC English declines to repurchase pursuant to subsection 10(f)(i), below. Upon termination of this Agreement: 
+
+(i) 
+ NYC English s Option to Repurchase Inventory . NYC English , or a successor Licensee designated by NYC
+English , may purchase any or all Specified Products then in Licensee s possession at prices not greater than the
+prices paid by Licensee for such products (or, if the products are not in unopened factory sealed boxes, 50 of such prices).
+Upon receipt of any Specified Products so purchased from Licensee , NYC English will issue an appropriate credit to
+ Licensee s account. 
+
+(ii) 
+ Acceleration of Credit Purchases . The due date of all outstanding invoices for the Specified Products shall automatically be accelerated
+so they become due and payable on the effective date of termination, even if longer terms had been provided previously. All orders or
+portions thereof remaining unshipped as of the effective date of termination shall automatically be cancelled. 
+
+(iii) 
+ Sub- Licensee s . In case this Agreement shall expire or be terminated for any reason, NYC English shall
+thereupon, at its option, have the right to succeed to Licensee s interests under any agreements, rights and relations
+of Licensee with sub- Licensee s appointed by Licensee with regard to the sale of the Specified
+Products and all such agreements shall contain a clause to make this provision effective in favor of NYC English . 
+
+(iv) 
+ Attorneys Fees . In the event any claim is brought by either party asserting that the termination of this Agreement by the
+other party was wrongful, the prevailing party in such litigation shall be entitled to recover from the other party all the costs, attorneys 
+fees and other expenses incurred by such prevailing party in the litigation. 
+
+g. 
+ Survival of Payment Obligations . NYC English s 
+rights and Licensee s obligations to pay NYC English all amounts due hereunder, as well as Licensee s 
+obligations under Sections 2, 5, 7, 8, 9, 11, 12, 13, 14 and 15 shall survive termination or expiration of this Agreement. 
+
+11. 
+RELATIONSHIP OF THE PARTIES 
+
+Licensee s 
+relationship with NYC English during the term of this Agreement shall be that of an independent contractor. Licensee 
+and its employees, agents and representatives shall under no circumstances be considered agents, sub-contractors, partners, joint venturers
+or representatives of NYC English . Licensee shall not act or attempt to act, or represent itself, directly or by
+implication, as agent, sub-contractors, joint venturer, partner or representative of NYC English , or in any manner assume or attempt
+to assume or create any obligation or liability of any kind, nature or sort, express or implied, on behalf of or in the name of NYC
+English . The relationship created by this Agreement does not constitute the granting of a franchise or license agreement to Licensee 
+by NYC English , except that Licensee is permitted to use the NYC English s marks on promotional materials
+for products in accordance with the terms hereof, and no franchise statute, law, regulation or rule is intended to or has been applied
+by the parties for such purposes except as to the use of the marks, nor shall any such franchise, statute, law, regulation or rule be
+deemed or construed to apply to the formation, operation, administration or termination of this Agreement. Licensee will
+not, without NYC English s prior written consent, register as NYC English s Licensee or agent in the
+Territory. 
+
+9 
+
+12. 
+INDEMNIFICATION 
+
+Licensee shall
+indemnify, defend and hold harmless NYC English and its members, managers, directors, officers, employees and agents and the successors
+and assigns of any of the foregoing (each a NYC English Indemnitee from any and all claims, losses, costs, liabilities
+or expenses, including, without limitation, attorneys fees and other expenses of litigation (a Liability resulting from a claim, suit or proceeding made or brought by a third party against a NYC English Indemnitee arising out of (a)
+any acts or omissions of Licensee or its employees and agents in the distribution or marketing of Specified Products or
+otherwise relating to the performance of this Agreement, (b) breach of the Licensee representations, warranties or covenants
+set forth in this Agreement, or (c) the negligence or willful misconduct of Licensee or its sub- Licensee 
+s, employees and agents. 
+
+LICENSEE AGREES
+THAT NYC ENGLISH S TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE FEES PAID BY LICENSEE TO NYC
+ENGLISH FOR THE SPECIFIED PRODUCTS INVOLVED. IN NO EVENT WILL NYC ENGLISH , ITS SUBSIDIARIES, ITS ASSOCIATED COMPANIES, OR NYC
+ENGLISH S LICENSORS BE LIABLE TO LICENSEE FOR CONSEQUENTIAL (INCLUDING WITHOUT LIMITATION ANY LOSS OF PROFITS OR BUSINESS
+OPPORTUNITIES), EXEMPLARY, INCIDENTAL OR INDIRECT OR PUNITIVE DAMAGES OR COSTS (INCLUDING LEGAL FEES AND EXPENSES) OR LOSS OF GOODWILL
+OR PROFIT IN CONNECTION WITH THE SUPPLY, USE OR PERFORMANCE OF OR INABILITY TO USE THE SPECIFIED PRODUCTS, OR NON-PERFORMANCE OF ANY SERVICES
+PROVIDED HEREUNDER (INCLUDING WITHOUT LIMITATION SUPPORT SERVICES AND PROFESSIONAL SERVICES), OR IN CONNECTION WITH ANY CLAIM ARISING
+FROM THIS AGREEMENT, EVEN IF NYC ENGLISH , ITS SUBSIDIARIES, ITS ASSOCIATED COMPANIES, OR NYC ENGLISH S LICENSORS HAVE
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR COSTS. 
+
+13. 
+WARRANTIES 
+
+a. 
+ Limited Warranty . NYC English warrants to Licensee 
+that (a) NYC English has full authority to execute and perform this Agreement; (b) this Agreement has been duly executed and delivered
+by NYC English and constitutes the legal, enforceable and binding obligation of NYC English ; (c) NYC English s execution
+and performance of this Agreement will not violate any Utah state laws or breach any other agreement; and (d) no approval, action or authorization
+by any Utah governmental authority or agency is required for NYC English s execution and performance hereof or, if it is,
+such approval, action or authorization has been obtained and written evidence thereof has been provided to Licensee . All
+Specified Products provided by NYC English to Licensee are tested before being made available; however, there is
+no guarantee or warranty of any kind that these Specified Products will meet the needs of Licensee or Licensee s 
+customers. 
+
+NYC ENGLISH MAKES NO
+WARRANTIES OR REPRESENTATIONS AS TO PERFORMANCE OF THE SPECIFIED PRODUCTS TO LICENSEE OR TO ANY OTHER PERSON, EXCEPT AS SET FORTH
+IN NYC ENGLISH S LIMITED WARRANTY ACCOMPANYING DELIVERY OF THE SPECIFIED PRODUCTS Limited Warranty ).
+ NYC ENGLISH RESERVES THE RIGHT TO CHANGE THE WARRANTY SET FORTH IN SUCH LIMITED WARRANTY, OR OTHERWISE, AT ANY TIME, WITHOUT FURTHER
+NOTICE AND WITHOUT LIABILITY TO LICENSEE OR TO ANY OTHER PERSON. 
+
+b. 
+ Limitation of Warranties . Licensee warrants
+to NYC English that (a) Licensee has full authority to execute and perform this Agreement; (b) this Agreement has
+been duly executed and delivered by Licensee and constitutes the legal, enforceable and binding obligation of Licensee ;
+(c) Licensee s execution and performance of this Agreement will not violate any law or breach any other agreement;
+and (d) no approval, action or authorization by any governmental authority or agency is required for Licensee s execution
+and performance hereof or, if it is, such approval, action or authorization has been obtained and written evidence thereof has been provided
+to NYC English . 
+
+LICENSEE SHALL MAKE
+NO WARRANTY, GUARANTEE OR REPRESENTATION, WHETHER WRITTEN OR ORAL, ON NYC ENGLISH S BEHALF. TO THE EXTENT PERMITTED BY APPLICABLE
+LAW, ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR
+PURPOSE, ARE HEREBY EXCLUDED; AND THE LIABILITY OF NYC ENGLISH , IF ANY, FOR DAMAGES RELATING TO ANY ALLEGEDLY DEFECTIVE PRODUCT
+SHALL BE LIMITED TO THE ACTUAL PRICE PAID BY THE Licensee FOR SUCH PRODUCT AND SHALL IN NO EVENT INCLUDE INCIDENTAL OR CONSEQUENTIAL
+DAMAGES OF ANY KIND. 
+
+10 
+
+14. 
+EXECUTION OF AGREEMENT AND CONTROLLING LAW 
+
+This Agreement shall become
+effective only after it has been signed by Licensee and has been accepted by NYC English at its principal place of
+business. It shall be governed by and construed in accordance with the laws of the State of Utah, United States, without giving effect
+to the conflicts of law provisions thereof. To the extent applicable, the parties waive the application of the United Nations Convention
+on Contracts for the International Sale of Goods. In the event that any of the provisions of this Agreement shall be held by a court or
+other tribunal of competent jurisdiction to be unenforceable or would cause the relationship of NYC English and Licensee 
+to be more than that of an independent contractor (i.e., franchise, partner or other unintended relationship), the remaining portions
+of this Agreement shall remain in full force and effect and shall not be invalidated or impaired in any manner, unless NYC English 
+determines that the unenforceable provision goes to the heart of this Agreement, in which event NYC English may terminate this
+Agreement upon written notice to Licensee . 
+
+15. 
+MISCELLANEOUS 
+
+a. 
+ Paragraph Headings . The paragraph headings contained
+herein are for reference only and shall not be considered as substantive parts of this Agreement. The use of the singular or plural form
+shall include the other form and the use of the masculine, feminine or neuter gender shall include the other genders. 
+
+b. 
+ Language . The official language of this Agreement is
+English. All contract interpretations, notices and dispute resolutions shall be in English. Any amendments to this Agreement shall be
+in English. Translations of any of these documents shall not be construed as official or original versions of the documents, or otherwise
+referred to in the interpretation or construction of the intentions of the parties hereto. 
+
+c. 
+ Entire Agreement . This Agreement constitutes the entire
+agreement between the parties pertaining to the subject matter hereof, and any and all written or oral agreements previously existing
+between the parties are expressly cancelled. Licensee acknowledges that it is not entering into this Agreement on the basis
+of any representations not expressly contained herein. Any modifications of this Agreement must be in writing and signed by both parties
+hereto. Any such modification shall be binding upon NYC English only if and when signed by one of its duly authorized officers. 
+
+d. 
+ Assignment . Licensee shall not assign this
+Agreement or any right or interest under this Agreement, nor delegate any work or obligation to be performed under this Agreement, without
+the prior written consent of NYC English . Any attempted assignment of or delegation by Licensee in contravention
+of this provision shall be void and ineffective and shall be deemed to be a material breach hereof. NYC English may assign this
+Agreement. Any change in the ownership of fifty-percent (50 or more of Licensee s equity (or 50 change in ownership
+of any 50 owner of the Licensee or other ultimate 50 owner) shall be considered an assignment of this Agreement.
+The provisions hereof shall be binding upon and inure to the benefit of the parties, their successors and permitted assigns. 
+
+e. 
+ Notices . All notices and demands hereunder shall be in
+writing and shall be served by personal service, facsimile, or international courier service at the address of the receiving party set
+forth on the signature page to this Agreement (or at such different address as may be designated by such party by written notice to the
+other party). All notices or demands shall be deemed complete upon receipt. 
+
+f. 
+ Waiver . The waiver of any one default or breach of a
+provision of this Agreement shall not waive subsequent defaults or breaches of this Agreement. 
+
+g. 
+ Confidentiality . For purposes of this Agreement, Trade
+Secrets means information which: (a) derives economic value, actual or potential, from not being generally known to, and not
+being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use; and (b) is the
+subject of efforts that are reasonable under the circumstances to maintain its secrecy. Confidential Information 
+means information of NYC English, other than Trade Secrets, that is of value to its owner and is treated as confidential. Proprietary
+Information means Trade Secrets and Confidential Information of NYC English. 
+
+11 
+
+Licensee agrees
+to hold the Proprietary Information in strictest confidence and not to, directly or indirectly, copy, reproduce, distribute, duplicate,
+reveal, report, publish, disclose, cause to be disclosed, or otherwise transfer the Proprietary Information to any third party, or utilize
+the Proprietary Information for any purpose whatsoever other than as expressly contemplated by this Agreement or as otherwise agreed to
+in writing by NYC English . Licensee may only disclose the Proprietary Information to employees of Licensee 
+who have a need to know such Proprietary Information and who are under an obligation to comply with the nondisclosure obligations set
+forth herein. Licensee agrees to notify NYC English in writing of any suspected or known breach of the obligations or restrictions
+set forth in this Section 15(g). With regard to Trade Secrets, this obligation shall continue for so long as such information constitutes
+a trade secret under applicable law. With regard to the Confidential Information, this obligation shall continue for the term of this
+Agreement and for a period of three (3) years thereafter; provided, that the obligations hereunder with respect to any Trade Secrets shall
+be perpetual, without limitation as to time. Notwithstanding the foregoing, any previously executed nondisclosure agreement between the
+parties shall continue in full force and effect, provided that to the extent of any inconsistency or ambiguity between such agreement
+and this Agreement, this Agreement shall control and govern in all respects. 
+
+The foregoing obligations
+of this Section 15(g) shall not apply if and to the extent that: (1) Licensee establishes that the information communicated
+was already known to Licensee , without obligation to keep such information confidential, at the time of Licensee s 
+receipt from NYC English , as evidenced by documents in the possession of Licensee prepared or received prior to disclosure
+of such information; (2) Licensee establishes that the information communicated was received by Licensee in
+good faith from a third party lawfully in possession thereof and having no obligation to keep such information confidential; or (3) Licensee 
+establishes that the information communicated was publicly known at the time of Licensee s receipt from NYC English 
+or has become publicly known other than by a breach of this Agreement. Further, if Licensee is required to disclose all
+or part of the Proprietary Information pursuant to any legal requirement of any country which may have jurisdiction over Licensee ,
+it will be entitled to do so, provided that Licensee shall immediately upon becoming aware that such disclosure is required,
+give NYC English notice of the circumstances in which the disclosure is required and agree with NYC English on the extent
+and timing of such disclosure. 
+
+h. 
+ Arbitration . Any dispute arising out of the interpretation
+and effect of this Agreement or alleged breaches thereof, shall be fully and finally settled by arbitration in accordance with the Rules
+of Conciliation and Arbitration of the International Chamber of Commerce by one (1) Arbitrator appointed in accordance with said Rules,
+with the arbitration to take place at Salt Lake City, Utah, United States. All proceedings shall be conducted in the English language.
+The non-prevailing party shall pay the costs of the arbitration, and the reasonable costs and expenses of the prevailing party. Judgment
+of the arbitrator may be entered in any court having jurisdiction over the party against whom the judgment is rendered. The parties hereto
+agree that all arbitrations, actions or proceedings arising in connection with this Agreement shall be tried and litigated exclusively
+in the State and Federal courts located in the County of Salt Lake, State of Utah, in the United States. The aforementioned choice of
+venue is intended by the parties to be mandatory and not permissive in nature, thereby precluding the possibility of litigation between
+the parties with respect to or arising out of this Agreement in any jurisdiction other than that specified in this paragraph. Each party
+hereby waives any right it may have to assert the doctrine of forum non conveniens or similar doctrine or to object to venue with
+respect to any proceeding brought in accordance with this paragraph, and stipulates that the State and Federal courts located in the County
+of Salt Lake, State of Utah, in the United States shall have in personam jurisdiction and venue over each of them for the purpose
+of litigating or arbitrating any dispute, controversy, or proceeding arising out of or related to this Agreement. Each party hereby authorizes
+and accepts service of process sufficient for personal jurisdiction in any action against it as contemplated by this paragraph by registered
+or certified mail, return receipt requested, postage prepaid, to its address for the giving of notices as set forth in this Agreement,
+or in the manner set forth in Section 15(e) of this Agreement for the giving of notice. Any final judgment rendered against a party in
+any action or proceeding shall be conclusive as to the subject of such final judgment and may be enforced in other jurisdictions in any
+manner provided by law. 
+
+i. 
+ Modification; Counterparts; Facsimile/PDF Signatures .
+It is expressly agreed that this Agreement may not be altered, amended, modified, or otherwise changed in any respect except by another
+written agreement that specifically refers to this Agreement, executed by authorized representatives of each of the parties to this Agreement.
+This Agreement may be executed in any number of counterparts, each of which shall constitute an original and all of which together shall
+constitute one and the same instrument. Execution of a facsimile or PDF copy shall have the same force and effect as execution of an original,
+and a copy of a signature will be equally admissible in any legal proceeding as if an original. 
+
+[Signature Page Follows] 
+
+12 
+
+IN WITNESS WHEREOF, the parties hereto have executed
+this NYC English International Licensee Agreement on the Effective Date specified above. 
+
+NYC ENGLISH, LLC 
+ NYCEDUTEC, LLC 
+
+By: /s/ Karen Barton ________________________ 
+ Name: Karen Barton 
+ Title: Team and Operations Manager 
+
+Address for Notices: 
+ 
+ Flat 23D, Tower 3, 
+ Sham Wan Towers, 
+ 3 Ap Lei Chau Drive, 
+ Hong Kong 
+ Phone: +852 94601183 
+ 
+ Email: kbarton@nycedutec.com 
+
+By: /s/ Mark Emerson _______________________ 
+ Name: Mark Emerson 
+ Title: President 
+
+Address for Notices: 
+ 
+ 175 So. Main Street #1500 
+ Salt Lake City, Utah 84111, USA 
+Attention: Mark Emerson 
+Phone: +1(801) 699 -2928 
+ 
+Email: memerson@nycenglish.nyc 
+
+DATE: December 12, 2022 
+
+13 
+
+Exhibit A 
+
+SCHEDULE OF SPECIFIED PRODUCTS 
+
+[amounts in U.S. Dollars, TBD case by case] 
+
+NYC English Product 
+ Suggested Retail Price 
+ Purchase Price 
+ 
+ 1 year license, all three levels of NYC English 
+ TBD USD 
+ TBD USD 
+
+A- 1 
+
+Exhibit B 
+
+TERRITORY 
+
+The Licensee shall have the: Global rights 
+
+[X] Non-Exclusive 
+
+ Check One Box 
+
+ [ ] Exclusive 
+
+right to distribute the Specified Products set forth on Exhibit
+A (as amended from time to time) in the following specified locations in accordance with the terms of the NYC English International
+ Licensee Agreement: 
+
+B- 1 
+
+Exhibit C 
+
+BUSINESS PLAN 
+
+Channels 
+ Breakdown 
+ 
+ [Universities] 
+
+[K-12} 
+
+[Governments] 
+ 100 
+ 
+ [Direct B2C] 
+
+Licensee shall invest USD [__ _] per year or more for sales,
+marketing, market development, sponsorship activities, etc. 
+
+Licensee will require a lead time of 6 months for open-market/non-institution
+sales. 
+
+For institution and/or government sales, Licensee will treat
+them separately and hold separate discussions with NYC English (e.g. customized products fit-to-budget, license duration, lead time required,
+etc.) 
+
+C- 1 
+
+Exhibit D 
+
+SALES FORECAST 
+
+Minimum Purchase Requirements amounts in U.S. Dollars 
+
+(Import Price, USD) 
+ Year 1 
+ Year 2 
+ 
+ Sales Target 
+ 1 million 
+ 1.5 million 
+ 
+ Minimum Financial Guarantee 
+
+On a Quarterly basis, the above numbers shall be split into 4 equal
+amounts per quarter during the applicable Years. 
+
+The First Q shall be through [ Jan 31 ], each quarter thereafter
+shall be standard March 31, June 30, Sept. 30, December. 
+
+D- 1 
+
+</EX-10.19>
+
+<EX-21.1>
+ 3
+ lnpr_ex2101.htm
+ LIST OF SUBSIDIARIES
+
+Exhibit 21.1 
+
+LIST OF SUBSIDIARIES 
+
+ LNPR GROUP INC. 
+
+LNPR Group Inc., a Colorado corporation, has the following wholly owned
+subsidiary: 
+
+1. NYCEdutec LLC, a Utah limited liability company 
+
+</EX-21.1>
+
+<EX-31.1>
+ 4
+ lnpr_ex3101.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+Certifications 
+
+I, Mark Emerson, certify that: 
+
+1. 
+ I have reviewed this Form 10-K for the twelve months ended December 31, 2022, of LNPR Group Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 31, 2023 
+
+/s/ Mark Emerson 
+
+Mark Emerson, 
+
+ Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ lnpr_ex3102.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+Certifications 
+
+I, Eng Wah Kung, certify that: 
+
+1. 
+ I have reviewed this Form 10-K for the twelve months ended December 31, 2022, of LNPR Group Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 31, 2023 
+
+/s/ Eng Wah Kung 
+
+Eng Wah Kung, 
+
+ Chief Financial Officer 
+
+ (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ lnpr_ex3201.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+In connection with the annual
+report of LNPR Group Inc. (the Company on Form 10-K for the twelve months ended December 31, 2022, as filed with the Securities
+and Exchange Commission on the date hereof (the Report ), the undersigned principal executive officer of the Company, hereby
+certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: March 31, 2023 
+
+/s/ Mark Emerson 
+
+Mark Emerson, 
+
+ Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ lnpr_ex3202.htm
+ CERTIFICATION
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+In connection with the annual
+report of LNPR Group Inc. (the Company on Form 10-K for the twelve months ended December 31, 2022, as filed with the Securities
+and Exchange Commission on the date hereof (the Report ), the undersigned principal executive officer of the Company, hereby
+certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: March 31, 2023 
+
+/s/ Eng Wah Kung 
+
+Eng Wah Kung, 
+
+ Interim Chief Financial Officer 
+
+ (Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ lnpr-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ lnpr-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ lnpr-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ lnpr-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

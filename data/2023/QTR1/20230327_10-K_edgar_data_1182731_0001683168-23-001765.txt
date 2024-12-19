@@ -1,0 +1,1844 @@
+<Header>
+<FileStats>
+    <FileName>20230327_10-K_edgar_data_1182731_0001683168-23-001765.txt</FileName>
+    <GrossFileSize>1724697</GrossFileSize>
+    <NetFileSize>76456</NetFileSize>
+    <NonText_DocumentType_Chars>406930</NonText_DocumentType_Chars>
+    <HTML_Chars>341372</HTML_Chars>
+    <XBRL_Chars>367633</XBRL_Chars>
+    <XML_Chars>494851</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-23-001765.hdr.sgml : 20230327
+<ACCEPTANCE-DATETIME>20230327074759
+ACCESSION NUMBER:		0001683168-23-001765
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		43
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230327
+DATE AS OF CHANGE:		20230327
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ConneXionONE Corp.
+		CENTRAL INDEX KEY:			0001182731
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				301252905
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50075
+		FILM NUMBER:		23761453
+
+	BUSINESS ADDRESS:	
+		STREET 1:		39899 BALENTINE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			NEWARK
+		STATE:			CA
+		ZIP:			94560
+		BUSINESS PHONE:		408-533-8155
+
+	MAIL ADDRESS:	
+		STREET 1:		39899 BALENTINE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			NEWARK
+		STATE:			CA
+		ZIP:			94560
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Alternative Fuel Technologies, Inc.
+		DATE OF NAME CHANGE:	20220725
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CRESSET PRECIOUS METALS INC
+		DATE OF NAME CHANGE:	20020826
+
+</SEC-Header>
+</Header>
+
+ 0001683168-23-001765.txt : 20230327
+
+10-K
+ 1
+ connexionone_i10k-123122.htm
+ ANNUAL REPORT
+
+Table of Contents 
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the year ended , 2022 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ___________ to _____________ 
+
+Commission file number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+incorporation or organization) 
+
+(I.R.S. Employer 
+ Identification No.) 
+
+, 
+ (Address of principal executive offices) (Zip Code) 
+
++ 1- - 
+
+ (Registrant s telephone number, including area
+code) 
+
+Alternative
+Fuel Technologies, Inc. 
+
+ (Former name, former address and former fiscal year,
+if changed since last report) 
+
+Securities registered pursuant to Section 12(b) of
+the Exchange Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+ 
+ None 
+ 
+ AFTC 
+ 
+ N/A 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. 
+Yes 
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+Yes 
+
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. 
+No 
+
+Indicate by check mark whether the registrant has
+submitted electronically and every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+ No 
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large
+accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its
+audit report. 
+
+If securities are registered pursuant to Section 12(b)
+of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of
+an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s
+executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Act). Yes 
+
+The aggregate market value of common stock held by non-affiliates of
+the registrant was approximately as of June 30, 2022, the last business day of the registrant s most recently
+completed second fiscal quarter. 
+
+The number of shares of the registrant's common stock
+outstanding on March 20, 2023 was . 
+
+CONNEXIONONE CORP. 
+
+ FORMERLY ALTERNATIVE FUEL TECHNOLOGIES, INC. 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+TABLE OF CONTENTS 
+
+Page 
+
+CAUTIONARY NOTE ABOUT FORWARD-LOOKING STATEMENTS 
+ ii 
+
+PART I 
+
+Item 1. 
+ Description of Business 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors 
+ 4 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 4 
+ 
+ Item 2. 
+ Properties 
+ 4 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 4 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 4 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 5 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 5 
+ 
+ Item 7. 
+ Management s Discussion and Analysis Of Financial Condition and Results of Operation 
+ 5 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 8 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 8 
+ 
+ Item 9. 
+ Changes In and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 8 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 8 
+ 
+ Item 9B. 
+ Other Information 
+ 9 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 10 
+ 
+ Item 11. 
+ Executive Compensation 
+ 11 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 12 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions 
+ 13 
+ 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 14 
+
+PART IV 
+
+Item 15. 
+ Exhibits; Financial Statement Schedules 
+ 15 
+ 
+ Item 16. 
+ 10-K Summary 
+ 15 
+
+SIGNATURES 
+ 16 
+
+i 
+
+Use of Certain Defined Terms 
+
+Except as otherwise indicated by the context, references
+in this report to ConneXionONE Corp. , we, us, our, our Company . 
+
+Forward-Looking Statements 
+
+This Annual Report on Form 10-K contains forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933,
+as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ).
+Forward-looking statements discuss matters that are not historical facts. Because they discuss future events or conditions, forward-looking
+statements may include words such as anticipate, believe, estimate, intend, could, 
+ should, would, may, seek, plan, might, will, 
+ expect, anticipate, predict, project, forecast, potential, 
+ continue negatives thereof or similar expressions. Forward-looking statements speak only as of the date they are made, are
+based on various underlying assumptions and current expectations about the future and are not guarantees. Such statements involve known
+and unknown risks, uncertainties and other factors that may cause our actual results, level of activity, performance or achievement to
+be materially different from the results of operations or plans expressed or implied by such forward-looking statements. 
+
+We cannot predict all of the risks and uncertainties.
+Accordingly, such information should not be regarded as representations that the results or conditions described in such statements or
+that our objectives and plans will be achieved and we do not assume any responsibility for the accuracy or completeness of any of these
+forward-looking statements. These forward-looking statements are found at various places throughout this Annual Report on Form 10-K and
+include information concerning possible or assumed future results of our operations, including statements about potential acquisition
+or merger targets; business strategies; future cash flows; financing plans; plans and objectives of management; any other statements regarding
+future acquisitions, future cash needs, future operations, business plans and future financial results, and any other statements that
+are not historical facts. 
+
+These forward-looking statements represent our intentions,
+plans, expectations, assumptions and beliefs about future events and are subject to risks, uncertainties and other factors. Many of those
+factors are outside of our control and could cause actual results to differ materially from the results expressed or implied by those
+forward-looking statements. In light of these risks, uncertainties and assumptions, the events described in the forward-looking statements
+might not occur or might occur to a different extent or at a different time than we have described. You are cautioned not to place undue
+reliance on these forward-looking statements, which speak only as of the date of the Annual Report on Form 10-K. All subsequent written
+and oral forward-looking statements concerning other matters addressed in this Annual Report on Form 10-K and attributable to us or any
+person acting on our behalf are expressly qualified in their entirety by the cautionary statements contained or referred to in this Annual
+Report on Form 10-K. 
+
+Except to the extent required by law, we undertake
+no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, a change in events,
+conditions, circumstances or assumptions underlying such statements, or otherwise. 
+
+ii 
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+Business Overview 
+
+(a) Business Development 
+
+ConneXionONE Corp. (the Company was
+organized under the laws of the State of Nevada on November 12, 1997, under Caspian Development Group, Inc. The Company changed its name
+to Zenith International, Inc. in 1999, then to Cresset Precious Metals Inc in 2001, and to its current name, Alternative Fuel Technologies,
+Inc. on October 2, 2007. In 2018, the Company changed its domicile to the State of North Carolina and on October 24, 2018 changed its
+current name to ConneXionONE Corp. 
+
+The Company was a development stage company in the
+business of fuel injection systems and DME fuel injection systems, for internal combustion engines. The Company filed Form 10-SB in 2002.
+The Company was severely delinquent in filing annual reports for the Company s charter. In addition, the company was subject to
+Exchange Act reporting requirements including filing 10Q s and 10Ks. The Company was out of compliance with Exchange Act reporting
+and filed a Form 15-12G to terminate their registration on September 7, 2007. 
+
+Business operations for Alternative Fuel Technologies,
+Inc. was abandoned by former management and a custodianship action, as described in the subsequent paragraph, was commenced in 2017. 
+
+On May 27, 2017, the Sixteenth District Court of Macomb
+County of Michigan granted the Application for Appointment of Receiver as a result of the absence of a functioning board of directors
+and the revocation of the Company s charter. The order appointed Tara Harvey Ms. Harvey , the Receiver receiver with the right to appoint officers and directors, negotiate and compromise debt, execute contracts, issue stock, and authorize
+new classes of stock. 
+
+Upon appointment as the Receivership of AFTC and under
+its duties stipulated by the Michigan court, Ms. Harvey took initiative to organize the business of the issuer. As Receiver, the duties
+were to conduct daily business, hold shareholder meetings, appoint officers and directors, reinstate the company with the Nevada Secretary
+of State. Ms. Harvey also had authority to enter into contracts and find a suitable merger candidate. Ms. Harvey was compensated for her
+role as custodian in the amount of 750,000,000 shares of Restricted Common Stock. Ms. Harvey did not receive any additional compensation,
+in the form of cash or stock, for custodian services. The custodianship was discharged on November 18, 2017. 
+
+On March 13, 2018, Ms. Harvey entered into a Stock
+Purchase Agreement with Haining Zhang, whereby Haining Zhang purchased 750,000,000 shares of Restricted Common Stock. These shares represent
+the controlling block of stock. Ms. Harvey resigned her position of sole officer and director and appointed Mr. Zhang as CEO and Director
+of the Company. 
+
+On September 10, 2018, a change of control occurred
+and Changs International, LLC (controlled by Chris Chang) purchased the control block of stock. The Company also entered into a Share
+Exchange Agreement to acquire all of the shares of ConneXionONE Corp XONE
+Cayman ), a company incorporated in the Cayman Islands. The agreement called for the exchange of all of the shares of XONE Cayman
+for the equivalent of 95 of the shares of the Company. On October 24, 2018, the Company filed to amend its Articles of Incorporation
+and change its name to ConneXionONE Corp. Mr. Zhang resigned all of his positions as officer and director of the Company and Mr. Chris
+Chang was appointed sole Officer and Director. 
+
+The cancellation of the share exchange agreement was
+completed in 2021 and the Company moved forward with its current business plan. AFTC changed its name to ConneXionONE Corp in 2018 in
+the state of North Carolina. The Company did not have control or ownership of XONE Cayman and no shares of AFTC were exchanged. The North
+Carolina corporation has no affiliation with the Cayman Islands corporation. The cancellation of the share exchange agreement did not
+have an impact on the Company and its ownership and there is no impact to the Company's financial statements and footnotes. 
+
+1 
+
+The Company ceased being a shell company as defined
+in Rule 12b-2 of the Securities Exchange Act of 1934 defines a shell company as a company that has 
+
+(A) no or nominal operations; and, 
+
+(B) either, 
+
+(1) no or nominal assets; 
+
+(2) assets consisting solely of cash and cash equivalents; or, 
+
+(3) assets consisting of any amount of cash and cash equivalents and nominal other assets. 
+
+The determination was made based on the following: 
+
+1) The Company has begun business operations in the 2nd quarter of 2022 pursuant to its business plan. As
+such, the Company does not have nominal operations. 
+
+2) On June 1, 2022, the Company has entered into a Software Development and Operation Service Agreement with
+a service provider to develop and maintain its social media platform application. The Company has made a total payment of 238,000 to
+the service provider for the development of the platform as of September 30, 2022. Under the terms of the Agreement, the Company shall
+own all copyrights and intellectual property rights thereto. The initial version of the application was completed on October 27, 2022
+and is available for download by the public. As such, the Company does not have assets consisting of any amount or solely of cash and
+cash equivalents and nominal other assets. 
+
+Accordingly, pursuant to the status above, the Company
+is a development stage company that has engaged in activities that are, at a minimum, sufficient to manifest a strong commitment in pursuing
+a legitimate business as set forth in the Company s business plan. Based on the business conducted by the Company since June 2022,
+the Company believes it ceased being a shell company and has remained a non-shell company since then based on the most recent quarterly
+filings. 
+
+(b) Business of Issuer 
+
+ConneXionONE Corp. formerly Alternative Fuel Technologies, Inc. is a development
+stage company. Our business plan includes acquisitions of operating companies. The focus of the Company s future business involves
+developing and operating a decentralized social media platform. Our business plan incorporates decentralized concept of social media platforms
+which do not have a centralized governing body and may, at some point, provide viable alternatives to established platforms like Twitter,
+Instagram, Facebook and TikTok. 
+
+Social media mining is the process of representing, analyzing, and extracting
+meaningful and directed patterns from data in social media, resulting from social interactions. It is an interdisciplinary field encompassing
+techniques from computer science, data mining, machine learning, social network analysis, network science, sociology, ethnography, statistics,
+optimization, and mathematics. Social media mining represents the virtual world of social media in a computable way, measures it, and
+designs models that can help us understand its interactions. In addition, social media mining provides necessary tools to mine this world
+for interesting patterns, analyze information diffusion, study influence and provide effective recommendations, and analyze social behavior
+in social media. 
+
+We feel that our business plan addresses the need for additional development
+in the decentralized social media industry. 
+
+Decentralized social media DCSM platform is a sharing/consortium
+platform that will benefit Users, Content Providers, Advertisers, and Communication service providers. 
+
+DCSM Platform comprises of 3 major components, Content Aggregator, Mobile
+Advertising Mediation, Communication Proxy: 
+
+Content Aggregator 
+
+analyzes the contents type and formats (text/picture and video) 
+ 
+ sorts and distributes appropriate contents to users app based on user preferences 
+ 
+ categorizes, matches, and tags contents with the suitable/appropriate advertisements 
+
+2 
+
+Mobile Advertising Mediation 
+
+accepts
+mobile ads from businesses, product/service providers, ad agencies, etc. 
+ 
+ categorizes,
+matches, and associates the received ads with the most relevant and appropriate contents 
+ 
+ Distributes
+ads with associated contents to users mobile app 
+
+Communication Proxy 
+
+interconnects with communication service providers, including VoIP service providers, Instant Messaging app service providers, Live
+Video Broadcast app service providers, 
+ allowing
+interconnected service providers to make on-net communications with DCSM app users 
+
+The analysis will be undertaken by or under the supervision of our management.
+As of the date of this filing, we have not entered into definitive agreements. In our continued efforts to analyze potential business
+plan, we intend to consider the following factors: 
+
+Potential for growth, indicated by anticipated market expansion or new technology; 
+
+Competitive position as compared to other DCSM platforms of similar size and experience within the social media within the industry
+as a whole 
+
+Strength and diversity of management, and the accessibility of required management expertise, personnel, services, professional assistance,
+and other required items 
+
+Capital requirements and anticipated availability of required funds, to be provided by the Company or from operations, through the
+sale of additional securities or convertible debt, through joint ventures or similar arrangements or from other sources 
+
+The extent to which the business opportunity can be advanced in the marketplace; and 
+
+Other relevant factors 
+
+In applying the foregoing criteria, management will attempt to analyze
+all factors and circumstances and make a determination based upon reasonable investigative measures and available data. Due to our limited
+capital available for investigation, we may not discover or adequately evaluate adverse facts about the opportunity to be acquired. Additionally,
+we will be competing against other entities that may have greater financial, technical, and managerial capabilities for identifying and
+completing our business plan. 
+
+We are unable to predict when we will, if ever, identify and implement
+our business plan. We anticipate that proposed business plan would be made available to us through personal contacts of our directors,
+officers and principal stockholders, professional advisors, broker-dealers, venture capitalists, members of the financial community and
+others who may present unsolicited proposals. In certain cases, we may agree to pay a finder s fee or to otherwise compensate the
+persons who introduce the Company to business opportunities in which we participate. 
+
+As of this filing, we have not raised any capital and our business is under
+development stage, and the Company is focused on raising capital for its business plans. We have not realized any revenues. However, We
+have engaged developers and started the development of our first mobile app for the decentralized social media platform of the Company. 
+
+On July 29, 2022, the Company s board and shareholders have approved
+the following actions by amending the Company s Amended Articles of Incorporation to effect: 
+
+ 1) a corporate
+name changed from Alternative Fuel Technologies, Inc. to ConneXionONE Corp.; and 
+
+ 2) a one-for-one
+thousand (1:1,000) reverse stock split of the Company s class of common stock with all other aspects to remain unchanged 
+
+The corporate actions are pending approval from Financial Industry Regulatory
+Authority (FINRA). 
+
+3 
+
+On June 1, 2022, the Company has entered into a Software Development and
+Operation Service Agreement with a developer to develop and maintain its social media platform application. The Company has made payments
+of 380,000 for the development. The Company is a development stage company pursuing an actual business in accordance to the business
+plans where it has entered into development agreement with a developer and incurred material expenditures for the development of the platform. 
+
+ITEM 1A. RISK FACTORS 
+
+As a smaller reporting company, we are not required
+to provide the information required by this item. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+Not applicable to a smaller reporting company 
+as defined in Item 10(f)(1) of Regulation S-K. 
+
+ITEM 2. PROPERTIES 
+
+The Company does not own any real estate or other
+properties and has not entered into any long-term lease or rental agreements for property. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+There are no pending legal proceedings to which the
+Company is a party or in which any director, officer or affiliate of the Company, any owner of record or beneficially of more than 5 
+of any class of voting securities of the Company, or stockholder is a party adverse to the Company or has a material interest adverse
+to the Company. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+4 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY,
+RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market Information 
+
+Our Common Stock is quoted on OTC markets. It is currently
+quoted on OTC Markets under the symbol AFTC and there is limited liquidity in the public trading market for the class of common equity.
+Although our stock is quoted on OTC markets, the existence of limited or sporadic quotations should not of itself be deemed to constitute
+an established public trading market. There is no established public trading market for our shares. 
+
+The Company is under the OTC Markets Pink Current
+Information designation. This designation is given when a company has current information, either to the SEC, the Company s
+home country regulator, or directly to OTC Markets Group. The Company s stock is not eligible for proprietary broker-dealer quotations.
+All quotes in the Company s stock reflect unsolicited customer orders. Unsolicited-Only stocks have a higher risk of wider spreads,
+increased volatility, and price dislocations. Investors may have difficulty selling this stock. An initial review by a broker-dealer under
+SEC Rule15c2-11 is required for brokers to publish competing quotes and provide continuous market making. 
+
+Stockholders 
+
+As of December 31, 2022, there are approximately 182
+holders of an aggregate of 71,850,033,691shares of our Common Stock issued and outstanding. 
+
+Dividends 
+
+We have not paid any cash dividends to date and do
+not anticipate or contemplate paying dividends in the foreseeable future. It is the president intention of management to utilize all available
+funds for the development of the Registrant s business. 
+
+Issuer Purchases of Equity Securities 
+
+There were no repurchases of our common stock during
+the year ended December 31, 2022. 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+Not applicable to a smaller reporting company 
+as defined in Rule 12b-2 of the Exchange Act. 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This Management s Discussion and Analysis
+of Financial Condition and Results of Operations is intended to provide a reader of our financial statements with a narrative from the
+perspective of our management on our financial condition, results of operations, liquidity, and certain other factors that may affect
+our future results. The following discussion and analysis should be read in conjunction with our audited consolidated financial statements
+and the accompanying notes thereto included in Item 8. Financial Statements and Supplementary Data. In addition to historical
+financial information, the following discussion and analysis contains forward-looking statements that involve risks, uncertainties and
+assumptions. See Forward-Looking Statements. Our results and the timing of selected events may differ materially from those
+anticipated in these forward-looking statements as a result of many factors. 
+
+5 
+
+Business Overview 
+
+ConneXionONE Corp. (the Company began
+active business operation pursuant to its business plan which is to develop and operate a decentralized social media platform that does
+not have a centralized governing body and may, at some point, provide viable alternatives to established platforms like Twitter, Instagram,
+Facebook and TikTok. 
+
+Recent Developments 
+
+The Company ceased being a shell company as defined
+in Rule 12b-2 of the Securities Exchange Act of 1934 defines a shell company as a company that has 
+
+(A) no or nominal operations; and, 
+
+(B) either, 
+
+a. no or nominal assets; 
+
+b. assets consisting solely of cash and cash equivalents; or, 
+
+c. assets consisting of any amount of cash and cash equivalents and nominal other assets. 
+
+The determination was made based on the following: 
+
+1) The Company has begun business operations in the 2nd quarter of 2022 pursuant to its business plan. As
+such, the Company does not have nominal operations. 
+
+2) On June 1, 2022, the Company has entered into a Software Development and Operation Service Agreement with
+a service provider to develop and maintain its social media platform application. The Company has made a total payment of 238,000 to
+the service provider for the development of the platform as of September 30, 2022. Under the terms of the Agreement, the Company shall
+own all copyrights and intellectual property rights thereto. The initial version of the application was completed on October 27, 2022
+and is available for download by the public. As such, the Company does not have assets consisting of any amount or solely of cash and
+cash equivalents and nominal other assets. 
+
+Accordingly, pursuant to the status above, the Company
+is a development stage company that has engaged in activities that are, at a minimum, sufficient to manifest a strong commitment in pursuing
+a legitimate business as set forth in the Company s business plan. Based on the business conducted by the Company since June 2022,
+the Company believes it ceased being a shell company and has remained a non-shell company since then based on the most recent quarterly
+filings. 
+
+Going Concern 
+
+Our auditor has indicated in their reports on our
+financial statements for the fiscal years ended December 31, 2022, that conditions exist that raise substantial doubt about our ability
+to continue as a going concern due to our recurring losses from operations, deficit in equity, and the need to raise additional capital
+to fund operations. A going concern opinion could impair our ability to finance our operations through the sale of debt
+or equity securities. 
+
+Results of Operations - Years ended December
+31, 2022 and 2021 
+
+Revenue 
+
+We had no revenues from operations during either December 31, 2022 or 2021. 
+
+General and Administrative Expense 
+
+General and Administrative Expenses were 92,490 for the year ended, December
+31, 2022 compared to 6,359 for the year ended December 31, 2021, an increase of 72,841. The increase is due to expenses incurred for
+the development of the business and professional fees of being a reporting company. 
+
+6 
+
+Net Loss 
+
+We had a net loss of 92,490 for the year ended December 31, 2022 compared
+to 6,539 for the year ended December 31, 2021. 
+
+Capital Resources and Liquidity - At December
+31, 2022 and 2021 
+
+Cash Used in Operating Activities 
+
+For the years ended December 31, 2022 and 2021, the
+Company had cash used in operating activities in the amount of 13,740 and 6,519, respectively, which were primarily due to net loss
+for the year, and accounts payable and accrued liabilities. 
+
+Cash Provided by Investing Activities 
+
+For the years ended December 31, 2022 and 2021, the
+Company had cash used in investing activities in the amount of 380,000 and 0, respectively, for the development of its platform application. 
+
+Cash Provided by Financing Activities 
+
+For the years ended December 31, 2022 and 2021, the
+Company had cash provided by financing activities in the amount of 398,771 and cash used in financing activities of 143,926, respectively,
+which consisted of working capital advances from and repayment to our CEO. 
+
+As of December 31, 2022, and 2021, we had cash and
+cash equivalents of 5,032 and nil, respectively. 
+
+Our auditors have issued a going concern 
+opinion, meaning that there is substantial doubt if we can continue as an on-going business for the next twelve months unless we obtain
+additional capital. No substantial revenues are anticipated until we have implemented our plan of operations. 
+
+The Company requires additional funding to meet its
+ongoing obligations and to fund anticipated operating losses. Our auditor has expressed substantial doubt about our ability to continue
+as a going concern. The ability of the Company to continue as a going concern is dependent on raising capital to fund its initial business
+plan and ultimately to attain profitable operations. These financial statements do not include any adjustments relating to the recoverability
+and classification of recorded asset amounts, or amounts and classification of liabilities that might result from this uncertainty. 
+
+We expect to incur marketing and professional and
+administrative expenses as well expenses associated with maintaining our filings with the Commission. We will require additional funds
+during this time and will seek to raise the necessary additional capital. If we are unable to obtain additional financing, we may be required
+to reduce the scope of our business development activities, which could harm our business plans, financial condition and operating results.
+Additional funding may not be available on favorable terms, if at all. The Company intends to continue to fund its business by way of
+equity or debt financing and advances from related parties. Any inability to raise capital as needed would have a material adverse effect
+on our business, financial condition and results of operations. 
+
+If we cannot raise additional funds, we will have
+to cease business operations. As a result, investors in the Company s common stock would lose all of their investment. 
+
+Off Balance Sheet Arrangements 
+
+There are no off-balance sheet arrangements currently
+contemplated by management or in place that are reasonably likely to have a current or future effect on the business, financial condition,
+changes in financial condition, revenue or expenses, result of operations, liquidity, capital expenditures and/or capital resources. 
+
+7 
+
+Recent Accounting Pronouncements 
+
+The Company has implemented all new accounting pronouncements
+that are in effect and that may impact its financial statements and does not believe that there are any other new accounting pronouncements
+that have been issued that might have a material impact on its financial position or results of operations. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES
+ABOUT MARKET RISK 
+
+Not applicable to a smaller reporting company 
+as defined in Rule 12b-2 of the Exchange Act. 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY
+DATA 
+
+The full text of the Company s financial statements
+for the years ended December 31, 2022 and 2021, begins on page F-1 of this Annual Report on Form 10-K. 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+ON ACCOUNTING AND FINANCIAL DISCLOSURES 
+
+There have been no changes in or disagreements with
+accountants regarding our accounting, financial disclosures or any other matter. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+The management of the Company is responsible for establishing
+and maintaining adequate internal control over financial reporting, as required by Sarbanes-Oxley (SOX) Section 404 A. The Company s
+internal control over financial reporting is a process designed under the supervision of the Company s Chief Executive Officer and
+Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company s
+financial statements for external purposes in accordance with U.S. generally accepted accounting principles. 
+
+Management assessed the effectiveness of the Company s
+internal control over financial reporting based on the criteria for effective internal control over financial reporting established in
+SEC guidance on conducting such assessments as of the end of the period covered by this report. Management conducted the assessment based
+on certain criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the
+Treadway Commission. Based on this assessment, management concluded that our internal controls over financial reporting was not effective
+as of December 31, 2022. 
+
+The matters involving internal controls and procedures
+that the Company s management considered to be material weaknesses under the standards of the Public Company Accounting Oversight
+Board were: (1) lack of a functioning audit committee and lack of a majority of outside directors on the Company s board of directors,
+resulting in ineffective oversight in the establishment and monitoring of required internal controls and procedures; (2) inadequate segregation
+of duties consistent with control objectives; (3) insufficient written policies and procedures for accounting and financial reporting
+with respect to the requirements and application of US GAAP and SEC disclosure requirements; and (4) ineffective controls over period
+end financial disclosure and reporting processes. The aforementioned material weaknesses were identified by the Company s Chief
+Financial Officer in connection with the review of our financial statements as of December 31, 2022 and communicated the matters to our
+management. 
+
+Management believes that the material weaknesses set
+forth in items (2), (3) and (4) above did not have an effect on the Company s financial results. However, management believes that
+the lack of a functioning audit committee and lack of a majority of outside directors on the Company s board of directors, resulting
+in ineffective oversight in the establishment and monitoring of required internal controls and procedures can result in the Company s
+determination to its financial statements for the future years. 
+
+8 
+
+We are committed to improving our financial organization.
+As part of this commitment, we will create a position to segregate duties consistent with control objectives and will increase our personnel
+resources and technical accounting expertise within the accounting function when funds are available to the Company: i) Appointing one
+or more outside directors to our board of directors who shall be appointed to the audit committee of the Company resulting in a fully
+functioning audit committee who will undertake the oversight in the establishment and monitoring of required internal controls and procedures;
+and ii) Preparing and implementing sufficient written policies and checklists which will set forth procedures for accounting and financial
+reporting with respect to the requirements and application of US GAAP and SEC disclosure requirements. 
+
+Management believes that the appointment of one or
+more outside directors, who shall be appointed to a fully functioning audit committee, will remedy the lack of a functioning audit committee
+and a lack of a majority of outside directors on the Company s Board. In addition, management believes that preparing and implementing
+sufficient written policies and checklists will remedy the following material weaknesses (i) insufficient written policies and procedures
+for accounting and financial reporting with respect to the requirements and application of US GAAP and SEC disclosure requirements; and
+(ii) ineffective controls over period end financial close and reporting processes. Further, management believes that the hiring of additional
+personnel who have the technical expertise and knowledge will result proper segregation of duties and provide more checks and balances
+within the department. Additional personnel will also provide the cross training needed to support the Company if personnel turn over
+issues within the department occur. This coupled with the appointment of additional outside directors will greatly decrease any control
+and procedure issues the company may encounter in the future. 
+
+We will continue to monitor and evaluate the effectiveness
+of our internal controls and procedures and our internal controls over financial reporting on an ongoing basis and are committed to taking
+further action and implementing additional enhancements or improvements, as necessary and as funds allow. 
+
+This annual report does not include an attestation
+report of the company s registered public accounting firm regarding internal control over financial reporting. Management s
+report was not subject to attestation by the company s registered public accounting firm pursuant to temporary rules of the Securities
+and Exchange Commission that permit the Company to provide only management s report in this annual report. 
+
+There have been no changes in our internal control
+over financial reporting identified in connection with the evaluation required by paragraph (d) of Rules 13a-15 or 15d-15 under the Exchange
+Act that occurred during the small business issuer s last fiscal year that has materially affected, or is reasonably likely to materially
+affect, our internal control over financial reporting. 
+
+We will continue to monitor and evaluate the effectiveness
+of our internal controls and procedures and our internal controls over financial reporting on an ongoing basis and are committed to taking
+further action and implementing additional enhancements or improvements, as necessary and as funds allow. 
+
+Changes in Internal Control over Financial Reporting 
+
+There were no changes that have affected, or are reasonably
+likely to materially affect, our internal control over financial reporting (as defined in Rules 13a-15(f) or 15d-15(f) under the Exchange
+Act) during the year ended December 31, 2022. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+9 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE
+GOVERNANCE 
+
+Our executive officers and director are as follows: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Chris Chang 
+ 
+ 59 
+ 
+ CEO, President, Director, CFO 
+
+Chris Chang, Chief Executive Officer, President,
+Director 
+
+Employment History: 
+
+CEO and Director of Alternative Fuel Technologies, Inc. - 2018 to Present 
+Founder and CEO of ConneXionONE - 2018 to Present 
+
+Mr. Chang is the founder, director and CEO of ConneXionONE Corp. He founded
+the company in 2018 and continues to be the sole officer and director. Mr. Chang has been an entrepreneur in Taiwan and US with over 25
+years of experiences in the telecommunications industry covering 5 continents. He is engaged in telecommunications product development,
+business alliance development, global sales and marketing, and strategic planning involving VOIP services. Mr. Chang is the owner of Connection
+Portal, Inc. (USA), a global VoIP service provider and ConneXionONE Communications Inc. (USA), a hosted PBX service provider. 
+
+Mr. Chang s knowledge in the
+telecommunications industry and his experience with startup companies make him a great fit for the position of officer and director of
+Alternative Fuel Technologies, Inc. He has extensive knowledge of smaller companies that require regulatory compliance. Mr. Chang has
+experience and good working knowledge in the areas of internal company controls and daily management of companies. 
+
+Director Independence 
+
+Our board of directors is currently composed of one
+member who do not qualify as independent directors in accordance with the published listing requirements of the NASDAQ Global Market.
+The NASDAQ independence definition includes a series of objective tests, such as that the director is not, and has not been for at least
+three years, one of our employees and that neither the director, nor any of his family members has engaged in various types of business
+dealings with us. In addition, our board of directors has not made a subjective determination as to each director that no relationship
+exists which, in the opinion of our board of directors, would interfere with the exercise of independent judgment in carrying out the
+responsibilities of a director, though such subjective determination is required by the NASDAQ rules. Had our board of directors made
+these determinations, our board of directors would have reviewed and discussed information provided by the directors and us with regard
+to each director s business and personal activities and relationships as they may relate to us and our management. 
+
+Involvement in Legal Proceedings 
+
+To our knowledge, there have been no material legal
+proceedings during the last ten years that would require disclosure under the federal securities laws that are material to an evaluation
+of the ability or integrity of any of our directors or executive officers. 
+
+Potential Conflicts of Interest 
+
+We are not aware of any current or potential conflicts
+of interest with our directors or executive officers, other business interests and their involvement with the Company 
+
+10 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+Summary Compensation Table 
+
+The Company has made no provisions for paying cash
+or non-cash compensation to its officer and director. No salaries are being paid at the present time, and none will be paid unless and
+until our operations generate sufficient cash flows. 
+
+Summary Compensation of Named Executive Officers 
+
+Name and Principal Position 
+ Fiscal Year 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ Stock Awards 
+ ) 
+ Option Awards 
+ ) 
+ All Other Compensation 
+ ) 
+ Total 
+ ) 
+ 
+ Chris Chang, 
+ 2022 
+
+Chief Executive Officer, President, Chief Financial Officer 
+ 2021 
+
+Outstanding Equity Awards at Fiscal Year End 
+
+We did not pay any salaries in 2022 or 2021. None
+of our executive officers received any equity awards, including, options, restricted stock, performance awards or other equity incentives
+during the year ended December 31, 2022 and 2021. 
+
+Employment Contracts 
+
+The Company has not entered into any employment agreements
+with its officer and director. 
+
+Stock Awards Plan 
+
+The Company has not adopted a Stock Awards Plan, but
+may do so in the future. The terms of any such plan have not been determined. 
+
+Director Compensation 
+
+The Board of Directors of the Company has not adopted
+a stock option plan. The Company has no plans to adopt it but may choose to do so in the future. If such a plan is adopted, this may be
+administered by the board or a committee appointed by the board (the Committee ). The committee would have the power to modify,
+extend or renew outstanding options and to authorize the grant of new options in substitution therefore, provided that any such action
+may not impair any rights under any option previously granted. ConneXionONE Corp. may develop an incentive-based stock option plan for
+its officers and directors and may reserve up to 10 of its outstanding shares of common stock for that purpose. 
+
+DIRECTOR COMPENSATION 
+ 
+ Name 
+ Fees Earned or Paid in Cash ) 
+ Stock 
+ Awards ) 
+ Option Awards ) 
+ Non-Equity Incentive Plan Compensation ) 
+ Non-Qualified Deferred Compensation Earnings ) 
+ All Other Compensation ) 
+ Total 
+ ) 
+ 
+ Chris Chang 
+
+11 
+
+Board Committees 
+
+We have not formed an Audit Committee, Compensation
+Committee or Nominating and Corporate Governance Committee as of the filing of this Annual Report. Our Board of Directors performs the
+principal functions of an Audit Committee. We currently do not have an audit committee financial expert on our Board of Directors. We
+believe that an audit committee financial expert is not required because the cost of hiring an audit committee financial expert to act
+as one of our directors and to be a member of an Audit Committee outweighs the benefits of having an audit committee financial expert
+at this time. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The following table sets forth certain information
+with respect to the beneficial ownership of our voting securities by (i) each director and named executive officer, (ii) all executive
+officers and directors as a group; and (iii) each shareholder known to be the beneficial owner of 5 or more of the outstanding common
+stock of the Company as of December 31, 2022. 
+
+Beneficial ownership is determined in accordance with
+the rules of the SEC. Generally, a person is considered to beneficially own securities: (i) over which such person, directly or indirectly,
+exercises sole or shared voting or investment power, and (ii) of which such person has the right to acquire beneficial ownership at any
+time within 60 days (such as through exercise of stock options or warrants). For purposes of computing the percentage of outstanding shares
+held by each person or group of persons, any shares that such person or persons has the right to acquire within 60 days of December 31,
+2022 are deemed to be outstanding, but are not deemed to be outstanding for the purpose of computing the percentage ownership of any other
+person. The inclusion herein of any shares listed as beneficially owned does not constitute an admission of beneficial ownership. 
+
+Amount and Nature of Beneficial Ownership 
+ Common Stock (3) 
+
+Name and Address of Beneficial Owner (1) 
+ 
+ Number of 
+Shares 
+Beneficially 
+Owned 
+
+Percentage 
+Ownership of 
+Shares of 
+Common Stock 
+
+Changs International LLC (1) 
+ Chris Chang is control person 
+ 32679 Kenita Way 
+ Union City, CA 94587 
+
+25,479,683,844 
+ Chris Chang, Officer and Director 
+
+35.46 
+
+Han-Yun Hsu 
+ No. 17, Aly 9, Ln. 79 Lida St 
+ Zhunan township, Miaoli County 350 
+ Taiwan 
+
+6,583,207,118 
+ Beneficial owner of more than 5 
+
+9.16 
+
+Cho-Chun Miao (2) 
+14F, No 1, Ln. 126, Sec. 1 
+Xuefu Rd., Tucheng Dist. 
+New Taipei City 236 
+Taiwan 
+
+3,763,867,431 
+Beneficial owner of more than 5 
+
+5.24 
+
+Nien-Ting Tsai 
+2F, No 6. Ln. 140, Sec 7, Zohgshan N Rd, Shilin Dist 
+Taipei 
+Taiwan 
+
+4,500,000,000 
+ Beneficial owner of more than 5 
+
+6.26 
+
+25,479,683,844 
+
+35.46 
+
+(1) 
+ All officers and directors as a group 
+
+(2) 
+ Cho-Chun Miao is the spouse of Mr. Chris Chang 
+
+(3) 
+ Based on 71,850,033,691 shares outstanding 
+
+12 
+
+ITEM 13. CERTAIN RELATIONSHIP AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE 
+
+Regulation S-K, Item 4, Section C require disclosure
+of promoters and certain control persons for registrants that are filing a registration statement on Form 10 under the Exchange Act and
+that had a promoter at any time during the past five fiscal years shall: 
+
+(i) State the names of the promoter(s), the nature and amount of anything of value (including money, property,
+contracts, options or rights of any kind) received or to be received by each promoter, directly or indirectly, from the registrant and
+the nature and amount of any assets, services or other consideration therefore received or to be received by the registrant; and 
+
+(ii) As to any assets acquired or to be acquired by the registrant from a promoter, state the amount at which
+the assets were acquired or are to be acquired and the principle followed or to be followed in determining such amount, and identify the
+persons making the determination and their relationship, if any, with the registrant or any promoter. If the assets were acquired by the
+promoter within two years prior to their transfer to the registrant, also state the cost thereof to the promoter. 
+
+Ms. Harvey is considered a promoter(s) under the meaning
+of Securities Act Rule 405. Ms. Harvey was appointed custodian of the Company and under its duties stipulated by the Nevada court. Ms.
+Harvey took initiative to organize the business of the issuer. As receiver, her duties were to conduct daily business, hold shareholder
+meetings, appoint officers and directors, reinstate the company with the North Carolina Secretary of State. The custodian also had authority
+to enter into contracts and find a suitable merger candidate. In addition, Ms. Harvey was compensated for her role as custodian and paid
+outstanding bills to creditors on behalf of the company. The custodian has not, and will not, receive any additional compensation, in
+the form of cash or stock, for custodian services. The receivership was discharged on November 18, 2017. 
+
+Under Regulation S-K Item 404(c)(2) Registrants shall
+provide the disclosure required by paragraphs (c)(1)(i) and (c)(1)(ii) of this Item as to any person who acquired control of a registrant
+that is a shell company, or any person that is part of a group, consisting of two or more persons that agree to act together for the purpose
+of acquiring, holding, voting or disposing of equity securities of a registrant, that acquired control of a registrant that is a shell
+company. 
+
+As disclosed in Item 4, there are persons, Changs
+International LLC (controlled by Chris Chang), and Cho-Chun Miao (Chris Chang s wife) are considered control persons and acquired
+control of the Company. As discussed in Item 1, Changs International, LLC purchased the majority of the Company s Restricted Common
+Stock. These shares represent the controlling block of stock and were purchased from Mr. Zhang for 250,000. 
+
+Chris Chang is our CEO and President, and sole member
+and control person for Changs International LLC. He is not deemed to be independent under Regulation S-K 229.407(a). 
+
+Cho-Chun Miao is the wife of our CEO, Chris Chang,
+but has no direct relationship with Changs International LLC, other than her relationship to its owner. 
+
+Han-Yun Hsu and Nien-Ting Tsai are shareholders owning
+more than 5 of the outstanding shares of our common stock. 
+
+Han-yun Hsu, Nien-Ting Tsai, have no relationship
+with Changs International LLC and have no relationship with AFTC, other than being beneficial shareholders. 
+
+We have not established any committees of the Board
+of Directors. 
+
+Except as set forth above, there have been no related
+party transactions, or any other transactions or relationships required to be disclosed. 
+
+Transactions with Related Persons 
+
+Mr. Chris Chang, majority shareholder, director and
+officer of the Company, have paid certain expenses on behalf of the Company. Such amounts are due on demand and non-interest bearing.
+The outstanding amount due to related parties was 654,068 and 255,296 as of December 31, 2022 and 2021, respectively. 
+
+13 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+Independent Auditors Fees 
+
+The following table represents fees billed for each of the years ended
+December 31 for professional audit services rendered by our independent registered public accounting firm: 
+
+2022 
+ 2021 
+
+Audit fees 
+ 33,000 
+ 16,200 
+ 
+ Audit-related fees 
+
+Tax fees 
+
+All other fees 
+
+Total 
+ 33,000 
+ 16,200 
+
+(1) Audit Fees consist of the aggregate fees billed for professional services rendered for the audit of our annual financial statements
+and the reviews of the financial statements included in our Forms 10-Q and for any other services that were normally provided in connection
+with our statutory and regulatory filings or engagements. 
+
+(2) Audit-related fees consist of fees for assurance and related services that are reasonably related to the performance of the audit
+or review of our financial statements. 
+
+(3) Tax fees consist of fees for professional services rendered for tax compliance, tax advice and tax planning. 
+
+(4) All other fees consist of fees for products and services provided, other than for the services reported under the headings Audit
+Fees, Audit Related Fees and Tax Fees. The Company has adopted a policy regarding the services of its
+independent auditors under which our independent accounting firm is not allowed to perform any service which may have the effect of jeopardizing
+the registered public accountant s independence. Without limiting the foregoing, the independent accounting firm shall not be retained
+to perform the following: 
+
+Bookkeeping or other services related to the accounting records or financial statements 
+
+Financial information systems design and implementation 
+
+Appraisal or valuation services, fairness opinions or contribution-in-kind reports 
+
+Actuarial services 
+
+Internal audit outsourcing services 
+
+Management functions 
+
+Broker-dealer, investment adviser or investment banking services 
+
+Legal services 
+
+Expert services unrelated to the audit 
+
+Pre-Approval Policies and Procedures 
+
+The SEC requires that before our independent registered
+public accounting firm is engaged by us to render any auditing or permitted non-audit related service, the engagement be either: (i) approved
+by our Audit Committee or (ii) entered into pursuant to pre-approval policies and procedures established by the Audit Committee, provided
+that the policies and procedures are detailed as to the particular service, the Audit Committee is informed of each service, and such
+policies and procedures do not include delegation of the Audit Committee s responsibilities to management. 
+
+We do not have an Audit Committee. Our Board pre-approves
+all services provided by our independent registered public accounting firm. 
+
+14 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+Please see the Exhibit Index, which
+is incorporated herein by reference, following the signature page for a list of our exhibits. 
+
+ITEM 16. 10-K SUMMARY 
+
+As permitted, the registrant has elected not to supply
+a summary of information required by Form 10-K. 
+
+EXHIBIT INDEX 
+
+31.1 
+ 
+ Certification of Chief Executive Officer pursuant to Rule 13(a)-14(a)/15(d)-14(a) of the Securities Act of 1934 
+
+31.2 
+ 
+ Certification of Chief Financial Officer pursuant to Rule 13(a)-14(a)/15(d)-14(a) of the Securities Act of 1934 
+
+32.1 
+ 
+ Certification of Chief Executive Officer Executive Officer under Section 1350 as Adopted pursuant Section 906 of the Sarbanes-Oxley Act of 2002 
+
+32.2 
+ 
+ Certification of Chief Financial Officer under Section 1350 as Adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+101 
+ 
+ Interactive data files pursuant to Rule 405 of Regulation S-T. 
+
+15 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+ConneXionONE Corp. 
+
+(Registrant) 
+
+Date: March 27, 2023 
+ By: 
+ /s/ Chris Chang 
+
+Chris Chang 
+
+Chief Executive Officer 
+
+Date: March 27, 2023 
+ By: 
+ /s/ Chris Chang 
+
+Chris Chang 
+
+Chief Financial Officer 
+
+16 
+
+Index to Financial Statements 
+
+Report of Independent Registered Public Accounting Firm (PCAOB No. 
+ F-2 
+
+Balance Sheets as of December 31, 2022 and 2021 
+ F-3 
+
+Statements of Operations for the years ended December 31, 2022 and 2021 
+ F-4 
+
+Statements of Stockholders Equity for the years ended December 31, 2022 and 2021 
+ F-5 
+
+Statements of Cash Flows for the years ended December 31, 2022 and 2021 
+ F-6 
+
+Notes to Financial Statements 
+ F-7 
+
+F- 1 
+
+Report of Independent Registered Public Accounting 
+ Firm 
+
+To the shareholders and the board of directors
+of ConneXionOne Corp. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets
+of ConneXionOne Corp. as of December 31, 2022 and 2021, the related statements of operations, stockholders' equity (deficit), and cash
+flows for the years then ended, and the related notes (collectively referred to as the financial statements ). In our opinion,
+the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021,
+and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted
+in the United States. 
+
+Substantial Doubt about the Company s
+Ability to Continue as a Going Concern 
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company has
+suffered recurring losses from operations and has a significant accumulated deficit. In addition, the Company continues to experience
+negative cash flows from operations. These factors raise substantial doubt about the Company's ability to continue as a going concern.
+Management's plans in regard to these matters are also described in Note 3. The financial statements do not include any adjustments that
+might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+/S/ BF Borgers CPA PC 
+
+PCAOB ID 5041 
+
+We have served as the Company's auditor since
+2022 
+
+March 24, 2023 
+
+F- 2 
+
+CONNEXIONONE CORP. 
+
+ FORMERLY ALTERNATIVE FUEL TECHNOLOGIES, INC. 
+
+ BALANCE SHEETS 
+
+December 31, 
+ December 31, 
+
+2022 
+ 2021 
+ 
+ Assets 
+
+Current Assets 
+
+Cash 
+
+Other current receivables and prepayments 
+
+Total Current Assets 
+
+Total Assets 
+
+Liabilities 
+
+Current Liabilities 
+
+Accounts payable and accrued expenses 
+
+Due to related party 
+
+Total Current Liabilities 
+
+Other liabilities 
+
+Total Liabilities 
+
+Commitment contingencies 
+
+Stockholders' Deficit 
+
+Preferred Stock Series A, par value; shares authorized, and shares issued and outstanding, respectively 
+
+Common Stock, par value; shares authorized, shares issued and outstanding, respectively 
+
+Additional paid-in capital 
+
+Accumulated loss 
+
+Total Stockholders' Deficit 
+
+Total Liabilities and Stockholders' Deficit 
+
+See accompanying notes to financial statements 
+
+F- 3 
+
+CONNEXIONONE CORP. 
+
+ FORMERLY ALTERNATIVE FUEL TECHNOLOGIES, INC. 
+
+ STATEMENTS OF OPERATIONS 
+
+Year Ended 
+
+December 31, 
+ December 31, 
+
+2022 
+ 2021 
+ 
+ Revenues 
+
+Operating expenses 
+
+Professional fees 
+
+Other general administrative expense 
+
+Total operating expenses 
+
+Loss from operations 
+
+Other Income (Expenses) 
+
+Interest income (expense) 
+
+Total Other Income (Expenses) 
+
+Net income (loss) before income taxes 
+
+Income tax expense 
+
+Net income (loss) 
+
+Earnings (Loss) per Share - Basic and Diluted 
+
+Weighted Average Shares Outstanding - Basic and Diluted 
+
+See accompanying notes to financial statements 
+
+F- 4 
+
+CONNEXIONONE CORP. 
+
+ FORMERLY ALTERNATIVE
+FUEL TECHNOLOGIES, INC. 
+
+ STATEMENTS OF STOCKHOLDERS' DEFICIT 
+
+ For the Year Ended December 31, 2022 and 2021 
+
+Preferred Stock Series A 
+ Common Stock 
+
+Shares 
+ Par Value, 1 
+ Shares 
+ Par Value, 0.001 
+ Additional paid-in capital 
+ Accumulated income (loss) 
+ Total Stockholders' Deficit 
+ 
+ Balance, December 31, 2020 
+
+Net loss 
+
+Balance December 31, 2021 
+
+Balance, December 31, 2021 
+
+Common shares issued for preferred stock converted 
+
+Net loss 
+
+Balance December 31, 2022 
+
+See accompanying notes to financial statements 
+
+F- 5 
+
+CONNEXIONONE CORP. 
+
+ FORMERLY ALTERNATIVE FUEL TECHNOLOGIES, INC. 
+
+ STATEMENTS OF CASH FLOWS 
+
+Year Ended 
+
+December 31, 
+ December 31, 
+
+2022 
+ 2021 
+ 
+ Cash Flows from Operating Activities 
+
+Net loss 
+
+Adjustment to reconcile Net loss from operations: 
+
+Depreciation Amortization expense 
+
+Changes in operating assets and liabilities 
+
+Accounts payable and accrued expenses 
+
+Net Cash Used in Operating Activities 
+
+Cash Flows from Investing Activities 
+
+Acquisition (Disposal) of intangible assets 
+
+Net Cash Provided by Investing Activities 
+
+Cash Flows from Financing Activities 
+
+Proceeds from (Repayment of) related party payables 
+
+Net Cash Provided by Financing Activities 
+
+Net Increase (Decrease) in Cash 
+
+Cash at Beginning of Period 
+
+Cash at End of Period 
+
+Supplemental Cash Flow Information: 
+
+Income Taxes Paid 
+
+Interest Paid 
+
+See accompanying notes to financial statements 
+
+F- 6 
+
+CONNEXIONONE CORP. 
+
+ Formerly ALTERNATIVE FUEL TECHNOLOGIES, INC. 
+
+ NOTES TO FINANCIAL STATEMENTS 
+
+ As of and for the years ended December 31, 2022
+and 2021 
+
+The Company adopted section 740-10-25 of the FASB
+Accounting Standards Codification Section 740-10-25 with regards to uncertainty income taxes. Section 740-10-25 addresses
+the determination of whether tax benefits claimed or expected to be claimed on a tax return should be recorded in the financial statements.
+Under Section 740-10-25, the Company may recognize the tax benefit from an uncertain tax position only if it is more likely than not that
+the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits
+recognized in the financial statements from such a position should be measured based on the largest benefit that has a greater than fifty
+percent (50 likelihood of being realized upon ultimate settlement. Section 740-10-25 also provides guidance on de-recognition, classification,
+interest and penalties on income taxes, accounting in interim periods and requires increased disclosures. 
+
+potential dilutive securities for the years ended December 31, 2022 and 2021. 
+
+without any revenues. These factors among others raise substantial
+doubt about the Company s ability to continue as a going concern. 
+
+While the Company has not commenced operations and
+generate revenues, the Company s cash position may not be significant enough to support the Company s daily operations. Management
+intends to raise additional funds by way of a public or private offering. Management believes that the actions presently being taken to
+further implement its business plan and generate revenues provide the opportunity for the Company to continue as a going concern. While
+the Company believes in the viability of its strategy to generate revenues and in its ability to raise additional funds, there can be
+no assurances to that effect. The ability of the Company to continue as a going concern is dependent upon the Company s ability
+to further implement its business plan and generate revenues. 
+
+The financial statements do not include any adjustments
+that might be necessary if the Company is unable to continue as a going concern. 
+
+and nil as of December 31, 2022 and
+2021. 
+
+Accrual carryover from prior abandoned operations 
+
+Total other liabilities 
+
+The liabilities of 1,002,639
+as of December 31, 2022 and 2021, respectively was due on demand, unsecured, non-interest bearing, and was carried forward from the prior
+abandoned operations of the Company s prior management or owners. 
+
+The Company had certain cash, other receivable, property,
+intangible assets, and inventory of 1,066,823, and outstanding wages payable, accrued liabilities, notes payable of 665,735 as of December
+31, 2018 that was carryover from the abandoned business operation. Such assets were written-off and outstanding liabilities were assumed
+by the custodian which are recorded as other payable in the amount of . 
+
+and as of December 31, 2022 and 2021. 
+
+numbers
+of preferred stock at par value of per share. The 5,000,000 shares have a right of 80 voting control. As of December 31, 2022 and
+2021, the Company has and shares of preferred stock issued and outstanding, respectively. 
+
+The Company had 1,000,000 shares of preferred stock
+Series A issued and outstanding that were carryover from the abandoned business entity. Each share of preferred stock is convertible into
+four (4) shares of common stock with no preemptive or dividends rights. The 1,000,000 shares of preferred stock represent Seventy percent
+(80 voting control of the Company. 
+
+On May 22, 2017, the Company s appointed custodian
+and its board resolved to remove the 80 super voting rights from the 1,000,000 shares of preferred stock held by Ms. Kathleen A. McCandless,
+and to convert these shares into 4,000,000 shares of common stock. These shares were converted into shares of common stock on
+September 9, 2022. 
+
+Common Stock 
+
+The Company is authorized to issue shares of Common Stock
+with a par value of per share. 
+
+As of December 31, 2022 and December 31, 2021, the
+Company has shares of common stock issued and outstanding, respectively. 
+
+On July 29, 2022, the Company s
+board and shareholders have approved a of the Company s class of common stock
+with all other aspects to remain unchanged. The reverse stock split is pending approval from Financial Industry Regulatory Authority (FINRA). 
+
+On September 9, 2022, shares of common stock
+were issued for the conversion of shares of preferred stock. 
+
+of net operating losses NOL carried forward to offset future taxable income. In assessing the realization of deferred
+tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will be realized.
+The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which
+those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities, projected future
+taxable income and tax planning strategies in making this assessment. Based on the assessment, management has established a full valuation
+allowance against all of the deferred tax asset relating to NOLs for every period because it is more likely than not that all of the deferred
+tax asset will not be realized. 
+
+F- 12 
+
+<EX-31.1>
+ 2
+ connexionone_ex3101.htm
+ CERTIFICATION
+
+EXHIBIT 31.1 
+
+CERTIFICATIONS 
+
+I, Chris Chang, certify that: 
+
+1. 
+ I have reviewed this annual report of ConneXionONE Corp.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in the Exchange Act Rules 13a-15(f) and 15d 15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrants most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and, 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 27, 2023 
+ By: 
+ /s/ Chris Chang 
+
+Chris Chang 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ connexionone_ex3102.htm
+ CERTIFICATION
+
+EXHIBIT 31.2 
+
+CERTIFICATIONS 
+
+I, Chris Chang, certify that: 
+
+1. 
+ I have reviewed this annual report of ConneXionONE Corp.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in the Exchange Act Rules 13a-15(f) and 15d 15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrants most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and, 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 27, 2023 
+ By: 
+ /s/ Chris Chang 
+
+Chris Chang 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ connexionone_ex3201.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report on Form 10-K
+for the year ended December 31, 2022 of ConneXionONE Corp., a North Carolina corporation (the Company ), as filed with the
+Securities and Exchange Commission on the date hereof (the Report ), I, Chris Chang, Chief Executive Officer of the Company
+certify, pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. The Annual Report fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities and Exchange Act of 1934, as amended; and 
+
+2. The information contained in this Annual Report
+fairly presents, in all material respects, the financial condition and results of operation of the Company. 
+
+Date: March 27, 2023 
+ By: 
+ /s/ Chris Chang 
+
+Chris Chang 
+
+Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ connexionone_ex3202.htm
+ CERTIFICATION
+
+EXHIBIT 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report on Form 10-K
+for the year ended December 31, 2022 of ConneXionONE Corp., a North Carolina corporation (the Company ), as filed with the
+Securities and Exchange Commission on the date hereof (the Report ), I, Chris Chang, Chief Financial Officer of the Company
+certify, pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. The Annual Report fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities and Exchange Act of 1934, as amended; and 
+
+2. The information contained in this Annual Report
+fairly presents, in all material respects, the financial condition and results of operation of the Company. 
+
+Date: March 27, 2023 
+ By: 
+ /s/ Chris Chang 
+
+Chris Chang 
+
+Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ aftc-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ aftc-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ aftc-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ aftc-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

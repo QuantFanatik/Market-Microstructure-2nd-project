@@ -1,0 +1,550 @@
+<Header>
+<FileStats>
+    <FileName>20230328_10-K_edgar_data_18672_0001910923-23-000005.txt</FileName>
+    <GrossFileSize>2217347</GrossFileSize>
+    <NetFileSize>36904</NetFileSize>
+    <NonText_DocumentType_Chars>2011254</NonText_DocumentType_Chars>
+    <HTML_Chars>158292</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001910923-23-000005.hdr.sgml : 20230328
+<ACCEPTANCE-DATETIME>20230327183120
+ACCESSION NUMBER:		0001910923-23-000005
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20221231
+<DEPOSITOR-CIK>0000018672
+<SPONSOR-CIK>0000018672
+FILED AS OF DATE:		20230328
+DATE AS OF CHANGE:		20230327
+ABS ASSET CLASS:             	Debt Securities
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cleco Securitization I LLC
+		CENTRAL INDEX KEY:			0001910923
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				874333832
+		STATE OF INCORPORATION:			LA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-264319
+		FILM NUMBER:		23765757
+
+	BUSINESS ADDRESS:	
+		STREET 1:		505 CLECO DRIVE
+		STREET 2:		OFFICE NUMBER 16
+		CITY:			PINEVILLE
+		STATE:			LA
+		ZIP:			71360
+		BUSINESS PHONE:		318.484.4183
+
+	MAIL ADDRESS:	
+		STREET 1:		505 CLECO DRIVE
+		STREET 2:		OFFICE NUMBER 16
+		CITY:			PINEVILLE
+		STATE:			LA
+		ZIP:			71360
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLECO POWER LLC
+		CENTRAL INDEX KEY:			0000018672
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				720244480
+		STATE OF INCORPORATION:			LA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05663
+		FILM NUMBER:		23765758
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2030 DONAHUE FERRY ROAD
+		CITY:			PINEVILLE
+		STATE:			LA
+		ZIP:			71360-5226
+		BUSINESS PHONE:		3184847400
+
+	MAIL ADDRESS:	
+		STREET 1:		2030 DONAHUE FERRY ROAD
+		CITY:			PINEVILLE
+		STATE:			LA
+		ZIP:			71360-5226
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLECO UTILITY GROUP INC
+		DATE OF NAME CHANGE:	19990708
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CENTRAL LOUISIANA ELECTRIC CO INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0001910923-23-000005.txt : 20230328
+
+10-K
+ 1
+ csiform10-k.htm
+ 10-K
+
+Document 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 
+
+FORM 10-K 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended December 31, 2022 Or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ Commission file number 333-264319 
+ CLECO SECURITIZATION I LLC (Exact name of issuing entity as specified in its charter) 
+ CIK 0001910923 
+ Louisiana 
+ 87-4333832 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ 505 Cleco Drive, Office Number 16, Pineville, Louisiana 
+ 71360 
+ (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code (318) 484-4183 
+ 
+ Commission file number 1-05663 
+ CLECO POWER LLC (Exact name of depositor and sponsor as specified in its charter) 
+ CIK 0000018672 
+ Louisiana 72-0244480 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ 2030 Donahue Ferry Road, Pineville, Louisiana 
+ 71360-5226 
+ (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code (318) 484-7400 
+ Securities registered pursuant to Section 12(b) of the Act None 
+ Securities registered pursuant to Section 12(b) of the Act None 
+ 
+ Indicate by check mark if the Registrant is a well-known seasoned issuer as defined in Rule 405 of the Securities Act. Yes No 
+ 
+ Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+ 
+ Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. Yes No 
+ 
+ Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months(or for such shorter period that the Registrant was required to submit such files). Yes No 
+ 
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. (Check one) 
+ Large accelerated filer Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revise accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ 
+ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+ 
+ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+ 
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act) Yes No 
+ 
+ The Registrant does not have any voting or non-voting common equity held by non-affiliates. 
+ Documents incorporated by reference A portion of the Annual Report on Form 10-K of Cleco Power for the fiscal year ended December 31, 2022 is incorporated by reference in Item 11 of Part III of this report. 
+
+CLECO SECURITIZATION I LLC 2022 FORM 10-K 
+
+ PART I 
+
+ITEM 1 . BUSINESS 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 1A . RISK FACTORS 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM 2. PROPERTIES 
+ 
+ Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 3 . LEGAL PROCEEDINGS 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 4 . MINE SAFETY DISCLOSURES 
+
+None. 
+ 
+ 2 
+
+CLECO SECURITIZATION I LLC 2022 FORM 10-K 
+
+ PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 6 . RESERVED 
+
+ITEM 7 . MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 7A . QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 8 . FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURES 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 9A . CONTROLS AND PROCEDURES 
+
+Omitted pursuant to General Instruction J of Form 10-K. 
+
+ITEM 9B . OTHER INFORMATION 
+
+None. 
+
+ITEM 9C . DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+Not applicable. 
+ 
+ 3 
+
+CLECO SECURITIZATION I LLC 2022 FORM 10-K 
+
+ PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE OF THE REGISTRANT 
+
+Overview 
+ As of March 27, 2023, Cleco Securitization I LLC (Cleco Securitization) has five managers. Pursuant to Cleco Securitization s limited liability company operating agreement, its affairs will be managed by managers to be appointed from time to time by Cleco Power LLC (Cleco Power). Cleco Securitization is required to have at least one independent manager until all of Cleco Securitization's storm recovery bonds and financing costs have been paid in full. The independent manager as defined in Cleco Securitization's operating agreement is a natural person that is not and has not been for at least five years prior to the date of his or her appointment 
+ a direct or indirect legal or beneficial owner of Cleco Securitization, Cleco Power, or any of Cleco Securitization s or Cleco Power s affiliates, 
+ a relative, supplier, employee, officer, director (other than as an independent director), manager (other than as an independent manager), contractor, or material creditor of Cleco Securitization, Cleco Power, or any of Cleco Securitization s or Cleco Power's affiliates, or 
+ a person who controls (whether directly, indirectly, or otherwise) Cleco Power or its affiliates or any creditor, employee, officer, director, manager or material supplier or contractor of Cleco Power or its affiliates provided, that the indirect or beneficial ownership of Cleco Power or its affiliates through a mutual fund or similar diversified investment vehicle with respect to which the owner does not have discretion or control over the investments held by such diversified investment vehicle shall not preclude such owner from being an independent manager. 
+ 
+ Code of Conduct 
+ Cleco Securitization is a wholly owned subsidiary of Cleco Power. Cleco Power has adopted a Code of Conduct that applies to its principal executive officer, principal financial officer, principal accounting officer, and treasurer. Cleco Power has also adopted an Ethics Guide applicable to all employees and its Board of Managers (the Board). In addition, the Board has adopted Conflicts of Interest and Related Policies to prohibit certain conduct and to reflect the expectation of the Board that its members engage in and promote honest and ethical conduct in carrying out their duties and responsibilities, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships and corporate opportunities. Under the Conflicts of Interest and Related Policies, Cleco Power considers transactions that are reportable under the U.S. Securities and Exchange Commission s rules for transactions with related parties to be conflicts of interest and prohibits them. Any request, waiver, interpretation or other administration of the policy shall be referred to Cleco Power s Governance and Public Affairs Committee. Any recommendations by the Governance and Public Affairs Committee to implement a waiver shall be referred to the full Board for a final determination. The Code of Conduct for Financial Managers, Ethics Guide, and Conflicts of Interest and Related Policies can be found at https cleco.com about leadership-governance codes-of-conduct. Each of these documents is also available free of charge by request sent to Public Relations, Cleco, P.O. Box 5000, Pineville, LA 71361-5000. 
+ 
+ Executive Officers of Cleco 
+ The following is a list of the managers and executive officers of Cleco Securitization as of March 27, 2023 
+ 
+ NAME 
+ AGE POSITION AND FIVE-YEAR EMPLOYMENT HISTORY 
+ William G. Fontenot 
+ Cleco Corporate Holdings LLC 
+ 
+ Cleco Power LLC (1) 
+
+Cleco Cajun LLC (2) 
+ 
+ Cleco Securitization I LLC 
+ 60 
+ President and Chief Executive Officer since January 2018. 
+ Chief Executive Officer since February 2019 President and Chief Executive Officer from January 2018 to February 2019. 
+ 
+ Chief Executive Officer since February 2019. 
+ 
+ President and Manager since June 2022. 
+ F. Tonita Laprarie 
+ Cleco Corporate Holdings LLC 
+ Cleco Power LLC 
+ 
+ Cleco Securitization I LLC 
+ 58 
+ Controller and Chief Accounting Officer since July 2016. 
+ 
+ Vice President and Manager since June 2022. 
+ Samantha McKee 
+ Cleco Corporate Holdings LLC 
+ Cleco Power LLC 
+ 
+ Cleco Securitization I LLC 
+ 43 
+ Assistant Treasurer since March 2021 Director - Tax from June 2018 to March 2021 Manager - Accounting Services from May 2016 to June 2018. 
+ Treasurer and Manager since June 2022. 
+ (1) Cleco Power is a wholly owned subsidiary of Cleco Corporate Holdings LLC. 
+ (2) Cleco Cajun LLC is a wholly owned subsidiary of Cleco Corporate Holdings LLC. 
+ 
+ 4 
+
+CLECO SECURITIZATION I LLC 2022 FORM 10-K 
+
+ NAME 
+ AGE POSITION AND FIVE-YEAR EMPLOYMENT HISTORY 
+ Stacy Stubbs 
+ Cleco Corporate Holdings LLC 
+ Cleco Power LLC 
+ 
+ Cleco Securitization I LLC 
+ 55 
+ Accounting Policy and Research Advisor since May 2018 Manager Tax from November 2013 to May 2018. 
+
+Secretary and Manager since June 2022. 
+ Kevin P. Burns 
+ Global Securitization Services, LLC 
+
+Cleco Securitization I LLC 
+ 52 
+ President and Co-founder since 1996. Fortune 1000 companies have selected Mr. Burns to serve as independent director for their special purpose vehicle subsidiaries established to finance commercial real estate, energy infrastructure and many classes of financial assets. 
+ 
+ Independent Manager since June 2022. 
+
+ITEM 11 . EXECUTIVE COMPENSATION 
+
+Kevin P. Burns, representative of Global Securitization Services, LLC, serves as the independent manager of Cleco Securitization. Cleco Securitization pays an annual fee of 5,000 to Global Securitization Services, LLC for Mr. Burns' service. Cleco Securitization does not pay any compensation to its executive officers or other managers. 
+ The information required by this item with respect to Cleco Power is incorporated herein by reference to Item 11. Executive Compensation of the Annual Report on Form 10-K of Cleco Power for the fiscal year ended December 31, 2022, filed with the Securities and Exchange Commission (the SEC on March 8, 2023. 
+
+ITEM 12 . SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+None. 
+
+ITEM 13 . CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+None. 
+
+ITEM 14 . PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+Omitted pursuant to General Instructions J of Form 10-K. 
+
+5 
+
+CLECO SECURITIZATION I LLC 2022 FORM 10-K 
+
+ PART IV 
+
+ITEM 15 . EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+DESCRIPTION 15(a)(1) Financial Statements 
+ Not Applicable. 
+ 
+ 15(a)(2) Financial Statements Schedules 
+ Not Applicable. 
+ 
+ 15(a)(3) and 15(b) List of Exhibits 
+ See Exhibits listed below, which are incorporated herein by reference. 
+ 15(c) Not Applicable. 
+ The Exhibits designated by an asterisk are filed herewith. The Exhibits not so designated previously have been filed with the SEC and are incorporated herein by reference. 
+ 
+ EXHIBITS 
+ EXHIBIT NUMBER DESCRIPTION SEC FILE OR REGISTRATION NUMBER REGISTRATION STATEMENT OR REPORT EXHIBIT NUMBER 3.1 Amended and Restated Articles of Organization of Cleco Securitization I LLC, dated as of June 20, 2022 
+ 333-264319 8-K(6 22 22) 3.2 3.2 Amended and Restated Limited Liability Company Operating Agreement of Cleco Securitization I LLC, dated as of June 20, 2022 
+ 333-264319 8-K(6 22 22) 3.4 4.1 Indenture between Cleco Securitization I LLC and The Bank of New York Mellon Trust Company, National Association, as Trustee, dated as of June 22, 2022 
+ 333-264319 8-K(6 22 22) 4.1 4.2 Series Supplement (including the form of the Storm Recovery Bonds) between Cleco Securitization I LLC and The Bank of New York Mellon Trust Company, National Association, as Trustee, dated as of June 22, 2022 
+ 333-264319 8-K(6 22 22) 4.2 10.1 Storm Recovery Property Servicing Agreement between Cleco Secu ritization I LLC and Cleco Power LLC dated as of June 22, 2022 
+ 333-264319 8-K(6 22 22) 10.1 10.2 Storm Recovery Property Sale Agreement between Cleco Securitization I LLC and Cleco Power LLC dated as of June 22, 2022 
+ 333-264319 8-K(6 22 22) 10.2 10.3 Administration Agreement between Cleco Securitization I LLC and Cleco Power LLC dated as of June 22, 2022 
+ 333-264319 8-K(6 22 22) 10.3 31.1 Certification pursuant to Rule 13a-14(d) 15d-14(d) 
+ 33.1 Report on assessment of compliance with servicing criteria for asset-backed securities for Cleco Power LLC 
+ 33.2 Assertion of compliance with applicable servicing criteria for The Bank of New York Mellon Trust Co mpany, National Association 
+ 34.1 Attestation report on assessment of compliance with servicing criteria for asset-backed securities of PricewaterhouseCoopers LLP on behalf of Cleco Power LLC 
+ 34.2 Attestation report on assessment of compliance with servicing criteria for asset-backed securities of KPMG on behalf of The Bank of New York Mellon Trust Company, National Associa tion 
+ 35.1 Servicer compliance statement 
+
+ITEM 16 . FORM 10-K SUMMARY 
+
+None. 
+
+ITEM 1112(b) . SIGNIFICANT OBLIGORS OF POOL ASSETS 
+
+None. 
+ 
+ 6 
+
+CLECO SECURITIZATION I LLC 2022 FORM 10-K 
+
+ ITEM 1114(b)(2 ). CREDIT ENHANCEMENTS AND OTHER SUPPORT, EXCEPT FOR CERTAIN DERIVATIVES INSTRUMENTS 
+
+None. 
+
+ITEM 1115(b) . CERTAIN DERIVATIVES INSTRUMENTS 
+
+None. 
+
+ITEM 1117. LEGAL PROCEEDINGS 
+
+None. 
+
+ITEM 1119 . AFFILIATIONS AND CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+Cleco Securitization I LLC is a wholly owned subsidiary of Cleco Power LLC. 
+
+ITEM 1122 . COMPLIANCE WITH APPLICABLE SERVICING CRITERIA 
+
+See exhibits 33.1, 33.2, 34.1 and 34.2 under Item 15. 
+
+ITEM 1123 . SERVICER COMPLIANCE STATEMENT 
+
+See exhibit 35.1 under Item 15. 
+ 
+ 7 
+
+CLECO SECURITIZATION I LLC 2022 FORM 10-K 
+
+ Signatures 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized, this 27 th day of March 2023. 
+
+CLECO SECURITIZATION I LLC 
+
+(Issuing Entity) 
+
+By CLECO POWER LLC, as servicer 
+
+s Vincent M. Sipowicz 
+
+(Vincent M. Sipowicz) 
+
+(Treasurer) 
+ (Senior officer in charge of the servicing function) 
+
+Supplemental Information to be Furnished With Reports Filed Pursuant to Section 15(d) of the Act by Registrants Which Have Not Registered Securities Pursuant to Section 12 of the Act 
+ 
+ No such annual report, proxy statement, form of proxy or other proxy soliciting material has been sent to the Registrant s security holders. The Registrant will not be sending an annual report or any proxy material to its security holders subsequent to the filing of this Annual Report on Form 10-K . 
+ 8 
+
+<EX-31.1>
+ 2
+ csi202210-kxexhibit311.htm
+ EX-31.1
+
+Document 
+
+CLECO SECURITIZATION I LLC EXHIBIT 31.1 
+ 
+ Certification Pursuant to Rule 13a-14(d) 15d-14(d) 
+ 
+ I, Vincent M. Sipowicz, Treasurer of Cleco Power LLC, as servicer (the Servicer ), certify that 
+ 
+ 1. I have reviewed this report on Form 10-K and all reports on Form 10-D required to be filed in respect of the period covered by this report on Form 10-K of Cleco Securitization I LLC (the Exchange Act periodic reports 
+ 
+ 2. Based on my knowledge, the Exchange Act periodic reports, taken as a whole, do not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, all of the distribution, servicing and other information required to be provided under Form 10-D for the period covered by this report is included in the Exchange Act periodic reports 
+ 
+ 4. I am responsible for reviewing the activities performed by the Servicer, and based on my knowledge and the compliance review conducted in preparing the servicer compliance statement required in this report under Item 1123 of Regulation AB, and except as disclosed in the Exchange Act periodic reports, the Servicer has fulfilled its obligations under the Storm Recovery Property Servicing Agreement dated as of June 22, 2022, between Cleco Securitization I LLC, as the Issuing Entity, and the Servicer, in all material respects and 
+ 
+ 5. All of the reports on assessment of compliance with servicing criteria for asset-backed securities and their related attestation reports on assessment of compliance with servicing criteria for asset-backed securities required to be included in this report in accordance with Item 1122 of Regulation AB and Exchange Act Rule 13a-18 and 15d-18 have been included as an exhibit to this report, except as otherwise disclosed in this report. Any material instances of noncompliance described in such reports have been disclosed in this report on Form 10-K. 
+ 
+ In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated party The Bank of New York Mellon Trust Company, National Association, as Indenture Trustee. 
+ 
+ Date March 27, 2023 s Vincent M. Sipowicz Vincent M. Sipowicz Treasurer (Senior officer in charge of servicing function) Cleco Power LLC, as servicer 
+
+</EX-31.1>
+
+<EX-33.1>
+ 3
+ csi202210-kxexhibit331.htm
+ EX-33.1
+
+Document 
+
+CLECO SECURITIZATION I LLC EXHIBIT 33.1 
+ 
+ Report on Assessment of Compliance with Servicing Criteria for Asset-Backed Securities 
+ 
+ The undersigned hereby certifies that he is the duly elected and acting Treasurer of Cleco Power LLC (the Servicer under the Storm Recovery Property Servicing Agreement dated as of June 22, 2022 (the Servicing Agreement between the Servicer and Cleco Securitization I LLC (the Issuer and further that 
+ 
+ 1. The undersigned is responsible for assessing the Servicer s compliance with the servicing criteria applicable set forth in Item 1122(d) of Regulation AB (the Servicing Criteria ). 
+ 
+ 2. With respect to each of the Servicing Criteria, the undersigned has made the following assessment of the Servicing Criteria in accordance with Item 1122(d) of Regulation AB, with such discussion regarding the performance of such Servicing Criteria during the period from June 22, 2022, to December 31, 2022 (such period, the Assessment Period ), and covered by Cleco Power s Annual Report on Form 10-K for the fiscal year ended December 31, 2022 (the Cleco Power Form 10-K 
+ 
+ REGULATION AB REFERENCE SERVICING CRITERIA APPLICABLE SERVICING CRITERIA General Servicing Considerations 1122(d)(1)(i) Policies and procedures are instituted to monitor any performance or other triggers and events of default in accordance with the transaction agreements. Applicable assessment below. 1122(d)(1)(ii) If any material servicing activities are outsourced to third parties, policies and procedures are instituted to monitor the third party's performance and compliance with such servicing activities. Not applicable no material servicing activities were outsourced to third parties. 1122(d)(1)(iii) Any requirements in the transaction agreements to maintain a back-up servicer for pool assets are maintained. Not applicable documents do not provide for a back-up servicer. 1122(d)(1)(iv) A fidelity bond and errors and omissions policy is in effect on the party participating in the servicing function throughout the reporting period in the amount of coverage required by and otherwise in accordance with the terms of the transaction agreements. Not applicable the transaction agreements do not require the Servicer to ensure a fidelity bond and errors and omissions policy is in effect. 1122(d)(1)(v) Aggregation of information, as applicable, is mathematically accurate and the information conveyed accurately reflects the information Applicable Cash Collection and Administration 1122(d)(2)(i) Payments on pool assets are deposited into the appropriate custodial bank accounts and related bank clearing accounts no more than two business days of receipt, or such other number of days specified in the transaction agreements. Applicable 1122(d)(2)(ii) Disbursements made via wire transfer on behalf of an obligor or to an investor are made only by authorized personnel. Applicable 1122(d)(2)(iii) Advances of funds or guarantees regarding collections, cash flows or distributions, and any interest or other fees charged for such advances, are made, reviewed and approved as specified in the transaction agreements. Not applicable no advances by the Servicer are permitted under the transaction agreements. 1122(d)(2)(iv) The related accounts for the transaction, such as cash reserve accounts or accounts established as a form of overcollateralization, are separately maintained (e.g., with respect to commingling of cash) as set forth in the transaction agreements. Applicable the transaction agreements require each series of bonds to have its own bank accounts or trust accounts. 1122(d)(2)(v) Each custodial account is maintained at a federally insured depository institution as set forth in the transaction agreements. For purposes of this criterion, federally insured depository institution with respect to a foreign financial institution means a foreign financial institution that meets the requirements of Rule 13k-1(b)(1) of the Exchange Act. Applicable, but no current assessment required all custodial accounts are maintained by the Trustee. 1122(d)(2)(vi) Unissued checks are safeguarded so as to prevent unauthorized access. Not applicable all transfers made by wire transfer. 1122(d)(2)(vii) Reconciliations are prepared on a monthly basis for all asset-backed securities related bank accounts, including custodial accounts and related bank clearing accounts. These reconciliations (A) are mathematically accurate (B) are prepared within 30 calendar days after the bank statement cutoff date, or such other number of days specified in the transaction agreements (C) are reviewed and approved by someone other than the person who prepared the reconciliation and (D) contain explanations for reconciling items. These reconciling items are resolved within 90 calendar days of their original identification, or such other number of days specified in the transaction agreements. Applicable assessment below. 
+
+REGULATION AB REFERENCE SERVICING CRITERIA APPLICABLE SERVICING CRITERIA Investor Remittances and Reporting 1122(d)(3)(i) Reports to investors, including those to be filed with the SEC, are maintained in accordance with the transaction agreements and applicable SEC requirements. Specifically, such reports (A) are prepared in accordance with timeframes and other terms set forth in the transaction agreements (B) provide information calculated in accordance with the terms specified in the transaction agreements (C) are filed with the SEC as required by its rules and regulations and (D) agree with investors' or the trustee's records as to the total unpaid principal balance and number of pool assets serviced by the Servicer. Applicable assessment below. 1122(d)(3)(ii) Amounts due to investors are allocated and remitted in accordance with timeframes, distribution priority and other terms set forth in the transaction agreements. Not applicable investor records maintained by the Trustee. 1122(d)(3)(iii) Disbursements made to an investor are posted within two business days to the Servicer's investor records, or such other number of days specified in the transaction agreements. Applicable 1122(d)(3)(iv) Amounts remitted to investors per the investor reports agree with cancelled checks, or other form of payment, or custodial bank statements. Applicable assessment below. Pool Asset Administration 1122(d)(4)(i) Collateral or security on pool assets is maintained as required by the transaction agreements or related pool asset documents. Applicable assessment below. 1122(d)(4)(ii) Pool assets and related documents are safeguarded as required by the transaction agreements. Applicable assessment below. 1122(d)(4)(iii) Any additions, removals or substitutions to the asset pool are made, reviewed and approved in accordance with any conditions or requirements in the transaction agreements. Not applicable no removals or substitutions of Storm Recovery property are contemplated or allowed under the transaction documents. 1122(d)(4)(iv) Payments on pool assets, including any payoffs, made in accordance with the related pool asset documents are posted to the Servicer's obligor records maintained no more than two business days after receipt, or such other number of days specified in the transaction agreements, and allocated to principal, interest or other items (e.g., escrow) in accordance with the related pool asset documents. Applicable assessment below. 1122(d)(4)(v) The Servicer's records regarding the pool assets agree with the Servicer's records with respect to an obligor's unpaid principal balance. Not applicable because underlying obligation (Storm Recovery charge) is not an interest bearing instrument 1122(d)(4)(vi) Changes with respect to the terms or status of an obligor's pool asset (e.g., loan modifications or re-agings) are made, reviewed and approved by authorized personnel in accordance with the transaction agreements and related pool asset documents. Applicable assessment below. 1122(d)(4)(vii) Loss mitigation or recovery actions (e.g., forbearance plans, modifications and deeds in lieu of foreclosure, foreclosures and repossessions, as applicable) are initiated, conducted and concluded in accordance with the timeframes or other requirements established by the transaction agreements. Applicable limited assessment below. Servicer actions governed by LPSC regulations. 1122(d)(4)(viii) Records documenting collection efforts are maintained during the period pool asset is delinquent in accordance with the transaction agreements. Such records are maintained on at least a monthly basis, or such other period specified in the transaction agreements, and describe the entity's activities in monitoring delinquent pool assets including, for example, phone calls, letters and payment rescheduling plans in cases where delinquency is deemed temporary (e.g., illness or unemployment). Applicable, but does not require assessment since no explicit documentation requirement with respect to delinquent accounts are imposed under the transactional documents due to availability of true-up mechanism. 1122(d)(4)(ix) Adjustments to interest rates or rates of return for pool assets with variable rates are computed based on the related pool asset documents. Not applicable Storm Recovery charges are not interest bearing instruments. 1122(d)(4)(x) Regarding any funds held in trust for an obligor (such as escrow accounts) (A) such funds are analyzed, in accordance with the obligor's pool asset documents, on at least an annual basis, or such other period specified in the transaction agreements (B) interest on such funds is paid, or credited, to obligors in accordance with applicable pool asset documents and state laws and (C) such funds are returned to the obligor within 30 calendar days of full repayment of the related pool assets, or such other number of days specified in the transaction agreements. Not Applicable Servicer does not maintain deposit accounts for obligors. 1122(d)(4)(xi) Payments made on behalf of an obligor (such as tax or insurance payments) are made on or before the related penalty or expiration dates, as indicated on the appropriate bills or notices for such payments, provided that such support has been received by the Servicer at least 30 calendar days prior to these dates, or such other number of days specified in the transaction agreements. Not applicable Servicer does not make payments on behalf of obligors. 1122(d)(4)(xii) Any late payment penalties in connection with any payment to be made on behalf of an obligor are paid from the Servicer's funds and not charged to the obligor unless the late payment was due to the obligor's error or omission. Not applicable Servicer cannot make advances of its own funds on behalf of customers under the transaction documents. 1122(d)(4)(xiii) Disbursements made on behalf of an obligor are posted within two business days to the obligor's records maintained by the Servicer, or such other number of days specified in the transaction agreements. Not applicable Servicer cannot make advances of its own funds on behalf of customers to pay principal or interest on the bonds. 1122(d)(4)(xiv) Delinquencies, charge-offs and uncollectible accounts are recognized and recorded in accordance with the transaction agreements. Applicable assessment below. 1122(d)(4)(xv) Any external enhancement or other support, identified in Item 1114(a)(1) through (3) or Item 1115 of Regulation AB, is maintained as set forth in the transaction agreements. Not applicable no external enhancement is required under the transaction documents. 
+
+3. To the best of the undersigned s knowledge, based on such review, the Servicer is in compliance in all material respects with the applicable servicing criteria set forth above as of December 31, 2022, and for the period from June 22, 2022, to December 31, 2022, and covered by the Cleco Power Form 10-K. 
+ 
+ 4. PricewaterhouseCoopers LLP, a registered independent public accounting firm, has issued to us an attestation report in accordance with Section 1122(b) of Regulation AB on its assessment of compliance with the applicable servicing criteria as of December 31, 2022, and for the period from June 22, 2022, to December 31, 2022, and covered by the Cleco Power Form 10-K. 
+ 
+ Executed as of this 27th day of March, 2023. 
+ CLECO POWER LLC s Vincent M. Sipowicz Vincent M. Sipowicz Treasurer 
+
+</EX-33.1>
+
+<EX-33.2>
+ 4
+ csi202210-kxexhibit332.htm
+ EX-33.2
+
+csi202210-kxexhibit332 
+
+</EX-33.2>
+
+<EX-34.1>
+ 5
+ csi202210-kxexhibit341.htm
+ EX-34.1
+
+Document 
+
+CLECO SECURITIZATION I LLC EXHIBIT 34.1 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ 
+ To the Board of Managers and Member of Cleco Power LLC 
+
+We have examined management s assertion, included in the accompanying Management's Report on Assessment of Compliance with SEC Regulation AB Servicing Criteria, that Cleco Power LLC (the Company complied with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange Commission's Regulation AB for the Series 2022-A Senior Secured Storm Recovery Bonds, as of December 31, 2022 and for the period from June 22, 2022 to December 31, 2022, excluding criteria 1122(d)(1)(ii), 1122(d)(1)(iii), 1122(d)(1)(iv), 1122(d)(2)(iii), 1122(d)(2)(vi), 1122(d)(3)(ii), 1122(d)(4)(iii), 1122(d)(4)(v), 1122(d)(4)(ix), 1122(d)(4)(x), 1122(d)(4)(xi), 1122(d)(4)(xii), 1122(d)(4)(xiii) and 1122(d)(4)(xv), which the Company has determined are not applicable to the servicing activities performed by it with respect to the Platform. The Company s management is responsible for its assertion and for the Company's compliance with the applicable servicing criteria. Our responsibility is to express an opinion on management's assertion about the Company s compliance with the applicable servicing criteria based on our examination. 
+ 
+ Our examination was conducted in accordance with the standards of the Public Company Accounting Oversight Board (United States) and in accordance with attestation standards established by the American Institute of Certified Public Accountants. Those standards require that we plan and perform the examination to obtain reasonable assurance about whether management s assertion about compliance with the applicable servicing criteria is fairly stated, in all material respects, and, accordingly, included examining, on a test basis, evidence about the Company s compliance with the applicable servicing criteria and performing such other procedures as we considered necessary in the circumstances. Our examination included testing of selected asset-backed transactions and securities that comprise the Platform, testing of selected servicing activities related to the Platform, and determining whether the Company processed those selected transactions and performed those selected activities in compliance with the applicable servicing criteria. Our procedures were limited to the selected transactions and servicing activities performed by the Company during the period covered by this report. Our procedures were not designed to detect noncompliance arising from errors that may have occurred prior to or subsequent to our tests that may have affected the balances or amounts calculated or reported by the Company during the period covered by this report. We believe that our examination provides, and that the evidence we obtained is sufficient and appropriate to provide, a reasonable basis for our opinion. Our examination does not provide a legal determination on the Company s compliance with the servicing criteria. 
+ 
+ We are required to be independent and to meet our other ethical responsibilities in accordance with relevant ethical requirements related to the engagement. 
+ 
+ In our opinion, management s assertion that the Company complied with the aforementioned applicable servicing criteria as of December 31, 2022 and for the period from June 22, 2022 to December 31, 2022, for the Series 2022-A Senior Secured Storm Recovery Bonds, is fairly stated, in all material respects. 
+
+Date March 27, 2023 s PricewaterhouseCoopers LLP PricewaterhouseCoopers LLP Los Angeles, California 
+
+</EX-34.1>
+
+<EX-34.2>
+ 6
+ csi202210-kxexhibit342.htm
+ EX-34.2
+
+csi202210-kxexhibit342 
+
+</EX-34.2>
+
+<EX-35.1>
+ 7
+ csi202210-kxexhibit351.htm
+ EX-35.1
+
+Document 
+
+CLECO SECURITIZATION I LLC EXHIBIT 35.1 
+ 
+ Servicer Compliance Statement 
+ 
+ The undersigned hereby certifies that he is the duly elected and acting Treasurer of Cleco Power LLC, as servicer (the Servicer ), under the Storm Recovery Property Servicing Agreement dated as of June 22, 2022 (the Servicing Agreement between the Servicer and Cleco Securitization I LLC, as the issuing entity, and further that 
+ 1. A review of th e activities of the Servicer and of its performance under the Servicing Agreement during the twelve months ended December 31, 2022 has been made under the supervision of the undersigned pursuant to Section 3.03 of the Servicing Agreement and 
+ 2. To the best of the undersigned s knowle dge, based on such review, the Servicer has fulfilled all of its obligations in all material respects under the Servicing Agreement throughout the twelve months ended December 31, 2022, except as set forth in Annex A hereto. 
+ Executed as of this 27th day of March, 2023. 
+ 
+ CLECO POWER LLC, as servicer s Vincent M. Sipowicz Vincent M. Sipowicz Treasurer 
+
+ANNEX A 
+ to Servicer Compliance Statement 
+ 
+ LIST OF SERVICER DEFAULTS 
+ 
+ The following Servicer Defaults, or events which with the giving of notice, the lapse of time, or both, would become Servicer Defaults known to the undersigned occurred during the twelve months ended December 31, 2022 
+ 
+ Nature of Default Status None 
+
+</EX-35.1>
+

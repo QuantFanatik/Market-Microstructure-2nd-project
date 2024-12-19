@@ -1,0 +1,2081 @@
+<Header>
+<FileStats>
+    <FileName>20230404_10-K_edgar_data_1593184_0001683168-23-002125.txt</FileName>
+    <GrossFileSize>2797935</GrossFileSize>
+    <NetFileSize>84367</NetFileSize>
+    <NonText_DocumentType_Chars>1166794</NonText_DocumentType_Chars>
+    <HTML_Chars>440636</HTML_Chars>
+    <XBRL_Chars>489714</XBRL_Chars>
+    <XML_Chars>573790</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-23-002125.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230403191601
+ACCESSION NUMBER:		0001683168-23-002125
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		51
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230403
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FINDIT, INC.
+		CENTRAL INDEX KEY:			0001593184
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				462836541
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56345
+		FILM NUMBER:		23794521
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5051 PEACHTREE CORNERS CIRCLE
+		STREET 2:		NUMBER 200
+		CITY:			NORCROSS
+		STATE:			GA
+		ZIP:			30092
+		BUSINESS PHONE:		(404) 443-3224
+
+	MAIL ADDRESS:	
+		STREET 1:		5051 PEACHTREE CORNERS CIRCLE
+		STREET 2:		NUMBER 200
+		CITY:			NORCROSS
+		STATE:			GA
+		ZIP:			30092
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARTEMIS ENERGY HOLDINGS, INC.
+		DATE OF NAME CHANGE:	20131127
+
+</SEC-Header>
+</Header>
+
+ 0001683168-23-002125.txt : 20230404
+
+10-K
+ 1
+ findit_i10k-123122.htm
+ ANNUAL REPORT
+
+Table of Contents 
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+ACT OF 1934 
+
+ For the fiscal year ended: , 2022 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+EXCHANGE ACT OF 1934 
+
+ For the transition period from _____________to 
+
+Commission file number: 
+
+(Exact name of Company in its charter) 
+
+(State or other jurisdiction of incorporation or organization) 
+ 
+ (I.R.S. Employer Identification) 
+
+, 
+
+ , 
+
+ (Address of principal executive offices, including
+zip code) 
+
+Registrant's Telephone number, including area code:
+
+Securities registered pursuant to Section 12(b) of
+the Act: None 
+
+ Securities registered pursuant to Section 12(g) of
+the Act: Common Stock, 0.001 par value 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or 15(d) of the Exchange Act. Yes 
+
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act during the preceding 12 months (or such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for at least
+the part 90 days. No 
+
+Indicate by check mark whether the registrant has
+submitted electronically and posted on its corporate website, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T (section 232.406 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit and post such files). Yes 
+
+Indicate by check mark if disclosure of delinquent
+filers in response to Item 405 of Regulation S-K is not contained hereof, and will not be contained, to will be contained, to the best
+of the registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K. 
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management s assessment on the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered firm that prepared or issued its audit report. 
+
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+State the aggregate market value of the voting and
+non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average
+bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal
+quarter. The market value of the registrant s voting 0.001 par value common stock held by non-affiliates of the registrant on
+June 30, 2022, was approximately . 
+
+Indicate the number of shares outstanding of each of the registrant s
+classes of common stock, as of the latest practicable date. The number of shares outstanding of the registrant's only class of common
+stock, as of March 31, 2023 was shares of its 0.001 par value common stock. 
+
+No documents are incorporated into the text by reference. 
+
+Findit, Inc. 
+
+ Form 10-K 
+
+ For the Fiscal Year Ended December 31, 2022 
+
+ Table of Contents 
+
+Page 
+ 
+ Part I 
+
+Item 1. Business 
+ 1 
+ 
+ Item 1A. Risk Factors 
+ 4 
+ 
+ Item 1B. Unresolved Staff Comments 
+ 4 
+ 
+ Item 2. Properties 
+ 4 
+ 
+ Item 3. Legal Proceedings 
+ 4 
+ 
+ Item 4. Mine Safety Disclosures 
+ 5 
+
+Part II 
+
+Item 5. Market for Company's Common Equity, Related Stockholders Matters and Issuer Purchases of Equity Securities 
+ 6 
+ 
+ Item 6. Selected Financial Data 
+ 6 
+ 
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 7 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+ 9 
+ 
+ Item 8. Financial Statements and Supplementary Data 
+ 10 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 22 
+ 
+ Item 9A. Controls and Procedures 
+ 22 
+ 
+ Item 9B. Other Information 
+ 23 
+
+Part III 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 24 
+ 
+ Item 11. Executive Compensation 
+ 26 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 2 7 
+ 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 28 
+ 
+ Item 14. Principal Accountant Fees and Services 
+ 29 
+
+Part IV 
+
+Item 15. Exhibits, Financial Statement Schedules 
+ 3 0 
+ 
+ Signatures 
+ 31 
+
+i 
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+We were incorporated on December 23, 1998 as Findit,
+Inc., a Nevada corporation. The Company owns Findit.com and the Findit App that is available in Android and IOS through Google Play and the Apple App store. Findit.com and the Findit App operate as a Social Media Content Management Platform, that includes its
+own interactive search engine. Members can utilize Findit search to submit URLs they want Findit to index in Findit search results. Nonmembers
+can come to Findit and enter search queries, Findit returns matching search results from content posted in Findit along with outside web
+pages that have been submitted. 
+
+Both Findit.com, the website
+and the Findit App are accessible to anyone, this means you do not need to be a member of Findit to view or search content posted in Findit.
+Anyone that wants to have content indexed in Findit search or viewed by visitors on Findit can do so by creating a free account and posting
+their content to the various verticals Findit offers. 
+
+Claim Your Name 
+Claim Your Name is a tool offered on Findit to members that want to have a specific URL extension after Findit.com can purchase these
+URLs on Findit. The purchase price for one is currently 9.95. The price has varied over several years. Members that run paid for online
+marketing campaigns with the Company often get multiple Finidt URLs as part of their campaign budget. The Claim Your Name feature does
+provide members that have specific words in their extension URLs do get preferential indexing in the Company s search engine. 
+
+Search Engine Optimization -
+Findit provides online Search Engine Optimization services also known as SEO. Findit offers these services to clients to that are seeking
+to index better in search engines that include but are not limited to Findit, Google, Yahoo and Bing. SEO services are offered from Findit
+as a one time payment for a specific task or on an ongoing basis, typically paid for monthly. 
+
+Content Campaigns -
+Findit offers businesses and individuals online content campaigns. These campaigns provide Findit clients/customers with content
+that the Findit staff creates and posts the content created within the Findit members account that hired Findit. This content can include
+written words, videos, pictures, audio and back links. The purpose of these types of campaigns is to provide the Findit client with additional
+content for Findit and outside search engines that include but are not limited to Google, Yahoo and Bings to index and increase the clients
+overall online web presence organically. The content created and posted to Findit can also be shared to outside websites that are typically
+other social networking sites. These social sites are Facebook, Twitter, Pinterest, LinkedIN, Instagram (from the APP to IM) along with
+approximately 80 other social and bookmarking sites. The share function is on the Findit.com website and is provided through ShareThis .
+Content campaigns typically are offered in 30 day intervals and clients automatically renew. At this time Findit does not lock clients
+in for more than 30 days and offer this service based on the number of pieces of content created. The content created is typically done
+over 30 days but can be done in shorter or longer period of time depending on the clients instructions. 
+
+Social Media Campaigns -
+The Company offers clients Social Media campaign services as a paid for service. These services are offered to clients that are typically
+seeking more engagement from individuals on social networking sites. Clients are looking to build brand awareness, more friends and or
+followers, receive comments on posts, likes and or other reactions Members of Findit can also use Findit themselves to run social media
+campaigns without paying Findit any monies. Findit does offer some paid for tools to enhance a social media campaign that the Findit member
+can opt in and pay for. This includes a promoted post feature. A promoted post is currently offered at 19.00 per promoted post. A post
+that is promoted is created in the Findit Right Now status update section of Findit.com or from the Findit App. The member can select
+to have the post promoted for 19.00. Once a member selects to have the post promoted a Findit social media person will take that Right
+Now post and share it through Findit s social networking accounts. These accounts include but are not limited to Google My Business,
+Facebook, Pinterest, Twitter and LinkedIn. 
+
+1 
+
+Web Design 
+The Company offers web design services. The Company tends to develop and build sites using Wordpress. Sites are typically built for existing
+clients that are utilizing the Company s services on a monthly basis to enhance their online presence. The Company s web design
+services are not advertised on the website as a service. The web design service is typically offered to an existing client that may benefit
+from a newer version website. The Company provides Members the ability to post content and once it is posted they have the option to share
+the content they posted to outside websites that include but are not limited to Facebook, Pinterest, LinkiedIN, Twitter and more. In addition
+to the member who posts the content, anyone who views the content also has the ability to share the content to their social accounts.
+Once content is posted in Findit, the content gets indexed in Findit Search results. 
+
+With the Company s
+open platform for anyone to submit URLs that they want to have indexed in the Company along with posting status updates through Right
+Now. Status Updates posted in the Company can be crawled by outside search engines to assist in additional organic indexing. All post
+can be shared to other social and bookmarking sites. 
+
+The Company provides Real
+Estate Agents the ability to create their own Findit Site where they can pull and post their listing and pull in listings through IDX
+account. 
+
+The Company also provides
+News and Press Release Distribution. services. 
+
+The Company. has developed
+a social networking App that is available to Android and iOS devices. 
+
+The Company is focused on
+the development of monetized internet-based web and app products that increase brand awareness for both private and public companies along
+with individuals, entrepreneurs and artists. 
+
+The Company does provide B2C sales in the CBD
+space as well. 
+
+Apple
+IOS is reporting 96 downloads, 2.7k impressions in 2022 and an additional 16 downloads, 1.7k impressions to date in 2023. The Company s
+downloads according to Google Play are currently unknown but management is of the opinion that the number would not be significantly
+different than the iOS downloads and usage. These numbers are provided from Apple through our accounts. At this time, the Company has
+not been able to access its Google account due to authorization protocols. A Findit member is someone who has created a Findit account
+by creating a username and password on the platform. The number of members that have generated revenue in 2022 is approximately 76,000
+customers/members. We do not determine, at this time, which members are active and which members are inactive. We currently do not have
+code written that provides these analytics. We intend, as funds allow, to bring on additional developers that will be able to write code
+that will provide this data. 
+
+Additionally, we may not
+be successful in further monetizing Findit. We currently monetize Findit in several ways, through online content marketing campaigns,
+offering online products and tools through Findit.com and through our CBD Topical lines; Urban CBD Collective and Urban Lifestyle Collective.
+If users stop using the Findit platform or we do not have growth from new user s this will hinder the Company s growth in
+the event ales from CBD Topical products does not increase this will also prevent us from future growth in this sector of our business.
+If the Company s Platform does not attract new members that post content or view content this could affect revenue, our financial
+performance and ability to grow revenue could be adversely affected. 
+
+CBD Market Opportunity . Currently the US market
+for industrial hemp and the products produced from industrial hemp is roughly USD 4.63 billion with CAGR of 13.7 . The global industrial
+hemp market is expected to reach USD 13.03 Billion by 2026, according to a new report by Reports and Data. Hemp may be cultivated as
+a renewable source for raw materials that can be implemented into numerous products. It is a lucrative rotation crop for farmers attributing
+to the characteristics of hemp to take in CO2, detoxify the soil, and inhibit soil erosion. Hemp seeds and flowers find application in
+health foods, organic cosmetic products, and other nutraceuticals (pharmaceutical- and standardized nutrient) whereas the fibers and stalks
+are incorporated in construction materials (such as hempcrete, hemp tile, hemp insulation), hemp clothing, paper, plastic composites,
+and biofuel among others. The total revenue generated from the sales of hemp products in the U.S. contributed to a substantial share of
+the global market. However, as of today most of the raw hemp material used in U.S. consumer products were imported from other countries. 
+
+2 
+
+Proposed Merger . On December 29, 2022, the
+Company announced it had entered into a definitive merger agreement (the Merger Agreement with BioRegenx, Inc. BioRegenx ),
+a Nevada corporation. 
+
+Pursuant to the Merger Agreement,
+BioRegenx shall be merged into the Company and all of the issued and outstanding BioRegenx common and preferred shares shall be exchanged
+for common and preferred shares of Company. The Company shall issue common and preferred shares in an amount equivalent to 90.0 of the
+voting securities of the Company. Concurrently, holder(s) of the Company s Series A and Series B preferred shares shall retire their
+Series A and Series B preferred shares back into the treasury. The Series A and Series B preferred shares to be retired represent a voting
+control of 98.47 of the Company. The exchange value of the Company s stock would be the average closing price of the Company for
+the month of November 2022. 
+
+As soon as practical after
+the merger, both parties agree to the implementation of up to a 1 for 25 reverse split of the Company's common and preferred stock to
+improve the Company's ability to attract institutional investors and analysts as well as to graduate to a senior exchange (OTCQB, NASDAQ). 
+
+The completion of the merger is subject to customary
+closing conditions for a transaction of this nature, including securities law compliance, the approval of BioRegenx shareholders and the
+approval of the Company s shareholders. The Board of Directors of both companies have approved the merger. The Company has filed
+the Preliminary Schedule 14C and is currently in the review process. 
+
+Implications of Being an Smaller Reporting
+Company 
+
+ Certain reduced reporting requirements and exemptions
+are available to us due to the fact that we qualify as a smaller reporting company under SEC rules. For instance, smaller
+reporting companies are not required to obtain an auditor attestation report regarding management s assessment of internal control
+over financial reporting; are not required to provide a compensation discussion and analysis; are not required to a pay-for-performance
+graph or CEO pay ratio disclosure; and may present only two years of audited financial statements and related MD A disclosure. 
+
+Investors should be aware that we will be subject
+to the Penny Stock rules adopted by the Securities and Exchange Commission, which regulate broker-dealer practices in connection
+with transactions in Penny Stocks. These regulations may have the effect of reducing the level of trading activity, if any, in the secondary
+market for our stock, and investors in our common stock may find it difficult to sell their shares. 
+
+Competition 
+
+ We face significant
+competition in almost every aspect of our business, including from companies such as Google, Microsoft, Facebook, Instagram, Twitter,
+Zillow and other press release distribution services. These competitors which offer a variety of Internet products, services, content,
+and online advertising offerings, as well as from mobile devices that offer products and services that may compete with specific Findit
+features. We also face competition from traditional and online media businesses for content to be posted on the Findit Platform. 
+
+We currently are not
+running paid for advertising campaigns on Findit, but we plan to in the future. When the Company does offer paid for advertising we expect
+to face competition from these same companies. We compete broadly with Facebook, Instagram and Twitters social networking offerings along
+with Google, Yahoo and Bing for search queries. As we introduce new products, as our existing products evolve, or as other companies introduce
+new products and services, we may become subject to additional competition. 
+
+Some of our current
+and potential competitors have significantly greater resources and better competitive positions in certain markets than we do. These factors
+may allow our competitors to respond more effectively than us to new or emerging technologies and changes in market requirements. Our
+competitors may develop products, features, or services that are similar to ours or that achieve greater market acceptance, may undertake
+more far-reaching and successful product development efforts or marketing campaigns, or may adopt more aggressive pricing policies. Certain
+competitors, including Google, could use strong or dominant positions in one or more markets to gain competitive advantage against us
+in creating a similar search feature that offers people the ability to submit web pages for indexing under various titles and descriptions.
+Other social networking sites or sites that do not exist yet could create similar featured Findit offers to compete with our market share.
+As a result, our competitors may acquire and engage users at the expense of the growth or engagement of our user base, which may negatively
+affect our business and financial results. 
+
+3 
+
+We believe that our ability to compete effectively
+depends upon many factors both within and beyond our control, including: 
+
+the usefulness, ease of use, performance, and reliability of our products compared to our competitors; 
+
+the size and composition of our user base; 
+
+the engagement of our users with our products; 
+
+the timing and market acceptance of our products and our tools; 
+
+our ability to monetize our products, including our ability to successfully monetize app usage; 
+
+Patents, Trademarks Licenses and Other Intellectual
+Property 
+
+ We own the following trademarks: 
+
+Findit 
+
+ Findit.com 
+
+ Urban CBD Collective 
+
+ Urban Lifestyle Collective 
+
+Properties 
+
+ The Company's corporate headquarters are located at:
+5051 Peachtree Corners Circle, #200, Peachtree Corners, Georgia 30092. The Company does not own any real property. 
+
+ITEM 1A. RISK FACTORS 
+
+Not applicable to a smaller reporting
+company. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+Not applicable. 
+
+ITEM 2. PROPERTIES 
+
+The Company's corporate headquarters are located at:
+5051 Peachtree Corners Circle, #200, Peachtree Corners, Georgia 30092. The Company does not own any real property. The administrative
+office is being provided at no cost by an Officer of the Company. The Officer will not seek reimbursement for providing this administrative
+space. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+The Company may be involved in legal proceedings in the ordinary course
+of business. Such matters are subject to many uncertainties, and outcomes are not predictable with assurance. 
+
+4 
+
+From time to time, we may become involved in various
+lawsuits and legal proceedings, which arise in the ordinary course of business. However, litigation is subject to inherent uncertainties,
+and an adverse result in these or other matters may arise from time to time that may harm our business. 
+
+We are presently a party to one piece of material
+litigation. In the Eighth Judicial District Court, Clark County, Nevada, the Company is a plaintiff in the case Findit, Inc., et al v.
+Todd Davis, et al. In that case, Mr. Davis, a former director of the Company, is accused of taking money from Joseph Arruzza, a shareholder
+of the Company., and having approximately 9,900,000 shares issued to himself and two other entities. Default has been taken against the
+defendants. To the knowledge of management, no litigation is threatened against us, which may materially affect us. 
+
+ITEM 4. MINE SAFETY DISCLOSURE 
+
+None. 
+
+5 
+
+PART II 
+
+ITEM 5. MARKET FOR COMPANY S COMMON EQUITY, RELATED STOCKHOLDER MATTERS
+AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Item 5(a) 
+
+ a) Market Information. The Company trades under the
+symbol FDIT on the OTC Markets Pink. The quotations represent inter-dealer prices without retail markup, markdown or commission, and may
+not necessarily represent actual transactions. 
+
+There have been a limited amount of trades of the
+Company s stock since it was listed on the OTC Markets Pink there are no assurances that a market will ever develop for the Company's
+stock. 
+
+The following table sets forth the high and low sales
+prices for our common stock, which has been listed on the OTC Markets Pink for all periods presented. 
+
+Year Ended December 31, 2022 
+ High 
+ Low 
+ 
+ 3/31/22 
+ .0168 
+ .0150 
+ 
+ 6/30/22 
+ .0131 
+ .0130 
+ 
+ 9/30/22 
+ .0140 
+ .0139 
+ 
+ 12/31/22 
+ .0600 
+ .0171 
+
+Year Ended December 31, 2021 
+ High 
+ Low 
+ 
+ 3/31/21 
+ .1200 
+ .1050 
+ 
+ 6/30/21 
+ .0800 
+ .0760 
+ 
+ 9/30/21 
+ .0454 
+ .0390 
+ 
+ 12/31/21 
+ .0230 
+ .0120 
+
+b) Holders. On March 31, 2022, there were 157 shareholders
+of record of our common stock. 
+
+c) Dividends. Holders of our common stock are entitled
+to receive such dividends as may be declared by our board of directors. No dividends on our common stock have ever been paid, and we do
+not anticipate that dividends will be paid on our common stock in the foreseeable future. 
+
+d) Securities authorized for issuance under equity
+compensation plans. 
+
+There are no outstanding grants or rights or any equity compensation plan
+in place. 
+
+e) Performance graph. Not applicable. 
+
+f) Sale of unregistered securities. None 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+Not applicable to a smaller reporting company. 
+
+6 
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS 
+
+Forward-looking Statements 
+
+ Statements in this Management s Discussion and
+Analysis of Financial Condition and Results of Operation, as well as in certain other parts of this Annual report on Form 10-K (as well
+as information included in oral statements or other written statements made or to be made by the Company) that look forward in time, are
+forward-looking statements made pursuant to the safe harbor provisions of the Private Litigation Reform Act of 1995. Forward-looking statements
+include statements concerning plans, objectives, goals, strategies, future events or performance, expectations, predictions, and assumptions
+and other statements that are other than statements of historical facts. Although the Company believes such forward-looking statements
+are reasonable, it can give no assurance that any forward-looking statements will prove to be correct. Such forward-looking statements
+are subject to, and are qualified by, known and unknown risks, uncertainties and other factors that could cause actual results, performance,
+or achievements to differ materially from those expressed or implied by those statements. These risks, uncertainties and other factors
+include, but are not limited to the Company s ability to estimate the impact of competition and of industry consolidation and risks,
+uncertainties and other factors set forth in the Company s filings with the Securities and Exchange Commission, including without
+limitation to this Annual Report on Form 10-K. 
+
+The Company undertakes no obligation to update forward-looking statements
+to reflect events or circumstances occurring after the date of this Form 10-K. 
+
+Overview of Current Operations 
+
+ Findit continues as a premium content management platform
+that enables members to post and manage status updates, podcasts and music, pictures, and video. All posted contented is optimized for
+SEO and sharing to social networks. Findit also indexes all content in its own search engine for easy retrieval and content discovery.
+Members can create their own, unique internet URL on Findit to further optimize indexing, search results placement and citation in internet
+search engines. Findit is an open platform meaning that all content is discoverable by search engines for indexing. Findit is focused
+on the development of monetized internet-based web products and content. 
+
+Results of Operations 
+
+ For the year ended December 31, 2022, the Company
+received total revenues from Findit services of 42,159 with cost of goods sold of 0 resulting in a gross margin of 42,159. Comparatively,
+for the year ended December 31, 2021, the Company received total revenues from Findit services of 197,447 and the sales of essential
+oils of 1,137 for an aggregate of 198,584. Cost of goods sold consisted of purchases of material and supplies of 554 resulting in a
+gross margin of 198,303. 
+
+For the year ended December 31, 2022, the Company
+incurred total operating expenses of 120,467 which consisted of advertising, marketing and press release expenses of 6,043, amortization
+expense of 5,932, content writing of 21,750, professional fees of 27,928, programming fees of 9,735, web design and hosting expense
+of 21,432 and general and administrative expenses of 27,647. Comparatively, for the year ended December 31, 2022, the Company incurred
+total operating expenses of 363,148 which consisted of advertising, marketing and press release expenses of 7,383, amortization expense
+of 4,449, consulting services of 6,350, content writing of 43.100, professional fees of 60,231, programming fees of 111,270, web
+design and hosting expense of 49,250 and general and administrative expenses of 81,115. 
+
+For the fiscal year ended December 31, 2021, the Company
+had other income of 68,245, from the settlement of claims with a former commissioned sales agent in connection with the sale of CBD oil,
+as compared to the prior fiscal year when the Company had other expense of 58,088, which consisted of a loss on impairment of investment. 
+
+For the years ended December 31, 2022 and 2021, the
+Company had a net loss of 78,308) and (96,873), respectively. 
+
+For the years ended December 31, 2022 and 2021, the
+Company had unrealized loss on available-for-sale securities of (39,000) and (165,000), respectively resulting in total comprehensive
+loss of (177,308) and (261,873) for the respective periods. 
+
+7 
+
+Liquidity and Capital Resources 
+
+ For the year ended December 31, 2022, the Company
+had a net loss of (117,308). For the year ended December 31, 2022, the Company incurred amortization expense of 5,932, investment in
+Chill N Out Cryotherapy-related party of 39,000, and accounts payable of 7,724 resulting in net cash used by operating activities of
+ (64,652). 
+
+For the year ended December 31, 2021, the Company
+had a net loss of (261,873). For the year ended December 31, 2022, the Company incurred amortization expense of 4,449, investment in
+Chill N Out Cryotherapy-related party of 165,000, accounts receivable of 971, accounts payable of (21,064) and deferred revenue of
+ (7,000) resulting in net cash used by operating activities of (119,517). 
+
+For the years ended December 31, 2022 and 2021, the
+Company did not pursue any investing activities. 
+
+For the year ended December 31, 2022, the Company
+received proceeds from loans payable-related party of 41,670 and repayment of loans-related party of (700) resulting in net cash provided
+by financing activities of 40,970. 
+
+For the year ended December 31, 2021, the Company
+received proceeds from long term debt of 50,000 resulting in net cash provided by financing activities of 50,000. 
+
+Management intends to raise additional debt or equity
+financing to fund ongoing operations and for necessary working capital. However, there is no assurance that such financing plans will
+be successful or be obtained in amounts sufficient to meet the Company s needs. 
+
+Notwithstanding, the Company anticipates generating
+losses and therefore may be unable to continue operations in the future. The Company anticipates it will require additional capital in
+order to develop its business. The Company may use a combination of equity and/or debt instruments or enter into a strategic arrangement
+with a third party. Management has yet to find a solution to its funding requirements. 
+
+Going Concern 
+
+ Our ability to continue as a going concern is contingent
+upon the successful completion of additional financing arrangements and our ability to achieve and maintain profitable operations. 
+
+Therefore, management plans to raise equity capital
+to finance the operating and capital requirements of the Company. While the Company is devoting its best efforts to achieve the above
+plans, there is no assurance that any such activity will generate funds that will be available for operations. These conditions raise
+substantial doubt about the Company's ability to continue as a going concern. 
+
+Summary of any product research and development that we will perform
+for the term of our plan of operation. 
+
+ At this time, the Company has no product research,
+nor development taking place, pending funding. As such, research is not required at this time. 
+
+Significant changes in the number of employees 
+
+ We currently have a total of five employees, two of
+which serve as our officers, one employee who serves as the Company controller and two employees who work in the engineering and design
+facility. We are dependent upon our officers for our future business development. As our operations expand we anticipate the need to hire
+additional employees, consultants and professionals; however, the exact number is not quantifiable at this time. 
+
+Off-Balance Sheet Arrangements 
+
+ We do not have any off-balance sheet arrangements
+that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues
+or expenses, results or operations, liquidity, capital expenditures or capital resources that is material to investors. 
+
+8 
+
+Critical Accounting Policies and Estimates 
+
+ Revenue Recognition: The Company recognizes revenue
+related to product sales when (i) persuasive evidence of the arrangement exists, (ii) shipment has occurred, (iii) the fee is fixed or
+determinable, and (iv) collectability is reasonably assured. 
+
+Recent Pronouncements 
+
+ The Company's management has evaluated all the recently
+issued accounting pronouncements through the filing date of these financial statements and does not believe that any of these pronouncements
+will have a material impact on the Company's current financial position and results of operations. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not applicable. 
+
+9 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+FINDIT, INC. 
+
+ Financial Statements 
+
+ For the Year Ended December 31, 2022 
+
+TABLE OF CONTENTS 
+
+Report of Independent Registered Public Accounting Firm 
+ 11 
+ 
+ Balance Sheets as of December 31, 2022 and 2021 
+ 12 
+ 
+ Statements of Operations for the years ended December 31, 2022 and 2021 
+ 13 
+ 
+ Statement of Stockholders Equity (Deficit) for the years ended December 31, 2022 and 2021 
+ 14 
+ 
+ Statements of Cash Flows for years ended December 31, 2022 and 2021 
+ 15 
+ 
+ Notes to the Financial Statements 
+ 16 
+
+10 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+To the shareholders and the board of directors of
+Findit, Inc. 
+
+Opinion on the Financial Statements 
+
+ We have audited the accompanying balance sheets of
+Findit, Inc. as of December 31, 2022 and 2021, the related statements of operations, stockholders' equity (deficit), and cash flows for
+the years then ended, and the related notes (collectively referred to as the financial statements ). In our opinion, the financial
+statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results
+of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United
+States. 
+
+Substantial Doubt about the Company s Ability
+to Continue as a Going Concern 
+
+ The accompanying financial statements have been prepared
+assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company has suffered
+recurring losses from operations and has a significant accumulated deficit. In addition, the Company continues to experience negative
+cash flows from operations. These factors raise substantial doubt about the Company's ability to continue as a going concern. Management's
+plans in regard to these matters are also described in Note 3. The financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+ These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform,
+an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal
+control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s internal
+control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+ Critical audit matters are
+matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the
+audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. 
+
+We determined that there are no critical audit
+matters. 
+
+/S/ (PCAOB ID 
+
+We have served as the Company's auditor since 2020 
+
+March 31, 2023 
+
+11 
+
+FINDIT, INC. 
+
+ BALANCE SHEETS 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ ASSETS 
+
+Current Assets: 
+
+Cash 
+
+Total Current Assets 
+
+Non-Current Assets: 
+
+Domain Name Website, net of amortization of 51,509 and 45,577, respectively 
+
+Investment in Chill N Out Chryotherapy related party 
+
+Total Other Assets 
+
+Total Assets 
+
+LIABILITIES STOCKHOLDERS' (DEFICIT) EQUITY 
+
+Current Liabilities: 
+
+Accounts Payable and Accrued Expenses 
+
+Current Portion Long-Term Debt 
+
+Loans Payable Related Party 
+
+Total Current Liabilities 
+
+Long-Term Debt 
+
+Total Liabilities 
+
+Stockholders' (Deficit) Equity: 
+
+Preferred Stock, Series A, 0.001 par value, 50,000,000 shares authorized, 5,000,000 shares issued and outstanding 
+
+Preferred Stock, Series B, 0.001 par value, 5,000,000 shares authorized, 4,900,000 shares issued and outstanding 
+
+Common Stock, 0.001 par value, 500,000,000 shares authorized, 269,745,006 issued and outstanding 
+
+Additional Paid in Capital 
+
+Accumulated Deficit 
+
+Total Stockholders' Deficit 
+
+Total Liabilities and Stockholders' Deficit 
+
+The accompanying notes are
+an integral part of these financial statements. 
+
+12 
+
+FINDIT, INC. 
+
+ STATEMENTS OF OPERATIONS 
+
+For the Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ Revenues: 
+
+Findit Services 
+
+Sales of Essential Oils 
+
+Total Revenues 
+
+Cost of Goods Sold: 
+
+Purchases of Materials Supplies 
+
+Total Cost of Goods Sold 
+
+Gross Margin 
+
+Operating Expenses: 
+
+Advertising, Marketing Press Release Expenses 
+
+Amortization Expense 
+
+Consulting Services 
+
+Content Writing 
+
+General and Administrative Expense 
+
+Professional Fees 
+
+Programming Fees 
+
+Web Design and Hosting Expense 
+
+Total Operating Expenses 
+
+Loss from Operations 
+
+Other Income: 
+
+Other Income 
+
+Total Other Income 
+
+Loss Before Provision for Income Tax 
+
+Provision for Income Tax 
+
+Net Loss 
+
+Other Comprehensive Loss 
+
+Unrealized loss on available-for-sale securities 
+
+Total Comprehensive Loss 
+
+Loss Per Share, Basic and Diluted 
+
+Weighted Average Shares Outstanding, Basic and Diluted 
+
+The accompanying notes are an integral part of these financial statements. 
+
+13 
+
+FINDIT, INC. 
+
+ STATEMENTS OF STOCKHOLDERS 
+(DEFICIT) EQUITY 
+
+ For the Year Ended December 31, 2022 and 2021 
+
+Common Stock 
+ Preferred Stock, Series A 
+ Preferred Stock, Series B 
+ Additional Paid 
+ Accumulated 
+ Total Stockholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+ in Capital 
+ Deficit 
+ Equity 
+ 
+ Balance, December 31, 2020 
+
+Net Loss 
+
+Balance, December 31, 2021 
+
+Net Loss 
+
+Balance, December 31, 2022 
+
+The accompanying notes are
+an integral part of these financial statements. 
+
+14 
+
+FINDIT, INC. 
+
+ STATEMENTS OF CASH
+FLOWS 
+
+For the Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ Cash Flow from Operating Activities: 
+
+Net Loss 
+
+Adjustments to Reconcile Net Loss to Net Cash Used by Operating Activities: 
+
+Amortization Expense 
+
+Investment in Chill N Out Cryotherapy related party 
+
+Changes in Operating Assets and Liabilities: 
+
+Accounts Receivable 
+
+Accounts Payable 
+
+Deferred Revenue 
+
+Net Cash Used by Operating Activities 
+
+Cash Flows from Investing Activities 
+
+Cash Flows from Financing Activities 
+
+Proceeds from long term debt 
+
+Proceeds from loans payable related party 
+
+Repayment of loans related party 
+
+Net Cash Provided by Financing Activities 
+
+Net Change in Cash 
+
+Cash at Beginning of Year 
+
+Cash at End of Year 
+
+Cash Paid During the Year for: 
+
+Interest 
+
+Income Taxes 
+
+Supplemental non-cash disclosure: 
+
+Unrealized loss on available-for-sale securities 
+
+The accompanying notes are
+an integral part of these financial statements. 
+
+15 
+
+FINDIT, INC. 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ DECEMBER 31, 2022 
+
+uninsured cash balances. 
+
+Tax benefits are recognized only for tax positions
+that are more likely than not to be sustained upon examination by tax authorities. The amount recognized is measured as the largest amount
+of benefit that is greater than 50 percent likely to be realized upon settlement. A liability for unrecognized tax benefits 
+is recorded for any tax benefits claimed in the Company s tax returns that do not meet these recognition and measurement standards.
+As of December 31, 2022 and 2021, no liability for unrecognized tax benefits was required to be reported. 
+
+as of December 31, 2022, and further losses are anticipated in the development of its business raising substantial doubt about the Company s
+ability to continue as a going concern. 
+
+The ability to continue as a going concern is dependent
+upon the Company generating profitable operations in the future and/or obtaining the necessary financing to meet its obligations and repay
+its liabilities arising from normal business operations as they come due. Management intends to finance operating costs over the next
+twelve months with existing cash on hand, and/or private placement of common stock. 
+
+In order to
+mitigate the conditions that raise substantial doubt about our ability to continue as a going concern, the company has exited the CBD
+oil business which consumed substantial capital and resources and has streamlined operational costs. 
+
+shares of the common stock of Chill N Out Cryotherapy at 0.01 per share in exchange for technical services provided. This investment
+meets the criteria of level one inputs for which quoted market prices are available in active markets for identical assets or liabilities
+as of the reporting date. As of December 31, 2022 and 2021, the shares of Chill N Out Cryotherapy have a reported market value of 
+and , respectively. The Company has adjusted the reported amounts for these investments to market value resulting in an unrealized
+loss of and for the years ended December 31, 2022 and 2021, respectively. 
+
+utilizing the Small
+Business Administration s Economic Injury Disaster Loan Program. The loan is repayable at 3.75 beginning one year after the proceeds
+were received which was July 20, 2020. Subsequently Congress has extended the repayment period to one year after the initial date, or
+July 20, 2022. 
+
+The Company borrowed utilizing the Small Business
+Administration s Economic Injury Disaster Loan Program. The loan is repayable at 3.75 beginning two years after the proceeds were
+received which was July 17, 2021. Therefore, this loan is classified as long-term in the financial statements. 
+
+SBA Loan July 17,2021 
+
+Total 
+
+Less: current portion 
+
+Long term portion 
+
+Principal payments for the next five years and thereafter
+are as follows: 
+
+December 31, 2024 
+
+December 31, 2025 
+
+December 31, 2026 
+
+December 31, 2027 
+
+Thereafter 
+
+Total 
+
+and for the years ended December 31, 2022 and 2021, respectively. 
+
+During the year ended December 31, 2021, the Company
+reimbursed Raymond Firth, CEO, holds greater than 10 of the issued and outstanding shares of the Company s common stock, for automobile
+expenses in the amount of . No funds were reimbursed for year ended December 31, 2022. 
+
+The Company paid and during years ended
+December 31, 2022 and 2021, respectively, for services, to Raymond Firth, CEO, Director, and holds
+greater than 10 of the issued and outstanding shares of the Company s common stock. 
+
+During the year
+ended December 31 , 2022, the Company received a total cash advance from Classworx Inc of
+ . Classworx Inc, has the same management and majority shareholders as the Company. The advance was for general operating expenses,
+is non-interest bearing and due on demand. 
+
+During the year
+ended December 31 , 2022, the Company received a total cash advance from Thomas Powers, CEO
+of . The advance is non-interest bearing and due on demand. 
+
+During the year
+ended December 31 , 2022, the Company received a total cash advance from TransworldNews, Inc.
+of , of which was repaid, for a balance due of . TransworldNews has the same management and majority shareholders as
+the Company. The advance was for general operating expenses, is non-interest bearing and due on demand. 
+
+in the year ended December
+31, 2021, from the settlement of claims with a former commissioned sales agent in connection with the sale of CBD oil. 
+
+Less: valuation allowance 
+
+Net provision for Federal income taxes 
+
+The cumulative tax effect at the expected rate of 21 of significant items
+comprising our net deferred tax amount is as follows: 
+
+Less: valuation allowance 
+
+Net deferred tax asset 
+
+At December 31, 2022, the Company had operating loss
+carry forwards of approximately , which may be offset against future taxable income from the year 2023 to 2043. In accordance
+with Section 382 of the Internal Revenue code, the usage of the Company s net operating loss carryforwards may be limited in the
+event of a change in ownership. A full Section 382 analysis has not been prepared and NOLs could be subject to limitation under Section
+382. 
+
+The Company s policy is to record interest and
+penalties on uncertain tax positions as a component of income tax expense. No interest or penalties were recorded during the years ended
+December 31, 2022 and 2021. The Company is currently not aware of any issues under review that could result in significant payments, accruals
+or material deviation from its position in the next twelve months. 
+
+The Company files income tax returns in the U.S. federal
+and state jurisdictions, which remain subject to examination by the various taxing authorities beginning with the tax year ended December
+31, 2015 (or the tax year ended December 31, 2001 if the Company were to utilize its NOLs). No tax audits were commenced or were in process
+during the years ended December 31, 2022 and 2021. 
+
+21 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Disclosure Controls and Procedures 
+
+ Disclosure controls
+and procedures are designed to ensure that information required to be disclosed in the reports filed or submitted under the Exchange Act
+is recorded, processed, summarized and reported, within the time period specified in the SEC s rules and forms, and that such information
+is accumulated and communicated to management, including the CEO and CFO, as appropriate, to allow timely decisions regarding required
+disclosures. Our management necessarily applied its judgment in assessing the costs and benefits of such controls and procedures, which,
+by their nature, can provide only reasonable assurance regarding management s control objectives. 
+
+Our management,
+with the participation of our CEO, evaluated the effectiveness of the design and operation of our disclosure controls and procedures as
+of the year ended December 31, 2022. Based upon this evaluation, our CEO concluded that our disclosure controls and procedures were not
+effective because of the identification material weaknesses in our internal control over financial reporting as described below. 
+
+Management s
+Report on Internal Control Over Financial Reporting 
+
+ Our management
+is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange
+Rule 13a-15(f). Our internal control over financial reporting is a process designed to provide reasonable assurance to our management
+and board of directors regarding the reliability of financial reporting and the preparation of the financial statements for external purposes
+in accordance with U.S. GAAP. 
+
+Our internal
+control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable
+detail, accurately and fairly reflect the transactions and dispositions of our assets; (ii) provide reasonable assurance that transactions
+are recorded as necessary to permit preparation of financial statements in accordance with U.S. GAAP and our receipts and expenditures
+are being made only in accordance with authorizations of our management and directors; and (iii) provide reasonable assurance regarding
+prevention or timely detection of unauthorized acquisition, use, or disposition of our assets that could have a material effect on our
+financial statements. 
+
+Because of
+its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. All internal control
+systems, no matter how well designed, have inherent limitations, including the possibility of human error and the circumvention of
+overriding controls. Accordingly, even effective internal control over financial reporting can provide only reasonable assurance
+with respect to financial statement preparation. Also, projections of any evaluation of effectiveness to future periods are subject
+to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies
+or procedures may deteriorate. 
+
+Our management
+assessed the effectiveness of our internal control over financial reporting as of December 31, 2022. In making this assessment, it used
+the criteria set forth by the Committee of Sponsoring Organizations of the Tread way Commission COSO in Internal Control-Integrated
+Framework (2013). Based on this evaluation, management concluded that our internal control over financial reporting was not effective
+as of December 31, 2022. Our CEO concluded we have material weaknesses due to lack of segregation of duties, a limited corporate
+governance structure, and a lack of a formal management review process over preparation of financial information. A material weakness
+is a deficiency, or a combination of control deficiencies, in internal control over financial reporting such that there is a reasonable
+possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis. 
+
+22 
+
+Our size has
+prevented us from being able to employ sufficient resources to enable us to have an adequate level of supervision and segregation of duties
+within our system of internal control. Therefore, while there are some compensating controls in place, it is difficult to ensure effective
+segregation of accounting and financial reporting duties. Management reported the following material weaknesses: 
+
+Certain reports that we prepare,
+and accounting and reporting conclusions reached in connection with the financial statement preparation process are not subjected to a
+formal review process that includes multiple levels of review and are not submitted timely to the Board of Directors for review or approval;
+and 
+
+Lack of segregation of duties
+in certain accounting and financial reporting processes including the initiation, processing, recording and approval of disbursements. 
+
+Our corporate governance responsibilities
+are performed by the Board of Directors, none of whom are independent under applicable standards; we do not have an audit committee or
+compensation committee. Our Board of Directors acts primarily by written consent without meetings which results in several of our corporate
+governance functions not being performed concurrent (or timely) with the underlying transactions, including evaluation of the application
+of accounting principles and disclosures. 
+
+The Company lacks adequate financial
+reporting capabilities Due to the minimal operations and small size of the Company we have not employed individuals that have
+the necessary accounting knowledge and expertise to ensure accurate financial reporting under US GAAP. 
+
+The Company lacks appropriate
+information technology controls As of December 31, 2022, the Company retains copies of all financial data and material agreements;
+however, there is no formal procedure or evidence of normal backup of the Company s data or off-site storage of data in the event
+of theft, misplacement, or loss due to unmitigated factors. 
+
+While we strive
+to segregate duties as much as practicable, there is an insufficient volume of transactions at this point in time to justify additional
+full-time staff. We may not be able to fully remediate the material weaknesses until we expand operations at which time, we would
+expect to hire more staff. We will continue to monitor and assess the costs and benefits of additional staffing. 
+
+We do not expect
+that our disclosure controls and procedures will prevent all errors and all instances of fraud. Disclosure controls and procedures, no
+matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the disclosure controls
+and procedures are met. Further, the design of disclosure controls and procedures must reflect the fact that there are resource constraints,
+and the benefits must be considered relative to their costs. Because of the inherent limitations in all disclosure controls and procedures,
+no evaluation of disclosure controls and procedures can provide absolute assurance that we have detected all our control deficiencies
+and instances of fraud, if any. The design of disclosure controls and procedures also is based partly on certain assumptions about the
+likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential
+future conditions. 
+
+Changes in Internal Control Over Financial Reporting 
+
+ During the year ended December 31, 2022, there were
+no changes in our internal controls over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) under the Exchange Act) that
+have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+23 
+
+PART III 
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+The following table sets forth certain information
+regarding our current directors and executive officers. Our executive officers serve one-year terms. 
+
+Name 
+ 
+ Age 
+ 
+ Positions and Offices Held 
+
+Raymond Firth 
+ 
+ 44 
+ 
+ President and Director 
+ 
+ Thomas Powers 
+ 
+ 68 
+ 
+ Chief Executive Officer and Director 
+
+Resumes 
+
+ Raymond Firth. Mr. Firth joined the Air Force at the
+age of 18 and later went on to graduate from the University of Maryland. After graduating, Mr. Firth worked for Wang Laboratories in various
+roles from field engineer to Mid-South region business manager. During his time with Wang he also worked in Asia for approximately 17
+years supporting government and corporate multinational accounts. After working at Wang, Mr. Firth moved back to the United States and
+started his own internet company. The company initially offered dialup internet access and later focused on business web application development
+and consulting. In 2005 Mr. Firth help launch TransWorldNews along with other web properties. Mr. Firth leads the team of software engineers
+and designers working on Findit.com web properties and the Company s mobile device applications. 
+
+Mr. Firth is currently, in addition to Findit, Inc.,
+the Chief Executive Officer and a Director of ClassWorx, Inc. Also, Mr. Firth is also an officer of TransWorldNews, which does not currently
+have any business operations due to the fact that the website www.transworldnews.com was acquired by the Company. 
+
+Thomas Powers. Mr. Powers has an extensive sales and
+business development background as well as being a vacation rental property manager himself. Mr. Powers also founded Abodeca which is
+a direct booking vacation rental website that is now part of the Resortia family. Mr. Powers has proven success in many other B2B ventures
+including the Security Industry, Merchant Services, Point of Sale and SEO consulting with the Company. This experience combined with first-hand
+knowledge of online marketing SEO and Social Media along with Vacation Rental Property business and Real Estate makes him a valuable addition
+to the Findit team. 
+
+Mr. Powers is currently, in addition to the Company,
+a Director of ClassWorx, Inc. 
+
+Mr. Powers spends his time between Charleston, South
+Carolina and Bristol, Tennessee where he pursues a love of outdoor activities and family time. Mr. Powers has also traveled extensively
+and over the years built up a great understanding and network inside the Vacation Home Management industry. With his love of travel
+and people, he adds a real passion to the VR space with a sincere desire to help both guests and hosts connect to each other. 
+
+Involvement in Certain Legal Proceedings. 
+
+ Our director, executive officer and control person
+has not been involved in any of the following events during the past ten years and which is material to an evaluation of the ability or
+the integrity of our directors or executive officers: 
+
+1. any bankruptcy petition filed by or against
+any business of which such person was a general partner or executive officer either at the time of the bankruptcy or within two years
+prior to that time; 
+
+2. any conviction in a criminal proceeding
+or being subject to a pending criminal proceeding (excluding traffic violations and other minor offences); 
+
+24 
+
+3. being subject to any order, judgment,
+or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining,
+barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities; 
+
+4. being found by a court of competent jurisdiction
+(in a civil action), the SEC or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities
+law, and the judgment has not been reversed, suspended, or vacated; 
+
+5. any judicial or administrative proceedings
+resulting from involvement in mail or wire fraud or fraud in connection with any business entity; 
+
+6. Any judicial or administrative proceedings
+based on violations of federal or state securities, commodities, banking or insurance laws and regulations, or any settlement to such
+actions; and 
+
+7. Any disciplinary sanctions or orders
+imposed by a stock, commodities or derivatives exchange or other self-regulatory organization. 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+ Section 16(a) of the Securities Exchange Act of 1934,
+as amended (the Exchange Act ), requires our executive officers and directors, and persons who beneficially own more than ten
+percent of our common stock, to file initial reports of ownership and reports of changes in ownership with the SEC. Executive officers,
+directors and greater than ten percent beneficial owners are required by SEC regulations to furnish us with copies of all Section 16(a)
+forms they file. Based upon a review of the copies of such forms furnished to us and written representations from our executive officers
+and directors, we believe that as of the date of this report they were not current in their 16(a) reports. 
+
+Board of Directors 
+
+ Our board of directors currently consists of two members.
+Our directors serve one-year terms. 
+
+Audit Committee 
+
+ The company does not presently have an Audit Committee.
+No qualified financial expert has been hired because the company is too small to afford such expense. 
+
+Committees and Procedures 
+
+1. The registrant has no standing audit,
+nominating and compensation committees of the Board of Directors, or committees performing similar functions. The Board acts itself in
+lieu of committees due to its small size. 
+
+2. The view of the board of directors is
+that it is appropriate for the registrant not to have such a committee because its directors participate in the consideration of director
+nominees and the board and the company are so small. 
+
+3. The members of the Board who acts as
+nominating committee is not independent, pursuant to the definition of independence of a national securities exchange registered pursuant
+to section 6(a) of the Act (15 U.S.C. 78f(a). 
+
+4. The nominating committee has no policy
+with regard to the consideration of any director candidates recommended by security holders, but the committee will consider director
+candidates recommended by security holders. 
+
+5. The basis for the view of the board
+of directors that it is appropriate for the registrant not to have such a policy is that there is no need to adopt a policy for a small
+company. 
+
+25 
+
+6. The nominating committee will consider
+candidates recommended by security holders, and by security holders in submitting such recommendations. 
+
+7. There are no specific, minimum qualifications
+that the nominating committee believes must be met by a nominee recommended by security holders except to find anyone willing to serve
+with a clean background. 
+
+8. The nominating committee's process for
+identifying and evaluation of nominees for director, including nominees recommended by security holders, is to find qualified persons
+willing to serve with a clean backgrounds. There are no differences in the manner in which the nominating committee evaluates nominees
+for director based on whether the nominee is recommended by a security holder, or found by the board. 
+
+Code of Ethics 
+
+ We have not adopted a Code of Ethics for the Board
+and any salaried employees. 
+
+Limitation of Liability of Directors 
+
+ Pursuant to the Nevada General Corporation Law, our
+Articles of Incorporation exclude personal liability for our Directors for monetary damages based upon any violation of their fiduciary
+duties as Directors, except as to liability for any breach of the duty of loyalty, acts or omissions not in good faith or which involve
+intentional misconduct or a knowing violation of law, or any transaction from which a Director receives an improper personal benefit.
+This exclusion of liability does not limit any right which a Director may have to be indemnified and does not affect any Director's liability
+under federal or applicable state securities laws. We have agreed to indemnify our directors against expenses, judgments, and amounts
+paid in settlement in connection with any claim against a Director if he acted in good faith and in a manner he believed to be in our
+best interests. 
+
+Nevada Anti-Takeover Law and Charter and By-law
+Provisions 
+
+ The anti-takeover provisions of Sections 78.411 through
+78.445 of the Nevada Corporation Law apply to Findit, Inc. Section 78.438 of the Nevada law prohibits the Company from merging with or
+selling more than 5 of our assets or stock to any shareholder who owns or owned more than 10 of any stock or any entity related to a
+10 shareholder for three years after the date on which the shareholder acquired the Findit, Inc. shares, unless the transaction is approved
+by Findit, Inc.'s Board of Directors. The provisions also prohibit the Company from completing any of the transactions described in the
+preceding sentence with a 10 shareholder who has held the shares more than three years and its related entities unless the transaction
+is approved by our Board of Directors or a majority of our shares, other than shares owned by that 10 shareholder or any related entity.
+These provisions could delay, defer or prevent a change in control of Findit, Inc. 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+Compensation 
+
+ The following table sets forth summary executive compensation
+information for the fiscal years ended December 31, 2022 and December 31, 2021. 
+
+Summary Compensation Table 
+
+Name 
+ Principal Position 
+
+Year 
+ 
+ Salary 
+
+Bonus 
+
+Awards 
+
+Compensation 
+
+Total 
+
+Raymond Firth 
+ Pres/Director 
+ 2022 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+2021 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Thomas Powers 
+ CEO/Director 
+ 2022 
+
+2021 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+26 
+
+We do not maintain key-man life insurance for our
+executive officer/director. We do not have any long-term compensation plans or stock option plans. 
+
+As of the date hereof, there have been no grants of
+stock options to purchase our Common Stock made to the executive officers named in the Summary Compensation Table. 
+
+Stock Option Grants 
+
+ We did not grant any stock options to the executive
+officers or directors from inception through the fiscal year end December 31, 2022. 
+
+Outstanding Equity Awards 
+
+ We did not have any outstanding equity awards to the
+executive officers or directors from inception through fiscal year end December 31, 2022. 
+
+Option Exercises 
+
+ There were no options exercised by our executive officers
+or directors from inception through fiscal year end December 31, 2022. 
+
+Potential Payments upon Termination or Change in
+Control 
+
+ We have not entered into any compensatory plans or
+arrangements with respect to our named executive officer, which would in any way result in payments to such officer because of his resignation,
+retirement, or other termination of employment with us or our subsidiaries, or any change in control of, or a change in his responsibilities
+following a change in control. 
+
+Director Compensation 
+
+ We did not pay our directors any compensation during
+fiscal years ended December 31, 2022 or December 31, 2021. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The following table presents information, to the best
+of our knowledge, about the ownership of our common stock on March 31, 2023 relating to those persons known to beneficially own more than
+5 of our capital stock and by our named executive officers and directors. 
+
+Beneficial ownership is determined in accordance with
+the rules of the Securities and Exchange Commission and does not necessarily indicate beneficial ownership for any other purpose. Under
+these rules, beneficial ownership includes those shares of common stock over which the stockholder has sole or shared voting or investment
+power. The percentage ownership of the outstanding common stock, however, is based on the assumption, expressly required by the rules
+of the Securities and Exchange Commission, that only the person or entity whose ownership is being reported has converted options or warrants
+into shares of Findit, Inc.' common stock. 
+
+27 
+
+The percentages below are calculated based on 5,000,000
+shares of our Series A preferred stock, 4,900,000 shares of our Series B preferred stock, and 273,750,406 shares of our common stock issued
+and outstanding. We do not have any outstanding options, warrants or other securities exercisable for or convertible into shares of our
+common stock. 
+
+Beneficial Owner and Position 
+
+Title of Class 
+ Amount and Nature of Beneficial Ownership 
+
+Percent of Class 
+
+Voting Power 
+
+Raymond Firth 
+ Common Stock 
+ 
+ 98,674,081 Indirect 
+ 36.0 
+ 0.6 
+
+Preferred A 
+ 2,500,000 indirect 
+ 50.0 
+ 35.6 
+
+Preferred B 
+ 2,400,000 indirect 
+ 50.0 
+ 13.7 
+
+Thomas Powers 
+ Common Stock 
+ 
+ 6,005,400 direct 
+ 2.2 
+ 0 
+
+Preferred A 
+ 0 
+ 0 
+ 0 
+
+Preferred B 
+ 0 
+ 0 
+ 0 
+
+Directors and Officers as a group (2) 
+ Common Stock 
+ 104,679,481 indirect 
+ 38.2 
+ 0.6 
+
+Preferred A 
+ 2,500,000 indirect 
+ 50.0 
+ 35.6 
+
+Preferred B 
+ 2,400,000 indirect 
+ 50.0 
+ 13.7 
+
+Other 5 Shareholders 
+
+Firth Family Trust (1) 
+ Common Stock 
+ 
+ 98,674,081 Direct 
+
+36.0 
+
+0.6 
+
+Preferred A 
+ 
+ 2,500,000 Direct 
+ 50.0 
+ 35.4 
+
+Preferred B 
+ 
+ 2,400,000 Direct 
+ 50.0 
+ 13.6 
+
+HVA Family Trust (2) 
+ Common Stock 
+ 
+ 98,674,082 Direct 
+ 
+ 37.0 
+ 
+ 0.6 
+
+Preferred A 
+ 2,500,000 
+ 50.0 
+ 35.4 
+
+Preferred B 
+ 2,450,000 
+ 50.0 
+ 13.9 
+
+We believe that all persons named have full voting
+and investment power with respect to the shares indicated, unless otherwise noted in the table. Under the rules of the Securities and
+Exchange Commission, a person (or group of persons) is deemed to be a beneficial owner of a security if he or she, directly
+or indirectly, has or shares the power to vote or to direct the voting of such security, or the power to dispose of or to direct the disposition
+of such security. Accordingly, more than one person may be deemed to be a beneficial owner of the same security. A person is also deemed
+to be a beneficial owner of any security, which that person has the right to acquire within 60 days, such as options or warrants to purchase
+our common stock. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+The Company's Director has contributed office space
+for our use for all periods presented. There is no charge to us for the space, and the director will not seek compensation for the use
+of this space. 
+
+Our officers and directors, Raymond Firth and Thomas
+Powers can be considered promoters of Findit, Inc. in consideration of his participation and managing of the business of the company. 
+
+28 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+
+Audit Fees 
+
+ The aggregate fees billed for the years ended December
+31, 2022 and 2021 for professional services rendered by BF Borgers CPA, P.C. (PCAOB # 5041) for the audit of the Company s annual
+financial statements and review of the financial statements included in the Company s Form 10-Q or services that are normally provided
+by the accountant in connection with statutory and regulatory filings or engagements for the periods ended December 31, 2022 and 2021
+were 33,900 and 24,400, respectively. 
+
+Audit related fees 
+
+ The aggregate fees billed for the years ended December
+31, 2022 and 2021 for assurance and related services by BF Borgers CPA, P.C. that are reasonably related to the performance of the audit
+or review of the Company s financial statements for those fiscal years were included in the above listed were 0 and 0, respectively. 
+
+Tax Fees 
+
+ We incurred aggregate tax fees and expenses from BF
+Borgers CPA, P.C. during the years ended December 31, 2022 and 2021 for professional services rendered for tax compliance, tax advice,
+and tax planning of 0 and 0, respectively. 
+
+All Other Fees 
+
+ The board of directors, acting as the Audit Committee
+considered whether, and determined that, the auditor's provision of non-audit services was compatible with maintaining the auditor's independence.
+All of the services described above for fiscal year 2022 were approved by the board of directors pursuant to its policies and procedures. 
+
+Audit Committee Policies and Procedures 
+
+ We do not have an audit committee; therefore,
+our three directors pre-approve all services to be provided to us by our independent auditor. This process involves obtaining (i) a
+written description of the proposed services, (ii) the confirmation of our Principal Accounting Officer that the services are
+compatible with maintaining specific principles relating to independence, and (iii) confirmation from our securities counsel that
+the services are not among those that our independent auditors have been prohibited from performing under SEC rules. In fiscal year
+ending December 31, 2022, all fees paid to BF Borgers CPA, P.C. were unanimously pre-approved in accordance with this policy. 
+
+29 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(a)(1) List of Financial statements included in Part II hereof 
+
+ Balance Sheets, December 31, 2022 and 2021 
+
+ Statements of Operations for the years ended December 31, 2022
+and 2021 
+
+ Statements of Stockholders Equity (Deficit) for
+the years ended December 31, 2022 and 2021 
+
+ Statements of Cash Flows for the years ended December 31, 2022
+and 2021 
+
+ Notes to the Financial Statements 
+
+(a)(2) List of Financial Statement schedules included in Part IV hereof:
+None. 
+
+(a)(3) Exhibits 
+
+The following exhibits are included herewith: 
+
+Exhibit No. 
+ Description 
+ 
+ 3.3 
+ Amended Designation filed with the State of Nevada on 12/30/15 
+ 
+ 3.4 
+ Certificate of Amendment filed with the State of Nevada on 3/29/16 
+ 
+ 31.1 
+ Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 31.2 
+ Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 
+ Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.2 
+ Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 101.INS 
+ XBRL Instance Document 
+ 101.SCH 
+ XBRL Taxonomy Extension
+Schema Document 
+ 
+ 101.CAL 
+ XBRL Taxonomy Extension
+Calculation Linkbase Document 
+ 
+ 101.DEF 
+ XBRL Taxonomy Extension
+Definition Linkbase Document 
+ 
+ 101.LAB 
+ XBRL Taxonomy Extension
+Label Linkbase Document 
+ 
+ 101.PRE 
+ XBRL Taxonomy Extension
+Presentation Linkbase Document 
+
+XBRL (Extensible Business Reporting Language) information is furnished
+and not filed or a part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as
+amended, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject
+to liability under these sections. 
+
+Following are a list of exhibits which we previously
+filed in other reports which we filed with the SEC, including the Exhibit No., description of the exhibit and the identity of the Report
+where the exhibit was filed. 
+
+3.1 Articles of Incorporation , as currently in effect, incorporated by reference to Form S-1 filed on 03/11/2021. 
+ 
+ 3.2 Bylaws , as currently in effect, incorporated by reference to Form S-1 filed on 03/11/2021. 
+ 101 Inline XBRL Instance Document (the instance document does not appear
+in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document) 
+
+30 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Findit, Inc. 
+
+/s/ Thomas Powers 
+
+ By: Thomas Powers 
+
+ Chief Executive Officer, Principal Executive Officer, Director 
+
+ Date: April 5, 2023 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the Company and in the capacities and on the dates indicated. 
+
+/s/Thomas Powers 
+ 
+ CEO, Principal Executive, Director 
+ 
+ April 3, 2023 
+
+/s/Raymond Firth 
+ 
+ CFO, President, Director 
+ 
+ April 3, 2023 
+
+31 
+
+<EX-3.3>
+ 2
+ findit_ex0303.htm
+ AMENDMENT TO CERTIFICATE OF DESIGNATION
+
+EXHIBIT 3.3 
+
+Business Number C30222 - 1998 Filed in the Office of Secretary of State State Of Nevada Filing Number 20150569632 - 19 Filed On 12/30/2015 Number of Pages 1 
+
+</EX-3.3>
+
+<EX-3.4>
+ 3
+ findit_ex0304.htm
+ CERTIFICATE OF AMENDMENT TO ARTICLES OF INCORPORATION
+
+EXHIBIT 3.4 
+
+Business Number C30222 - 1998 Filed in the Office of Secretary of State State Of Nevada Filing Number 20160138821 - 92 Filed On 03/29/2016 Number of Pages 1 
+
+</EX-3.4>
+
+<EX-31.1>
+ 4
+ findit_ex3101.htm
+ 302 CERTIFICATION
+
+EXHIBIT 31.1 
+
+302 CERTIFICATION 
+
+I, Thomas Powers, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Findit, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows
+of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) Designed such disclosure controls and procedures,
+or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under my supervision, to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant's
+disclosure controls and procedures and presented in this report, our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) Disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting; and 
+
+5. The registrant's other certifying officers and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's
+board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weaknesses
+in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's
+ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves
+management or other employees who have a significant role in the registrant's internal controls over financial reporting. 
+
+Date: April 3, 2023 
+
+/s/ Thomas Powers 
+
+ Thomas Powers 
+
+ Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ findit_ex3102.htm
+ 302 CERTIFICATION
+
+EXHIBIT 31.2 
+
+302 CERTIFICATION 
+
+I, Raymond Firth, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Findit, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows
+of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) Designed such disclosure controls and procedures,
+or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under my supervision, to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant's
+disclosure controls and procedures and presented in this report, our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) Disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting; and 
+
+5. The registrant's other certifying officers and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's
+board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weaknesses
+in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's
+ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves
+management or other employees who have a significant role in the registrant's internal controls over financial reporting. 
+
+Date: April 3, 2023 
+
+/s/ Raymond Firth 
+
+ Raymond Firth 
+
+ Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ findit_ex3201.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Findit, Inc. (the Company on Form 10-K for the year ended December 31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ),
+I, Thomas Powers, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and 
+
+ (2) The information contained in the Report fairly presents, in all material
+respects, the financial condition and result of operations of the Company. 
+
+/s/ Thomas Powers 
+
+ Thomas Powers 
+
+ Chief Executive Officer 
+
+April 3, 2023 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ findit_ex3202.htm
+ CERTIFICATION
+
+EXHIBIT 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Findit, Inc. (the Company on Form 10-K for the year ended December 31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ),
+I, Raymond Firth, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and 
+
+ (2) The information contained in the Report fairly presents, in all material
+respects, the financial condition and result of operations of the Company. 
+
+/s/ Raymond Firth 
+
+ Raymond Firth 
+
+ Chief Financial Officer 
+
+April 3, 2023 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 10
+ fdit-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ fdit-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 13
+ fdit-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 14
+ fdit-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

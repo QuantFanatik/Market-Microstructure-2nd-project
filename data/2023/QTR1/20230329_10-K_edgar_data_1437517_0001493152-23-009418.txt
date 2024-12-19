@@ -1,0 +1,2706 @@
+<Header>
+<FileStats>
+    <FileName>20230329_10-K_edgar_data_1437517_0001493152-23-009418.txt</FileName>
+    <GrossFileSize>4308255</GrossFileSize>
+    <NetFileSize>92144</NetFileSize>
+    <NonText_DocumentType_Chars>786500</NonText_DocumentType_Chars>
+    <HTML_Chars>1317138</HTML_Chars>
+    <XBRL_Chars>914653</XBRL_Chars>
+    <XML_Chars>1099485</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-009418.hdr.sgml : 20230329
+<ACCEPTANCE-DATETIME>20230329152749
+ACCESSION NUMBER:		0001493152-23-009418
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		54
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230329
+DATE AS OF CHANGE:		20230329
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CYBERLOQ TECHNOLOGIES, INC.
+		CENTRAL INDEX KEY:			0001437517
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				262118480
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56264
+		FILM NUMBER:		23774809
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4837 SWIFT ROAD SUITE 210-1
+		CITY:			SARASOTA
+		STATE:			FL
+		ZIP:			34231
+		BUSINESS PHONE:		612-961-4536
+
+	MAIL ADDRESS:	
+		STREET 1:		4837 SWIFT ROAD SUITE 210-1
+		CITY:			SARASOTA
+		STATE:			FL
+		ZIP:			34231
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADVANCED CREDIT TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	20080612
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-009418.txt : 20230329
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+(Mark
+One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended , 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission
+File Number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+or other jurisdiction of incorporation 
+
+(Commission 
+ File
+ Number) 
+ 
+ (IRS
+ Employer 
+ Identification
+ No.) 
+
+, 
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number, including area code 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+
+OTC
+ Pink 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer as defined in Rule 405 of the Securities Act. 
+
+ Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding
+12 months (or for such shorter period that the registrant was required to submit and post such files). 
+
+No 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of the registrant s knowledge, in definitive proxy or information statements incorporated
+by reference in Part III of this form 10-K or any amendment to this form 10-K. 
+
+No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ Growth Company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+ Yes
+
+APPLICABLE
+ONLY TO ISSUERS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING THE PRECEDING FIVE YEARS: 
+
+Indicate
+by check mark whether the registrant has filed all documents and reports required to be filed by Sections 12, 13 or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. 
+
+Yes
+ No 
+
+APPLICABLE
+ONLY TO CORPORATE ISSUERS: 
+
+Indicate
+the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 
+
+As
+of the date of this filing, there were shares of the Issuer s common stock issued and outstanding and held by approximately
+139 shareholders, six of which are deemed affiliates within the meaning of Rule 12b-2 under the Exchange Act. 
+
+As
+of the date of this filing, there were 20,000 shares of the Issuer s preferred stock issued and outstanding. 
+
+The
+aggregate market value of the 93,366,391 shares of voting common equity held by non-affiliates of the registrant, computed by reference
+to the closing price as reported as of the last business day of the registrant s most recently completed second fiscal quarter
+(June 30, 2022) was approximately . 
+
+CyberloQ
+Technologies, Inc. 
+
+FORM
+10-K 
+
+For
+The Year Ended December 31, 2022 
+
+INDEX 
+
+PART I 
+
+Item
+ 1. 
+ Business 
+ 3 
+ 
+ Item
+ 1A. 
+ Risk Factors 
+ 4 
+ 
+ Item
+ 1B. 
+ Unresolved Staff Comments 
+ 5 
+ 
+ Item
+ 2. 
+ Properties 
+ 5 
+ 
+ Item
+ 3. 
+ Legal Proceedings 
+ 5 
+ 
+ Item
+ 4. 
+ Mine Safety Disclosures 
+ 5 
+
+PART II 
+
+Item
+ 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+ 5 
+ 
+ Item
+ 6. 
+ Selected Financial Data 
+ 6 
+ 
+ Item
+ 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 6 
+ 
+ Item
+ 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 7 
+ 
+ Item
+ 8. 
+ Financial Statements and Supplementary Data 
+ 7 
+ 
+ Item
+ 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 7 
+ 
+ Item
+ 9A. 
+ Controls and Procedures 
+ 7 
+ 
+ Item
+ 9B. 
+ Other Information 
+ 8 
+
+PART III 
+
+Item
+ 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 8 
+ 
+ Item
+ 11. 
+ Executive Compensation 
+ 10 
+ 
+ Item
+ 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 11 
+ 
+ Item
+ 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 13 
+ 
+ Item
+ 14. 
+ Principal Accounting Fees and Services 
+ 14 
+
+PART IV 
+
+Item
+ 15. 
+ Exhibits and Financial Statement Schedules 
+ 15 
+
+Signatures 
+ 16 
+
+2 
+
+PART
+I 
+
+SPECIAL
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This
+annual report on Form 10-K and the documents incorporated by reference herein contain forward-looking statements that are not statements
+of historical fact and may involve a number of risks and uncertainties. These statements related to analyses and other information that
+are based on forecasts of future results and estimates of amounts not yet determinable. These statements may also relate to our future
+prospects, developments and business strategies. These statements involve known and unknown risks, uncertainties and other factors that
+may cause our actual results, levels of activity, performance or achievements to be materially different from any future results, levels
+of activity, performance, or achievements expressed or implied by forward-looking statements. 
+
+In
+some cases, you can identify forward-looking statements by terminology such as may, should, expects, 
+ plans, anticipates, believes, estimates, predicts, potential, 
+ proposed, intended, or continue or the negative of these terms or other comparable terminology.
+You should read statements that contain these words carefully, because they discuss our expectations about our future operating results
+or our future financial condition or state other forward-looking information. There may be events in the future that we
+are not able to accurately predict or control. Before you invest in our securities, you should be aware that the occurrence of any of
+the events described in this Annual Report could substantially harm our business, results of operations and financial condition, and
+that upon the occurrence of any of these events, the trading price of our securities could decline and you could lose all or part of
+your investment. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee
+future results, growth rates, levels of activity, performance or achievements. We are under no duty to update any of the forward-looking
+statements after the date of this Annual Report to conform these statements to actual results. 
+
+The
+following factors are among those that may cause actual results to differ materially from our forward-looking statements: 
+
+General
+ economic and industry conditions; 
+
+Out
+ history of losses, deficits and negative operating cash flows; 
+
+Our
+ limited operating history; 
+
+Industry
+ competition; 
+
+Environmental
+ and governmental regulation; 
+
+Protection
+ and defense of our intellectual property rights; 
+
+Reliance
+ on, and the ability to attract, key personnel; 
+
+Other
+ factors including those discussed in Risk Factors in this annual report on Form 10-K and our incorporated documents. 
+
+You
+should keep in mind that any forward-looking statement made by us in this annual report or elsewhere speaks only as of the date on which
+we make it. New risks and uncertainties arise from time to time, and it is impossible for us to predict these events or how they may
+affect us. We have no duty to, and do not intend to, update or revise the forward-looking statements in this annual report after the
+date of filing, except as may be required by law. In light of these risks and uncertainties, you should keep in mind that any forward-looking
+statement made in this annual report or elsewhere might not occur. 
+
+In
+this annual report on Form 10-K, the terms CLOQ, Company, we, us and our 
+refer to CyberloQ Technologies, Inc. and its wholly-owned subsidiary CyberloQ Technologies, LTD. 
+
+ITEM
+ 1. 
+ BUSINESS 
+
+Company
+History 
+
+CyberloQ
+Technologies Inc. CLOQ , We or the Company was incorporated in Nevada on February 5, 2008
+as Advanced Credit Technologies, Inc. The Company changed its name to CyberloQ Technologies, Inc. on November 20, 2019. The Company has
+never been the subject of any bankruptcy, receivership or similar proceeding. The Company has never been involved in any material reclassification,
+merger, or consolidation. 
+
+On
+June 15, 2017, the Company created a private limited company in the United Kingdom named CyberloQ Technologies LTD. CyberloQ Technologies
+LTD is a wholly-owned subsidiary of the Company, and any business that the Company has in the United Kingdom will be transacted through
+CyberloQ Technologies LTD. However, to date CyberloQ Technologies LTD has had no activity, operational or otherwise. 
+
+3 
+
+Current
+Overview of the Company 
+
+The
+Company is a development-stage technology company focused on fraud prevention and credit management. 
+
+The
+Company offers a proprietary software platform branded as CyberloQ . While previously the Company licensed CyberloQ, in the third
+quarter of 2017, the Company acquired the CyberloQ technology and is now the exclusive owner of CyberloQ. 
+
+CyberloQ
+is a MFA Multi Factor Authentication protocol technology that is offered to institutional clients in order to combat fraudulent transactions
+and unauthorized access to customer accounts and or any digital asset. Through the use of a customer s smart-phone, CyberloQ uses
+a multi-factor authentication system to control access to a bank card, transaction type or amount, website, database or digital service.
+The mobile applications for CyberloQ have been built, and have been successfully integrated into the banking ecosystem. The Company has
+also updated the entire infrastructure, UI/UX and streamlined the deliverable services per strategic partnerships with clients in multiple
+channels in order to increase the scalability of the original platform. 
+
+In
+addition to CyberloQ, the Company offers a web-based proprietary software platform under the brand name TurnScor which allows customers
+to monitor and manage their credit from the privacy of their own homes. Although individuals can sign-up for TurnScor on their own, the
+Company also intends to market TurnScor to certain institutional clients, where appropriate, in conjunction with CyberloQ as a value-added
+benefit to offer their customers. 
+
+The
+CyberloQ Vault is a cloud based security protocol that allows clients the ability to send/receive secure data without having
+to use traditional e-mail which is prone to a breach. This CyberloQ service uses cloud-based encryption and a secure web portal to send/receive
+confidential data, the sender and receiver both must have authenticated their position within the prescribed geo coordinates as well
+as authenticate their mobile devices prior to sending/receiving any data. Thus, rendering a hack or breach utterly useless for the encrypted
+data is unusable without the CyberloQ authentication component. 
+
+The
+Company currently has two full-time employees its President and Vice-President. There are no other employees of the Company at
+this time. 
+
+The
+Company also has a Board of Advisors comprised of individuals from the banking, business development, and technical sectors to advise
+the Company as it moves forward with its business strategy. The Board of Advisors does not have any decision-making authority. 
+
+ITEM
+ 1A. 
+ RISK
+ FACTORS 
+
+The
+Company qualifies as a smaller reporting company as defined by 229.10(f)(1) and therefore is not required to provide the information
+required by this Item. However, the Company does acknowledge that there are risks associated with the business of the Company. 
+
+We
+will be competing with a variety of companies, many of which have significantly greater financial, technical, marketing and other resources
+than us. If we fail to attract and retain a large base of customers for our products, or if our competitors establish a more prominent
+market position relative to ours, this will inhibit our ability to grow and successfully execute our business plan. For example, Wells
+Fargo has introduced an on/off feature for their customers, Discover Card has Freeze It functionality, and
+Ondot Systems has already been operating in the mobile card security space for quite some time. However, the Company believes that the
+multi-purpose functionality of CyberloQ, along with its multi-purpose applications will give the Company a distinct advantage by comparison.
+CyberloQ can be used in the banking system to protect debit/credit cards, in the Health Care industry to protect PII (Personal Identifying
+Information) now that medical records are kept digitally, and can protect corporate data bases in any industry from outside intrusion
+via geo-fencing. The Company believes that these distinct features, along with the ability to White Label the technology
+for marketing partners, give the Company a distinction in the marketplace. However, there can be no assurance that we will be able to
+successfully compete with other companies in the marketplace. 
+
+In
+addition, the Company could incur increased costs, decreased revenue, or suffer reputational damage in the event of a cyber-attack. The
+Company s business involves the collection, storage, processing and transmission of customers personal data, including financial
+information. In the event that the Company s security measures are breached due to human error, malfeasance, system errors or vulnerabilities,
+or other irregularities, such breach could adversely affect our business through possible interruption of the Company s operations,
+improper disclosure of data, damage to the Company s reputation, and/or legal exposure. 
+
+4 
+
+ITEM
+ 1B. 
+ UNRESOLVED
+ STAFF COMMENTS 
+
+None. 
+
+ITEM
+ 2. 
+ PROPERTIES 
+
+The
+Company s corporate office is located at 4837 Swift Road Suite 210-1 Sarasota, FL 34231, and our telephone number is 612-961-4536.
+Rent is 766 per month including phone and internet. 
+
+The
+Company does not presently hold any investments or interests in real estate, investments in real estate mortgages or securities of or
+interests in persons primarily engaged in real estate activities. 
+
+ITEM
+ 3. 
+ LEGAL
+ PROCEEDINGS 
+
+The
+Company is currently a party to one legal proceeding pending in the Superior Court of New Jersey entitled Mark Carten v. Cyberloq
+Technologies, Inc. (UNN-L-3456-22). The Plaintiff is the Company s former Chief Technology Officer, and the employee 
+complaint alleges that the Company breached the February 28, 2022 separation and common stock redemption agreements, seeking an unspecified
+amount of monetary damages as well as a judgment of specific performance for the company to purchase the remaining shares of common stock
+owned by the employee. The Company believes that the employee s claims have no merit and intends to defend itself vigorously. 
+
+The
+Company is not currently a party to any other legal proceedings, nor is the Company a party to any administrative proceedings. 
+
+In
+addition, the Company s officers and directors have not been convicted in any criminal proceedings nor have they been permanently
+or temporarily enjoined, barred, suspended or otherwise limited from involvement in any type of securities or banking activities. 
+
+ITEM
+ 4. 
+ MINE
+ SAFETY DISCLOSURES 
+
+None. 
+
+PART
+II 
+
+ITEM
+ 5. 
+ MARKET
+ FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Our
+common stock currently trades on the OTC Bulletin Board under the symbol CLOQ. The following table states the range of
+the high and low bid-prices per share of our common stock for each of the calendar quarters for fiscal years 2022 and 2021, as reported
+by the OTC Bulletin Board. These quotations represent inter-dealer prices, without retail mark-up, markdown, or commission, and may not
+represent actual transactions. The last price of our common stock as reported on the OTC Bulletin Board on December 31, 2022 was 0.05
+per share. As of December 31, 2022, there were 139 shareholders of record of our common stock. This number does not include beneficial
+owners from whom shares are held by nominees in street name. 
+
+Fiscal Year 2022 
+ Fiscal Year 2021 
+
+High 
+ Low 
+ High 
+ Low 
+
+First Quarter 
+ 0.12 
+ 0.05 
+ 0.50 
+ 0.05 
+
+Second Quarter 
+ 0.08 
+ 0.05 
+ 0.49 
+ 0.13 
+
+Third Quarter 
+ 0.12 
+ 0.03 
+ 0.32 
+ 0.09 
+
+Fourth Quarter 
+ 0.05 
+ 0.03 
+ 0.20 
+ 0.08 
+
+5 
+
+Dividend
+Policy and Holders 
+
+No
+dividends have been paid to date on our common stock and no change of this policy is under consideration by our board of directors. Our
+board of directors is not required to declare or pay dividends on our securities. The payment of dividends in the future will be determined
+by our board of directors in light of conditions then existing, including our earnings, financial requirements, general business conditions,
+reinvestment opportunities, and other factors. There are otherwise no restrictions on the payment of dividends existing at this time. 
+
+ITEM
+ 6. 
+ SELECTED
+ FINANCIAL DATA 
+
+The
+Company qualifies as a smaller reporting company as defined by 229.10(f)(1) and therefore is not required to provide the information
+required by this Item. 
+
+ITEM
+ 7. 
+ MANAGEMENT S
+ DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Liquidity,
+Capital Resources and Material Changes in Financial Condition 
+
+As
+of December 31, 2022, total assets were 341,118 compared to 264,503 in assets as of December 31, 2021. The Company s fixed assets
+increased from 0 to 283,240 due to the capitalization of the CyberloQ Platform, while the Company s prepaid expense decreased
+from 210,208 to 53,811 due to the Company s continued amortization of the prior issuance of 1,250,000 shares of stock to consultants
+that are being amortized over the one-year length of the contracts on a straight-line basis. In addition, the Company s cash assets
+were 4,067 as of December 31, 2022 as opposed to 54,295 as of December 31, 2021. 
+
+As
+of December 31, 2022, liabilities were 324,132 compared to 299,530 in liabilities as of December 31, 2021. This increase the Company s
+liabilities was due to increases in accounts payable and accrued expenses of 12,762, and convertible debt of 60,000 and accrued interest
+of 21,317 partially offset by a decrease of loans from stockholders of 10,000 and long term note payable of 2,100. 
+
+Net
+cash used in operating activities for 2022 was 371,963 compared to net cash used in operating activities for 2021 of 664,596. Cash
+provided by or used by operating activities is driven by our net loss, which was approximately 108,600 less than 2021, and adjusted
+by non-cash items as well as changes in operating assets and liabilities. Non-cash adjustments for 2022 include stock compensation of
+ 350,643 and loss on settlement of debt of 195,216. 
+
+Net
+cash used by investing activities for 2022 was 283,240 and was due to the Company capitalizing development costs for the CyberloQ platform. 
+
+Net
+cash provided by financing activities was 604,975 for 2022 as compared to 692,150 for 2021. Specifically, proceeds from common stock
+issuance were 422,075 for 2022 as compared to 490,200 for 2021, and proceeds from common stock to be issued was 50,000 for 2022 as
+compared to 193,000 for 2021. Conversely, proceeds from notes payable were 125,000 for 2022 compared to 22,500 for 2021. 
+
+The
+Company had operating revenue of 2,671 in 2022 and is currently reliant on its ability to raise additional capital and/or debt to continue
+execution of its business plan to move the Company forward towards profitability. The Company does not anticipate any significant decrease
+in its operating expenses for 2023. Unless the Company begins to generate operation revenue, it will be reliant on its ability to raise
+additional debt and/or capital in order to continue its operations. 
+
+Results
+of Operations for the Years Ended December 31, 2022 and 2021 
+
+The
+Company experienced a net loss of 979,048 for 2022 compared to net loss of 1,087,712 for 2021. 
+
+6 
+
+There
+was no material change in the Company s service revenue. Service revenue was 2,671 for 2022 in comparison to 197 for 2021. 
+
+This
+decrease in the Company s net loss was primarily due to decreases in research and development expenses and offers compensation
+expense and professional fees. 
+
+Research
+and development expenses were 0 in 2022, compared to 180,063 in 2021. This decrease in research expenses was due to the Company beginning
+to capitalize the cost of development of the CyberloQ platform. 
+
+Officers 
+compensation expense was 207,000 in 2022 as compared to 370,400 in 2021. This decrease was due to the Company only having two officers
+instead of three for the majority of 2022. 
+
+Professional
+fees were 424,503 in 2022, compared to 468,449 in 2021. This decrease in professional fees was due to decreased consulting services
+and accounting services. 
+
+The
+foregoing drivers of the decrease in the Company s net loss for 2022 were partially offset by an increase in the Company s
+computer an internet expense. 
+
+Computer
+and internet expenses were 24,796 in 2022 as compared to 10,859 in 2021. This increase was due to additional hosting costs associated
+with the Company s private blockchain product. 
+
+For
+2022, there were no material changes in office expenses and supplies, rent expense, travel and entertainment, office supplies and other
+operating expenses as compared to 2021. 
+
+In
+summary, total revenue was 2,671 for 2022, and the Company is currently reliant on its ability to raise additional debt and/or capital
+to continue execution of its business plan to move forward towards profitability. Whether or not there are any material changes in operational
+revenues or expenses in 2023 will be highly-dependent upon the Company s ability to enter into material revenue contracts with
+customers. 
+
+ITEM
+ 7A. 
+ QUANTITATIVE
+ AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+The
+Company qualifies as a smaller reporting company as defined by 229.10(f)(1) and therefore is not required to provide the information
+required by this Item. 
+
+ITEM
+ 8. 
+ FINANCIAL
+ STATEMENTS AND SUPPLEMENTARY DATA 
+
+The
+Company s Financial Statements are set forth below beginning on page F-1 of this Form 10-K. 
+
+ITEM
+ 9. 
+ CHANGES
+ IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM
+ 9A. 
+ CONTROLS
+ AND PROCEDURES 
+
+Our
+management is responsible for establishing and maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e)
+and 15d-15(e) under the Exchange Act) that is designed to ensure that information required to be disclosed by us in the reports that
+we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Commission s
+rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information
+required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated
+to the issuer s management, including its principal executive officer or officers and principal financial officer or officers,
+or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+
+7 
+
+An
+evaluation was conducted under the supervision and with the participation of our management of the effectiveness of the design and operation
+of our disclosure controls and procedures as of December 31, 2022 in accordance with the Committee of Sponsoring Organizations of the
+Treadway Commission s 2013 Integrated Framework. Based on that evaluation, our management concluded that our disclosure controls
+and procedures were not effective as of such date to ensure that information required to be disclosed in the reports that we file or
+submit under the Exchange Act, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms.
+In addition, due to its current size, the Company currently does not have sufficient staff to maintain appropriate segregation of duties,
+as it pertains to application and oversight of internal control processes. Material weaknesses have previously been identified, including
+lack of segregation of duties and lack of formal written policies and procedures surrounding financial close and reporting. However,
+the Company anticipates that as it grows and formalizes its internal control processes and procedures, it will add sufficient staff to
+perform internal control processes, as well as adequately provided oversight to ensure processes are working as designed. Such officer
+also confirmed that there was no change in our internal control over financial reporting during the three-month period ended December
+31, 2022 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM
+ 9B. 
+ OTHER
+ INFORMATION 
+
+There
+exists no information required to be disclosed in a report on Form 8-K during the three-month period ended December 31, 2022, but not
+reported. 
+
+PART
+III 
+
+ITEM
+ 10. 
+ DIRECTORS,
+ EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Our
+directors and officers, as of the date of this filing, are set forth below. The directors hold office for their respective term and until
+their successors are duly elected and qualified. Vacancies in the existing Board are filled by a majority vote of the remaining directors.
+The officers serve at the will of the Board of Directors. 
+
+(a)
+ (b) Directors and executive officers : 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Director
+ Since 
+ 
+ Enrico
+ Giordano 
+ 
+ 64 
+ 
+ Vice
+ President Director 
+ 
+ Inception 
+ 
+ Leon
+ Hurst 
+ 
+ 55 
+ 
+ Director 
+ 
+ February
+ 2020 
+ 
+ Christopher
+ Jackson 
+ 
+ 58 
+ 
+ President,
+ Sec., Treas. Director 
+ 
+ Inception 
+ 
+ Rex
+ Schuette 
+ 
+ 73 
+ 
+ Director 
+ 
+ September
+ 2017 
+
+The
+directors of the Company are elected to serve until the next annual shareholders meeting or until their respective successors
+are elected and qualified. Officers of the Company hold office until the meeting of the Board of Directors immediately following the
+next annual shareholders meeting or until removal by the Board of Directors. 
+
+(c)
+ Identification of certain significant employees . 
+
+As
+of December 31, 2022, there were no persons who were not directors and/or executive officers that were expected to make significant contributions
+to the business of the Company. 
+
+(d)
+ Family relationships . 
+
+There
+are no family relationships between any directors and/or executive officers. 
+
+8 
+
+(e)
+The business experience of the directors and executive officers. 
+
+Enrico
+Giordano. Mr. Giordano is a founder and holds a BA degree in Mass Communications from the University of South Florida and has excelled
+in Mass Communication Law as his elective studies. Mr. Giordano has been a consultant for over 20 years and has worked with various types
+of deal structures, from helping structure the proposed sale and relocation of an NBA franchise to working with a structure on e-business
+companies and the web integration field that included associations with executives of corporations such as Compaq, Digital Equipment
+Corp., Apple Computer, VisiCorp, Fortress Technologies and IBM. From 2006 through 2007, Mr. Giordano worked on a consulting basis for
+SellaVision, Inc., a company involved with the infomercial and electronic retailing industry. From 2008 until present, has also been
+instrumental in structuring and negotiating on behalf of the Company. Mr. Giordano has already been successful in creating alliances
+that can be significant to the Company s future growth potential. Mr. Giordano will devote most of his time to this effort, thus
+helping ensure the success of the Company. For the past two years all of Mr. Giordano s time and efforts have been solely concentrated
+on the Company. From price point to structure as well as the marketing of the product to affiliate programs which are now ready to be
+rolled out. These are all part of the vision along with Mr. Jackson in order to bring to market a product that is reliable, affordable
+and one that can help thousands upon thousands of people in today s economy. 
+
+Leon
+Hurst. Mr. Hurst owns and operates a tire distribution, installation and repair business. He also owns a towing and asset recovery
+business. Mr. Hurst has been a Gideon member of the Lancaster northeast camp for over twenty years, serving as President, Vice-President
+and Treasurer over that time. He is currently serving as the Treasurer of ROFM drug and alcohol treatment ministry as well. 
+
+Christopher
+Jackson. Mr. Jackson is a founder and has served as the President and Chief Operating Officer since inception. Mr. Jackson attended
+Texas Lutheran University while seeking a degree in Marketing. He has been in sales and management for the better part of 25 years. Mr.
+Jackson was instrumental in the Company s original software development platform, TurnScor. Mr. Jackson s main focus will
+be the implementation of a scalable CyberloQ platform, alongside sales strategies for growing the Company s revenues. Mr. Jackson
+devotes 100 of his time to day to day operations, financial disclosures and reporting along with sales support within the Company. 
+
+Rex
+Schuette. Mr. Schuette s vast experience and knowledge in the financial services sector will be instrumental in guiding the
+Company forward with its banking relationships. Mr. Schuette was an Executive Vice President and Chief Financial Officer of United Community
+Banks, Inc. United for 16 years until his recent retirement in May of 2017. United is one of the largest full-service
+banks in the Southeast region of the United States, with over 168 offices and over 11 billion in assets at his retirement. While at
+United, Mr. Schuette managed and directed all accounting, financial and reporting activities for the company, and was also responsible
+for mergers and acquisitions, investor relations, strategic and capital planning. Prior to his time at United, Mr. Schuette spent 16
+years at State Street Corporation, a global financial services company, where he served as the company s Senior Vice President
+and Chief Accounting Officer. Mr. Schuette has also served as the Chief Financial Officer of Bank One (Lead Bank), Deputy Comptroller
+of Harris Trust Savings Bank, and Assistant Controller of the National Bank of Detroit. The knowledge and experience that Mr. Schuette
+brings to the Board will be an important and strategic component of the Company s continued growth in the banking industry, both
+domestically and abroad. 
+
+(f)
+Involvement in certain legal proceedings. 
+
+None. 
+
+(g)
+ Promoters and control persons . 
+
+None. 
+
+Section
+16(A) Beneficial Ownership Reporting Compliance 
+
+Section
+16(a) of the Exchange Act requires our executive officers and directors, and persons who beneficially own more than 10 of our equity
+securities, to file reports of ownership and changes in ownership with the Securities and Exchange Commission and furnish us with copies
+of all Section 16(a) forms they file. Based on our review of the EDGAR database, we believe that there are no persons that are delinquent
+in filing the required forms for the year ended December 31, 2022. 
+
+9 
+
+Code
+of Ethics 
+
+We
+have adopted a Code of Ethics that applies to our principal executive officer, principal financial officer, principal accounting officer
+or controller, and persons performing similar functions. Our Code of Ethics is designed to deter wrongdoing and promote: (i) honest and
+ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships;
+(ii) full, fair, accurate, timely and understandable disclosure in reports and documents that we file with, or submit to, the SEC and
+in our other public communications; (iii) compliance with applicable governmental laws, rules and regulations; (iv) the prompt internal
+reporting of violations of our Code of Ethics to an appropriate person or persons identified in the code; and (v) accountability for
+adherence to our Code of Ethics. We will provide any person without charge a copy of our code of ethics upon receiving a written request
+which may be mailed to our office at 4837 Swift Road Suite 210-1 Sarasota, FL 34231 
+
+ITEM
+ 11. 
+ EXECUTIVE
+ COMPENSATION 
+
+Summary
+Compensation of Officers 
+
+The
+following table sets forth certain information with respect to compensation paid to the Company s executive officers. 
+
+Name and Principal Position 
+ Year 
+ Salary 
+ Bonus 
+ Stock Awards 
+ Option Awards 
+ Non- Equity Inctv. Plan Comp 
+ Change in pension value nonqualified deferred comp.earnings 
+ All Other Comp 
+ Total 
+ 
+ Christopher Jackson 
+ 2022 
+ 90,000 
+ 
+ 6,000 (1) 
+ - 
+ - 
+ - 
+ - 
+ 96,000 
+ 
+ President, Secretary, Treasurer Director (PEO PFO) 
+ 2021 
+ 90,000 
+ 8,000 
+ 30,800 (1) 
+ - 
+ - 
+ - 
+ - 
+ 128,800 
+ 
+ Mark Carten 
+ 2022 
+ 15,000 
+ - 
+ (1) 
+ - 
+ - 
+ - 
+ - 
+ 15,000 
+ 
+ CTO Director 
+ 2021 
+ 90,000 
+ - 
+ 30800 (1) 
+ - 
+ - 
+ - 
+ - 
+ 120,800 
+ 
+ Enrico Giordano 
+ 2022 
+ 90,000 
+ - 
+ 6,000 (1) 
+ - 
+ - 
+ - 
+ - 
+ 96,000 
+ 
+ VP Director 
+ 2021 
+ 90,000 
+ - 
+ 30,800 (1) 
+ - 
+ - 
+ - 
+ - 
+ 120,800 
+
+(1)
+The employment contracts for Christopher Jackson and Enrico Giordano provide that so long as they are in continuous service to the Company,
+on each annual anniversary date of their employment agreements they shall be issued 100,000 shares of the Company s common stock
+as an annual bonus. 
+
+(2)
+On February 28, 2022, Mark Carten resigned from his officer position with the Company. 
+
+10 
+
+Outstanding
+Equity Awards at Fiscal Year-End 
+
+The
+following table sets forth certain information with respect to outstanding equity awards for the Company s executive officers as
+of December 31, 2022. 
+
+Option Awards 
+ Stock Awards 
+ 
+ Name 
+ Number of Securities Underlying Unexercised Options (#) Exercisable 
+ Number of Securities Underlying Unexercised Options (#) Un-exercisable 
+ Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned Options (#) 
+ Option Exercise Price ) 
+ Option Expiration Date 
+ There are No Incentive-Based Stock Awards Outstanding 
+
+Enrico Giordano Vice President 
+ - 
+ - 
+ 5,000,000 (1) 
+ 
+ # 
+ - 
+ 
+ Christopher Jackson President, Secretary and Treasurer 
+ - 
+ - 
+ 5,000,000 (1) 
+ 
+ # 
+ - 
+
+at 110 of the average of the closing bid price for the ten days preceding the Company s achievement of each performance goal. 
+
+#
+All of the options set forth in the above table are performance based and must be exercised within five(5) years of the date that they
+vest with the executive. 
+
+(1)
+The employment contracts for Enrico Giordano and Christopher Jackson include performance incentive stock options based upon the Company
+meeting certain performance conditions that can potentially result in the issuance of stock option awards of up to 5,000,000 shares each
+in the event that the Company reaches certain performance goals. Specifically, Enrico Giordano and Christopher Jackson each shall be
+entitled to receive ten (10) stock option awards of 500,000 shares of the Company s common stock each, upon the Company achieving
+certain milestones (the ISO Awards ). The first ISO Award will vest upon the Company achieving (cumulatively) 1,000,000
+in Gross Revenues, and each additional ISO Award will vest upon the Company achieving the next 1,000,000 increment in cumulative Gross
+Revenue up to a total of 5,000,000 shares each. 
+
+Compensation
+of Directors 
+
+The
+Company has not compensated any Board members for their participation on the Board and does not have any standard or other arrangements
+for compensating them for such services. The Company may issue shares of common stock or options to acquire shares of the Company s
+common stock to members of the Board in consideration for their services as members of the Board. The Company reimburses Directors for
+expenses incurred in connection with their attendance at meetings of the Board. 
+
+ITEM
+ 12. 
+ SECURITY
+ OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+Security
+Ownership of Management and Certain Beneficial Owners 
+
+The
+following table indicates the number of shares of both our common and preferred stock that were beneficially owned as of the date of
+filing, by (1) each person known by us to be the owner of more than 5 of our outstanding shares of preferred stock, (2) our directors,
+(3) our executive officers, and (4) our directors and executive officers as a group. In general, beneficial ownership includes
+those shares a director or executive officer has sole or shared power to vote or transfer (whether or not owned directly) and rights
+to acquire common stock through the exercise of stock options or warrants exercisable currently or that become exercisable within 60
+days. Except as indicated otherwise, the persons named in the table below have sole voting and investment power with respect to all shares
+shown as beneficially owned by them. We based our calculation of the percentage owned on 119,689,754 beneficially owned shares of common
+stock outstanding as of the date of filing, and 20,000 beneficially owned shares of preferred stock outstanding on the date of filing.
+The address of each director and executive officer listed below is c/o CyberloQ Technologies, Inc., 4837 Swift Road Suite 210-1 Sarasota,
+FL 34231. 
+
+Title of Class 
+ Name 
+ Number of Common Shares Beneficially Owned 
+ Percentage of Common Class 
+ Number of Preferred Shares Beneficially Owned 
+ Percentage of Preferred Class 
+
+Directors Officers 
+ Leon Hurst 
+ 5,248,363 
+ 4.4 
+ 0 
+ 0 
+
+Directors Officers 
+ Enrico Giordano (1) 
+ 5,400,000 
+ 4.5 
+ 10,000 
+ 50.00 
+
+Directors Officers 
+ Christopher Jackson (1) 
+ 5,900,000 
+ 4.9 
+ 10,000 
+ 50.00 
+
+Directors Officers 
+ Rex Schuette 
+ 8,675,000 
+ 7.3 
+ 0 
+ 0 
+
+Officers Directors as a group (4 persons) 
+ 25,223,363 
+ 21.1 
+ 20,000 
+ 100 
+
+5 Shareholders 
+ Neil Berman 
+ 7,275,000 
+ 6.1 
+ 0 
+ 0 
+
+5 Shareholders 
+ Frederick Andrieni Jr 
+ 7,250,000 
+ 6.1 
+ 0 
+ 0 
+
+11 
+
+The
+preferred shareholders vote together with the common stock as a single class and the holders of the preferred stock are entitled to 5,000
+votes per share. 
+
+(1)
+The employment contracts for Christopher Jackson and Enrico Giordano include performance incentive stock options based upon the Company
+meeting certain performance conditions that can potentially result in the issuance of stock option awards of up to 5,000,000 shares each
+in the event that the Company reaches certain performance goals. Specifically, Christopher Jackson and Enrico Giordano each shall be
+entitled to receive ten (10) stock option awards of 500,000 shares of the Company s common stock each, upon the Company achieving
+certain milestones (the ISO Awards ). The first ISO Award will vest upon the Company achieving (cumulatively) 1,000,000
+in Gross Revenues, and each additional ISO Award will vest upon the Company achieving the next 1,000,000 increment in cumulative Gross
+Revenue up to a total of 5,000,000 shares each. The shares vest at 110 of the average closing bid price and must be exercised within
+five (5) years of the vesting date. 
+
+Securities
+Authorized for Issuance Under Executive Compensation Plans 
+
+As
+of December 31, 2022, the Company had equity compensation plans with Christopher Jackson and Enrico Giordano. A summary table of the
+potential share issuances based upon these plans is set forth below: 
+
+Equity Compensation Plan Information 
+ 
+ Plan Category 
+ Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights 
+ Weighted-Average Exercise Price of Outstanding Options, Warrants and Rights 
+ Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (excluding securities reflected in column (a)) 
+
+(a) 
+ (b) 
+ (c) 
+ 
+ Equity Compensation Plans Approved by Security Holders 
+ 10,000,000 
+ 
+ 4,800,000 
+ 
+ Equity Compensation Plans Not Approved by Security Holders 
+ 0 
+ n/a 
+ 0 
+ 
+ Total 
+ 10,000,000 
+ 
+ 4,800,000 
+
+The 10,000,000 in options set forth in the above table are exercisable at 110 of the average of the closing bid price for the ten days
+preceding the Company s achievement of each performance goal and must be exercised within five(5) years of the vesting date. 
+
+The
+employment contracts for Christopher Jackson and Enrico Giordano all include performance incentive stock options based upon the Company
+meeting certain performance conditions. These performance incentive stock options were approved by the Company s Shareholders.
+The Company did not meet the requisite performance conditions in 2021 or 2022, and it is unknown whether or not the Company will meet
+the requisite performance conditions in 2023. The options are exercisable in 500,000 increments upon the Company initially achieving
+(cumulatively) 1,000,000 in Gross Revenues, and each additional incentive stock option award will vest upon the Company achieving the
+next 1,000,000 increment in cumulative Gross Revenue. At December 31, 2022 and 2021, none of these options have been issued. On February
+28, 2022, Mark Carten resigned from his officer position with the Company and is no longer eligible for the equity compensation plan. 
+
+12 
+
+ITEM
+ 13. 
+ CERTAIN
+ RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Transactions
+with Related Persons 
+
+On
+August 8, 2020, the Company approved a loan of 25,000 from a director to the Company. The interest rate is 12.5 and the maturity date
+is December 31, 2023. 
+
+On
+September 9, 2020, the Company approved a loan of 100,000 from a director to the Company. The interest rate is 12.5 and the maturity
+date is December 31, 2023. 
+
+On
+December 28, 2020, the Company approved a loan of 25,000 from a director to the Company. The interest rate is 12.5 and the maturity
+date is December 31, 2023. 
+
+On
+December 31, 2021, the Company entered into a loan modification agreement with the director which consolidated three outstanding promissory
+notes dated August 8, 2020, September 9, 2020, and December 28, 2020 into one loan. The total amount borrowed is 150,000, with an interest
+rate of 12.5 and a maturity date of January 1, 2024. Payments of 50,000 plus interest are due to be paid each calendar quarter beginning
+on July 1, 2023. On September 30, 2022, the Company entered into a second loan modification agreement with the director extending the
+maturity date to January 1, 2024. Additionally, the Company will begin paying quarterly installments in the amount of 50,000 plus accrued
+interest beginning July 1, 2023. 
+
+On
+September 20, 2021, the Company approved a loan of 12,500 from a director to the Company. The interest rate is 0 and the maturity date
+is October 1, 2021. The Company paid this loan in full in October 2021. 
+
+On
+February 23, 2022, the Company received a loan from a director in the amount of 50,000, with an interest rate of 12 . The maturity date
+for the loan is April 9, 2022. On September 30, 2022 the Company entered into a Loan Modification Agreement with the director extending
+the maturity date of this note to January 2, 2023. On December 31, 2022, this note principal of 50,000 and accrued interest of 4,784
+was converted into 2,900,000 shares of common stock. 
+
+On
+February 23, 2022, the Company received a convertible debt note from a different director in the amount of 50,000, with an interest
+rate of 12 , because of the convertible nature of the note a beneficial conversion was recorded as a debt discount in the amount of 50,000.
+The maturity date for the loan is July 5, 2022. On June 25, 2022, this note was converted into 2,600,000 shares of common stock, which
+were recorded as shares to be issued and the debt discount was fully amortized. The 2,600,000 shares were issued during
+the quarter ended September 30, 2022. 
+
+Promoters
+and Certain Control Persons 
+
+The
+Company has not had a promoter at any time during the last five fiscal years. 
+
+In
+addition, there are no parents of the Company. 
+
+Director
+Independence 
+
+The
+directors of the Company, which also include the executive officers of the Company, are not independent directors. Members of the Company s
+management may become associated with other firms involved in a range of business activities. Consequently, there are potential inherent
+conflicts of interest in their acting as officers and directors of the Company. Insofar as the officers and directors are engaged in
+other business activities, management anticipates they will devote as much time to the Company s affairs as is reasonably needed. 
+
+13 
+
+The
+officers and directors are, so long as they are officers or directors of the Company, subject to the restriction that all opportunities
+contemplated by the Company s plan of operation which come to their attention, either in the performance of their duties or in
+any other manner, will be considered opportunities of, and be made available to the Company and the companies that they are affiliated
+with on an equal basis. A breach of this requirement will be a breach of the fiduciary duties of the officer or director. If the Company
+or the companies in which the officers and directors are affiliated with both desire to take advantage of an opportunity, then said officers
+and directors would abstain from negotiating and voting upon the opportunity. However, all directors may still individually take advantage
+of opportunities if the Company should decline to do so. 
+
+In
+addition, the Company has a Related-Party Transactions Policy whereby the officers and directors of the Company are required to report
+to the Board of Directors any activity that would cause or appear to cause a conflict of interest on his or her part. All related-party
+transactions are subject to review, approval or ratification in accordance with the Related-Party Transactions Policy. 
+
+ITEM
+ 14. 
+ PRINCIPAL
+ ACCOUNTING FEES AND SERVICES. 
+
+The
+following table sets forth fees billed to us for principal accountant fees and services during the years ended December 31, 2021 and
+December 31, 2022. All services provided by the Company s independent registered accounting firm have been reviewed and approved
+by the Company s Board of Directors. 
+
+2022 
+ 2021 
+ 
+ Audit Fees 
+ 30,250 
+ 25,250 
+ 
+ Audit-Related Fees 
+ 0 
+ 0 
+ 
+ Tax Fees 
+ 0 
+ 0 
+ 
+ All Other Fees 
+ 0 
+ 0 
+ 
+ Total 
+ 30,250 
+ 25,250 
+
+14 
+
+PART
+IV 
+
+ITEM
+ 15. 
+ EXHIBITS 
+
+Exhibits
+have been filed separately with the United States Securities and Exchange Commission in connection with the Annual Report on Form 10-K
+or have been incorporated into the report by reference. 
+
+Exhibit 
+ 
+ Description 
+
+3.1(i) 
+ 
+ Articles of Incorporation 
+ 
+ 3.2(i) 
+ 
+ Amended Articles of Incorporation dated May 4, 2010 
+ 
+ 3.3(i) 
+ 
+ Amended Articles of Incorporation dated May 5, 2017 
+ 
+ 3.4(i) 
+ 
+ Amended Articles of Incorporation dated November 20, 2019 
+ 
+ 3.4(ii) 
+ 
+ By-Laws 
+ 
+ 14.1 
+ 
+ Code of Ethics 
+ 
+ 14.2 
+ 
+ Related-Party Transactions Policy 
+ 
+ 14.3 
+ 
+ Anti-Corruption Policy 
+ 
+ 16.1 
+ 
+ Letter re Change in Certifying Accountant 
+ 
+ 31.1 
+ 
+ Rule 13a-14(a) / 15d-14(a) Certification of Principal Executive Officer Principal Financial Officer. 
+ 
+ 32.1 
+ 
+ Section 1350 Certification of the Principal Executive Officer Principal Financial Officer. 
+ 
+ 101.1 
+ 
+ Interactive
+ data files pursuant to Rule 405 of Regulation S-T. 
+ 
+ 101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ Inline
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+Incorporated
+ by reference through the Registration Statement on form S-1 filed with the Commission on October 26, 2010. (101141203) 
+
+Incorporated
+ by reference through the Quarterly Report on form 10-Q filed with the Commission on May 11, 2017. (17832815) 
+
+Incorporated
+ by reference through the Current Report on form 8-K filed with the Commission on November 1, 2019. 
+
+Incorporated
+ by reference through the Current Report on form 8-K filed with the Commission on November 6, 2017. 
+
+Incorporated
+ by reference through the Current Report on form 8-K filed with the Commission on May 19, 2017. 
+
+Filed
+ herewith. In addition, in accordance with SEC Release 33-8238, Exhibits 32.1 and 32.2 are being furnished and not filed. 
+
+Furnished
+ herewith. XBRL (Extensible Business Reporting Language) information is furnished and not filed for purposes of Sections 11 or 12
+ of the Securities Act of 1933, as amended, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934,
+ as amended, and otherwise is not subject to liability under these sections. 
+
+15 
+
+SIGNATURES 
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+CYBERLOQ
+ TECHNOLOGIES, INC. 
+
+By: 
+ /s/
+ Christopher Jackson 
+
+Christopher
+ Jackson 
+ 
+ Date:
+ March 29, 2023 
+ 
+ President,
+ Secretary, Treasurer and Director 
+
+Principal
+ Executive Officer 
+
+Principal
+ Financial Officer 
+
+Pursuant
+to the requirements of the Securities Act of 1933, this report has been signed by the following persons in the capacities and on the
+dates indicated. 
+
+CYBERLOQ
+ TECHNOLOGIES, INC. 
+
+By: 
+ /s/
+ Enrico Giordano 
+ 
+ Date:
+ March 29, 2023 
+ 
+ Enrico
+ Giordano, Director 
+
+By: 
+ /s/
+ Leon Hurst 
+ 
+ Date:
+ March 29, 2023 
+ 
+ Leon
+ Hurst, Director 
+
+By: 
+ /s/
+ Christopher Jackson 
+ 
+ Date:
+ March 29, 2023 
+ 
+ Christopher
+ Jackson, Director 
+
+By: 
+ /s/
+ Rex Schuette 
+ 
+ Date:
+ March 29, 2023 
+ 
+ Rex
+ Schuette, Director 
+
+16 
+
+ITEM
+1. FINANCIAL STATEMENTS 
+
+Report of Independent Auditor Fruci Associates II, PLLC (PCAOB ID # 
+ F-2 
+
+Balance Sheets as of December 31, 2022 and December 31, 2021 
+ F-3 
+
+Statements of Operations for the years ended December 31, 2022 and December 31, 2021 
+ F-4 
+
+Statement of Shareholders Equity for the years ended December 31, 2022 and December 31, 2021 
+ F-5 
+
+Statements of Cash Flows for the years ended December 31, 2022 and December 31, 2021 
+ F-6 
+
+Notes to the Financial Statements 
+ F-7 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and Shareholders of Cyberloq
+Technologies, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance
+sheets of Cyberloq Technologies, Inc. the Company as of December 31, 2022 and 2021, and the related consolidated statements
+of operations, changes in stockholders equity (deficit), and cash flows for each of the years in the two-year period ended December
+31, 2022, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present
+fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021 and the results of its operations
+and its cash flows for each of the years in the two-year period ended December 31, 2022, in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Going Concern 
+
+The accompanying financial statements have been prepared
+assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company has an accumulated
+deficit since inception and continuing net losses. These factors, among others, raise substantial doubt about the Company s ability
+to continue as a going concern. Management s plans in regard to these matters are also described in Note 3. The financial statements
+do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform,
+an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal
+control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal
+control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are
+matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the
+audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the
+financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions
+on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Equity Transactions (Note 5 to the financial
+statements) 
+
+Description of the Critical Audit Matter 
+
+The Company s evaluation of common shares issuances
+involves complexity and judgement in applying the relevant accounting standards when auditing management s conclusions on the classification
+and recognition of equity transactions upon issuance. 
+
+How the Critical Audit Matter Was Addressed in
+the Audit 
+
+Our principal audit procedures to evaluate management s
+calculation and recording of common share issuances included the following: 
+
+We evaluated the appropriateness and consistency of management s methods and assumptions used in
+the identification, recognition, measurement, and disclosure of considerations of the underlying share issuances during the year, including
+the classification with respect to the terms and in considering applicable generally accepted accounting standards. 
+ 
+ We read the applicable agreements and compared the key terms to management s analysis of the transaction. 
+ 
+ We read, evaluated, and tested the reasonableness of management s calculation utilized in the determination
+of common shares issued. 
+ 
+ We evaluated whether management had appropriately considered new information that could significantly
+change the measurement or disclosure of common shares, and evaluated the disclosures related to the financial statement impacts of the
+transactions. 
+ 
+ We reviewed current and subsequent period accounting records and third-party documentation to identify
+unrecorded equity transactions. 
+
+We have served as the Company s auditor since 2017. 
+
+March
+29, 2023 
+
+F- 2 
+
+CyberloQ
+Technologies, Inc. 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash 
+
+Deposits and prepaids 
+
+Total Current Assets 
+
+Fixed Assets 
+
+Cyberloq platform 
+ 
+ - 
+ 
+ Total Fixed Assets 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current Liabilities 
+
+Accounts Payable and Accrued Expenses 
+
+Accrued interest 
+
+Note Payable Stockholders 
+
+Notes Payable Related Party 
+
+Convertible debt Stockholders, net 
+ 
+ - 
+ 
+ Loan payable SBA 
+ 
+ - 
+ 
+ Total Current Liabilities 
+
+Long Term Liabilities 
+
+SBA Loan Payable 
+
+Total Long-Term Liabilities 
+
+Total Liabilities 
+
+Commitments and Contingencies 
+ - 
+ - 
+
+Stockholders Equity 
+
+Common stock: par value, shares authorized; and shares issued and outstanding, respectively 
+
+Series A Preferred Stock per value shares authorized; and issued and outstanding, respectively 
+
+Shares to be Issued: and common shares, respectively 
+
+Treasury stock 
+ 
+ - 
+
+Additional Paid in Capital 
+
+Accumulated Deficit 
+
+Total Stockholders Equity 
+
+Total Liabilities and Stockholders Equity 
+
+See
+accompanying notes to financial statements 
+
+F- 3 
+
+CyberloQ
+Technologies, Inc. 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+2022 
+ 2021 
+
+For the Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ Revenue 
+
+Service Revenue 
+
+Total Revenue 
+
+Operating Expenses 
+
+Professional Fees 
+
+Research 
+ - 
+
+Officer s Compensation 
+
+Travel and Entertainment 
+
+Rent 
+
+Computer and Internet 
+
+Office Supplies and Expenses 
+
+Other Operating Expenses 
+
+Total Operating Expenses 
+
+Loss from Operations 
+
+Other Income (Expense) 
+
+Interest 
+
+Loss on settlement of payable 
+ - 
+
+Loss on settlement with officer 
+ 
+ - 
+ 
+ Loss on settlement of debt 
+ 
+ - 
+ 
+ Amortization of debt discount 
+
+Total Other Income (Expense) 
+
+Provision for Income Taxes 
+ - 
+ - 
+
+Net Loss 
+
+Loss per common share-Basic and diluted 
+
+Weighted Average Number of Common Shares Outstanding Basic and diluted 
+
+See
+accompanying notes to financial statements 
+
+F- 4 
+
+CyberloQ
+Technologies, Inc. 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY (DEFICIT) 
+
+ For
+the Years Ended December 31, 2022 and December 31, 2021 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Stock 
+ Redeemed 
+ Deficit 
+ Total 
+
+Common
+ (Issued) 
+ Common
+ (Unissued) 
+ Preferred
+ Stock 
+ Add l
+ Paid-In 
+ Treasury 
+ Common Stock 
+ To
+ be 
+ Accum. 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Stock 
+ Redeemed 
+ Deficit 
+ Total 
+ 
+ Balance
+ as of December 31, 2020 
+
+- 
+
+- 
+ - 
+
+Proceeds
+ from Issuance of Common Stock 
+
+- 
+ - 
+
+Common
+ stock issued for services 
+
+- 
+
+Common
+ stock issued for stock subscription 
+
+- 
+
+Common
+ stock for officers fees 
+
+- 
+
+Common
+ stock to be issued for services 
+
+Stock
+ subscription 
+
+Common
+ stock to be issued for officers fees 
+
+Net
+ loss for period ended December 31, 2021 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance
+ as of December 31, 2021 
+
+- 
+
+- 
+ - 
+
+Balance
+
+- 
+
+- 
+ - 
+
+Common
+ stock issued for cash 
+
+- 
+
+Common
+ stock issued for services 
+
+Common
+ stock issued for settlement of debt 
+
+Common
+ stock issued for officers fees 
+
+- 
+
+Common
+ stock to be issued officers fees 
+
+Retirement
+ of convertible debt 
+
+Stock
+ redeemed for officers settlement 
+
+Preferred
+ stock redeemed for officers settlement 
+
+Reversal
+ of common stock redeemed for officers settlement 
+
+Beneficial
+ conversion feature of convertible debt 
+
+Net
+ loss for period ended December 31, 2022 
+
+Net
+loss 
+
+Balance,
+ as of December 31, 2022 
+
+- 
+
+- 
+
+Balance 
+
+- 
+
+- 
+
+See
+accompanying notes to financial statements 
+
+F- 5 
+
+CyberloQ
+Technologies, Inc. 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ For
+the Years Ended December 31, 2022 and December 31, 2021 
+
+2022 
+ 2021 
+
+OPERATING ACTIVITIES 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Amortization of debt discount 
+ 
+ - 
+ 
+ Stock compensation 
+
+Loss on settlement with officer and director 
+ 
+ - 
+ 
+ Loss on settlement of debt 
+ 
+ - 
+ 
+ Loss on settlement of payables 
+
+Change in Operating Assets and Liabilities: 
+
+Accounts receivable 
+ 
+ - 
+ 
+ Deposits and prepaids 
+
+Accounts payable and accrued expenses 
+
+Accrued interest 
+
+Net Cash Used by Operating Activities 
+
+INVESTING ACTIVITIES 
+
+Internal Software Development 
+ 
+ - 
+ 
+ Net Cash Used by Investing Activities 
+ 
+ - 
+
+FINANCING ACTIVITIES 
+
+Proceeds from Common Stock Issuance 
+
+Proceeds from common stock to be issued 
+
+Repayment of note principal 
+
+Proceeds from note payable 
+
+Proceeds from convertible debt 
+
+Repurchase of common stock 
+ 
+ - 
+ 
+ Net Cash Provided by Financing Activities 
+
+Net Increase (Decrease) in Cash and Equivalents 
+
+Cash and Equivalents at Beginning of the Period 
+
+Cash and Equivalents at End of the Period 
+
+SUPPLEMENTAL CASH FLOW INFORMATION 
+
+Interest Paid 
+ 
+ - 
+ 
+ Income Taxes Paid 
+ - 
+ - 
+
+NON-CASH DISCLOSURES 
+
+Common stock issued for note payable 
+ 
+ - 
+ 
+ Stock issued from to be issued 
+
+Common stock issued for prepaid expense 
+
+Common stock issued for accounts payable 
+ - 
+
+Beneficial conversion feature 
+ 
+ - 
+
+See
+accompanying notes to financial statements 
+
+F- 6 
+
+CyberloQ
+Technologies, Inc. 
+
+NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+deposits in excess of federally-insured limits. 
+
+and , respectively, of development costs for the CyberloQ platform
+and we expensed zero and , respectively, for expenditures on research and development. None was paid to related parties. 
+
+. 
+
+The
+Company follows FASB ASC 360-10, Property, Plant, and Equipment, which established a primary asset 
+approach to determine the cash flow estimation period for a group of assets and liabilities that represents the unit of accounting for
+a long-lived asset to be held and used. Long-lived assets to be held and used are reviewed for impairment whenever events or changes
+in circumstances indicate that the carrying amount of an asset may not be recoverable. The carrying amount of a long-lived asset is not
+recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset.
+Long-lived assets to be disposed of are reported at the lower of carrying amount or fair value less cost to sell. As of December 31,
+2020, the Company wrote-off the book value of the Cyberloq technology software fixed asset and recorded software impairment expense of
+ . Even though the software asset was written-off as impaired as of December 31, 2020, the software asset continued to be functionable
+but required updating the software programming code to current technology standards. During 2021, the Company developed and implemented
+a business plan to fully update the Cyberloq secure solution and feasibility of the software to meet the demands of the market. As of
+January 1, 2022, the Company s began capitalizing CyberloQ platform development costs which totaled as of December 31,
+2022. 
+
+Revenue
+Recognition Policy 
+
+Under
+ASC 606, the Company recognizes revenue upon transfer of control of promised products or services to customers in an amount that reflects
+the consideration the Company expects to receive in exchange for those products or services. To achieve the core principle of ASC 606,
+the Company performs the following steps: 
+
+1)
+Identify the contract(s) with a customer; 
+
+ 2)
+Identify the performance obligations in the contract; 
+
+ 3)
+Determine the transaction price; 
+
+ 4)
+Allocate the transaction price to the performance obligations in the contract; and 
+
+ 5)
+Recognize revenue when (or as) we satisfy a performance obligation. 
+
+The
+Company derives its revenue from development, customization and user fees for the CyberloQ banking fraud technology products, including
+CyberloQ Vault, and from licensing fees for the TurnScor product. 
+
+The
+revenue derived from the CyberloQ banking fraud technology products are comprised of two components. First, there is a development and
+customization fee paid to the Company to integrate CyberloQ with the banking institution or program manager s ecosystem in order
+to add the CyberloQ authentication to the bank s payment cards, website or digital service. This fee is customarily paid in multiple
+payments based upon the Company reaching certain milestones as set forth in the scope of work for each customer. Since completion of
+a milestone is subject to each customer s approval, there are significant judgments involved in the determination of timing and
+satisfaction of performance obligations and the payments are recognized as revenue upon the completion of each milestone. Second, revenue
+from user fees are accrued monthly based on the number of individual cards and/or services used each month. 
+
+The
+revenue derived from CyberloQ Vault is also comprised of two components. First, there is a development and customization fee paid to
+the Company to build a customized cloud-based encryption and a secure web portal to send/receive confidential data. This fee is customarily
+paid in multiple payments based upon the Company reaching certain milestones as set forth in the scope of work for each customer. Since
+completion of a milestone is subject to each customer s approval, there are significant judgments involved in the determination
+of timing and satisfaction of performance obligations and the payments are recognized as revenue over the completion of each milestone.
+Second, revenue from a monthly user fee is accrued monthly based upon the number of individual users of the product each month. 
+
+License
+fees generated by the nonexclusive licensing of the Company s TurnScor product are accrued monthly. 
+
+As
+of December 31, 2022 and December 31, 2021, the Company had in contract assets and contract liabilities. 
+
+The
+Company has adopted FASB ASC 820-10, Fair Value Measurements and Disclosures. FASB ASC 820-10 defines fair value,
+and establishes a three-level valuation hierarchy for disclosures of fair value measurement that enhances disclosure requirements for
+fair value measures. The carrying amounts reported in the consolidated balance sheets for receivables and current liabilities each qualify
+as financial instruments and are a reasonable estimate of their fair values because of the short period of time between the origination
+of such instruments and their expected realization and their current market rate of interest. The three levels of valuation hierarchy
+are defined as follows: 
+
+Level
+ 1 inputs to the valuation methodology are quoted prices for identical assets or liabilities in active markets. 
+
+Level
+ 2 inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that
+ are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument. 
+
+Level
+ 3 inputs to the valuation methodology are unobservable and significant to the fair value measurement. 
+
+The
+Company did not identify any other non-recurring assets and liabilities that are required to be presented in the balance sheets at fair
+value in accordance with FASB ASC 815. 
+
+and , respectively. 
+
+At
+December 31, 2022 and 2021, the Company had warrants or options outstanding, convertible debt shares that could have been
+exercised and could have been dilutive to the existing number of shares issued and outstanding. 
+
+The
+computation of earnings per share of common stock is based on the weighted average number of shares outstanding at the date of the financial
+statements. 
+
+per month, and paid a deposit of . 
+
+In
+May, 2022, the Company signed an addendum to the 12-month lease above to extend it for an additional year at a rate of per month. 
+
+- 
+ 
+ Software and computer equipment 
+ - 
+
+Property plant and equipment gross 
+ - 
+
+Less: Accumulated depreciation 
+ - 
+
+Impairment expense 
+ - 
+
+Property and equipment, net 
+ 
+ - 
+
+as of December 31, 2022 that includes a
+loss of for the year ended December 31, 2022. Further losses are anticipated in the development of its business. Accordingly,
+there is substantial doubt about the entity s ability to continue as a going concern within one year after the financial statements
+are issued. 
+
+The
+ability to continue as a going concern is dependent upon the Company generating profitable operations in the future and, or, obtaining
+the necessary financing to meet its obligations and repay its liabilities arising from normal business operations when they come due. 
+
+Management
+anticipates that the Company will be dependent, for the near future, on additional debt and/or investment capital to fund operating expenses.
+The Company intends to position itself so that it may be able to raise additional funds through the capital markets. In light of management s
+efforts, there are no assurances that the Company will be successful in this or any of its endeavors or become financially viable and
+continue as a going concern. 
+
+shares of preferred stock to be canceled and extinguished by the Company. A loss of 
+ was recorded 
+
+The
+ Company will pay the as a severance payment. This was paid on the date of the agreement and a loss of was recorded;
+ and 
+
+The
+ Company and the employee entered into a Common Stock Redemption Agreement by which the Company will purchase shares of
+ the Company s common stock owned by the employee at per share for a total of . The Company repurchased 
+ for at the date of the agreement and recorded a settlement liability of . 
+
+Payments
+ under the Common Stock Redemption Agreement are as follows: 
+
+09/01/22 
+
+03/01/23 
+
+09/01/23 
+
+09/13/22 Termination of Agreement 
+
+Balance as of 09/30/22 
+ - 
+ - 
+
+On
+September 1, 2022, the Company failed to make the stock redemption payment of due under the agreement. Thereafter on September
+13, 2022, as provided for by the agreement, the employee elected to declare the agreement terminated and null and void. As a result of
+the termination, all of the not-yet-redeemed shares became immediately freely transferable by the employee without restriction. The Company
+then released the restriction on the shares and eliminated the liabilities and shares to be redeemed on the balance sheet. 
+
+In
+November of 2022, the employee initiated a lawsuit currently pending in the Superior Court of New Jersey entitled Mark Carten v. Cyberloq
+Technologies, Inc. (UNN-L-3456-22). The employee s lawsuit alleges that the Company breached the February 28, 2022 separation and
+common stock redemption agreements, and seeks an unspecified amount of monetary damages as well as a judgment of specific performance
+for the company to purchase the remaining shares of common stock owned by the employee. The Company believes that the employee s
+claims have no merit and intends to defend itself vigorously. 
+
+shares of par value common stock authorized as of December 31, 2022 and had shares of par
+value common stock authorized as of December 31, 2021. 
+
+During
+2022, the Company received in payment for shares of common stock; issued shares of common stock for services
+valued at ; issued shares of common stock for settlement of debt and accrued interest of , which resulted in
+a loss of ; issued shares to officers and directors, previously recorded as to be issued . Also, the Company
+recorded for shares of common stock as to be issued for officers compensation for 2022. 
+
+During
+2021, the Company received in payment for shares of common stock that were recorded as shares to be issued, 
+received in payment for shares of common stock; issued shares of common stock to the Company s Advisory
+Board for future services valued at , (shares were recorded as prepaid expense and are being expensed over the term of the 12-month
+contract). Additionally, the Company: issued shares of common stock for services valued at ; issued shares of
+common stock that had previously been recorded as shares to be issued and, issued shares of common stock for officers 
+compensation previously recorded as shares to be issued . Also, the Company recorded for shares of common
+stock as to be issued for officers compensation for 2021. 
+
+Treasury
+Stock 
+
+The
+Company entered into a settlement agreement with a prior employee, officer and director resulting in treasury stock of shares
+valued at . See Note 4 
+
+Preferred
+Stock 
+
+The
+Company did not have any preferred stock prior to 2017. In April of 2017, the Company amended its articles of incorporation to create
+a new class of stock designated Series A Super Voting Preferred Stock (the Series A Preferred Stock consisting of thirty-thousand shares at par value of per share. Certain rights, preferences, privileges and restrictions were established for the Series
+A Preferred Stock as follows: (a) the amount to be represented in stated capital at all times for each share of Series A Preferred Stock
+shall be its par value of per share; (b) except as otherwise required by law, ; and (c) in the event of any liquidation, dissolution or winding-up of the Company,
+either voluntary or involuntary, the holders of the Series A Preferred Stock shall be entitled to receive, prior and in preference to
+any distribution of assets of the Corporation to the holders of the common stock, the original purchase price paid for the Series A Preferred
+Stock. All shares of the Series A Preferred Stock were issued in 2017. On February 28, 2022, the Series A Preferred Stock
+held by Mark Carten were redeemed by the Company and returned to treasury. 
+
+Economic Injury Disaster Loan from the Small Business Administration in the amount of .
+The loan has a term of with monthly payments of . During 2022, the Company repaid . 
+
+2024 
+
+2025 
+
+2026 
+
+2027 to 2050 
+
+Total 
+
+per month. The Company paid a deposit of and the first month rent of for July in June 2020. All conditions have
+been met and paid by the Company. In September 2020, the lease was amended as the Company moved to Suite #228. The amended monthly rent
+is per month. The Company paid an additional deposit of for the new suite. 
+
+In
+April, 2021, the Company entered into a 12-month lease for office space at 4837 Swift Rd Sarasota, FL 34231 at a rate of per month.
+The Company paid a deposit of , first month rent of and last month s rent of . 
+
+In
+May, 2022, the Company signed an addendum to the 12-month lease above to extend it for an additional year at a rate of per month. 
+
+The
+Company has commission agreements as follows: 
+
+An
+ agreement with a shareholder and director of the Company stating that the executive will be entitled to a two-and-a half-percent
+ commission of the gross revenue recorded by the Company for any customer contracts that are closed by the Company at the time
+ of and during the duration of the agreement. These commissions are payable quarterly upon receipt of customer revenues. 
+
+An
+ agreement with two sales managers granting each manager a commission on the gross revenue of the Company. These commissions are
+ payable quarterly upon receipt of customer revenues. 
+
+Convertible debt - stockholders 
+
+Notes payable - related parties 
+
+Notes
+Payable - Stockholders 
+
+On
+December 29, 2014, the Company entered into a partially-convertible promissory note with a stockholder in the amount of . In January
+of 2015, the stockholder partially-exercised its conversion option, and in May of 2016 the stockholder exercised the remainder of its
+conversion option. In December 2017, the remaining unpaid principal and interest due on the note was settled in full for a note
+and the Company recognized in gain on settlement of debt. The note has a current principal balance of , a stated
+interest rate of , required payments of on or before June 10, 2019, on or before August 10, 2019 and the remainder due
+by the extended due date of September 15, 2019. As of December 31, 2022, the payments due have not been extended and the Company plans
+to repay the note in 2023. 
+
+On
+April 26, 2021, 
+with a maturity date of . The note bears interest of 
+computed on a 365-day year. The Company is required to begin making monthly payments in the amount of 
+on May 1, 2022, continuing through April 1, 2023. The Company may prepay the note on or before May 1, 2022 by paying a prepayment
+penalty of .
+On June 1, 2022, the Company entered into a promissory note with a stockholder in the amount of 25,000 with a maturity date of . The note bears interest of 
+computed on a 365-day year. The Company may prepay the note at any time. On June 28, 2022, the stockholder settled that note, as
+well a prior note in the amount of 
+into 
+shares of common stock. 
+
+Convertible
+Notes - Stockholders 
+
+On
+April 26, 2021, the Company entered into a promissory note with a stockholder in the amount of with a maturity date of . The note bears interest of computed on a 365-day year. The Company is required to begin making monthly payments in the amount
+of on May 1, 2022, continuing through April 1, 2023. The Company may prepay the note on or before May 1, 2022 by paying a prepayment
+penalty of . 
+
+On
+June 1, 2022, the Company entered into a promissory note with a stockholder in the amount of with a maturity date of . The note bears interest of computed on a 365-day year. The Company may prepay the note at any time. 
+
+On
+June 28, 2022, the two above notes were settled into shares of common stock. 
+
+On
+December 8, 2022, the Company entered into a convertible promissory note with a stockholder in the amount of . The note bears
+interest of computed on a 365-day year, and a maturity date of one year from the date that the full amount of the note is paid
+to the Company (December 20, 2023). At any time prior to the maturity date, or on the maturity date the unpaid principal balance is convertible
+at a price of per share. The Company may prepay the note at any time. The conversion feature of the note represented beneficial
+conversion feature. The beneficial conversion with an intrinsic value of at December 8, 2022 was determined by subtracting the
+conversion price from the common stock market price on that day and multiplying that amount by the number of shares the note is convertible
+into, was calculated as a beneficial conversion discount to the note, which is recorded as a debt discount and being amortized over the
+life of the loan. 
+
+On
+December 14, 2022, the Company entered into a convertible promissory note with a stockholder in the amount of . The note bears
+interest of computed on a 365-day year, and a maturity date of one year from the date that the full amount of the note is paid
+to the Company (December 16, 2023). At any time prior to the maturity date, or on the maturity date the unpaid principal balance is convertible
+at a price of per share. The Company may prepay the note at any time. The conversion feature of the note represented an beneficial
+conversion feature. A beneficial conversion with an intrinsic value of at December 14, 2022 was determined by subtracting the
+conversion price from the common stock market price on that day and multiplying that amount by the number of shares the note is convertible
+into, was calculated as a beneficial conversion discount to the note, which is recorded as a debt discount and being amortized over the
+life of the loan. 
+
+Notes
+Payable - Related Parties 
+
+On
+September 20, 2021, the Company received a promissory note from a director in the amount of , with an interest rate of and
+a maturity date of . This note was repaid on October 8, 2021. 
+
+On
+December 31, 2021, the Company entered into a loan modification agreement with a director which consolidated three outstanding promissory
+notes dated August 8, 2020, September 9, 2020, and December 28, 2020 into one loan. The total amount borrowed is , with an interest
+rate of and a maturity date of . The Company was required to pay an extension penalty in the amount of . On
+September 30, 2022, the Company entered into a second loan modification agreement with the director extending the maturity date to January
+1, 2024. Additionally, the Company will begin paying quarterly installments in the amount of plus accrued interest beginning
+July 1, 2023. 
+
+On
+February 23, 2022, the Company received a loan from a director in the amount of , with an interest rate of . The maturity date
+for the loan is . On September 30, 2022 the Company entered into a Loan Modification Agreement with the director extending
+the maturity date of this note to . On December 31, 2022, this note principal of and accrued interest of 
+was converted into shares of common stock. 
+
+On
+February 23, 2022, the Company received a convertible debt note from a different director in the amount of , with an interest
+rate of , because of the convertible nature of the note a beneficial conversion was recorded as a debt discount in the amount of .
+The maturity date for the loan is . On June 25, 2022, this note was converted into shares of common stock, which
+were recorded as shares to be issued and the debt discount was fully amortized. The shares were issued during
+the quarter ended September 30, 2022. 
+
+for federal purposes. The federal Given the Company s
+history of net operating losses, management has determined that it is more likely than not that the Company will not be able to realize
+the tax benefit of the net operating loss carry forwards. Accordingly, the Company has recognized a valuation allowance that offsets
+the deferred tax asset for this benefit. 
+
+FASB
+ASC Topic 740 Income Taxes (formerly SFAS 109) requires that the Company establish a valuation allowance when it is more likely
+than not that all or a portion of deferred tax assets will not be realized. Due to restrictions imposed by Internal Revenue Code Section
+382 regarding substantial changes in ownership of companies with net operating loss carry forwards, the utilization of the Company s
+net operating loss carry-forward will likely be limited as a result of cumulative changes in stock ownership. The Company has not recognized
+a deferred asset and, as a result, the change in stock ownership will not result in any change to the valuation allowances. Upon the
+attainment of taxable income by the Company, management will assess the likelihood of realizing the tax benefit associated with the use
+of the carry forwards and will recognize a deferred tax asset at that time. 
+
+Less: valuation allowance 
+
+Provision for Federal tax benefit 
+ - 
+ - 
+
+The
+Tax Cuts and Jobs Act of 2018 will reduce the dollar value of the net operating loss carry-forwards due to the corporate tax rate decrease
+to . However, the actual benefit will remain because, if allowed, the losses from prior years will offset taxable income in future
+years regardless of the tax rate. The cumulative tax effect at the expected rate of of significant items comprising our net deferred
+tax amount is as follows: 
+
+Less: valuation allowance 
+
+Net deferred tax assets 
+ - 
+ - 
+
+The
+Company files income tax returns in the U.S. federal jurisdiction and various states. The Company is current on all income tax filings.
+The Company is subject to U.S. federal or state income tax examinations by tax authorities for three years following the filing of such
+returns. During the periods open to examination, the Company has net operating loss and tax credit carry forwards for U.S. federal and
+state tax purposes that have attributes from closed periods. Since these NOL s and tax credit carry forwards may be utilized in
+future periods, they remain subject to examination. 
+
+. The note bears
+interest of computed on a 365-day year and has a maturity date of . At any time prior to the maturity date, or
+on the maturity date the unpaid principal balance is convertible at a price of per share. The Company may prepay the note at any
+time. 
+
+On
+January 19, 2023, the Company revised the employment contracts for Christopher Jackson and Enrico Giordano to remove the annual stock
+award of shares of the Company s common stock. 
+
+On
+February 2, 2023, the Company entered into a convertible promissory note with a stockholder in the amount of . The note bears
+interest of computed on a 365-day year and has a maturity date of . At any time prior to the maturity date, or
+on the maturity date the unpaid principal balance is convertible at a price of per share. The Company may prepay the note at any
+time. 
+
+On
+February 3, 2023, the Company entered into a convertible promissory note with a stockholder in the amount of . The note bears
+interest of computed on a 365-day year and has a maturity date of . At any time prior to the maturity date, or
+on the maturity date the unpaid principal balance is convertible at a price of per share. The Company may prepay the note at any
+time. 
+
+On
+February 10, 2023, the Company entered into a convertible promissory note with a stockholder in the amount of . The note bears
+interest of computed on a 365-day year and has a maturity date of . At any time prior to the maturity date, or
+on the maturity date the unpaid principal balance is convertible at a price of per share. The Company may prepay the note at any
+time. 
+
+On
+February 15, 2023, the Company issued shares of common stock for cash of . 
+
+On
+February 23, 2023, the Company entered into a convertible promissory note with a stockholder in the amount of . The note bears
+interest of computed on a 365-day year and has a maturity date of . At any time prior to the maturity date, or
+on the maturity date the unpaid principal balance is convertible at a price of per share. The Company may prepay the note at any
+time. 
+
+On
+February 23, 2023, the Company issued shares of common stock for cash of . 
+
+The employment contracts
+for Christopher Jackson and Enrico Giordano will be revised sometime in the next reporting cycle, either in the next formal filing, or
+as a subsequent event. 
+
+The
+Company is not aware of any other subsequent events through the date of this filing that require disclosure or recognition in these financial
+statements. 
+
+F- 16 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+CERTIFICATION
+PURSUANT TO SECTION 302 OF THE SARBANES OXLEY ACT OF 
+
+2002
+AND RULE 13A-14 OF THE EXCHANGE ACT OF 1934 
+
+I,
+Christopher Jackson, certify that: 
+
+1. 
+ I
+ have reviewed this annual report on Form 10-K of CyberloQ Technologies, Inc.; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statement made, in light of the circumstances under which such statements were made, not misleading with respect to the
+ period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ As
+ certifying officer, I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange
+ Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+ 15d015f)) for the registrant and have: 
+
+(a) 
+ designed
+ such disclosure controls and procedures, or caused such internal control over financial reporting to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+(d) 
+ disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+2. 
+ As
+ certifying officer, I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+ auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ all
+ significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are
+ reasonably likely; and 
+
+(b) 
+ any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s
+ internal control over financial reporting. 
+
+CYBERLOQ
+ TECHNOLOGIES, INC. 
+
+By: 
+ /s/
+ Christopher Jackson 
+
+Christopher
+ Jackson 
+ 
+ Date:
+ March 29, 2023 
+ 
+ President,
+ Treasurer, Secretary, Principal Executive Officer 
+ And
+ Principal Financial Officer 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+OF THE CHIEF EXECUTIVE OFFICER 
+
+PURSUANT
+TO 18 U.S. C. SECTION 1350 
+
+AS
+ADOPTED PURSUANT TO 
+
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of CyberloQ Technologies, Inc., (the Company on Form 10-K for the period ended December
+31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Christopher Jackson,
+President, Treasurer, Secretary and Principal Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge: 
+
+1. 
+ The
+ Report fully complies with the requirements of Section 13 (a) or 15 (d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Company. 
+
+CYBERLOQ
+ TECHNOLOGIES, INC. 
+
+By: 
+ /s/
+ Christopher Jackson 
+
+Christopher
+ Jackson 
+ 
+ Date:
+ March 29, 2023 
+ 
+ President,
+ Treasurer, Secretary, Principal Executive Officer 
+ And
+ Principal Financial Officer 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 6
+ cloq-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ cloq-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ cloq-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ cloq-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

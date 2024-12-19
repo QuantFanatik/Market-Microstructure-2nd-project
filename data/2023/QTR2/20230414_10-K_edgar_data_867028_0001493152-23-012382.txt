@@ -1,0 +1,6664 @@
+<Header>
+<FileStats>
+    <FileName>20230414_10-K_edgar_data_867028_0001493152-23-012382.txt</FileName>
+    <GrossFileSize>1513190</GrossFileSize>
+    <NetFileSize>184491</NetFileSize>
+    <NonText_DocumentType_Chars>29257</NonText_DocumentType_Chars>
+    <HTML_Chars>1186044</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-012382.hdr.sgml : 20230414
+<ACCEPTANCE-DATETIME>20230414172237
+ACCESSION NUMBER:		0001493152-23-012382
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230414
+DATE AS OF CHANGE:		20230414
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FOMO WORLDWIDE, INC.
+		CENTRAL INDEX KEY:			0000867028
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTORS, NEC [6799]
+		IRS NUMBER:				954040591
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13126
+		FILM NUMBER:		23822117
+
+	BUSINESS ADDRESS:	
+		STREET 1:		831 W NORTH AVE.
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15233
+		BUSINESS PHONE:		(630) 708-0750
+
+	MAIL ADDRESS:	
+		STREET 1:		831 W NORTH AVE.
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15233
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FOMO CORP.
+		DATE OF NAME CHANGE:	20191226
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	2050 MOTORS, INC.
+		DATE OF NAME CHANGE:	20140508
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZEGARELLI GROUP INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19971008
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-012382.txt : 20230414
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+10-K 
+
+ANNUAL
+ REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended December 31, 2022 
+
+TRANSITION
+ REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT 
+
+For
+the transition period from _____________ to _____________ 
+
+Commission
+file number 001-13126 
+
+FOMO
+WORLDWIDE, INC. 
+
+ (Exact
+name of small business issuer as specified in its charter) 
+
+California 
+ 
+ 83-3889101 
+ 
+ (State or other jurisdiction
+ of incorporation) 
+ 
+ (IRS Employer Identification
+ No.) 
+
+831
+W North Ave., Pittsburgh, PA 15233 
+
+ (Address
+of principal executive offices) (Zip Code) 
+
+(630)
+708-0750 
+
+ (Issuer s
+telephone number) 
+
+Securities
+registered under Section 12(b) of the Exchange Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+ 
+ Common 
+ 
+ FOMC 
+ 
+ OTC Pink Current 
+
+Indicate
+by check mark if registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post
+such files). Yes No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer a smaller reporting
+company or an emerging growth company. See definition of large accelerated filer, accelerated filer, smaller
+reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Non-accelerated filer 
+ 
+ Smaller reporting company 
+
+Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+The
+aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which
+the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed fiscal year 2021, was 5,988,248. 
+
+As
+of April 14, 2023 there were 8,620,188,088 shares of common stock outstanding. 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+None. 
+
+TABLE
+OF CONTENTS 
+
+Page 
+
+CAUTIONARY NOTE ABOUT FORWARD-LOOKING STATEMENTS 
+ 3 
+ 
+ PART I 
+
+Item 1. 
+ Description of Business 
+ 4 
+ 
+ Item 1A. 
+ Risk Factors 
+ 6 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 6 
+ 
+ Item 2. 
+ Properties 
+ 6 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 6 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 6 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+ 7 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 7 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 7 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 11 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 11 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 12 
+ 
+ Item 9A (T). 
+ Controls and Procedures 
+ 12 
+ 
+ Item 9B. 
+ Other Information 
+ 13 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 13 
+ 
+ Item 11. 
+ Executive Compensation 
+ 14 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 15 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions 
+ 15 
+ 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 15 
+
+PART IV 
+
+Item 15. 
+ Exhibits; Financial Statement Schedules 
+ 15 
+ 
+ Item 16. 
+ Form 10-K Summary 
+ 17 
+
+SIGNATURES 
+ 
+ 18 
+
+2 
+
+CAUTIONARY
+NOTE ABOUT FORWARD-LOOKING STATEMENTS 
+
+The
+information contained in this Annual Report on Form 10-K includes some statements that are not purely historical and that are forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and
+Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and as such, may involve risks and uncertainties.
+These forward-looking statements relate to, among other things, expectations of the business environment in which we operate, perceived
+opportunities in the market and statements regarding our mission and vision. In addition, any statements that refer to projections, forecasts
+or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. You
+can generally identify forward-looking statements as statements containing the words anticipates, believes, continue, could, estimates,
+expects, intends, may, might, plans, possible, potential, predicts, projects, seeks, should, will, would and similar expressions,
+or the negatives of such terms, but the absence of these words does not mean that a statement is not forward-looking. 
+
+Forward-looking
+statements involve risks and uncertainties that could cause actual results or outcomes to differ materially from those expressed in the
+forward-looking statements. The forward-looking statements contained herein are based on various assumptions, many of which are based,
+in turn, upon further assumptions. Our expectations, beliefs and forward-looking statements are expressed in good faith based on management s
+views and assumptions as of the time the statements were made, but there can be no assurance that management s expectations, beliefs,
+or projections will result or be achieved or accomplished. 
+
+In
+addition to other factors and matters discussed elsewhere herein, the following are important factors that, in our view, could cause
+actual results to differ materially from those discussed in the forward-looking statements: technological advances, impact of competition,
+dependence on key personnel and the need to attract new management, effectiveness of cost and marketing efforts, acceptances of products,
+ability to expand markets and the availability of capital or other funding on terms satisfactory to us. We disclaim any obligation to
+update forward-looking statements to reflect events or circumstances after the date hereof. 
+
+3 
+
+As
+used in this Annual Report on Form 10-K (the Annual Report ), the terms FOMO, the Company, we, 
+ us and our refer to FOMO WORLDWIDE, INC. and its subsidiaries. 
+
+PART
+I 
+
+Item
+1. Description of Business. 
+
+Company
+Background 
+
+From
+2014 through 2019, the Company, which was then known as 2050 Motors, Inc. was seeking to import, market and sell in the
+United States, Puerto Rico, the U.S. Territories and Peru, the e-Go lightweight carbon fiber all-electric vehicle and electric
+light truck which was to be manufactured by Jiangsu Aoxin New Energy Automobile Co., Ltd. Aoxin Automobile located in
+the People s Republic of China (the PRC ). Although the Company had entered into a definitive agreement with Aoxin
+Automobile, due to export restrictions imposed by the PRC, as well as tariffs imposed by the United States as a result of its
+trade dispute with China, the Company encountered substantial delays and was unable to commercially launch the vehicles in the U.S. Accordingly,
+in May 2019, the Company discontinued its planned electric vehicle business and instead focused its efforts on exploring investment opportunities
+which management believed offered better potential to generate revenues and create shareholder value. 
+
+Acquisition
+of IAQ Technologies LLC 
+
+On
+October 19, 2020, the Company acquired 100 of the membership interests of Purge Virus, LLC in exchange for the issuance of 2,000,000
+Series B Preferred Shares valued at 800,000 to its member. We subsequently changed the name of the company to IAQ Technologies LLC IAQ ).
+IAQ, which is based in Philadelphia, PA, is engaged in the marketing and sale of disinfection products and services to businesses, including
+hotels, hospitals, cruise ships, offices, and government facilities, as well as to individuals. Products and services marketed by IAQ
+include: 
+
+Ultraviolet-C in-duct and portable devices; 
+
+Hybrid disinfection devices with UVC, carbon filtration
+ and HEPA filtration; 
+
+Hybrid disinfection devices with UVC and Photo Plasma; 
+
+Bio-polar ionization disinfection for virus and Volatile
+ Organic Compound disinfection; and 
+
+PPE (personal protective equipment) ranging from masks
+ to gloves with factory-direct supply side logistics. 
+
+IAQ
+markets and sells its disinfection products and services through two in-house sales managers. 
+
+Acquisitions
+of Independence LED Lighting LLC and Energy Intelligence Center LLC 
+
+On
+February 12, 2021, the Company purchased the assets of Independence LED Lighting LLC iLED ), later rebranded as IAQ Technologies,
+LLC, in exchange for the issuance of 250,000 Series B Preferred Shares valued at 3.3 million iLED, is in the sale of clean air products
+intended for use in disinfecting and improving air quality. 
+
+On
+March 7, 2021, the Company purchased the assets of Energy Intelligence Center LLC EIC of PA ), an affiliate of iLED, in
+exchange for the issuance of 125,000 Series B Preferred Shares valued at 1,479,121. EIC is engaged in the commercialization, marketing
+and licensing of software designed to work in conjunction with a commercial building s HVAC system to clean the air that circulates
+within the building. 
+
+Following
+the acquisitions of the assets of ILED and EIC, the Company combined the assets and businesses of iLED and EIC PA into a newly formed
+wholly- owned subsidiary, Energy Intelligence Center, LLC EIC Wyoming ). 
+
+The
+managing member of IAQ, iLED and EIC stayed on following the acquisitions to run their businesses. However, in July 2021, the former
+managing member stepped down and assumed a consulting role and a new chief executive officer was hired to run the businesses of IAQ and
+EIC Wyoming. Such individual resigned from his position on March 2, 2022 and we have appointed an interim chief executive officer. 
+
+4 
+
+Operating
+results for IAQ since its acquisition have not met expectations, Accordingly, the interim chief executive is in the process of reorganizing
+IAQ. Accordingly, we determined that IAQ s value was impaired at December 31, 2021. 
+
+In
+addition, the software developer responsible for completing development and implementation of EIC Wyoming left the company and has refused
+to assist us with completing the software and transitioning the work to other individuals. Accordingly, we are now in the process of
+identifying another person or entity to take over and complete development of the software. As a result of this delay, we determined
+that EIC Wyoming s value was impaired was impaired at December 31, 2021. 
+
+Acquisitions
+of SMARTSolution Technologies L.P. and SMARTSolution Technologies, Inc. 
+
+On
+February 28, 2022, FOMO closed the acquisition of the general and all the limited partnership interests of SMARTSolution Technologies
+L.P. and shares of SMARTSolution Technologies, Inc. (collectively SST pursuant to a Securities Purchase Agreement dated
+February 28, 2022 (the SPA ), by and between the Company and Mitchell Schwartz Seller ), the beneficial owner
+of the general and limited partnership interests in SST. SST is a Pittsburgh, Pennsylvania based
+audio/visual systems integration company that designs and builds presentation, teleconferencing and collaborative systems for businesses,
+educational institutions, and other nonprofit organizations. 
+
+Pursuant
+to the SPA, FOMO: 
+
+issued to Seller 1,000,000
+ shares of its authorized but unissued Series B Preferred Shares; 
+
+paid approximately 927,600
+ of SST s indebtedness to the Seller and third parties; 
+
+entered into an at
+ will employment agreement with Seller, pursuant to which Seller will continue to serve as SST s Chief Executive Officer
+ at an annual salary of 100,000; and 
+
+as an incentive to retain
+ SST s other employees, issued to such employees, a total of 300,000,000 three-year common stock purchase warrants (the Incentive
+ Warrants ), each entitling the holder to purchase one share of SST common stock at an exercise price of 0.001 per share. 
+
+SST
+has been engaged in the education technology and services business for over 25 years. SST markets its systems to and installs the systems
+in elementary, middle and high schools, as well as colleges, universities, and other commercial facilities. A current focus of SST s
+business is the sale and installation of interactive smartboards to elementary, middle and high schools. These interactive smartboards
+provide students with interactive remote access from home or other locations to classrooms and teachers via personal computers, laptops,
+tablets, and similar devices. SST currently markets its systems primarily in Pennsylvania and Ohio, is in the process
+of expanding into the Alabama and Michigan markets and plan to expand further throughout the United States as opportunities present itself. 
+
+As
+a result of the growth in remote learning, as a result of the COVID-19 pandemic and otherwise, SST is currently experiencing a significant
+increase in orders and sales and a growth in backlog. Since the closing of the acquisition, FOMO Worldwide,
+Inc . has secured approximately 600,000 in debt and convertible debt financing to support SST s fulfillment of additional
+orders and reduction of its backlog. 
+
+The
+interactive smartboards which form the key element of SST s interactive systems are supplied by a single supplier in Canada, which
+is a subsidiary of a large multi-national company. SST believes that its relationship with its supplier is excellent, although there
+can be no assurance that if the relationship with the supplier was interrupted or otherwise adversely affected that an alternative source
+of supply at commercially reasonable cost would be available or that SST s business would not be seriously harmed. 
+
+5 
+
+SST
+markets its systems and services through a lead sales manager who has contacts with school boards in Pennsylvania and Ohio. SST also
+works with former elected government officials that have contacts with school boards in Alabama and Michigan. 
+
+The
+primary competitor of SST in the Pennsylvania and Ohio regions is a Philadelphia-based entity which also markets and sells interactive
+whiteboards. SST believes that it competes effectively based on its contacts and relationships with its existing and potential customers.
+However, there can be no assurance given that SST additional competitors with greater financial and other resources will not enter SST s
+market or that SST will be able to successfully compete as it enters new geographic markets. 
+
+SST
+currently employs 11 people, including 4 in administration, 1 in sales and 6 in installation. As a result of its growing backlog, SST
+is currently seeking to expand its installation and sales staff. 
+
+Series
+B Preferred Shares 
+
+Each
+Series B Preferred Share issued in connection with the above acquisitions entitles the holder to a preferred cumulative annual dividend
+of 0.01 per share, when, as and if declared by FOMO s board of directors as out of funds legally available therefore, each Series
+B Preferred Share is convertible at the option of the holder into 1,000 shares of the Company s common stock for an aggregate of
+1,000,000 shares of common stock, subject to adjustment for stock splits, stock dividends and similar transactions. The Series B
+Preferred Shares have a liquidation preference of 0.0001 per share and vote on all matters presented to stockholders for a vote on an
+ as converted basis together with our common stock as a single class, except as required by law. 
+
+Corporate
+Information 
+
+We
+were incorporated in the State of California in 2007. Our principal executive offices are located at 831 W North Ave., Pittsburgh, PA
+15233 and our telephone number is (630) 708-0750. Our website is www.fomoworldwide.com . Information contained on, or that can
+be accessed through, our website is not incorporated by reference into this Annual Report. 
+
+Item
+1A. Risk Factors. 
+
+Not
+applicable to smaller reporting companies 
+
+Item
+1B. Unresolved Staff Comments. 
+
+None. 
+
+Item
+2. Properties. 
+
+The
+Company currently leases property in its wholly owned subsidiary SMARTSolution Technologies at 831 West North Ave, Pittsburgh, PA 15233.
+The property lease is between SMARTSolution Technologies LP and GraMax LLC, which is wholly owned by SST s Founder and Brand Ambassador,
+Mitchell Schwartz. On closing of the SST acquisitions on February 28, 2022, the initial lease term was five (5) years with an annual
+lease of 84,000. 
+
+Item
+3. Legal Proceedings. 
+
+None. 
+
+Item
+4. Mine Safety Disclosures. 
+
+None. 
+
+6 
+
+PART
+II 
+
+Item
+5. Market for Registrant s Common Equity Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market
+Information 
+
+Our
+shares of common stock are quoted on the OTC Pink tier of the over-the-counter market operated by OTC Markets Group Inc. under the symbol
+ FOMC . Such market is extremely limited. We can provide no assurance that our shares of common stock will be continued to
+be traded on the OTC Pink or another exchange, or if traded, that the current public market will be sustainable. 
+
+Holders
+of Record 
+
+As
+of the date of this Annual Report, there were approximately 197 holders of record of our common stock, as reported by the Company s
+transfer agent. In computing the number of holders of record, each broker-dealer and clearing corporation holding shares on behalf of
+its customers is counted as a single shareholder and accordingly, the Company believes that the number of beneficial owners of its common
+stock is significantly higher. 
+
+Dividends 
+
+We
+have never declared or paid any cash dividends on our common stock, nor do we anticipate paying any in the foreseeable future. Furthermore,
+we expect to retain any future earnings to finance our operations and expansion. The payment of cash dividends in the future will be
+at the discretion of our Board of Directors. 
+
+Securities
+Authorized for Issuance under Equity Compensation Plans 
+
+None. 
+
+Recent
+Sales of Unregistered Securities 
+
+None. 
+
+Item
+6. [Reserved] 
+
+Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operation 
+
+This
+Annual Report contains forward-looking statements. Our actual results could differ materially from those set forth because of general
+economic conditions and changes in the assumptions used in making such forward-looking statements. The following discussion and analysis
+of our financial condition and results of operations should be read together with the audited consolidated financial statements and accompanying
+notes and the other financial information appearing elsewhere in this Annual Report. See Cautionary Note Regarding Forward Looking
+Statements above. 
+
+7 
+
+Results
+of Operations 
+
+Year
+ended December 31, 2022 as compared to year ended December 31, 2021 
+
+Revenues. During
+the year ended December 31, 2022, the Company had operating revenues of 7,515,451, as compared to operating revenues of 657,136
+for the year ended December 31, 2021. The increase from the 2021 quarter to the 2022 quarter was 6,858,405 (1,044 ). Sales for 2022
+included SST s operations (acquired on February 28, 2022), which resulted in the majority of the increase from the
+2021. 
+
+Cost
+of Revenues. During the year ended December 31, 2022, cost of revenues was 6,467,990, as compared to cost or revenues of
+ 539,308 for the year ended December 31, 2021. The increase from 2021 to 2022 was 5,928,682 (1,099 ). Cost of sales primarily
+include product sales and payroll. Cost of sales for 2022 included SST s operations (acquired on February 28, 2022), which
+resulted in the majority of the increase from the 2021. 
+
+Gross
+Profit . Gross profit for the year ended December 31, 2022 was 1,047,551 as compared to gross profit of 117,828 for the year ended
+December 31, 2021. Gross profit expressed as a percentage of sales for 2022 was 14 , as compared to 18 for 2021. During 2022, the Company
+included the gross profit of SST (acquired on February 28, 2022). 
+
+Operating
+Expenses. During the year ended December 31, 2022, the Company incurred operating expenses of 2,651,769 consisting primarily of
+payroll, professional and consulting fees. Of the operating expense, 981,594 consists of non-cash expenses, such as depreciation and
+amortization and shares and warrants issued for services. During the year ended December 31, 2021, the Company incurred operating expenses
+of 11,340,784 consisting primarily of consulting fees, travel expenses, general and administrative costs, bad debt expense, loss on
+impairment and amortization of debt discount. 
+
+Other
+Income (Expenses) . During the year ended December 31, 2022, the Company incurred other income (expense) (2,077,272) consisting of
+interest expense, amortization of debt discounts, loss on investments, debt settlement, loan forgiveness, loss on debt conversions, derivative
+liability expense and derivative expense. During the year ended December 31, 2021, the Company incurred other income (expense) (1,359,544)
+consisting of interest expense, loss on investments, debt settlement, loan forgiveness, loss on debt conversions, derivative liability
+gain and derivative expense. 
+
+Net
+Losses . As a result of the above, the Company incurred a net loss of 3,681,490, for the year ended December 31, 2022, as compared
+to a net loss of 12,582,500 for the year ended December 31, 2021. 
+
+Our
+Auditors Have Issued a Going Concern Opinion 
+
+The
+Company s independent registered public accounting firm has expressed substantial doubt as to the Company s ability to continue
+as a going concern as of December 31, 2022. The consolidated financial statements in this report on Form 10-K have been prepared assuming
+that the Company will continue as a going concern. As discussed in the notes to the consolidated financial statements, these conditions
+raise substantial doubt from the Company s ability to continue as a going concern. The Company s plans in regard to these
+matters are also described in the notes to the Company s consolidated financial statements. The consolidated financial statements
+do not include any adjustments relating to the recoverability and classification of asset carrying amounts or the amount and classification
+of liabilities that might result should the Company be unable to continue as a going concern. 
+
+These
+consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement
+of liabilities and commitments in the normal course of business. 
+
+As
+reflected in the accompanying consolidated financial statements, for the year ended December 31, 2022, the Company had: 
+
+a net loss of 3,681,490; and 
+
+net cash used in operations of 1,249,499. 
+
+8 
+
+Additionally,
+at December 31, 2022, the Company had: 
+
+an accumulated deficit
+ of 24,098,281; 
+
+stockholders deficit
+ of 2,570,643; and 
+
+a working capital deficit
+ of 3,425,835. 
+
+Liquidity
+and Capital Resources at December 31, 2022 
+
+Operating
+Activities 
+
+For
+the years ended December 31, 2022 and 2021, the Company reflected net cash used in operating activities of 1,249,499 and 885,503, respectively,
+an increase of 363,996 (41 ). Operating activities primarily consist of a net loss of 3,681,490, offset by non-cash net expenses of
+ 2,553,560, and increases in accounts receivable, inventory, and prepaid expenses, offset by an increase in accounts payable and decrease
+in deferred revenues. 
+
+Investing
+Activities 
+
+For
+the year ended December 31, 2022 and 2021, the Company reflected net cash provided by (used in) investing activities of 185,739 and 1,086,232); primarily consisting of cash acquired in acquisition of SST and purchases of securities - net of proceeds from sales of
+securities. 
+
+Financing
+Activities 
+
+For
+the year ended December 31, 2022 and 2021, the Company reflected net cash provided by financing activities of 1,066,490 and 2,053,890,
+respectively, a decrease of 987,400 (48 ). Financing activities primarily consisted of proceeds and repayments from debt, proceeds and
+related drawdown on the accounts receivable credit facility and proceeds from the issuance of common stock and Class A preferred stock. 
+
+During
+the year ended December 31, 2022, the Company received net proceeds of 378,750 of borrowed funds from non-related parties through the
+sale of convertible notes payable, 7,296,906 in an asset backed loan against the accounts receivable of SST offset by repayments of
+ 5,993,439 and 195,000 loan from a related party (CEO of SST). The Company also executed a loan for 638,060 and repaid 199,368. The
+Company repaid an SBA loan for 150,000, loans payable related parties for 229,891 and notes payable for 647,528. 
+
+In
+addition, during this period the Company issued 301,448,152 shares of common stock to lenders for conversions of 104,368 of principal
+and interest related to third-party debt. The Company issued 650,000 shares of series B preferred stock for services rendered, having
+a fair value of 535,000 0.0008 - 0.0009/share), based upon the quoted closing trading price of the Company s common stock,
+on an as-converted basis of 1,000 shares of common stock for each share of Class B, preferred stock. 
+
+We
+manage liquidity risk by reviewing, on an ongoing basis, our sources of liquidity and capital requirements. The Company has cash on hand
+of 99,954 at December 31, 2022. Although the Company intends to raise additional debt or equity capital, the Company expects to continue
+to incur significant losses from operations and have negative cash flows from operating activities for the near-term. These losses could
+be significant as product and service sales ramp up along with continuing expenses related to compensation, professional fees, development
+and regulatory are incurred. 
+
+The
+Company has incurred significant losses since its inception and has not demonstrated an ability to generate sufficient revenues from
+the sales of its products and services to achieve profitable operations. There can be no assurance that profitable operations will ever
+be achieved, or if achieved, could be sustained on a continuing basis. In making this assessment we performed a comprehensive analysis
+of our current circumstances including: our financial position, our cash flows and cash usage forecasts for the twelve months ended December
+31, 2023, and our current capital structure including equity-based instruments and our obligations and debts. 
+
+9 
+
+If
+the Company does not obtain additional capital, the Company will be required to reduce the scope of its business development activities
+or cease operations. The Company continues to explore obtaining additional capital financing and the Company is closely monitoring its
+cash balances, cash needs, and expense levels. 
+
+These
+factors create substantial doubt about the Company s ability to continue as a going concern within the twelve-month period subsequent
+to the date that these consolidated financial statements are issued. The consolidated financial statements do not include any adjustments
+that might be necessary if the Company is unable to continue as a going concern. Accordingly, the consolidated financial statements have
+been prepared on a basis that assumes the Company will continue as a going concern and which contemplates the realization of assets and
+satisfaction of liabilities and commitments in the ordinary course of business. 
+
+Management s
+strategic plans include the following: 
+
+Pursuing additional capital raising opportunities (debt
+ or equity), 
+
+Continue to execute on our strategic planning while
+ increasing operational efficiency, 
+
+Continuing to explore and execute prospective partnering
+ or distribution opportunities and 
+
+Identifying unique market opportunities that represent
+ potential positive short-term cash flow. 
+
+We
+expect our expenses will continue to increase during the foreseeable future as a result of increased operational expenses and the development
+of our clean air and audio/visual businesses. Consequently, our dependence on the proceeds from future debt or equity investments will be used to implement
+our business plan of expanding our business through mergers and acquisition and expanding revenues through growing sales in the clean
+air and audio/visual businesses. If we are unable to raise sufficient capital, we will be required to delay or forego some portion of
+our business plan, which would have a material adverse effect on our anticipated results from operations and financial condition. There
+is no assurance that we will be able to obtain necessary amounts of additional capital or that our estimates of our capital requirements
+will prove to be accurate. As of the date of this report we did not have any commitments from any source to provide such additional capital.
+Even if we are able to secure outside financing, it may be unavailable in the amounts or the times when we require. Furthermore, such
+financing would likely take the form of bank loans, private placement of debt or equity securities or some combination of these. The
+issuance of additional equity securities would dilute the stock ownership of current investors while incurring loans, leases, or debt
+which would increase our capital requirements and a possible loss of valuable assets if such obligations were not repaid in accordance
+with their terms. 
+
+Summary
+of Significant Accounting Policies 
+
+See
+Note 2 to the Consolidated Financial Statements included in Item 8 of this Annual Report. 
+
+Off-balance
+Sheet Arrangements 
+
+None. 
+
+10 
+
+Item
+7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+Not
+required under Regulation S-K for smaller reporting companies. 
+
+Item
+8. Financial Statements and Supplementary Data 
+
+Our
+audited consolidated financial statements are set forth below. 
+
+11 
+
+FOMO
+WORLDWIDE, INC. and Subsidiaries 
+
+INDEX
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Reports of Independent Registered Public Accounting Firm Urish Popeck Co., LLC (Firm ID:1013) 
+ F-2 
+
+Reports of Independent Registered Public Accounting Firm Assurance Dimensions, Inc. (Firm ID:5036) 
+ F-3 
+
+Consolidated Balance Sheets, December 31, 2022 and 2021 
+ F-4 
+
+Consolidated Statements of Operations for the years ended December 31, 2022 and 2021 
+ F-5 
+
+Consolidated Statements of Stockholders Deficit for the years ended December 31, 2022 and 2021 
+ F-6 
+
+Consolidated Statements of Cash Flows for the years ended December 31, 2022 and 2021 
+ F-7 
+
+Notes to Consolidated Financial Statements December 31, 2022 and 2021 
+ F-8 
+
+F- 1 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+To the Stockholders and Board of Directors 
+
+FOMO Worldwide, Inc. 
+
+Opinion on the Consolidated Financial
+Statements 
+
+We have audited the accompanying
+consolidated balance sheet of FOMO Worldwide, Inc. (the Company as of December 31, 2022, the related consolidated statement
+of operations, changes in stockholders deficit, and cash flows for the year ended December 31, 2022, and the related notes (collectively
+referred to as the consolidated financial statements). 
+
+In our opinion, the consolidated
+financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2022, and the results
+of its operations and its cash flows for each of the year ended December 31, 2022 , in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Substantial Doubt About the Company s
+Ability to Continue as a Going Concern 
+
+The accompanying consolidated financial
+statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the consolidated financial
+statements, the Company has suffered recurring losses from operations and has a net capital deficiency at December 31, 2022. These conditions
+raise substantial doubt about its ability to continue as a going concern. Management s plans in regard to these matters are also
+described in Note 3. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These consolidated financial statements
+are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audit we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audit included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+/s/ Urish Popeck Co., LLC 
+
+We have served as the Company s auditor since
+2023. 
+
+Pittsburgh, PA 
+
+ April 14, 2023 
+
+F- 2 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and 
+Stockholders of FOMO Corp. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheet of FOMO Corp (the Company) as of December 31, 2021 and the related consolidated
+statements of operations, stockholders deficit and cash flows for the year ended December 31, 2021, and the related
+notes (collectively referred to as the consolidated financial statements). In our opinion, the consolidated financial statements present
+fairly, in all material respects, the financial position of the Company as of December 31, 2021 and the results of its operations and
+its cash flows for the year ended December 31, 2021, in conformity with accounting principles generally accepted in the United States
+of America. 
+
+Explanatory
+Paragraph- Going Concern 
+
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 3 to the financial statements, the Company has suffered recurring losses for the year ended December 31, 2021. The Company had
+a net loss of 12,582,500, accumulated deficit of 20,245,145, net cash used in operating activities of 885,503 and had negative working
+capital of 1,075,690. These factors raise substantial doubt about the Company s ability to continue as a going concern. Management s
+plans in regard to these matters are also described in Note 3. The consolidated financial statements do not include any adjustments that
+might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on the Company s consolidated financial statements based on our audit. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance
+with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.
+The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part
+of our audit, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing
+an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters to be communicated, are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. 
+
+Valuation
+and impairment of intangible assets 
+
+Description
+of the Matter 
+
+During
+the year ended December 31, 2021, the Company recorded intangible assets including goodwill, trade name and website from two acquisitions
+which occurred during the year. The fair values recorded were based on independent valuations obtained by the Company. As discussed in
+Note 2 to the consolidated financial statements, intangible assets including goodwill are tested for impairment on an annual basis, or
+more frequently if the Company believes indicators of impairment exist. The Company measured the fair value of these intangible assets
+based on projected cash flows and combined with other qualitative factors the Company determined the intangible assets to be fully impaired
+as of December 31, 2021. 
+
+Auditing
+the Company s annual impairment test related to these intangible assets was complex due to the estimation uncertainty in determining
+their fair values. The significant assumptions used to estimate the fair value of these intangible assets included forecasted sales and
+discount rates. These assumptions are forward-looking which can vary significantly and depend on market forces and events outside of
+the Company s control. 
+
+How
+We Addressed the Matter in Our Audit 
+
+To
+test the estimated fair value of these intangible assets, our audit procedures included, among others, evaluating the valuation methodology
+used, the significant assumptions discussed above, and the underlying data used by the Company. Such data includes historical sales and
+projections. We reviewed the assumptions and data provided by management and concluded that the impairment recorded was reasonable. 
+
+/s/
+ Assurance Dimensions 
+
+We
+ have served as the Company s auditor since 2022. 
+
+Margate,
+ Florida 
+ April
+ 28, 2022 
+
+F- 3 
+
+FOMO
+WORLDWIDE, INC. and Subsidiaries 
+
+ Consolidated
+Balance Sheets 
+
+As of 
+ As of 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ Assets 
+
+Current assets 
+
+Cash 
+ 96,954 
+ 94,224 
+ 
+ Accounts receivable, net 
+ 1,682,654 
+ 36,790 
+ 
+ Loan to related party 
+ 45,261 
+ 53,732 
+ 
+ Inventory, net 
+ 382,457 
+ 8,114 
+ 
+ Prepaid expense 
+ 9,458 
+ 223 
+ 
+ Total current assets 
+ 2,216,784 
+ 193,083 
+
+Property and equipment - net 
+ 80,844 
+ - 
+ 
+ Operating lease - right-of-use asset 
+ 281,937 
+ - 
+ 
+ Intangible assets- net 
+ 514,476 
+ - 
+ 
+ Goodwill 
+ 350,110 
+ - 
+ 
+ Investments 
+ 140,006 
+ 765,463 
+
+Total assets 
+ 3,584,157 
+ 958,546 
+
+Liabilities and stockholders deficit 
+
+Liabilities 
+
+Current liabilities 
+
+Accounts payable 
+ 1,657,084 
+ 40,117 
+ 
+ Accounts receivable credit facility 
+ 1,276,467 
+ - 
+ 
+ Operating lease liability 
+ 63,556 
+ - 
+ 
+ Unearned revenue 
+ 578,354 
+ 11,100 
+ 
+ Loan payable related party 
+ 25,048 
+ 22,714 
+ 
+ Convertible loans payable due to non-related parties, net 
+ 645,006 
+ 89,305 
+ 
+ Loans payable- other 
+ 243,692 
+ - 
+ 
+ Preferred stock dividend payable 
+ 171,646 
+ - 
+ 
+ Derivative liabilities 
+ 981,766 
+ 1,105,537 
+ 
+ Total current liabilities 
+ 5,642,619 
+ 1,268,773 
+
+Long-term liabilities 
+
+Loan payable related party 
+ 284,480 
+ - 
+ 
+ Operating lease liability 
+ 227,701 
+ - 
+ 
+ Total current liabilities 
+ 512,181 
+ - 
+
+Total liabilities 
+ 6,154,800 
+ 1,268,773 
+
+Commitments and Contingencies (Note 10) 
+ - 
+ - 
+
+Stockholders deficit 
+
+Preferred stock Class A; 0.0001 par value authorized: 78,000,000 shares at December 31, 2022 and 2021, respectively: issued and outstanding 5,750,000 and 5,750,000 at December 31, 2022 and 2021, respectively 
+ 575 
+ 575 
+ 
+ Preferred stock Class B; 0.0001 par value authorized: 20,000,000 shares at December 31, 2022 and 2021, respectively: issued and outstanding 5,289,982 and 5,249,982 at December 31, 2022 and 2021, respectively 
+ 529 
+ 525 
+ 
+ Preferred stock Class C; 0.0001 par value authorized: 2,000,000 shares at December 31, 2022 and 2021, respectively: and issued and outstanding 1,000,000 and 1,000,000 at December 31, 2022 and 2021, respectively 
+ 100 
+ 100 
+ 
+ Preferred
+ Stock Value 
+ - 
+ - 
+ 
+ Common stock; no par value authorized: 20,000,000,000 shares at December 31, 2022 and 2021, respectively: issued and outstanding 8,620,188,088 and 7,177,931,757 at December 31, 2022 and 2021, respectively 
+ 9,023,334 
+ 8,631,776 
+ 
+ Additional paid-in-capital 
+ 12,503,100 
+ 11,301,942 
+ 
+ Accumulated deficit 
+ (24,098,281 
+ (20,245,145 
+ 
+ Total stockholders deficit 
+ (2,570,643 
+ (310,227 
+
+Total liabilities and stockholders deficit 
+ 3,584,157 
+ 958,546 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 4 
+
+FOMO
+WORLDWIDE, INC. and Subsidiaries 
+
+ Consolidated
+Statement of Operations 
+
+2022 
+ 2021 
+
+For the Year Ended December 31, 
+
+2022 
+ 2021 
+
+Operating revenue 
+ 7,515,541 
+ 657,136 
+
+Cost of revenue 
+ 6,467,990 
+ 539,308 
+
+Gross profit 
+ 1,047,551 
+ 117,828 
+
+Operating expenses: 
+
+Loss on impairment 
+ - 
+ 5,353,118 
+ 
+ General and administrative 
+ 2,645,480 
+ 5,987,666 
+ 
+ Total operating expenses 
+ 2,645,480 
+ 11,340,784 
+
+Loss from operations 
+ (1,597,929 
+ (11,222,956 
+
+Other income (expenses) 
+
+Interest expense 
+ (502,409 
+ (334691 
+ 
+ Amortization of debt discount 
+ (573,845 
+ (481555 
+ 
+ Loan forgiveness 
+ - 
+ 11,593 
+ 
+ Unrealized loss on investments 
+ (667,237 
+ (435,037 
+ 
+ Loss on debt conversion 
+ (205,691 
+ (475,199 
+ 
+ Loss on non-refundable deposit for business 
+ - 
+ (449,279 
+ 
+ Gain on debt extinguishment (derivative liabilities convertible debt) 
+ 226,391 
+ - 
+ 
+ Initial derivative expense 
+ (194,887 
+ (878,263 
+ 
+ Change in fair value of derivative liabilities 
+ (165,883 
+ 1,682,887 
+ 
+ Total other expenses 
+ (2,083,561 
+ (1,359,544 
+
+Loss before income taxes 
+ (3,681,490 
+ (12,582,500 
+
+Provision for income taxes 
+ - 
+ - 
+
+Net loss 
+ (3,681,490 
+ (12,582,500 
+
+Preferred stock dividends 
+ (171,646 
+ - 
+
+Net loss available to common shareholders 
+ (3,853,136 
+ (12,582,500 
+
+Net loss per share, basic and diluted 
+ (0.0005 
+ (0.0008 
+
+Weighted average common equivalent share outstanding, basic and diluted 
+ 8,308,889,427 
+ 15,511,004,083 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 5 
+
+FOMO
+WORLDWIDE, INC. and Subsidiaries 
+
+ Consolidated
+Statement of Stockholders Deficit 
+
+ For
+the years ended December 31, 2022 and 2021 
+
+Common
+ Stock 
+
+Preferred
+ Stock 
+
+Class
+ A 
+
+Class
+ B 
+
+Class
+ C 
+
+Number
+ of Shares 
+
+No
+ par value 
+
+Number
+ of Shares 
+
+0.0001
+ par value 
+
+Number
+ of Shares 
+
+0.0001
+ par value 
+
+Number
+ of Shares 
+
+0.0001
+ par value 
+
+Common
+ Stock Issuable 
+
+Additional
+ paid-in capital 
+
+Accumulated
+ deficit 
+
+Total
+ stockholders deficit 
+
+Balance,
+ December 31, 2020 
+ 
+ 4,713,543,121 
+
+4,232,960 
+
+3,000,000 
+
+300 
+
+4,463,815 
+
+446 
+
+1,000,000 
+
+100 
+
+125,000 
+
+3,139,400 
+
+(7,662,645) 
+ 
+ (164,439) 
+
+Conversion
+ of convertible debt 
+
+1,396,567,128 
+
+2,822,118 
+
+- 
+
+2,822,118 
+
+Stock
+ issued for loan cost 
+
+10,000,000 
+
+20,000 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+20,000 
+
+Issue
+ of common shares for cash 
+
+527,500,000 
+
+1,000,000 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+1,000,000 
+
+Issue
+ of preferred A shares for cash 
+
+- 
+
+- 
+
+2,750,000 
+
+275 
+
+274,725 
+
+- 
+
+275,000 
+
+Issue
+ of preferred B shares as non-refundable deposit to acquire business 
+
+- 
+
+- 
+
+- 
+
+- 
+
+175,000 
+
+18 
+
+- 
+
+- 
+
+- 
+
+449,261 
+
+- 
+
+449,279 
+
+Issue
+ of preferred B shares to acquire assets 
+
+- 
+
+- 
+
+- 
+
+- 
+
+375,000 
+
+38 
+
+- 
+
+- 
+
+- 
+
+4,549,962 
+
+4,550,000 
+
+Issue
+ of preferred B shares for services 
+
+- 
+
+- 
+
+- 
+
+- 
+
+571,167 
+
+57 
+
+1,765,957 
+
+1,766,014 
+
+Conversion
+ of preferred series B shares to common shares 
+
+335,000,000 
+
+34 
+
+(335,000) 
+
+(34) 
+
+- 
+
+- 
+
+Common
+ shares issued for services 
+
+195,321,508 
+
+556,664 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+556,664 
+
+Warrants 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+997,637 
+
+- 
+
+997,637 
+
+Cancel
+ Common stock issuable 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(125,000) 
+
+125,000 
+
+- 
+
+Net
+ loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(12,582,500) 
+
+(12,582,500) 
+
+Balance,
+ December 31, 2021 
+
+7,177,931,757 
+
+8,631,776 
+
+5,750,000 
+
+575 
+
+5,249,982 
+
+525 
+
+1,000,000 
+
+100 
+
+- 
+
+11,301,942 
+
+(20,245,145) 
+
+(310,227) 
+ 
+ Beginning
+ balance 
+
+7,177,931,757 
+
+8,631,776 
+
+5,750,000 
+
+575 
+
+5,249,982 
+
+525 
+
+1,000,000 
+
+100 
+
+- 
+
+11,301,942 
+
+(20,245,145) 
+
+(310,227) 
+
+Issuance
+ of stock in cashless exercise of warrants 
+
+645,833,333 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Issuance
+ of stock for services 
+
+- 
+
+- 
+
+- 
+
+- 
+
+650,000 
+
+65 
+
+- 
+
+- 
+
+- 
+
+534,935 
+
+- 
+
+535,000 
+
+Acquisition
+ of Smart Solutions Technologies, Inc. - net of broker fees 
+
+- 
+
+- 
+
+- 
+
+- 
+
+1,000,000 
+
+100 
+
+- 
+
+- 
+
+- 
+
+699,900 
+
+- 
+
+700,000 
+
+Return
+ of shares related to acquisition of Smart Solutions Technologies, Inc. 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(1,000,000) 
+
+(100) 
+
+- 
+
+- 
+
+- 
+
+(699,900) 
+
+- 
+
+(700,000) 
+
+Issuance
+ of stock in conversion of debt and accrued interest 
+
+301,448,152 
+
+310,059 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+310,059 
+
+Return
+ and cancellation of Series B shares 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(250,000) 
+
+(25) 
+
+- 
+
+- 
+
+- 
+
+25 
+
+- 
+
+- 
+
+Conversion
+ of Series B preferred stock into common stock 
+
+360,000,000 
+
+30 
+
+- 
+
+- 
+
+(360,000) 
+
+(36) 
+
+- 
+
+- 
+
+- 
+
+6 
+
+- 
+
+- 
+
+Warrants
+ issued for services 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+227,211 
+
+- 
+
+227,211 
+
+Warrants
+ issued for services - related party 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+13,981 
+
+- 
+
+13,981 
+
+Reclassification
+ of financial instruments that ceased to be derivative liabilities (warrants) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+425,000 
+
+- 
+
+425,000 
+
+Shares
+ issued in transfer agent conversion 
+
+134,974,846 
+
+81,469 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+81,469 
+
+Preferred
+ dividends 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(171,646) 
+
+(171,646) 
+
+Net
+ loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(3,681,490) 
+
+(3,681,490) 
+ 
+ Balance,
+ December 31, 2022 
+
+8,620,188,088 
+
+9,023,334 
+
+5,750,000 
+
+575 
+
+5,289,982 
+
+529 
+
+1,000,000 
+
+100 
+
+- 
+
+12,503,100 
+
+(24,098,281) 
+
+(2,570,643) 
+ 
+ Ending
+ balance 
+
+8,620,188,088 
+
+9,023,334 
+
+5,750,000 
+
+575 
+
+5,289,982 
+
+529 
+
+1,000,000 
+
+100 
+
+- 
+
+12,503,100 
+
+(24,098,281) 
+
+(2,570,643) 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 6 
+
+FOMO
+WORLDWIDE, INC. and Subsidiaries 
+
+ Consolidated
+Statement of Cash Flows 
+
+2022 
+ 2021 
+
+For the year ended December 31, 
+
+2022 
+ 2021 
+ 
+ Cash flows provided by (used for) operating activities: 
+
+Net loss 
+ (3,681,490 
+ (12,582,500 
+ 
+ Adjustments to reconcile net loss to net cash provided by (used for) operating activities: 
+
+Stock based compensation 
+ 616,469 
+
+Depreciation, depletion and amortization 
+ 60,641 
+ 37 
+ 
+ Amortization of debt discount 
+ 573,845 
+ 481,555 
+ 
+ Bad debt expense 
+ - 
+ 18,992 
+ 
+ Loss on debt extinguishment 
+ 205,691 
+ 475,199 
+ 
+ PPP loan forgiveness 
+ - 
+ (11,593 
+ 
+ Impairment loss 
+ - 
+ 5,353,118 
+ 
+ Warrants issued for stockholder relations 
+ - 
+ 2,064,665 
+ 
+ Warrants issued for services 
+ 227,211 
+ 997,637 
+ 
+ Warrants issued for service - related party 
+ 13,981 
+ - 
+ 
+ Preferred B shares issued for services 
+ - 
+ 1,766,014 
+ 
+ Common shares issued for services 
+ - 
+ 556,664 
+ 
+ Amortization of operating lease - right-of-use asset 
+ 63,292 
+ - 
+ 
+ Initial derivative expense 
+ 194,887 
+ 878,263 
+ 
+ Realized and unrealized loss on investment 
+ 667,237 
+ 435,037 
+ 
+ Loss on non-refundable deposit for business 
+ - 
+ 449,279 
+ 
+ Gain on debt extinguishment 
+ (226,391 
+ - 
+ 
+ Change in fair value of derivative liabilities 
+ 165,883 
+ (1,682,887 
+ 
+ Decrease (increase in operating assets 
+
+Accounts receivable 
+ (976,284 
+ (34,923 
+ 
+ Prepaid expenses 
+ (9,235 
+ 687 
+ 
+ Inventory 
+ (165,912 
+ (8,114 
+
+Increase(decrease) in operating liabilities 
+
+Accounts payable 
+ 1,305,723 
+ (48,119 
+ 
+ Unearned revenue 
+ (103,963 
+ 5,486 
+ 
+ Accrued officers salary 
+ (181,084 
+ - 
+
+Net cash used for operating activities 
+ (1,249,499 
+ (885,503 
+
+Cash flows provided by (used for) investing activities 
+
+Cash acquired in acquisition of Smart Solutions Technologies, L.P. 
+ 223,457 
+ - 
+ 
+ Purchase of property and equipment 
+ (4,408 
+ - 
+ 
+ Purchase of investments, net of sales 
+ (41,781 
+ (1,032,500 
+ 
+ Repayment of loan receivable- related party 
+ 109,623 
+ - 
+ 
+ Loan made to related party 
+ (101,152 
+ (53,732 
+
+Net cash provided by (used for) investing activities 
+ 185,739 
+ (1,086,232 
+
+Cash flows provided by (used for) Financing activities 
+
+Proceeds of convertible notes 
+ 378,750 
+ 874,750 
+ 
+ Proceeds from issuance of convertible note - related party 
+ 195,000 
+ - 
+ 
+ Proceeds from loans payable 
+ 638,060 
+ - 
+ 
+ Repayment of convertible note 
+ (647,528 
+ (115,000 
+ 
+ Proceeds of related party loan 
+ - 
+ 19,140 
+ 
+ Proceeds from issuance of convertible note - related party 
+ - 
+ - 
+ 
+ Repayment of loans payable 
+ (199,368 
+ - 
+ 
+ Repayments of note payable - government - SBA 
+ (150,000 
+ - 
+ 
+ Repayments of loans payable - related parties 
+ (229,891 
+ - 
+ 
+ Repayments of convertible note - related party 
+ (195,000 
+ - 
+ 
+ Proceeds from draw downs on accounts receivable credit facility 
+ 7,269,906 
+ - 
+ 
+ Repayment on accounts receivable credit facility 
+ (5,993,439 
+
+Issuance of preferred A shares 
+ - 
+ 275,000 
+ 
+ Issuance of common shares 
+ - 
+ 1,000,000 
+
+Net cash provided by (used for) financing activities 
+ 1,066,490 
+ 2,053,890 
+
+Net (decrease) increase in cash 
+ 2,730 
+ 82,155 
+ 
+ Cash, beginning of period 
+ 94,224 
+ 12,069 
+
+Cash, end of period 
+ 96,954 
+ 94,224 
+
+Supplemental disclosure of cash flow information 
+
+Cash paid for interest 
+ 273,655 
+ - 
+ 
+ Cash paid for taxes 
+ - 
+ - 
+ 
+ Supplemental disclosure of non-cash investing and financing activities 
+
+Stock issued for debt 
+ 104,368 
+ 20,000 
+ 
+ Right-of-use asset obtained in exchange for new operating lease liability 
+ 345,229 
+ - 
+ 
+ Issuance of Preferred B shares to acquire businesses 
+ 700,000 
+ 4,550,000 
+ 
+ Return of Preferred B shares in amended acquisition agreement 
+ (700,000 
+ - 
+ 
+ Initial derivative recorded as debt 
+ 194,887 
+ 874,750 
+ 
+ Conversion of preferred B shares to common 
+ 61 
+ 34 
+ 
+ Reclassification of financial instruments that ceased to be derivative liabilities (notes and warrants) 
+ 425,000 
+ - 
+ 
+ Preferred stock dividends 
+ 171,646 
+ - 
+ 
+ Common stock issued for debt 
+ - 
+ 2,822,118 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 7 
+
+FOMO
+WORLDWIDE, INC. and subsidiaries 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ December
+31, 2022 and 2021 
+
+Note
+1 BASIS OF PRESENTATION AND ORGANIZATION 
+
+FOMO
+WORLDWIDE, INC. FOMO, we, our or the Company ), is focused on the sale of its
+smart board technology as well as related installation services through its wholly owned subsidiary SMARTSolution Technologies, L.P. SST ). Additionally, the Company markets and sells clean air disinfection products. 
+
+On
+May 18, 2021, FOMO incorporated FOMO ADVISORS LLC, a Wyoming limited liability company, as a wholly owned private merchant banking subsidiary.
+FOMO ADVISORS LLC intends to assist private companies in accessing the capital markets through pass through investments
+that allow investors to gain liquidity, while benefiting from direct exposure to private company growth through derivative instruments
+or other rights. The subsidiary is engaging with strategic targets to introduce them to its network of financial and strategic contacts,
+provide them management consulting, and create a portfolio of technology investments for future incubation, capital formation, and wealth
+creation. The Company is currently evaluating its corporate development pipeline and has identified a number of candidates for this capital
+formation model, though there can be no assurances. Currently, this entity is inactive. 
+
+On
+February 28, 2022, the Company acquired SST, see Note 9. 
+
+In
+June 2022, the Company applied with the State of California for a name change to FOMO WORLDWIDE, INC. The name change was subsequently
+approved. 
+
+The
+parent (FOMO WORLDWIDE, INC.) and subsidiaries are organized as follows: 
+
+ Schedule
+of Parent and Subsidiaries 
+
+Company Name 
+ Incorporation Date 
+ 
+ State of Incorporation 
+ 
+ FOMO WORLDWIDE, INC. FOMO or the Company 
+ 1990 
+ 
+ California 
+ 
+ FOMO Advisors, LLC FOMOAD 
+ 2021 
+ 
+ Wyoming 
+ 
+ SMARTSolution Technologies, L.P. SST 
+ 1995 
+ 1 
+ Pennsylvania 
+ 
+ IAQ Technologies, LLC IAQ 
+ 2020 
+ 2 
+ Pennsylvania 
+ 
+ Energy Intelligence Center, LLC EIC 
+ 2021 
+ 3 
+ Wyoming 
+
+1 
+ The Company was acquired on February 28, 2022 
+ 
+ 2 
+ The Company was acquired in 2020 
+ 
+ 3 
+ The Company was formed in 2021 
+
+IAQ
+Technologies, LLC 
+
+On
+October 19, 2020, the Company acquired 100 of the membership interests of Purge Virus, LLC in exchange for the issuance of 2,000,000
+Series B Preferred Shares valued at 800,000 to its member. We subsequently changed the name of the company to IAQ Technologies LLC IAQ ).
+IAQ, which is based in Philadelphia, PA, is engaged in the marketing and sale of disinfection products and services to businesses, including
+hotels, hospitals, cruise ships, offices and government facilities, as well as to individuals. Products and services marketed by IAQ
+include: 
+
+Ultraviolet-C in-duct and portable devices, 
+
+Hybrid disinfection devices with UVC, carbon filtration
+ and HEPA filtration, 
+
+Hybrid disinfection devices with UVC and Photo Plasma, 
+
+Bio-polar ionization disinfection for virus and Volatile
+ Organic Compound disinfection; and 
+
+PPE (personal protective equipment) ranging from masks
+ to gloves with factory-direct supply side logistics. 
+
+F- 8 
+
+Operating
+results for IAQ since its acquisition has not met expectations, Accordingly, the interim chief executive is in the process of reorganizing
+IAQ. Accordingly, we determined that IAQ s value was impaired at December 31, 2021. 
+
+Independence
+LED Lighting, LLC and Energy Intelligence Center, LLC 
+
+On
+February 12, 2021, the Company purchased the assets of Independence LED Lighting, LLC iLED ), an affiliate of IAQ, in exchange
+for the issuance of 250,000 Series B Preferred Shares valued at 3.3 million, iLED is in the sale of clean air products intended for
+use in disinfecting and improving air quality. 
+
+On
+March 7, 2021, the Company purchased the assets of Energy Intelligence Center, LLC EIC PA in exchange for the issuance
+of 125,000 Series B Preferred Shares and 50,000,000 warrants valued at 1,479,121. EIC is engaged in the commercialization, marketing
+and licensing of software and hardware designed to work in conjunction with a commercial building s HVAC system to reduce energy
+consumption and optimize operating efficiency. 
+
+Following
+the acquisitions of the assets of iLED and EIC, the Company combined the assets and businesses of iLED and EIC into a newly formed wholly
+owned subsidiary, Energy Intelligence Center LLC EIC Wyoming ). 
+
+The
+Founder and Former Managing Member of IAQ, iLED and EIC stayed on following the asset acquisitions to run their businesses. However,
+in July 2021, he stepped down and assumed a consulting role and a new chief executive operating officer was hired to run the businesses
+of IAQ and EIC Wyoming. Such individual resigned from his position on March 2, 2022 and we then appointed an interim chief executive
+officer. 
+
+See
+Note 9. 
+
+SMARTSolution
+Technologies, L.P. and SMARTSolution Technologies, Inc. 
+
+On
+February 28, 2022, FOMO closed the acquisition of the general and all the limited partnership interests of SMARTSolution Technologies
+L.P. and shares of SMARTSolution Technologies, Inc. (collectively SST pursuant to a Securities Purchase Agreement dated
+February 28, 2022 (the SPA ), by and between the Company and Mitchell Schwartz Seller ), the beneficial owner
+of the general and limited partnership interests in SST. SST is a Pittsburgh, Pennsylvania based audio/visual systems integration
+company that designs and builds presentation, teleconferencing and collaborative systems for businesses, educational institutions, and
+other nonprofit organizations. 
+
+SST
+has been engaged in the EdTech business for over 25 years. SST markets its systems and installs the systems in elementary, middle and
+high schools, as well as colleges, universities and commercial facilities. A current focus of SST s business is the sale and installation
+of interactive smartboards to elementary, middle and high schools. These interactive smartboards provide students with interactive remote
+access from home or other locations to classrooms and teachers via personal computers, laptops, tablets and similar devices. SST currently
+markets its systems primarily in Western Pennsylvania, Eastern Ohio, and West Virginia, is in the process of expanding into the Alabama
+and Michigan markets and plans to expand further throughout the United States as opportunities present itself organically or through
+strategic acquisitions. 
+
+As
+a result of the growth in remote learning, as a result of the COVID-19 pandemic and otherwise, and due to 500 billion in stimulus funding ESSER funds from the federal government, SST is currently experiencing a significant increase in orders and sales and
+a growth in backlog. 
+
+The
+interactive smartboards which form the key element of SST s interactive systems are supplied by a single supplier in Canada, SMART
+Technologies LLC, which is a subsidiary of a large multi-national company , Foxconn (of Hon Hai Technology Group). SST believes that
+its relationship with its supplier is excellent, although there can be no assurance that if the relationship with the supplier was interrupted
+or otherwise adversely affected that an alternative source of supply at commercially reasonable cost would be available or that SST s
+business would not be seriously harmed. 
+
+See
+note 9. 
+
+F- 9 
+
+Note
+2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis
+of Presentation 
+
+The
+accompanying consolidated financial statements were prepared in conformity with generally accepted accounting principles in the United
+States of America U.S. GAAP ). 
+
+Consolidation 
+
+These
+consolidated financial statements have been prepared in accordance with U.S. GAAP and include the accounts of the Company and its wholly
+owned subsidiaries. All intercompany transactions and balances have been eliminated. 
+
+Reclassifications 
+
+Certain
+reclassifications have been made to the December 31, 2021 balances to make them comparable to December 31, 2022. 
+
+Use
+of Estimates 
+
+The
+preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make certain estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+Significant
+estimates include the allowance for doubtful accounts and other receivables, inventory reserves and classifications, valuation of investments,
+valuation of goodwill and intangible assets, valuation of loss contingencies, valuation of derivative liabilities, valuation of stock-based
+compensation, estimated useful lives related to intangible assets and property and equipment, uncertain tax positions, and the valuation
+allowance on deferred tax assets.. 
+
+Risks
+and Uncertainties 
+
+The
+Company operates in an industry that is subject to intense competition and change in consumer demand. The Company s operations
+are subject to significant risk and uncertainties including financial and operational risks including the potential risk of business
+failure. 
+
+The
+Company has experienced, and in the future expects to continue to experience, variability in sales and earnings. The factors expected
+to contribute to this variability include, among others, (i) the cyclical nature of the industry, (ii) general economic conditions in
+the various local markets in which the Company competes, including a potential general downturn in the economy, and (iii) the volatility
+of prices in connection with the Company s distribution of the product. These factors, among others, make it difficult to project
+the Company s operating results on a consistent basis. 
+
+Coronavirus COVID-19 Pandemic 
+
+During
+the year ended December 31, 2022, the Company s financial results and operations were not materially adversely impacted by the
+COVID-19 pandemic. The extent to which the Company s future financial results could be impacted by the COVID-19 pandemic depends
+on future developments that are highly uncertain and cannot be predicted at this time. The Company is not aware of any specific event
+or circumstance that would require an update to its estimates or judgments or a revision of the carrying value of its assets or liabilities. 
+
+These
+estimates may change, as new events occur, and additional information is obtained. Actual results could differ materially from these
+estimates under different assumptions or conditions. 
+
+F- 10 
+
+Cash 
+
+Cash
+consists of deposits in large national banks. On December 31, 2022 and December 31, 2021, respectively, the Company had 96,954 and 94,224
+in cash in the United States. The Company has not experienced any losses in such accounts and believes it is not exposed to any risks
+on its cash in bank accounts. 
+
+Fair
+Value of Financial Instruments 
+
+The
+Company accounts for financial instruments under Financial Accounting Standards Board FASB ASC 820, Fair Value Measurements .
+ASC 820 provides a framework for measuring fair value and requires disclosures regarding fair value measurements. Fair value is defined
+as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants
+at the measurement date, based on the Company s principal or, in absence of a principal, most advantageous market for the specific
+asset or liability. 
+
+The
+Company uses a three-tier fair value hierarchy to classify and disclose all assets and liabilities measured at fair value on a recurring
+basis, as well as assets and liabilities measured at fair value on a non-recurring basis, in periods subsequent to their initial measurement.
+The hierarchy requires the Company to use observable inputs when available, and to minimize the use of unobservable inputs, when determining
+fair value. 
+
+The
+three tiers are defined as follows: 
+
+Level 1 - Observable inputs
+ that reflect quoted market prices (unadjusted) for identical assets or liabilities in active markets; 
+
+Level 2 - Observable inputs
+ other than quoted prices in active markets that are observable either directly or indirectly in the marketplace for identical or
+ similar assets and liabilities; and 
+
+Level 3 - Unobservable
+ inputs that are supported by little or no market data, which require the Company to develop its own assumptions. 
+
+The
+determination of fair value and the assessment of a measurement s placement within the hierarchy requires judgment. Level 3 valuations
+often involve a higher degree of judgment and complexity. Level 3 valuations may require the use of various cost, market, or income valuation
+methodologies applied to unobservable management estimates and assumptions. Management s assumptions could vary depending on the
+asset or liability valued and the valuation method used. Such assumptions could include estimates of prices, earnings, costs, actions
+of market participants, market factors, or the weighting of various valuation methods. The Company may also engage external advisors
+to assist us in determining fair value, as appropriate. 
+
+Although
+the Company believes that the recorded fair value of our financial instruments is appropriate, these fair values may not be indicative
+of net realizable value or reflective of future fair values. 
+
+The
+Company s financial instruments, including cash, accounts receivable, inventory, accounts payable and accrued expenses, loans payable
+and notes payable are carried at historical cost. At December 31, 2022 and 2021 the carrying amounts of these instruments approximated
+their fair values because of the short-term nature of these instruments. 
+
+ASC
+825-10 Financial Instruments allows entities to voluntarily choose to measure certain financial assets and liabilities
+at fair value fair value option ). The fair value option may be elected on an instrument-by-instrument basis and is irrevocable
+unless a new election date occurs. If the fair value option is elected for an instrument, unrealized gains and losses for that instrument
+should be reported in earnings at each subsequent reporting date. The Company did not elect to apply the fair value option to any outstanding
+financial instruments. 
+
+F- 11 
+
+The
+Company evaluates its financial assets and liabilities subject to fair value measurements on a recurring basis to determine the appropriate
+level in which to classify them for each reporting period. This determination requires significant judgments to be made. 
+
+Assets
+and liabilities measured at fair value are as follows as of December 31, 2022: 
+
+ Schedule
+of Fair Value of Assets And Liabilities 
+
+Total 
+ Level 1 
+ Level 2 
+ Level 3 
+ 
+ Assets 
+
+Investments 
+ 140,006 
+ 75,006 
+ - 
+ 65,000 
+ 
+ Total assets measured at fair value 
+ 140,006 
+ 75,006 
+ - 
+ 65,000 
+
+Liabilities 
+
+Derivative liability 
+ 981,766 
+ - 
+ - 
+ 981,766 
+ 
+ Total liabilities measured at fair value 
+ 981,766 
+ - 
+ - 
+ 981,766 
+
+Assets
+and liabilities measured at fair value are as follows as of December 31, 2021: 
+
+Total 
+ Level 1 
+ Level 2 
+ Level 3 
+ 
+ Assets 
+
+Investments 
+ 765,463 
+ 740,463 
+ - 
+ 25,000 
+ 
+ Total assets measured at fair value 
+ 765,463 
+ 740,463 
+ - 
+ 25,000 
+
+Liabilities 
+
+Derivative liability 
+ 1,105,537 
+ - 
+ - 
+ 1,105,537 
+ 
+ Total liabilities measured at fair value 
+ 1,105,537 
+ - 
+ - 
+ 1,105,537 
+
+Level
+1 Investments consist of common stock, options and warrants of publicly traded companies which are considered to be highly liquid and
+easily tradeable. The Company also holds Level 3 investments in the common stock of a private company. 
+
+Derivative
+liabilities are derived from certain convertible notes payable and warrants. 
+
+Cash
+and Cash Equivalents and Concentration of Credit Risk 
+
+For
+purposes of the consolidated statements of cash flows, the Company considers all highly liquid instruments with a maturity of three months
+or less at the purchase date and money market accounts to be cash equivalents. At December 31, 2022 and 2021, the Company did not have
+any cash equivalents. 
+
+The
+Company is exposed to credit risk on its cash and cash equivalents in the event of default by the financial institutions to the extent
+account balances exceed the amount insured by the FDIC, which is 250,000. At December 31, 2022 and 2021, the Company did not experience
+any losses on cash balances in excess of FDIC insured limits. 
+
+Accounts
+Receivable 
+
+The
+Company has a policy of reserving for uncollectible accounts based on the best estimate of the amount of probable credit losses in our
+existing accounts receivable. We extend credit to customers based on an evaluation of their financial condition and other factors. The
+Company generally does not require collateral or other security to support accounts receivable and perform ongoing credit evaluations
+of customers and maintain an allowance for potential bad debts if required. 
+
+F- 12 
+
+It
+is determined whether an allowance for doubtful accounts is required by evaluating specific accounts where information indicates the
+customers may have an inability to meet financial obligations. In these cases, we use assumptions and judgment, based on the best available
+facts and circumstances, to record a specific allowance for those customers against amounts due to reduce the receivable to the amount
+expected to be collected. These specific allowances are re-evaluated and adjusted as additional information is received. The amounts
+calculated are analyzed to determine the total amount of the allowance. The Company may also record a general allowance, as necessary. 
+
+Direct
+write-offs are taken in the period when we have exhausted our efforts to collect overdue and unpaid receivables or otherwise evaluate
+other circumstances that indicate the collectability of receivables. 
+
+Allowance
+for doubtful accounts at December 31, 2022 and 2021, were 0, respectively. 
+
+Bad
+debt expense (recovery) is recorded as a component of general and administrative expenses in the accompanying consolidated statements
+of operations. 
+
+The
+Company had the following concentrations at December 31, 2022 and 2021. All concentrations relate solely to the operations of SST. 
+
+ Schedule
+of Concentration of Risk Percentage 
+
+Year Ended 
+ Year Ended 
+ 
+ Customer 
+ December 31, 2022 
+ December 31, 2021 
+ 
+ A 
+ 22 
+ 0 
+ 
+ B 
+ 16 
+ 0 
+ 
+ C 
+ 0 
+ 0 
+ 
+ Total 
+ 38 
+ 0 
+
+Inventory 
+
+Inventory
+consists of finished products purchased from third-party suppliers. The Company s inventory primarily consists of Smart Boards
+which are sold by SST. 
+
+Inventory
+is stated at the lower of cost or net realizable value. Cost is determined using the specific identification method for finished goods.
+Management compares the cost of inventory with the net realizable value and, if applicable, an allowance is made for writing down the
+inventory to its net realizable value, if lower than cost, inventory is reviewed for potential write-down for estimated obsolescence
+or unmarketable inventory based upon forecasts for future demand and market conditions. Generally, the Company only keeps inventory on
+hand for sales made and in which a deposit has been received. 
+
+At
+December 31, 2022 and 2021 inventory consisted of: 
+
+ Schedule
+of Inventory 
+
+Classification 
+ December 31, 2022 
+ December 31, 2021 
+ 
+ Smart Boards 
+ 382,355 
+ - 
+ 
+ Clean Air Technology 
+ 102 
+ 8,114 
+ 
+ Total Inventory 
+ 382,457 
+ 8,114 
+
+There
+was no impairment expense during the years ended December 31, 2022 and 2021. 
+
+The
+Company had the following vendor purchase concentrations at December 31, 2022 and 2021, respectively. All concentrations relate solely
+to the operations of SST. 
+
+ Schedule
+of Vendor Purchase Concentrations Percentage 
+
+F- 13 
+
+Year Ended December 31, 
+ 
+ Vendor 
+ 2022 
+ 2021 
+ 
+ A 
+ 89 
+ 0 
+ 
+ Total 
+ 89 
+ 0 
+
+Impairment
+of Long-lived Assets 
+
+Management
+evaluates the recoverability of the Company s identifiable intangible assets and other long-lived assets when events or circumstances
+indicate a potential impairment exists, in accordance with the provisions of ASC 360-10-35-15 Impairment or Disposal of Long-Lived
+Assets. Events and circumstances considered by the Company in determining whether the carrying value of identifiable intangible
+assets and other long-lived assets may not be recoverable include but are not limited to significant changes in performance relative
+to expected operating results; significant changes in the use of the assets; significant negative industry or economic trends; and changes
+in the Company s business strategy. In determining if impairment exists, the Company estimates the undiscounted cash flows to be
+generated from the use and ultimate disposition of these assets. 
+
+If
+impairment is indicated based on a comparison of the assets carrying values and the undiscounted cash flows, the impairment to
+be recognized is measured as the amount by which the carrying amount of the assets exceeds the fair value of the assets. 
+
+Goodwill
+and Other Acquired Intangible Assets 
+
+The
+Company initially records goodwill and other intangible assets at their estimated fair values and reviews these assets periodically for
+impairment. Goodwill represents the excess of the purchase price over the fair value of identifiable tangible and intangible assets acquired
+and liabilities assumed in a business combination and is tested annually for impairment, historically during our fourth quarter. 
+
+Property
+and Equipment 
+
+Property
+and equipment are stated at cost less accumulated depreciation. Depreciation is provided on the straight-line basis over the estimated
+useful lives of the assets, which range from one to seven years. 
+
+Expenditures
+for repair and maintenance which do not materially extend the useful lives of property and equipment are charged to operations. When
+property or equipment is sold or otherwise disposed of, the cost and related accumulated depreciation are removed from the respective
+accounts with the resulting gain or loss reflected in operations. 
+
+Management
+reviews the carrying value of its property and equipment whenever events or changes in circumstances indicate that the carrying amount
+of the asset may not be recoverable. 
+
+There
+was no impairment expense during the years ended December 31, 2022 and 2021. 
+
+Derivative
+Liabilities 
+
+The
+Company assessed the classification of its derivative financial instruments as of December 31, 2022 and 2021, which consist of convertible
+notes payable and certain warrants (excluding those for compensation) and has determined that such instruments qualify for treatment
+as derivative liabilities as they meet the criteria for liability classification under ASC 815. 
+
+Earnings
+Per Share (EPS) 
+
+F- 14 
+
+The
+Company analyzes all financial instruments with features of both liabilities and equity under FASB ASC Topic No. 480, ASC 480 ),
+ Distinguishing Liabilities from Equity and FASB ASC Topic No. 815, ASC 815 Derivatives
+and Hedging . Derivative liabilities are adjusted to reflect fair value at each reporting period, with any increase or decrease
+in the fair value recorded in the results of operations (other income/expense) as change in fair value of derivative liabilities. The
+Company uses a binomial pricing model to determine fair value of these instruments. 
+
+Upon
+conversion or repayment of a debt instrument in exchange for shares of common stock, where the embedded conversion option has been bifurcated
+and accounted for as a derivative liability (generally convertible debt and warrants), the Company records the shares of common stock
+at fair value, relieves all related debt, derivatives, and debt discounts, and recognizes a net gain or loss on debt extinguishment.
+In connection with the debt extinguishment, the Company typically records an increase to additional paid-in capital for any remaining
+liability balance. 
+
+Equity
+instruments that are initially classified as equity that become subject to reclassification under ASC Topic 815 are reclassified to liabilities
+at the fair value of the instrument on the reclassification date. 
+
+Original
+Issue Discount 
+
+For
+certain notes issued, the Company may provide the debt holder with an original issue discount. The original issue discount is recorded
+as a debt discount, reducing the face amount of the note, and is amortized to interest expense over the life of the debt, in the Consolidated
+Statements of Operations. 
+
+Debt
+Issue Cost 
+
+Debt
+issuance cost paid to lenders, or third parties are recorded as debt discounts and amortized to interest expense over the life of the
+underlying debt instrument, in the Consolidated Statements of Operations. 
+
+Operating
+Lease 
+
+From
+time to time, we may enter into operating lease or sub-lease agreements, including our corporate headquarters. We account for leases
+in accordance with ASC Topic 842: Leases, which requires a lessee to utilize the right-of-use model and to record a right-of-use
+asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases are classified as either financing
+or operating, with classification affecting the pattern of expense recognition in the statement of operations. In addition, a lessor
+is required to classify leases as either sales-type, financing or operating. A lease will be treated as a sale if it transfers all of
+the risks and rewards, as well as control of the underlying asset, to the lessee. If risks and rewards are conveyed without the transfer
+of control, the lease is treated as financing. If the lessor does not convey risk and rewards or control, the lease is treated as operating.
+We determine if an arrangement is a lease, or contains a lease, at inception and record the lease in our financial statements upon lease
+commencement, which is the date when the underlying asset is made available for use by the lessor. 
+
+Right-of-use
+assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease
+payments over the lease term. Lease right-of-use assets and liabilities at commencement are initially measured at the present value of
+lease payments over the lease term. We generally use our incremental borrowing rate based on the information available at commencement
+to determine the present value of lease payments except when an implicit interest rate is readily determinable. We determine our incremental
+borrowing rate based on market sources including relevant industry data. 
+
+We
+may have lease agreements with lease and non-lease components and have elected to utilize the practical expedient to account for lease
+and non-lease components together as a single combined lease component, from both a lessee and lessor perspective with the exception
+of direct sales-type leases and production equipment classes embedded in supply agreements. From a lessor perspective, the timing and
+pattern of transfer are the same for the non-lease components and associated lease component and, the lease component, if accounted for
+separately, would be classified as an operating lease. 
+
+F- 15 
+
+We
+have elected not to present short-term leases on the balance sheet as these leases have a lease term of 12 months or less at lease inception
+and do not contain purchase options or renewal terms that we are reasonably certain to exercise. All other lease assets and lease liabilities
+are recognized based on the present value of lease payments over the lease term at commencement date. Because most of our leases do not
+provide an implicit rate of return, we used our incremental borrowing rate based on the information available at lease commencement date
+in determining the present value of lease payments. 
+
+Our
+leases, where we are the lessee, do not include an option to extend the lease term. Our lease does not include an option to terminate
+the lease prior to the end of the agreed upon lease term. For purposes of calculating lease liabilities, lease term would include options
+to extend or terminate the lease when it is reasonably certain that we will exercise such options. 
+
+Lease
+expense for operating leases is recognized on a straight-line basis over the lease term as an operating expense, included as a component
+of general and administrative expenses, in the accompanying consolidated statements of operations. 
+
+Certain
+operating leases provide for annual increases to lease payments based on an index or rate, our lease has no stated increase, payments
+were fixed at lease inception. We calculate the present value of future lease payments based on the index or rate at the lease commencement
+date. Differences between the calculated lease payment and actual payment are expensed as incurred. 
+
+See
+Note 10. 
+
+Revenue
+Recognition 
+
+The
+Company recognizes revenue in accordance with ASC 606, Revenue from Contracts with Customers, the core principle of which is that the
+Company should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration
+to which the Company expects to be entitled to receive in exchange for those goods or services. To determine revenue recognition for
+arrangements that the Company determines are within the scope of ASC 606, the Company performs the following five steps: 
+
+Identification of the contract,
+ or contracts, with a customer 
+
+Identification of the performance
+ obligations in the contract 
+
+Determination of the transaction
+ price 
+
+Allocation of the transaction
+ price to the performance obligations in the contract 
+
+Recognition of the revenue
+ when, or as, performance obligations are satisfied 
+
+Identify
+the contract with a customer. 
+
+A
+contract with a customer exists when (i) the Company enters into an enforceable contract with a customer that defines each party s
+rights regarding the services to be transferred and identifies the payment terms related to these services, (ii) the contract has commercial
+substance and, (iii) the Company determines that collection of substantially all consideration for services that are transferred is probable
+based on the customer s intent and ability to pay the promised consideration. The Company applies judgment in determining the customer s
+ability and intention to pay, which is based on a variety of factors including the customer s historical payment experience or,
+in the case of a new customer, published credit and financial information pertaining to the customer. 
+
+F- 16 
+
+Identify
+the performance obligations in the contract. 
+
+Performance
+obligations promised in a contract are identified based on the services that will be transferred to the customer that are both capable
+of being distinct, whereby the customer can benefit from the service either on its own or together with other resources that are readily
+available from third parties or from the Company, and are distinct in the context of the contract, whereby the transfer of the services
+is separately identifiable from other promises in the contract. To the extent a contract includes multiple promised services, the Company
+must apply judgment to determine whether promised services are capable of being distinct and distinct in the context of the contract.
+If these criteria are not met the promised services are accounted for as a combined performance obligation. 
+
+Determine
+the transaction price. 
+
+The
+transaction price is determined based on the consideration to which the Company will be entitled in exchange for transferring services
+to the customer. To the extent the transaction price includes variable consideration, the Company estimates the amount of variable consideration
+that should be included in the transaction price utilizing either the expected value method or the most likely amount method depending
+on the nature of the variable consideration. Variable consideration is included in the transaction price if, in the Company s judgment,
+it is probable that a significant future reversal of cumulative revenue under the contract will not occur. None of the Company s
+contracts as of December 31, 2022 and 2021, contained a significant financing component. 
+
+Allocate
+the transaction price to performance obligations in the contract. 
+
+If
+the contract contains a single performance obligation, the entire transaction price is allocated to the single performance obligation.
+However, if a series of distinct services that are substantially the same qualifies as a single performance obligation in a contract
+with variable consideration, the Company must determine if the variable consideration is attributable to the entire contract or to a
+specific part of the contract. For example, a bonus or penalty may be associated with one or more, but not all, distinct services promised
+in a series of distinct services that forms part of a single performance obligation. Contracts that contain multiple performance obligations
+require an allocation of the transaction price to each performance obligation based on a relative standalone selling price basis unless
+the transaction price is variable and meets the criteria to be allocated entirely to a performance obligation or to a distinct service
+that forms part of a single performance obligation. The Company determines standalone selling price based on the price at which the performance
+obligation is sold separately. If the standalone selling price is not observable through past transactions, the Company estimates the
+standalone selling price taking into account available information such as market conditions and internally approved pricing guidelines
+related to the performance obligations. 
+
+Recognize
+revenue when or as the Company satisfies a performance obligation. 
+
+The
+Company satisfies performance obligations either over time or at a point in time. Revenue is recognized at the time the related performance
+obligation is satisfied by transferring a promised service to a customer. 
+
+When
+determining revenues, no significant judgements or assumptions are required. For all transactions, the sales price is fixed and determinable
+(no variable consideration). All consideration from contracts is included in the transaction price. The Company s contracts all
+contain single performance obligations. 
+
+For
+our contracts with customers, payment terms generally range from advance payments prior to product delivery and/or installation to certain
+cases where payment is due within 30 days from job completion. The timing of satisfying our performance obligations does not vary significantly
+from the typical timing of payment. 
+
+For
+each revenue stream we do not offer any returns, refunds or warranties, and no arrangements are cancelable. However, the Company acts
+as a reseller of warranties for its Smart Boards, which are serviced by the manufacturer, and in some cases requires SST to perform warranty
+related services. 
+
+Sales
+taxes and other similar taxes are excluded from revenue. 
+
+F- 17 
+
+Smart
+Boards and Installation Services 
+
+Smart
+Boards are sold to customers and may require an upfront deposit. The Company also installs its Smart Boards in connection with the sale.
+All revenue is recognized at a point in time upon completion of any installation, which typically occurs within thirty (30) days of
+delivering the product. 
+
+Installation
+Services 
+
+Certain
+customers contract with the Company to perform installation only services where they have acquired products from a different company/seller.
+All revenue is recognized at a point in time upon completion of any installation. 
+
+Clean
+Air Technology 
+
+All
+sales are recognized upon delivery of products to the customer. 
+
+Contract
+Liabilities (Deferred Revenue) 
+
+Contract
+liabilities represent deposits made by customers before the satisfaction of a performance obligation and recognition of revenue. Upon
+completion of the performance obligation that the Company has with the customer based on the terms of the contract, the liability for
+the customer deposit is relieved and revenue is recognized. 
+
+At
+December 31, 2022 and 2021, the Company had deferred revenue of 578,354
+ and 11,100,
+respectively. 
+
+The
+following represents the Company s disaggregation of revenues for the years ended December 31, 2022 and 2021: 
+
+ Schedule
+of Disaggregation of Revenue 
+
+Years Ended December 31, 
+
+2022 
+ 2021 
+ 
+ Revenue 
+ Revenue 
+ of Revenues 
+ Revenue 
+ of Revenues 
+ 
+ Smart boards and installation 
+ 7,014,591 
+ 93 
+ - 
+ 0 
+ 
+ Installation and repair services 
+ 471,942 
+ 6 
+ - 
+ 0 
+ 
+ Clean air technology products 
+ 29,008 
+ 1 
+ 657,136 
+ 100 
+ 
+ Total Revenues 
+ 7,515,541 
+ 100 
+ 657,136 
+ 100 
+
+The
+Company had the following sales concentrations at December 31, 2022 and 2021, respectively. All concentrations relate solely to the operations
+of SST. 
+
+ Schedule
+of Sales Concentrations Percentage 
+
+Years Ended December 31, 
+ 
+ Customer 
+ 2022 
+ 2021 
+ 
+ A 
+ 30 
+ 0 
+ 
+ B 
+ 17 
+ 0 
+ 
+ C 
+ 13 
+ 0 
+ 
+ Total 
+ 60 
+ 0 
+
+Cost
+of Sales 
+
+Cost
+of sales primarily consists of product sales, purchased supplies, materials and overhead. 
+
+F- 18 
+
+Income
+Taxes 
+
+The
+Company accounts for income tax using the asset and liability method prescribed by ASC 740, Income Taxes . Under
+this method, deferred tax assets and liabilities are determined based on the difference between the financial reporting and tax bases
+of assets and liabilities using enacted tax rates that will be in effect in the year in which the differences are expected to reverse.
+The Company records a valuation allowance to offset deferred tax assets if based on the weight of available evidence, it is more-likely-than-not
+that some portion, or all, of the deferred tax assets will not be realized. The effect on deferred taxes of a change in tax rates is
+recognized as income or loss in the period that includes the enactment date. 
+
+The
+Company follows the accounting guidance for uncertainty in income taxes using the provisions of ASC 740 Income Taxes . Using
+that guidance, tax positions initially need to be recognized in the financial statements when it is more likely than not the position
+will be sustained upon examination by the tax authorities. As of December 31, 2022 and 2021, respectively, the Company had no uncertain
+tax positions that qualify for either recognition or disclosure in the financial statements. 
+
+The
+Company recognizes interest and penalties related to uncertain income tax positions in other expense. No interest and penalties related
+to uncertain income tax positions were recorded for the years ended December 31, 2022 and 2021. 
+
+Advertising
+Costs 
+
+Advertising
+costs are expensed as incurred. Advertising costs are included as a component of general and administrative expense in the consolidated
+statements of operations. 
+
+The
+Company recognized 34,937 and 0 in marketing and advertising costs during the years ended December 31, 2022 and 2021. 
+
+Stock-Based
+Compensation 
+
+The
+Company accounts for our stock-based compensation under ASC 718 Compensation Stock Compensation using the
+fair value-based method. Under this method, compensation cost is measured at the grant date based on the value of the award and is recognized
+over the service period, which is usually the vesting period. This guidance establishes standards for the accounting for transactions
+in which the Company exchanges it equity instruments for goods or services. It also addresses transactions in which the Company incurs
+liabilities in exchange for goods or services that are based on the fair value of the Company s equity instruments or that may
+be settled by the issuance of those equity instruments. 
+
+The
+Company uses the fair value method for equity instruments granted to non-employees and use the Black-Scholes model for measuring the
+fair value of options. 
+
+The
+fair value of stock-based compensation is determined as of the date of the grant or the date at which the performance of the services
+is completed (measurement date) and is recognized over the vesting periods. 
+
+When
+determining fair value, the Company considers the following assumptions in the Black-Scholes model: 
+
+Exercise price, 
+
+Expected dividends, 
+
+Expected volatility, 
+
+Risk-free interest rate; and 
+
+Expected life of option 
+
+F- 19 
+
+Stock
+Warrants 
+
+In
+connection with certain financing (debt or equity), consulting and collaboration arrangements, the Company may issue warrants to purchase
+shares of its common stock. The outstanding warrants are standalone instruments that are not puttable or mandatorily redeemable by the
+holder and are classified as equity awards. The Company measures the fair value of warrants issued for compensation using the Black-Scholes
+option pricing model as of the measurement date. However, for warrants issued that meet the definition of a derivative liability, fair
+value is determined based upon the use of a binomial pricing model. 
+
+Warrants
+issued in conjunction with the issuance of common stock are initially recorded at fair value as a reduction in additional paid-in capital
+of the common stock issued. All other warrants are recorded at fair value and expensed over the requisite service period or at the date
+of issuance if there is not a service period. 
+
+Basic
+and Diluted Earnings (Loss) per Share 
+
+Pursuant
+to ASC 260-10-45, basic earnings (loss) per common share is computed by dividing net income (loss) by the weighted average number of
+shares of common stock outstanding for the periods presented. Diluted earnings per share is computed by dividing net income by the weighted
+average number of shares of common stock, common stock equivalents and potentially dilutive securities outstanding during the period.
+Potentially dilutive common shares may consist of common stock issuable for stock options and warrants (using the treasury stock method),
+convertible notes and common stock issuable. These common stock equivalents may be dilutive in the future. In the event of a net loss,
+diluted loss per share is the same as basic loss per share since the effect of the potential common stock equivalents upon conversion
+would be anti-dilutive. 
+
+The
+following potentially dilutive equity securities outstanding as of December 31, 2022 were as follows: 
+
+ Schedule
+of Anti Dilutive Equity Securities Outstanding 
+
+December 31, 2022 
+ 
+ Series A, preferred stock (1) 
+ 287,500,000 
+ 
+ Series B, preferred stock (2) 
+ 5,289,982,000 
+ 
+ Series C, preferred stock (3) 
+ 1,000,000 
+ 
+ Convertible notes and related accrued interest (4) 
+ 2,955,850,444 
+ 
+ Warrants (5) 
+ 1,293,541,667 
+ 
+ Total 
+ 9,827,874,111 
+
+1 
+ Each share converts into 50 shares of common stock. 
+
+2 
+ Each share converts into 1,000 shares of common stock. 
+
+3 
+ Each share converts into 1 share of common stock. 
+
+4 - 
+ Certain notes have exercise
+ prices that have a discount to market and cause variability into the potential amount of common stock equivalents outstanding at
+ each reporting period. As a result, the amount computed for common stock equivalents could change given the quoted closing trading
+ price at each reporting period. 
+
+5 - 
+ Represents those that are vested and exercisable. 
+
+Based
+on the potential common stock equivalents noted above at December 31, 2022, and the potential variability in stock prices, which directly
+affect the Company s ability to determine if it has sufficient shares to settle all possible debt or equity conversions, the Company
+has determined that it does not have sufficient authorized shares of common stock (20,000,000,000) to settle any potential exercises
+of common stock equivalents. 
+
+F- 20 
+
+Related
+Parties 
+
+Parties
+are considered to be related to the Company if the parties, directly or indirectly, through one or more intermediaries, control, are
+controlled by, or are under common control with the Company. Related parties also include principal owners of the Company, its management,
+members of the immediate families of principal owners of the Company and its management and other parties with which the Company may
+deal with if one party controls or can significantly influence the management or operating policies of the other to an extent that one
+of the transacting parties might be prevented from fully pursuing its own separate interests. 
+
+Recently
+Issued Accounting Pronouncements 
+
+Changes
+to accounting principles are established by the FASB in the form of ASU s to the FASB s Codification. We consider the applicability
+and impact of all ASU s on our consolidated financial position, results of operations, stockholders deficit, cash flows,
+or presentation thereof. Management has evaluated all recent accounting pronouncements as issued by the FASB in the form of Accounting
+Standards Updates ASU through the date these financial statements were available to be issued and found no recent accounting
+pronouncements issued, but not yet effective accounting pronouncements, when adopted, will have a material impact on the consolidated
+financial statements of the Company. 
+
+In
+August 2020, FASB issued ASU 2020-06, Accounting for Convertible Instruments and Contracts in an Entity; Own Equity ASU 2020-06 ),
+as part of its overall simplification initiative to reduce costs and complexity of applying accounting standards while maintaining or
+improving the usefulness of the information provided to users of financial statements. Among other changes, the new guidance removes
+from GAAP separation models for convertible debt that require the convertible debt to be separated into a debt and equity component,
+unless the conversion feature is required to be bifurcated and accounted for as a derivative or the debt is issued at a substantial premium.
+As a result, after adopting the guidance, entities will no longer separately present such embedded conversion features in equity and
+will instead account for the convertible debt wholly as debt. The new guidance also requires use of the if-converted method
+when calculating the dilutive impact of convertible debt on earnings per share, which is consistent with the Company s current
+accounting treatment under the current guidance. The guidance is effective for financial statements issued for fiscal years beginning
+after December 15, 2021, and interim periods within those fiscal years, with early adoption permitted, but only at the beginning of the
+fiscal year. 
+
+We
+adopted this pronouncement on January 1, 2022; however, the adoption of this standard did not have a material effect on the Company s
+consolidated financial statements. 
+
+In
+May 2021, the Financial Accounting Standards Board (the FASB issued Accounting Standards Update ASU 2021-04, Earnings Per Share (Topic 260), Debt Modifications and Extinguishments (Subtopic 470-50), Compensation Stock
+Compensation (Topic 718), and Derivatives and Hedging Contracts in Entity s Own Equity (Subtopic 815-40): Issuer s
+Accounting for Certain Modifications or Exchanges of Freestanding Equity-Classified Written Call Options. This new standard provides
+clarification and reduces diversity in an issuer s accounting for modifications or exchanges of freestanding equity-classified
+written call options (such as warrants) that remain equity classified after modification or exchange. This standard is effective for
+fiscal years beginning after December 15, 2021, including interim periods within those fiscal years. Issuers should apply the new
+standard prospectively to modifications or exchanges occurring after the effective date of the new standard. Early adoption is
+permitted, including adoption in an interim period. If an issuer elects to early adopt the new standard in an interim period, the
+guidance should be applied as of the beginning of the fiscal year that includes that interim period. The adoption of this standard
+by the Company did not have a material effect on the Company s consolidated financial
+statements. 
+
+F- 21 
+
+In
+October 2021, the FASB issued ASU 2021-08, Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities
+from Contracts with Customers, which requires an acquirer in a business combination to recognize and measure contract assets and contract
+liabilities in accordance with Accounting Standards Codification Topic 606. ASU 2021-08 is effective for fiscal years beginning after
+December 15, 2022 and early adoption is permitted. While the Company is continuing to assess the timing of adoption and the potential
+impacts of ASU 2021-08, it does not expect ASU 2021-08 will have a material effect, if any, on its consolidated financial statements. 
+
+Note
+3 LIQUIDITY, GOING CONCERN AND MANAGEMENT S PLANS 
+
+These
+consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement
+of liabilities and commitments in the normal course of business. 
+
+As
+reflected in the accompanying consolidated financial statements, for the year ended December 31, 2022, the Company had: 
+
+Net
+ loss of 3,681,490; and 
+
+Net
+ cash used in operations was 1,249,499 
+
+Additionally,
+at December 31, 2022, the Company had: 
+
+Accumulated
+ deficit of 24,098,281 
+
+Stockholders 
+ deficit of 2,570,643; and 
+
+Working
+ capital deficit of 3,425,835 
+
+We
+manage liquidity risk by reviewing, on an ongoing basis, our sources of liquidity and capital requirements. The Company has cash on hand
+of 96,954 at December 31, 2022. Although the Company intends to raise additional debt or equity capital, the Company expects to continue
+to incur significant losses from operations and have negative cash flows from operating activities for the near-term. These losses could
+be significant as product and service sales ramp up along with continuing expenses related to compensation, professional fees, development
+and regulatory are incurred. 
+
+The
+Company has incurred significant losses since its inception and has not demonstrated an ability to generate sufficient revenues from
+the sales of its products and services to achieve profitable operations. There can be no assurance that profitable operations will ever
+be achieved, or if achieved, could be sustained on a continuing basis. In making this assessment we performed a comprehensive analysis
+of our current circumstances including: our financial position, our cash flows and cash usage forecasts for the twelve months ended December
+31, 2023, and our current capital structure including equity-based instruments and our obligations and debts. 
+
+If
+the Company does not obtain additional capital, the Company will be required to reduce the scope of its business development activities
+or cease operations. The Company continues to explore obtaining additional capital financing and the Company is closely monitoring its
+cash balances, cash needs, and expense levels. 
+
+These
+factors create substantial doubt about the Company s ability to continue as a going concern within the twelve-month period subsequent
+to the date that these consolidated financial statements are issued. The consolidated financial statements do not include any adjustments
+that might be necessary if the Company is unable to continue as a going concern. Accordingly, the consolidated financial statements have
+been prepared on a basis that assumes the Company will continue as a going concern and which contemplates the realization of assets and
+satisfaction of liabilities and commitments in the ordinary course of business. 
+
+F- 22 
+
+Management s
+strategic plans include the following: 
+
+Pursuing
+ additional capital raising opportunities (debt or equity), 
+
+Continue
+ to execute on our strategic planning while increasing operational efficiency, 
+
+Continuing
+ to explore and execute prospective partnering or distribution opportunities and 
+
+Identifying
+ unique market opportunities that represent potential positive short-term cash flow. 
+
+Note
+4 LOAN RECEIVABLE, RELATED PARTY 
+
+During
+2021, the Company has advanced funds to an affiliate of the Company s Chief Executive Officer, Himalaya Technologies, Inc. aka Homeland Resources Ltd. (OTC: HMLA) to pay for corporate operating expenses.
+The Company expects to receive repayment in 2023. 
+
+Effective
+September 1, 2022, the Company increased our available loan to Himalaya of 50,000 to 100,000.00 to fund its operations.
+On or around that date we waived all defaults on the loan and extended the maturity of the loan to December 31, 2023. 
+
+The
+following is a summary of the Company s advances related party is as follows: 
+
+ Summary
+of Loans Receivables Advances Related Party 
+
+Loan Receivable 
+ 
+ Terms 
+ Related Party 
+
+Issuance dates of advances 
+ 2021 
+ 
+ Maturity date 
+ Due on Demand 
+ 
+ Interest rate 
+ 20 
+ 
+ Collateral 
+ Unsecured 
+
+Balance - December 31, 2020 
+ - 
+ 
+ Advances 
+ 53,732 
+ 
+ Balance - December 31, 2021 
+ 53,732 
+ 
+ Beginning Balance 
+ 53,732 
+
+Advances 
+ 25,149 
+ 
+ Repayments 
+ (33,620 
+ 
+ Balance December 31, 2022 
+ 45,261 
+ 
+ Ending balance 
+ 45,261 
+
+Note
+5 PROPERTY AND EQUIPMENT 
+
+Property
+and equipment consisted of the following: 
+
+ Schedule
+of Property and Equipment 
+
+December
+ 31, 
+ December
+ 31, 
+ Estimated
+ Useful 
+
+2022 
+ 2021 
+ Lives (Years) 
+
+Leasehold Improvements 
+ 178,278 
+ - 
+ 40 
+ 
+ Vehicles 
+ 53,777 
+ - 
+ 5 10 
+ 
+ Furniture 
+ 19,595 
+ - 
+ 10 
+ 
+ Equipment 
+ 9,408 
+ - 
+ 5 
+ 
+ Computer 
+ - 
+ - 
+ 5 
+ 
+ Property and Equipment gross 
+ 261,058 
+ - 
+
+Accumulated depreciation 
+ 180,214 
+ - 
+
+Total property and equipment - net 
+ 80,844 
+ - 
+
+F- 23 
+
+Depreciation
+expense for the years ended December 31, 2022 and 2021, was 6,117 and 0, respectively. 
+
+These
+amounts are included as a component of general and administrative expenses in the accompanying consolidated statements of operations. 
+
+In
+connection with the acquisition of SST on February 28, 2022, the Company acquired property and equipment with a net carrying amount of
+ 82,553. 
+
+See
+Note 9. 
+
+Note
+6 INVESTMENTS 
+
+The
+Company s marketable securities consist of investments in equity securities. Dividends and interest income are accrued as earned.
+Realized gains and losses are determined on a specific identification basis. The Company reviews marketable securities for impairment
+whenever circumstances and situations change such that there is an indication that the carrying amounts may not be recovered. The changes
+in the fair value of these securities are recognized in current period earnings in accordance with ASC 825. 
+
+During
+the year ended December 31, 2019, the Company issued 400,000 shares of preferred class B stock in exchange for 210,000,000 shares of
+Peer-to-Peer Inc (PTOP). The shares were valued at the market price of 0.0023 per share, or 483,000, at the acquisition date. The shares
+are valued at the market prices at December 31, 2022 and 2021 of 0.00030 and 0.00070 and per share, respectively, for a total investment
+of 63,000 and 147,000, respectively. 
+
+During
+the year ended December 31, 2019, the Company received 1,000,000 shares of KANAB CORP. for consulting services provided by the Company s
+CEO, Vikram Grover. The shares were valued at 0.0122 per share or 12,220 at the acquisition date. On July 31, 2021, the Company transferred
+the shares to Himalaya Technologies Inc (HMLA) for 150,000 shares of the preferred B stock in HMLA. The Company valued the investment
+of HMLA and the carrying value of KANAB CORP at the time the shares were exchanged. The fair value at December 31, 2021 for HMLA is 12,000.
+HMLA is a related party as it has common officers and control. On June 28, 2021, FOMO Advisors LLC was also granted 50,000,000 warrants
+with a five-year expiration and .0001 exercise price of Himalaya Technologies Inc (HMLA). The warrants were valued at zero due to their
+illiquid nature. 
+
+On
+October 4, 2021, the Company invested 25,000
+for a 25,000
+convertible note and 25,000
+common shares in GenBio, Inc. The Company valued the shares at 1/share,
+the Company s cash investment. On January 24, 2022, March 3, 2022, April 6, 2022 and April 7, 2022, the Company invested an
+additional 15,000
+for 15,000
+shares, 10,000
+for 10,000
+shares, 7,500
+for 7,500
+shares and 7,500
+for 7,500
+shares of GenBio, Inc., respectively. GenBio, Inc is a private Biotechnology Company that researches natural products that act on
+new molecular pathways, primarily to suppress inflammation at critical points in these biochemical pathways. The Company s
+preliminary research has shown that these patent pending active compounds may decrease obesity-induced increases in abdominal fat
+pads, blood pressure, fatty liver, and insulin resistance. 
+
+In
+2021, the Company s Chief Executive Officer assigned his investment brokerage account with Interactive Brokers to the Company.
+The investments in the account are marketable equity securities. 
+
+F- 24 
+
+The
+following is a summary of the Company s investments at December 31, 2022 and 2021: 
+
+ SCHEDULE
+OF INVESTMENTS 
+
+December
+ 31, 2022 
+
+Securities
+ Held 
+ Acquisition Date 
+ Shares
+ Held 
+ Price
+ per Share 
+ Value
+ of Securities 
+
+Securities 
+ Stock, options and warrants 
+ Various 
+ Various 
+ Various 
+ 6 
+ 1 
+ 
+ Himalaya Technologies, Inc. (HMLA) 
+ Series B, preferred stock and warrants 
+ 2021 
+ 150,000 
+ 0.08 
+ 12,000 
+ 2 
+ 
+ Mobicard, Inc. (PTOP) 
+ Common stock 
+ 2019 
+ 210,000,000 
+ 0.0003 
+ 63,000 
+ 3 
+ 
+ GenBio, Inc. 
+ Private company 
+ 2021 and 2022 
+ 50,000 
+ 1.00 
+ 65,000 
+ 4 
+
+140,006 
+
+1
+ - 
+ all
+ investments are held at our third-party independent broker. 
+ 
+ 2
+ - 
+ during
+ 2021, the Company exchanged 1,000,000 shares of Kanab Corp for 150,000 shares of Series B, preferred stock in HMLA. During 2021,
+ a subsidiary of the Company also received 50,000,000 warrants with a five-year expiration and .0001 exercise price of HMLA. Our
+ CEO is also the CEO of HMLA. 
+
+The
+ Series B shares are not publicly traded and are based upon the cost method. The valuation of these shares was determined at the time
+ of exchange. They are convertible into HMLA common shares on a 1-1000 basis. At December 31, 2022, the value of common shares of
+ HMLA if converted would be 450,000. 
+ 
+ 3
+ - 
+ based
+ upon the quoted closing trading price. 
+ 
+ 4
+ - 
+ based
+ on cost method. 
+
+During
+2022, the Company purchased 40,000 shares of GenBio, Inc. for 40,000 1/share) 
+
+December
+ 31, 2022 
+
+Gross Unrealized 
+ Gross Unrealized 
+
+Description 
+ Cost 
+ Gains 
+ Losses 
+ Fair
+ Value 
+ 
+ Marketable securities 
+ 865,579 
+ - 
+ (865,573 
+ 6 
+
+December
+ 31, 2021 
+
+Securities
+ Held 
+ Acquisition Date 
+ Shares
+ Held 
+ Price
+ per Share 
+ Value
+ of Securities 
+
+Securities 
+ Stock, options, and warrants 
+ Various 
+ Various 
+ Various 
+ 581,243 
+ 1 
+ 
+ Himalaya Technologies, Inc. (HMLA) 
+ Series B, preferred stock and warrants 
+ 2021 
+ 150,000 
+ 0.08 
+ 12,220 
+ 2 
+ 
+ Mobicard, Inc. (PTOP) 
+ Common stock 
+ 2019 
+ 210,000,000 
+ 0.0007 
+ 147,000 
+ 3 
+ 
+ GenBio, Inc. 
+ Private company 
+ 2021 
+ 25,000 
+ 1.00 
+ 25,000 
+ 4 
+
+765,463 
+
+1
+ - 
+ all
+ investments are held at our third-party independent broker. 
+ 
+ 2
+ - 
+ during
+ 2021, the Company exchanged 1,000,000 shares of Kanab Corp for 150,000 shares of Series B, preferred stock in HMLA. During 2021,
+ a subsidiary of the Company also received 50,000,000 warrants with a five-year expiration and .0001 exercise price of HMLA. Our
+ CEO is also the CEO of HMLA. 
+
+The
+ Series B shares are not publicly traded and are based upon the cost method. The valuation of these shares was determined at the time
+ of exchange. They are convertible into HMLA common shares on a 1-1000 basis. 
+ 
+ 3
+ - 
+ based
+ upon the quoted closing trading price. 
+ 
+ 4
+ - 
+ based
+ on cost method. 
+
+F- 25 
+
+During
+2021, the Company invested in a 25,000 convertible note with a 25,000 share kicker of GenBio, Inc. for 25,000 1/share, representing
+the cash investment of the Company.) 
+
+December
+ 31, 2021 
+
+Gross Unrealized 
+ Gross Unrealized 
+
+Description 
+ Cost 
+ Gains 
+ Losses 
+ Fair
+ Value 
+ 
+ Marketable securities 
+ 1,200,500 
+ - 
+ (435,037 
+ 765,463 
+
+Note
+7 DEBT 
+
+The
+following represents a summary of the Company s convertible notes payable, convertible note payable related party, accounts
+receivable credit facility, and loans payable related parties, key terms, and outstanding balances at December 31, 2022 and 2021,
+respectively: 
+
+Convertible
+Notes Payable 
+
+The
+Company executed several convertible notes with various lenders as follows: 
+
+ SCHEDULE
+OF CONVERTIBLE NOTES PAYABLE 
+
+Convertible
+ Notes Payable 
+
+GS Capital 
+ PowerUp
+ Lending 
+ Sixth
+ Street Lending 
+ Various 
+
+Issuance Dates of Convertible Notes 
+ June 2021 - April 2022 
+ September
+ 2021 
+ October
+ 2021 - January 2022 
+ 2019
+ - 2020 
+
+Maturity Dates of Convertible Notes 
+ April 2022 - April 2023 
+ September
+ 2022 
+ October
+ 2022 - January 2023 
+ 2019
+ - 2021 
+
+Interest Rate 
+ 10 
+ 12 
+ 12 
+ 10 
+ - 12 
+
+Default Interest Rate 
+ 24 
+ 22 
+ 22 
+ 22 
+
+Collateral 
+ Unsecured 
+ Unsecured 
+ Unsecured 
+ Unsecured 
+
+Conversion Rate 
+ 0.001 or 60 of the average of the two (2) lowest prices in the prior
+ 20-day period 
+ 61 
+ of the average of the two (2) lowest prices in the prior 20-day period 
+ 61 
+ of the average of the two (2) lowest prices in the prior 20-day period 
+
+F- 26 
+
+GS
+ Capital 
+ PowerUp
+ Lending 
+ Sixth
+ Street Lending 
+ Various 
+ Total 
+
+Balance - December 31, 2020 
+ - 
+ - 
+ - 
+ 226,186 
+ 226,186 
+ 
+ Balance 
+ - 
+ - 
+ - 
+ 226,186 
+ 226,186 
+ 
+ Debt converted to common stock 
+ - 
+ - 
+ - 
+ (483,436 
+ (483,436 
+ 
+ Proceeds from issuance of notes 
+ 380,000 
+ 43,750 
+ 78,750 
+ 372,250 
+ 874,750 
+ 
+ Prepayment of convertible note in cash 
+ - 
+ - 
+ - 
+ (115,000 
+ (115,000 
+ 
+ Balance 
+ 380,000 
+ 43,750 
+ 78,750 
+ - 
+ 502,500 
+ 
+ Less: unamortized debt discount 
+ (318,455 
+ (31,524 
+ (63,216 
+ - 
+ (413,195 
+ 
+ Balance December 31, 2021 
+ 61,545 
+ 12,226 
+ 15,534 
+ - 
+ 89,305 
+ 
+ Balance 
+ 61,545 
+ 12,226 
+ 15,534 
+ - 
+ 89,305 
+
+Balance - December 31, 2021 
+ 380,000 
+ 43,750 
+ 78,750 
+ - 
+ 502,500 
+ 
+ Balance 
+ 380,000 
+ 43,750 
+ 78,750 
+ - 
+ 502,500 
+
+Proceeds from issuance of notes 
+ 335,000 
+ - 
+ 43,750 
+ - 
+ 378,750 
+ 
+ Conversion of accrued interest to note 
+ 16,206 
+
+16,206 
+ 
+ Repayment of notes 
+ - 
+ - 
+ (122,500 
+ - 
+ (122,500 
+ 
+ Conversion of debt to common stock 
+ (55,000 
+ (43,750 
+ - 
+ - 
+ (98,750 
+ 
+ Balance 
+ 676,206 
+ - 
+ - 
+ - 
+ 676,206 
+ 
+ Less: unamortized debt discount 
+ (31,200 
+ - 
+ - 
+ - 
+ (31,200 
+ 
+ Balance - December 31, 2022 
+ 645,006 
+ - 
+ - 
+ - 
+ 645,006 
+ 
+ Balance 
+ 645,006 
+ - 
+ - 
+ - 
+ 645,006 
+
+On
+January 20, 2021, a third-party lender funded the Company 205,000 in a 10 convertible debenture due January 20, 2022. The transaction
+netted the Company 180,000 after a 20,000 original issue discount and 5,000 in legal fees. During the year ended December 31, 2021,
+the loan was converted into common shares. 
+
+On
+April 8, 2021, a third-party lender funded the Company 103,500 in a 12 convertible debenture due April 8, 2022. The transaction netted
+the Company 100,000 after 3,500 legal and due diligence fees. During the year ended December 31, 2021, the loan was converted into
+common shares. 
+
+On
+May 10, 2021, a third-party lender funded the Company 53,750 in a 12 convertible debenture due May 10, 2022. The transaction netted
+the Company 50,000 after 3,750 legal and due diligence fees. During the year ended December 31, 2021, the loan was converted into common
+shares. 
+
+On
+June 25, 2021, a third-party lender funded the Company 65,000 in a 10 convertible debenture due June 25, 2022. The transaction netted
+the Company 60,000 after a 2,000 original issue discount and 3,000 in legal fees. During the year ended December 31, 2021 10,000
+of this loan was converted into common shares. During the year ended December 31, 2022, the remaining 55,000 loan was converted into
+common shares. 
+
+On
+September 22, 2021, a third-party lender funded the Company 43,750 in a 12 convertible debenture due September 20, 2022. The transaction
+netted the Company 40,000 after 3,750 legal and due diligence fees. During the year ended December 31, 2022, the loan was converted
+into common shares. 
+
+On
+October 26, 2021, a third-party lender funded the Company 78,750 in a 12 convertible debenture due October 26, 2022. The transaction
+netted the Company 75,000 after 3,750 legal and due diligence fees. During the year ended December 31, 2022, the loan was repaid. 
+
+On
+October 10, 2021, a third-party lender funded the Company 325,000 in a 10 convertible debenture due October 10, 2022. The transaction
+netted the Company 300,000 after a 12,500 original issue discount and 12,500 in legal fees. See below for modification. 
+
+F- 27 
+
+On
+January 12, 2022, a third-party lender funded the Company 43,750 in a 12 convertible debenture due January 12, 2023. The transaction
+netted the Company 40,000 after 3,750 legal and due diligence fees. During the year ended December 31, 2022, the loan was converted
+into common shares. . 
+
+On
+January 14, 2022, a third-party lender funded the Company 220,000 in a 12 convertible debenture due January 14, 2023. The transaction
+netted the Company 200,000 after 10,000 legal and due diligence fees and a 10,000 original issue discount. At December 31, 2022, the
+loan was outstanding. 
+
+On
+April 5, 2022, a third-party lender funded the Company 115,000
+ in a 12 
+convertible debenture due April
+25, 2023 . At December 31, 2022, the loan was
+outstanding. The transaction netted the Company 100,000
+ after 5,000
+ legal and due diligence fees and a 10,000
+ original issue discount. At December 31, 2022,
+the loan was outstanding. 
+
+Convertible
+Note Payable Modification 
+
+On
+April 19, 2022, the Company modified the terms of a loan it had with GS Capital for 325,000. The note retained all terms of the initial
+debt agreement, however, the maturity date was extended from April 19, 2022 to October 19, 2022. The note, along with accrued interest
+of 16,206, resulted in the issuance of a new convertible note for 341,206. 
+
+The
+modification of the maturity date did not meet the requirements of a debt extinguishment under ASC 470-50 - Debt Modifications and Exchanges.
+The Company determined that the exchange should be treated as a debt modification prospectively. The Company accounted for this transaction
+as a debt modification and did not incur any gain or loss relating to the modification. The debt modification did not meet the greater
+than ten percent test and was deemed not substantial. 
+
+During
+the year ended December 31, 2022, third-party lenders converted 104,368 of principal, interest and penalties into 301,448,152 shares
+of common stock. This resulted in a loss on debt extinguishment of 205,691. 
+
+During
+the year ended December 31, 2021, third-party lenders converted 2,822,118 of principal, interest and penalties into 1,396,567,128 shares
+of common stock. This resulted in a loss of 475,199. 
+
+Repayment
+of Convertible Debt in Default 
+
+On
+July 25, 2022, we retired 122,500 in third-party junior convertible debt owed to 1800 Diagonal Lending LLC in default for 169,000 cash.
+Subsequent to the payment, we have no loans drawn from 1800 Diagonal Lending LLC or its affiliates. 
+
+Convertible
+Note Payable Related Party 
+
+In
+March 2022, the Chief Executive Officer of SST advanced funds to the Company as follows: 
+
+ SCHEDULE
+OF CONVERTIBLE NOTE PAYABLE RELATED PARTY 
+
+Convertible Debt 
+
+Related
+ Party 
+
+Issuance Date of Convertible Note 
+ March
+ 31, 2022 
+ 
+ Maturity Date of Convertible Note 
+ September
+ 30, 2022 
+ 
+ Interest Rate 
+ 11.50 
+ 
+ Default Interest Rate 
+ 0.00 
+ 
+ Collateral 
+ 1 
+ 
+ Conversion Rate 
+ 2 
+
+Balance - December 31, 2021 
+ - 
+ 
+ Proceeds from issuance of note 
+ 195,000 
+ 
+ Repayments 
+ (195,000 
+ 
+ Balance December 31, 2022 
+ - 
+
+1 
+ 200,000
+ shares of Series B, Preferred Stock 
+ 
+ 2 
+ Converts
+ into Series B, preferred stock at 1/share 0.001/share in common stock 1:1,000 ratio) 
+
+F- 28 
+
+During
+the year ended December 31, 2022, 50,000 of this loan was repaid. On or around December 19, 2022, the remaining 145,000 was exchanged
+as part of the SST Founder Employment Status and Compensation Change Agreement. 
+
+Loans
+Payable Related Parties 
+
+In
+2022, the Company, in connection with the acquisition of SST, assumed a loan due to SST s Chief Executive Officer for 321,705. 
+
+In
+2021 and prior, the Company s current Chief Executive Officer and former Chief Executive Officer made advances for business operating
+expenses. 
+
+Loans
+payable - related parties is as follows: 
+
+ SCHEDULE
+OF LOANS PAYABLE - RELATED PARTIES 
+
+1 1 
+ 2 2 
+ 3 3 
+
+Loan
+ Payable 
+ Loan
+ Payable 
+ Loan
+ Payable 
+
+Related
+ Party 
+ Related
+ Party 
+ Related
+ Party 
+ Total 
+
+Issuance Date of Loan 
+ Various 
+ Various 
+ Various 
+
+Maturity Date of Convertible Note 
+ Due
+ on Demand 
+ Due
+ on Demand 
+ Due
+ on Demand 
+
+Interest Rate 
+ 0.00 
+ 0.00 
+ 0.00 
+
+Default Interest Rate 
+ 0.00 
+ 0.00 
+ 0.00 
+
+Collateral 
+ Unsecured 
+ Unsecured 
+ Unsecured 
+
+Conversion Rate 
+ None 
+ None 
+ None 
+
+Balance - December 31, 2020 
+ - 
+ 3,574 
+ - 
+ 3,574 
+ 
+ Balance 
+ - 
+ 3,574 
+ - 
+ 3,574 
+ 
+ Proceeds from advances 
+ - 
+ 1,594 
+ 17,546 
+ 19,140 
+ 
+ Balance - December 31, 2021 
+ - 
+ 5,168 
+ 17,546 
+ 22,714 
+ 
+ Balance 
+ - 
+ 5,168 
+ 17,546 
+ 22,714 
+
+Debt acquired in SST acquisition 
+ 321,705 
+ - 
+ - 
+ 321,705 
+ 
+ Advance 
+ 326,911 
+ - 
+ 14,741 
+ 341,652 
+ 
+ Repayments 
+ (364,136 
+ - 
+ (12,407 
+ (376,543 
+ 
+ Balance December 31, 2022 
+ 284,480 
+ 5,168 
+ 19,880 
+ 309,528 
+ 
+ Balance 
+ 284,480 
+ 5,168 
+ 19,880 
+ 309,528 
+
+1- 
+ reflects
+ activity related to the Company s current Chief Executive Officer of SST. 
+
+2- 
+ reflects
+ activity related to the Company s former Chief Executive Officer of EIC. 
+
+3- 
+ reflects
+ activity related to the Company s current Chief Executive Officer of FOMO. 
+
+F- 29 
+
+Loan
+Payable Other 
+
+In
+2022, the Company executed two loans with a third-party lender for 443,060, including interest of 138,050, resulting in net proceeds
+of 305,010. The Company is required to pay 5,116 over a period of 52 weeks to repay the loan. 
+
+SCHEDULE
+OF LOAN PAYABLE OTHER 
+
+Loan
+ Payable - Other 
+
+Issuance Date of Loan 
+ April
+ 1, 2022 
+ 
+ Maturity Date of Loan 
+ April
+ 1, 2023 
+ 
+ Interest Rate 
+ 16.00 
+ 
+ Default Interest Rate 
+ 0.00 
+ 
+ Collateral 
+ Unsecured 
+ 
+ Conversion Rate 
+ None 
+
+Balance - December 31, 2021 
+ - 
+ 
+ Proceeds 
+ 443,060 
+ 
+ Repayments 
+ (199,368 
+ 
+ Balance - December 31, 2022 
+ 243,692 
+
+Accounts
+Receivable Credit Facility 
+
+The
+Company, in connection with the acquisition of SST, entered into an accounts receivable credit facility. 
+
+On
+February 28, 2022, SST entered into a revolving accounts receivable and term loan financing and security agreement in the aggregate amount
+of 1,000,000 (subject to adjustment by the lender). The financing provides for advances up to 1,000,000, based upon 85 of eligible
+accounts receivable (as defined in the agreement) and subject to adjustment at the discretion of the lender. The amount was increased
+on June 21, 2022 to a total availability of 1,500,000. 
+
+The
+Facility is paid from collections of accounts receivable and is secured by all assets of SST. The AR Facility has an interest rate of
+the lesser of (a) maximum rate allowed by law and (b) prime plus 5.25 . The minimum rate of interest is 11.50 . 
+
+The
+lender charges the following fees: 
+
+1. 
+ 2 
+ commitment fee for the establishment of the Facility (1 due at funding and 1 due on February 28, 2023); and 
+
+2. 
+ Monitoring
+ fee of 0.40 of the outstanding credit Facility at the end of each month 
+
+The
+Company is subject to financial covenants (unless waived by lender) as follows: 
+
+1. 
+ Debt
+ service coverage ratio of 1.25 to 1, 
+
+2. 
+ Fixed
+ charge coverage ratio of 1.25 to1; and 
+
+3. 
+ Tangible
+ net worth of 350,000 
+
+At
+December 31, 2022, the Company is in default on the financial covenants noted above, however, the lender has not exercised its rights
+of default. The Company and the lender continue to operate under the terms of the agreement without disruption. 
+
+The
+Company and its subsidiaries are guarantors of this Agreement. 
+
+F- 30 
+
+Accounts
+receivable credit facility is as follows: 
+
+ SCHEDULE
+OF ACCOUNTS RECEIVABLE CREDIT FACILITY 
+
+Accounts Receivable 
+
+Credit
+ Facility 
+
+Issuance Date of credit facility 
+ February
+ 28, 2022 
+ 
+ Maturity Date of credit facility 
+ February
+ 28, 2024 
+ 
+ Interest Rate 
+ 11.50 
+ 
+ Default Interest Rate 
+ 0.00 
+ 
+ Collateral 
+ All
+ assets 
+ 
+ Conversion Rate 
+ None 
+
+Balance - December 31, 2021 
+ - 
+ 
+ Proceed from drawdowns 
+ 7,269,906 
+ 
+ Repayments 
+ (5,993,439 
+ 
+ Balance December 31, 2022 
+ 1,276,467 
+
+Note
+8 DERIVATIVE LIABILITIES 
+
+Certain
+of the above convertible notes contained an embedded conversion option with a conversion price that could result in issuing an undeterminable
+amount of future common stock to settle the host contract. Accordingly, the embedded conversion option is required to be bifurcated from
+the host instrument (convertible note) and treated as a liability, which is calculated at fair value, and marked to market at each reporting
+period. 
+
+Additionally,
+the Company has accounted for outstanding warrants (those issued with the above debt) as derivative liabilities as there is an insufficient
+amount of authorized common stock to settle all potential conversions. 
+
+The
+Company used the binomial pricing model to estimate the fair value of its embedded conversion option and warrant liabilities on both
+the commitment date and the remeasurement date with the following inputs: 
+
+ SCHEDULE
+OF DERIVATIVE LIABILITIES AT FAIR VALUE 
+
+Year Ended 
+ Year Ended 
+
+December 31, 2022 
+ December 31, 2021 
+
+Exercise price 
+ 0.0001
+ - 0.01 
+ 0.0001
+ - 0.01 
+ 
+ Expected volatility 
+ 196 
+ - 377 
+ 384 
+ 
+ Risk-free interest rate 
+ 0.73 
+ - 2.99 
+ 0.10 
+ 
+ Expected term (in years) 
+ 0.30
+ - 3.00 
+ 3.00
+ - 5.00 
+ 
+ Expected dividend rate 
+ 0 
+ 0 
+
+F- 31 
+
+A
+reconciliation of the beginning and ending balances for the derivative liability measured at fair value on a recurring basis using significant
+unobservable inputs (Level 3) is as follows at December 31, 2022 and 2021: 
+
+ SCHEDULE
+OF DERIVATIVE LIABILITIES 
+
+Convertible
+ Debt 
+ Warrants 
+ Total 
+ 
+ Derivative liabilities - December 31, 2020 
+ 834,230 
+ - 
+ 834,230 
+ 
+ Derivative liabilities 
+ 834,230 
+ - 
+ 834,230 
+ 
+ Fair value - commitment date 
+ 1,753,013 
+ 2,064,665 
+ 3,817,678 
+ 
+ Fair value - mark to market adjustment 
+ (393,465 
+ (1,289,422 
+ (1,682,887 
+ 
+ Reclassification to APIC for financial instruments
+ that ceased to be derivative liabilities 
+ (1,863,484 
+ - 
+ (1,863,484 
+ 
+ Derivative liabilities - December 31, 2021 
+ 330,294 
+ 775,243 
+ 1,105,537 
+ 
+ Derivative liabilities 
+ 330,294 
+ 775,243 
+ 1,105,537 
+ 
+ Fair value - commitment date 
+ 300,137 
+ 61,600 
+ 361,737 
+ 
+ Fair value - mark to market adjustment 
+ 404,695 
+ (238,813 
+ 165,882 
+ 
+ Gain on debt extinguishment (derivative liabilities - convertible debt) 
+ (226,391 
+ - 
+ (226,391 
+ 
+ Reclassification to APIC for financial instruments
+ that ceased to be derivative liabilities 
+ - 
+ (425,000 
+ (425,000 
+ 
+ Derivative liabilities - December 31, 2022 
+ 808,736 
+ 173,030 
+ 981,766 
+ 
+ Derivative liabilities 
+ 808,736 
+ 173,030 
+ 981,766 
+
+Changes
+in fair value of derivative liabilities (mark to market adjustment) are included in other income (expense) in the accompanying Consolidated
+Statements of Operations. 
+
+In
+2022 and 2021, in connection with the conversion of certain debt and warrants, the corresponding derivative liabilities were market to
+market on the conversion date and the remaining derivative liability balance was reclassified to gain on debt extinguishment for derivative
+liabilities related to debt and to additional paid-in capital for derivative liabilities classified as warrants. 
+
+Note
+9 ACQUISITIONS AND PRO FORMA FINANCIAL INFORMATION 
+
+Acquisition
+for the Year Ended December 31, 2022 
+
+On
+February 28, 2022, the Company issued 1,000,000 shares of Class B, convertible preferred stock (convertible into 1,000,000,000 shares
+of common stock) having a fair value of 700,000 0.0007/share), based upon the quoted closing trading price on the acquisition date,
+in exchange for 100 of the issued and outstanding member ownership interests held by SST, in a transaction treated as a business combination.
+With the acquisition, the Company entered the audio-visual systems integration business that designs and builds presentation, teleconferencing
+and collaborative systems for businesses, education and nonprofits. 
+
+The
+valuation of the consideration was determined on an as converted basis by multiplying the Series B preferred shares by the conversion
+rate of 1,000 shares of common stock for each one (1) share of Series B preferred stock held, then multiplying by the quoted closing
+trading price of the common stock. 
+
+We
+made an initial allocation of the purchase price at the date of acquisition based on our understanding of the fair value of assets
+acquired and liabilities assumed. The allocation of the purchase price consideration is considered preliminary as of March 31, 2022,
+with the excess purchase price allocated to goodwill and is subject to change. We completed the valuation and allocation of purchase
+price in April 2023. The final valuation and allocation is reflected in the table below. 
+
+The
+acquisition of SST was reflected in the accompanying consolidated financial statements at March 31, 2022, the results of operations and
+cash flows are included in the consolidated financial statements as of and from the acquisition date. 
+
+F- 32 
+
+The
+table below summarizes finalized fair value of the assets acquired and the liabilities assumed at the effective acquisition date. 
+
+ SCHEDULE
+OF FAIR VALUE OF ASSETS ACQUIRED AND LIABILITIES ASSUMED 
+
+Consideration 
+
+Value of earn out agreement 
+ 75,328 
+
+Fair value of consideration transferred 
+ 75,328 
+
+Recognized amounts of identifiable assets acquired and liabilities assumed: 
+
+Cash 
+ 223,457 
+ 
+ Accounts receivable 
+ 669,580 
+ 
+ Inventory 
+ 208,431 
+ 
+ Property and equipment 
+ 82,553 
+ 
+ Operating lease - right-of-use asset 
+ 345,229 
+ 
+ Supplier relationships 
+ 149,000 
+ 
+ Trade name 
+ 420,000 
+ 
+ Total assets acquired 
+ 2,098,250 
+
+Accounts payable and accrued expenses 
+ 268,553 
+ 
+ Contract liabilities (deferred revenue) 
+ 671,217 
+ 
+ Loan payable - related party 
+ 421,799 
+ 
+ Note payable - government SBA 
+ 150,000 
+ 
+ Notes payable 
+ 516,234 
+ 
+ Operating lease liability 
+ 345,229 
+ 
+ Total liabilities assumed 
+ 2,373,032 
+
+Total net liabilities assumed 
+ (274,782 
+
+Goodwill in purchase of Smart Solution Technologies
+ L.P. 
+ 350,110 
+
+In
+connection with the purchase of SST, 50,000 was paid as a broker fee. This amount has been included in the consolidated statements of
+operations as a component of general and administrative expenses. There were no other additional transaction costs incurred. 
+
+The
+Company initially granted 1,000,000 shares of Series B preferred stock, valued at 700,000 based upon the quoted closing trading price
+on date of issuance on as-converted basis to common stock. The agreement was amended in December 2022, and the shares returned to the
+Company. 
+
+The
+goodwill of 350,110 is primarily related to factors such as synergies and market share. 
+
+Goodwill
+is not deductible for tax purposes. 
+
+The
+estimated future amortization of the acquired supplier relationships and trade name are as follows: 
+
+SCHEDULE
+OF FUTURE AMORTIZATION OF ACQUIRED SUPPLIER RELATIONSHIPS AND TRADE NAME 
+
+2023 
+ 62,250 
+ 
+ 2023 
+ 65,250 
+ 
+ 2024 
+ 65,250 
+ 
+ 2025 
+ 65,250 
+ 
+ 2026 
+ 34,123 
+ 
+ 2027 
+ 28,000 
+ 
+ Thereafter 
+ 256,603 
+ 
+ Intangible
+ assets- net 
+ 514,476 
+
+F- 33 
+
+The
+following summarizes the intangible assets at December 31, 2022: 
+
+ SCHEDULE
+OF INTANGIBLE ASSETS 
+
+December 31, 2022 
+ Useful Life 
+ 
+ Supplier Relationships 
+ 149,000 
+ 4 years 
+ 
+ Trade Names 
+ 420,000 
+ 15 years 
+ 
+ Intangible assets gross 
+ 569,000 
+
+Accumulated amortization 
+ (54,524 
+
+Intangible assets net 
+ 514,476 
+
+On
+or around December 19, 2022, FOMO Worldwide entered into a Employment Status and Compensation
+Change Agreement which consisted of the following elements: 
+
+Element
+1: Total Dollar Value: 45,480 
+
+1. 
+ In
+ March of 2022, Mitchell Schwartz issued a cash loan to FOMO WORLDWIDE in the amount of 185,000 with a Success Fee of 10,000 for
+ a total repayment of 195,000; non-amortized. 
+
+2. 
+ Mr.
+ Schwartz received a single payment of 50,000 from SST for partial repayment of this loan. 
+
+3. 
+ In
+ exchange for the remainder of Insider Loan, 145,000) Mr. Schwartz agreed to take assignment of a 100,000 Real Estate Loan, made
+ by SST to an affiliate. This note included the repayment to Mr. Schwartz of the 10,000 Success Fee and monthly interest of 1,250
+ which matured Feb. 28, 2022. Total value of this note now issued to Mr. Schwartz and no longer associated with FOMO was 118,750 
+
+4. 
+ The
+ remaining balance of the Insider Loan, equal to 26,250 145,000 - 118,750) 
+
+5. 
+ This
+ agreement retained Mr. Schwartz residual salary through Feb. 2023, equal to 19,230 
+
+Element
+2: Total Dollar Value: 139,000 
+
+1. 
+ At
+ point of purchase of SMARTSolution Technologies, LP/Inc., FOMO WORLDWIDE agreed to a 1.5 override of gross revenues for the prior
+ year, ending December 2021. This, plus the extension of the closing date causing an add-on of the agreement, was equivalent to 139,000
+ and was included in the purchase agreement, of which 75,328 was the estimated value of the earn-out. 
+
+Element
+3: Total Dollar Value: 100,000 
+
+1. 
+ At
+ point of purchase of SMARTSolution Technologies, LP/Inc., FOMO WORLDWIDE issued One-Million Series B Shares to Mr. Schwartz. This
+ was included in the purchase agreement. 
+
+2. 
+ At
+ the point of the Employment Status and Compensation Change Agreement, Mr. Schwartz agreed to return to FOMO these shares as a goodwill
+ gesture and for exclusion of liability for any accounting discrepancy that may have occurred prior to his new employee agreement. 
+
+3. 
+ FOMO
+ WORLDWIDE, along with accepting the return of the aforementioned shares, included as part of the new purchase and employee agreement,
+ agreed to a single payment of 100,000 for the total value of the shares returned by Mr. Schwartz. 
+
+Summary: 
+
+1. 
+ All
+ items associated with this agreement were equal in value to 284,480 and are to be paid to Mr. Schwartz as monthly payroll outlay
+ over 36 months, beginning in March of 2023. 
+
+Supplemental
+Pro Forma Information (Unaudited) 
+
+The
+unaudited pro forma information for the periods set forth below gives effect to the acquisition as if the transaction had occurred on
+January 1, 2021. 
+
+F- 34 
+
+This
+proforma information is presented for informational purposes only and is not necessarily indicative of the results of operations that
+actually would have been achieved had the transactions been consummated as of that time: 
+
+ SCHEDULE OF BUSINESS ACQUISITION PROFORMA INFORMATION 
+
+Year Ended 
+ Year Ended 
+
+December
+ 31, 2022 
+ December
+ 31, 2021 
+
+Revenues 
+ 8,894,888 
+ 4,351,409 
+
+Net loss 
+ (3,534,017 
+ (12,263,881 
+
+Loss per share basic 
+ (0.00 
+ (0.00 
+
+Loss per share diluted 
+ (0.00 
+ (0.00 
+
+Weighted average number of shares basic 
+ 8,308,889,427 
+ 15,511,004,083 
+
+Weighted average number of shares diluted 
+ 8,308,889,427 
+ 15,511,004,083 
+
+The
+weighted average shares assume the as-converted amount to common stock . 
+
+Acquisitions
+for the Year Ended December 31, 2021 
+
+On
+October 19, 2020, the Company acquired 100 of the member interests of IAQ Technologies LLC (formerly known as Purge Virus, LLC) for
+consideration of 2,000,000 Series B Preferred Shares, having a fair value of 800,000. As a result of the acquisition, the Company recognized
+intangible assets of 225,000 and Goodwill of 596,906. The intangible assets were being amortized over their useful lives, ranging from
+3 to 10 years. In October of 2021, the Company changed its name to IAQ Technologies LLC (IAQ). At December 31, 2021 it was determined
+by management to write off the value of the assets due to lack of business generated resulting in impairment of 803,156. 
+
+On
+February 12, 2021, we purchased assets, including website and trade names of Independence LED Lighting, LLC for 250,000 Series B Preferred
+shares. Based on an agreed upon price at closing, the transaction was valued 3,300,000, At December 31, 2021 it was determined by management
+to write off the value of the assets due to lack of business generated resulting in impairment of 3,300,000. 
+
+On
+March 6, 2021, we purchased the assets, including website, trade names and software of Energy Intelligence Center, LLC for 125,000 Series
+B Preferred shares and 50,000,000 common stock warrants. Based on an agreed upon price at closing, the transaction was valued 1,479,121.
+At December 31, 2021 it was determined by management to write off the value of the assets due to lack of business generated resulting
+in impairment of 1,479,121. 
+
+These
+acquisitions were treated as business combinations and the Company recorded the fair value of the assets acquired. 
+
+The
+table below summarizes preliminary estimated fair value of the assets acquired at the effective acquisition date. 
+
+SCHEDULE OF ACQUISITION OF INTANGIBLE ASSET 
+
+EIC 
+ iLED 
+ 
+ Consideration 
+
+Series B, preferred stock (125,000 shares) 
+ 1,250,000 
+ - 
+ 
+ Series B, preferred stock (250,000 shares) 
+ - 
+ 3,300,000 
+ 
+ Warrants (50,000,000) 
+ 229,121 
+ - 
+ 
+ Fair value of consideration transferred 
+ 1,479,121 
+ 3,300,000 
+
+F- 35 
+
+Recognized amounts of identifiable assets acquired: 
+
+Website 
+ 259,000 
+ 261,600 
+ 
+ Trade Names 
+ 505,600 
+ 2,157,800 
+ 
+ Software 
+ 401,000 
+ - 
+ 
+ Total assets acquired 
+ 1,165,600 
+ 2,419,400 
+
+Goodwill 
+ 313,521 
+ 880,600 
+
+Supplemental
+Pro Forma Information (Unaudited) 
+
+The
+unaudited pro forma information for the periods set forth below gives effect to the acquisitions as if the transactions had occurred
+on January 1, 2021. 
+
+This
+pro forma information is presented for informational purposes only and is not necessarily indicative of the results of operations that
+actually would have been achieved had the transactions been consummated as of that time: 
+
+ SCHEDULE
+OF BUSINESS ACQUISITION PROFORMA RELATED TO SUPPLEMENT INFORMATION 
+
+2021 
+
+Operating revenues 
+ 890,075 
+
+Cost of revenues 
+ 607,833 
+
+Gross profit 
+ 282,242 
+
+Operating expenses: 
+
+General and administrative 
+ 5,061,430 
+
+Loss from operations 
+ (4,779,188 
+
+Other income (expenses) 
+
+Interest expense 
+ (730,825 
+
+Bad debt 
+ - 
+
+Loan forgiveness 
+ 11,593 
+
+Loss on investment 
+ (435,037 
+
+Loss on impairment 
+ (6,419,944 
+
+Gain on debt conversion 
+ 514,425 
+
+Debt settlement gain (loss) 
+ (231,930 
+
+Write off old inventory 
+ - 
+
+Derivative liability gain (loss) 
+ 3,569,489 
+
+Total other expenses 
+ (3,722,229 
+
+Loss before income taxes 
+ (8,501,417 
+
+Provision for income taxes 
+ - 
+
+Net loss 
+ (8,501,417 
+
+Note
+10 COMMITMENTS AND CONTINGENCIES 
+
+Right-of-Use
+Operating Lease 
+
+On
+February 28, 2022, in connection with the acquisition of SST, the Company assumed a Right-of-Use ROU operating lease
+for its office space. The lease is for an initial term of five (5) years at 7,000 per month. There are no stated renewal terms. There
+were no other ROU leases in effect prior to the acquisition of SST. 
+
+At
+December 31, 2022, the Company has no financing leases as defined in ASC 842, Leases. 
+
+F- 36 
+
+SCHEDULE OF OPERATING LEASE ASSETS AND LIABILITIES 
+
+December
+ 31, 2022 
+ 
+ Assets 
+
+Operating lease - right-of-use asset
+ - non-current 
+ 281,937 
+
+Liabilities 
+
+Operating lease liability 
+ 291,257 
+
+Weighted-average remaining lease term (years) 
+ 4.09 
+
+Weighted-average discount rate 
+ 8 
+
+The components of lease expense were as follows: 
+
+Operating lease costs 
+
+Amortization of right-of-use operating lease asset 
+ 63,292 
+ 
+ Lease liability expense in connection with obligation
+ repayment 
+ 23,265 
+ 
+ Total operating lease costs 
+ 86,557 
+
+Supplemental cash flow information related to operating leases was as
+ follows: 
+
+Operating cash outflows from operating lease (obligation
+ payment) 
+ 38,622 
+ 
+ Right-of-use asset obtained in exchange for new
+ operating lease liability 
+ 345,229 
+
+Future
+minimum lease payments required under leases that have initial or remaining non- cancelable lease terms in excess of one year at December
+31, 2022: 
+
+SCHEDULE
+OF FUTURE MINIMUM LEASE PAYMENTS 
+
+2023 
+ 84,000 
+ 
+ 2024 
+ 84,000 
+ 
+ 2025 
+ 84,000 
+ 
+ 2026 
+ 84,000 
+ 
+ 2027 
+ 7,000 
+ 
+ Total undiscounted cash flows 
+ 343,000 
+ 
+ Less: amount representing interest 
+ (51,743 
+ 
+ Present value of operating lease liability 
+ 291,257 
+ 
+ Less: current portion of operating lease liability 
+ (63,556 
+ 
+ Long-term operating lease liability 
+ 227,701 
+
+Note
+11 STOCKHOLDERS DEFICIT 
+
+At
+December 31, 2022 and 2021, the Company had various classes of stock: 
+
+Class
+A, Convertible Preferred Stock 
+
+- 
+ 78,000,000
+ shares authorized 
+
+- 
+ 5,750,000
+ and 5,750,000 shares designated, issued and outstanding at December 31, 2022 and 2021, respectively 
+
+- 
+ Stated
+ value none 
+
+F- 37 
+
+- 
+ Par
+ value - 0.0001 
+
+- 
+ Conversion
+ each share of Class A converts into 50 shares of common stock (287,500,000 and 287,500,000 equivalent shares of common stock,
+ at December 31, 2022 and 2021, respectively) 
+
+- 
+ Voting
+ on an as-converted basis 50 votes for each share held (287,500,000 and 287,500,000 votes, at December 31, 2022 and
+ 2021, respectively) 
+
+- 
+ Dividends
+ 0.0035 per share per annum accrued whether or not declared by the Board of Directors 
+
+- 
+ Liquidation
+ preference none 
+
+- 
+ Rights
+ of redemption none 
+
+Class
+B, Convertible Preferred Stock 
+
+- 
+ 20,000,000
+ shares authorized 
+
+- 
+ 5,289,982
+ and 5,249,982 shares designated, issued and outstanding at December 31, 2022 and 2021, respectively 
+
+- 
+ Stated
+ value none 
+
+- 
+ Par
+ value - 0.0001 
+
+- 
+ Conversion
+ each share of Class B converts into 1,000 shares of common stock (5,289,982,000 and 5,249,982,000 equivalent shares of common
+ stock, at December 31, 2022 and 2021, respectively) 
+
+- 
+ Voting
+ on an as-converted basis 1,000 votes for each share held (5,289,982,000 and 5,249,982,000 votes, at December 31,
+ 2022 and December 31, 2021, respectively) 
+
+- 
+ Dividends
+ 1 per annum accrued whether or not declared by the Board of Directors 
+
+- 
+ Liquidation
+ preference none 
+
+- 
+ Rights
+ of redemption none 
+
+Class
+C, Convertible Preferred Stock 
+
+- 
+ 2,000,000
+ shares authorized 
+
+- 
+ 1,000,000
+ and 1,000,000 shares designated, issued and outstanding at December 31, 2022 and 2021, respectively 
+
+- 
+ Stated
+ value none 
+
+- 
+ Par
+ value - 0.0001 
+
+- 
+ Conversion
+ each share of Class C converts into 1 share of common stock (1,000,000 and 1,000,000 equivalent shares of common stock, at
+ December 31, 2022 and 2021, respectively) 
+
+- 
+ Voting
+ on an as-converted basis 100,000 votes for each share held (100,000,000,000 and 100,000,000,000 votes, at December
+ 31, 2022 and 2021, respectively) 
+
+- 
+ Dividends
+ 1 per annum accrued whether or not declared by the Board of Directors 
+
+- 
+ Liquidation
+ preference none 
+
+- 
+ Rights
+ of redemption none 
+
+Common
+Stock 
+
+- 
+ 20,000,000,000
+ shares authorized 
+
+- 
+ No
+ par value 
+
+- 
+ Voting
+ at 1 vote per share 
+
+Equity
+Transactions for the Year Ended December 31, 2022 
+
+Stock
+Issued for Cashless Exercise of Warrants 
+
+The
+Company issued 645,833,333 shares of common stock in exchange for the cashless exercise of 750,000,000 warrants. The net effect on stockholders 
+equity was 0. 
+
+F- 38 
+
+Stock
+Issued for Services Class B, Preferred Stock 
+
+The
+Company issued 650,000 shares of Class B, preferred stock for services rendered, having a fair value of 535,000 0.0008 - 0.0009/share),
+based upon the quoted closing trading price of the Company s common stock, on an as-converted basis of 1,000 shares of common stock
+for each share of Class B, preferred stock. 
+
+Acquisition
+of SST 
+
+On
+February 28, 2022, the Company issued 1,000,000 shares of Series B preferred stock (1,000,000,000 as converted common stock) having a
+fair value of 700,000 0.0007/share), based upon the quoted closing trading price on the acquisition date, in exchange for 100 of
+the issued and outstanding member ownership interests held by SST, in a transaction treated as a business combination. 
+
+On
+or around December 19, 2022, FOMO Worldwide entered into a Employment Status and Compensation Change
+Agreement. As part of this agreement, the 1,000,000 shares of Series B preferred stock were returned to the Company. 
+
+See
+Note 9. 
+
+Stock
+Issued from Conversion of Convertible Debt and Loss on Debt Extinguishment 
+
+The
+Company issued 301,448,152 shares of common stock in connection with the conversion of convertible debt (which had embedded derivative
+liabilities) and accrued interest totaling 104,368, having a fair value of 310,059 0.0007 - 0.0015/share), based upon the quoted
+closing trading price on the date of conversion/extinguishment. As a result of the debt conversion, the Company recognized a loss on
+debt extinguishment of 205,691. 
+
+Conversion
+of Class B Preferred Stock to Common Stock 
+
+The
+Company issued 360,000,000 shares of common stock in connection with the conversion of 360,000 shares of Class B preferred stock. The
+transaction had a net effect of 0 on stockholders deficit. 
+
+Return
+and Cancellation of Class B Preferred Stock to Common Stock 
+
+The
+Company received and cancelled 250,000 shares of Class B preferred stock. The transaction had a net effect of 0 on stockholders 
+deficit. 
+
+Equity
+Transactions for the Year Ended December 31, 2021 
+
+Stock
+Issued from Conversion of Convertible Debt 
+
+The
+Company issued 1,396,567,128 shares of common stock in connection with the conversion of convertible debt and accrued interest totaling
+ 2,822,218. As a result of the debt conversion, the Company recognized a loss on debt extinguishment of 475,199. 
+
+Stock
+Issued for Loan Costs 
+
+The
+Company issued 10,000,000 shares of common stock for loan costs totaling 20,000. 
+
+Stock
+Issued for Cash Common Stock 
+
+The
+Company issued 527,500,000 shares of common stock for 1,000,000. 
+
+F- 39 
+
+Stock
+Issued for Cash Class A, Preferred Stock 
+
+The
+Company issued 2,750,000 shares of Class A preferred stock for 275,000. 
+
+Stock
+Issued as a Non-Refundable Deposit to Acquire 
+
+The
+Company issued 175,000 shares of Class B preferred stock having a fair value of 449,279. The acquisition was cancelled in 2021, and
+the Company recorded a loss on cancellation of 449,279. 
+
+Stock
+Issued to Acquire Assets of Businesses 
+
+The
+Company issued 375,000 shares of Class B preferred stock having a fair value of 4,550,000 in connection with the acquisitions of EIC
+and iLED. See Note 9. 
+
+Stock
+Issued for Services Class B Preferred Stock 
+
+The
+Company issued 571,167 shares of Class B preferred stock for services rendered, having a fair value of 1,766,014. 
+
+Conversion
+of Class B Preferred Stock to Common Stock 
+
+The
+Company issued 335,000,000 shares of common stock in connection with the conversion of 335,000 shares of Class B preferred stock. The
+transaction had a net effect of 0 on stockholders deficit. 
+
+Stock
+Issued for Services Common Stock 
+
+The
+Company issued 195,321,508 shares of common stock for services rendered, having a fair value of 556,664. 
+
+Cancellation
+of Common Stock Issuable 
+
+The
+Company cancelled 125,000 shares of common stock issuable from 2020, having a fair value of 125,000. 
+
+Note
+12 WARRANTS 
+
+Warrant
+activity for the years ended December 31, 2022 and 2021 are summarized as follows: 
+
+ SCHEDULE OF WARRANTS ACTIVITY 
+
+Weighted 
+ Average 
+
+Weighted 
+ Remaining 
+ Aggregate 
+
+Number of 
+ Average 
+ Contractual 
+ Intrinsic 
+ 
+ Warrants 
+ Warrants 
+ Exercise
+ Price 
+ Term
+ (Years) 
+ Value 
+ 
+ Outstanding and exercisable - December 31, 2020 
+ 713,571,428 
+ 0.0011 
+ 2.92 
+ 149,500 
+ 
+ Granted 
+ 1,288,541,667 
+ 0.0018 
+ - 
+ - 
+ 
+ Exercised 
+ - 
+ - 
+ - 
+ - 
+ 
+ Cancelled/Forfeited 
+ - 
+ - 
+ - 
+ - 
+ 
+ Outstanding - December 31, 2021 
+ 2,002,113,095 
+ 0.0016 
+ 2.38 
+ 450,000 
+ 
+ Exercisable - December 31, 2021 
+ 2,002,113,095 
+ 0.0016 
+ 2.38 
+ 450,000 
+ 
+ Outstanding - December 31, 2021 
+ 2,002,113,095 
+ 0.0016 
+ 2.38 
+ 450,000 
+ 
+ Exercisable - December 31, 2021 
+ 2,002,113,095 
+ 0.0016 
+ 2.38 
+ 450,000 
+ 
+ Granted 
+ 660,000,000 
+ 0.0011 
+ - 
+ - 
+ 
+ Exercised 
+ (750,000,000 
+ 0.0001 
+ - 
+ - 
+ 
+ Cancelled/Forfeited 
+ (618,571,428 
+ .00034 
+ - 
+ - 
+ 
+ Outstanding December 31, 2022 
+ 1,293,541,667 
+ 0.0013 
+ 1.86 
+ - 
+ 
+ Exercisable December 31, 2022 
+ 1,143,541,667 
+ 0.0014 
+ 1.71 
+ - 
+
+F- 40 
+
+Warrant
+Transactions for the Year Ended December 31, 2022 
+
+Convertible
+Debt Issuances 
+
+In
+connection with convertible debt issued to various lenders, the Company granted 165,000,000, three-year (3) warrants. These warrants
+have an exercise price of 0.0001 - 0.0012. See Note 7 for derivative liabilities and related mark to market accounting. 
+
+Employee
+Compensation 
+
+Concurrent
+with the acquisition of SST, the Company granted 300,000,000, three-year (3) warrants to employees of SST for services rendered. 
+
+The
+fair value of these services rendered was 209,713, based upon the following weighted average assumptions: 
+
+ SUMMARY OF FAIR VALUE OF WARRANTS 
+
+Exercise price 
+ 0.001 
+ 
+ Expected volatility 
+ 375 
+ 
+ Risk-free interest rate 
+ 1.62 
+ 
+ Expected term (in years) 
+ 3.00 
+ 
+ Expected dividend rate 
+ 0 
+
+Employee
+Compensation 
+
+The
+Company granted 195,000,000, three-year (3) warrants to a board director and employee for services rendered. 
+
+The
+fair value of these services rendered was 91,127, of which 59,648 was unvested at December 31, 2022, based upon the following weighted
+average assumptions: 
+
+SUMMARY
+OF FAIR VALUE OF WARRANTS 
+
+Exercise price 
+ 0.001 
+ 
+ Expected volatility 
+ 374 
+ 
+ Risk-free interest rate 
+ 1.76 
+ 
+ Expected term (in years) 
+ 3.00 
+ 
+ Expected dividend rate 
+ 0 
+
+Cashless
+Exercise of Warrants 
+
+The
+Company issued 645,833,333 shares of common stock in connection with cashless exercises of 750,000,000 warrants. The net effect on stockholders 
+equity was 0. 
+
+Warrant
+Transactions for the Year Ended December 31, 2021 
+
+Convertible
+Debt Issuances 
+
+In
+connection with convertible debt issued to various lenders, the Company granted 1,108,541,667 three-year (3) warrants. These warrants
+have an exercise price of 0.0001. See Note 7 for derivative liabilities and related mark to market accounting. 
+
+Employee
+Compensation 
+
+The
+Company granted 180,000,000, three-year (3) warrants to various employees for services rendered. 
+
+F- 41 
+
+The
+fair value of these services rendered was 997,637, based upon the following weighted average assumptions: 
+
+Exercise price 
+ 0.002 
+ 
+ Expected volatility 
+ 384 
+ 
+ Risk-free interest rate 
+ 0.00 
+ 
+ Expected term (in years) 
+ 3.00 
+ 
+ Expected dividend rate 
+ 0 
+
+Note
+13 INCOME TAXES 
+
+The
+Company did not file its federal tax returns for fiscal years from 2012 through 2020. Management at year-end 2020 believed that it would
+not have any material impact on the Company s financials because the Company did not have any tax liabilities due to net loss incurred
+during these years. During the year ended December 31, 2021 the Company filed returns for 2018, 2019 and 2020. During the year ended December 31, 2022, the Company filed returns for
+2021 and paid its franchise tax board minimum fees current. 
+
+Based
+on the available information and other factors, management believes it is more likely than not that any potential net deferred tax assets
+on December 31, 2021 and 2020 will not be fully realizable. The Company is current with franchise tax board fees due to the State of
+California and in 2021 filed tax statements for the federal and state requirements (California, Illinois, Pennsylvania) for 2018, 2019
+and 2020. Today, the Company is current with its federal and state tax filings. 
+
+Due
+to recurring losses, the Company s tax provision for the years ended December 31 2022 and 2021 was 0. 
+
+The
+difference between the effective income tax rate and the applicable statutory federal income tax rate is summarized as follows: 
+
+ SUMMARY
+OF EFFECTIVE INCOME TAX RATE 
+
+2022 
+ 2021 
+ 
+ Statutory federal rate 
+ -21.0 
+ -21.0 
+ 
+ State income tax rate, net of federal benefit 
+ -3.6 
+ -3.6 
+ 
+ Permanent differences, including stock-based compensation and impairment
+ of acquired assets 
+ 8.6 
+ 8.6 
+ 
+ Change in valuation allowance 
+ 16.0 
+ 16.0 
+ 
+ Effective tax rate 
+ 0.0 
+ 0.0 
+
+At
+December 31, 2022 and 2021 the Company s deferred tax assets were as follows: 
+
+ SUMMARY
+OF DEFERRED TAX ASSETS 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ Tax benefit of net operating loss carry forward 
+ 4,248,077 
+ 3,557,350 
+ 
+ less valuation allowance 
+ (4,248,077 
+ (3,557,350 
+ 
+ Net deferred tax assets 
+ - 
+ - 
+
+As
+of December 31, 2022 the Company had unused net operating loss carry forwards of approximately 17.1 million available to reduce future
+federal taxable income. Net operating loss carryforwards expire through fiscal years beginning in 2023 and extending to indefinite. Internal
+Revenue Code Section 382 places a limitation on the amount of taxable income that can be offset by carryforwards after a change in control
+(generally a greater than 50 change in ownership). 
+
+The
+Company s ability to offset future taxable income, if any, with tax net operating loss carryforwards may be limited due to the
+non-filing of tax returns and the impact of the statute of limitations on the Company s ability to claim such benefits. Furthermore,
+changes in ownership may result in limitations under Internal Revenue Code Section 382. Due to these limitations, and other considerations,
+management has established full valuation allowances on deferred tax assets relating to net operating loss carryforward, as the realization
+of any future benefits from these assets is uncertain. 
+
+F- 42 
+
+The
+Company s valuation allowance at December 31, 2022 and 2021 was 4,248,077 and 3,557,350, respectively. The change in the valuation
+allowance during the year ended December 31, 2022 was an increase of approximately 691,000. 
+
+SCHEDULE OF NET OPERATING LOSS CARRYOVER LOSS 
+
+NOL carry over loss 
+ 
+ Nol carry over loss 
+ Expiration 
+ 
+ Expiration 
+
+NOL 
+ 2013 
+ 84,206 
+ 2023 
+
+2014 
+ 494,301 
+ 2024 
+
+2015 
+ 680,549 
+ 2025 
+
+2016 
+ 651,537 
+ 2026 
+
+2017 
+ 1,239,493 
+ 2027 
+
+2018 
+ 1,843,498 
+ Indefinite 
+
+2019 
+ 48,201 
+ Indefinite 
+
+2020 
+ 140,808 
+ Indefinite 
+
+2021 
+ 9,262,185 
+ Indefinite 
+
+2022 
+ 2,823,829 
+ Indefinite 
+
+17,268,607 
+
+Note
+14 SUBSEQUENT EVENTS 
+
+Letters
+of Intent Signed for Acquisitions of Learning Management Systems and Training Content Providers 
+
+On
+January 13, 2023, FOMO signed a non-binding letter of intent LOI to acquire a UK-based provider of learning
+management systems LMS ), which are software applications for the administration, documentation, tracking, reporting,
+automation, and delivery of educational courses, training programs, materials or learning and development programs. The
+business generates revenues of several hundred thousand British pounds and is growing its top line at a double digit annual rate
+(unaudited). Total consideration is as follows: 1) GBP 800,000 cash at close, plus 2) GBP 400,000 in a
+non-interest-bearing seller s note (paid in one year after close), plus 3) a performance-based payment of up to GBP
+ 200,000 subject to 30 revenue growth for the calendar year after the Closing Date. The Company s balance sheet will
+remain as-is during the term the LOI is active and until the Closing Date, with no distributions, capital calls, bonuses to
+management or shareholders, salary increases, adjustments to working capital, etc. for any purpose, unless otherwise agreed by FOMO
+in writing. The process is conditioned on the completion of due diligence, legal and accounting review, documentation that is
+satisfactory to all parties, and the successful raise by us of certain financing, if any. Execution of a securities purchase
+agreement SPA and related definitive agreements are targeted as soon as practical but not later than April 30, 2023
+(the Closing and such date, the Closing Date ). 
+
+On
+January 17, 2023, we signed a non-binding purchase agreement to acquire the assets of a provider of online training and compliance
+software, services, and content primarily to the agriculture and food industries based in the Midwest. The
+business was founded in 1980, generates roughly 400,000 - 500,000 in annual revenues, is EBITDA+(unaudited), and can potentially
+be grown organically into other regions of the country and into new verticals including education, manufacturing, healthcare, and
+other. We intend to place the assets, which have a total purchase price of 280,000 cash including closing funds of 155,000, seller
+notes of 110,000 and an earn-out valued at 15,000 but with no ceiling, into our wholly owned subsidiary SMARTSolution Technologies
+Inc., a sister entity to our wholly owned education technology subsidiary SMARTSolution Technologies LP. Closing is targeted by
+March 17, 2023, though we intend to work vigorously to consummate the deal sooner. Our auditors have indicated the size of the
+business relative to FOMO will not trigger an audit requirement for the target. We made 15,000 non-refundable earnest payments
+towards closing. There is a 5,000 non-refundable equity component to the consideration for this transaction in the form of 5,000
+Series B Preferred shares paid as a fee to extend the closing deadline to May 17, 2023. 
+
+On
+February 3, 2023, we signed a non-binding letter of intent LOI to acquire the assets of a USA-based learning
+management system LMS and training content provider for 400,000,
+including 150,000
+cash, 150,000
+in Series B Preferred stock, and a 100,000
+earn-out plus incentive stock options for employees. Execution of a definitive agreement for the proposed transaction is required by
+May 31, 2023. 
+
+On
+February 27, 2023, the Company signed a non-binding letter of intent to purchase a provider of modular buildings and construction services generating an estimated 8
+million annual revenues and 800,000 annual EBITDA in 2022 (unaudited). The Target s customers include K12 schools, police departments, fire departments, and
+municipalities in the state of Florida. There are no assurances FOMO will be able to complete the transaction based on planned due
+diligence or required financing. 
+
+On
+February 28, 2023, the Company issued 310,000,000 incentive stock options to employees of its wholly owned subsidiary SMARTSolution Technologies
+L.P. with a strike price of .0005 and a three-year expiration. The options expire at close of business on March 1, 2026 and do not vest
+unless each employee is employed by SST on or after March 1, 2024. 
+
+On
+March 29, 2023, the Company executed a non-binding letter of intent to acquire a manufacturer and provider of analog and digital
+signage and services based in Southwest Florida. The business generates annual revenues of approximately 5
+million (unaudited), is profitable, and has backlog of over 2
+million with homeowner associations (HOAs), municipalities, and enterprise customers including K12 schools, transportation hubs, and
+other. Consideration is 500,000
+cash, 1.5
+million in Series B Preferred stock (valued using a common stock price of 0.001),
+refinancing or rollover of SBC loans of 1,840,435,
+and an earn-out of up to 1.0
+million over three
+years (terms to be negotiated). 
+
+F- 43 
+
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+None. 
+
+Item
+9A. Controls and Procedures. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Disclosure
+controls and procedures are designed with an objective of ensuring that information required to be disclosed in our periodic reports
+filed with the Securities and Exchange Commission, such as this Annual Report on Form 10-K, is recorded, processed, summarized, and reported
+within the time periods specified by the Securities and Exchange Commission. Disclosure controls are also designed with an objective
+of ensuring that such information is accumulated and communicated to our management, including our chief executive officer, to allow
+timely consideration regarding required disclosures. 
+
+The
+evaluation of our disclosure controls by our Chief Executive Officer (our principal executive, financial and accounting officer) included
+a review of the controls objectives and design, the operation of the controls, and the effect of the controls on the information
+presented in this Annual Report. Our management, including our chief executive officer, does not expect that disclosure controls can
+or will prevent or detect all errors and all fraud, if any. A control system, no matter how well designed and operated, can provide only
+reasonable, not absolute, assurance that the objectives of the control system are met. Also, projections of any evaluation of the disclosure
+controls and procedures to future periods are subject to the risk that the disclosure controls and procedures may become inadequate because
+of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+As
+of the end of the period covered by this report, we carried out an evaluation, under the supervision and with the participation of our
+management, including our Chief Executive Officer (our principal executive, financial and accounting officer), of the effectiveness of
+our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 as of the
+end of the period covered by this report. Based on that evaluation, our Principal Executive Officer and Principal Financial Officer have
+concluded that there were material weaknesses in our internal controls over Financial reporting as of December 31, 2022 and they were
+therefore not effective to ensure that information required to be disclosed by us in reports that we file or submit under the Securities
+Exchange Act of 1934 was recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange
+Commission s rules and forms. The material weaknesses in our controls and procedure were failure to timely file tax returns, lack
+of formal documents such as invoices and consulting agreements, and lack of evidence for proper approval and review of disbursements.
+Management does not believe that any of these weaknesses materially affected the results and accuracy of its financial statements. However,
+in view of this discovery of such weaknesses, management has begun a review to improve them. 
+
+MANAGEMENT S
+ANNUAL REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING . 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting for the company in accordance as defined
+in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Our internal control over financial reporting is designed to provide reasonable
+assurance regarding the (i) effectiveness and efficiency of operations, (ii) reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles, and (iii) compliance with applicable
+laws and regulations. Our internal controls framework is based on the criteria set forth in the Internal Control - Integrated Framework
+issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+12 
+
+Management s
+assessment of the effectiveness of the small business issuer s internal control over financial reporting is as of the year ended
+December 31, 2022. We believe that internal controls over financial reporting as set forth above shows some weaknesses and are not effective.
+
+Notwithstanding
+the identified material weaknesses, management believes the consolidated financial statements included in this Annual Report on Form 10-K
+fairly present, in all material respects, our financial condition, results of operations and cash flows as of and for the periods presented
+in accordance with U.S. generally accepted accounting principles 
+
+Under
+applicable rules of the Securities and Exchange Commission, as a smaller reporting company this Annual Report does not
+include an attestation report of the Company s registered public accounting firm regarding internal control over financial reporting. 
+
+Item
+9B. Other Information. 
+
+Not
+applicable. 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers and Corporate Governance. 
+
+The
+following table sets forth the names and ages of the directors and executive officers of the Company as of the date of this Annual Report
+and the principal offices and positions with the Company held by each person. There are no family relationships among any of the directors
+and executive officers. 
+
+Name 
+ 
+ Age 
+ 
+ Position(s) 
+ 
+ Vikram
+ Grover 
+ 
+ 53 
+ 
+ Chairman,
+ CEO, President, CFO, Secretary 
+
+Vikram
+Grover has 25 years-experience on Wall Street as an equity research analyst, investment banker and consultant that has been advising,
+financing, and launching businesses for several years. He has worked at Thomas Weisel Partners Group, Inc. (now Stifel Nicolaus), Needham
+ Co., Source Capital Group, Inc. and Kaufman Bros., LLC in various capacities ranging from Director of Research, Senior Managing
+Director Investment Banking, and Managing Director Equity Research covering Telecommunications, Media, and Technology (TMT) companies.
+Prior to FOMO WORLDWIDE, INC., he was CEO of the first publicly traded eSports social site and tournament platform, Good Gaming. He was
+introduced to Charles Szoradi, the founder of Purge Virus three years ago. Mr. Grover has a Master of Science in Management MSM from the Georgia Institute of Technology Georgia Tech ), a BA in Marketing from the University of California San Diego UCSD and is a Chartered Financial Analyst CFA ). 
+
+The
+Company currently maintains an Advisory Board comprised of several individuals with technology, finance, and various industry experience. 
+
+Term
+of Office 
+
+All
+directors listed above will remain in office until the next annual meeting of our stockholders, and until their successors have been
+duly elected and qualified or until removed from office in accordance with our bylaws. There are no agreements with respect to the election
+of Directors. Other than stock options of various amounts, we have not compensated our directors for service on our Board of Directors,
+any committee thereof, or reimbursed for expenses incurred for attendance at meetings of our Board of Directors and/or any committee
+of our Board of directors. Executive Officers serve at the discretion of our Board of Directors. We do not have any standing committees.
+Our Board of Directors may in the future determine to pay directors fees and reimburse directors for expenses related to their
+activities. 
+
+Code
+of Ethics 
+
+As
+of the date of this Report, the Company has adopted a Code of Ethics applicable to our principal executive officer and principal
+financial officer. 
+
+13 
+
+Item
+11. Executive Compensation. 
+
+Other
+than an employment agreement with our CEO Vikram Grover (below), we have not entered into employment agreements with our executive officers
+and their compensation, if any, is determined at the discretion of our Board of Directors. 
+
+We
+do not offer retirement benefit plans to our executive officers, nor have we entered any contract, agreement, plan, or arrangement, whether
+written or unwritten, that provides for payments to a named executive officer at, or in connection with, the resignation, retirement
+or other termination of a named executive officer, or a change in control of the company or a change in the named executive officer s
+responsibilities following a change in control. We do not have any standard arrangement for compensation of our directors for any services
+provided as director, including services for committee participation or for special assignments. 
+
+The
+Company does not have a compensation committee. Given the nature of the Company s business, its limited stockholder base and the
+current composition of management, the board of directors does not believe that the Company requires a compensation committee at this
+time. 
+
+The
+following table summarizes all compensation recorded by us in 2022 and 2021 for our Chief Executive Officer, who is are only executive
+officer. 
+
+SUMMARY
+COMPENSATION TABLE 
+
+Name and Principal Position 
+ Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards ) 
+ Option Awards ) 
+ Non-Equity Incentive
+ Plan Compensation ) 
+ Nonqualified Deferred
+ Compensation ) 
+ All Other Compensation
+ ) 
+ Total ) 
+
+Vikram Grover, CEO 
+ 2022 
+ 150,000 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 150,000 
+
+2021 
+ 150,000 
+ 0 
+ 0 
+ 200,000 
+ 0 
+ 0 
+ 0 
+ 350,000 
+
+Employment
+Agreement 
+
+The
+Company has an employment agreement with its Chief Executive Officer, Vikram Grover, compensating him 12,500 per month, including 5,000
+in cash compensation if the Company is not current and 7,500 in cash compensation if current with its Exchange Act, with the balance
+due in restricted Series B Preferred shares. During he year ended December 31, 2022, the Company paid 52,499 and accrued 97,401 in
+compensation. During 2021, Mr. Grover converted all accrued compensation into Series B Preferred shares, leaving amounts due to him on
+December 31, 2021 at 0.00. 
+
+Stock
+Option Plan 
+
+We
+do not have a stock option plan although we may adopt one or more such plans in the future. 
+
+Employee
+Pension, Profit Sharing, or other Retirement Plans 
+
+We
+do not have a defined benefit, pension plan, profit sharing or other retirement plan, although we may adopt one or more of such plans
+in the future. 
+
+14 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth, as of the date of this Annual Report, certain information with respect to the Company s common stock
+owned of record or beneficially by (a) each director and executive officer of the Company; (b) each person who owns beneficially more
+than five percent (5 of each class of the Company s outstanding common stock; and (c) all directors and executive officers as
+a group. The address of each of these individuals are c/o the Company, 831 W North Ave., Pittsburgh, PA 15233. 
+
+Title of Class 
+ Name and Address
+ of Beneficial Owner 
+ Amount
+ and 
+ Nature of Beneficial 
+ Ownership (1) 
+ Percent
+ of Class
+ (2) 
+ 
+ Common Stock 
+ Vikram Grover 
+ 2,149,815,000 
+ 15.0 
+ 
+ Common Stock 
+ All Directors and Officers as a Group (1 person) 
+ 2,149,815,000 
+ 15.0 
+
+(1) 
+ 
+ Represents
+ shares of common stock issuable upon conversion of Series A, B and C Preferred Shares. Holders
+ of Series A, B and C Preferred Shares vote on all matters presented to stockholders for a
+ vote on an as converted basis together with our common stock as a single class,
+ except as required by law. 
+
+(2) 
+ Unless
+ otherwise indicated, based on 8,620,188,088 shares of common stock issued and outstanding as of the date of this Annual Report. Shares
+ of common stock subject to options or warrants currently exercisable or exercisable within 60 days, are deemed outstanding for purposes
+ of computing the percentage of the person holding such options or warrants but are not deemed outstanding for the purposes of computing
+ the percentage of any other person. 
+
+Item
+13. Certain Relationships and Related Transactions and Director Independence. 
+
+Related
+Party Transactions 
+
+None. 
+
+Director
+Independence 
+
+Our
+Common Stock is not quoted or listed on any national exchange or interdealer quotation system with a requirement that a majority of our
+board of directors be independent and therefore, the Company is not subject to any director independence requirements. Under NASDAQ Rule
+5605(a)(2)(A), a director is not considered to be independent if he or she is also an executive officer or employee of the corporation.
+Under such definition our three officers and directors would not be considered an independent director. 
+
+Item
+14. Principal Accountant Fees and Services. 
+
+Urish
+Popeck LLC, is our independent registered public accounting firm for the year ended December 31, 2022. Assurance Dimensions was our independent
+registered public accounting firm for the year ended December 31, 2021. 
+
+Year ended December 31, 
+
+2022 
+ 2021 
+ 
+ Audit Fees 
+ 110,000 
+ 50,000 
+
+Audit-Related Fees 
+ -0- 
+ 5,000 
+
+Tax Fees 
+ -0- 
+ -0- 
+
+All Other Fees 
+ -0- 
+ -0- 
+
+Pre-Approval
+Policy 
+
+Our
+Board preapproved all services provided by our independent registered public accounting firm. For any non-audit or non-audit related
+services, the Board must conclude that such services are compatible with their independence as our independent registered public accounting
+firm. 
+
+PART
+IV 
+
+Item
+15. Financial Statements and Exhibits. 
+
+(a) 
+ The
+ following documents are filed as part of this Report: 
+
+(1) 
+ Financial
+ Statements. The following consolidated financial statements and the report of our independent registered public accounting
+ firm, are filed as Item 8. Financial Statements and Supplementary Data of this Report: 
+
+Reports
+of Independent Registered Public Accounting Firms (PCAOB ID: 1013) 
+
+Reports
+of Independent Registered Public Accounting Firms (PCAOB ID: 5525) 
+
+Consolidated
+Balance Sheets as of December 31, 2022 and 2021 
+
+Consolidated
+Statements of Operations for the years ended December 31, 2022 and 2021 
+
+Consolidated
+Statements of Stockholders Deficiency for the years ended December 31, 2022 and 2021 
+
+Consolidated
+Statements of Cash Flows for the years ended December 31, 2022 and 2021 
+
+Notes
+to Consolidated Financial Statements December 31, 2022 and 2021 
+
+(2) 
+ Financial
+ Statement Schedules 
+
+None. 
+
+15 
+
+(3)
+ Exhibits 
+
+Exhibit
+ No. 
+ 
+ Description 
+
+2.1 
+ 
+ Plan
+ and Agreement of Reorganization dated as of January 30, 2014, among the Company, 2050 Motors and the 2050 Motors Shareholders. 
+
+3.1 
+ 
+ Articles
+ of Incorporation 
+
+3.2 
+ 
+ Articles
+ of Amendment 
+
+3.3 
+ 
+ Amended
+ and Restated By-laws December 16, 2019 
+
+10.1 
+ 
+ Convertible
+ Note Between the Company and Auctus Fund LLC dated January 6, 2017 
+
+10.2 
+ 
+ Convertible
+ Note Between the Company and JSJ Investments dated April 25, 2017 
+
+10.3 
+ 
+ Convertible
+ Note and Warrant Agreement Between the Company and Crown Bridge Partners LLC September 15, 2017 
+
+10.4 
+ 
+ Convertible
+ Note Between the Company and LG Capital Funding, LLC dated November 14, 2017 
+
+10.5 
+ 
+ Convertible
+ Note Between the Company and Power Up Lending Group Ltd. dated January 24, 2018 
+
+10.6 
+ 
+ Convertible
+ Note Between the Company and Power Up Lending Group Ltd. dated February 22, 2018 
+
+10.7 
+ 
+ Convertible
+ Note Between the Company and Power Up Lending Group Ltd. dated April 11, 2018 
+
+10.8 
+ 
+ Convertible
+ Note Between the Company and Power Up Lending Group Ltd. dated April 27, 2018. 
+
+10.9 
+ 
+ Convertible
+ Note Between the Company and Jabro Funding Corp. dated July 23, 2018 
+
+10.10 
+ 
+ Convertible
+ Note Between the Company and Jabro Funding Corp. dated October 1, 2018 
+
+10.11 
+ 
+ Convertible
+ Note Between the Company and Power Up Lending Group Ltd. dated November 1, 2018 
+
+16 
+
+10.12 
+ 
+ Convertible
+ Note Between the Company and Power Up Lending Group Ltd. dated March 8, 2019 
+
+10.13 
+ 
+ Convertible
+ Note Between the Company and Tri-Bridge Ventures LLC dated March 15, 2019 
+
+10.14 
+ 
+ Convertible
+ Note Between the Company and Power Up Lending Group Ltd. dated July 9, 2019 
+
+10.15 
+ 
+ Convertible
+ Note Between the Company and GS Capital Partners LLC dated September 6, 2019 
+
+10.16 
+ 
+ Convertible
+ Note Between the Company and GS Capital Partners LLC dated November 12, 2019 
+
+10.17 
+ 
+ Convertible
+ Note Between the Company and Power Up Lending Group Ltd. dated November 14, 2019 
+
+10.18 
+ 
+ Convertible
+ Note Between the Company and Auctus Fund LLC dated October 28, 2020 
+
+10.19 
+ 
+ Definitive
+ Acquisition Agreement Between the Company and Purge Virus, LLC September 29, 2020 
+
+10.20 
+ 
+ FOMO
+ WORLDWIDE, INC. Purge Virus, LLC Reps and Warranties October 18, 2020 
+
+10.21 
+ 
+ Convertible
+ Debenture Loan Agreement with GS Capital January 20, 2021 
+
+10.22 
+ 
+ Convertible
+ Loan Agreement Power Up Lending April 8, 2021 
+
+10.23 
+ 
+ Convertible
+ Loan Agreement Power Up Lending May 10, 2021 
+
+10.24 
+ 
+ Convertible
+ Loan Agreement GS Capital June 25, 2021 
+
+10.25 
+ 
+ Convertible
+ Loan Agreement Power Up Lending September 22, 2021 
+
+31.1 
+ 
+ Certification
+ of Principal Executive Officer and Principal Financial Officer pursuant to Rule 13a-14 and Rule 15d 14(a), promulgated under the
+ Securities and Exchange Act of 1934, as Amended. 
+
+32.1 
+ 
+ Certification
+ of Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+ 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+
+101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+ 
+ Inline
+ XBRL Taxonomy Extension Calculation Link base Document 
+
+101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition Link base Document 
+
+101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Label Link base Document 
+
+101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation Link base Document 
+
+104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+Incorporated
+ by reference to the Company s Form 8-K as filed with the SEC on February 5, 2014. 
+
+Incorporated
+ by reference to the Company s Registration Statement on Form 10 s as filed with the SEC on October 30, 2012, July 19,
+ 2019 and December 7, 2020 (amended December 8, 2020). And by reference to Company s Form 10K filed December 31, 2020 and the
+ Company s 8K filed October 7, 2020. Filed by reference to Form 10-Q for the three months ended March 31, 2021 filed on EDGAR
+ on May 24, 2021 and Form 10-Q for six months ended June 30, 2021 filed on EDGAR on August 16, 2021. 
+
+Filed
+ herewith. 
+
+Item
+16. Form 10-K Summary 
+
+None. 
+
+17 
+
+SIGNATURES 
+
+In
+accordance with the Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized on the 14 th day of April 2023. 
+
+FOMO
+ WORLDWIDE, INC. 
+
+By: 
+ /s/
+ Vikram Grover 
+
+Vikram
+ Grover, Chief Executive Officer and sole Director 
+ (Principal
+ Executive, Financial and Accounting Officer) 
+
+18 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION 
+
+I,
+Vikram Grover, Chairman of the Board (principal executive, financial and accounting officer) of FOMO WORLDWIDE, INC. certify that: 
+
+1. 
+ I
+ have reviewed this report on Form 10-K of FOMO WORLDWIDE, INC.; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ I,
+ as the registrant s principal executive, financial and accounting officer, am responsible for establishing and maintaining
+ disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a. 
+ designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to
+ ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under my
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report my conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+
+5. 
+ I,
+ as the registrant s principal executive, financial and accounting officer, have disclosed, based on our most recent evaluation
+ of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board
+ of directors (or persons performing the equivalent functions): 
+
+a. 
+ all
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+FOMO
+WORLDWIDE, INC. 
+
+By: 
+ /s/ Vikram Grover 
+
+Vikram
+ Grover 
+
+Chief
+ Executive Officer 
+ (principal
+ executive, financial and accounting officer) 
+
+April
+ 14, 2023 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED 
+
+ PURSUANT
+TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the report of FOMO WORLDWIDE, INC. (the Company on Form 10-K for the year ending December 31, 2022 as
+filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, as the Company s
+principal executive, financial and accounting officer hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that to his knowledge: 
+
+(1) 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Company. 
+
+FOMO
+WORLDWIDE, INC. 
+
+By: 
+ /s/ Vikram Grover 
+
+Vikram
+ Grover 
+
+Chief
+ Executive Officer 
+ (principal
+ executive, financial and accounting officer) 
+
+April
+ 14, 2023 
+
+/s/
+ Vikram Grover 
+
+Vikram
+ Grover 
+
+Chief
+ Financial Officer 
+
+April
+ 14, 2023 
+
+</EX-32.1>
+

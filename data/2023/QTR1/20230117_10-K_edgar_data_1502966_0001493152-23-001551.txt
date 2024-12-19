@@ -1,0 +1,4305 @@
+<Header>
+<FileStats>
+    <FileName>20230117_10-K_edgar_data_1502966_0001493152-23-001551.txt</FileName>
+    <GrossFileSize>7114543</GrossFileSize>
+    <NetFileSize>171588</NetFileSize>
+    <NonText_DocumentType_Chars>1225250</NonText_DocumentType_Chars>
+    <HTML_Chars>2364413</HTML_Chars>
+    <XBRL_Chars>1496886</XBRL_Chars>
+    <XML_Chars>1674527</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-001551.hdr.sgml : 20230117
+<ACCEPTANCE-DATETIME>20230117093035
+ACCESSION NUMBER:		0001493152-23-001551
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		83
+CONFORMED PERIOD OF REPORT:	20220930
+FILED AS OF DATE:		20230117
+DATE AS OF CHANGE:		20230117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Digipath, Inc.
+		CENTRAL INDEX KEY:			0001502966
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-TESTING LABORATORIES [8734]
+		IRS NUMBER:				273601979
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54239
+		FILM NUMBER:		23530496
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6450 CAMERON ST., SUITE 113
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89118
+		BUSINESS PHONE:		702-527-2060
+
+	MAIL ADDRESS:	
+		STREET 1:		6450 CAMERON ST., SUITE 113
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89118
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DigiPath,Inc.
+		DATE OF NAME CHANGE:	20101006
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-001551.txt : 20230117
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+D.C. 20549 
+
+FORM
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE 
+ SECURITIES
+ EXCHANGE ACT OF 1934 
+
+For
+ the fiscal year ended , 
+ 
+ OR 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE 
+ SECURITIES
+ EXCHANGE ACT OF 1934 
+
+For
+ the transition period from ____________ to ____________ 
+
+Commission
+ file number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ 
+ (I.R.S.
+ Employer 
+ 
+ incorporation
+ or organization) 
+ 
+ Identification
+ No.) 
+
+, 
+
+ , 
+
+ (Address
+of principal executive offices and zip code) 
+
+Registrant s
+telephone number, including area code: 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+ 
+ N/A 
+ 
+ N/A 
+ 
+ N/A 
+
+Securities
+registered pursuant to Section 12(g) of the Act: Common Stock 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. 
+
+Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. 
+
+No
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+No
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes
+
+The
+aggregate market value of the registrant s common stock held by non-affiliates of the registrant based upon the closing price of
+ 0.023 per share as of March 31, 2022 was approximately . 
+
+As
+of January 13, 2023, there were shares of registrant s common stock outstanding. 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE: 
+
+TABLE
+OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. Business 
+ 
+ 1 
+ 
+ Item 1A. Risk Factors 
+ 4 
+ 
+ Item 1B. Unresolved Staff Comments 
+ 
+ 7 
+ 
+ Item 2. Properties 
+ 
+ 8 
+ 
+ Item 3. Legal Proceedings 
+ 
+ 8 
+ 
+ Item 4. Mine Safety Disclosures 
+ 
+ 8 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 9 
+ 
+ Item 6. Selected Financial Data 
+ 
+ 10 
+ 
+ Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 11 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 16 
+ 
+ Item 8. Financial Statements and Supplementary Data 
+ 
+ 17 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 18 
+ 
+ Item 9A. Controls and Procedures 
+ 
+ 18 
+ 
+ Item 9B. Other Information 
+ 
+ 19 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 
+ 19 
+ 
+ Item 11. Executive Compensation 
+ 
+ 21 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 23 
+ 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 
+ 23 
+ 
+ Item 14. Principal Accounting Fees and Services 
+ 
+ 23 
+
+PART IV 
+
+Item 15. Exhibits and Financial Statement Schedules 
+ 
+ 24 
+ 
+ SIGNATURES 
+ 
+ 27 
+
+PART
+I 
+
+Forward
+Looking Statements 
+
+This
+Form 10-K contains forward-looking statements including statements regarding our expectations of our future operations.
+For this purpose, any statements contained in this Form 10-K that are not statements of historical fact may be deemed to be forward-looking
+statements. Without limiting the foregoing, words such as may, will, expect, believe, 
+ anticipate, estimate, or continue or comparable terminology are intended to identify forward-looking
+statements. These statements by their nature involve substantial risks and uncertainties, and actual results may differ materially depending
+on a variety of factors, many of which are not within our control. 
+
+These
+risks and uncertainties include demand for our products and services, governmental regulation of the cannabis industry, our ability to
+maintain customer and strategic business relationships, the impact of competitive products and pricing, growth in targeted markets, the
+adequacy of our liquidity and financial strength to support our growth, general economic and market conditions; our ability to sustain,
+manage, or forecast growth, our ability to successfully make and integrate acquisitions, new product development and introduction, existing
+government regulations and changes in, or the failure to comply with, government regulations, adverse publicity, difficulty in forecasting
+operating results, change in business strategy or development plans, business disruptions, and the ability to attract and retain qualified
+personnel. Although the forward-looking statements in this report reflect the good faith judgment of our management, such statements
+can only be based on facts and factors currently known by them. In light of these risks and uncertainties, you are cautioned not to place
+undue reliance on these forward-looking statements. Except as required by law, we undertake no obligation to announce publicly revisions
+we make to these forward-looking statements to reflect the effect of events or circumstances that may arise after the date of this report.
+All written and oral forward-looking statements made subsequent to the date of this report and attributable to us or persons acting on
+our behalf are expressly qualified in their entirety by this section. 
+
+ITEM
+1. DESCRIPTION OF BUSINESS 
+
+Overview 
+
+Digipath,
+Inc. was incorporated in Nevada on October 5, 2010. Digipath, Inc. and its subsidiaries Digipath, the Company, 
+ we, our or us is a service-oriented independent testing laboratory and data analytics company
+focused on the developing cannabis and hemp markets, and supports the cannabis industry s best practices for reliable testing.
+Our mission is to provide pharmaceutical-grade analysis and testing to the cannabis industry, under ISO-17025:2017 guidelines, to ensure
+consumers and patients know exactly what is in the cannabis they ingest and to help maximize the quality of our clients products
+through research, development, and standardization. Digipath has been operating a cannabis-testing lab in Nevada since 2015 and has plans
+to open labs in other states that have legalized the sale of cannabis, beginning with California. 
+
+Business 
+
+Our
+cannabis testing business is operated through our wholly owned subsidiary, Digipath Labs, Inc., which performs all cannabis related testing
+using FDA-compliant laboratory equipment and processes. We opened our first testing lab in Las Vegas, Nevada in May of 2015 to serve
+the new State approved and licensed medical marijuana industry. We have plans to open labs in other legal states, assuming resources
+permit. 
+
+We
+seek to be the nation s highest standard, full-service testing lab for cannabis, hemp and ancillary cannabis and hemp infused products.
+We are a third party independent testing laboratory facility for cannabis, cannabis infused products, hemp and other botanical nutraceuticals
+to serve growers, dispensaries, caregivers, producers, patients and eventually all end users of cannabis and botanical products. 
+
+Our
+mission is to provide pharmaceutical-grade analysis and testing to the cannabis and hemp industry, under ISO-17025:2017 guidelines, to
+ensure consumers and patients know exactly what is in the cannabis and hemp they ingest and to help maximize the quality of our client s
+products through research, development and standardization. 
+
+1 
+
+As
+a premier cannabis and hemp testing laboratory with ISO-17025:2017 accreditation, we take a careful, strategic approach to all of our
+cannabis and hemp testing. A diverse array of tests combined with our lab equipment and analytical instrumentation enable us to accurately
+test cannabis and hemp for potency, the presence of pesticides, microbial contamination, metals and heavy metals, which include, but
+are not limited to, substances like arsenic, cadmium, lead, or mercury. Not only is testing for potency and Cannabidiol CBD and tetrahydrocannabinol THC content important, we recognize that more profound testing is needed particularly as a true
+national standard is developed. Digipath Labs is committed to follow Food and Drug Administration FDA ), Drug Enforcement
+Agency DEA ), Environmental Protection Agency EPA ), US Department of Agriculture USDA guidelines,
+proprietary standard operating procedures SOP ), and Good Lab Practices GLP that are in line with current
+Federal and State governing bodies. We utilize a variety of tests to safely and effectively share enhanced understanding of the cannabis
+plant with caregivers, dispensaries and patients. We are committed to the advancement of science by offering a method of standardization
+for cannabis that is intricate and accurate. This approach and our investment in state-of-the-art testing equipment are of the utmost
+importance. 
+
+Digipath
+Labs screens medicinal and recreational cannabis for potentially harmful contaminants, including: 
+
+-
+Residual Solvents (for extracts) 
+
+ -
+Moisture 
+
+ -
+Water Activity 
+
+ -
+Visual Inspection 
+
+ -
+Pesticides 
+
+ -
+Heavy metals, including mercury, arsenic, lead, cadmium, chromium and nickel 
+
+ -
+Biological toxins, such as aflatoxin and ocratoxins 
+
+ -
+Microbial contaminants including E. coli, salmonella, coliforms, aspergillus, gram negative bacteria, total aerobic bacteria and mold
+and yeast 
+
+Digipath
+Labs also tests cannabis and hemp for its quality, potency, and cannabinoid and terpene profiles, which determine the suitability of
+specific chemoprofiles for the treatment of specific ailments. 
+
+We
+utilize one of our two Ultra-High Performance Liquid Chromatographs UPLC ), which accurately separates and measures the
+cannabinoid content of any sample of flower, edible, concentrate or other cannabis products. Our Inductively Coupled Plasma Mass Spectrometer ICP-MS is utilized for heavy metals testing, and provides accurate readings for harmful metals ensuring that the Parts
+Per Billion PPB are substantially below the regulated and accepted trace amounts. Our laboratory testing equipment is
+calibrated using third party reference standards to ensure precision measurements throughout the testing process and has been certified
+by ISO-17025:2017 standards. 
+
+With
+accurate science becoming a major part of the cannabis and hemp industry, the major question is one of standards; we hold ourselves accountable
+and provide efficient and accurate research and results to our clients. Our test results are meant to help dispensaries, caregivers and
+patients know the concentration and quality of their cannabis without having to question the credibility of the data. 
+
+Market
+Overview 
+
+According
+to New Frontier Data, a cannabis researcher based in Washington, D.C., the hemp CBD business worldwide will grow from 4.4 billion in
+2018 to over 14.7 billion by 2026, and the worldwide cannabis industry in 2019 generated 15 Billion. In 2024 that will increase to
+ 44.8 Billion. Total legal sales of cannabis in current legal states are projected to grow at a compound annual growth rate (CAGR) of
+14 over the next six years, reaching nearly 30 billion by 2025. This figure takes into account the likely projection that more states
+will legalize. Currently, thirty-nine states and the District of Columbia have passed some kind of medical and/or adult use marijuana
+laws. 
+
+Annual
+ sales of medical cannabis are projected to grow at a 17 CAGR through 2025, to an estimated 13.1 billion by 2025; adult-use sales
+ are projected to grow at a 16 CAGR, to 16.6 billion. 
+
+An
+ estimated 38.4 million U.S. adults consume cannabis at least once annually, from either a legal or illicit source. 
+
+36 
+ of cannabis consumers report using cannabis daily, and 59 use cannabis at least once a week. 
+
+With
+increased legalization nationwide, the lab-testing sector is expected to experience substantial growth. According to The Insight Partners,
+the cannabis testing market is expected to reach approximately 2.5 billion in 2025, with an estimated CAGR of 11.9 from 2017-2025.
+The data troves collected through the testing process are already creating value and could become an increasingly valuable asset and
+generate substantial revenue for the most accomplished laboratories. This data could also be used to determine specific genetic attributes
+of targeted cannabinoids and assist with maximizing medicinal benefits and individualized medicine in the future. 
+
+2 
+
+Competition 
+
+The
+cannabis industry in the United States is highly fragmented, rapidly expanding and evolving. The industry is characterized by new and
+potentially disruptive or conflicting legislation promulgated on a state-by-state basis. Our competitors include local enterprises, some
+of which may have financial, technical, sales, marketing and other resources greater than ours. These companies also compete with us
+in recruiting and retaining qualified personnel and consultants. 
+
+Our
+competitive position depends on our ability to attract and retain qualified scientists and other personnel, develop effective proprietary
+products and solutions, the personal relationships of our executive officers and directors, and our ability to secure adequate capital
+resources. We compete to attract and retain customers of our services. We compete in this area on the basis of price, regulatory compliance,
+vendor relationships, usefulness, availability, excellent customer service and ease of use of our services. 
+
+Government
+Regulation 
+
+Marijuana
+is categorized as a Schedule-I controlled substance by the Drug Enforcement Agency and the United States Department of Justice and is
+illegal to grow, possess and consume under Federal law. A Schedule-I controlled substance is defined as a substance that has no currently
+accepted medical use in the United States, a lack of safety for use under medical supervision and a high potential for abuse. The Department
+of Justice defines Schedule 1 controlled substances as the most dangerous drugs of all the drug schedules with potentially severe
+psychological or physical dependence. However, since 1995, thirty-nine states and the District of Columbia have passed some kind
+of medical and/or adult use marijuana laws. This has created an unpredictable business-environment for dispensaries and collectives that
+legally operate under state-laws but in violation of Federal law. On August 29, 2013, United States Deputy Attorney General James Cole
+issued the Cole Memo to United States Attorneys guiding them to prioritize enforcement of Federal law away from the cannabis industry
+operating as permitted under state law, so long as: 
+
+cannabis
+ is not being distributed to minors and dispensaries are not located around schools and public buildings; 
+
+the
+ proceeds from sales are not going to gangs, cartels or criminal enterprises; 
+
+cannabis
+ grown in states where it is legal is not being diverted to other states; 
+
+cannabis-related
+ businesses are not being used as a cover for sales of other illegal drugs or illegal activity; 
+
+there
+ is not any violence or use of fire-arms in the cultivation and sale of marijuana; 
+
+there
+ is strict enforcement of drugged-driving laws and adequate prevention of adverse health consequences; and 
+
+cannabis
+ is not grown, used, or possessed on Federal properties. 
+
+The
+Cole Memo was meant only as a guide, not a rule of law, for United States Attorneys and did not alter in any way the Department of Justice s
+Federal authority to enforce Federal law, including Federal laws relating to cannabis, regardless of state law. Moreover, the Cole Memorandum
+also provided that it could not be used as a defense to any criminal prosecution. 
+
+On
+January 4, 2018, United States Attorney General Jefferson Sessions issued a Memorandum to United States Attorneys rescinding the Cole
+Memorandum, stating that prosecutors should follow well-established principles in effect prior to the issuance of the Cole Memorandum
+that govern all federal prosecutions in deciding which activities to prosecute under existing federal laws. Federal legislation has been
+proposed over the years to reschedule or de-schedule cannabis, as well as to transform the Cole Memorandum into a rule of law. 
+
+Customers 
+
+We
+provide cannabis and hemp lab testing services in Las Vegas to Nevada licensed Medical Marijuana Enterprises MMEs ), and
+have expanded to recreational use facilities with the recently passed legislation that allows for the recreational use of marijuana in
+Nevada. We sell our services to these enterprises on a fixed fee per test or panel of tests, and offer a discounted price for customers
+based on volume. On June 17, 2014, Clark County initially approved a total of 117 special use permits for cultivation and 87 production
+applicants. Since the inception of legalized adult-use marijuana, Nevada has issued 288 cannabis-related licenses, including those for
+retail stores, cultivation, production, and testing labs, according to the state taxation department. We have worked with over 90 cultivators
+and producers in and around Clark and Nye County. As new harvests come to market, we anticipate further customer growth, especially with
+the relatively recent legalization of recreational cannabis in the State of Nevada in 2017. 
+
+3 
+
+Marketing,
+Sales and Support 
+
+We
+use a range of communication platforms to reach our target customers. The goal of the marketing strategy is to position us as the leading
+testing company in the botanical, nutraceutical, and cannabis industries in the country. Our marketing efforts include digital/online,
+industry conferences and affiliations, media outreach, direct response and public relations. We believe that these efforts have the ability
+to deliver our brand message in a powerful way to maximize audience reach. 
+
+Seasonality 
+
+Our
+business is not subject to seasonality. 
+
+Insurance 
+
+We
+maintain property, business interruption and casualty insurance. 
+
+Employees 
+
+As
+of September 30, 2022, we had seventeen employees. None of our employees are members of a trade union. We believe that we maintain good
+relationships with our employees and have not experienced any strikes or shutdowns and have not been involved in any labor disputes. 
+
+Corporate
+Information 
+
+Our
+principal executive offices are located at 6450 Cameron Street, Suite 113, Las Vegas, Nevada 89118, Telephone No.: (702) 527-2060. Our
+website is located at http:// www.digipath.com . The content on our website is available for information purposes only. It should
+not be relied upon for investment purposes, nor is it incorporated by reference into this Report. 
+
+ITEM
+1A. Risk Factors 
+
+The
+following important factors, and the important factors described elsewhere in this report or in our other filings with the SEC, could
+affect (and in some cases have affected) our results and could cause our results to be materially different from estimates or expectations.
+Other risks and uncertainties may also affect our results or operations adversely. The following and these other risks could materially
+and adversely affect our business, operations, results or financial condition. 
+
+An
+investment in the Company is highly speculative in nature and involves an extremely high degree of risk. 
+
+Our
+auditor has expressed substantial doubt about our ability to continue as a going concern. We may be unable to obtain additional capital
+required to implement our business plan. As a result of recurring net losses and insufficient cash reserves, our independent
+certified public accountant has added a paragraph to its report on our financial statements for the year ended September 30, 2022 questioning
+our ability to continue as a going concern. Our ability to continue as a going concern is dependent upon our ability to raise additional
+capital and to achieve sustainable revenues and profitable operations. Since inception, we have raised funds primarily through the sale
+of equity securities. We will need and are currently seeking additional funds to operate our business. No assurance can be given that
+any future financing will be available or, if available, that it will be on terms that are satisfactory to us. Even if we are able to
+obtain additional financing, it may contain undue restrictions on our operations or cause substantial dilution for our stockholders.
+If we are unable to obtain additional funds, our ability to carry out and implement our planned business objectives and strategies will
+be significantly delayed, limited or may not occur. We cannot guarantee that we will become profitable. Even if we achieve profitability,
+given the competitive and evolving nature of the industry in which we operate, we may not be able to sustain or increase profitability
+and our failure to do so would adversely affect our business, including our ability to raise additional funds. 
+
+We
+have a limited operating history and if we are not successful in continuing to grow our business, then we may have to scale back or even
+cease our ongoing business operations. We have a limited operating history. Our operations are subject to all the risks inherent
+in the establishment of a developing enterprise and the uncertainties arising from the absence of a significant operating history. If
+our business plan is not successful, and we are not able to operate profitably, investors may lose some or all of their investment in
+our company. 
+
+4 
+
+Our
+plans are dependent upon key individuals and the ability to attract qualified personnel . In order to execute our business plan,
+we will be dependent on upon our executive officers and directors, as well as other key personnel. The loss of any of the foregoing individuals
+could have a material adverse effect upon our business prospects. Moreover, our success continues to depend to a significant extent on
+our ability to identify, attract, hire, train and retain qualified professional, creative, technical and managerial personnel. Competition
+for such personnel is intense, and there can be no assurance that we will be successful in identifying, attracting, hiring, training,
+and retaining such personnel in the future. If we are unable to hire, assimilate and retain such qualified personnel in the future, our
+business, operating results, and financial condition could be materially adversely affected. We may also depend on third party contractors
+and other partners, to assist with the execution of our business plan. There can be no assurance that we will be successful in either
+attracting and retaining qualified personnel, or creating arrangements with such third parties. The failure to succeed in these endeavors
+would have a material adverse effect on our ability to consummate our business plans. 
+
+Risks
+Related To Cannabis Related Businesses 
+
+Our
+business is dependent on state laws pertaining to the cannabis industry. As of November, 2022, thirty-eight states and the District
+of Columbia allow its citizens to use medical cannabis. Additionally, twenty-one states and the District of Columbia have legalized cannabis
+for adult recreational use, and additional recreational measures are expected to be pursued by other states in the future. Continued
+development of the cannabis industry is dependent upon continued legislative authorization of cannabis at the state level. Any number
+of factors could slow or halt progress in this area. Further, progress in the cannabis industry, while encouraging, is not assured. While
+there may be ample public support for legislative action, numerous factors impact the legislative process. Any one of these factors could
+slow or halt use of cannabis, which would negatively impact our business. 
+
+Cannabis
+remains illegal under federal law and a change in federal enforcement practices could significantly and negatively affect our business.
+ Despite the development of a cannabis industry legal under state laws, state laws legalizing medicinal and adult cannabis use
+are in conflict with the Federal Controlled Substances Act, which classifies cannabis as a Schedule-I controlled substance and makes
+cannabis use and possession illegal on a national level. The United States Supreme Court has ruled that it is the Federal government
+that has the right to regulate and criminalize cannabis, even for medical purposes, and thus Federal law criminalizing the use of cannabis
+preempts state laws that legalize its use. While the Obama Administration s Department of Justice adopted a policy (known as the
+Cole Memorandum) that effectively stated that it was not an efficient use of resources to direct Federal law enforcement agencies to
+prosecute those lawfully abiding by state-designated laws allowing the use and distribution of medical cannabis, on January 4, 2018,
+the United States Attorney General rescinded the Cole Memorandum. The Federal government s enforcement of Federal laws could cause
+significant financial damage to us and our shareholders. 
+
+The
+loss or temporary suspension of one or more of our licenses could significantly reduce our revenues. Our ability to operate our
+cannabis testing lab is dependent upon maintaining licenses issued by state and local regulators in Nevada. Our cannabis testing and
+business licenses were briefly suspended by Nevada regulators on January 19, 2018 and were reinstated on January 31, 2018. This significantly
+affected our financial results for the second and third fiscal quarters of 2018. In order to retain our licenses, we are required to
+comply with ongoing compliance and reporting requirements and ongoing regulation and oversight by governmental authorities. Any failure
+to comply with any such regulatory requirements or any failure to maintain any required licenses would have a material adverse effect
+on our business, financial condition, results of operation and, in the extreme case, require us to discontinue operations. 
+
+5 
+
+As
+the possession and use of cannabis is illegal under the Federal Controlled Substances Act, we may be deemed to be aiding and abetting
+illegal activities through the services that we provide. As a result, we may be subject to enforcement actions by law enforcement authorities,
+which would materially and adversely affect our business. Under Federal law, and more specifically the Federal Controlled Substances
+Act, the possession, use, cultivation, and transfer of cannabis is illegal. Our business provides services to customers that are engaged
+in the business of possession, use, cultivation, and/or transfer of cannabis. As a result, law enforcement authorities, in their attempt
+to regulate the illegal use of cannabis, may seek to bring an action or actions against us, including, but not limited, to a claim of
+aiding and abetting another s criminal activities. The Federal aiding and abetting statute provides that anyone who commits
+an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal. 
+18 U.S.C. 2(a). As a result of such an action, we may be forced to cease operations and our investors could lose their entire investment.
+Such an action would have a material negative effect on our business and operations. 
+
+Laws
+and regulations affecting the cannabis and marijuana industries are constantly changing, which could detrimentally affect our business,
+and we cannot predict the impact that future regulations may have on us. Local, state and federal cannabis laws and regulations
+are constantly changing and they are subject to evolving interpretations, which could require us to incur substantial costs associated
+with compliance or to alter one or more of our service offerings. In addition, violations of these laws, or allegations of such violations,
+could disrupt our business and result in a material adverse effect on our revenues, profitability, and financial condition. We cannot
+predict the nature of any future laws, regulations, interpretations or applications, nor can we determine what effect additional governmental
+regulations or administrative policies and procedures, when and if promulgated, could have on our business. Any change in law or interpretation
+could have a material adverse effect on our business, financial condition, and results of operations. 
+
+Federal
+enforcement practices could change with respect to services providers to participants in the cannabis industry, which could adversely
+impact us. If the federal government were to change its practices, or were to expand its resources attacking providers in the cannabis
+industry, such action could have a materially adverse effect on our operations, our customers, or the sales of our products. It
+is possible that additional Federal or state legislation could be enacted in the future that would prohibit our customers from selling
+cannabis, and if such legislation were enacted, such customers may discontinue the use of our services. We cannot predict the nature
+of any future laws, regulations, interpretations or applications, nor can we determine what effect additional governmental regulations
+or administrative policies and procedures, when and if promulgated, could have on our business. 
+
+Expansion
+by well-established laboratory testing companies into the cannabis industry could prevent us from realizing anticipated growth in customers
+and revenues. Traditional laboratory testing companies may expand their businesses into cannabis testing. If they decided to
+expand into cannabis testing, this could hurt the growth of our business and cause our revenues to be lower than we expect. 
+
+Due
+to our involvement in the cannabis industry, we may have a difficult time obtaining the various insurances that are desired to operate
+our business, which may expose us to additional risk and financial liabilities. Insurance that is otherwise readily available,
+such as workers compensation, general liability, and directors and officers insurance, is more difficult for us to find, and more
+expensive, because we are service providers to companies in the cannabis industry. We currently have adequate coverage, however, there
+are no guarantees that we will be able to find such insurances in the future, or that the cost will be affordable to us. If we are forced
+to go without such insurances, it may prevent us from entering into certain business sectors, may inhibit our growth, and may expose
+us to additional risk and financial liabilities. 
+
+Participants
+in the cannabis industry have difficulty accessing the service of banks, which makes it difficult for us to operate. Despite
+rules issued by the United States Department of the Treasury mitigating the risk to banks that do business with cannabis companies permitted
+under state law, as well as guidance from the United States Department of Justice, banks remain wary to accept funds from businesses
+in the cannabis industry. Our prior bank at which we maintained deposit accounts forced us to close our accounts. While after much difficulty
+we were recently able find a replacement banking institution, there can be no assurance that we will able to maintain this banking relationship.
+Since the use of cannabis remains illegal under Federal law, there remains a compelling argument that banks may be in violation of Federal
+law when accepting for deposit, funds derived from the sale or distribution of cannabis. Consequently, businesses involved in the cannabis
+industry, including us, continue to have trouble establishing and maintain banking relationships. An inability to open and maintain bank
+accounts may make it difficult for us and our customers to do business. In addition, our inability to maintain a bank account previously
+resulted in our holding large sums of cash. Although we store our cash in a secure safe, holding large sums of cash exposes us to a greater
+risk of theft. 
+
+The
+outbreak of the COVID-19 coronavirus has negatively impacted and could continue to negatively impact our business and the global economy.
+In addition, the COVID-19 pandemic could negatively impact our ability to obtain financing when required. 
+
+The
+COVID-19 coronavirus has spread across the globe and is impacting worldwide economic activity. A pandemic, including COVID-19 or other
+public health epidemic, poses the risk that we or our employees, customers, and other commercial partners may be prevented from conducting
+business activities for an indefinite period of time, including due to the spread of the disease or shutdowns requested or mandated by
+governmental authorities. During portions of our year ended September 30, 2022, the Company s cannabis testing operations significantly
+declined due to the decline in the Nevada cannabis markets, which resulted in turn from the substantial decline in Nevada tourism due
+to COVID-19. While our operations have recently improved due to the reopening of Nevada casinos and increased tourism compared to its
+recent depressed levels, there can be no assurance that this trend will continue. COVID-19 has also had an adverse impact on global economic
+conditions, which could impair our ability to raise capital when needed. 
+
+6 
+
+Risks
+Related To Our Common Stock 
+
+Our
+operating results may fluctuate causing volatility in our stock price. Our operating results may fluctuate as a result of a number
+of factors, many of which are outside of our control. The following factors may affect our operating results causing volatility in our
+stock price: 
+
+Our
+ ability to execute our business plan, compete effectively and attract customers; 
+
+Our
+ ability to respond effectively to a rapidly evolving regulatory and competitive landscape; 
+
+The
+ amount and timing of operating costs and capital expenditures related to the maintenance and expansion of our business, operations
+ and infrastructure; 
+
+Our
+ ability to obtain working capital financing; 
+
+Our
+ ability to attract, motivate and retain top-quality employees; 
+
+Investors 
+ general perception of us; and 
+
+General
+ economic conditions and those economic conditions specific to cannabis industry. 
+
+Trading
+in our common stock has been limited, there is no significant trading market for our common stock, and purchasers of our common stock
+may be unable to sell their shares. Our common stock is currently eligible for quotation on the OTCQB and OTCBB, however trading
+to date has been limited. If activity in the market for shares of our common stock does not increase, purchasers of our shares may find
+it difficult to sell their shares. We currently do not meet the initial listing criteria for any registered securities exchange, including
+the Nasdaq Stock Market. The OTCQB and OTCBB are often characterized by low trading volume and significant price fluctuations. These
+and other factors may further impair our stockholders ability to sell their shares when they want to and/or could depress our
+stock price. As a result, stockholders may find it difficult to dispose of, or obtain accurate quotations of the price of our securities
+because smaller quantities of shares could be bought and sold, transactions could be delayed and security analyst and news coverage of
+our Company may be limited. These factors could result in lower prices and larger spreads in the bid and ask prices for our shares of
+common stock. 
+
+Applicable
+sec rules governing the trading of penny stocks may limit the trading and liquidity of our common stock which may affect
+the trading price our common stock. Our common stock is a penny stock as defined under Rule 3a51-1 of the Exchange
+Act, and is accordingly subject to SEC rules and regulations that impose limitations upon the manner in which our common stock can be
+publicly traded. Penny stocks generally are equity securities with a per share price of less than 5.00 (other than securities registered
+on some national securities exchanges or quoted on NASDAQ). The penny stock rules require a broker-dealer, prior to a transaction in
+a penny stock not otherwise exempt from the rules, to deliver a standardized risk disclosure document that provides information about
+penny stocks and the nature and level of risks in the penny stock market. The broker-dealer also must provide the customer with current
+bid and offer quotations for the penny stock, the compensation of the broker-dealer and its salesperson in the transaction, and, if the
+broker-dealer is the sole market maker, the broker-dealer must disclose this fact and the broker-dealer s presumed control over
+the market, and monthly account statements showing the market value of each penny stock held in the customer s account. In addition,
+broker-dealers who sell these securities to persons other than established customers and accredited investors must make
+a special written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser s written
+agreement to the transaction. Consequently, these requirements may have the effect of reducing the level of trading activity, if any,
+of our common stock and reducing the liquidity of an investment in our common stock. 
+
+We
+have outstanding shares of preferred stock with rights and preferences superior to those of our common stock. The issued and
+outstanding shares of Series A Convertible Preferred Stock and Series B Preferred Stock grant the holders of such preferred stock liquidation
+rights that are superior to those held by the holders of our common stock. 
+
+We
+have not paid dividends in the past and do not expect to pay dividends in the future. Any return on investment may be limited to the
+value of our common stock . We have never paid cash dividends on our common stock and do not anticipate doing so in the foreseeable
+future. The payment of dividends on our common stock depends on earnings, financial condition and other business and economic factors
+affecting us at such time as our board of directors may consider relevant. 
+
+ITEM
+1B. Unresolved Staff Comments 
+
+None. 
+
+7 
+
+ITEM
+2. Properties 
+
+Our
+principal executive offices are located at 6450 Cameron Street, Suite 113, Las Vegas, Nevada 89118, Telephone No.: (702) 527-2060. Our
+leased premises are 6,000 square feet and are utilized for corporate business offices and a cannabis testing lab. Our premises are subject
+to a lease agreement expiring August 31, 2025. The following is a maturity analysis of the annual undiscounted cash flows of the operating
+lease liabilities on a fiscal year basis, including common area maintenance fees, under non-cancelable operating leases: 
+
+2023 
+ 119,468 
+ 
+ 2024 
+ 123,543 
+ 
+ 2025 
+ 116,891 
+ 
+ 2026 
+ - 
+ 
+ Total 
+ 359,902 
+
+We
+believe that our current facilities are adequate for our current needs. We intend to secure new facilities or expand existing facilities
+as necessary to support future growth. We believe that suitable additional space will be available on commercially reasonable terms as
+needed to accommodate our operations. 
+
+ITEM
+3. Legal Proceedings 
+
+There
+are no material pending legal proceedings to which we are a party or to which any of our property is subject, nor are there any such
+proceedings known to be contemplated by governmental authorities. None of our directors, officers or affiliates is involved in a proceeding
+adverse to our business or has a material interest adverse to our business. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+8 
+
+PART
+II 
+
+ITEM
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Market
+Information 
+
+Shares
+of our common stock trade on the over-the-counter market and are quoted on the OTCBB and OTCQB under the symbol DIGP . As
+of January 12, 2023, the closing price of our common stock on the OTCQB was 0.01. 
+
+The
+following table sets forth, for the fiscal quarters indicated, the high and low bid information for our common stock, as reported on
+the OTCQB. The following quotations reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not represent
+actual transactions. 
+
+High 
+ Low 
+ 
+ Fiscal Year Ended September 30, 2021 
+
+First Quarter 
+ 0.03 
+ 0.01 
+ 
+ Second Quarter 
+ 0.08 
+ 0.02 
+ 
+ Third Quarter 
+ 0.07 
+ 0.04 
+ 
+ Fourth Quarter 
+ 0.06 
+ 0.04 
+
+Fiscal Year Ended September 30, 2022 
+
+First Quarter 
+ 0.04 
+ 0.3 
+ 
+ Second Quarter 
+ 0.04 
+ 0.02 
+ 
+ Third Quarter 
+ 0.28 
+ 0.11 
+ 
+ Fourth Quarter 
+ 0.02 
+ 0.01 
+
+As
+of January 13, 2023, there were approximately 121 shareholders of record of our common stock. Such number does not include any shareholders
+holding shares in nominee or street name . As of January 13, 2023, there were 75,146,820 shares of common stock outstanding
+on record. 
+
+Dividends 
+
+We
+have not declared or paid any dividends on our common stock since our inception and do not anticipate paying dividends for the foreseeable
+future. The payment of dividends is subject to the discretion of our board of directors and depends, among other things, upon our earnings,
+our capital requirements, our financial condition, and other relevant factors. We intend to reinvest any earnings in the development
+and expansion of our business. Any cash dividends in the future to common shareholders will be payable when, as and if declared by our
+board of directors, based upon the board s assessment of our financial condition and performance, earnings, need for funds, capital
+requirements, prior claims of preferred stock to the extent issued and outstanding, and other factors, including income tax consequences,
+restrictions and applicable laws. There can be no assurance, therefore, that any dividends on our common stock will ever be paid. 
+
+Equity
+Compensation Plan Information 
+
+Plan category 
+ Number of securities to be issued upon exercise of outstanding options, warrants and rights 
+ Weighted-average exercise price of outstanding options, warrants and rights 
+ Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a) 
+
+(a) 
+ (b) 
+ (c) 
+ 
+ Equity compensation plans approved by security holders (1) 
+ 3,520,000 
+ 0.09 
+ N/A 
+ 
+ Equity compensation plans not approved by security holders (2) 
+ 4,035,001 
+ 0.07 
+ N/A 
+ 
+ Total 
+ 7,520,000 
+ 
+ N/A 
+
+(1)
+ Represents awards under our 2012 Stock Incentive Plan which was initially adopted with shareholder approval, and amended on June
+21, 2016 without shareholder approval (as amended, the 2012 Incentive Plan ). Below is a brief description of the material
+terms of the 2012 Incentive Plan and the awards that may be granted thereunder. 
+
+(2)
+ Consists of options and warrants issued to consultants of the Company in consideration of services with exercise prices between
+ 0.05 and 0.10 per share. For additional details see Note 11 to the accompanying financial statements. 
+
+9 
+
+2012
+Incentive Plan 
+
+Effective
+Date and Expiration. The 2012 Incentive Plan, as amended, became effective on March 5, 2012, and terminated on March 5, 2022. No
+award may be made under the Incentive Plan after its expiration date, but awards made prior thereto may extend beyond that date. 
+
+Share
+Authorization. The maximum aggregate number of Shares which may be issued pursuant to awards granted under the 2012 Incentive Plan
+is Eleven Million Five Hundred Thousand (11,500,000) shares. Prior to its amendment in June 2016, Three Million shares had been authorized
+for issuance under the 2012 Plan. 
+
+General;
+Types of Awards . The 2012 Incentive Plan provides for the grant of options to purchase shares of common stock, restricted stock,
+stock appreciation rights SARs and restricted stock units (rights to receive, in cash or stock, the market value of one
+share of our commons stock). Incentive stock options ISOs may be granted only to employees. Nonstatutory stock options
+and other stock-based awards may be granted to officers, employees, non-employee directors and consultants. 
+
+Administration .
+The 2012 Incentive Plan will be administered by our board of directors or a committee of our board of directors (the Administrator as provided in the 2012 Incentive Plan. The Administrator will have the authority to select the eligible participants to whom awards
+will be granted, to determine the types of awards and the number of shares covered and to set the terms, conditions and provisions of
+such awards, to cancel or suspend awards under certain conditions, and to accelerate the exercisability of awards. The Administrator
+will be authorized to interpret the 2012 Incentive Plan, to establish, amend, and rescind any rules and regulations relating to the 2012
+Incentive Plan, to determine the terms of agreements entered into with recipients under the 2012 Incentive Plan, and to make all other
+determinations that may be necessary or advisable for the administration of the 2012 Incentive Plan. 
+
+Eligibility .
+Options and other awards may be granted under the 2012 Incentive Plan to directors, officers, employees and consultants of our company
+and any of our subsidiaries, provided that the services of such consultants are not in connection with the offer or sale of securities
+in a capital-raising transaction and do not directly or indirectly promote or maintain a market for our securities. At the date of this
+prospectus, all of our officers, directors and employees would have been eligible to receive awards under the 2012 Incentive Plan. 
+
+Stock
+Options . The exercise price per share of our common stock purchasable upon exercise of any stock option or SAR will be determined
+by the Administrator, but cannot in any event be less than 100 of the fair market value of our common stock on the date the award is
+granted. The Administrator will determine the term of each stock option or SAR (subject to a maximum term of 10 years) and each option
+or SAR will be exercisable pursuant to a vesting schedule determined by the Administrator. The grants and the terms of ISOs will be restricted
+to the extent required for qualification as ISOs by the U.S. Internal Revenue Code of 1986, as amended. Subject to approval of the Administrator,
+options or SARs may be exercised by payment of the exercise price in cash, shares of common stock or pursuant to a cashless exercise 
+through a broker-dealer under an arrangement approved by the Administrator. The Administrator may require the grantee to pay to us any
+applicable withholding taxes that we are required to withhold with respect to the grant or exercise of any option. The withholding tax
+may be paid in cash or, subject to applicable law, the Administrator may permit the grantee to satisfy these obligations by the withholding
+or delivery of shares of our common stock. We may withhold from any shares of our common stock that may be issued pursuant to an option
+or from any cash amounts otherwise due from us to the recipient of the option an amount equal to such taxes. 
+
+Restricted
+Stock . Restricted shares may be sold or awarded for consideration determined by the Administrator, including cash, full-recourse
+promissory notes, as well as past and future services. Any award of restricted shares will be subject to a vesting schedule determined
+by the Administrator. Any restricted shares that are not vested will be subject to rights of repurchase, rights of first refusal or other
+restrictions as determined by the Administrator. In general, holders of restricted shares will have the same voting, dividend and other
+rights as our other stockholders. 
+
+Adjustments
+upon Changes in Capitalization . In the event of any change affecting shares of our common stock by reason of any stock dividend or
+split, recapitalization, merger, consolidation, spin-off, combination or exchange of shares or other similar corporate change, or any
+distribution to stockholders other than cash dividends, the Administrator will make substitutions or adjustments in the aggregate number
+of shares that may be distributed under the 2012 Incentive Plan, and in the number and types of shares subject to, and the exercise prices
+under, outstanding awards granted under the 2012 Incentive Plan, in accordance with Section 10 and other provisions of the 2012 Incentive
+Plan. 
+
+Assignment .
+Unless otherwise permitted by the 2012 Incentive Plan and approved by the Administrator as permitted by the 2012 Incentive Plan, no award
+will be assignable or otherwise transferable by the grantee other than by will or the laws of descent and distribution and, during the
+grantee s lifetime, an award may be exercised only by the grantee. 
+
+Amendment .
+Our board of directors may amend the 2012 Incentive Plan in any and all respects without stockholder approval, except as such stockholder
+approval may be required under applicable law or pursuant to the listing requirements of any national market system or securities exchange
+on which our equity securities may be listed or quoted. 
+
+Recent
+Sales of Unregistered Securities 
+
+On
+July 25, 2022, we sold 1,000 shares of our newly designated Series C Preferred Stock to Todd Denkin, our President, for a purchase price
+of 0.10 per share, in a transaction exempt from the registration requirements of the Securities Act of 1933 pursuant to Section 4(a)(2)
+thereof. 
+
+ITEM
+6. Selected Financial Data 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. 
+
+10 
+
+ITEM
+7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+This
+discussion summarizes the significant factors affecting the operating results, financial condition, liquidity and cash flows of the Company
+and its subsidiaries for the fiscal years ended September 30, 2022 and 2021. The discussion and analysis that follows should be read
+together with the section entitled Forward Looking Statements and our consolidated financial statements and the notes to
+the consolidated financial statements included elsewhere in this annual report on Form 10-K. 
+
+Except
+for historical information, the matters discussed in this section are forward looking statements that involve risks and uncertainties
+and are based upon judgments concerning various factors that are beyond the Company s control. Consequently, and because forward-looking
+statements are inherently subject to risks and uncertainties, the actual results and outcomes may differ materially from the results
+and outcomes discussed in the forward-looking statements. You are urged to carefully review and consider the various disclosures made
+by us in this report. 
+
+Overview 
+
+Digipath,
+Inc. was incorporated in Nevada on October 5, 2010. Digipath, Inc. and its subsidiaries Digipath, the Company, 
+ we, our or us supports the cannabis industry s best practices for reliable testing,
+cannabis education and training, and brings unbiased cannabis news coverage to the cannabis industry. Our mission is to provide pharmaceutical-grade
+analysis and testing to the cannabis industry, under ISO-17025:2017 guidelines, to ensure consumers and patients know exactly what is
+in the cannabis they ingest and to help maximize the quality of our clients products through research, development, and standardization.
+Digipath has been operating a cannabis-testing lab in Nevada since 2015 and has plans to open labs in other states and countries that
+have legalized the sale of cannabis, beginning with California. 
+
+Critical
+Accounting Policies 
+
+The
+establishment and consistent application of accounting policies is a vital component of accurately and fairly presenting our financial
+statements in accordance with generally accepted accounting principles in the United States GAAP ), as well as ensuring
+compliance with applicable laws and regulations governing financial reporting. While there are rarely alternative methods or rules from
+which to select in establishing accounting and financial reporting policies, proper application often involves significant judgment regarding
+a given set of facts and circumstances and a complex series of decisions. 
+
+Basis
+of Accounting 
+
+The
+accompanying consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the
+United States of America and the rules of the Securities and Exchange Commission. Intercompany accounts and transactions have been eliminated.
+All references to GAAP are in accordance with The FASB Accounting Standards Codification ASC and the Hierarchy of Generally
+Accepted Accounting Principles. 
+
+Segment
+Reporting 
+
+ASC
+Topic 280, Segment Reporting, requires use of the management approach model for segment reporting. The management
+approach model is based on the way a company s management organizes segments within the company for making operating decisions
+and assessing performance. The Company operates as a single segment and will evaluate additional segment disclosure requirements as it
+expands its operations. 
+
+Fair
+Value of Financial Instruments 
+
+The
+Company adopted ASC 820, Fair Value Measurements and Disclosures (ASC 820). ASC 820 defines fair value, establishes a three-level valuation
+hierarchy for disclosures of fair value measurement and enhances disclosure requirements for fair value measures. The three levels are
+defined as follows: 
+
+- 
+ Level
+ 1 inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets. 
+
+- 
+ Level
+ 2 inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that
+ are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument. 
+
+- 
+ Level
+ 3 inputs to valuation methodology are unobservable and significant to the fair measurement. 
+
+11 
+
+The
+carrying value of cash, accounts receivable, accounts payables and accrued expenses are estimated by management to approximate fair value
+primarily due to the short term nature of the instruments. 
+
+Fixed
+Assets 
+
+Fixed
+assets are stated at the lower of cost or estimated net recoverable amount. The cost of property, plant and equipment is depreciated
+using the straight-line method based on the lesser of the estimated useful lives of the assets or the lease term based on the following
+life expectancy: 
+
+Software 
+ 3 years 
+ 
+ Office equipment 
+ 5 years 
+ 
+ Furniture and fixtures 
+ 5 years 
+ 
+ Lab equipment 
+ 7 years 
+ 
+ Leasehold improvements 
+ Term of lease 
+
+Repairs
+and maintenance expenditures are charged to operations as incurred. Major improvements and replacements, which extend the useful life
+of an asset, are capitalized and depreciated over the remaining estimated useful life of the asset. When assets are retired or sold,
+the cost and related accumulated depreciation and amortization are eliminated and any resulting gain or loss is reflected in operations. 
+
+Impairment
+of Long-Lived Assets 
+
+Long-lived
+assets held and used by the Company are reviewed for possible impairment whenever events or circumstances indicate the carrying amount
+of an asset may not be recoverable or is impaired. Recoverability is assessed using undiscounted cash flows based upon historical results
+and current projections of earnings before interest and taxes. Impairment is measured using discounted cash flows of future operating
+results based upon a rate that corresponds to the cost of capital. Impairments are recognized in operating results to the extent that
+carrying value exceeds discounted cash flows of future operations. 
+
+Our
+intellectual property is comprised of indefinite-lived brand names acquired and have been assigned an indefinite life as we currently
+anticipate that these brand names will contribute cash flows to the Company perpetually. We evaluate the recoverability of intangible
+assets periodically by taking into account events or circumstances that may warrant revised estimates of useful lives or that indicate
+the asset may be impaired. 
+
+Revenue
+Recognition 
+
+Effective
+October 1, 2018, the Company adopted ASC 606 - Revenue from Contracts with Customers. Under ASC 606, the Company recognizes revenue
+from the commercial sales of products, licensing agreements and contracts to perform pilot studies by applying the following steps: (1)
+identify the contract with a customer; (2) identify the performance obligations in the contract; (3) determine the transaction price;
+(4) allocate the transaction price to each performance obligation in the contract; and (5) recognize revenue when each performance obligation
+is satisfied. For the comparative periods, revenue has not been adjusted and continues to be reported under ASC 605 - Revenue Recognition.
+Under ASC 605, revenue was recognized when the following criteria had been met: (1) persuasive evidence of an arrangement exists; (2)
+the performance of service has been rendered to a customer or delivery has occurred; (3) the amount of fee to be paid by a customer is
+fixed and determinable; and (4) the collectability of the fee is reasonably assured. 
+
+Our
+revenue is primarily generated through our subsidiary, Digipath Labs, Inc., which recognizes revenue from the analytical testing of cannabis
+products for licensed producers and cultivators within the state of Nevada on a determinable fixed fee per test, or panel of tests basis.
+Revenue from the performance of those services is recognized upon completion of the tests, at which time test results are delivered to
+the customer, provided collectability of the fee is reasonably assured. We typically require payment within thirty days of the delivery
+of results. Management estimates an allowance for doubtful accounts based on the aging of its receivables. 
+
+Advertising
+Costs 
+
+The
+Company expenses the cost of advertising and promotions as incurred. Advertising and promotions expense was 58,739 and 28,066 for the
+years ended September 30, 2022 and 2021, respectively. 
+
+12 
+
+Basic
+and Diluted Loss Per Share 
+
+The
+basic net loss per common share is computed by dividing the net loss by the weighted average number of common shares outstanding. Diluted
+net loss per common share is computed by dividing the net loss adjusted on an as if converted basis, by the weighted average
+number of common shares outstanding plus potential dilutive securities. For the years ended September 30, 2022 and 2021, potential dilutive
+securities had an anti-dilutive effect and were not included in the calculation of diluted net loss per common share. 
+
+Stock-Based
+Compensation 
+
+The
+Company accounts for equity instruments issued to employees in accordance with the provisions of ASC 718 Stock Compensation (ASC 718)
+and Equity-Based Payments to Non-employees pursuant to ASC 2018-07 (ASC 2018-07). All transactions in which the consideration provided
+in exchange for the purchase of goods or services consists of the issuance of equity instruments are accounted for based on the fair
+value of the consideration received or the fair value of the equity instrument issued, whichever is more reliably measurable. The measurement
+date of the fair value of the equity instrument issued is the earlier of the date on which the counterparty s performance is complete
+or the date at which a commitment for performance by the counterparty to earn the equity instruments is reached because of sufficiently
+large disincentives for nonperformance. 
+
+The
+Company accounts for equity-based transactions with non-employees under the provisions of ASC Topic No. 505-50, Equity-Based Payments
+to Non-Employees Topic No. 505-50 ). Topic No. 505-50 establishes that equity-based payment transactions with non-employees
+shall be measured at the fair value of the consideration received or the fair value of the equity instruments issued, whichever is more
+reliably measurable. 
+
+Income
+Taxes 
+
+The
+Company recognizes deferred tax assets and liabilities based on differences between the financial reporting and tax basis of assets and
+liabilities using the enacted tax rates and laws that are expected to be in effect when the differences are expected to be recovered.
+The Company provides a valuation allowance for deferred tax assets for which it does not consider realization of such assets to be more
+likely than not. 
+
+Uncertain
+Tax Positions 
+
+In
+accordance with ASC 740, Income Taxes ASC 740 ), the Company recognizes the tax benefit from an uncertain
+tax position only if it is more likely than not that the tax position will be capable of withstanding examination by the taxing authorities
+based on the technical merits of the position. These standards prescribe a recognition threshold and measurement attribute for the financial
+statement recognition and measurement of a tax position taken or expected to be taken in a tax return. These standards also provide guidance
+on de-recognition, classification, interest and penalties, accounting in interim periods, disclosure, and transition. 
+
+Various
+taxing authorities periodically audit the Company s income tax returns. These audits include questions regarding the Company s
+tax filing positions, including the timing and amount of deductions and the allocation of income to various tax jurisdictions. In evaluating
+the exposures connected with these various tax filing positions, including state and local taxes, the Company records allowances for
+probable exposures. A number of years may elapse before a particular matter, for which an allowance has been established, is audited
+and fully resolved. The Company has not yet undergone an examination by any taxing authorities. 
+
+The
+assessment of the Company s tax position relies on the judgment of management to estimate the exposures associated with the Company s
+various filing positions. 
+
+Various
+taxing authorities periodically audit the Company s income tax returns. These audits include questions regarding the Company s
+tax filing positions, including the timing and amount of deductions and the allocation of income to various tax jurisdictions. In evaluating
+the exposures connected with these various tax filing positions, including state and local taxes, the Company records allowances for
+probable exposures. A number of years may elapse before a particular matter, for which an allowance has been established, is audited
+and fully resolved. The Company has not yet undergone an examination by any taxing authorities. 
+
+The
+assessment of the Company s tax position relies on the judgment of management to estimate the exposures associated with the Company s
+various filing positions. 
+
+13 
+
+Results
+of Operations 
+
+The
+following table shows operating results for the years ended September 30, 2022 and 2021. 
+
+Years Ended September 30, 
+ Increase / 
+
+2022 
+ 2021 
+ (Decrease) 
+ 
+ Revenues 
+ 2,699,920 
+ 2,503,800 
+ 196,120 
+ 
+ Cost of sales 
+ 1,633,972 
+ 1,788,635 
+ (154,663 
+ 
+ Gross profit 
+ 1,065,948 
+ 715,165 
+ 350,783 
+
+Operating expenses: 
+
+General and administrative 
+ 1,359,005 
+ 934,143 
+ 424,862 
+ 
+ Professional fees 
+ 656,860 
+ 581,635 
+ 75,225 
+ 
+ Bad debts expense (recovery) 
+ 64,427 
+ (28,165 
+ 92,592 
+ 
+ Total operating expenses: 
+ 2,080,292 
+ 1,487,613 
+ 592,679 
+
+Operating loss 
+ (1,014,344 
+ (772,448 
+ (241,896 
+
+Total other income (expense) 
+ (1,042,774 
+ 85,945 
+ (1,128,719 
+
+Net loss 
+ (2,057,118 
+ (686,503 
+ (1,370,615 
+
+Revenues 
+
+Aggregate
+revenues for the year ended September 30, 2022 were 2,699,920, compared to revenues of 2,503,800 during the year ended September 30,
+2021, an increase of 196,120, or 8 . The increase in revenue was due to an increase in Nevada tourism and our customers cash
+flows during the current period . 
+
+Cost
+of Sales 
+
+Cost
+of sales for the year ended September 30, 2022 were 1,633,972, compared to 1,788,635 during the year ended September 30, 2021, a decrease
+of 154,663, or 9 . Cost of sales consists primarily of labor, depreciation and maintenance on lab equipment, and supplies consumed in
+our testing operations. The decreased cost of sales in the current period was primarily due to our decrease in outsourcing to other labs.
+Our gross margins of approximately 40 and 29 during the years ended September 30, 2022 and 2021, respectively, translated to 350,783
+of increased gross profit in the current period. 
+
+General
+and Administrative Expenses 
+
+General
+and administrative expenses for the year ended September 30, 2022 were 1,359,005, compared to 934,143 during the year ended September
+30, 2021, an increase of 424,865, or 45 . The expenses consisted primarily of marketing, rent, salaries and wages, and travel expenses.
+General and administrative expenses included stock-based compensation paid to officers of 454,238 during the year ended September 30,
+2022, compared to 50,856 during the year ended September 30, 2021, an increase of 403,382. General and administrative expenses increased
+due primarily to increased corporate overhead activities offset by the discontinuation of rents on warehouse space that we were previously
+subleasing. 
+
+Professional
+Fees 
+
+Professional
+fees for the year ended September 30, 2022 were 656,860, compared to 581,635 during the year ended September 30, 2021, an increase
+of 75,225, or 13 . Professional fees increased primarily due to increased use of corporate consulting services during the current period.
+Stock-based compensation was 106,994 during the year ended September 30, 2022, compared to 241,582 during the year ended September
+30, 2021, a decrease of 134,588. 
+
+14 
+
+Bad
+Debt Expense 
+
+Bad
+debt expense for the year ended September 30, 2022 was 64,427, compared to bad debt recovery for the year ended September 30, 2021 of
+ 28,165, an increase of 92,592. Our change in allowance for doubtful accounts was a result of collection issues from various customers.
+Our allowance for doubtful accounts on trade receivables was 139,279 and 87,795 at September 30, 2022 and 2021, respectively, or approximately
+5 and 4 of sales for the years ended September 30, 2022 and 2021, respectively. 
+
+Operating
+Loss 
+
+Operating
+loss for the year ended September 30, 2022 was 1,014,344, compared to 772,448 during the year ended September 30, 2021, an increase of
+ 241,896, or 31 . Operating loss increased primarily due to increased general and administrative, professional fees and bad debts expense,
+during the year ended September 30, 2022, compared to the year ended September 30, 2021. 
+
+Other
+Income (Expense) 
+
+Other
+expense, on a net basis, for the year ended September 30, 2022 was 1,042,774, compared to other income of 85,945 during the year ended
+September 30, 2021, a decrease of 1,128,719. Other expense during the year ended September 30, 2022 consisted of 260,274 of interest expense and a credit loss of 782,500. Other income during the year ended September 30, 2021 consisted
+of a 222,393 gain on the settlement of debt, interest income of 929, and settlement of accounts payable of 7,580, as offset by 144,957
+of interest expense. 
+
+Net
+Loss 
+
+Net
+loss for the year ended September 30, 2022 was 2,057,118, compared to 686,503 during the year ended September 30, 2021, an increase
+of 1,370,615, or 200 . The increased net loss was due primarily to larger professional fees and an increase in other expenses. 
+
+Liquidity
+and Capital Resources 
+
+As
+of September 30, 2022, the Company had current assets of 562,104, comprising of cash of 56,168, accounts receivable of 335,085, other
+assets of 45,710, a note receivable of 100,000 and deposits of 25,141. The Company s current liabilities as of September 30,
+2022 were 2,953,909, consisting of 550,467 of accounts payable, 378,368 of accrued expenses, the current portion of operating lease
+liabilities in the amount of 100,685, the current maturities of convertible notes payable of 1,198,469, and the current maturities
+of notes payable in the amount of 725,920 
+
+The
+following table summarizes our total current assets, liabilities and working capital at September 30, 2022 and 2021. 
+
+September 30, 
+
+2022 
+ 2021 
+ 
+ Current Assets 
+ 562,104 
+ 826,865 
+
+Current Liabilities 
+ 2,953,909 
+ 2,014,384 
+
+Working Capital 
+ (2,391,805 
+ (1,187,519 
+
+15 
+
+The
+following table summarizes our cash flows during the years ended September 30, 2022 and 2021, respectively. 
+
+Years Ended 
+
+September 30, 
+
+2022 
+ 2021 
+ 
+ Net cash (used) in operating activities 
+ (184,786 
+ (135,968 
+ 
+ Net cash (used) in investing activities 
+ (660,371 
+ (286,206 
+ 
+ Net cash provided by financing activities 
+ 605,393 
+ 635,357 
+
+Net change in cash 
+ (239,764 
+ (135,968 
+
+Net
+Cash Used in Operating Activities 
+
+The
+increase in funds used in operating activities for the year ended September 30, 2022, compared to the year ended September 30, 2021,
+was primarily attributable to our increased net loss, offset by the change in allowance for doubtful accounts and credit losses. 
+
+Net
+Cash Used in Investing Activities 
+
+The
+increase in funds used in investing activities for the year ended September 30, 2022, compared to the year ended September 30, 2021,
+was due primarily to loans we made in connection with a potential acquisition that we did not close, offset by proceeds received from
+the sale of equipment held as collateral securing that loan. 
+
+Net
+Cash Provided by Financing Activities 
+
+The
+decrease in funds provided by financing activities for the year ended September 30, 2022, compared to the year ended September 30, 2021,
+was primarily due to increased payments we made on our outstanding convertible notes in the year ended September 30, 2022. 
+
+Satisfaction
+of our Cash Obligations for the Next 12 Months 
+
+As
+of September 30, 2022, our balance of cash on hand was 56,168. We do not currently have sufficient funds to fund our operations at their
+current levels for the next twelve months. As we continue to develop our lab testing business and attempt to expand operational activities,
+we expect to continue to experience net negative cash flows from operations in amounts not now determinable, and will be required to
+obtain additional financing to fund operations. Our ability to continue as a going concern is dependent upon our ability to raise additional
+capital and to achieve sustainable revenues and profitable operations. Since inception, we have raised funds primarily through the sale
+of equity securities. We will need and are currently seeking additional funds to operate our business. No assurance can be given that
+any future financing will be available or, if available, that it will be on terms that are satisfactory to us. Even if we are able to
+obtain additional financing, it may contain undue restrictions on our operations or cause substantial dilution for our stockholders.
+If we are unable to obtain additional funds, our ability to carry out and implement our planned business objectives and strategies will
+be significantly delayed, limited or may not occur. We cannot guarantee that we will become profitable. Even if we achieve profitability,
+given the competitive and evolving nature of the industry in which we operate, we may not be able to sustain or increase profitability
+and our failure to do so would adversely affect our business, including our ability to raise additional funds. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+have no outstanding off-balance sheet guarantees, interest rate swap transactions or foreign currency contracts. We do not engage in
+trading activities involving non-exchange traded contracts. 
+
+ITEM
+7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. 
+
+16 
+
+ITEM
+8. Financial Statements and Supplementary Data 
+
+DIGIPATH,
+INC. SUBSIDIARIES 
+
+FINANCIAL
+STATEMENTS 
+
+FOR
+THE YEARS ENDED SEPTEMBER 30, 2022 AND 2021 
+
+TABLE
+OF CONTENTS 
+
+Page 
+ 
+ Report of Independent Registered Public Accounting Firm, M K CPAS, PLLC (PCAOB ID: 
+ 
+ F-1 
+
+Consolidated Balance Sheets as of September 30, 2022 and 2021 
+ 
+ F-2 
+
+Consolidated Statements of Operations for the years ended September 30, 2022 and 2021 
+ 
+ F-3 
+
+Consolidated Statement of Stockholders Equity (Deficit) for the years ended September 30, 2022 and 2021 
+ 
+ F-4 
+
+Consolidated Statements of Cash Flows for the years ended September 30, 2022 and 2021 
+ 
+ F-5 
+
+Notes to Consolidated Financial Statements 
+ 
+ F-6 
+
+17 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and 
+
+ Stockholders
+of Digipath, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Digipath, Inc. the Company as of September 30, 2022 and
+2021, and the related consolidated statements of operations, stockholders equity (deficit) and cash flows for each of the
+years in the two-year period ended September 30, 2022, and the related notes (collectively referred to as the consolidated financial
+statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position
+of the Company as of September 30, 2022 and 2021, and the results of its operations and its cash flows for each of the years in the
+two-year period ended September 30, 2022, in conformity with accounting principles generally accepted in the United States of
+America. 
+
+Going
+Concern 
+
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As
+discussed in Note 2 to the consolidated financial statements, the Company has recurring losses from operations and insufficient
+working capital, which raises substantial doubt about its ability to continue as a going concern. Management s plans regarding
+those matters also are described in Note 2. The consolidated financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matter 
+
+The
+critical audit matter communicated below is a matter arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which they relate. 
+
+Black
+Scholes Calculations 
+
+As
+discussed in Note 10 of the consolidated financial statements, the Company utilizes Black Scholes calculations to determine fair value
+of the Company s stock compensation. 
+
+Auditing
+management s calculations of fair value of stock options involves significant judgements and estimates to determine the proper
+value. Volatility and term are the major assumptions used by management in determining the value of the stock options. 
+
+To
+evaluate the appropriateness of the fair value calculation, we evaluated management s significant judgements and estimates in what
+inputs were utilized within the Black Scholes calculations. 
+
+/s/
+ (PCAOB ID: 
+
+We
+ have served as the Company s auditor since 2017. 
+
+January 17, 2023 
+
+F- 1 
+
+DIGIPATH,
+INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+September 30, 2022 
+ September 30, 2021 
+ 
+ Assets 
+
+Current assets: 
+
+Cash 
+
+Accounts receivable, net 
+
+Deposits 
+
+Note receivable 
+
+Other current assets 
+
+Total current assets 
+
+Right-of-use asset 
+
+Fixed assets, net 
+
+Total non-current assets 
+
+Total Assets 
+
+Liabilities and Stockholders Equity (Deficit) 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued expenses 
+
+Current portion of operating lease liabilities 
+
+Current portion of finance lease liabilities 
+ - 
+
+Current maturities of notes payable 
+
+Current maturities of convertible notes payable, net of discounts of and at September 30, 2022 and 2021, respectively 
+
+Total current liabilities 
+
+Non-current liabilities: 
+
+Operating lease liabilities 
+
+Notes payable 
+
+Convertible notes payable, net of discounts of and at September 30, 2022 and 2021, respectively 
+
+Total non-current liabilities 
+
+Total Liabilities 
+
+Series B convertible preferred stock, par value, shares authorized; and shares issued and outstanding as of September 30, 2022 and 2021 respectively 
+ 
+ - 
+
+Stockholders Equity (Deficit): 
+
+Series A convertible preferred stock, par value, shares authorized; and shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Series C convertible preferred stock, par value, shares authorized; and shares issued and outstanding as of September 30, 2022 and 2021 respectively 
+ 
+ - 
+ 
+ Preferred
+ stock 
+
+Common stock, par value, shares authorized; and shares issued and outstanding at September 30, 2022 and 2021, respectively 
+
+Common stock Payable 
+ 
+ - 
+ 
+ Additional paid-in capital 
+
+Accumulated deficit 
+
+Total Stockholders Equity (Deficit) 
+
+Total Liabilities and Stockholders Equity (Deficit) 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 2 
+
+DIGIPATH,
+INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+2022 
+ 2021 
+
+For the Years Ended 
+
+September 30, 
+
+2022 
+ 2021 
+
+Revenues 
+
+Cost of sales 
+
+Gross profit 
+
+Operating expenses: 
+
+General and administrative 
+
+Professional fees 
+
+Bad debts expense (recovery) 
+
+Total operating expenses 
+
+Operating loss 
+
+Other income (expense): 
+
+Interest expense 
+
+Interest income 
+ - 
+
+Gain on settlement of debt 
+ - 
+
+Other income 
+ - 
+
+Credit loss 
+ 
+ - 
+ 
+ Total other income (expense) 
+
+Net loss 
+
+Preferred deemed dividend 
+ 
+ - 
+ 
+ Net loss to common shareholders 
+
+Net loss to common shareholders per share - basic and fully diluted 
+
+Weighted average number of common shares outstanding - basic and fully diluted 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 3 
+
+DIGIPATH,
+INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF STOCKHOLDERS EQUITY (DEFICIT) 
+
+Shares 
+ Amount 
+ 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+
+Capital 
+ Deficit 
+ Deficit 
+
+Series
+ B Convertible 
+ 
+ Series
+ A Convertible 
+ Series
+ C 
+
+Additional 
+ 
+ Total 
+
+Preferred
+ Stock 
+ 
+ Preferred
+ Stock 
+ Preferred
+ Stock 
+ Common
+ Stock 
+
+Stock 
+ 
+ Paid-in 
+ Accumulated 
+ Stockholders 
+
+Shares 
+ Amount 
+ 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+
+Payable 
+ 
+ Capital 
+ Deficit 
+ Deficit 
+
+Balance,
+ September 30, 2020 
+ - 
+ - 
+
+- 
+ - 
+
+- 
+
+Common
+ stock sold for cash 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Common
+ stock issued for debt conversion 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Common
+ stock issued for services 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Stock-based
+ compensation 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Beneficial
+ conversion feature on convertible notes payable 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Net
+ loss 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ 
+ - 
+
+Balance,
+ September 30, 2021 
+ - 
+ - 
+
+- 
+ - 
+
+- 
+
+Purchase
+ of Series B Preferred shares 
+
+- 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+ - 
+
+Conversion
+ of Series A Preferred into Series B Preferred 
+
+- 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Issuance
+ of Preferred C Shares 
+ - 
+ - 
+ 
+ - 
+ - 
+
+- 
+ - 
+
+- 
+
+- 
+
+Common
+ stock issued for settlement of accounts payable 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Common
+ stock issued for services 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Common shares to be issued for debt discount 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Stock-based
+ compensation 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Deemed dividend on preferred exchange 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+Net
+ loss 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ 
+ - 
+
+Balance,
+ September 30, 2022 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 4 
+
+DIGIPATH,
+INC. AND SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+2022 
+ 2021 
+
+For the Years Ended 
+
+September 30, 
+
+2022 
+ 2021 
+ 
+ Cash flows from operating activities 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Change in allowance for doubtful accounts 
+
+Depreciation and amortization expense 
+
+Gain on settlement of debt 
+ - 
+
+Credit loss 
+ 
+ - 
+ 
+ Stock-based compensation 
+
+Amortization of debt discounts 
+
+Decrease (increase) in assets: 
+
+Accounts receivable 
+
+Other current assets 
+
+Deposits 
+
+Right-of-use assets 
+
+Increase (decrease) in liabilities: 
+
+Accounts payable 
+
+Accrued expenses 
+
+Lease liabilities 
+
+Net cash (used) in operating activities 
+
+Cash flows from investing activities 
+
+Purchase of fixed assets 
+
+Advance of note receivable 
+
+Proceeds from sale of collateralized assets 
+ 
+ - 
+ 
+ Net cash (used) in investing activities 
+
+Cash flows from financing activities 
+
+Proceeds from short term advances 
+ - 
+
+Repayments of short term advances 
+ - 
+
+Principal payments on finance lease 
+
+Principal payments on note payable, equipment financing 
+
+Proceeds from notes payable 
+
+Repayments of notes payable 
+ 
+ - 
+ 
+ Proceeds from convertible notes 
+
+Repayments on convertible notes 
+ 
+ - 
+ 
+ Proceeds from sale of common stock 
+ - 
+
+Proceeds from sale of preferred stock 
+ 
+ - 
+ 
+ Net cash provided by financing activities 
+
+Net increase (decrease) in cash 
+
+Cash - beginning 
+
+Cash - ending 
+
+Supplemental disclosures: 
+
+Interest paid 
+
+Income taxes paid 
+ - 
+ - 
+
+Non-cash investing and financing activities: 
+
+Common stock issued for settlement of payables 
+ 
+ - 
+ 
+ Conversion of Series A preferred into Series B preferred 
+ 
+ - 
+ 
+ Deemed dividend on preferred exchange 
+ 192,154 
+ - 
+ 
+ Subscription receivable for Series C preferred stock 
+ 
+ - 
+ 
+ Fixed assets transferred to settle accounts payable 
+ - 
+
+Common stock issued for debt conversion 
+ - 
+
+Transfer of notes payable and accrued interest into convertible notes payable 
+ - 
+
+Stock payable issued for debt discounts on convertible notes payable 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 5 
+
+DIGIPATH,
+INC. AND SUBSIDIARIES 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+The
+consolidated financial statements herein contain the operations of the wholly-owned subsidiaries listed above. All significant inter-company
+transactions have been eliminated in the preparation of these financial statements. The parent company and subsidiaries will be collectively
+referred to herein as the Company , Digipath or DIGP . The Company s headquarters are located
+in Las Vegas, Nevada and substantially all of its customers are within the United States. 
+
+These
+statements reflect all adjustments, consisting of normal recurring adjustments, which in the opinion of management are necessary for
+fair presentation of the information contained therein. 
+
+and as of September 30, 2022 and 2021, respectively. 
+
+The
+Company had two customers representing of the outstanding accounts receivable balance and had one customer representing more than
+ of gross revenue, for a total of of revenue for the year ended September 30, 2022. The Company had one customer representing
+ of the outstanding accounts receivable balance and had two customers representing more than of gross revenue, for a total of
+ of revenue for the year ended September 30, 2021. 
+
+years 
+ 
+ Office equipment 
+ 
+ years 
+ 
+ Furniture and fixtures 
+ 
+ years 
+ 
+ Lab equipment 
+ 
+ years 
+ 
+ Leasehold improvements 
+
+Repairs
+and maintenance expenditures are charged to operations as incurred. Major improvements and replacements, which extend the useful life
+of an asset, are capitalized and depreciated over the remaining estimated useful life of the asset. When assets are retired or sold,
+the cost and related accumulated depreciation and amortization are eliminated and any resulting gain or loss is reflected in operations. 
+
+and for the
+years ended September 30, 2022 and 2021, respectively. 
+
+and 
+shares issuable upon conversion of convertible notes payable, 
+and 
+shares issuable upon exercise of options, 
+and 
+shares issuable upon exercise of warrants, and and upon conversion of Preferred A and Preferred B shares,
+respectively, had an anti-dilutive effect and were t
+included in the calculation of diluted net loss per common share. 
+
+and as of September 30, 2022, the Company s cash on hand may not be sufficient to sustain operations.
+These factors raise substantial doubt about the Company s ability to continue as a going concern. Management is actively pursuing
+new customers to increase revenues. In addition, the Company is currently seeking additional sources of capital to fund short-term operations.
+Management believes these factors will contribute toward achieving profitability. The accompanying consolidated financial statements
+do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. 
+
+The
+consolidated financial statements do not include any adjustments that might result from the outcome of any uncertainty as to the Company s
+ability to continue as a going concern. These financial statements also do not include any adjustments relating to the recoverability
+and classification of recorded asset amounts or amounts and classifications of liabilities that might be necessary should the Company
+be unable to continue as a going concern. 
+
+- 
+ - 
+
+Liabilities 
+
+Lease liabilities 
+ - 
+ - 
+
+Notes payable 
+ - 
+ 
+ - 
+ 
+ Convertible notes payable, net of discounts of 
+ - 
+ - 
+
+Fair Value Measurements at September 30, 2021 
+
+Level 1 
+ Level 2 
+ Level 3 
+ 
+ Assets 
+
+Cash 
+ 
+ - 
+ - 
+
+Liabilities 
+
+Lease liabilities 
+ - 
+ - 
+
+Notes payable 
+ - 
+ 
+ - 
+ 
+ Convertible notes payable, net of discounts of 
+ - 
+ - 
+
+The
+fair value of our intellectual properties is deemed to approximate book value, and are considered Level 3 inputs as defined by ASC Topic
+820-10-35. 
+
+There
+were no transfers of financial assets or liabilities between Level 1, Level 2 and Level 3 inputs for the years ended September 30, 2022
+or 2021. 
+
+. The loans bear
+interest at an annual rate of , are evidenced by secured demand notes, and are secured by a lien on the borrower s assets. An
+allowance for doubtful accounts for the full value of the notes has been recorded due to the uncertainty of collectability. 
+
+On
+various dates between August 23, 2021 and September 30, 2022, we loaned C3 Labs, Inc. C3 Labs a total of .
+The loans bear interest at an annual rate of .
+These loans are evidenced by secured demand notes, and are secured by a lien on the borrower s assets and have a maturity date
+of . The Company has recorded interest income
+of and 
+ during the years ended September 30, 2022 and 2021, with total interest receivable of as of September 30, 2022. The interest income is combined with the credit loss discussed below. 
+
+The
+loans were made in connection with a potential acquisition of a controlling interest in C3 Labs pursuant to a letter of intent. On March
+11, 2022, the Company notified the current owners of C3 Labs of its termination of the letter of intent. The Company is currently in
+possession of equipment of C3 Labs, which it is in the process of liquidating. As of September 30, 2022, the Company had sold a portion
+of C3 Labs equipment for proceeds of , which it has applied to the outstanding balance owed to it by C3 Labs. The Company
+anticipates that the proceeds of such liquidation of the remaining equipment will be insufficient to repay the Company in full all amounts
+owed to it by C3 Labs, and as such has recorded an allowance of 
+against the note receivable and related interest receivable .
+As of September 30, 2022, the net receivable balance is . 
+
+Office equipment 
+
+Furniture and fixtures 
+
+Lab equipment 
+
+Leasehold improvements 
+
+Lab equipment held under capital leases 
+
+Fixed assets, gross 
+
+Less: accumulated depreciation 
+
+Total 
+
+On
+March 31, 2021, we distributed fixed assets with an aggregate net book value of to our former CEO in satisfaction of accrued payroll
+that was owed. The fixed assets consisted of office equipment with a historical cost basis of and accumulated depreciation of
+ , resulting in a loss of that was settled against the amount of unpaid compensation that was owed. 
+
+Depreciation
+and amortization expense totaled and for the years ended September 30, 2022 and 2021, respectively. 
+
+.
+The Company also has a financing lease for lab equipment subject to the recently adopted ASU 2016-02. In the locations in which it is
+economically feasible to continue to operate, management expects to enter into a new lease upon expiration. The operating and office
+facility lease contains provisions requiring payment of property taxes, utilities, insurance, maintenance and other occupancy costs applicable
+to the leased premise. As the Company s leases do not provide implicit discount rates, the Company uses an incremental borrowing
+rate based on the information available at the commencement date in determining the present value of lease payments. 
+
+Finance lease cost: 
+
+Amortization of assets 
+
+Interest on lease liabilities 
+
+Total net lease cost 
+
+Total net lease cost 
+
+Current portion of operating lease liabilities 
+
+Noncurrent operating lease liabilities 
+
+Total operating lease liabilities 
+
+Finance lease: 
+
+Equipment, at cost 
+
+Accumulated amortization 
+
+Equipment, net 
+
+Current portion of finance lease liabilities 
+ - 
+
+Total finance lease liabilities 
+ - 
+
+Weighted average remaining lease term: 
+
+Operating leases 
+ years 
+ years 
+ 
+ Finance leases 
+ years 
+ years 
+
+Weighted average discount rate: 
+
+Operating leases 
+
+Finance lease 
+
+Financing cash flows used for finance leases 
+
+Leased assets obtained in exchange for lease liabilities: 
+
+Total operating lease liabilities 
+ - 
+ - 
+ 
+ Total finance lease liabilities 
+ - 
+ - 
+
+2024 
+
+2025 
+
+2026 
+ - 
+ 
+ 2027 
+ - 
+ 
+ Total future undiscounted lease payments 
+
+Less interest 
+
+Present value of lease payments 
+
+Less current portion 
+
+Long-term operating lease liabilities 
+
+to US Canna Lab I, LLC (the Canna Lab Note ). The Canna Lab Note carries interest at 
+per annum and is due on , with monthly principal and interest payments of 
+ beginning on October 1, 2021. In addition, the Company was advanced an additional 
+ of funds during the year ended September 30, 2022 under the same terms as the original note. During the year ended September 30,
+2022, the Company repaid 
+ of the principal balance on the note. As a result of the Company not meeting the monthly payment obligations, the CannaLab Note is in technical default, however, no default notice has been provided by CannaLab as of the date of this filing. There are no additional obligations of the Company under default with the exception of being due on demand. 
+
+On December 26, 2019, the Company financed the purchase of of lab equipment, in part, with the proceeds of a bank loan in the amount of . The loan bears interest at the rate of per annum and requires monthly payments of over the of the loan ending on . The Company s obligations under this loan are secured by a lien on the purchased equipment. 
+
+Total notes payable 
+
+Less: current maturities 
+
+Notes payable 
+
+The
+Company recorded interest expense pursuant to the stated interest rate and closing costs on the notes payable in the amount of 
+and 
+during the years ended September 30, 2022 and 2021. 
+
+Secured Convertible Promissory Note in the principal amount of .
+ The Note matures on , bears interest at a rate of 
+ per annum, and was convertible into shares of the Company s common stock at a conversion price of 
+ per share. On December 28, 2020, the conversion price was amended to 
+ per share in exchange for an additional 
+ of proceeds and the promissory note was increased to .
+ The Company s obligations under the Note are secured by a lien on the assets of the Company and its wholly-owned subsidiary
+ Digipath Labs, Inc., pursuant to a Security Agreement between the Company, Digipath Labs, Inc. and the investor. On December 29,
+ 2020, the note holder converted 
+ of principal into 
+ shares of common stock at a conversion price of 
+ per share. On August 8, 2022, the note holder agreed to extend the maturity date of the note to . In exchange for the extension, the Company agreed to issue 
+ common shares, which were recorded as debt discount, with a relative fair value of . These shares have not yet been issued as of September 30, 2022 and are recorded as a stock payable. 
+
+On February 11, 2020, the Company completed the sale to an accredited investor of a 
+ Secured Subordinated Convertible Promissory Note in the principal amount of .
+ The Note matures on , bears interest at a rate of 
+ per annum, and was convertible into shares of the Company s common stock at a conversion price of per
+ share. On December 28, 2020, the conversion price was amended to per
+ share in exchange for an additional of
+ proceeds and the promissory note was increased to .
+ The Company s obligations under the Note are secured by subordinated lien on the assets of the Company and its wholly-owned
+ subsidiary Digipath Labs, Inc., pursuant to a Security Agreement between the Company, Digipath Labs, Inc. and the investor. On
+ December 29, 2020, the note holder converted of
+ principal into shares
+ of common stock at a conversion price of per
+ share. On August 8, 2022, the note holder agreed to extend the maturity date of the note to . In exchange for the extension the Company agreed to issue common
+ shares, which were recorded as debt discount, with a relative fair value of . These shares have not yet been issued as of September 30, 2022 and are recorded as a stock payable. 
+
+On February 10, 2020, the Company completed the sale to an accredited investor of a 
+ Secured Convertible Promissory Note in the principal amount of .
+ The Note matures on , bears interest at a rate of 
+ per annum, and was convertible into shares of the Company s common stock at a conversion price of 
+ per share. On December 28, 2020, the conversion price was amended to 
+ per share in exchange for an additional 
+ of proceeds and the promissory note was increased to .
+ The Company s obligations under the Note are secured by a lien on the assets of the Company and its wholly-owned subsidiary
+ Digipath Labs, Inc., pursuant to a Security Agreement between the Company, Digipath Labs, Inc. and the investor. On December 29,
+ 2020, the note holder converted 
+ of principal into 
+ shares of common stock at a conversion price of 
+ per share. On August 8, 2022, the note holder agreed to extend the maturity date of the note to . In exchange for the extension the Company agreed to issue 
+ common shares, which were recorded as debt discount with a relative fair value of . These shares have not yet been issued as of September 30, 2022 and are recorded as a stock payable. 
+
+On September 23, 2019, the Company received proceeds of 
+ on a senior secured convertible note that carries an 
+ interest rate, which matures on , as amended. The principal and interest were convertible into shares of common stock at the discretion of the note
+ holder at a fixed conversion price of 
+ per share. and the conversion price was amended to 0.03 per share . The Company s obligations under this Note are
+ secured by a lien on the assets of the Company and its wholly-owned subsidiary Digipath Labs, Inc. On February 22, 2021, the
+ noteholder converted 
+ of principal into 
+ shares of common stock at a conversion price of 
+ per share. On September 30, 2021 the note was amended to add the outstanding short term notes and accrued interest into the
+ principal balance, making the outstanding balance ,
+ as amended. As a result of the modification, the Company recorded an additional debt discount of ,
+ as a result of the beneficial conversion feature of the additional principal. In addition, during the year ended September 30, 2022,
+ the Company was advanced additional loans of 
+ from the lender under the same terms. Subsequent to September 30, 2022, the Company further extended the maturity date to . 
+
+On November 8, 2018, the Company received proceeds of 
+ on a senior secured convertible note that carries an 
+ interest rate, which matures on , as amended. The principal and interest were convertible into shares of common stock at the discretion of the note
+ holder at a fixed conversion price of 
+ per share. On September 30, 2020, the maturity date was extended to August 10, 2022 and the conversion price was amended to 
+ per share. The Company s obligations under this Note are secured by a lien on the assets of the Company and its wholly-owned
+ subsidiary Digipath Labs, Inc. Subsequent to September 30, 2022, the Company further extended the maturity date to . 
+
+On November 5, 2018, the Company received proceeds of 
+ on a senior secured convertible note that carries an 
+ interest rate, which matures on , as amended. The principal and interest were convertible into shares of common stock at the discretion of the note
+ holder at a fixed conversion price of 
+ per share. On September 30, 2020, the maturity date was extended to August 10, 2022 and the conversion price was amended to 
+ per share. The Company s obligations under this Note are secured by a lien on the assets of the Company and its wholly-owned
+ subsidiary Digipath Labs, Inc. As of September 30, 2022, the Note is in default, which allows the holder to call the Note immediately. 
+
+Total convertible notes payable 
+
+Less: unamortized debt discounts 
+
+Total convertible debt 
+
+Less: current maturities 
+
+Convertible notes payable 
+
+In
+addition, the Company recognized and measured the embedded beneficial conversion feature present in the convertible notes by allocating
+a portion of the proceeds equal to the intrinsic value of the feature to additional paid-in-capital. The intrinsic value of the feature
+was calculated on the commitment date using the effective conversion price of the convertible notes. This intrinsic value is limited
+to the portion of the proceeds allocated to the convertible debt. 
+
+The
+aforementioned accounting treatment resulted in a total debt discount equal to 
+and 
+during the year ended September 30, 2022 and 2021. The discount is amortized based on the effective interest method from the dates
+of issuance until the earlier of the stated redemption date of the debt, as noted above, or the actual settlement date. The Company
+recorded debt amortization expense attributed to the aforementioned debt discount in the amounts of 
+and ,
+during the years ended September 30, 2022 and 2021, respectively. Unamortized discount as of September 30, 2022 is 
+
+All
+of the convertible notes limit the maximum number of shares that can be owned by each note holder as a result of the conversions to common
+stock to of the Company s issued and outstanding shares. 
+
+The
+Company recorded interest expense pursuant to the stated interest rates on the convertible notes in the amount of and 
+for the years ended September 30, 2022 and 2021, respectively. 
+
+Interest on capital leases 
+
+Interest on notes payable 
+
+Amortization of beneficial conversion features 
+
+Interest on convertible notes 
+
+Total interest expense 
+
+shares of preferred stock with a par value of per share, of which have been
+designated as Series A Convertible Preferred Stock Series A Preferred ), have been designated as Series B Convertible
+Preferred Stock Series B Preferred ), and shares have been designated as Series C Preferred Stock Series
+C Preferred with the remaining shares available for designation from time to time by the Board as set forth below.
+As of September 30, 2022, there were shares of Series A Preferred issued and outstanding, shares of Series B Preferred
+issued and outstanding and shares of Series C Preferred issued and outstanding. The Board of Directors is authorized to determine
+any number of series into which the undesignated shares of preferred stock may be divided and to determine the rights, preferences, privileges
+and restrictions granted to any series of the preferred stock. Each share of Series A Preferred is currently convertible into five shares
+of common stock and each share of Series B Preferred is currently convertible into twenty-five shares of common stock. The Series C Preferred
+is not convertible into common stock. 
+
+Series
+A Preferred 
+
+The
+conversion price is adjustable in the event of stock splits and other adjustments in the Company s capitalization, and in the event
+of certain negative actions undertaken by the Company. At the current conversion price, the shares of Series A Preferred outstanding
+at September 30, 2022 are convertible into shares of the common stock of the Company. . 
+
+Additional
+terms of the Series A Preferred include the following: 
+
+The shares of Series A
+ Preferred are entitled to dividends when, as and if declared by the Board as to the shares of the common stock of the Company into
+ which such Series A Preferred may then be converted, subject to the beneficial ownership limitation described above. 
+
+Upon the liquidation or
+ dissolution of the Company, or any merger or sale of all or substantially all of the assets, the shares of Series A Preferred are
+ entitled to receive, prior to any distribution to the holders of common stock, of the purchase price per share of Series A Preferred
+ plus all accrued but unpaid dividends. 
+
+The Series A Preferred
+ plus all declared but unpaid dividends thereon automatically will be converted into common stock, at the then applicable conversion
+ rate, upon the affirmative vote of the holders of a majority of the outstanding shares of Series A Preferred. 
+
+Each share of Series A
+ Preferred will carry a number of votes equal to the number of shares of common stock into which such Series A Preferred may then
+ be converted, subject to the beneficial ownership limitation described above. The Series A Preferred generally will vote together
+ with the common stock and not as a separate class, except as provided below. 
+
+Consent of the holders
+ of the outstanding Series A Preferred is required in order for the Company to: (i) amend or change the rights, preferences, privileges
+ or powers of, or the restrictions provided for the benefit of, the Series A Preferred; (ii) authorize, create or issue shares of
+ any class of stock having rights, preferences, privileges or powers superior to the Series A Preferred; (iii) reclassify any outstanding
+ shares into shares having rights, preferences, privileges or powers superior to the Series A Preferred; or (iv) amend the Company s
+ Articles of Incorporation or Bylaws in a manner that adversely affects the rights of the Series A Preferred. 
+
+Pursuant to the Securities
+ Purchase Agreements, holders of Series A Preferred are entitled to unlimited piggyback registration rights on registrations
+ by the Company, subject to pro rata cutback at any underwriter s discretion. 
+
+During
+the year ended September 30, 2022, . One Series A shareholder invested additional cash
+proceeds of 
+for 
+Series B shares and converted 
+of its Series A into Series B. As a result of the transaction, it was determined under ASC 470-20-40 the Company had issued a deemed dividend from
+the induced conversion of the Series A into Series B in the amount of . 
+
+Series
+B Preferred 
+
+The
+Series B Preferred were designated on December 29, 2021. Each share of Series B Preferred has a
+Stated Value of and is currently convertible into common stock at a conversion price equal to . The conversion price of the
+Series B Preferred is subject to equitable adjustment in the event of a stock split, stock dividend or similar event with respect to
+the common stock , and in the event of the issuance of common stock by the Company below the conversion price, subject to customary
+exceptions. At the current conversion price, the shares of Series B Preferred outstanding at September 30, 2022 are convertible
+into shares of the common stock of the Company. No holder is permitted to convert its shares of Series B Preferred if such
+conversion would cause the holder to beneficially own more than of the issued and outstanding common stock of the Company immediately
+after such conversion, unless waived by such holder by providing at least sixty-five days notice. 
+
+Additional
+terms of the Series B Preferred include the following: 
+
+The shares of Series B
+ Preferred are not entitled to dividends, provided that if dividends are paid on the shares of common stock of the Company, the Series
+ B Preferred will be entitled to dividends based on the number shares of common stock which the Series B Preferred may then be converted. 
+
+. 
+
+Each share of Series B
+ Preferred carries a number of votes equal to the number of shares of common stock into which such Series B Preferred may then be
+ converted. 
+
+Due
+to the change in control provision of the Series B Preferred, the Series B Preferred is classified as temporary equity on the balance
+sheet. 
+
+On
+December 30, 2021, the Company entered into an Exchange Agreement with one of the Company s institutional investors (the Investor ),
+pursuant to which the Investor exchanged shares of the Series A Preferred for shares of the Series B Preferred. In addition,
+on December 30, 2021, the Investor purchased shares of Series B Preferred Stock at a price of per share, resulting in gross
+proceeds to the Company of . 
+
+Series
+C Preferred 
+
+The
+Series C Preferred were designated on July 20, 2022. The principal feature of the Series C Preferred is that it provides the holder thereof,
+so long as he or she is an executive officer of the Company, with the ability to vote with the holders of the Company s common
+stock on all matters presented to the holders of common stock, whether at a special or annual meeting, by written action in lieu of a
+meeting or otherwise, on the basis of votes for each share of Series C Preferred. The shares of Series C Preferred are not convertible
+into common stock, are not entitled to dividends, are not subject to redemption, and have a stated value of per share payable on
+any liquidation of the Company in preference to any payment payable to the holders of common stock. 
+
+On
+July 25, 2022, the Company entered into a Securities Purchase Agreement (the Purchase Agreement with Todd Denkin, the
+Company s President, pursuant to which Mr. Denkin purchased shares of the Series C Preferred for a purchase price of 
+per share. The Company determined that the shares had value in excess of the stated value in the amount of , which the Company
+recorded as compensation expense to the officer 
+
+Common
+Stock 
+
+Common
+stock consists of par value, shares authorized, of which shares were issued and outstanding as of September
+30, 2022. 
+
+Common
+Stock Transactions for the Year Ended September 30, 2022 
+
+During
+the year ended September 30, 2022, the Company issued shares of its common stock in exchange for services rendered to the Company,
+by its chief financial officer, with a total fair value of based on the closing price of the Company s common stock on
+the date of grant. 
+
+During
+the year ended September 30, 2022, the Company issued shares of its common stock in exchange for services rendered to the Company
+by third party consultants, with a total fair value based on the closing price of the Company s common stock on the dates
+of grant. 
+
+During
+the year ended September 30, 2022, the Company issued 
+shares of its common stock to settle outstanding payables in the amount of based on the closing price of the Company s common stock on the dates of grant . 
+
+In
+connection with the Convertible Note extensions as described in Note 8, the Company was to issue, 
+shares of common stock to the lenders as additional incentive. As of September 30, 2022, these shares have not yet been issued and
+as such are recorded as a stock payable with a fair value of based on the closing price of the Company s common stock on the dates of grant . 
+
+Common
+Stock Transactions for the Year Ended September 30, 2021 
+
+On
+December 30, 2020, the Company sold shares of its common stock to its Chairman of the Board in exchange for proceeds of . 
+
+During
+the year ending September 30, 2021 the Company issued shares of its common stock in exchange for services rendered to the Company
+with a total fair value of based on the closing price of the Company s common stock on the date of grant. Of the total
+common stock issued, shares were issued to officers, shares were issued to members of the Board, and shares
+were issued to a consulting firm controlled by the Company s president. 
+
+During
+the year ending September 30, 2021 the Company issued shares of its common stock upon the conversion of of debt principal. 
+
+Amortization
+of Stock-Based Compensation 
+
+A
+total of 
+ of stock-based compensation expense was recognized
+during the year ended September 30, 2022 as a result of the issuance of 
+ shares of common stock, as amortized over the
+requisite service period. 
+
+A
+total of of stock-based compensation expense was recognized during the year ended September 30, 2021 as a result of the issuance
+of shares of common stock, as amortized over the requisite service period. 
+
+shares of common stock
+pursuant to the grant of options or other awards, including stock grants, to employees, officers or directors of, and consultants to,
+the Company and its subsidiaries. Options granted under the 2012 Plan may either be intended to qualify as incentive stock options under
+the Internal Revenue Code of 1986, or may be non-qualified options, and are exercisable over periods not exceeding ten years from date
+of grant. 
+
+Common
+Stock Option Issuances 
+
+During
+the year ended September 30, 2022, the Company issued to an unrelated third party, options to purchase shares of its common
+stock in exchange for services rendered to the Company with a total fair value . The Company estimated the fair value using the
+Black-Scholes Pricing Model, based on a volatility rate of and call option values of and exercise prices of , and
+vesting immediately. 
+
+During
+the year ending September 30, 2021 the Company issued options to purchase shares of its common stock in exchange for services
+rendered to the Company with a total fair value which is being amortized over the requisite vesting period of the options which
+range from immediate vesting to vesting over years. The Company estimated the fair value using the Black-Scholes Pricing Model, based
+on a volatility rate of - and call option values of - and exercise prices of - . Of the total common
+stock options issued, were issued to officers and were issued to third party consultants. 
+
+Amortization
+of Stock-Based Compensation 
+
+A
+total of and of stock-based compensation expense was recognized during the year ended September 30, 2022 and 2021, respectively,
+as a result of the vesting of common stock options issued. As of September 30, 2022 a total of of unamortized expense remains
+to amortized over the vesting period. 
+
+years 
+
+Average expected life (in years) 
+
+Volatility 
+
+The
+Black-Scholes option pricing model was developed for use in estimating the fair value of short-term traded options that have no vesting
+restrictions and are fully transferable. In addition, option valuation models require the input of highly subjective assumptions including
+expected stock price volatility. Because the Company s common stock options have characteristics significantly different from those
+of traded options and because changes in the subjective input assumptions can materially affect the fair value estimate, in management s
+opinion the existing models do not necessarily provide a reliable single measure of the fair value of its common stock options. During
+the years ended September 30, 2022 and September 30, 2021, there were options granted with an exercise price below the fair value
+of the underlying stock at the grant date. 
+
+The
+weighted average fair value of options granted with exercise prices at the current fair value of the underlying stock during the year
+ended September 30, 2022 was approximately per option. 
+
+Options issued 
+
+Options repurchased/expired 
+
+Balance, September 30, 2021 
+
+Options issued 
+
+Options forfeited 
+
+Balance, September 30, 2022 
+
+Exercisable, September 30, 2022 
+
+As
+of September 30, 2022, these options in the aggregate had no intrinsic value as the per share market price of of the Company s
+common stock as of such date was less than the weighted-average exercise price of these options of . 
+
+shares of common stock were outstanding as of September 30, 2022. 
+
+During
+the year ended September 30, 2022, warrants to purchase an aggregate total of shares of common stock at a weighted average
+exercise price of per share expired. 
+
+During
+the year ended September 30, 2021, warrants to purchase an aggregate total of shares of common stock at a weighted average
+exercise price of per share expired. 
+
+Summary of Common Stock Warrants Outstanding 
+
+Shares Underlying 
+ Shares Underlying 
+ 
+ Warrants
+ Outstanding 
+ Warrants
+ Exercisable 
+
+Weighted 
+
+Shares 
+ Average 
+ Weighted 
+ Shares 
+ Weighted 
+ 
+ Range of 
+ Underlying 
+ Remaining 
+ Average 
+ Underlying 
+ Average 
+ 
+ Exercise 
+ Warrants 
+ Contractual 
+ Exercise 
+ Warrants 
+ Exercise 
+ 
+ Prices 
+ Outstanding 
+ Life 
+ Price 
+ Exercisable 
+ Price 
+
+years 
+
+The
+fair value of each warrant grant is estimated on the date of grant using the Black-Scholes option pricing model with the following weighted-average
+assumptions used for grants under the fixed option plan: 
+
+Warrants granted 
+ - 
+ - 
+ 
+ Warrants expired 
+
+Balance, September 30, 2021 
+
+Warrants granted 
+ - 
+ - 
+ 
+ Warrants expired 
+
+Balance, September 30, 2022 
+
+Exercisable, September 30, 2022 
+
+As
+of September 30, 2022, these warrants in the aggregate had no intrinsic value as the per share market price of of the Company s
+common stock as of such date was less than the weighted-average exercise price of these warrants of . 
+
+of federal net operating losses. The net operating loss carry forwards,
+if not utilized, will begin to expire in . 
+
+State income taxes 
+ - 
+ - 
+ 
+ Change in valuation allowance 
+
+Net effective income tax rate 
+ - 
+ - 
+
+Net deferred tax assets before valuation allowance 
+
+Less: Valuation allowance 
+
+Net deferred tax assets 
+ - 
+ - 
+
+Based
+on the available objective evidence, including the Company s history of its loss, management believes it is more likely than not
+that the net deferred tax assets will not be fully realizable. Accordingly, the Company provided for a full valuation allowance against
+its net deferred tax assets at September 30, 2022 and 2021, respectively. 
+
+In
+accordance with FASB ASC 740, the Company has evaluated its tax positions and determined there are no uncertain tax positions. 
+
+. As consideration the Company issued the lender a warrant to purchase shares of the
+common stock with an exercise price of . 
+
+On
+October 1, 2022, the Company amended the outstanding convertible promissory notes dated November 18, 2018 to extend the maturity date
+of December 30, 2022 to . As consideration the Company issued the lender a warrant to purchase shares of the
+common stock with an exercise price of . 
+
+On
+October 1, 2022, the Company issued a convertible promissory note in exchange for various advances made to the Company in the aggregate
+amount of with a maturity date of and bearing interest at a rate of . As additional consideration, the Company
+issued the lender a warrant to purchase shares of common stock with an exercise price of . 
+
+On
+December 5, 2022, the Company entered into an Asset Purchase Agreement in which the Company sold the remaining collateralized assets
+held under the C3 Labs note receivable for a total purchase price of the . The purchase price consists of a down payment of 
+and the remaining portion of the purchase price will be financed by a Note Receivable (the Note that is due April 1, 2024,
+and accrues interest at a rate of . The note receivable will require monthly interest payments from January 1, 2023, through March
+2023, and then monthly principal and interest payments through the maturity of the Note. 
+
+F- 21 
+
+ITEM
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+None 
+
+ITEM
+9A. Controls and Procedures 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Our
+management, with the participation of our Principal Executive Officer and our Principal Financial Officer, evaluated the effectiveness
+of our disclosure controls and procedures as of September 30, 2022 (the Evaluation Date ). The term disclosure controls
+and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company
+that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the
+Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure
+controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed
+by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company s management,
+including its principal executive and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure.
+Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance
+of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible
+controls and procedures. Based on the evaluation of our disclosure controls and procedures as of September 30, 2022, our Principal Executive
+Officer and Principal Financial Officer concluded that, as of such date, our disclosure controls and procedures were not effective at
+the reasonable assurance level. 
+
+Management s
+Annual Report on Internal Control Over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rules 13a-15(f) and
+15d-15(f) of the Exchange Act. Internal control over financial reporting is a process designed to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements in accordance with GAAP. Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to
+future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate. 
+
+Management
+has conducted, with the participation of our Principal Executive Officer and our Principal Accounting Officer, an assessment, including
+testing of the effectiveness, of our internal control over financial reporting as of Evaluation Date. Management s assessment of
+internal control over financial reporting was conducted using the criteria set forth by the Committee of Sponsoring Organizations of
+the Treadway Commission (COSO) in Internal Control - Integrated Framework (2013 Framework). 
+
+A
+material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is
+a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected
+on a timely basis. In connection with management s assessment of our internal control over financial reporting as required under
+Section 404 of the Sarbanes-Oxley Act of 2002, we have identified the following material weaknesses in our internal control over financial
+reporting as of the Evaluation Date. 
+
+- 
+ Lack of segregation of duties in financial reporting,
+ as our financial reporting and all accounting functions are performed by our Officers. 
+
+- 
+ Lack of a formal review process that includes multiple
+ levels of review, as all accounting and financial reporting functions are performed by our Officers and the work is not reviewed
+ by anyone. 
+
+We
+have thus concluded that our internal control over financial reporting was not effective as of the Evaluation Date. 
+
+18 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to an exemption
+for smaller reporting companies under Section 989G of the Dodd-Frank Wall Street Reform and Consumer Protection Act. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+have been no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange
+Act) or in other factors that occurred during the fourth fiscal quarter of 2022 that have materially affected, or are reasonably likely
+to materially affect, our internal control over financial reporting. 
+
+ITEM
+9B. Other Information 
+
+None. 
+
+PART
+III 
+
+ITEM
+10. Directors, Executive Officers and Corporate Governance 
+
+Set
+forth below are the present directors and executive officers of the Company. There are no arrangements or understandings between any
+of the directors, officers and other persons pursuant to which such person was selected as a director or an officer. 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Todd Denkin 
+ 
+ 60 
+ 
+ President 
+ 
+ A. Stone Douglass 
+ 
+ 75 
+ 
+ Chairman and CFO 
+ 
+ Bruce Raben 
+ 
+ 70 
+ 
+ Director 
+ 
+ Dennis Hartman 
+ 
+ 67 
+ 
+ Director 
+
+Biographies 
+
+Set
+forth below are brief accounts of the business experience of each director and executive officer of the Company. 
+
+Todd
+Denkin was appointed as President on July 1, 2021. Mr. Denkin has many years of experience in the legal marijuana
+industry, and has in the past been an integral part of the Company s management. Mr. Denkin originally joined the Company in April
+2014 as President, and served as the Company s Chief Executive Officer from October 2014 until June 21, 2016. He then served as
+the Company s President and Chief Operating Officer until September 26, 2019, and was thereafter a consultant to the Company until
+December 2019. From January 2020 until December 2020 when he was re-engaged by the Company as a consultant, Mr. Denkin provided consulting
+services to cannabis producers, and was active as a cannabis testing educator and content provider. Prior to joining the Company in April
+2014, Mr. Denkin served as co-founder and president of both 10 Mile and Growopp, LLC where he created controlled environmental indoor
+hydroponic grow chambers from 2011 to 2013. 
+
+A.
+Stone Douglass was appointed a director of the Company on July 1, 2021, as our Chief Financial Officer on August 16, 2021, and
+as Chairman of the Board of Directors on October 21, 2021 Mr. Douglass has been: the Chief Executive Officer of GeoSolar Technologies,
+Inc., a company planning to install natural energy systems, since December 2020; the Chief Financial Officer of David Kind, Inc., a Venice,
+California based online eyewear brand, since June 2013; the Chairman and Chief Executive Officer of Sealand Natural Resources, Inc.,
+a manufacturer and purveyor of Sealand Birk birch water and other alternative beverages, since March 2016; the Chief Financial Officer
+of P5 Systems, Inc., a San Diego based technology platform known as the Craig s List of cannabis, servicing the legal cannabis
+value chain, since March 2018;; and the principal owner of Ducks Nest Investments Inc, a private investment company, since September
+1990. We believe that Mr. Douglass s financial and business experience qualify him to serve as our director. 
+
+19 
+
+Bruce
+Raben was appointed to our Board of Directors on September 12, 2018. Mr. Raben is the Managing Member of Hudson Capital Advisors
+BD, LLC, a registered broker dealer that he founded in 2004. Mr. Raben has been an investment banker, merchant banker and private investor
+for approximately 30 years. Starting in 1979 at Drexel Burnham Lambert, he worked on many leveraged buyouts and recapitalizations including
+Mattel Toys, SFN Co. s, Magma Copper, Warnaco, Mellon Bank and John Fairfax. Mr. Raben then went on to co-found the Corporate Finance
+Department at Jeffries Co. in 1990. Mr. Raben opened a west coast office for CIBC s high yield finance and merchant banking
+activities in 1996. Mr. Raben received his A.B. from Vassar College in 1975 and his MBA from Columbia University in 1979. We believe
+that Mr. Raben s investment banking and financial experience qualify him to serve as our director. 
+
+Dennis
+Hartmann was appointed to our Board of Directors on September 25, 2019 and as Interim President on August 14, 2020. Mr. Hartmann
+resigned as Interim President on July 1, 2021. Mr. Hartmann had been an attorney engaged in private practice in the State of California
+for over 35 years. Mr. Hartmann holds a B.S. from the University of Alabama and a J.D. from the University of Texas School of Law. We
+believe that Mr. Hartmann s legal experience qualifies him to serve as our director. 
+
+Family
+Relationships 
+
+None. 
+
+Board
+Committees and Audit Committee Financial Expert 
+
+We
+do not currently have a standing audit, nominating or compensation committee of the board of directors, or any committee performing similar
+functions. Our board of directors performs the functions of audit, nominating and compensation committees. As of the date of this prospectus,
+no member of our board of directors qualifies as an audit committee financial expert as defined in Item 407(d)(5) of Regulation
+S-K promulgated under the Securities Act. 
+
+Director
+Nominations 
+
+As
+of September 30, 2022, we did not affect any material changes to the procedures by which our shareholders may recommend nominees to our
+board of directors. We have not established formal procedures by which security holders may recommend nominees to the Company s
+board of directors. 
+
+Delinquent
+Section 16(a) Reports 
+
+Section
+16(a) of the Exchange Act requires the Company s directors, executive officers and persons who own more than 10 of a registered
+class of the Company s securities to file with the SEC initial reports of ownership and reports of changes in ownership of common
+stock and other equity securities of the Company. Directors, executive officers and greater than 10 stockholders are required by SEC
+regulation to furnish the Company with copies of all Section 16(a) reports they file. To our knowledge, based solely on the review of
+the copies of these forms furnished to us and representations that no other reports were required, the Company believes that all forms
+required to be filed under Section 16 of the Exchange Act for the year ended September 30, 2022 were filed timely. 
+
+Code
+of Ethics 
+
+We
+have adopted a code of ethics that applies to our principal executive officers, principal financial officer, principal accounting officer
+or controller, or persons performing similar functions. A copy of our code of ethics may be obtained free of charge by contacting us
+at the address or telephone number listed on the cover page hereof. 
+
+20 
+
+ITEM
+11. Executive Compensation 
+
+Summary
+Compensation Table 
+
+The
+following summary compensation table sets forth the aggregate compensation we paid or accrued during the fiscal years ended September
+30, 2022 and September 30, 2021 to persons serving as our Chief Executive Officer and Chief Financial Officer during our year ended September
+30, 2022 (our Named Executive Officers ), who were our only executive officers during 2022, as none of our other officers
+earned total compensation in excess of 100,000 during our last completed fiscal year. 
+
+Fiscal 
+ 
+ Stock 
+ Option 
+ All Other 
+
+Name and Financial Position 
+ Year 
+ Salary 
+ Awards (6) 
+ Awards 
+ Compensation 
+ Total 
+
+Todd Denkin (1) 
+ 2022 
+ 150,000 
+ - 
+ - 
+ - 
+ 150,000 
+ 
+ President 
+ 2021 
+ 37,500 
+ 107,975 (2) 
+ 
+ 48,000 (3) 
+ 193,475 
+
+A. Stone Douglass (4) 
+ 2022 
+ 50,000 
+ 52,500 (5) 
+ - 
+ - 
+ 102,500 
+ 
+ Chief Financial Officer 
+ 2021 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+(1) 
+ Mr. Denkin was appointed
+ President on July 1, 2021. 
+
+(2) 
+ Amount relates to 1,500,000
+ shares of Common Stock issued to Mr. Denkin on July 1, 2020 upon his appointment as President and 500,000 shares of Common Stock
+ issued to Mr. Denkin under his Consulting Agreement with the Company during the year ended September 30, 2021 for services rendered
+ prior to his appointment as President. 
+
+(3) 
+ Consists of consulting
+ fees paid to TD Media, an entity controlled by Todd Denkin, prior to his appointment as President of Company. 
+
+(4) 
+ Mr. Douglass was appointed
+ Chief Financial Officer on August 16, 2021. 
+
+(5) 
+ Amount relates to 1,500,000
+ shares of Common Stock issued to Mr. Douglass on October 21, 2021 upon his appointment as Chief Financial Officer. 
+
+Employment
+Agreements 
+
+We
+are not party to an employment agreement with Todd Denkin 
+
+Outstanding
+Equity Awards 
+
+The
+following table sets forth information with respect to unexercised stock options, stock that has not vested, and equity incentive plan
+awards held by our Named Executive Officers at September 30, 2022. 
+
+21 
+
+Outstanding Option Awards at Fiscal Year-End 
+ 
+ Name 
+ Number of Securities Underlying Unexercised Options (#) Exercisable 
+ Number of Securities Underlying Unexercised Options (#) Unexercisable 
+ Option Exercise Price 
+ Option Expiration Date 
+
+Todd Denkin, President 
+ - 
+ - 
+ - 
+ N/A 
+
+A. Stone Douglass 
+ 678,571 
+ 321,429 
+ 0.06 
+ June 2, 2031 
+
+Option
+Exercises and Stock Vested 
+
+None
+of our Named Executive Officers exercised any stock options or acquired stock through vesting of an equity award during the year ended
+September 30, 2022. 
+
+Director
+Compensation 
+
+The
+following table summarizes the compensation paid or accrued by us to our directors that are not Named Executive Officers for the year
+ended September 30, 2022. 
+
+Name 
+ Fees Earned or Paid in Cash 
+ Stock Award 
+ Option Awards 
+ Non-Equity Incentive Compensation 
+ Change in Pension Value and Nonqualified Deferred Compensation Earnings 
+ All other Compensation 
+ Total 
+
+Bruce Raben (1) 
+ 30,000 
+ - 
+ 
+ - 
+ - 
+ 36,000 
+ 92,260 
+ 
+ Dennis Hartmann (2) 
+ 18,000 
+ - 
+ 
+ - 
+ - 
+ - 
+ 18,000 
+
+(1) 
+ We
+ have agreed to compensate Mr. Raben a total of 7,500 in cash per quarter for his service as a director. All other compensation 
+ consists of cash payments for consulting fees. 
+
+(2) 
+ We
+ have agreed to compensate Mr. Hartmann a total of 4,500 in cash per quarter for his service as a director. 
+
+Directors
+are entitled to reimbursement for reasonable travel and other out-of-pocket expenses incurred in connection with attendance at meetings
+of our board of directors. 
+
+22 
+
+ITEM
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+The
+following table sets forth, as of December 27, 2021, certain information with regard to the record and beneficial ownership of the Company s
+common stock by (i) each person known to the Company to be the record or beneficial owner of 5 or more of the Company s common
+stock, (ii) each director of the Company, (iii) each of the named executive officers, and (iv) all executive officers and directors of
+the Company as a group. The address of each of our directors and executive officers named in the table is c/o Digipath, Inc., 6450 Cameron
+Street, Suite 113, Las Vegas, Nevada 89118: 
+
+Series A 
+
+Common Stock 
+ Preferred Stock 
+ 
+ Name of Beneficial Owner (1) 
+ Number of Shares 
+ of Class (2) 
+ Number of Shares 
+ of Class 
+ 
+ Officers and Directors: 
+
+Dennis Hartmann Director (3) 
+ 575,000 
+ 
+ - 
+ - 
+ 
+ Todd Denkin, President 
+ 2,308,824 
+ 3.1 
+ - 
+ - 
+ 
+ Bruce Raben, Director (4) 
+ 3,890,000 
+ 5.1 
+ - 
+ - 
+ 
+ A. Stone Douglass, Chairman and CFO (5) 
+ 2,392,857 
+ 3.2 
+
+Directors and Officers as a Group (4 persons) 
+ 8,591,681 
+ 11.1 
+ - 
+ - 
+
+less than 1 
+
+(1) 
+ Except as indicated in
+ the footnotes to this table and pursuant to applicable community property laws, the persons named in the table have sole voting and
+ investment power with respect to all shares of Common Stock or Series A Preferred Stock owned by such person. 
+
+(2) 
+ Percentage of beneficial
+ ownership is based upon 75,146,820 shares of Common Stock outstanding as of December 15, 2022. For each named person, this percentage
+ includes Common Stock that the person has the right to acquire either currently or within 60 days of December 15, 2022, including
+ through the exercise of an option; however, such Common Stock is not deemed outstanding for the purpose of computing the percentage
+ owned by any other person. 
+
+(3) 
+ Includes options to purchase
+ 250,000 shares of common stock exercisable at 0.10 per share. 
+
+(4) 
+ Includes options to purchase
+ 500,000 shares of common stock exercisable at 0.13 per share, and options to purchase 1,000,000 shares of common stock exercisable
+ at 0.10 per share. 
+
+(5) 
+ Includes options to purchase
+ 892,857 shares of common stock exercisable at 0.06 per share, 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Director
+Independence 
+
+Our
+board of directors currently consists of Bruce Raben, Dennis Hartmann and A. Stone Douglass. Our Board of Directors has determined that
+Mr. Raben and Mr. Hartmann, constituting a majority of our directors, are independent in accordance with the NASDAQ Global
+Market s requirements. However, as our common stock is currently quoted on the OTCQB, we are not currently subject to corporate
+governance standards of listed companies. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+All
+audit work was performed by the full-time employees of M K CPAS, PLLC M K for the years ended September 30, 2022
+and 2021. Our board of directors does not have an audit committee. The functions customarily delegated to an audit committee are performed
+by our full board of directors. Our board of directors approves in advance, all services performed by M K. Our board of directors
+has considered whether the provision of non-audit services is compatible with maintaining the principal accountant s independence
+and has approved such services. 
+
+The
+following table sets forth fees billed by our auditors during the last two fiscal years for services rendered for the audit of our annual
+consolidated financial statements and the review of our quarterly financial statements, services by our auditors that are reasonably
+related to the performance of the audit or review of our consolidated financial statements and that are not reported as audit fees, services
+rendered in connection with tax compliance, tax advice and tax planning, and all other fees for services rendered. 
+
+23 
+
+Years Ended 
+September 30, 
+
+2022 
+ 2021 
+ 
+ Audit fees: (1) 
+ 41,200 
+ 49,500 
+ 
+ Audit related fees 
+ - 
+ - 
+ 
+ Tax fees 
+ - 
+ - 
+ 
+ All other fees 
+ - 
+ - 
+ 
+ Total 
+ 41,200 
+ 49,500 
+
+(1)
+ Audit fees were principally for audit services and work performed in the review of the Company s quarterly reports on Form
+10-Q 
+
+PART
+IV 
+
+ITEM
+15. Exhibits and Financial Statement Schedules 
+
+Exhibit 
+ 
+ Description 
+ 
+ 2.1 
+ 
+ Stock Purchase Agreement between Digipath, Inc., VSSL Enterprises Ltd., Kyle Joseph Remenda, Philippe Olivier Henry, PhD, Audim Ventures Ltd. and Britt Ash Enterprises Ltd., dated March 9, 2020 (incorporated by reference to Exhibit 2.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on March 16, 2020) 
+ 
+ 3.1 
+ 
+ Articles of Incorporation (incorporated by reference to Exhibit 3.1 of the Form 10 filed with the Securities and Exchange Commission by Digipath, Inc. on July 15, 2011) 
+ 
+ 3.2 
+ 
+ Bylaws (incorporated by reference to Exhibit 3.2 of the Form 10 filed with the Securities and Exchange Commission by Digipath, Inc. on July 15, 2011) 
+ 
+ 3.3 
+ 
+ Certificate of Amendment to Articles of Incorporation dated April 4, 2014 (incorporated by reference to Exhibit 3.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on April 10, 2014) 
+ 
+ 3.4 
+ 
+ Certificate of Designations, Preferences, Limitations, Restrictions and Relative Rights of Series A Convertible Preferred Stock dated April 9, 2014 (incorporated by reference to Exhibit 3.2 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on April 10, 2014) 
+ 
+ 3.5 
+ 
+ Certificate of Amendment to Articles of Incorporation dated May 22, 2015 (incorporated by reference to Exhibit 3.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on May 26, 2015) 
+ 
+ 3.6 
+ 
+ Certificate of Amendment to Articles of Incorporation dated May 14, 2019 (incorporated by reference to Exhibit 3.6 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on August 13, 2019) 
+ 
+ 3.7 
+ 
+ Certificate of Designation of the Series B Preferred Stock of Digipath, Inc., filed December 29, 2021 (incorporated by reference to Exhibit 3.1 of the Report on 8-K filed with the Securities and Exchange Commission by Digipath, Inc on January 6, 2022) 
+ 
+ 3.8 
+ 
+ Certificate of Designation of the Series C Preferred Stock of Digipath, Inc., filed with the Secretary of State of the State of Nevada on July 20, 2022. (incorporated by reference to Exhibit 3.1 of the Report on 8-K filed with the Securities and Exchange Commission by Digipath, Inc on July 26, 2022) 
+ 
+ 4.1 
+ 
+ Form of 8 Senior Secured Convertible Notes due December 31, 2020 (incorporated by reference to Exhibit 4.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on November 21, 2018) 
+ 
+ 4.2 
+ 
+ Form of 8 Senior Secured Convertible Notes due September 23, 2020 (incorporated by reference to Exhibit 4.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on September 26, 2019) 
+ 
+ 4.3 
+ 
+ 9 Secured Convertible Note, between Digipath, Inc. and holder, due August 10, 2022 (incorporated by reference to Exhibit 4.3 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on February 14, 2020) 
+
+24 
+
+4.4 
+ 
+ 9 Secured Subordinated Convertible Note, between Digipath, Inc. and holder, due August 11, 2022 (incorporated by reference to Exhibit 4.4 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on February 14, 2020) 
+ 
+ 4.5 
+ 
+ 9 Secured Subordinated Convertible Note, between Digipath, Inc. and holder, due August 11, 2022 (incorporated by reference to Exhibit 4.5 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on May 15, 2020) 
+ 
+ 4.6 
+ 
+ Form of Amendment to 9 Secured Convertible Note, between Digipath, Inc. and holder, due August 10, 2022 (incorporated by reference to Exhibit 4.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on January 6, 2021) 
+ 
+ 4.7 
+ 
+ Description of Securities 
+ 
+ 10.1 
+ 
+ 2012 Stock Incentive Plan (incorporated by reference to Exhibit 4.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on March 9, 2012) 
+ 
+ 10.2 
+ 
+ Digipath, Inc. Amended and Restated 2012 Stock Incentive Plan (incorporated by reference to Exhibit 10.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on June 27, 2016) 
+ 
+ 10.3 
+ 
+ Form of Stock Option Grant Notice for grants under the Amended and Restated 2012 Stock Incentive Plan (incorporated by reference to Exhibit 10.2 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on June 27, 2016) 
+ 
+ 10.4 
+ 
+ Form of Option Agreement for grants under the Amended and Restated 2012 Stock Incentive Plan (incorporated by reference to Exhibit 10.3 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on June 27, 2016) 
+ 
+ 10.5 
+ 
+ Security Agreement, between Digipath, Inc. Digipath Labs, Inc., and collateral agent for the holders of the 8 Senior Secured Convertible Notes due December 31, 2020 (incorporated by reference to Exhibit 4.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on November 21, 2018) 
+ 
+ 10.6 
+ 
+ Security Agreement, between Digipath, Inc. Digipath Labs, Inc., and holder of the 8 Secured Convertible Note due September 23, 2020 (incorporated by reference to Exhibit 10.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on September 26, 2019) 
+ 
+ 10.7 
+ 
+ Security Agreement, between Digipath, Inc., Digipath Labs, Inc., and holder of the 9 Senior Secured Convertible Note due August 10, 2022 (incorporated by reference to Exhibit 10.1 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on February 14, 2020) 
+
+10.8 
+ 
+ Security Agreement, between Digipath, Inc., Digipath Labs, Inc., and holder of the 9 Senior Secured Convertible Note due August 11, 2022 (incorporated by reference to Exhibit 10.1 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on February 14, 2020) 
+ 
+ 10.9 
+ 
+ Security Agreement, between Digipath, Inc., Digipath Labs, Inc., and holder of the 9 Senior Secured Convertible Note due August 11, 2022 (incorporated by reference to Exhibit 10.3 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on May 15, 2020) 
+ 
+ 10.10 
+ 
+ Paycheck Protection Program Loan Note between Digipath Labs, Inc. and WebBank, holder of the 1 Promissory Note due May 13, 2025 (incorporated by reference to Exhibit 10.4 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on August 14, 2020) 
+ 
+ 10.11 
+ 
+ Paycheck Protection Program Loan Note between Digipath, Inc. and Cross River Bank, holder of the 1 Promissory Note due June 22, 2025 (incorporated by reference to Exhibit 10.5 of the Current Report on Form 10-Q filed with the Securities and Exchange Commission by Digipath, Inc. on August 14, 2020) 
+ 
+ 10.12 
+ 
+ Separation and Release Agreement between Digipath, Inc. and Kyle Remenda, dated July 1, 2020 (incorporated by reference to Exhibit 10.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on July 6, 2020) 
+ 
+ 10.13 
+ 
+ Amended and Restated 8 Secured Convertible Promissory Note, between Digipath, Inc. Digipath Labs, Inc., and Holder (Nordhaven, LLC) of the 8 Secured Convertible Note due August 10, 2022 (incorporated by reference to Exhibit 10.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on October 7, 2020) 
+
+25 
+
+10.14 
+ 
+ Amended and Restated 8 Secured Convertible Promissory Note, between Digipath, Inc. Digipath Labs, Inc., and Holder (CSW Ventures, LP) of the 8 Secured Convertible Note due August 10, 2022 (incorporated by reference to Exhibit 10.2 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. October 7, 2020) 
+ 
+ 10.15 
+ 
+ Amended and Restated 8 Secured Convertible Promissory Note, between Digipath, Inc. Digipath Labs, Inc., and Holder (CSW Ventures, LP) of the 8 Secured Convertible Note due August 10, 2022 (incorporated by reference to Exhibit 10.3 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. October 7, 2020) 
+ 
+ 10.16 
+ 
+ Separation and Release Agreement between Digipath, Inc. and Kyle Remenda, dated July 1, 2020 (incorporated by reference to Exhibit 10.1 of the Report on Form 8-K filed with the Securities and Exchange Commission by Digipath, Inc. on July 6, 2020) 
+ 
+ 10.17 
+ 
+ 12 Secured Promissory Note dated September 10, 2021 issued by Digipath, Inc. to US Canna Lab I, LLC (incorporated by reference to Exhibit 10.17 of the Annual Report on Form 10-K filed with the Securities and Exchange Commission by Digipath, Inc. on December 29, 2021) 
+ 
+ 10.18 
+ 
+ Consulting, Confidentiality and Proprietary Rights Agreement between Digipath, Inc. and Duck s Nest Investments, Inc., wholly-owned by A. Stone Douglass, dated September 1, 2021. (incorporated by reference to Exhibit 10.18 of the Annual Report on Form 10-K filed with the Securities and Exchange Commission by Digipath, Inc. on December 29, 2021) 
+ 
+ 21.1 
+ 
+ Subsidiaries (incorporated by reference to the list of subsidiaries in Note 1 to the financial statements included in this Annual Report on Form 10-K) 
+ 
+ 31.1 
+ 
+ Section 302 Certification of Principal Executive Officer 
+ 
+ 31.2 
+ 
+ Section 302 Certification of Principal Financial Officer 
+ 
+ 32.1 
+ 
+ Section 906 Certification of Principal Executive Officer 
+ 
+ 32.2 
+ 
+ Section 906 Certification of Principal Financial Officer 
+ 
+ 101.INS 
+ 
+ Inline XBRL
+ Instance Document 
+ 
+ 101.SCH 
+ 
+ Inline XBRL
+ Schema Document 
+ 
+ 101.CAL 
+ 
+ Inline XBRL
+ Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline XBRL
+ Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline XBRL
+ Labels Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline XBRL
+ Presentation Linkbase Document 
+
+Filed herewith. 
+
+26 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned thereunto duly authorized. 
+
+DIGIPATH,
+ INC. 
+
+(Registrant) 
+
+By: 
+ /s/ Todd
+ Denkin 
+
+Todd Denkin 
+
+President 
+
+Dated: January 17, 2023 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+Registrant, and in the capacities and on the dates indicated: 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Todd Denkin 
+ 
+ President 
+ 
+ January 17, 2023 
+ 
+ Todd
+ Denkin 
+ 
+ (Principal
+ Executive Officer) 
+
+/s/
+ A. Stone Douglass 
+ 
+ Chief
+ Financial Officer, Secretary and Chairman 
+ 
+ January 17, 2023 
+ 
+ A.
+ Stone Douglass 
+ 
+ (Principal
+ Financial Officer and Principal Accounting Officer) 
+
+/s/
+ Bruce Raben 
+ 
+ Director 
+ 
+ January 17, 2023 
+ 
+ Bruce
+ Raben 
+
+/s/
+ Dennis Hartman 
+ 
+ Director 
+ 
+ January 17, 2023 
+ 
+ Dennis
+ Hartman 
+
+27 
+
+<EX-4.7>
+ 4
+ ex4-7.htm
+
+EXHIBIT
+4.7 
+
+DIGIPATH,
+INC. 
+
+DESCRIPTION
+OF SECURITIES REGISTERED UNDER SECTION 12 OF THE EXCHANGE ACT 
+
+The
+following is a brief description of shares of capital stock of Digipath, Inc. (the Company, we, us, 
+or our ). The brief description is based upon our Articles of Incorporation, including the Certificate of Amendment to our
+Articles of Incorporation, (as amended, our Articles of Incorporation ), our Bylaws (our Bylaws ), and provisions
+of applicable Nevada law. This summary does not purport to be complete and is subject to, and qualified in its entirety by, the full
+text of our Articles of Incorporation and Bylaws, each of which is incorporated by reference as an exhibit to our Annual Report on Form
+10-K. 
+
+General 
+
+Our
+Articles of Incorporation authorizes us to issue up to 260,000,000 shares of capital stock, consisting of 250,000,000 shares of common
+stock, par value 0.001 per share common stock ), and 10,000,000 shares of preferred stock, par value 0.001 per share,
+of which 6,000,000 have been designated as Series A Convertible Preferred Stock Series A Preferred ), 1,500,000 have been
+designated as Series B Convertible Preferred Stock Series B Preferred ), and 1,000 have been designated as Series C Preferred
+Stock Series C Preferred ), with the remaining 2,499,000 shares available for designation from time to time by our Board
+of Directors (our Board as set forth below. As of September 30, 2022, we had outstanding 1,047,942 shares of Series A
+Preferred, 333,600 shares of Series B Preferred and 1,000 shares of Series C Preferred. Our Articles of Incorporation authorizes our
+Board to determine any number of series into which the undesignated shares of preferred stock may be divided and to determine, at any
+time and from time to time, the rights, preferences, privileges and restrictions granted to any series of such preferred stock, as described
+below. 
+
+Common
+Stock 
+
+Dividend
+Rights 
+
+Subject
+to preferences that may apply to shares of preferred stock outstanding at the time, the holders of outstanding shares of our Common Stock
+are entitled to receive dividends out of funds legally available at the times and in the amounts that our board of directors may determine. 
+
+Voting
+Rights 
+
+Each
+holder of our Common Stock is entitled to one vote for each share of our Common Stock held on all matters submitted to a vote of stockholders.
+Cumulative voting for the election of directors is not provided for in our articles of incorporation, as amended, which means that the
+holders of a majority of the voting shares voted can elect all of the directors then standing for election. 
+
+No
+Preemptive or Similar Rights 
+
+Holders
+of our Common Stock do not have preemptive rights, and our Common Stock is not convertible or redeemable. 
+
+Right
+to Receive Liquidation Distributions 
+
+Upon
+our dissolution, liquidation or winding-up, the assets legally available for distribution to our stockholders are distributable ratably
+among the holders of our Common Stock, subject to the preferential rights and payment of liquidation preferences, if any, on any outstanding
+shares of preferred stock. 
+
+Preferred
+Stock 
+
+Series
+A Preferred Stock 
+
+Each
+share of Series A Preferred is currently convertible into five shares of common stock. The conversion price is adjustable in the event
+of stock splits and other adjustments in the Company s capitalization, and in the event of certain negative actions undertaken
+by the Company. At the current conversion price, the 1,047,942 shares of Series A Preferred outstanding at September 30, 2022 are convertible
+into 5,239,710 shares of the common stock of the Company. No holder is permitted to convert its shares of Series A Preferred if such
+conversion would cause the holder to beneficially own more than 4.99 of the issued and outstanding common stock immediately after such
+conversion, unless waived by such holder by providing at least sixty-five days notice. 
+
+1 
+
+Additional
+terms of the Series A Preferred include the following: 
+
+The
+shares of Series A Preferred are entitled to dividends when, as and if declared by the Board as to the shares of the common stock of
+the Company into which such Series A Preferred may then be converted, subject to the 4.99 beneficial ownership limitation described
+above. 
+
+Upon
+the liquidation or dissolution of the Company, or any merger or sale of all or substantially all of the assets, the shares of Series
+A Preferred are entitled to receive, prior to any distribution to the holders of common stock, 100 of the purchase price per share of
+Series A Preferred plus all accrued but unpaid dividends. 
+
+The
+Series A Preferred plus all declared but unpaid dividends thereon automatically will be converted into common stock, at the then applicable
+conversion rate, upon the affirmative vote of the holders of a majority of the outstanding shares of Series A Preferred. 
+
+Each
+share of Series A Preferred will carry a number of votes equal to the number of shares of common stock into which such Series A Preferred
+may then be converted, subject to the 4.99 beneficial ownership limitation described above. The Series A Preferred generally will vote
+together with the common stock and not as a separate class, except as provided below. 
+
+Consent
+of the holders of the outstanding Series A Preferred is required in order for the Company to: (i) amend or change the rights, preferences,
+privileges or powers of, or the restrictions provided for the benefit of, the Series A Preferred; (ii) authorize, create or issue shares
+of any class of stock having rights, preferences, privileges or powers superior to the Series A Preferred; (iii) reclassify any outstanding
+shares into shares having rights, preferences, privileges or powers superior to the Series A Preferred; or (iv) amend the Company s
+Articles of Incorporation or Bylaws in a manner that adversely affects the rights of the Series A Preferred. 
+
+Series
+B Preferred 
+
+Each
+share of Series B Preferred has a Stated Value of 1.00 and is currently convertible into common stock at a conversion price equal to
+ 0.04. The conversion price of the Series B Preferred is subject to equitable adjustment in the event of a stock split, stock dividend
+or similar event with respect to the common stock, and in the event of the issuance of common stock by the Company below the conversion
+price, subject to customary exceptions. At the current conversion price, the 333,600 shares of Series B Preferred outstanding at September
+30, 2022 are convertible into 8,340,000 shares of the common stock of the Company. No holder is permitted to convert its shares of Series
+B Preferred if such conversion would cause the holder to beneficially own more than 4.99 of the issued and outstanding common stock
+of the Company immediately after such conversion, unless waived by such holder by providing at least sixty-five days notice. 
+
+Additional
+terms of the Series B Preferred include the following: 
+
+The
+shares of Series B Preferred are not entitled to dividends, provided that if dividends are paid on the shares of common stock of the
+Company, the Series B Preferred will be entitled to dividends based on the number shares of common stock which the Series B Preferred
+may then be converted. 
+
+Upon
+the liquidation or dissolution of the Company, or any merger or sale of all or substantially all of the assets, or upon a change in control
+whereby a stockholder gains control of 50 or more of the outstanding shares of common stock, the shares of Series B Preferred are entitled
+to receive, prior to any distribution to the holders of common stock, 100 of the purchase price per share of Series B Preferred plus
+all accrued but unpaid dividends. 
+
+Each
+share of Series B Preferred carries a number of votes equal to the number of shares of common stock into which such Series B Preferred
+may then be converted. 
+
+Series
+C Preferred 
+
+The
+principal feature of the Series C Preferred is that it provides the holder thereof, so long as he or she is an executive officer of the
+Company, with the ability to vote with the holders of the Company s common stock on all matters presented to the holders of common
+stock, whether at a special or annual meeting, by written action in lieu of a meeting or otherwise, on the basis of 200,000 votes for
+each share of Series C Preferred. The shares of Series C Preferred are not convertible into common stock, are not entitled to dividends,
+are not subject to redemption, and have a stated value of 0.10 per share payable on any liquidation of the Company in preference to
+any payment payable to the holders of common stock. Todd Denkin, the Company s President, is the holder of all 1,000 shares of
+the Series C Preferred. 
+
+2 
+
+Blank
+Check Preferred Stock 
+
+The
+remaining 2,499,000 shares of our undesignated shares of preferred stock may be issued in series, and shall have such voting powers,
+full or limited, or no voting powers, and such designations, preferences and relative participating, optional or other special rights,
+and qualifications, limitations or restrictions thereof, as shall be stated and expressed in the resolution or resolutions providing
+for the issuance of such stock adopted from time to time by the Board. The Board is expressly vested with the authority to determine
+and fix in the resolution or resolutions providing for the issuances of preferred stock the voting powers, designations, preferences
+and rights, and the qualifications, limitations or restrictions thereof, of each such series to the full extent now or hereafter permitted
+by the laws of the State of Nevada. 
+
+Anti-takeover
+Provisions 
+
+Certain
+provisions of our articles of incorporation, as amended, and Nevada law may have the effect of delaying, deferring or discouraging another
+person from acquiring control of our company. 
+
+Nevada
+Law 
+
+In
+addition, Nevada has enacted the following legislation that may deter or frustrate takeovers of Nevada corporations: 
+
+Authorized
+but Unissued Stock The authorized but unissued shares of our Common Stock are available for future issuance without stockholder
+approval. These additional shares may be used for a variety of corporate purposes, including future public offerings to raise additional
+capital, corporate acquisitions and employee benefit plans. The existence of authorized but unissued shares of common stock may enable
+our board of directors to issue shares of stock to persons friendly to existing management. 
+
+Evaluation
+of Acquisition Proposals The Nevada Revised Statutes expressly permit our board of directors, when evaluating any proposed
+tender or exchange offer, any merger, consolidation or sale of substantially all of our assets, or any similar extraordinary transaction,
+to consider all relevant factors including, without limitation, the social, legal, and economic effects on our employees, customers,
+suppliers, and other relevant interest holders, and on the communities and geographical areas in which they operate. Our board of directors
+may also consider the amount of consideration being offered in relation to the then current market price of our outstanding shares of
+capital stock and our then current value in a freely negotiated transaction. 
+
+Control
+Share Acquisitions Nevada has adopted a control share acquisitions statute designed to afford stockholders of public corporations
+in Nevada protection against acquisitions in which a person, entity or group seeks to gain voting control. With enumerated exceptions,
+the statute provides that shares acquired within certain specific ranges will not possess voting rights in the election of directors
+unless the voting rights are approved by a majority vote of the public corporation s disinterested stockholders. Disinterested
+shares are shares other than those owned by the acquiring person or by a member of a group with respect to a control share acquisition,
+or by any officer of the corporation or any employee of the corporation who is also a director. The specific acquisition ranges that
+trigger the statute are: acquisitions of shares possessing one-fifth or more but less than one-third of all voting power; acquisitions
+of shares possessing one-third or more but less than a majority of all voting power; or acquisitions of shares possessing a majority
+or more of all voting power. Under certain circumstances, the statute permits the acquiring person to call a special stockholders 
+meeting for the purpose of considering the grant of voting rights to the holder of the control shares. The statute also enables a corporation
+to provide for the redemption of control shares with no voting rights under certain circumstances. 
+
+Transfer
+Agent and Registrar 
+
+The
+transfer agent and registrar for our Common Stock is vStock Transfer, LLC. Its mailing address is 18 Lafayette Place, Woodmere, NY 11598,
+its telephone number is (212) 828-8436, and its facsimile number is (646) 536-3179. 
+
+3 
+
+</EX-4.7>
+
+<EX-31.1>
+ 5
+ ex31-1.htm
+
+Exhibit 31.1 
+
+DIGIPATH, INC. 
+
+CERTIFICATIONS PURSUANT TO 
+
+ RULE 13A-14(A) OR RULE 15D-14(A), 
+
+ AS ADOPTED PURSUANT TO 
+
+ RULE 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Todd Denkin, certify that: 
+
+1. I
+have reviewed this Form 10-K of Digipath, Inc.; 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered
+by this report; 
+
+3. Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The
+registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The
+registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+/s/ Todd Denkin 
+
+Todd Denkin 
+
+President 
+
+Dated: January 17, 2023 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ ex31-2.htm
+
+Exhibit 31.2 
+
+DIGIPATH, INC. 
+
+CERTIFICATIONS PURSUANT TO 
+RULE 13A-14(A) OR RULE 15D-14(A), 
+AS ADOPTED PURSUANT TO 
+RULE 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, A. Stone Douglass, certify
+that: 
+
+1. I
+have reviewed this Form 10-K of Digipath, Inc.; 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered
+by this report; 
+
+3. Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The
+registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The
+registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+/s/ A. Stone Douglass 
+
+A. Stone Douglass 
+
+Principal Financial Officer 
+
+Dated: January 17, 2023 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ ex32-1.htm
+
+EXHIBIT 32.1 
+
+DIGIPATH, INC. 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual
+Report of Digipath, Inc. (the Company on Form 10-K for the year ended September 30, 2022, as filed with the Securities
+and Exchange Commission on the date hereof (the Report ), I, Todd Denkin, President of the Company, certify, pursuant to
+18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained
+in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Todd Denkin 
+
+Todd Denkin 
+ 
+ Date: January 17, 2023 
+ President 
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ ex32-2.htm
+
+EXHIBIT 32.2 
+
+DIGIPATH, INC. 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO SECTION 906 
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual
+Report of Digipath, Inc. (the Company on Form 10-K for the year ended September 30, 2022, as filed with the Securities
+and Exchange Commission on the date hereof (the Report ), I, A. Stone Douglass, Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained
+in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ A. Stone Douglass 
+
+A. Stone Douglass 
+ 
+ Date: January 17, 2023 
+ Principal Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 9
+ digp-20220930.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ digp-20220930_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ digp-20220930_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ digp-20220930_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1584 @@
+<Header>
+<FileStats>
+    <FileName>20230417_10-K_edgar_data_1842563_0001842563-23-000006.txt</FileName>
+    <GrossFileSize>1453054</GrossFileSize>
+    <NetFileSize>49473</NetFileSize>
+    <NonText_DocumentType_Chars>375057</NonText_DocumentType_Chars>
+    <HTML_Chars>290875</HTML_Chars>
+    <XBRL_Chars>287093</XBRL_Chars>
+    <XML_Chars>419430</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001842563-23-000006.hdr.sgml : 20230417
+<ACCEPTANCE-DATETIME>20230417114724
+ACCESSION NUMBER:		0001842563-23-000006
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		37
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230417
+DATE AS OF CHANGE:		20230417
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Go Go Buyers, Inc.
+		CENTRAL INDEX KEY:			0001842563
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				364919249
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-256118
+		FILM NUMBER:		23823270
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5348 VEGAS DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89108
+		BUSINESS PHONE:		15305394950
+
+	MAIL ADDRESS:	
+		STREET 1:		5348 VEGAS DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89108
+
+</SEC-Header>
+</Header>
+
+ 0001842563-23-000006.txt : 20230417
+
+10-K
+ 1
+ gogo_10k2022.htm
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+Form 
+
+[ ] Annual Report pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 
+
+For the fiscal year ended 
+
+or 
+
+[ ] Transition Report pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 
+
+For the transition period from __________ to __________ 
+
+Commission file number 
+
+(Exact name of registrant
+as specified in its charter) 
+
+7370 
+ 
+ (State or Other Jurisdiction of Incorporation or Organization) 
+
+(I.R.S. Employer 
+ Identification Number) 
+ 
+ (Primary Standard Industrial Classification Code Number) 
+
+, 
+
++1- - 
+
+(Address, including Zip Code, and Telephone Number, including Area Code, of Registrant's Principal Executive Office) 
+
+Securities registered under Section 12(b) of the Exchange Act: 
+ 
+ Title of each class 
+ 
+ Trading Symbol 
+ 
+ Name of each exchange on which registered 
+ 
+ N/a 
+ 
+ N/a 
+ 
+ N/a 
+
+Securities registered under Section 12(g) of the Exchange Act: 
+
+None 
+ 
+ (Title of Class) 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [ ] [X] 
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes [ ] [X] 
+
+Indicate by check mark whether the registrant (1) has
+filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. [X] No [ ] 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). 
+
+[X] No [ ] 
+
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment
+to this Form 10-K. Yes [ ] No [X] 
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See
+the definitions of large accelerated filer, accelerated filer , smaller reporting company and
+ emerging growth company in Rule 12b-2 of the Exchange Act: 
+
+Large accelerated Filer 
+ [ ] 
+ Accelerated Filer 
+ [ ] 
+
+[X] 
+ Smaller reporting company 
+ [ ] 
+ 
+ (Do not check if a smaller reporting company) 
+ Emerging growth company 
+ [ ] 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ] 
+
+ Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [ ] [X] 
+
+The aggregate market value of the stock held by non-affiliates of the registrant as of December 31, 2022, the last business day of
+the registrant s most recently completed fiscal year, was approximately . 
+
+State the number of shares outstanding of each of
+the issuer's classes of common equity, as of the latest practicable date: common shares issued and outstanding as of April
+14, 2023. 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+ Business. 
+ 3 
+ 
+ Item 1A. 
+ Risk Factors. 
+ 4 
+ 
+ Item 1B. 
+ Unresolved Staff Comments. 
+ 4 
+ 
+ Item 2. 
+ Properties. 
+ 4 
+ 
+ Item 3. 
+ Legal Proceedings. 
+ 5 
+ 
+ Item 4. 
+ Mine Safety Disclosures. 
+ 5 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 5 
+ 
+ Item 6. 
+ Selected Financial Data. 
+ 6 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 6 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk. 
+ 7 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data. 
+ 7 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 20 
+ 
+ Item 9A (T). 
+ Controls and Procedures. 
+ 20 
+ 
+ Item 9B. 
+ Other Information. 
+ 21 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance. 
+ 22 
+ 
+ Item 11. 
+ Executive Compensation. 
+ 23 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 24 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence. 
+ 25 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services. 
+ 26 
+
+PART IV 
+
+Item 15. 
+ Exhibits. 
+ 26 
+ 
+ Item 16. 
+ Form 10 K Summary. 
+ 26 
+
+Signatures 
+ 27 
+
+2 
+
+PART I 
+
+ Item 1. Business. 
+
+FORWARD-LOOKING STATEMENTS 
+
+Statements made in this Form 10-K that are not historical
+or current facts are forward-looking statements made pursuant to the safe harbor provisions of Section 27A of the Securities
+Act of 1933 (the Act and Section 21E of the Securities Exchange Act of 1934. These statements often can be identified by
+the use of terms such as may , will , expect , believe , anticipate ,
+ estimate , approximate or continue , or the negative thereof. We intend that such forward-looking
+statements be subject to the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking
+statements, which speak only as of the date made. Any forward-looking statements represent management's best judgment as to what may occur
+in the future. However, forward-looking statements are subject to risks, uncertainties and important factors beyond our control that could
+cause actual results and events to differ materially from historical results of operations and events and those presently anticipated
+or projected. We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after
+the date of such statement or to reflect the occurrence of anticipated or unanticipated events. 
+
+Financial information contained in this report and
+in our financial statements is stated in United States dollars and are prepared in accordance with United States generally accepted accounting
+principles. 
+
+DESCRIPTION OF BUSINESS 
+
+Overview 
+
+Go Go Buyers Inc. is a company developing and promoting
+a customized platform for online shoppers and travelers. The platform is intended to become a marketplace that leverages products and
+services among people who travel the world. To use our service, a buyer needs to create an order and tell a traveler how much the item
+costs and where it can be purchased. The order will then appear in the order feed, and travelers heading to the specified country can
+respond and make an offer for delivery and monetary compensation. Bringing travel innovation to the forefront traveling becomes even more
+beneficial. 
+
+Go Go Buyers Inc. develops and and plans to market
+two AI-enabled API services. The first service tracks flight prices and enables users to compare prices from multiple suppliers, creating
+complex flight itineraries in the required currency. The second service includes generating and comparing hotel prices featuring a database
+of over two hundred suppliers. We expect our product will attract travel agencies, hoteliers, and IT companies that develop software for
+the tourism industry. 
+
+Our next-year plan seeks to advance travel services
+and develop communication links for our customers that are easily accessible, understandable, and logical. This will contribute to improving
+interaction with our customers throughout the trip. 
+
+The principal office of the Company is located at
+5348 Vegas Drive, Las Vegas, NV 89108. Our telephone number is +15305394950. 
+
+3 
+
+Marketing 
+
+Online marketing as the key strategy to attract the
+users. During the initial stages of development, we plan to focus on investing in promotion through various social media platforms and
+search engine optimization. This approach is intended to enhance our visibility in user search inquiries based on relevant keywords. By
+following this strategy, we anticipate garnering the attention of potential customers, whom we refer to as platform users 
+or simply users . Additionally, we plan to utilize traditional methods such as direct calls and mailing with business proposals,
+along with references to our platform and social media pages. In order to attract potential platform users, we plan to purchase advertising
+slots on prominent websites related to delivery services. With more advanced investments, we intend to create promotional videos related
+to delivery and shipping, for advertising purposes. As our business grows, we may consider running a television promotional campaign. 
+
+Clients 
+
+We anticipate that both small businesses and individuals
+will register with our web platform, utilizing it as a means to connect with potential clients and increase their visibility or for personal
+usage. For developing businesses, we expect that our platform will be particularly appealing as it may provide them with access to a target
+audience. For individuals, the online nature of our service will enable them to search for the most convenient and cost-effective delivery
+options. Furthermore, we anticipate that our platform will foster increased competition within the industry, as rival companies may monitor
+each other's activity, resulting in more favorable offers for our clientele. 
+
+Government Regulation 
+
+The Company will be required to comply with all regulations,
+rules, and directives of governmental authorities including the US Securities and Exchange Commission and agencies applicable to our business
+in any jurisdiction with which we would conduct activities. The Company does not believe that governmental regulations will have a material
+impact on the way we conduct our business. 
+
+ Employees 
+
+Employees 
+
+Go Go Buyers has no employees other than our sole
+President and Director Mr. Saladzius. 
+
+Item 1A. Risk Factors. 
+
+Not applicable for smaller reporting companies. 
+
+Item 1B. Unresolved Staff Comments. 
+
+Not applicable for smaller reporting companies. 
+
+Item 2. Properties. 
+
+We do not own any real estate or other properties.
+
+4 
+
+Item 3. Legal Proceedings. 
+
+We know of no legal proceedings to which we are a
+party or to which any of our property is the subject which are pending, threatened or contemplated or any unsatisfied judgments against
+us. 
+
+Item 4. Mine Safety Disclosures. 
+
+Not applicable. 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market Information 
+
+There is a limited public market for our common shares.
+Our common shares are not quoted on the OTC Bulletin Board at this time. Trading in stocks quoted on the OTC Bulletin Board is often thin
+and is characterized by wide fluctuations in trading prices due to many factors that may be unrelated to a company s operations
+or business prospects. We cannot assure you that there will be a market in the future for our common stock. 
+
+OTC Bulletin Board securities are not listed or traded
+on the floor of an organized national or regional stock exchange. Instead, OTC Bulletin Board securities transactions are conducted through
+a telephone and computer network connecting dealers in stocks. OTC Bulletin Board issuers are traditionally smaller companies that do
+not meet the financial and other listing requirements of a regional or national stock exchange. 
+
+As of December 31, 2022, no shares of our common stock
+are traded. 
+
+Number of Holders 
+
+As of December 31, 2022, the 4,045,069 issued and
+outstanding shares of common stock were held by a total of 28 shareholder of record. 
+
+Dividends 
+
+No cash dividends were paid on our shares of common
+stock during the fiscal years ended December 31, 2022 and 2021. 
+
+Recent Sales of Unregistered Securities 
+
+None. 
+
+Purchase of our Equity Securities by Officers
+and Directors 
+
+None. 
+
+5 
+
+Other Stockholder Matters 
+
+None. 
+
+Item 6. Selected Financial Data. 
+
+Not applicable for smaller reporting companies . 
+
+Item 7. Management's Discussion and Analysis of
+Financial Condition and Results of Operations. 
+
+The following discussion should be read in conjunction
+with the financial statements and related notes that appear elsewhere in this prospectus. This discussion contains forward-looking statements
+that involve significant uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements
+as a result of various factors, including those discussed in Risk Factor elsewhere in this report. For further information,
+see Risk Relating to Forward-Looking Statement above. 
+
+RESULTS OF OPERATIONS 
+
+Fiscal year ended December 31, 2022, compared
+to December 31, 2021: 
+
+Revenues 
+
+We have generated 1,052 in revenues for the year
+ended December 31, 2022. 
+
+During the year ended December 31, 2021, we have not
+received any revenues. 
+
+Operating expenses 
+
+Total operating expenses for the year ended December
+31, 2022 were 7,382 compared to 5,457 for the year ended December 31, 2021. 
+
+Net Losses 
+
+Our net loss for the years ended December 31, 2022
+and 2021, was 7,513 and 6,089 respectively. 
+
+6 
+
+Liquidity and Capital Resources 
+
+As of December 31, 2022, our total assets were 58,958
+comprised of cash 24,565, prepaid expenses 1,393 and intangible assets 33,000. Our total liabilities were 49,917 comprised of accounts
+payable 27,000 and loan from director 22,917. 
+
+Shareholders deficit has increased from 8,142
+as of December 31, 2021 to 9,041 as of December 31, 2022. 
+
+Net cash flows used in operating activities for the
+year ended December 31, 2022, consisted of a net loss of 7,513, prepaid expenses of 5,993, accounts payable of 27,000 and prepaid rent
+of (1,250). Net cash flows used in operating activities for the year ended December 31, 2021, consisted of a net loss of 6,089, prepaid
+expenses of (6,082) and prepaid rent of 1,500. 
+
+During the years ended December 31, 2022 and 2021,
+the Company generated 33,000 and 0 of cash in investing activities, respectively. 
+
+During the years ended December 31, 2022 and 2021,
+the Company generated 33,356 and 10,670 of cash in financing activities. 
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+
+As of December 31, 2022, we did not have any off-balance
+sheet arrangements that have or are reasonably likely to have a material current or future effect on our financial condition, changes
+in financial condition, revenues or expenses, results of operations liquidity, capital expenditures or capital resources. 
+
+LIMITED OPERATING HISTORY AND NEED FOR ADDITIONAL
+CAPITAL 
+
+There is no historical financial information about
+us upon which to base an evaluation of our performance. We are in start-up stage operations and have generated limited revenues. Our business
+is subject to risks inherent in the establishment of a new business enterprise, including limited capital resources and possible cost
+overruns due to price and cost increases in services and products. 
+
+We have no assurance that future financing will be
+available to us on acceptable terms. If financing is not available on satisfactory terms, we may be unable to continue, develop or expand
+our operations. Equity financing could result in additional dilution to existing shareholders. 
+
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk. 
+
+Not applicable for smaller reporting companies. 
+
+Item 8. Financial Statements and Supplementary
+Data . 
+
+7 
+
+GO GO BUYERS 
+
+FINANCIAL STATEMENTS 
+
+For the Years Ended December 31, 2022 and December
+31, 2021 
+
+Table of Contents 
+
+Page 
+ 
+ Report of Independent Registered Public Accounting Firm (ID: 
+ 
+ 9 
+
+Balance Sheets as of December 31, 2022 and December 31, 2021 
+ 
+ 10 
+
+Statements of Operations for the years ended December 31, 2022 and December 31, 2021 
+ 
+ 11 
+
+Statement of Stockholders Deficit as of December 31, 2022 and December 31, 2021 
+ 
+ 12 
+
+Statements of Cash Flows for the years ended December 31, 2022 and December 31, 2021 
+ 
+ 13 
+
+Notes to the Financial Statements 
+ 
+ 14 
+
+8 
+
+Report of Independent Registered
+Public Accounting Firm 
+
+Accounting and Auditing Firm 
+
+ 2700 N. Military Tr, Suite 340 
+
+ 33431 
+
+INDEPENDENT AUDITORS REPORT 
+
+To the Shareholders and Board of Directors 
+
+ Go Go Buyers Inc 
+
+ We have
+audited the accompanying consolidated financial statements of Go Go Buyers Inc Company ), which comprise of balance sheet
+as of December 31, 2022, and the related consolidated statement of operations and accumulated deficit, stockholder s equity and
+cash flows for the year then ended, and the related notes to the financial statements. 
+
+ In
+our opinion, the financial statements and financial highlights present fairly, in all material respects, the financial position of the
+ Go Go Buyers Inc ,
+as of December 31, 2022, the results of its operations for the year then ended, its cash flows, stockholder s equity, the changes
+in its net assets for a year in the period then ended, and the financial highlights in the period then ended, in conformity with accounting
+principles generally accepted in the United States of America. 
+
+ Basis
+for Opinion 
+
+ These financial
+statements and financial highlights are the responsibility of the Company s management. Our responsibility is to express an opinion
+on these financial statements and financial highlights based on our audits. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company
+in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission
+and the PCAOB. 
+
+ We conducted
+our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements and financial highlights are free of material misstatement, whether due to error or fraud.
+We were not engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain
+an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of
+the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Going Concern 
+
+ The accompanying financial statements have been prepared assuming
+that the Go Go Buyers Inc will continue as going concern. As discussed in Note 2 to the financial statements, Go Go Buyers Inc has suffered
+recurring losses from operations and has net capital deficiency that raises substantial doubt about the Company s ability to continue
+as a going concern. Management s plans in regard to these matters are also described in Note 2. The financial statements do not
+include any adjustments that might result from the outcome of this uncertainty. 
+
+Bolko Company 
+
+Certified Public Accountant 
+
+We have served as the Company s
+auditor since 2020 
+
+ April 14, 2023 
+
+ Boca Raton, Florida 
+
+9 
+
+GO GO BUYERS 
+
+ BALANCE SHEETS 
+
+December
+ 31, 
+ 2022 
+
+December
+ 31, 
+ 2021 
+
+ASSETS 
+
+Current Assets 
+
+Cash 
+
+- 
+ 
+ Prepaid Expenses 
+
+Total Current Assets 
+
+Intangibles Assets 
+
+- 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Liabilities 
+
+Accounts Payable 
+
+- 
+ 
+ Loan from director 
+
+Total Liabilities 
+
+Commitments and Contingencies 
+
+Stockholders Equity 
+
+Common stock: par value, shares authorized, and shares issued and outstanding as of December 31, 2022 and December 31, 2021, respectively 
+
+Additional paid in capital 
+
+Accumulated deficit 
+ 
+ ) 
+ 
+ ) 
+ 
+ Total Stockholders Equity 
+
+) 
+
+Total Liabilities and Stockholders Equity 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+10 
+
+GO GO BUYERS 
+
+ STATEMENTS OF OPERATIONS 
+
+ For years ended December 31, 2022 and 2021 
+
+Year ended 
+ December 31, 2022 
+
+Year ended 
+ December 31, 2021 
+
+REVENUE: 
+
+Sales 
+
+- 
+
+OPERATING EXPENSES 
+
+General and Administrative Expenses 
+
+Professional Fees 
+
+TOTAL OPERATING EXPENSES 
+
+NET LOSS FROM OPERATIONS 
+ 
+ ) 
+ 
+ ) 
+
+OTHER EXPENSES 
+
+Imputed interest 
+
+TOTAL OTHER EXPENSE 
+
+PROVISION FOR INCOME TAX 
+ 
+ - 
+ 
+ - 
+
+NET LOSS 
+ 
+ ) 
+ 
+ ) 
+
+Net loss per common share - basic 
+ 
+ ) 
+ 
+ ) 
+
+Weighted average number of common shares outstanding - basic 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+11 
+
+GO GO BUYERS 
+
+ STATEMENT OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ For years ended December 31, 2022 and 2021 
+
+Common Stock 
+
+Additional 
+ Paid-in
+ Capital 
+
+Accumulated Deficit 
+
+Total Stockholders (Deficit) Equity 
+
+Shares 
+ 
+ Amount 
+
+Balance, December 31, 2020 
+
+) 
+ 
+ ) 
+
+Net Loss 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ ) 
+ 
+ ) 
+ 
+ Imputed interest 
+ - 
+ 
+ - 
+
+- 
+
+Balance, December 31, 2021 
+
+) 
+ 
+ ) 
+
+Common Stock Issued for Cash 
+
+- 
+
+Net Loss 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ ) 
+ 
+ ) 
+ 
+ Imputed interest 
+ - 
+ 
+ - 
+
+- 
+
+Balance, December 31, 2022 
+
+) 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+12 
+
+GO GO BUYERS 
+
+ STATEMENTS OF CASH FLOWS 
+
+ For years ended December 31, 2022 and 2021 
+
+Year ended 
+ December 31, 2022 
+
+Year ended 
+ December 31, 2021 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net Loss 
+ 
+ ) 
+ 
+ ) 
+ 
+ Adjustments to reconcile net loss to net cash from operating activities: 
+
+Imputed Interest 
+
+Accounts Payable 
+
+- 
+ 
+ Prepaid Expenses 
+
+) 
+ 
+ Prepaid Rent 
+ 
+ ) 
+ 
+ - 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+) 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Purchase of Software 
+ 
+ ) 
+ 
+ - 
+ 
+ CASH FLOWS FROM INVESTING ACTIVITIES 
+ 
+ ) 
+ 
+ - 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from the issuance of common stock 
+
+- 
+ 
+ Loan from director 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+NET CHANGE IN CASH 
+
+- 
+
+Cash, beginning of period 
+ 
+ - 
+ 
+ - 
+
+Cash, end of period 
+
+- 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+13 
+
+GO GO BUYERS 
+
+ NOTES TO THE AUDITED FINANCIAL STATEMENTS 
+
+ December 31, 2022 
+
+GO GO BUYERS 
+
+ NOTES TO THE AUDITED FINANCIAL STATEMENTS 
+
+ December 31, 2022 
+
+GO GO BUYERS 
+
+ NOTES TO THE AUDITED FINANCIAL STATEMENTS 
+
+ December 31, 2022 
+
+and 
+
+GO GO BUYERS 
+
+ NOTES TO THE AUDITED FINANCIAL STATEMENTS 
+
+ December 31, 2022 
+
+The Company recognizes accrued interest and penalties
+related to unrecognized tax benefits as income tax expense. There were no unrecognized tax benefits and no amounts accrued for interest
+and penalties as of December 31, 2022. The Company is currently not aware of any issues under review that could result in significant
+payments, accruals or material deviation from its position. 
+
+The Company has identified the United States as its only major 
+tax jurisdiction. 
+
+The Company may be subject to potential examination
+by federal and state taxing authorities in the areas of income taxes. These potential examinations may include questioning the timing
+and amount of deductions, the nexus of income among various tax jurisdictions and compliance with federal and state tax laws. The Company s
+management does not expect that the total amount of unrecognized tax benefits will materially change over the next twelve months. 
+
+GO GO BUYERS 
+
+ NOTES TO THE AUDITED FINANCIAL STATEMENTS 
+
+ December 31, 2022 
+
+During the years ended December 31, 2022 and 2021,
+we recorded 3,186 and 2,002 , respectively, in imputed interest expenses related to advances outstanding to related parties. These imputed
+interests were recorded in our financial statements under additional paid-in capital. 
+
+and as of December 31, 2022 and 2021, respectively. The Company also recorded 1,184 in imputed
+interest on a 22,917 non-interest bearing related party note during the year ended December 31, 2022. Interest is being imputed on the
+note at 8 per annum. 
+
+On October 25, 2020, the Company entered into a Verbal
+Agreement with its President, pursuant to which he agreed to provide financing to the Company with total amount not exceeding 50,000.
+The loan is to be used for a portion of the expenses of this offering. This loan is non-interest bearing and does not have a due date. 
+
+that may be available to reduce future years taxable income in varying amounts through
+2033. Future tax benefits which may arise as a result of these losses have not been recognized in these financial statements, as their
+realization is determined not likely to occur and accordingly, the Company has recorded a valuation allowance for the deferred tax asset
+relating to these tax loss carry-forwards. 
+
+The valuation allowance at December 31, 2022 was approximately
+ . In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion
+or all of the deferred income tax assets will not be realized. 
+
+18 
+
+GO GO BUYERS 
+
+ NOTES TO THE AUDITED FINANCIAL STATEMENTS 
+
+ December 31, 2022 
+
+The ultimate realization of deferred income tax assets
+is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management
+considers the scheduled reversal of deferred income tax liabilities, projected future taxable income, and tax planning strategies in making
+this assessment. Based on consideration of these items, management has determined that enough uncertainty exists relative to the
+realization of the deferred income tax asset balances to warrant the application of a full valuation allowance as of December 31, 2022.
+All tax years since inception remain open for examination by taxing authorities. 
+
+Effective tax rate 
+
+21 
+
+21 
+
+Expected Income Tax Benefit from NOL Carry-Forward 
+
+Less: Valuation Allowance 
+
+) 
+
+) 
+
+Deferred Tax Asset, Net of Valuation Allowance 
+
+- 
+
+- 
+
+common shares to its President and shareholders for 26,513. 
+
+Warrants The Company does
+not have and does not plan on issuing warrants under this prospectus. 
+
+During January 2023 the Company issued 116,356 shares of common stock for
+cash proceeds of 2,618 at 0.02 per share. 
+
+19 
+
+Item 9. Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure. 
+
+None 
+
+Item 9A(T). Controls and Procedures. 
+
+Management s Report on Internal Controls
+over Financial Disclosure Controls and Procedures 
+
+Management is responsible for establishing and maintaining
+adequate internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)). The Company s internal control over
+financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation
+of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in
+conditions, or that the degree of compliance with the policies or procedures may deteriorate. Under the supervision and with the participation
+of management, including the Chief Executive Officer and Chief Financial Officer at the time, the Company conducted an evaluation of the
+effectiveness of the Company s internal control over financial reporting as of December 31, 2022, using the criteria established
+in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO in 2013. 
+
+A material weakness is a deficiency, or combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. In its assessment of
+the effectiveness of internal control over financial reporting as of December 31, 2022, the Company determined that there were control
+deficiencies that constituted material weaknesses, as described below. 
+
+1. The Company does not have an adequate internal control structure or adequate oversight over financial
+reporting The Company has no employees and only one member of management whom is also the Company s sole director, therefore
+the Company lacks adequate segregation of duties. Further, the Company currently has no Audit Committee. While not being legally obligated
+to have an audit committee, it is the management s view that such a committee, including a financial expert member, is an utmost
+important entity level control over the Company s financial statement. Currently the Board of Directors acts in the capacity of
+the Audit Committee, and does not include a member that is considered to be independent of management to provide the necessary oversight
+over management s activities. Lastly, due to the minimal operations and small size of the Company we have not employed individuals
+that have the necessary accounting knowledge and expertise to ensure accurate financial reporting under US GAAP. 
+
+2. The Company lacks appropriate information technology controls As of December 31, 2022, the Company
+retains copies of all financial data and material agreements; however, there is no formal procedure or evidence of normal backup of the
+Company s data or off-site storage of data in the event of theft, misplacement, or loss due to unmitigated factors. 
+
+Accordingly, the Company concluded that these control
+deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial statements will not
+be prevented or detected on a timely basis by the company s internal controls. 
+
+20 
+
+As a result of the material weaknesses described above,
+management has concluded that the Company did not maintain effective internal control over financial reporting as of December 31, 2022,
+based on criteria established in Internal Control- Integrated Framework issued by COSO in 2013. 
+
+System of Internal Control over Financial Reporting 
+
+Our management is responsible for establishing and
+maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) that is
+designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded,
+processed, summarized and reported, within the time periods specified in the Commission s rules and forms. Disclosure controls and
+procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer
+in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer s management, including
+its principal executive officer or officers and principal financial officer or officers, or persons performing similar functions, as appropriate
+to allow timely decisions regarding required disclosure. 
+
+An evaluation was conducted under the supervision
+and with the participation of our management at the time of the effectiveness of the design and operation of our disclosure controls and
+procedures as of December 31, 2022. Based on that evaluation, our management concluded that our disclosure controls and procedures were
+not effective as of such date to ensure that information required to be disclosed in the reports that we file or submit under the Exchange
+Act, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms. 
+
+Changes in Internal Control over Financial Reporting 
+
+There was no change in the Company s internal
+control over financial reporting during the annual period covered by this report that has materially affected, or is reasonably likely
+to materially affect, the Company s internal control over financial reporting. 
+
+Item 9B. Other Information. 
+
+None. 
+
+ PART III 
+
+Item 10. Directors, Executive Officers and Corporate
+Governance. 
+
+DIRECTORS, EXECUTIVE OFFICERS, PROMOTER AND CONTROL PERSONS 
+
+The name, age and titles of our executive officer and director is
+as follows: 
+
+Name and Address of Executive Officer and/or Director 
+ Age 
+ Position 
+ 
+ Arturas Saladzius 
+ 63 
+ 
+ President, Treasurer, Secretary and Director 
+ (Principal Executive, Financial and Accounting Officer) 
+
+21 
+
+On November 2, 2022, the
+Company announced the departure of Sna Ny from the positions of the Company s President, Treasurer, and Secretary, and announced
+the appointment of Arturas Saladzius as the Company s President, Treasurer, Secretary, and Director, effective upon Mr. Ny s
+departur. 
+
+From 1991 to 2002, Mr. Saladzius
+served as a Director and President of 21st Century Today, Inc. and Prince Investment Corporation, US companies engaged in real estate
+and international trading, coordination, and maintenance of international trade and transport contracts. From 2002 to 2013, Mr. Saladzius
+held the positions of Director and Vice President at Pole Petroleum (S) Pte. Ltd., Petropool (S) Pte. Ltd., and Riverlake Energy (S) Pte.
+Ltd. Mr. Saladzius has over 10 years of experience in the preparation and coordination of investment and development projects, negotiations,
+and consultations. Mr. Saladzius has extensive knowledge in the field of real estate trade and international trade. 
+
+Mr. Saladzius holds a Master's
+degree in International Maritime Law from M. Romeris University Faculty of Law. 
+
+During the past ten years, Mr. Saladzius has not been
+the subject to any of the following events: 
+
+Any bankruptcy petition filed by or against any business of which Mr. Saladzius
+was a general partner or executive officer either at the time of the bankruptcy or within two years prior to that time. 
+
+ Any conviction in a criminal proceeding or being subject to a pending criminal
+proceeding. 
+
+ An order, judgment, or decree, not subsequently reversed, suspended or vacated,
+or any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting Mr. Saladzius s
+involvement in any type of business, securities or banking activities. 
+
+ Found by a court of competent jurisdiction (in a civil action), the Securities
+and Exchange Commission or the Commodity Future Trading Commission to violate a federal or state securities or commodities law, and the
+judgment has not been reversed, suspended or vacated. 
+
+ Was the subject of any order, judgment or decree, not subsequently reversed,
+suspended or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right to engage
+in any activity described in paragraph (f)(3)(i) of this section, or to be associated with persons engaged in any such activity; 
+
+ Was found by a court of competent jurisdiction in a civil action or by the
+Commission to have violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has
+not been subsequently reversed, suspended, or vacated; 
+
+ Was the subject of, or a party to, any Federal or State judicial or administrative
+order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+
+i. Any Federal or State securities or commodities law or regulation; or 
+
+ii. Any law or regulation respecting financial institutions or insurance companies including, but not limited
+to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist
+order, or removal or prohibition order; or 
+
+iii. Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity;
+or 
+
+22 
+
+8. Was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated,
+of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity
+(as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or
+organization that has disciplinary authority over its members or persons associated with a member. 
+
+DIRECTOR INDEPENDENCE 
+
+ The Board of Directors has determined that there are
+no independent directors as such term is defined in Section 5605(a)(2) of the Nasdaq listing rules, and meets the criteria
+for independence set forth in Rule 10A-3(b)(1) under the Securities Exchange Act of 1934. The preceding disclosure respecting director
+independence is required under applicable SEC rules. The Board of Directors has determined that at least one member of the board, Mr.
+Saladzius, is an audit committee financial expert as that term is defined in Regulation S-K promulgated under the Securities
+Exchange Act of 1934. Mr. Saladzius is not an independent member of the board as described above. The Board of Directors
+has determined that director is able to read and understand fundamental financial statements. 
+
+BOARD AND COMMITTEE MATTERS 
+
+ The Company does not have a standing nominating committee,
+compensation committee or audit committee. Instead, the entire Board of Directors shares the responsibility of identifying potential director-nominees
+to serve on the Board of Directors and performing the functions of an audit committee. The Board believes the engagement of directors
+in these functions is important at this time in the Company s development in light of the Company s recent activities. 
+
+COMMUNICATIONS WITH BOARD MEMBERS 
+
+ Our board of directors has provided the following
+process for shareholders and interested parties to send communications to our board and/or individual directors. Communications to individual
+directors may also be made to such director at our company s address. All communications sent to any individual director will be
+received directly by such individuals and will not be screened or reviewed by any company personnel. Any communications sent to the board
+in the care of the Secretary will be reviewed by the Secretary to ensure that such communications relate to the business of the company
+before being reviewed by the board. 
+
+Item 11. Executive Compensation. 
+
+MANAGEMENT COMPENSATION 
+
+The following table sets forth certain information about compensation paid,
+earned or accrued for services by our Executive Officer for the fiscal years ended December 31, 2022 and December 31, 2021: 
+
+23 
+
+Summary Compensation Table 
+
+Name and Principal Position 
+ 
+ Year 
+ 
+ Salary ) 
+ 
+ Bonus ) 
+ 
+ Stock Awards ) 
+ 
+ Option Awards ) 
+ 
+ Non-Equity Incentive Plan Compensation ) 
+ 
+ All Other Compensation ) 
+
+Total ) 
+
+Arturas Saladzius 
+ President, Secretary and Treasurer 
+ 
+ 2022 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+
+2021 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+
+Sna Ny 
+ Former President 
+ 
+ 2022 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+
+2021 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+
+There are no current employment agreements between
+the company and its officer. 
+
+Mr. Saladzius currently devotes approximately
+twenty hours per week to manage the affairs of the Company. He has agreed to work with no remuneration until such time as the Company
+receives sufficient revenues necessary to provide management salaries. At this time, we cannot accurately estimate when sufficient revenues
+will occur to implement this compensation, or what the amount of the compensation will be. 
+
+There are no annuity, pension or retirement benefits
+proposed to be paid to the officer or director or employees in the event of retirement at normal retirement date pursuant to any presently
+existing plan provided or contributed to by the company or any of its subsidiaries, if any. 
+
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters. 
+
+The following table sets forth certain
+information relating to the beneficial ownership of our common stock as of December 31, 2022, by: 
+
+each person, or group of
+affiliated persons, known by us to beneficially own more than five percent of the outstanding shares of our common stock; 
+
+24 
+
+each of our directors; 
+
+each of our named executive
+officers; and 
+
+all directors and executive
+officers as a group. 
+
+Title of Class 
+ Name and Address of Beneficial Owner 
+ Amount and Nature of Beneficial Ownership 
+ Percentage 
+ 
+ Common Stock 
+ 
+ 3,000,000 shares of common stock 
+ 74 
+
+The number of shares beneficially owned by each entity,
+person, director or executive officer is determined in accordance with the rules of the SEC, and the information is not necessarily indicative
+of beneficial ownership for any other purpose. Under such rules, beneficial ownership includes any shares over which the individual has
+sole or shared voting power or dispositive power as well as any shares that the individual has the right to acquire within 60 days of
+the date through the exercise of any stock option, warrants or other rights. Except as otherwise indicated, and subject to applicable
+community property laws, the persons named in the table have sole voting and dispositive power with respect to all shares of common stock
+held by that person. The percentage of shares beneficially owned is computed on the basis of 4,045,069 shares of our common stock outstanding
+as of the date of this annual report. 
+
+Shares of common stock that a person has the right
+to acquire within 60 days of the date are deemed outstanding for purposes of computing the percentage ownership of the person holding
+such rights, but are not deemed outstanding for purposes of computing the percentage ownership of any other person, except with respect
+to the percentage ownership of all directors and executive officers as a group. 
+
+Item 13. Certain Relationships and Related Transactions. 
+
+For the year ended December 31, 2022 and 2021, the
+President of the Company advanced 8,639 and 10,039 to the Company for operating expenses, respectively. As of December 31, 2022, the
+related party loan balance was 22,917. 
+
+25 
+
+Item 14. Principal Accountant Fees and Services. 
+
+The following is a summary of the fees billed to us by our independent
+auditors for professional services rendered related to the fiscal years ended December 31, 2022 and 2021: 
+
+2022 
+
+2021 
+
+Audit Fees 
+
+- 
+
+2,500 
+
+Audit Related Fees 
+
+- 
+
+- 
+
+Tax Fees 
+
+- 
+
+- 
+
+All Other Fees 
+
+- 
+
+- 
+
+Total 
+
+- 
+
+2,500 
+
+Audit Fees. Consists of fees billed for professional
+services rendered for the audit of our financial statements and review of the interim financial statements included in quarterly reports
+and services in connection with registration statement filings and statutory and regulatory filings or engagements. 
+
+Audit-Related Fees. Consists of fees billed
+for assurance and related services that are reasonably related to the performance of the audit or review of our financial statements and
+are not reported under Audit Fees. 
+
+Tax Fees. Consists of fees billed for professional
+services for tax compliance, tax advice, and tax planning. 
+
+All Other Fees. Consists of fees for products
+and services other than the services reported above. 
+
+PART IV 
+
+Item 15. Exhibits. 
+
+Exhibit No. 
+ 
+ Description 
+ 
+ 31.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+
+32.1 
+ 
+ Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002. 
+
+Item 16. Form 10-K
+Summary. 
+
+As permitted, the registrant has
+elected not to supply a summary of information required by Form 10-K. 
+
+26 
+
+SIGNATURES 
+
+ Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+GO GO BUYERS 
+
+Date: April 17, 2023 
+ By: 
+ /s/ Arturas Saladzius 
+
+Name: Arturas Saladzius 
+ Title: Chief Executive Officer (Principal Executive
+ Officer) and Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+27 
+
+<EX-31.1>
+ 2
+ exhibit31.htm
+
+Exhibit 31.1 
+
+Certification of Chief Executive Officer pursuant to
+Securities Exchange 
+
+ Act of 1934 Rule 13a-14(a) or 15d-14(a) 
+
+1. I have reviewed this Annual Report on Form 10-K
+of GO GO BUYERS, Inc.; 
+
+2. Based on my knowledge, this report does not contain
+any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+and we have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to
+be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the registrant s internal control over financial reporting
+that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over
+financial reporting; and 
+
+5. The registrant s other certifying
+officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report
+financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant
+role in the registrant s internal control over financial reporting. 
+
+Date: April 17, 2023 
+
+By: 
+ /s/ Arturas Saladzius 
+
+Arturas Saladzius 
+ President, treasurer, secretary and director 
+ (Principal Executive, Financial and Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ exhibit32.htm
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of GO GO
+BUYERS, Inc.(the Company on Form 10-K for the fiscal year ended December 31, 2022 as filed with the Securities and
+Exchange Commission on the date hereof (the Report ), I, Arturas Saladzius , Chief
+Executive Officer (Principal Executive Officer) and Chief Financial Officer (Principal Financial and Accounting Officer) of the
+Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition
+and result of operations of the Company. 
+
+Date: April 17, 2023 
+
+By: 
+ /s/ Arturas Saladzius 
+
+Arturas Saladzius 
+ President, treasurer, secretary and director 
+ (Principal Executive, Financial and Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.CAL>
+ 5
+ none-20221231_cal.xml
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ none-20221231_def.xml
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ none-20221231_lab.xml
+
+</EX-101.LAB>
+
+<EX-101.SCH>
+ 8
+ none-20221231.xsd
+
+</EX-101.PRE>
+

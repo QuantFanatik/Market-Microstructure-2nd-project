@@ -1,0 +1,2825 @@
+<Header>
+<FileStats>
+    <FileName>20230331_10-K_edgar_data_1535079_0001437749-23-008798.txt</FileName>
+    <GrossFileSize>3071266</GrossFileSize>
+    <NetFileSize>126450</NetFileSize>
+    <NonText_DocumentType_Chars>599087</NonText_DocumentType_Chars>
+    <HTML_Chars>821597</HTML_Chars>
+    <XBRL_Chars>774439</XBRL_Chars>
+    <XML_Chars>662187</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-23-008798.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331144630
+ACCESSION NUMBER:		0001437749-23-008798
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		54
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MCX Technologies Corp
+		CENTRAL INDEX KEY:			0001535079
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				260030631
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54918
+		FILM NUMBER:		23786770
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 1517
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83701
+		BUSINESS PHONE:		208-863-6243
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 1517
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	McorpCX, Inc.
+		DATE OF NAME CHANGE:	20150714
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Touchpoint Metrics, Inc.
+		DATE OF NAME CHANGE:	20111116
+
+</SEC-Header>
+</Header>
+
+ 0001437749-23-008798.txt : 20230331
+
+10-K
+ 1
+ mccx20221231_10k.htm
+ FORM 10-K
+
+mccx20221231_10k.htm 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE FISCAL YEAR ENDED 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission File Number: 
+
+. 
+
+ (Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+			 incorporation or organization) 
+
+(I.R.S. Employer 
+			 Identification No.) 
+
+, 
+
+ (Address of principal executive offices, including zip code) 
+
+) 
+
+ (Registrant s telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Exchange Act: 
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered 
+
+None 
+
+N/A 
+
+N/A 
+
+Securities registered pursuant to section 12(g) of the Act: 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act: Yes 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large Accelerated Filer 
+
+Accelerated Filer 
+
+Smaller Reporting Company 
+
+Emerging Growth Company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 12(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+
+The aggregate market value of common stock held by non-affiliates of the registrant as of June 30, 2022 the last business day of the registrant s most recently completed second fiscal quarter, based on the closing price of the registrant s common stock on the OTC Pink Sheets on such date, was approximately . 
+
+At March 31, 2023, shares of the registrant s common stock were outstanding. 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+3 
+
+Item 1. 
+
+Business. 
+
+3 
+
+Item 1A. 
+
+Risk Factors. 
+
+5 
+
+Item 1B. 
+
+Unresolved Staff Comments. 
+
+11 
+
+Item 2. 
+
+Properties. 
+
+11 
+
+Item 3. 
+
+Legal Proceedings. 
+
+11 
+
+Item 4. 
+
+Mine Safety Disclosure. 
+
+11 
+
+PART II 
+
+12 
+
+Item 5. 
+
+Market for Our Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+12 
+
+Item 6. 
+
+Selected Financial Data. 
+
+14 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operation. 
+
+14 
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk. 
+
+22 
+
+Item 8. 
+
+Financial Statements and Supplementary Data. 
+
+22 
+
+Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+23 
+
+Item 9A. 
+
+Controls and Procedures. 
+
+23 
+
+Item 9B. 
+
+Other Information. 
+
+24 
+
+PART III 
+
+24 
+
+Item 10. 
+
+Directors, Executive Officers and Corporate Governance. 
+
+24 
+
+Item 11. 
+
+Executive Compensation. 
+
+28 
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+31 
+
+Item 13. 
+
+Certain Relationships and Related Transactions, and Director Independence. 
+
+33 
+
+Item 14. 
+
+Principal Accountant Fees and Services. 
+
+34 
+
+PART IV 
+
+35 
+
+Item 15. 
+
+Exhibits and Financial Statement Schedules. 
+
+35 
+
+Signatures 
+
+37 
+
+Exhibit Index 
+
+35 
+
+PART I 
+
+ITEM 1. 
+
+BUSINESS. 
+
+General 
+
+MCX Technologies Corporation we, us, our, or the Company intends to acquire or develop a technologies that would become the Company s new operating platform which may include innovations directed toward the internet s evolution into the Web 3. During 2021 and into the first quarter of 2022, through our subsidiary The Collective Experience LLC we generated revenue by delivering digital transformation solutions to customer centric organizations through integrated marketing, data science, and commerce. We have ceased operations under TCE and we are now transitioning the focus of the Company toward new technologies. 
+
+We were incorporated in the State of California on December 14, 2001, as a customer experience CX management solutions company dedicated to helping organizations improve customer experiences, increase customer loyalty, reduce cost and increase revenue. The Company operated as The Innes Group, Inc., d/b/a MCorp Consulting until filing a Certificate of Amendment to the Articles of Incorporation renaming the Company Touchpoint Metrics, Inc., effective October 18, 2011. On June 11, 2015, our shareholders passed a resolution to change the name of the Company to McorpCX, Inc., and on June 29, 2020, in connection with the sale of McorpCX, LLC, as described below, our shareholders passed a resolution to change the name of the Company to MCX Technologies Corporation. 
+
+The Company formed a wholly owned subsidiary, McorpCX, LLC McorpCX LLC as a limited liability company in the state of Delaware on December 14, 2017. On August 16, 2018, the Company entered into a contribution agreement with its wholly owned subsidiary McorpCX LLC, pursuant to which the Company transferred to McorpCX LLC all of the Company s assets and liabilities related to the Company s customer experience consulting business, excluding the underlying technology and databases related thereto which remained with the Company. 
+
+Effective August 3, 2020, the Company sold all of its membership interests in McorpCX, LLC to mfifty, LLC, a California limited liability company controlled by Michael Hinshaw, the President of McorpCX LLC (the Purchaser ). Since the Company s professional and related consulting services business, which constituted substantially all of the Company s operations at the time of the sale of McorpCX LLC, was conducted through McorpCX LLC, the sale of McorpCX LLC represented a strategic shift that we had a major effect on the Company s operations and financial results. 
+
+As consideration for the sale of McorpCX LLC, the Company received a total of 352,000 in cash consisting of 100,000 received upon the signing of the purchase agreement and 252,000 received at the closing of the transaction along with a 756,000 promissory note. The promissory note has an initial annual interest rate of 0.99 (to be recalculated at the end of each twelve-month period subsequent to the date of the note based on the annual Applicable Federal Rate for mid-term loans on the first business day following each such twelve month period) accruing daily on the outstanding balance of the note, and monthly principal payments are payable to the Company over a term of four or more years. Monthly principal payments to the Company were initially 7,292 per month for the first twelve months following the date of the note, and then during each subsequent twelve-month period are based on the annual revenues of McorpCX, LLC. The note is secured by the Purchaser's ownership interest in McorpCX LLC. On June 11, 2021, the note was amended whereby the obligor would pay 100,000 principal payment on or before July 1, 2021 and the remaining principal and interest would be paid in installments of 20,000 per month due on the first day of each month. 
+
+On November 12, 2020, the Company formed a wholly owned subsidiary, The Collective Experience, LLC (the Collective Experience or TCE as a Delaware limited liability company. The Company is currently providing all of its digital transformation and marketing management consulting services, which was the Company s sole revenue generating operations, through the Collective Experience. 
+
+In December 2019, a novel strain of coronavirus COVID-19 was reported in Wuhan, China and has since extensively impacted the global health and economic environment. The outbreak in the United States, as well as the response to COVID-19 by federal, state and local governments could have a continued material adverse impact on economic and market conditions in the United States, which may negatively affect our business and operations. Although the administration of vaccines throughout the United States contributed to the lifting of most restrictive measures, there remains ongoing uncertainty about the impact of COVID-19 variations on infection levels. The re-emergence of significant increases in infection rates could result in governments re-imposing restrictive measures that could reduce or impair economic activity. Consequently, the COVID-19 pandemic and the government responses to the outbreak presents continued uncertainty and risk with respect to the Company and its performance and financial results. 
+
+As of the date of issuance of these consolidated financial statements for the year ended December 31, 2022, the Company has not, as a result of the COVID-19 pandemic, had any significant additional financial losses or seen a negative impact on its liquidity, but the extent to which the COVID-19 pandemic may materially impact the Company's future financial condition, liquidity, or results of operations remains uncertain. 
+
+We maintain our primary business address at 176 South Capital Blvd. Boise, Idaho 83702. Our telephone number is (208) 863-6243 and our internet website is www.mcxtechnologies.io. Our registered agent for service of process is Northwest Registered Agents, Inc. The inclusion of our internet address in this report does not include or incorporate by reference into this report any information contained on, or accessible through, our website. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements, amendments to those reports and other Securities and Exchange Commission, or SEC , filings are available free of charge at www.sec.gov. 
+
+Our common stock trades on the TSX Venture Exchange in Canada under the symbol MCX and on the OTC Pink Sheets in the United States under the symbol MCCX . 
+
+Products and Services 
+
+Our only source of revenue was derived from providing digital transformation services through our subsidiary, The Collective Experience LLC, that included brand strategy, data science, pricing science, customer experience management consulting and implementation in support of these strategies. As of April 1, 2022, TCE ceased signing new client engagements since we are no longer pursuing that segment in order to focus on alternative technologies. 
+
+Professional Services 
+
+We provided professional and related consulting services through the Collective Experience including strategy, pricing science, data science, digital transformation, customer experience management consulting, implementation, and go-to-market execution in support of these strategies. These services were intended to help primarily large and medium sized organizations systematically and predictably plan, design and deliver better customer experiences, drive revenue, maximize their return on investment, improve their operational efficiency, and increase customers' adoption of their products and services. As noted above, as of April 1, 2022, TCE ceased signing new client engagements since we are no longer pursuing that segment in order to focus on alternative technologies. 
+
+Our Strategy 
+
+The Company s management is now in the process of developing or acquiring new technologies to enable it to focus on developing and/or implementing Web 3 platforms or other technologies. 
+
+Competition 
+
+There are numerous technology companies seeking ways to enter the Web 3 technologies business and various technologies are subject to rapidly changing technological developments, shifting organizational priorities and requirements, frequent introductions of new products and services, and increased marketing and sales activities of other industry participants. 
+
+Many competitors exist in the overlapping areas of Web 3 and traditional digital marketing, data analytics, digital transformation, cyber-currency and decentralized finance software services and consulting. Many of our current and potential competitors have a significantly larger market presence, greater name recognition, access to more potential customers and substantially greater financial, technical, sales and marketing, management, support, and other resources than we have. As a result, many of our competitors can respond more quickly than we can to new or changing opportunities and technologies, and may devote greater resources to the marketing, promotion and sale of their products than our resources will afford. 
+
+4
+
+We believe it is highly likely that existing and new competitors will rapidly acquire significant market share, which would negatively impact our ability to effectively market, compete and sell our products and services we are currently developing into the markets in which such competitors operate. 
+
+Dependence on Major Customers 
+
+As of December 31, 2022, there were no active customers under TCE or MCX and we only had one customer active during the year ended December 31, 2022. 
+
+Intellectual Property 
+
+We rely on intellectual property laws, contractual arrangements, such as assignment, confidentiality and non-disclosure agreements, and confidentiality procedures and technical measures to gain rights to and protect the technology and intellectual property used in our business. 
+
+As of December 31, 2022, we do not own any trademarks or service marks, patents or other intellectual property assets. 
+
+Insurance 
+
+We maintain general liability, commercial auto, and insurance policies and separate insurance coverage for its directors and officers. 
+
+Employees 
+
+At the end of 2022 we had no full-time or part-time employees and one independent contractor. We have never experienced any employment-related work stoppages and our independent contractors are represented by a labor union or collective bargaining agreements. We intend to hire more employees and independent contractors on an as-needed basis. 
+
+Offices 
+
+We have one business addresses. Our headquarters is located at 176 South Capital Blvd. Boise, ID 83702. 
+
+Costs and Effects of Compliance with Local, State and Federal Environmental Laws 
+
+Given the nature of the Company s business operations, local, state and federal environmental laws do not impose any material costs or have any material effect on the Company. 
+
+Government Regulation 
+
+We are not currently subject to direct federal, state or local regulation other than regulations applicable to businesses. 
+
+ITEM 1A. 
+
+RISK FACTORS 
+
+The statements in this Risk Factors section describe material risks to our business and should be considered carefully. You should review carefully the risk factors listed below, as well as those factors listed in other documents we file with the SEC. Our disclosure and analysis in this annual report on Form 10-K contain some forward-looking statements that set forth anticipated results based on management s current plans and assumptions. 
+
+Following the sale of McorpCX LLC and the winding down of The Collective Experience, the Company s profitability and growth will depend on the success of the Company s planned development of its Web 3 technologies business, which is subject to a variety of business risks and uncertainties. 
+
+Because prior to the sale of McoprCX, LLC in 2020, the Company s operations primarily consisted of professional and related consulting services conducted through McorpCX, LLC, as result of the sale of McorpCX, LLC, the Company was required to develop a new business line in order to generate revenues. During 2021, through the Company s subsidiary The Collective Experience LLC, the Company generated revenue by delivering digital transformation solutions to customer centric organizations through integrated marketing, data science, and commerce. As of April 1, 2022, TCE ceased signing new client engagements since we are no longer pursuing that segment in order to focus on alternative technologies. The Company is now focused on developing a Web 3 technologies business. Any evaluation of our Web 3 technologies business and our prospects going forward must be considered in light of the risks and uncertainties stated above, as well as the following: 
+
+the ability to establish new relationships with clients; 
+
+5
+
+the ability to fund required capital costs needed for investment in the Web 3 technologies business; 
+
+the ability to successfully identify and acquire investments in Web 3 technologies and businesses; 
+
+the ability to successfully develop our own Web 3 technologies; and 
+
+the ability to successfully market and sell, and generate revenues and profits from, Web 3 technologies and businesses. 
+
+If the Company is unable to address these risks, the Company s business, results of operations and prospects could suffer and the Company may not be able to successfully able to develop a revenue generating business. 
+
+We have never generated profits from our current operations and may continue to incur losses from our operations into the future. There is no assurance our future operations will result in profitable revenues. If we cannot generate sufficient revenues to operate profitably, we will cease operations and any investment will be lost. 
+
+During the years ended December 31, 2022 and 2021, we incurred net operating losses of 460,003 and 359,536, respectively. Our ability to achieve and maintain profitability and positive cash flow is dependent upon our ability to successfully develop our Web 3 technologies business. 
+
+Since prior to the sale of McorpCX, LLC in August 2020, all of the Company s revenues were generated through the operations of McorpCX, LLC, subsequent to the sale of McorpCX, LLC, the Company has had to develop new sources of revenues. During 2021, through our subsidiary The Collective Experience LLC we generated revenue by delivering digital transformation solutions to customer centric organizations through integrated marketing, data science, and commerce. However, the Company is now focused on developing a Web 3 technologies business. Although the Company s management is now focused on developing a Web 3 technologies business, as of the date of this report, the Company is generating no revenues from this business and there is no assurance that we will be able to attract the necessary employees, independent contractors and other resources required to develop our Web 3 technology platform to a level where we would be able to generate sufficient revenues to support the growth of our operations. 
+
+Our ability to achieve revenue growth sufficient to support our business will stem in large part from our ability to develop and/or acquire new Web 3 technology solutions, the licensing and adoption of our systems and methodologies, and the development of direct and indirect sales and distribution channels through which we can distribute our products and services. Based upon current plans, we expect to incur operating losses in future periods because we will be incurring expenses required to achieve our objectives and not generating revenues sufficient to generate profits. We cannot guarantee that we will be successful in generating sufficient revenues in the future. Failure to generate profits from operations may cause our business to fail. 
+
+The Company s ability to execute its strategy following the sale of McorpCX LLC depends on the Company s ability to retain and recruit qualified management and/or advisors. 
+
+The Company s ability to execute its strategy following the closing of the sale of McorpCX LLC in August 2020 and the winding down of The Collective Experience in 2022 requires that the Company retain and recruit personnel with technology services experience. There are no assurances that the Company will be able to find and/or be able to recruit qualified personnel required to build the Company s Web 3 technologies business, and if the Company is not able to recruit such personnel the Company may not be able to successfully grow its Web 3 technologies business and consequently may not develop a revenue generating business. 
+
+Business or economic disruptions or global health concerns beyond our control could seriously harm our business and results of operations. 
+
+Broad-based business or economic disruptions could adversely affect our ongoing or planned business activities. For example, beginning in December 2019 an outbreak of a novel strain of coronavirus originated in Wuhan, China, and has since spread to a number of other countries, including the United States. The outbreak has prompted precautionary government-imposed closures of certain travel and businesses. We cannot presently predict the scope and severity of any potential business shutdowns or disruptions, but if we or any of the third parties with whom we engage were to experience shutdowns or other business disruptions, our ability to conduct our business in the manner and on the timelines presently planned could be materially and negatively impacted. 
+
+6
+
+If we do not attract new customers, we will not make a profit, which ultimately will result in a cessation of operations. 
+
+Our ability to maintain operations is predicated upon us being able to acquire or develop Web 3 technologies and related products and services, and being able to sell or license those technologies, products and services to clients. As of December 31, 2022, we did not have any active clients, and there are no assurances that we will be able to expand our customer base. If we are unable to attract and maintain an adequate customer base to generate revenues, we will have to suspend or cease operations. 
+
+The market for our products and services is evolving rapidly 
+
+We are engaged in a new and rapidly evolving business, and consequently we may experience rapid shifts in demands for our products and services. These changes in demand may result from a number of factors, including, without limitation, changes in the perceived benefits of or need for our services. These changes in demand may adversely impact on our ability to earn revenues and achieve profitability. 
+
+We face intense competition for our products and services 
+
+There are numerous technology companies are seeking ways to support these efforts enter the Web 3 technologies business. Additionally, Metaverse, cyber-currency and DeFi have become more readily recognized as method of completing transactions and as such, more competitors are seeking to enter this marketplace. These technologies are subject to rapidly changing technological developments, shifting organizational priorities and requirements, frequent introductions of new products and services, and increased marketing and sales activities of other industry participants 
+
+Many competitors exist in the overlapping areas of Web 3 and traditional digital marketing, data analytics, digital transformation, cyber-currency and decentralized finance software services and consulting. Many of our current and potential competitors have a significantly larger market presence, greater name recognition, access to more potential customers and substantially greater financial, technical, sales and marketing, management, support, and other resources than we have. As a result, many of our competitors can respond more quickly than we can to new or changing opportunities and technologies, and may devote greater resources to the marketing, promotion and sale of their products than we can. 
+
+7
+
+We have limited access to financing and capital to fund our operations 
+
+We primarily generate cash to fund our business operations from the proceeds from the sale of McorpCX, LLC in August 2020. However, since we have incurred net losses in each of 2021 and 2022, there is no assurance that our cash from operations will be sufficient to fund our business operations on an ongoing basis. Accordingly, we may require additional financing to continue our operations. We do not have any arrangements in place for any future debt or equity financing and there is no assurance that any financing would be available to us if required. 
+
+Our inability to generate sufficient cash flows may result in our Company not being able to continue as a going concern. 
+
+For the years ended December 31, 2022 and 2021 the Company had a net loss of 465,552 and 360,678, respectively. These circumstances result in substantial doubt as to the Company s ability to continue as a going concern. The Company's ability to continue as a going concern is dependent upon the Company's ability to continue to generate sufficient revenues to operate profitably or raise additional capital through debt financing and/or through sales of common shares. 
+
+The failure to achieve the necessary levels of profitability or obtain the additional funding would be detrimental to the Company. The Company s consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded assets, or the amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+
+Because we have only two officers and four directors who are responsible for our managerial and organizational structure, there may not be effective disclosure and accounting controls to comply with applicable laws and regulations which could result in fines, penalties and assessments against us. 
+
+We have only two officers and four directors. These persons are responsible for our managerial and organizational structure, which include preparation of disclosure and accounting controls under the Sarbanes Oxley Act of 2002. As such, they are responsible for the administration of the Company s internal controls. Should they not properly administer the Company s internal controls, we may be subject to sanctions and fines by the SEC. 
+
+As of December 31, 2022, management assessed the effectiveness of our internal control over financial reporting and concluded that, during the period covered by this report, such internal controls and procedures were not effective to detect the inappropriate application of U.S. generally accepted accounting principles. Management determined that this was due to deficiencies that existed in the design or operation of our internal controls over financial reporting that adversely affected our internal controls and that may be considered to be material weaknesses. See Item 9A Controls and Procedures Internal Control Over Financial Reporting for more information. Although management has taken steps in 2022 to address the deficiencies in our internal controls, the Company currently does not have sufficient internal controls over financial reporting which could limit investment in the Company s securities and expose the Company to SEC fines or administrative sanctions. 
+
+8
+
+There are legal restrictions on the resale of our shares of common stock, including penny stock regulations under the United States federal securities laws. These restrictions may adversely affect the ability to resell our shares of common stock. 
+
+We anticipate that our common shares will continue to be subject to the penny stock rules under the Securities Exchange Act of 1934, as amended (the Exchange Act ). These rules regulate broker/dealer practices for transactions in penny stocks. Penny stocks are generally equity securities with a price of less than 5.00. The penny stock rules require broker/dealers to deliver a standardized risk disclosure document that provides information about penny stocks and the nature and level of risks in the penny stock market. The broker/dealer must also provide the customer with current bid and offer quotations for the penny stock, the compensation of the broker/dealer and its salesperson and monthly account statements showing the market value of each penny stock held in the customer s account. The bid and offer quotations and the broker/dealer and salesperson compensation information must be given to the customer orally or in writing prior to completing the transaction and must be given to the customer in writing before or with the customer s confirmation. In addition, the penny stock rules require that prior to a transaction, the broker and/or dealer must make a special written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser s written agreement to the transaction. The transaction costs associated with penny stocks are high, reducing the number of broker-dealers who may be willing to engage in the trading of our shares. These additional penny stock disclosure requirements are burdensome and may reduce all of the trading activity in the market for our common stock. As long as the common stock is subject to the penny stock rules, our shareholders may find it more difficult to sell their shares. 
+
+Our future sales of our common stock could cause our share price to decline. 
+
+There is no contractual restriction on our ability to issue additional shares of our common stock. We cannot predict the effect, if any, that market sales of our common stock or the availability of shares for sale will have on the market price prevailing from time to time. Sales by us of our common stock in the public market, or the perception that such sales may occur, could cause the trading price of our common stock to decrease or to be lower than it might be in the absence of those sales or perceptions. 
+
+The market price of our common stock may be volatile. 
+
+The trading price of our shares of common stock may be highly volatile and could be subject to wide fluctuations in response to various factors. Some of the factors that may cause the market price of our shares of common stock to fluctuate include: 
+
+Fluctuations in our quarterly financial results or the quarterly financial results of companies perceived to be similar to us; 
+
+Changes in estimates of our financial results or recommendations by securities analysts; the potential effect of general business or economic conditions on our business, including the direct and indirect effects of the COVID-19 pandemic and the Russian invasion of Ukraine on the economy, consumer demand and spending levels, and labor shortages in our markets 
+
+The potential effect of general business or economic conditions on our business, including the direct and indirect effects of the COVID-19 pandemic and the Russian invasion of Ukraine on the economy, consumer demand and spending levels, and labor shortages in our markets 
+
+Failure of any of our products to achieve or maintain market acceptance; 
+
+Changes in market valuations of similar companies; 
+
+Significant products, contracts, acquisitions or strategic alliances of our competitors; 
+
+Success of competing products or services; 
+
+Changes in our capital structure, such as future issuances of securities or the incurrence of additional debt; 
+
+Regulatory developments; 
+
+Litigation involving our Company, our general industry or both; 
+
+Additions or departures of key personnel; 
+
+Investors general perception of us; and 
+
+Changes in general economic, industry and market conditions. 
+
+9
+
+Failures or security breaches of our information technology systems could disrupt our operations and negatively impact our business. 
+
+We use information technologies to securely manage our operations and various business functions. We rely on various technologies to process, store and report on our business and to communicate electronically between our employees, consultants and customers. We also use information technologies to process financial information and results of operations for internal reporting purposes and to comply with regulatory, legal and tax requirements. Despite our security design and controls, and those of our third party providers, our information technology systems may be vulnerable to a variety of interruptions, including during the process of upgrading or replacing software, databases or components thereof, natural disasters, terrorist attacks, telecommunications failures, computer viruses, cyber-attacks, hackers, unauthorized access attempts and other security issues or may be breached due to employee error, malfeasance or other disruptions. Any such interruption or breach could result in operational disruptions or the misappropriation of sensitive data that could subject us to civil and criminal penalties, litigation or have a negative impact on our reputation. There can be no assurance that such disruptions or misappropriations and the resulting repercussions will not negatively impact our cash flows and materially affect our results of operations or financial condition. 
+
+In addition, many of our information technology systems, such as those we use for administrative functions, including human resources, payroll, accounting and internal and external communications, as well as the information technology systems of our third-party business partners and service providers, whether cloud-based or hosted in proprietary servers, contain personal, financial or other information that is entrusted to us by our customers and personnel. Many of our information technology systems also contain proprietary and other confidential information related to our business, such as business plans and research and development initiatives. To the extent we or a third party were to experience a material breach of our or such third party s information technology systems that results in the unauthorized access, theft, use, destruction or other compromises of our customers or personnel s data or confidential information stored in such systems, including through cyber-attacks or other external or internal methods, it could result in a violation of applicable privacy and other laws, and subject us to litigation and governmental investigations and proceedings, any of which could result in our exposure to material liability. 
+
+We may incur losses as a result of unforeseen or catastrophic events, including the emergence of a pandemic, terrorist attacks or natural disasters. 
+
+The occurrence of unforeseen or catastrophic events, including the emergence of a pandemic or other widespread health emergency (or concerns over the possibility of such an emergency), terrorist attacks or natural disasters, could create economic and financial disruptions and could lead to operational difficulties (including travel limitations) that could impair our ability to manage or operate our business and adversely affect our results of operations. 
+
+A small number of our shareholders could significantly influence our business. 
+
+There are a few significant shareholders of our common stock who own a substantial percentage of the outstanding shares of our common stock. These few significant shareholders, either individually or acting together, may be able to exercise significant influence over matters requiring shareholder approval, including the election of directors and approval of significant corporate transactions, such as a merger or other sale of the Company or our assets. This concentration of ownership may make it more difficult for other shareholders to effect substantial changes in the Company, may have the effect of delaying, preventing or expediting, as the case may be, a change in control of the Company and may adversely affect the market price of our common stock. Further, the possibility that one or more of these significant shareholders may sell all or a large portion of their common stock in a short period of time could adversely affect the trading price of our common stock. Also, the interests of these few shareholders may not be in the best interests of all shareholders. 
+
+Limited liability of the Company s executive officers and directors may discourage stockholders from bringing a lawsuit against them. 
+
+The Company s Articles of Incorporation and Bylaws contain provisions that limit the liability of directors for monetary damages and provide for indemnification of officers and directors. These provisions may discourage stockholders from bringing a lawsuit against officers and directors for breaches of fiduciary duty and may also reduce the likelihood of derivative litigation against officers and directors even though such action, if successful, might otherwise have benefited the stockholders. In addition, a stockholder s investment in the Company may be adversely affected to the extent that costs of settlement and damage awards against officers or directors are paid by the Company under the indemnification provisions of the Company s Articles of Incorporation and Bylaws. 
+
+Under the Articles of Incorporation and Bylaws of the Company, we may indemnify an officer or director who is made a party to any proceeding, including a lawsuit, because of his or her position, if he or she acted in good faith and in a manner he or she reasonably believed to be in our best interest. We may also advance expenses incurred in defending a proceeding. To the extent that the officer or director is successful on the merits in a proceeding as to which he or she is to be indemnified, we must indemnify him or her against all expenses incurred, including attorney's fees. With respect to a derivative action, indemnity may be made only for expenses actually and reasonably incurred in defending the proceeding, and if the officer or director is judged liable, only by a court order. The indemnification is intended to be to the fullest extent permitted by the laws of the State of California. 
+
+The COVID-19 pandemic could adversely affect our financial results, operations and outlook for an extended period of time. 
+
+As of the date of this report, the Company has not, as a result of the COVID-19 pandemic, had any significant additional financial losses or seen a negative impact on its liquidity, but the extent to which the COVID-19 pandemic may materially impact the Company's future financial condition, liquidity, or results of operations remains uncertain. However, we cannot predict how the COVID-19 pandemic will develop or progress, how long it will last or if it or a similar viral pandemic will recur, if new government restrictions and mandates will be imposed or how long they will be effective, or the economic impact of such restrictions on our clients, so we cannot predict whether, when or to what extent our results of operations and financial performance will be adversely impacted. 
+
+The Russian invasion of Ukraine could adversely affect our financial results, operations and outlook for an extended period of time. 
+
+The Russian invasion of Ukraine has affected and will, for the foreseeable future, continue to affect general business and market conditions worldwide, and also indirectly has affected and will continue to affect our financial results, operations and outlook. We cannot predict how the Russian invasion of Ukraine will develop or progress, how long it will last, or how it will impact general business and market conditions, and our financial results, operations and outlook in the future. 
+
+10
+
+ITEM 1B. 
+
+UNRESOLVED STAFF COMMENTS. 
+
+None. 
+
+ITEM 2. 
+
+PROPERTIES. 
+
+Our corporate headquarters, located at 176 South Capital Blvd. Boise, ID 83702 is a leased space, which we lease on a month-to-month basis for 100 a month. 
+
+ITEM 3. 
+
+LEGAL PROCEEDINGS. 
+
+Although the Company from time to time may be involved with disputes, claims and litigation related to the conduct of its business, there are no material legal proceedings pending to which the Company is a party or to which any of its property is subject, and the Company s management does not know of any such action being contemplated. 
+
+ITEM 4. 
+
+MINE SAFETY DISCLOSURES. 
+
+None. 
+
+11
+
+PART II 
+
+ITEM 5. 
+
+MARKET FOR OUR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market Information 
+
+Our common stock is traded in the United States on the OTC Pink Sheets, operated by the OTC Markets Group under the symbol MCCX. and on the TSX Venture Exchange in Canada under the symbol MCX . 
+
+Holders 
+
+There are 41 holders of record for our common stock as of March 31, 2023 and there are a total of 20,426,158 shares of common stock outstanding as of such date. As some of our shares of common stock are held in street name by brokers on behalf of shareholders, we are unable to estimate the total number of beneficial holders of our common stock represented by these record holders. 
+
+Dividends 
+
+We have not declared any cash dividends, nor do we currently intend to do so. We are not subject to any legal restrictions respecting the payment of dividends, except that they may not be paid to render us insolvent. Dividend policy will be based on our cash resources and capital business requirements. It is anticipated that all available cash will be needed for our operations in the foreseeable future. 
+
+12
+
+Securities Authorized for Issuance Under Equity Compensation Plans 
+
+The following table presents information as of December 31, 2022 with respect to compensation plans under which shares of our common stock may be issued. 
+
+Plan category 
+
+Number of securities to 
+
+			 be issued upon exercise 
+
+			 of outstanding options, 
+
+			 warrants and rights 
+
+			 (a) 
+
+Weighted-average 
+
+			 exercise price of 
+
+			 outstanding options, 
+
+			 warrants and rights 
+
+			 (b) 
+
+Number of securities 
+
+			 remaining available for 
+
+			 future issuance under 
+
+			 equity compensation plans 
+
+			 (excluding securities 
+
+			 in column (a)) (c) 
+
+[1] 
+
+Equity compensation plans approved by security holders 
+
+690,000 
+
+0.23 
+
+1,352,616 
+
+Equity compensation plans not approved by securities holders 
+
+None 
+
+None 
+
+None 
+
+Total 
+
+690,000 
+
+0.23 
+
+1,352,616 
+
+[1] The aggregate number of shares of common stock reserved for issuance under the Company s Amended and Restated Stock Option Plan (the Plan is fixed at 10 of the total number of issued and outstanding shares from time to time, such that the shares of common stock reserved for issuance under the Plan will increase automatically with increases in the total number of Shares issued and outstanding. 
+
+Recent Sales of Unregistered Securities 
+
+None. 
+
+Purchases of Equity Securities 
+
+During the twelve months ended December 31, 2022, there were no purchases of shares of common stock made by, or on behalf of, the Company or any "affiliated purchaser," as defined by Rule 10b-18 of the Exchange Act. 
+
+13
+
+ITEM 6. 
+
+SELECTED FINANCIAL DATA. 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item. 
+
+ITEM 7. 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION. 
+
+Cautionary Statement 
+
+This Management s Discussion and Analysis includes a number of forward-looking statements that reflect our current views with respect to future events and financial performance. Forward-looking statements are often identified by words like: believe, expect, plan , estimate, anticipate, intend, project, will, predicts, seeks, may, would, could, potential, continue, ongoing, should and similar expressions, or words which, by their nature, refer to future events. You should not place undue certainty on these forward-looking statements, which apply only as of the date of this Form 10-K. These forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from historical results or from our predictions. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events, or otherwise. 
+
+Overview 
+
+MCX Technologies Corporation we, us, our, or the Company intends to acquire or develop a technologies that would become the Company s new operating platform which may include innovations directed toward the internet s evolution into the Web 3. During 2021 and into the first quarter of 2022, through our subsidiary The Collective Experience LLC we generated revenue by delivering digital transformation solutions to customer centric organizations through integrated marketing, data science, and commerce. We have ceased the operations under TCE and are now transitioning the focus of the Company toward new technologies. 
+
+The Company formed a wholly owned subsidiary, McorpCX, LLC McorpCX LLC as a limited liability company in the state of Delaware on December 14, 2017. On August 16, 2018, the Company entered into a contribution agreement with McorpCX LLC pursuant to which the Company transferred to McorpCX LLC all the Company s assets and liabilities related to the Company s customer experience consulting business, excluding the underlying technology and databases related thereto which remained with the Company. 
+
+Effective August 3, 2020, the Company sold all of its membership interests in McorpCX, LLC to mfifty, LLC, a California limited liability company controlled by Michael Hinshaw, the then current President of McorpCX LLC (the Purchaser ). Since the Company s professional and related consulting services business, which constituted substantially all of the Company s operations at the time of the sale of McorpCX LLC, was conducted through McorpCX LLC, the sale of McorpCX LLC represented a strategic shift that had a major effect on the Company s operations and financial results. 
+
+As consideration for the sale of McorpCX LLC, the Company received a total of 352,000 in cash consisting of 100,000 received upon the signing of the purchase agreement and 252,000 received at the closing of the transaction along with a 756,000 promissory note. The promissory note has an initial annual interest rate of 0.99 (to be recalculated at the end of each twelve-month period subsequent to the date of the note based on the annual Applicable Federal Rate for mid-term loans on the first business day following each such twelve-month period) accruing daily on the outstanding balance of the note, and monthly principal payments are payable to the Company over a term of four or more years. Monthly principal payments to the Company were initially 7,292 per month for the first twelve months following the date of the note, and then during each subsequent twelve-month period are based on the annual revenues of McorpCX, LLC. On June 11, 2021, the Company and the Purchaser entered into an amendment to the promissory note whereby the Purchaser agreed to pay the Company One Hundred Thousand Dollars 100,000) on or before July 1, 2021 to be applied towards the outstanding principal amount of the promissory note and then going forward to pay the remaining principal amount in installments of Twenty Thousand Dollars 20,000) each due on the first day of each month commencing on August 1, 2021 until the principal amount is paid in full, with the final payment being the remaining unpaid outstanding balance due at that time. The amendment to the promissory note also provides that the promissory note will be considered paid in full if any of the following occurs: (i) the Purchaser pays at least 90 of the outstanding balance due (principal and interest) under the promissory note by December 31, 2021; (ii) the Purchaser pays at least 95 of the outstanding balance due under the promissory note by June 30, 2022; and (iii) the Purchaser pays at least 97.5 of the outstanding balance due (principal and interest) under the promissory note by December 31, 2022. The Company has received a total of 579,378 as of the date of this report, which is less than 97.5 of the original outstanding balance, and as such the promissory note is not considered paid in full. The note is secured by the Purchaser's ownership interest in McorpCX LLC. 
+
+14
+
+On November 12, 2020, the Company formed a wholly owned subsidiary, The Collective Experience, LLC (the Collective Experience or TCE as a Delaware limited liability company. The Company is currently providing all of its digital transformation and marketing management consulting services, which was the Company s sole revenue generating operations, through the Collective Experience. 
+
+In December 2019, COVID-19 was reported in Wuhan, China and has since extensively impacted the global health and economic environment. The Company is subject to risks and uncertainties as a result of the COVID-19 pandemic. COVID-19 infections and health risks, including from variants, continue. The severity of the impact of the COVID-19 pandemic on the Company's business will depend on a number of factors, including, but not limited to, the duration and severity of the pandemic and the extent and severity of the impact on the Company's customers, all of which are uncertain and cannot be predicted. The Company's future results of operations and liquidity could be adversely impacted by delays in payments of outstanding receivable amounts beyond normal payment terms, supply chain disruptions and uncertain demand, and the impact of any initiatives or programs that the Company may undertake to address financial and operational challenges faced by its customers. As of the date of issuance of these consolidated financial statements for the year ended December 31, 2022, the Company has not, as a result of the COVID-19 pandemic, had any significant additional financial losses or seen a negative impact on its liquidity, but the extent to which the COVID-19 pandemic may materially impact the Company's future financial condition, liquidity, or results of operations remains uncertain. 
+
+Sources of Revenue 
+
+Our only source of revenue was derived from providing digital transformation services through our subsidiary The Collective Experience LLC, that included brand strategy, data science, pricing science, customer experience management consulting and implementation in support of these strategies. As of April 1, 2022, TCE ceased signing new client engagements since we are no longer pursuing that segment in order to focus on alternative technologies. 
+
+15
+
+Operating Expenses 
+
+Cost of Goods Sold 
+
+Cost of goods sold consisted primarily of expenses directly related to providing professional and consulting services. Those expenses include contract labor, third-party services, and materials and travel expenses related to providing professional services to our clients. 
+
+General and Administrative Expenses 
+
+General and administrative expenses consist primarily of finance and accounting, legal, software subscriptions, insurance, stock compensation expense, client delivery, and sales and marketing. These expenses also include contract services, as well as marketing and promotion costs, professional fees, software license fee expenses, administrative costs, insurance, rent and a portion of travel expenses and other overhead, which are categorized as other general and administrative expenses in our consolidated financial statements. In addition, the other general and administrative expenses include the professional fees, filing, and registration costs necessary to meet the requirements associated with having to file reports with the United States Securities and Exchange Commission under the Securities Exchange Act of 1934, as amended, as well as having our stock listed on the TSX Venture Exchange in Canada and quoted on the OTC Pink Sheets in the United States. 
+
+Critical Accounting Policies and Estimates 
+
+Our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles GAAP ). The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses and related disclosures. We evaluate our estimates and assumptions on an ongoing basis. 
+
+Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Our actual results could differ from these estimates. We believe that the assumptions and estimates associated with revenue recognition have the greatest potential impact on our consolidated financial statements. 
+
+Revenue Recognition 
+
+The Company s revenue consisted primarily of professional and consulting services, as well as reimbursable expenses billed to clients, software-enabled product sales and other revenues. Other revenue included reimbursement of related travel costs and out-of-pocket expenses. 
+
+The Company s consulting services were contracted under master terms and conditions with statements of work SOW defined for each project. A typical consulting SOW would span a period of 60-180 days and will usually be billed to the client based on certain milestones being achieved throughout the SOW. The Company recognized revenue based upon a percentage of completion of each SOW during each project. In addition, we typically incur travel and other miscellaneous expenses during work on each SOW which we bill to our clients for reimbursement. The travel and miscellaneous expenses were recognized in revenue on a percentage of work complete basis. In addition, some clients would enter into annual or longer-term contracts that will have a monthly retainer for general consulting and project services. The revenue for these engagements was recognized on straight-line basis monthly during the term of the contract. 
+
+Contract costs, such as commissions, are typically incurred contemporaneously with the pattern of revenue recognition and, as such, are expensed as incurred. See Note 3 Revenue Recognition for further information. 
+
+16
+
+Income Taxes 
+
+No provision for income taxes at this time is being made due to the offset of cumulative net operating losses. A full valuation allowance has been established for deferred tax assets based on a more likely than not threshold. The ability to realize deferred tax assets depends on our ability to generate sufficient taxable income within the carry forward periods provided under the United States Internal Revenue Code of 1986, as amended and the rules promulgated thereunder. While the Company s statutory tax rate can vary depending on taxable income level, the effective tax rate is currently 0 mostly because of the valuation allowance described above. The Company does not have any material uncertainties with respect to its provisions for income taxes. 
+
+Stock-Based Compensation 
+
+Stock-based compensation cost is measured at the grant date using a Black-Scholes valuation model and is recognized as expense over the requisite service period. Determining the fair value of stock-based awards at the grant date requires judgment and assumptions, including expected volatility. In addition, judgment is also required in estimating the amount of stock-based awards that are expected to be forfeited. If actual results differ significantly from these estimates, stock-based compensation expense and our results of operations could be impacted. 
+
+17
+
+Results of Continuing Operations 
+
+Revenues Cost of Goods Sold 
+
+During the year ending December 31, 2022, we had 101,409 in revenue recognized as well as the related cost of goods sold of 99,350 generated through continuing operations from one customer contracts entered into in 2021 that carried over into 2022. During the year ending December 31, 2021, we had 752,167 in revenue recognized as well as the related cost of goods sold of 380,247 generated through continuing operations from six customer contracts entered into in 2021 and two customer contracts that carried over from 2020. 
+
+Year Ended 
+
+Change from 
+
+Percent Change 
+
+2022 
+
+2021 
+
+Prior Year 
+
+from Prior Year 
+
+Net Operating Loss 
+
+(460,003 
+
+(359,536 
+
+(100,467 
+
+28 
+
+For the year ended December 31, 2022 we had net operating loss of 460,003 compared to a net operating loss of 359,536 in 2021. The increase in net operating loss in 2022 compared to 2021 was primarily a result of a decrease in revenue generated in 2022, and expenses associated with the winding up of the TCE operations. 
+
+18
+
+Year Ended 
+
+Change from 
+
+Percent Change 
+
+2022 
+
+2021 
+
+Prior Year 
+
+from Prior Year 
+
+Salaries and Wages 
+
+0 
+
+39,066 
+
+(39,066 
+
+(100 
+
+Expenses attributable to salaries and wages decreased by 39,066 during the year ended December 31, 2022 compared to 2021 due to the elimination of stock compensation expenses related to the vesting of previously granted options as those options have been fully vested and expensed during 2021. 
+
+Year Ended 
+
+Change from 
+
+Percent Change 
+
+2022 
+
+2021 
+
+Prior Year 
+
+from Prior Year 
+
+Contract Services 
+
+75,212 
+
+291,411 
+
+(216,199 
+
+(74 
+
+Contract services expenses decreased during the year ended December 31, 2022 compared to 2021 due to management actively seeking to lower costs being provided by contractors in 2022, compared to 2021. In addition, while the Company is transitioning to Web 3 technologies, we have classified all executive, finance, and administrative services under Other General and Administrative expense. 
+
+Year Ended 
+
+Change from 
+
+Percent Change 
+
+2022 
+
+2021 
+
+Prior Year 
+
+from Prior Year 
+
+Other General and Administrative 
+
+386,850 
+
+400,979 
+
+(14,129 
+
+(4 
+
+Other general and administrative costs decreased by 14,129 during the year ended December 31, 2022 compared to 2021 primarily due to an overall decrease in sales, marketing, and travel expenses in 2022 compared to 2021, offset by a one-time commissions and fees payment associated with the sale of land in 2022. 
+
+Year Ended 
+
+Change from 
+
+Percent Change 
+
+2022 
+
+2021 
+
+Prior Year 
+
+from Prior Year 
+
+Other expense 
+
+5,549 
+
+1,142 
+
+4,407 
+
+386 
+
+Other expenses were consistent year over year and primarily consisted of non-recurring other expenses, partially offset by interest income on related party notes receivable. 
+
+19
+
+Liquidity and Capital Resources 
+
+We measure our liquidity in a variety of ways, including the following: 
+
+December 31, 
+
+			 2022 
+
+December 31, 
+
+			 2021 
+
+Cash and cash equivalents 
+
+2,595 
+
+51,393 
+
+Working capital 
+
+(98,381 
+
+49,542 
+
+Anticipated Uses of Cash 
+
+As of December 31, 2022, our cash and cash equivalents and working capital had decreased to 2,595 and a negative 98,381, respectively, from 51,393 and 49,542 as of December 31, 2021. 
+
+For the year ended December 31, 2022 and 2021, we were able to finance our operations with cash generated through cash on hand as well as proceeds of the sale of McorpCX, LLC that took place in 2020. The accompanying consolidated financial statements have been prepared in accordance with GAAP applicable to a going concern, which contemplates the realization of assets and the satisfaction of liabilities and commitments in the normal course of business. 
+
+During the year ended December 31, 2022, our primary uses of cash included third party contractors to support our consulting services, general and administrative expenses to support new business development activities. 
+
+We currently plan to fund our expenditures with cash on hand as well as cash flows generated from new revenue sources as a digital transformation company. If needed, the possibility may exist to raise additional capital through debt financing and common stock sales. We do not intend to pay dividends in the foreseeable future. In addition to the note receivable due to the Company, we are seeking new sources of revenue to fund our capital requirements for our business during the next 12 months. 
+
+We received total consideration of 1,108,000 consisting of 352,000 in cash and a 756,000 promissory note for the sale of McorpCX, LLC, which was completed on August 3, 2020, which applied to transaction costs as well as investment toward becoming a technology solutions business. The collection of the promissory note is expected to enable us to meet our liquidity needs over the next 12 months. Notwithstanding the foregoing, our ability to continue as a going concern is entirely dependent upon our ability to achieve a level of profitability, and/or to raise additional capital through debt financing and/or through sales of common stock. We cannot provide any assurance that profits from operations, if any, will generate sufficient cash flow to meet our working capital needs and service our existing obligations, nor that sufficient capital can be raised through debt or equity financing. 
+
+We intend to continue to seek ways to transition our business to new technologies, including through acquisitions, mergers, licensing arrangements, joint-ventures new capital resources will be required. Depending on the size of a transaction, the capital resources that will be required can be substantial. The necessary resources may be generated from cash flow from operations, cash on hand, the proceeds of the sale of McorpCX, LLC, borrowing against our assets or the issuance of securities, and there is no assurance these capital resources will be available to us when required. 
+
+20
+
+Cash Flow for the Years Ended December 31, 2022 and 2021 
+
+Operating Activities. Net cash used in operating activities decreased to 367,957 for the year ended December 31, 2022 compared to net cash used in operating activities of 488,037 in 2021. This decrease in cash used in operating activities in 2022 compared to 2021 was primarily due to a 130,874 decrease in Accounts Receivable in 2022 compared to a 170,874 increase in Accounts Receivable in 2021, as well as a smaller decrease in cash attributed to deferred revenue in 2022 compared to 2021, offset by a 104,874 increase in net loss from 2021 to 2022 and a 47,843 decrease in Accounts Payable in 2022 compared to a 111,766 increase in Accounts Payable in 2021. 
+
+Investing Activities. There was cash provided by investing activities of 319,159 for the year ended December 31, 2022 due to cash received from the related party notes receivable issued in connection with the sale of McorpCX, LLC, as well as the sale of land during 2022. In 2021, cash provided by investing activities of 241,465 was due to cash received from the related party notes receivable issued in connection with the sale of McorpCX, LLC. 
+
+Financing Activities. There was no cash provided by or used in financing activities for the year ended December 31, 2022 or 2021. 
+
+21
+
+Contractual Obligations 
+
+We lease one office in Boise, ID on a month-to-month basis. We do not have any debt capital lease obligations. 
+
+ITEM 7A. 
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item. 
+
+ITEM 8. 
+
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+MCX Technologies Corporation 
+
+INDEX TO THE FINANCIALS 
+
+Index 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM , (PCAOB ID 
+
+F-1 
+
+FINANCIAL STATEMENTS 
+
+Consolidated Balance Sheets 
+
+F-2 
+
+Consolidated Statements of Operations 
+
+F-3 
+
+Consolidated Statements of Changes in Shareholders Equity 
+
+F-4 
+
+Consolidated Statements of Cash Flows 
+
+F-5 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+F-6 
+
+22
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Shareholders and Board of Directors of 
+
+ MCX Technologies Corporation 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of MCX Technologies Corporation and its subsidiary (collectively, the Company as of December 31, 2022 and 2021, and the related consolidated statements of operations, stockholders equity, and cash flows for the years then ended, and the related notes (collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of their operations and their cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+Going Concern Matter 
+
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 9 to the financial statements, the Company has suffered recurring losses from operations and has a net capital deficiency that raises substantial doubt about its ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 9. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters. 
+
+/s/ MaloneBailey, LLP 
+
+ www.malonebailey.com 
+
+ We have served as the Company's auditor since 2016. 
+
+ Houston, Texas 
+
+ March 31, 2023 
+
+F-1
+
+MCX Technologies Corporation 
+
+ Consolidated Balance Sheets 
+
+December 31, 
+
+December 31, 
+
+2022 
+
+2021 
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Accounts receivable 
+
+Other Current Assets 
+
+Total current assets 
+
+Long term assets: 
+
+Land 
+
+Notes receivable - related party 
+
+Total assets 
+
+Liabilities and Shareholders' Equity 
+
+Liabilities: 
+
+Accounts payable and accrued liabilities 
+
+Deferred revenue 
+
+Total current liabilities 
+
+Total liabilities 
+
+Shareholders' equity: 
+
+Common stock, no par value, shares authorized, shares issued and outstanding at December 31, 2022 and December 31, 2021 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total shareholders' equity 
+
+Total liabilities and shareholders' equity 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-2
+
+MCX Technologies Corporation 
+
+ Consolidated Statements of Operations 
+
+Year Ended 
+
+December 31, 
+
+2022 
+
+2021 
+
+Revenue, net 
+
+Cost of goods sold 
+
+Gross profit 
+
+Expenses 
+
+Salaries and wages 
+
+Contract services 
+
+Other general and administrative 
+
+Total expenses 
+
+Net operating loss 
+
+Other expense 
+
+Net loss 
+
+Net loss per share-basic and diluted: 
+
+Continuing operations 
+
+Total earnings 
+
+Weighted average common shares outstanding-basic and diluted 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-3
+
+MCX Technologies Corporation 
+
+ Consolidated Statements of Changes in Shareholders' Equity 
+
+Common Stock 
+
+Additional 
+
+			 Paid in 
+
+Retained 
+
+			 Earnings 
+
+			 (Accumulated 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit) 
+
+Total 
+
+Balance at December 31, 2020 
+
+Stock based compensation - stock options 
+
+- 
+
+Net loss 
+
+- 
+
+Balance at December 31, 2021 
+
+Net loss 
+
+- 
+
+Balance at December 31, 2022 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-4
+
+MCX Technologies Corporation 
+
+ Consolidated Statements of Cash Flows 
+
+Year Ended 
+
+December 31, 
+
+2022 
+
+2021 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operations: 
+
+Stock compensation expense 
+
+Gain on the sale of land 
+
+Bad debt expense 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Other assets 
+
+Accounts payable and accrued liabilities 
+
+Deferred revenue 
+
+Net cash used in operating activities 
+
+INVESTING ACTIVITIES 
+
+Cash received from sale of land 
+
+Cash received from notes receivable - related party 
+
+Net cash provided by investing activities 
+
+Decrease in cash and cash equivalents 
+
+Cash and cash equivalents, beginning of period 
+
+Cash and cash equivalents, end of period 
+
+Supplemental disclosure of cash flow information: 
+
+Continuing operations 
+
+Interest paid 
+
+Income taxes paid 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-5
+
+MCX TECHNOLOGIES CORPORATION 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ DECEMBER 31, 2022 2021 
+
+in cash consisting of received upon the signing of the purchase agreement and received at the closing of the transaction along with a promissory note. The promissory note has an initial annual interest rate of (to be recalculated at the end of each twelve-month period subsequent to the date of the note based on the annual Applicable Federal Rate for mid-term loans on the first business day following each such twelve month period) accruing daily on the outstanding balance of the note, and monthly principal payments are payable to the Company over a term of four or more years. Monthly principal payments to the Company were initially per month for the first twelve months following the date of the note, and then during each subsequent twelve-month period are based on the annual revenues of McorpCX, LLC. The note is secured by the Purchaser's ownership interest in McorpCX LLC. On June 11, 2021, the note was amended whereby the obligor would pay principal payment on or before July 1, 2021 and the remaining principal and interest would be paid in installments of per month due on the first day of each month. 
+
+On November 12, 2020, the Company formed a wholly owned subsidiary, The Collective Experience, LLC (the Collective Experience or TCE as a Delaware limited liability company. The Company is currently providing all of its digital transformation and marketing management consulting services, which was the Company s sole revenue generating operations, through the Collective Experience. 
+
+In December 2019, COVID-19 was reported in Wuhan, China and has since extensively impacted the global health and economic environment. The outbreak in the United States, as well as the response to COVID-19 by federal, state and local governments could have a continued material adverse impact on economic and market conditions in the United States, which may negatively affect our business and operations. Although the administration of vaccines throughout the United States contributed to the lifting of most restrictive measures, there remains ongoing uncertainty about the impact of COVID-19 variations on infection levels. The re-emergence of significant increases in infection rates could result in governments re-imposing restrictive measures that could reduce or impair economic activity. Consequently, the COVID-19 pandemic and the government responses to the outbreak presents continued uncertainty and risk with respect to the Company and its performance and financial results. 
+
+As of the date of issuance of these consolidated financial statements for the year ended December 31, 2022, the Company has not, as a result of the COVID-19 pandemic, had any significant additional financial losses or seen a negative impact on its liquidity, but the extent to which the COVID-19 pandemic may materially impact the Company's future financial condition, liquidity, or results of operations remains uncertain. 
+
+and of advertising expense recorded in other general and administrative expense during the twelve months ended December 31, 2022 and 2021, respectively. 
+
+Computer Equipment (Years) 
+
+Furniture and Fixtures (Years) 
+
+Leasehold Improvements (Years) 
+
+Machinery and Equipment (Years) 
+
+- days and will usually be billed to the client based on certain milestones being achieved throughout the SOW. The Company recognized revenue based upon a percentage of completion of each SOW during each project. In addition, we typically incur travel and other miscellaneous expenses during work on each SOW which we bill to our clients for reimbursement. The travel and miscellaneous expenses were recognized in revenue on a percentage of work complete basis. In addition, some clients would enter into annual or longer-term contracts that will have a monthly retainer for general consulting and project services. The revenue for these engagements was recognized on straight-line basis monthly during the term of the contract. 
+
+, the effective tax rate is due to the effects of the valuation allowance described above. The Company does not have any material uncertainties with respect to its provisions for income taxes. 
+
+- days and will usually be billed to the client based on certain milestones being achieved throughout the SOW. The Company recognized revenue based upon a percentage of completion of each SOW during each project. In addition, we typically incur travel and other miscellaneous expenses during work on each SOW which we bill to our clients for reimbursement. The travel and miscellaneous expenses were recognized in revenue on a percentage of work complete basis. In addition, some clients would enter into annual or longer-term contracts that will have a monthly retainer for general consulting and project services. The revenue for these engagements was recognized on straight-line basis monthly during the term of the contract. 
+
+Accrued Revenues 
+
+The timing of revenue recognition, invoicing and cash collections affect trade accounts receivable and accrued revenue on the Consolidated Balance Sheets. Accrued revenue represents revenue on contracts that is recognized according to performance obligations being met and exceeds the amount that has been billed to the customer. Accrued revenue is separately presented in the Consolidated Balance Sheets. 
+
+Deferred Revenues (Contract Liabilities) 
+
+The Company records deferred revenues when cash payments are received, including amounts which are refundable. 
+
+Payment terms vary by customer and the products or services offered. For certain products or services and customer types, full or a partial payment of the entire contract is required before the products or services are delivered to the customer. 
+
+During the twelve months ended December 31, 2022 there was revenue recognized related to our contract liabilities included in deferred revenue of at December 31, 2021. During the twelve months ended December 31, 2021 there was revenue recognized related to our contract liabilities included in deferred revenue of at December 31, 2020. 
+
+Contract Assets 
+
+Given the nature of the Company s services and contracts, it has no contract assets. 
+
+Practical Expedients and Exemptions 
+
+The Company generally expenses sales commissions when incurred because the amortization period would have been one year or less and the commissions are only due and payable upon receipt of payment from the client. These costs are recorded within sales and marketing expenses. 
+
+The Company does not disclose the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which we recognize revenue at the amount to which we have the right to invoice for services performed. 
+
+of any outstanding issue or shares, whichever was the lower amount. 
+
+In December 2015, we adopted a revised share option plan in which Plan Shares cannot exceed of the total issued and outstanding shares at any given time. All stock option grants have an exercise price equal to the fair market value of our common stock on the date of the grant and all option grants have a -year term. This share option plan was initially approved by the Company s shareholders at the annual meeting of shareholders on August 10, 2016 and is required to be re-approved at each subsequent annual meeting of the Company s stockholders since that date, in accordance with applicable TSX-V rules. 
+
+To calculate the fair value of stock options at the date of grant, we use the Black-Scholes option pricing model. The volatility used is based on a blended historical volatility of our own stock and similar sized companies due to the limited historical data available for our own stock price. The expected term was determined based on the simplified method outlined in Staff Accounting Bulletin No. 110. The risk-free interest rate for periods within the contractual life of the option is based on the U.S. Treasury yield curve in effect at the time of grant. 
+
+The following table summarizes our stock option activity for the twelve months ended December 31, 2022 and 2021: 
+
+Granted 
+
+- 
+
+- 
+
+Exercised 
+
+- 
+
+- 
+
+Cancelled 
+
+- 
+
+- 
+
+Forfeited or expired 
+
+- 
+
+- 
+
+Outstanding at December 31, 2022 
+
+Exercisable at December 31, 2022 
+
+Unvested 
+
+- 
+
+At December 31, 2022, stock options were exercisable and compensation cost related to share-based compensation grants was recognized for the year ended December 31, 2022. There was no unrecognized compensation expense from stock options at December 31, 2022. 
+
+There were options granted during the year ended December 31, 2022. 
+
+There were no nonvested options during the year ended December 31, 2022. 
+
+a month. 
+
+that will begin to expire in 2033. Pursuant to Sections 382 and 383 of the Internal Revenue Code, the utilization of NOLs and other tax attributes may be subject to substantial limitations if certain ownership changes occur during a three-year testing period (as defined by the Internal Revenue Code). A valuation allowance was established for all the net deferred tax assets because realization is not assured. The components of the deferred tax assets consist of the following: 
+
+Less: valuation allowance 
+
+Net deferred tax assets 
+
+for the twelve months ended December 31, 2022 and 2021. 
+
+The computations for basic and diluted net loss per share are as follows: 
+
+Basic and diluted weighted average common shares outstanding 
+
+Net loss income per share, basic and diluted 
+
+, consisting of in cash and a promissory note, were applied to transaction costs as well as investment toward becoming a technology solutions business. The remaining balance of on the promissory note is expected to enable us to meet our liquidity needs over the next 12 months. Notwithstanding the foregoing, our ability to continue as a going concern is entirely dependent upon our ability to achieve a level of profitability, and/or to raise additional capital through debt financing and/or through sales of common stock. We cannot provide any assurance that profits from operations, if any, will generate sufficient cash flow to meet our working capital needs and service our existing obligations, nor that sufficient capital can be raised through debt or equity financing. The consolidated financial statements do not include adjustments related to the recoverability and classification of asset carrying amounts or the amount and classification of liabilities that might result should we be unable to continue as a going concern. 
+
+from the Interim Chief Financial Officer and entered into an unsecured Promissory Note that bears interest at the rate of . The accrued interest and outstanding principal balance is due on September 20, 2023. 
+
+ITEM 9. 
+
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+None 
+
+ITEM 9A. 
+
+CONTROLS AND PROCEDURES. 
+
+Disclosure Controls and Procedure 
+
+Pursuant to Rule 13a-15(b) and Rule 15d-15(b) under the Exchange Act, the Company carried out an evaluation, with the participation of the Company s management, including the Company s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company s disclosure controls and procedures (as defined under Rule 13a-15(e) or Rule 15d-15(e) under the Exchange Act) as of the end of the period covered by this Report. Based upon that evaluation, the Company s management concluded that, as of December 31, 2022, the Company s disclosure controls and procedures were not effective to ensure that information required to be disclosed by the Company in the reports that the Company files or submits under the Exchange Act, is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to the Company s management to allow timely decisions regarding required disclosure. 
+
+It should be noted that any system of controls is based in part upon certain assumptions designed to obtain reasonable (and not absolute) assurance as to its effectiveness, and there can be no assurance that any design will succeed in achieving its stated goals. 
+
+Internal Control Over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over financial reporting is defined in Rule 13a-15(f) or 15d-15(f) promulgated under the Exchange Act as a process designed by, or under the supervision of, the Company s principal executive and principal financial officers and effected by the Company s board of directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the consolidated financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America and includes those policies and procedures that: 
+
+Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the Company; 
+
+Provide reasonable assurance that transactions are recorded as necessary to permit preparation of the consolidated financial statements in accordance with accounting principles generally accepted in the United States of America and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and 
+
+Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company s assets that could have a material effect on the consolidated financial statements. 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Because of the inherent limitations of internal control, there is a risk that material misstatements may not be prevented or detected on a timely basis by internal control over financial reporting. However, these inherent limitations are known features of the financial reporting process. Therefore, it is possible to design into the process safeguards to reduce, though not eliminate, this risk. 
+
+As of December 31, 2022, management assessed the effectiveness of our internal control over financial reporting based on the criteria for effective internal control over financial reporting established in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO and SEC guidance on conducting such assessments. Based on that evaluation, management concluded that, during the period covered by this report, such internal controls and procedures were not effective to detect the inappropriate application of GAAP rules as more fully described below. This was due to deficiencies that existed in the design or operation of our internal controls over financial reporting that adversely affected our internal controls and that were considered to be material weaknesses. 
+
+23
+
+The matters involving internal controls and procedures that our management considered to be material weaknesses under the standards of the Public Company Accounting Oversight Board were: 
+
+(1) 
+
+We do not have controls that are designed to provide adequate review and oversight of certain financial processes; 
+
+(2) 
+
+We do not have adequate evidence to support that controls are functioning as designed including evidence of review and oversight of certain financial processes; and 
+
+(3) 
+
+We do not have adequate written documentation of our internal control policies and procedures. Written documentation of key internal controls over financial reporting is a requirement of Section 404 of the Sarbanes-Oxley Act which is applicable to us. Management evaluated the impact of our failure to have written documentation of our internal controls and procedures on our assessment of our disclosure controls and procedures and has concluded that the control deficiency that resulted represented a material weakness. 
+
+The aforementioned material weaknesses were identified by our Chief Executive Officer and Chief Financial Officer in connection with the audit of our financial statements as of December 31, 2022. 
+
+This annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to rules of the SEC that permit us to provide only management s report in this Annual Report on Form 10-K. 
+
+Plan for Remediation of Material Weaknesses 
+
+We are in the process of developing and implementing remediation plans to address our material weaknesses. 
+
+Changes in internal controls over financial reporting 
+
+We experienced some changes in internal controls some of which resulted in the aforementioned material weaknesses. These changes were primarily due to a change in management during the year ended December 31, 2022. 
+
+ITEM 9B. 
+
+OTHER INFORMATION. 
+
+None. 
+
+ITEM 9C. 
+
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+None. 
+
+PART III 
+
+ITEM 10. 
+
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+Officers and Directors 
+
+Our directors will serve until their successor is elected and qualified. Our officers serve at the pleasure of the Company s board of directors (the Board ). The Board has no nominating or compensation committees. 
+
+24
+
+The names, addresses, ages and positions of our officers and directors are set forth below : 
+
+Name and Address 
+
+Age 
+
+Position(s) 
+
+Christopher Rowlison 
+
+54 
+
+Chief Executive Officer and Director 
+
+176 South Capital Blvd 
+
+Boise, ID 83702 
+
+Gregg Budoi 
+
+58 
+
+Interim Chief Financial Officer and Director 
+
+176 South Capital Blvd 
+
+Boise, ID 83702 
+
+Susan Olson 
+
+51 
+
+Director 
+
+176 South Capital Blvd 
+
+Boise, ID 83702 
+
+The people named above are expected to hold their offices/positions until the next annual meeting of our stockholders. 
+
+There are no family relationships between any of our directors or executive officers. 
+
+Background of Officers and Directors 
+
+Christopher Rowlison Chief Executive Officer and Director 
+
+Mr. Rowlison has served as the Company s Chief Executive Officer since December 10, 2021 and a director on the Board since November 11, 2020. From September 2018 to the present, Mr. Rowlison has served as the President of Liquid Agency, a Brand Experience Agency based in Silicon Valley. Prior to that, Mr. Rowlison was at Wire Stone, LLC where he spent 15 years in various positions, including Senior Vice President Chief Client Officer from 2002 to 2017. Previously, Mr. Rowlison was Senior Director, Emerging Marketing Solutions for Hewlett-Packard from 2000 to 2002. 
+
+The Board believes Mr. Rowlison brings to the Board an extensive background in the customer experience industry. 
+
+Gregg Budoi Interim Chief Financial Officer and Director 
+
+Gregg Budoi has been a director since August 2018 and our Interim Chief Financial Officer since January 15, 2021. Mr. Budoi has previously served as the Company s Interim President and Chief Executive Officer from both August 16, 2018 to June 7, 2019 as well as from September 30, 2019 to February 3, 2020. Previously, Mr. Budoi served as the Company s Interim Chief Financial Officer from September 26, 2017 to November 6, 2018. Prior to becoming the Company s Interim Chief Financial Officer, Mr. Budoi was from 2014 to 2017 the Chief Financial Officer and member of the Board of Directors of Kalibrate Technologies Plc, a London Stock Exchange (AIM) listed SaaS software and consulting company. Prior to that, from 2007 to 2014 he was a co-founder and former President and CEO of EZ Energy USA, Inc. an Israeli company that operated 69 gas convenience stores. Mr. Budoi has also been Managing Director at Barnes Wendling Corporate Finance, LLC, a financial advisory firm where from 2006 to 2007 he established a corporate finance advisory services platform and completed several corporate restructurings as well as M A and capital raising transactions. Prior to that, he was Chief Executive Officer of his own financial advisory firm, Budoi Company, Inc. from 2003 to 2006 and was from 1999 to 2003 the Chief Financial Officer, Vice President Finance and Treasurer of Dairy Mart Convenience Stores, Inc., where he led the strategic evaluation and recapitalization process for this publicly traded chain of over 850 convenience stores. Mr. Budoi holds a BS in Business Administration/Finance from Ohio State University, and a Master of Business Administration from Cleveland State University. 
+
+The Board believes Mr. Budoi brings to the Board extensive executive management experience from several public and private companies, as well as significant experience in the SaaS software industry. 
+
+Susan Olson Director 
+
+Susan Olson has been a director since January 27, 2022. Ms. Olson has been the CFO/COO of Hawley Troxel Partners law firm since 2001. Ms. Olson guides Hawley Troxel s business objectives, culture, and the ethical requirements of the legal profession and is responsible for all financial and operational functions of the 75+ attorney law firm. Ms. Olson is a Certified Legal Manager, holds a Master of Business Administration degree from Boise State University, and a Bachelor of Science degree in Business Administration from the Lewis Clark State College. 
+
+The Board believes Ms. Olson brings to the Board significant business and organizational management experience. 
+
+25
+
+Involvement in Certain Legal Proceedings 
+
+During the past ten years, Mr. Rowlison, Mr. Budoi, and Ms. Olson have not been the subject of the following events: 
+
+1. 
+
+A petition under the Federal bankruptcy laws or any state insolvency law filed by or against, or a receiver, fiscal agent or similar officer appointed by a court for the business or property of such person, or any partnership in which he/she was a general partner at or within two years before the time of such filing, or any corporation or business association of which he/she was an executive officer at or within two years before the time of such filing; 
+
+2. 
+
+Convicted in a criminal proceeding or named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+
+3. 
+
+The subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him/her from, or otherwise limiting, the following activities; 
+
+i) 
+
+Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity; or 
+
+ii) 
+
+Engaging in any type of business practice; or 
+
+iii) 
+
+Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal or State securities laws or Federal commodities laws. 
+
+4. 
+
+The subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph 3.i in the preceding paragraph or to be associated with persons engaged in any such activity; 
+
+5. 
+
+Found by a court of competent jurisdiction in a civil action or by the SEC to have violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated; 
+
+6. 
+
+Found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated; 
+
+26
+
+7. 
+
+The subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+
+i) 
+
+Any Federal or State securities or commodities law or regulation; or 
+
+ii) 
+
+Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or 
+
+iii) 
+
+Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+8. 
+
+Was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+
+Audit Committee Financial Expert 
+
+Our Board has determined that Ms. Olson is an independent director under the standards established by the NASDAQ Stock Market and Ms. Olson qualifies as an "audit committee financial expert" as defined in applicable SEC rules and along with Mr. Rowlison, comprise the audit committee of the Company. 
+
+The Committees of the Board 
+
+Due to the Company's current size, the only committee of the Company s board of directors is an audit committee. Our board of directors currently does not have a nominating or compensation committee and the functions normally performed by such committees are performed by the board of directors as a whole. 
+
+Code of Ethics 
+
+We have adopted a corporate code of ethics. We believe our code of ethics is reasonably designed to deter wrongdoing and promote honest and ethical conduct; provide full, fair, accurate, timely and understandable disclosure in public reports; comply with applicable laws; ensure prompt internal reporting of code violations; and provide accountability for adherence to the code. Our code of ethics applies to each of our executive officers. A copy of our code of ethics is included as an exhibit to this Annual Report on Form 10-K. 
+
+27
+
+Whistleblower Policy 
+
+We have adopted a whistleblower policy that provides for the protection of our employees from our retaliation where an employee believes that we are violating some law, rule or regulation and wants to disclose the same to proper authorities or to the public at large. This policy further provides a mechanism whereby the employee may disclose the information to us in a confidential manner and may possibly resolve the issue without the need of going to third parties outside of our organization. 
+
+Delinquent Section 16(a) Reports 
+
+Section 16(a) of the Exchange Act requires our executive officers and directors, and persons who beneficially own more than 10 of our equity securities, to file reports of ownership and changes in ownership with the SEC. Officers, directors and greater than 10 stockholders are required by SEC regulation to furnish the Company with copies of all Section 16(a) forms they file. Based upon a review of information available to us and a review of the information filed with the SEC, with the exception of a Form 3 required to be filed by Susan Olson and a Form 3 required to be filed by Shone Anstey, each of which have yet to be filed, all officers, directors and owners of 10 or more of our shares of common stock have filed all reports required by Section 16(a) of the Exchange Act for the year ended December 31, 2022. 
+
+ITEM 11. 
+
+EXECUTIVE COMPENSATION. 
+
+The Company has not entered into employment agreement(s) with any of the Company s named executive officers. 
+
+The following table sets forth information with respect to compensation paid by us to our named executive officers (which includes our principle executive officer or PEO and our two highest compensated officers in 2022 outside of our PEO) for each of the last two years as well as all persons who served as our PEO during 2022, but were not serving in such position at the end of such year. Other than Matthew Kruchko, no other executive officer of the Company received total compensation in 2021 in excess of 100,000, and thus disclosure is not required for any other person other than for the persons below. 
+
+Executive Officer Compensation Table 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+(i) 
+
+(j) 
+
+Change in 
+
+Pension Value 
+
+Nonqualified 
+
+Non-Equity 
+
+Deferred 
+
+Name and 
+
+Stock 
+
+Option 
+
+Incentive Plan 
+
+Compensation 
+
+All Other 
+
+Principal 
+
+Salary 
+
+Bonus 
+
+Awards 
+
+Awards 
+
+Compensation 
+
+Earnings 
+
+Compensation 
+
+Totals 
+
+Position 
+
+Year 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+Christopher Rowlison, 
+
+2022 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Chief Executive Officer 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Gregg Budoi, 
+
+2022 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Former Chief Executive Officer and current Interim Chief Financial Officer [1] 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Matthew Kruchko, 
+
+2022 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+President The Collective Experience LLC 
+
+			 Former Chief Executive Officer 
+
+2021 
+
+99,000 (2) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+99,000 
+
+[1] 
+
+Mr. Budoi was appointed our Interim Chief Financial Officer on January 15, 2021 and served as our Interim Chief Executive Officer until February 3, 2020 
+
+[2] 
+
+Mr. Kruchko received 99,000 in consulting fees in 2021 
+
+28
+
+The following table sets forth information with respect to compensation paid by us to our non-employee directors (all directors except for Mr. Budoi) during the last completed fiscal year ended December 31, 2022. 
+
+Director Compensation Table 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+Change in 
+
+Pension Value 
+
+Fees 
+
+Nonqualified 
+
+Earned or 
+
+Non-Equity 
+
+Deferred 
+
+Paid in 
+
+Stock 
+
+Option 
+
+Incentive Plan 
+
+Compensation 
+
+All Other 
+
+Cash 
+
+Awards 
+
+Awards 
+
+Compensation 
+
+Earnings 
+
+Compensation 
+
+Total 
+
+Name 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+Susan Olson 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Christopher Rowlison 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Shone Anstey 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+29
+
+Non-employee members of our board of directors may receive stock options granted under the Company s Amended and Restated Stock Option Plan (the Plan as consideration for their services on our board of directors. Should any director be awarded option grants the amount of those grants would be proportionate to their level of involvement with the activities of the board of directors (meeting attendance, service on committees, etc.). Additionally, in August 2017, the Company decided to pay a 2,500 monthly fee to our non-employee directors in consideration for their service on our board of directors. As of January 1, 2019, Mr. Quaye agreed that he would no long receive any monthly compensation to participate on the Board and no fees were paid to any of our non-employee directors during 2021 and 2022. 
+
+There are no retirement, pension, or profit sharing plans for the benefit of our officers and directors other than the Plan. Securities offered under the Plan will consist exclusively of our shares of common stock. The aggregate number of shares of common stock reserved for issuance under the Plan is fixed at 10 of the total number of issued and outstanding shares of common stock from time to time, such that the shares of common stock reserved for issuance under the Plan will increase automatically with increases in the total number of shares of common stock issued and outstanding. 
+
+If an option awarded under the Plan expires, is surrendered in exchange for another option, or terminates for any reason during the term of the Plan prior to its exercise in full, the shares of common stock subject to but not delivered under such option will be available for issuance pursuant to the exercise of future options granted under the Plan. 
+
+The following table sets forth information with respect to outstanding equity awards held by our named executive officers at December 31, 2022. 
+
+Outstanding Equity Awards at December 31, 2022 
+
+Equity Incentive 
+
+Equity Incentive 
+
+Number of 
+
+Number of 
+
+Plan Awards: 
+
+Number of 
+
+Plan Awards: 
+
+Securities 
+
+Securities 
+
+Securities 
+
+Shares 
+
+Number of 
+
+Underlying 
+
+Underlying 
+
+Underlying 
+
+Or Units of 
+
+Unearned 
+
+Unexercised 
+
+Unexercised 
+
+Unexercised 
+
+Option 
+
+Option 
+
+Stock 
+
+Shares, 
+
+Options 
+
+Options 
+
+Unearned 
+
+Exercise 
+
+Expiration 
+
+that have not 
+
+Units that 
+
+Name 
+
+Exercisable 
+
+Unexercisable 
+
+Options 
+
+Price 
+
+Date 
+
+Vested 
+
+have not vested 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+Gregg Budoi 
+
+290,000 
+
+0 
+
+0 
+
+0.23 
+
+8/16/2028 
+
+0 
+
+0 
+
+Matthew Kruchko 
+
+200,000 
+
+0 
+
+0 
+
+0.23 
+
+7/25/2023 
+
+0 
+
+0 
+
+Nii Quaye 
+
+200,000 
+
+0 
+
+0 
+
+0.23 
+
+7/25/2023 
+
+0 
+
+0 
+
+30
+
+ITEM 12. 
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The following table sets forth, as of March 31, 2023, the total number of shares owned beneficially by each of our directors, director nominees and named executive officers, individually and directors and all executive officers as a group, and the present owners of 5 or more of our total outstanding shares of common stock. Shares of common stock subject to options and warrants exercisable within 60 days from the date of this table are deemed to be outstanding and beneficially owned for purposes of computing the number of shares held and the percentage ownership of such each individual but are not treated as outstanding for purposes of computing the percentage ownership of others. 
+
+The information in this table reflects "beneficial ownership" as defined in Rule 13d-3 of the Exchange Act. We have determined beneficial ownership in accordance with the rules of the SEC or other information we believe to be reliable. Except as indicated by the footnotes below, we believe, based on the information furnished to us, that the persons and entities named in the table below have sole voting and investment power with respect to all shares that they beneficially own, subject to applicable community property laws where applicable. 
+
+31
+
+Applicable percentage ownership is based on 20,426,158 shares of common stock outstanding as of March 31, 2023 
+
+Shares of Common Stock 
+
+Beneficially Owned 
+
+Name and Address of Beneficial Owner 
+
+Number 
+
+Christopher Rowlison 
+
+0 
+
+176 South Capital Blvd. 
+
+Boise, ID 83702 
+
+Gregg Budoi 
+
+290,000 
+
+[1] 
+
+1.40 
+
+176 South Capital Blvd. 
+
+Boise, ID 83702 
+
+Matthew Kruchko 
+
+200,000 
+
+[2] 
+
+176 South Capital Blvd. 
+
+Boise, ID 83702 
+
+Shone Anstey 
+
+0 
+
+176 South Capital Blvd. 
+
+Boise, ID 83702 
+
+Susan Olson 
+
+0 
+
+176 South Capital Blvd. 
+
+Boise, ID 83702 
+
+All officers and directors as a group (5 individuals) 
+
+490,000 
+
+2.40 
+
+Alex Guidi 
+
+2,762,302 
+
+[3] 
+
+13.52 
+
+2040 885 West Georgia Street 
+
+Vancouver, British Columbia V6C 3E8 
+
+Eva Lundin 
+
+2,900,000 
+
+[4] 
+
+14.20 
+
+6 Rue de Rive 
+
+1204 Geneva, Switzerland 
+
+Peter Loretto 
+
+1,443,262 
+
+[5] 
+
+7.07 
+
+350-6165 HWY 17 
+
+Delta British Columbia V4K 5B8 
+
+Michael Hinshaw 
+
+5,200,000 
+
+25.46 
+
+176 South Capital Blvd. 
+
+Boise, ID 83702 
+
+Represents beneficial ownership of less than 1 . 
+
+[1] 
+
+Includes 290,000 shares issuable pursuant to presently exercisable stock option and options that become exercisable. 
+
+[2] 
+
+Includes 200,000 shares issuable pursuant to presently exercisable stock option and options that become exercisable. 
+
+[3] 
+
+Based on Schedule 13D filed by the reporting person with the SEC on February 24, 2016. 
+
+[4] 
+
+Based on Schedule 13G filed by the reporting person with the SEC on February 18, 2016. 
+
+[5] 
+
+Based on Schedule 13G filed by the reporting person with the SEC on February 11, 2016. Mr. Loretto has sole voting and dispositive power over 1,425,000 shares of our common stock and has shared voting and dispositive power over the remaining 18,262 shares of our common stock he beneficially owns. 
+
+32
+
+ITEM 13. 
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+Related Party Transactions 
+
+The Company did not engage in any transactions with related parties requiring disclosure under Item 404 of Regulation S-K under the Securities Act since January 1, 2021 and there are currently no such transactions proposed. 
+
+Review and Approval of Related Party Transactions 
+
+Our Board recognizes that related party transactions can present a heightened risk of potential or actual conflicts of interest and may create the appearance that Company decisions are based on considerations other than the best interests of the Company and its shareholders. As a result, the Board refers to avoid related party transactions. However, the Board recognizes that there are situations where related party transactions may be in, but may not be inconsistent with, the best interests of the Company and its shareholders. 
+
+As a result, our Board is responsible for reviewing and approving the terms and conditions of all proposed transactions between us, any of our officers, directors or shareholders who beneficially own more than 5 of our outstanding shares of common stock, or relatives or affiliates of any such officers, directors or shareholders, to ensure that such related party transactions are fair and are in our overall best interest and that of our shareholders. 
+
+Our Board has not adopted any specific procedures for the conduct of reviews and considers each transaction in light of the specific facts and circumstances. In the course of its review and approval of a transaction, our board of directors the following factors, among other factors it deems appropriate: 
+
+whether the transaction is fair and reasonable to us; 
+
+the business reasons for the transaction; and 
+
+whether the transaction is material, taking into account the significance of the transaction. 
+
+Any member of our Board who is a related person with respect to a transaction under review may not participate in the deliberations or vote respecting approval or ratification of the transaction, provided, however, that such director may be counted in determining the presence of a quorum at a meeting of the Board that considers the transaction. 
+
+Independence of Directors 
+
+Our shares of common stock are not listed on a national securities exchange or an inter-dealer quotation system that requires that a majority of our Board of Directors consist of independent directors. Under these circumstances, the rules of the SEC require that we identify which of our directors is independent using a definition for independence for directors of a national securities exchange or inter-dealer quotation system which has requirements that a majority of the board of directors be independent. Based upon information requested from and provided by each director concerning his background, employment and affiliations, including family relationships, with us, our senior management and our independent registered public accounting firm, our board of directors has determined that Ms. Olson are independent directors under standards established by the NASDAQ Stock Market. 
+
+33
+
+ITEM 14. 
+
+PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+
+Audit Fees 
+
+The following table presents fees for professional audit services for the audit of the Company s annual consolidated financial statements for fiscal year 2022 and 2021 and fees billed for other services rendered during 2022 and 2021. 
+
+Fiscal 2022 
+
+Fiscal 2021 
+
+MaloneBailey 
+
+MaloneBailey 
+
+Type of Service/Fee 
+
+Audit Fees (1) 
+
+74,000 
+
+64,000 
+
+Audit Related Fees (2) 
+
+- 
+
+- 
+
+Tax Fees (3) 
+
+- 
+
+- 
+
+All Other Fees 
+
+- 
+
+- 
+
+(1) Audit Fees consist of fees for professional services rendered for the audit of the company's consolidated financial statements included in its Annual Report on Form 10-K, the review of the interim financial statements included in its Quarterly Reports on Form 10-Q, and for the services that are normally provided in connection with regulatory filings or engagements. 
+
+(2) Includes fees associated with assurance and related services that are reasonably related to the performance of the audit or review of the Company's consolidated financial statements. This category includes fees related to consultation regarding generally accepted accounting principles. 
+
+(3) Tax Fees consist of fees for tax compliance, tax advice and tax planning. The fee includes the preparation of the Company's income tax returns, franchise tax reports, and other tax filings. 
+
+Although our audit committee currently does not have a formal policy in place to pre-approve all audit and non-audit services provided by our independent auditor and the fees for such non-audit services, the Company's audit committee has adopted a policy to review on an annual basis the performance, objectivity and independence of our independent auditor. 
+
+34
+
+PART IV 
+
+ITEM 15. 
+
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES. 
+
+Incorporated by reference 
+
+Filed 
+
+Exhibit 
+
+Document Description 
+
+Form 
+
+Date 
+
+Number 
+
+herewith 
+
+3.1 
+
+Articles of Incorporation (12/14/2001) 
+
+S-1 
+
+04/25/12 
+
+3.1 
+
+3.2 
+
+Amended Articles of Incorporation (4/08/2006) 
+
+S-1 
+
+04/25/12 
+
+3.2 
+
+3.3 
+
+Amended Articles of Incorporation (10/17/2011) 
+
+S-1 
+
+04/25/12 
+
+3.3 
+
+3.4 
+
+Amended Articles of Incorporation 
+
+8-K 
+
+07/13/15 
+
+3.5 
+
+3.5 
+
+Amended Articles of Incorporation 
+
+10-Q 
+
+11/14/16 
+
+3.5 
+
+3.6 
+
+Amended Articles of Incorporation 
+
+10-Q 
+
+08/14/20 
+
+3.6 
+
+3.7 
+
+Amended and Restated Bylaws 
+
+10-Q 
+
+08/14/20 
+
+3.7 
+
+4.1 
+
+Specimen Stock Certificate 
+
+S-1 
+
+04/25/12 
+
+4.1 
+
+4.2 
+
+Description of Common Stock 
+
+10-K 
+
+03/27/20 
+
+4.2 
+
+10.3 
+
+Amended and Restated Stock Option Plan 
+
+8-K 
+
+02/12/16 
+
+10.1 
+
+35
+
+14.1 
+
+Code of Ethics 
+
+10-K 
+
+03/27/13 
+
+14.1 
+
+21.1 
+
+Subsidiaries 
+
+X 
+
+23.1 
+
+Consent of MaloneBailey LLP 
+
+X 
+
+31.1 
+
+Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+X 
+
+31.2 
+
+Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+X 
+
+32.1 
+
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+X 
+
+32.2 
+
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+X 
+
+101.INS 
+
+Inline XBRL Instance Document. 
+
+X 
+
+101.SCH 
+
+Inline XBRL Taxonomy Extension Schema. 
+
+X 
+
+101.CAL 
+
+InlineXBRL Taxonomy Extension Calculations. 
+
+X 
+
+101.DEF 
+
+Inline XBRL Taxonomy Extension Definitions. 
+
+X 
+
+101.LAB 
+
+Inline XBRL Taxonomy Extension Labels. 
+
+X 
+
+101.PRE 
+
+Inline XBRL Taxonomy Extension Presentation. 
+
+X 
+
+104 
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101) 
+
+ITEM 16. 
+
+FORM 10-K SUMMARY 
+
+None. 
+
+36
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report has been signed on its behalf by the undersigned, thereunto duly authorized on this 31st day of March, 2023. 
+
+MCX TECHNOLOGIES CORPORATION. 
+
+BY: 
+
+/s/ CHRISTOPHER ROWLISON 
+
+Christopher Rowlison 
+
+Chief Executive Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Signature 
+
+Title 
+
+Date 
+
+/s/ CHRISTOPHER ROWLISON 
+
+Chief Executive Officer (Principal Executive Officer), and Director 
+
+March 31, 2023 
+
+Christopher Rowlison 
+
+/s/ GREGG BUDOI 
+
+Chief Financial Officer (Principal Accounting and Financial Officer) 
+
+March 31, 2023 
+
+Gregg Budoi 
+
+and Director 
+
+/s/ SUSAN OLSON 
+
+Director 
+
+March 31, 2023 
+
+Susan Olsen 
+
+<EX-21.1>
+ 2
+ ex_492540.htm
+ EXHIBIT 21.1
+
+Exhibit 21.1 
+
+Subsidiary of Registrant 
+
+Jurisdiction of Incorporation 
+
+The Collective Experience, LLC 
+
+Delaware 
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ ex_492541.htm
+ EXHIBIT 23.1
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We hereby consent to the incorporation by reference in the Registration Statement on Form S-8 (No. 333-212737) of MCX Technologies Corporation (the Company of our report dated March 31, 2023, relating to the consolidated financial statements of the Company appearing in this Annual Report on Form 10-K for the year ended December 31, 2022. 
+
+/s/ MaloneBailey, LLP 
+
+ www.malonebailey.com 
+
+ Houston, Texas 
+
+ March 31, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ ex_492542.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+SARBANES-OXLEY SECTION 302(a) CERTIFICATION 
+
+I, Christopher Rowlison, certify that: 
+
+1. 
+
+I have reviewed this Form 10-K for the year ended December 31, 2022 of MCX Technologies Corporation; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 31, 2023 
+
+/s/CHRISTOPHER ROWLISON 
+
+Christopher Rowlison 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex_492543.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+SARBANES-OXLEY SECTION 302(a) CERTIFICATION 
+
+I, Gregg Budoi, certify that: 
+
+1. 
+
+I have reviewed this Form 10-K for the year ended December 31, 2022 of MCX Technologies Corporation; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 31, 2023 
+
+/s/GREGG BUDOI 
+
+Gregg Budoi 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex_492545.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of MCX Technologies Corporation (the Company on Form 10-K for the year ended December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Christopher Rowlison, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in this Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated this 31 st day of March 2023. 
+
+/s/ CHRISTOPHER ROWLISON 
+
+Christopher Rowlison 
+
+Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ ex_492546.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of MCX Technologies Corporation (the Company on Form 10-K for the year ended December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Gregg Budoi, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in this Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated this 31 st day of March, 2023. 
+
+/s/ GREGG BUDOI 
+
+Gregg Budoi 
+
+Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ mccx-20221231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.DEF>
+ 9
+ mccx-20221231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ mccx-20221231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ mccx-20221231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
+<EX-101.CAL>
+ 12
+ mccx-20221231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+

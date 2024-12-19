@@ -1,0 +1,3809 @@
+<Header>
+<FileStats>
+    <FileName>20230309_10-K_edgar_data_87050_0001213900-23-018702.txt</FileName>
+    <GrossFileSize>6265405</GrossFileSize>
+    <NetFileSize>155251</NetFileSize>
+    <NonText_DocumentType_Chars>1175958</NonText_DocumentType_Chars>
+    <HTML_Chars>1402830</HTML_Chars>
+    <XBRL_Chars>1724100</XBRL_Chars>
+    <XML_Chars>1620388</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-23-018702.hdr.sgml : 20230309
+<ACCEPTANCE-DATETIME>20230309092037
+ACCESSION NUMBER:		0001213900-23-018702
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		90
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230309
+DATE AS OF CHANGE:		20230309
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Neonode Inc.
+		CENTRAL INDEX KEY:			0000087050
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		IRS NUMBER:				941517641
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35526
+		FILM NUMBER:		23718408
+
+	BUSINESS ADDRESS:	
+		STREET 1:		KARLAVAGEN 100, 115 26
+		CITY:			STOCKHOLM
+		STATE:			V7
+		ZIP:			00000
+		BUSINESS PHONE:		46 0 8 667 17 17
+
+	MAIL ADDRESS:	
+		STREET 1:		KARLAVAGEN 100, 115 26
+		CITY:			STOCKHOLM
+		STATE:			V7
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Neonode, Inc
+		DATE OF NAME CHANGE:	20070813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SBE INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0001213900-23-018702.txt : 20230309
+
+10-K
+ 1
+ f10k2022_neonodeinc.htm
+ ANNUAL REPORT
+
+UNITED STATES 
+
+SECURITIES AND
+EXCHANGE COMMISSION 
+
+Washington, D.C.
+20549 
+
+FORM 
+
+ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal
+year ended , 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934 
+
+For the transition
+period from ________ to _________ 
+
+Commission File
+No. 
+
+(Exact name of
+Registrant as specified in its charter) 
+
+(State or Other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification Number) 
+
+, , 
+
+(Address of Principal
+Executive Office and Zip Code) 
+
+(Registrant s
+Telephone Number, including Area Code) 
+
+Securities registered
+pursuant to Section 12(b) of the Act: 
+
+Title of Each Class Trading Symbol Name of Each Exchange on Which Registered 
+
+Securities registered
+pursuant to Section 12(g) of the Act: None 
+
+Indicate by check mark if the registrant
+is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant
+is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate by check mark whether the registrant:
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. No 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during
+the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer, smaller reporting company, 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. 
+
+If securities are registered pursuant
+to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect
+the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of
+those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s
+executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act. Yes No
+
+The aggregate market value of voting
+and non-voting common equity held by non-affiliates of the registrant, based on the closing price for the registrant s common stock
+on June 30, 2022 (the last business day of the registrant s most recently completed second fiscal quarter) as reported on the Nasdaq
+Stock Market, was . 
+
+The number of shares of the registrant s
+common stock outstanding as of March 3, 2023 was . 
+
+DOCUMENTS INCORPORATED
+BY REFERENCE 
+
+Portions of the registrant s definitive
+proxy statement for the registrant s 2023 Annual Meeting of Stockholders are incorporated by reference as set forth in Part III
+of this Annual Report. The registrant intends to file such definitive proxy statement with the Securities and Exchange Commission within
+120 days of the registrant s fiscal year ended December 31, 2022. 
+
+NEONODE INC. 
+
+2022 ANNUAL REPORT ON FORM 10-K 
+
+TABLE OF CONTENTS 
+
+SPECIAL NOTE ON FORWARD-LOOKING STATEMENTS 
+ ii 
+
+PART I 
+
+Item 1. 
+ BUSINESS 
+ 1 
+ 
+ Item 1A. 
+ RISK FACTORS 
+ 7 
+ 
+ Item 1B. 
+ UNRESOLVED STAFF COMMENTS 
+ 14 
+ 
+ Item 2. 
+ PROPERTIES 
+ 14 
+ 
+ Item 3. 
+ LEGAL PROCEEDINGS 
+ 14 
+ 
+ Item 4. 
+ MINE SAFETY DISCLOSURES 
+ 14 
+
+PART II 
+
+Item 5. 
+ MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 15 
+ 
+ Item 6. 
+ [RESERVED] 
+ 15 
+ 
+ Item 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 15 
+ 
+ Item 7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 27 
+ 
+ Item 8. 
+ FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ F-1 
+ 
+ Item 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 28 
+ 
+ Item 9A. 
+ CONTROLS AND PROCEDURES 
+ 28 
+ 
+ Item 9B. 
+ OTHER INFORMATION 
+ 28 
+ 
+ Item 9C. 
+ DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+ 28 
+
+PART III 
+
+Item 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 29 
+ 
+ Item 11. 
+ EXECUTIVE COMPENSATION 
+ 29 
+ 
+ Item 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 29 
+ 
+ Item 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 29 
+ 
+ Item 14. 
+ PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 29 
+
+PART IV 
+
+Item 15. 
+ EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+ 30 
+ 
+ Item 16. 
+ FORM 10-K SUMMARY 
+ 31 
+
+SIGNATURES 
+ 32 
+
+i 
+
+SPECIAL NOTE ON FORWARD-LOOKING STATEMENTS 
+
+This Annual Report of Form 10-K Annual
+Report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section
+21E of the Securities Exchange Act of 1934, as amended, adopted pursuant to the Private Securities Litigation Reform Act of 1995. Forward-looking
+statements provide current expectations of future events based on certain assumptions and include any statement that does not directly
+relate to any historical or current fact. For example, statements in this Annual Report regarding our plans, strategy and focus areas,
+expectations regarding future sales and customers, and the potential future impact of the COVID-19 pandemic on our business and results
+of operations are forward-looking statements. You can identify some forward-looking statements by the use of words such as believe, 
+ anticipate, expect, intend, goal, plan and similar expressions.
+Forward-looking statements involve inherent risks and uncertainties regarding events, conditions and financial trends that may affect
+our future plans of operation, business strategy, results of operations and financial position. A number of important factors could cause
+actual results to differ materially from those included within or contemplated by such forward-looking statements, including, but not
+limited to risks relating to our history of losses since inception, our dependence on a limited number of customers, our reliance on our
+customers ability to develop and sell products that incorporate our touch technology, the length of a product development and release
+cycle, our and our customers reliance on component suppliers, the difficulty in verifying royalty amounts owed to us, our limited
+experience manufacturing hardware devices, our ability to remain competitive in response to new technologies, our dependence on key members
+of our management and development team, the costs to defend, as well as risks of losing, patents and intellectual property rights, and
+our ability to obtain adequate capital to fund future operations. For a discussion of these and other factors that could cause actual
+results to differ from those contemplated in the forward-looking statements, please see Item 1A. Risk Factors and elsewhere
+in this Annual Report, and in our publicly available filings with the Securities and Exchange Commission. Forward-looking statements reflect
+our analysis only as of the date of this Annual Report. Because actual events or results may differ materially from those discussed in
+or implied by forward-looking statements made by us or on our behalf, you should not place undue reliance on any forward-looking statement.
+We do not undertake responsibility to update or revise any of these factors or to announce publicly any revision to forward-looking statements,
+whether as a result of new information, future events or otherwise. 
+
+ii 
+
+PART I 
+
+Neonode Inc., collectively with its subsidiaries,
+is referred to in this Annual Report as Neonode , we , us , our , registrant ,
+or Company . 
+
+We use Neonode, our logo, zForce, MultiSensing,
+AirBar and other marks as trademarks. This Annual Report contains references to our trademarks and service marks and to those belonging
+to other entities. Solely for convenience, trademarks and trade names referred to in this Annual Report, including logos, artwork and
+other visual displays, may appear without the or symbols, but such references are not intended to indicate in any way that
+we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks
+and trade names. 
+
+ITEM
+1. BUSINESS 
+
+Our company provides advanced optical sensing solutions
+for contactless touch, touch, and gesture sensing. We also provide software solutions for machine perception that feature advanced machine
+learning algorithms to detect and track persons and objects in video streams from cameras and other types of imagers. We base our contactless
+touch, touch, and gesture sensing products and solutions using our zForce technology platform and our machine perception solutions on
+our MultiSensing technology platform. zForce (zero force) is the name for our patented optical sensing technology built on infrared light,
+invisible to the human eye. Our MultiSensing platform was designed to provide advanced, safe and traceable software applications to provide
+situational context. We market and sell our solutions to customers in many different markets and segments including, but not limited to,
+office equipment, automotive, industrial automation, medical, military and avionics. 
+
+In 2010, we began licensing to Original Equipment
+Manufacturers OEMs and Tier 1 suppliers who embed our technology into products they develop, manufacture, and sell. Since
+2010, our licensing customers have sold approximately 90 million devices that use our technology. In October 2017, we augmented our licensing
+business and began manufacturing and shipping touch sensor modules TSMs that incorporate our patented technology. We sell
+these TSMs to OEMs, Original Design Manufacturers ODMs ), and systems integrators for use in their products. 
+
+As of December 31, 2022, we had 10 agreements with
+value added resellers VARs for integration of our TSMs in the products they offer to global OEMs, ODMs and systems integrators.
+In addition to this, we distribute our TSMs through Digi-Key Corporation, Serial Microelectronics HK Ltd, and Nexty Electronics Corporation. 
+
+In our operations, we have
+since the beginning of 2020 focused on three different business areas, HMI Solutions, HMI Products and Remote Sensing Solutions HMI 
+is short for Human-Machine Interaction). On May 4, 2021, we announced a new strategy and organizational update targeting an increased
+focus on our contactless touch business and on current market opportunities in North America AMER ), Asia-Pacific APAC ),
+and Europe, Middle East and Africa EMEA ). As a result, we transitioned from a business area organization to a regional
+sales organization going forward. Revenues are however primarily monitored for each of our revenue streams consisting of license fees,
+product sales and non-recurring engineering NRE services. 
+
+During 2022 and 2021 we continued
+to focus our efforts on maintaining our current licensing customers and achieving design wins for new products both with current and future
+customers. We made investments enhancing the design and improving the production yield of our TSMs and improving the related firmware
+and configuration tools software platforms. We also made investments to expand our partner networks for sales and distribution of TSMs.
+We intend to continue expanding our TSM product offerings in 2023 and beyond, including new TSM variants and new sensor products for delivery
+to our key markets. We expect that over time the sales of HMI products and Remote Sensing Solutions may constitute the majority of our
+revenue. 
+
+1 
+
+License fees 
+
+We license our zForce technology
+to OEMs and Tier 1 suppliers who embed our technology into products they develop, manufacture and sell. Since 2010, our licensing customers
+have sold approximately 90 million devices that use our patented technology. 
+
+As of December 31, 2022, we
+had 35 valid technology license agreements with global OEMs, ODMs and Tier 1 suppliers. 
+
+Our licensing customer base is primarily in the
+automotive and printer segments. Eleven of our licensing customers are currently shipping products that embed our technology. We anticipate
+current customers will continue to ship products with our technology in 2023 and in future years. We also expect to expand our customer
+base with a number of new customers who will be looking to ship new products incorporating our zForce and MultiSensing technologies as
+they complete final product development and release cycles. We typically earn our license fees on a per unit basis when our customers
+ship products using our technology, but in the future we may use other business models as well. 
+
+Product sales 
+
+In addition to our technical
+solutions business, we design and manufacture TSMs that incorporate our patented technology. We sell our TSMs to OEMs, ODMs and systems
+integrators for use in their products. We also sell our Neonode branded AirBar product that incorporates one of our TSMs through distributors. 
+
+We utilize a robotic manufacturing
+process designed specifically for our components. Our TSMs are commercial-off-the-shelf products based on our patent-protected zForce
+technology platform and can support the development of contactless touch, touch, gesture and object sensing solutions that, paired with
+our technology licensing offering, give us a full range of options to enter and compete in key markets. 
+
+In October 2017, we began selling
+our TSMs to customers in the industrial and consumer electronics segments. Over time, we expect a significant portion of our revenues
+will be derived from TSM sales. 
+
+Non-recurring engineering services 
+
+We also offer NRE services
+related to application development linked to our TSMs and our zForce and MultiSensing technology platforms on a flat rate or hourly rate
+basis. 
+
+Typically, our licensing customers require engineering
+support during the development and initial manufacturing phase for their products using our technology, while our TSM customers require
+hardware or software modifications to our standard products or support during the development and initial manufacturing phases of their
+products using our technology. In both cases we can offer NRE services and earn NRE revenues. 
+
+Our Organization 
+
+Neonode Inc. was incorporated in the State of Delaware
+on September 4, 1997. Our principal executive office is located in Stockholm, Sweden. Our office in the United States is located in San
+Jose, California. 
+
+We have the following wholly owned subsidiaries:
+Neonode Technologies AB (Sweden) (established in 2008 to develop and license touchscreen technology); Neonode Japan Inc., (Japan) (established
+in 2013); and Neonode Korea Ltd. (South Korea) (established in 2014). In 2015, we established a 51 majority owned consolidated subsidiary,
+Pronode Technologies AB (Sweden). On October 1, 2022, we acquired the remaining shares in Pronode Technologies AB. 
+
+Strategy and Focus Areas 
+
+Our customers use contactless touch, touch, gesture
+sensing, and computer vision technologies to grow their businesses, drive efficiencies, and seek competitive advantages. Our strategy
+is to deliver value-adding human-machine interaction HMI and machine perception solutions and products that enable our
+customers to achieve these targets. We offer specialized NRE services related to the integration of our solutions and products into customer
+systems and products to ensure that optimal functionality and performance is achieved. 
+
+Our goal is to become a market leader in the area of contactless touch
+interfaces, expanding our TSM sales in the elevator and interactive kiosk segments where our contactless touch technology provides end-customer
+value and increased competitiveness for our customers, value-added resellers, and technology partners, while continuing to be a leader
+in optical touch and gesture sensing by licensing our zForce technology to customers in the printer, automotive, and other sectors. We
+also aim to capture a share of the growing automotive driver and in-cabin monitoring market by developing our machine perception business.
+We are innovators in the HMI and machine perception areas and our goal is to introduce next-generation products in these areas that offer
+better price and performance and architectural advantages compared to our current offers and those of our competitors. We intend to execute
+on this strategy through portfolio transformation, internal innovation, and co-development of products with our customers and the building
+of strategic partnerships with other technology companies. 
+
+2 
+
+Markets 
+
+Automotive 
+
+The Automotive value chain consists of OEMs (vehicle
+manufacturers) and tiered suppliers (Tier 1 system suppliers, Tier 2 component suppliers etc.). In this market, we mainly act as a Tier
+2 technology provider to Tier 1 suppliers who license our technology and deliver different types of systems to OEMs (e.g. infotainment
+system displays featuring our touch technology). In some cases, we are also engaged directly by OEMs, following the trend that OEMs are
+insourcing more and more of their systems and software development directly. 
+
+During each of 2022 and 2021, our Automotive customers
+shipped approximately 0.8 million products. 
+
+Printers and Office Equipment 
+
+Multi-function printers typically feature touch
+displays for user interaction with feature-rich menus and settings. We have operational license agreements with three of the leading global
+printers and office equipment OEMs. During 2022 our customers shipped approximately 4 million printers using our touch technology and
+since mid-2014 they have shipped approximately 51 million printers using our touch technology. 
+
+Military and Avionics 
+
+Mechanical switches and buttons and older types
+of touch displays in airplane cockpits are increasingly being replaced with larger touch displays with higher performance capabilities.
+Our zForce technology has demonstrable advantages for these types of applications, as it provides low latency, superior image clarity,
+can be operated by pilots wearing gloves, has excellent electro-magnetic interference and electro-magnetic compatibility properties, and
+works well with night vision systems. zForce is also suitable for other military applications for these reasons. 
+
+Industrial Automation 
+
+We see interesting opportunities for our optical
+touch and gesture control solutions in the rugged industrial touchscreen market. We also see potential demand for our machine perception
+solutions in industrial settings. 
+
+Medical 
+
+We sell our TSMs to customers manufacturing and
+selling medical imaging systems with touch screens. Looking to the future, we see interesting opportunities for our TSMs to be incorporated
+into similar touch applications, and for various contactless touch applications, and opportunities for our zForce-based optical touch
+and gesture control solutions in the medical touchscreen market. 
+
+Elevators and Interactive Kiosks 
+
+The COVID-19 pandemic has created strong consumer demand
+for technologies that eliminate direct physical contact between users and different types of machines and systems in public environments
+such as self-service kiosks, vending machines, and elevators. Using our TSMs, OEMs can easily create safe, intuitive, and easy-to-use
+contactless touch interfaces for their elevator and kiosk products. Our TSMs are also very suitable for retrofit applications and many
+of our OEM customers, value-added resellers, and technology partners have or are developing such solutions and marketing and selling them
+in their respective markets. We have a strong and increasing demand for our TSMs from customers in these markets and expect to grow this
+business significantly in the coming years. 
+
+Product Backlog 
+
+Our TSM product backlog as of December 31, 2022
+was approximately 224,000. The product backlog includes orders confirmed for products planned to be shipped within 12 months to one customer.
+Our cycle time between order and shipment is generally short and customers occasionally change delivery schedules. Additionally, orders
+can be cancelled without significant penalties. As a result of these factors, we do not believe that our product backlog, as of any particular
+date, is necessarily indicative of actual product revenue for any future period. 
+
+Customers 
+
+As of December 31, 2022 we had 35 valid technology
+license agreements. As of December 31, 2021, that number was 34. During the year ended December 31, 2022, we had 11 customers using our
+touch technology in products that were being shipped to their customers. The products related to these license agreements include e-readers,
+tablets, commercial and consumer printers, automotive infotainment system displays, and global positioning system (GPS) devices. 
+
+Our customers are primarily located in North America,
+Europe and Asia. 
+
+As of December 31, 2022, five of our customers represented
+approximately 83 of our consolidated accounts receivable and unbilled revenues. 
+
+As of December 31, 2021, four of our customers represented
+approximately 76 of our consolidated accounts receivable and unbilled revenues. 
+
+3 
+
+Customers who accounted for 10 or more of our revenues
+during the year ended December 31, 2022 are as follows. 
+
+Hewlett-Packard Company 27 
+
+Seiko Epson 19 
+
+LG 12 
+
+Alpine Electronics 10 
+
+Customers who accounted for 10 or more of our revenues
+during the year ended December 31, 2021 are as follows. 
+
+Hewlett-Packard Company 32 
+
+Seiko Epson 18 
+
+LG 13 
+
+Customers by Market 
+
+The following table presents our revenues by market
+as a percentage of total revenues for the years ended December 31: 
+
+2022 
+ 2021 
+ 
+ Automotive (license fees) 
+ 27 
+ 27 
+ 
+ Consumer electronics (license fees) 
+ 51 
+ 55 
+ 
+ TSMs (products) 
+ 18 
+ 16 
+ 
+ Non-recurring engineering 
+ 4 
+ 2 
+ 
+ Total 
+ 100 
+ 100 
+
+Geographical Data 
+
+The following table presents our revenues by geographic
+region as a percentage of total revenues for the years ended December 31: 
+
+2022 
+ 2021 
+ 
+ U.S. 
+ 33 
+ 39 
+ 
+ Japan 
+ 31 
+ 33 
+ 
+ South Korea 
+ 15 
+ 15 
+ 
+ Switzerland 
+ 7 
+ 1 
+ 
+ Germany 
+ 5 
+ 5 
+ 
+ Other 
+ 9 
+ 7 
+ 
+ Total 
+ 100 
+ 100 
+
+The following table presents our total assets by
+geographic region as of December 31 (in thousands): 
+
+2022 
+ 2021 
+ 
+ U.S. 
+ 15,630 
+ 17,589 
+ 
+ Sweden 
+ 5,511 
+ 5,353 
+ 
+ Asia 
+ 57 
+ 50 
+ 
+ Total 
+ 21,198 
+ 22,992 
+
+Competition 
+
+There are various technologies for touch and gesture
+control solutions available that compete with our optical zForce technology. The competing technologies have differing profiles such as
+performance, power consumption, level of maturity and cost. For touch solutions, the main competition comes from resistive and capacitive
+touch solutions. For touch displays, projective capacitive technology is the prevalent standard in mobile phones and tablets and therefore
+an important competing technology to ours that many suppliers offer with price being a major differentiation point. This means we must
+continuously develop our technology and improve our offers to defend and grow our market share. For gesture control the main competition
+comes from other optical technologies and from both ultrasonic and radar technologies. Examples of competitors active in the area of gesture
+sensing include Ultraleap and suppliers of radar and ultrasonic sensor chips, for instance Texas Instruments and Acconeer. Detection range,
+resolution and cost are the main differentiators. 
+
+4 
+
+For contactless touch opportunities, competing technologies
+include camera-based technologies for detecting finger placement and gestures in the airspace in front of a kiosk or button panel, capacitive
+sensors capable of detecting a finger hovering above a display or button, as well as voice-activated interfaces and interfaces using one s
+mobile phone to interact with a kiosk or button panel. 
+
+There are various driver and in-cabin monitoring solutions that compete
+with our MultiSensing technology. Our competitors among Tier 2 software providers include SmartEye, Cipia, Xperi, EyeSight, Seeing Machines,
+PUX and Jungo. 
+
+Intellectual Property 
+
+We rely on a combination of intellectual property
+laws and contractual provisions to establish and protect the proprietary rights in our technology. The number of our issued and pending
+patents and patents filed in each jurisdiction as of December 31, 2022 is set forth in the following table: 
+
+Jurisdiction 
+ No. of Reg. Designs 
+ No. of Issued Patents 
+ No. of Patents Pending 
+ 
+ United States 
+ 5 
+ 48 
+ 9 
+ 
+ Europe 
+ 2 
+ 11 
+ 5 
+ 
+ Japan 
+ - 
+ 7 
+ 1 
+ 
+ China 
+ - 
+ 6 
+ 1 
+ 
+ South Korea 
+ - 
+ 6 
+ 1 
+ 
+ Australia 
+ 1 
+ - 
+ - 
+ 
+ Singapore 
+ 2 
+ - 
+ - 
+ 
+ Patent Convention Treaty 
+ Not Applicable 
+ Not Applicable 
+ 1 
+ 
+ Total: 
+ 10 
+ 78 
+ 18 
+
+Our patents cover optical blocking technologies for
+touchscreens and head-up displays, optical reflective technologies for contactless interaction with kiosks and elevators, as well as machine
+perception solutions for driver and in-cabin monitoring. 
+
+Our software may also be protected by copyright laws
+in most countries, including Sweden and the European Union, if the software is deemed new and original. Protection can be claimed from
+the date of creation. 
+
+In 2022 we filed six new patent applications and had
+two new patent grants issued; certain other patents have lapsed. 
+
+The duration of our patent protection for utility patents
+is generally 20 years. The duration of our patent protection for design patents varies throughout the world between 10 and 25 years, depending
+on the jurisdiction. We believe the duration of our intellectual property rights is adequate relative to the expected lives of our products. 
+
+We also protect and promote our brand by registering
+trademarks in key markets around the world. Our trademarks include: Neonode (29 registrations, 5 pending applications), the Neonode logo
+(15 registrations), zForce (11 registrations), and MultiSensing (7 registrations). 
+
+Research and Development 
+
+In fiscal years 2022 and 2021, we incurred 4.0
+million and 3.5 million, respectively, on research and development activities. Our research and development is performed predominantly
+in-house, but may also be performed in collaboration with external partners and specialists. 
+
+5 
+
+Human Capital 
+
+We recognize that the development, attraction and
+retention of employees is critical to our success. For this reason, we strive to provide a positive work culture for our employees. 
+
+We focus on skills enhancement, leadership development,
+innovation excellence and professional growth throughout our employees careers. Our leadership program provides leadership trainings
+to our high-potential emerging leaders. 
+
+We provide market competitive compensation aligned
+with company performance. We provide a comprehensive benefits package to our employees, including healthcare and retirement plans. We
+have a dedicated human resources (HR) person to ensure clear and beneficial HR-related processes and strategy. We work proactively against
+all discrimination, harassment and other abusive behavior to ensure the work environment at Neonode is good and healthy. We believe that
+a diverse workforce provides different viewpoints on business strategy, risk and innovation. 
+
+Since the COVID-19 pandemic has subsided we have
+adopted a hybrid workplace. While we encourage employees to come into the office as much as possible, employees are permitted to work
+from home a few days each week 
+
+As of December 31, 2022, we had 55 employees (including
+45 full-time employees) and 7 consultants. There was a total of 13 employees in our general and administrative team, 8 in our sales and
+marketing team, 26 in our engineering team, and 8 in our production team at Pronode Technologies AB. We have employees and/or consultants
+located in the United States, Sweden, United Kingdom, Japan, South Korea and Taiwan. None of our employees are represented by a labor
+union. We have experienced no work stoppages. We believe our employee relations are positive. 
+
+Additional Information 
+
+We are subject to the informational requirements
+of the Securities Exchange Act of 1934, as amended (the Exchange Act and we file or furnish reports, proxy statements,
+and other information with the Securities and Exchange Commission SEC ). The reports and other information filed by us with
+the SEC are available free of charge on the SEC s website at www.sec.gov. 
+
+Our website is www.neonode.com . We make available
+free of charge through our website all of our filings with the SEC, including our annual reports on Form 10-K, quarterly reports on Form
+10-Q, and current reports on Form 8-K as well as Form 3, Form 4, and Form 5 reports for our directors, officers, and principal
+stockholders, together with amendments to those reports filed or furnished pursuant to Sections 13(a), 15(d), or 16 under the Exchange
+Act. These reports are available as soon as reasonably practicable after their electronic filing or furnishing with the SEC. Our website
+also includes corporate governance information, such as our Code of Business Conduct (including a Code of Ethics for the Chief Executive
+Officer and Senior Financial Officers) and our Board of Directors Committee Charters. The information contained on our website
+is not a part of, nor is it incorporated by reference into, this Annual Report. 
+
+6 
+
+ITEM
+1A. RISK FACTORS 
+
+An investment in our common stock involves a
+high degree of risk. Before deciding to purchase, hold, or sell our common stock, you should consider carefully the risks described below
+in addition to the cautionary statements and risks described elsewhere in this Annual Report and in our other filings with the SEC, including
+subsequent reports on Forms 10-Q and 8-K. The risks and uncertainties described below are not the only ones we face. Additional risks
+and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. If any of these
+known or unknown risks or uncertainties actually occur, our business, financial condition, results of operations or cash flows could be
+seriously harmed. This could cause the trading price of our common stock to decline, resulting in a loss of all or part of your investment. 
+
+Risks Related to Our Business 
+
+We have had a history of losses and may require additional capital
+to fund our operations, which may not be available to us on commercially attractive terms or at all. 
+
+We have experienced substantial net losses in each
+fiscal period since our inception. These net losses have resulted from a lack of substantial revenues and the significant costs incurred
+in the development and commercial acceptance of our technologies. Our ability to continue as a going concern is dependent on our ability
+to implement our business plan. If our operations do not become cash flow positive, we may be forced to seek sources of capital to continue
+operations. No assurances can be given that we will be successful in obtaining such additional financing on reasonable terms, or at all.
+If adequate funds are not available when needed on acceptable terms, or at all, we may be unable to adequately fund our business plan,
+which could have a negative effect on our business, results of operations, and financial condition. 
+
+We may, in the short and long-term, seek to raise
+capital through the issuance of equity securities or through other financing sources. To the extent that we raise additional funds by
+issuing equity securities, our stockholders may experience significant dilution. Any debt financing, if available, may include financial
+and other covenants that could restrict our use of the proceeds from such financing or impose other business and financial restrictions
+on us. In addition, we may consider alternative approaches such as licensing, joint venture, or partnership arrangements to provide long-term
+capital. 
+
+We are dependent on a limited number of customers. 
+
+Our license revenues for the year ended December
+31, 2022 were earned from 11 OEM, ODM and Tier 1 customers. We generated NRE revenues from five customers for the year ended December
+31, 2022. During the year ended December 31, 2022, four customers represented approximately 68 of our consolidated net revenues. Our
+customer concentration may change significantly from period-to-period depending on a customer s product cycle and changes in our
+industry. In addition, our customer composition may change as we transition to selling more sensor modules in parallel to our licensing
+business. The response of customers to our sensor products, loss of a major customer, a reduction in net revenues of a major customer
+for any reason, or a failure of a major customer to fulfill its financial or other obligations due to us could have a material adverse
+effect on our business, financial condition, and future revenue stream. 
+
+We rely on the ability of our customers to design, manufacture
+and sell their products that incorporate our touch technology. 
+
+We have historically generated revenue through technology
+licensing agreements with companies that design, manufacture, and sell their own products incorporating our touch technology. The majority
+of our license fees earned in 2022 and 2021 were from customer shipments of printer products and automotive infotainment systems. Although
+we have broadened our business model to selling sensors in addition to licensing our technology, we expect to continue to rely on licensing
+revenue from current and new customers whose products are still in the development cycle. If our customers are not able to design, manufacture
+and sell their products, or are delayed in producing and selling their products, our revenues, profitability, and liquidity, as well as
+our brand image, may be adversely affected. 
+
+7 
+
+The length of a customer s product development and release
+cycle depends on many factors outside of our control and any delays could cause us to incur significant expenses without offsetting revenues,
+or revenues that vary significantly from quarter to quarter. 
+
+The development and release cycle for customer products is lengthy
+and unpredictable. Our customers often undertake significant evaluation and design in the qualification of our products, which contributes
+to a lengthy product release cycle. The typical product development and release cycle is 18 to 36 months. The development and release
+cycle may be longer in some cases, particularly for automotive vehicle products. There is no assurance that a customer will adopt our
+technology after the evaluation or design phase, in which case we would not be entitled to any revenues from the customer moving forward.
+The lengthy and variable development and release cycle for products may also have a negative impact on the timing of our revenues, causing
+our revenues and results of operations to vary significantly from quarter to quarter. 
+
+We and our license customers rely upon component suppliers to
+manufacture and sell products containing our technology and limited availability of components, including as a result of the COVID-19
+pandemic, may adversely affect our and our customers businesses. 
+
+Under our licensing model, OEMs, ODMs and Tier 1
+suppliers manufacture or contract to manufacture products that include Neonode s special Application Specific Integrated Circuits ASICs that incorporate our patented technology. The Neonode ASICs are manufactured by Texas Instruments and ST Microelectronics.
+Texas Instruments manufactures two ASIC components that both we and our license customers buy. As part of their product development process,
+our customers must qualify these components for use in their products, thus making the components difficult to replace. Under our sensor
+model, we use a similar ASIC component supplied by ST Microelectronics in our TSM products. If the components provided by Texas Instruments,
+ST Microelectronics or other suppliers experience quality control or availability problems, our technology may be disqualified by one
+or more of our customers and our supply chain may be disrupted. 
+
+Our dependence on third parties to supply core components that incorporate
+our patented technology exposes us to a number of risks including the risk that these suppliers will not be able to obtain an adequate
+supply of raw materials or components, the risk that these suppliers will not be able to meet our customer requirements, and the risk
+that these suppliers will not be able to remain in business or adjust to market conditions. If we and our customers are unable to obtain
+ASICs that incorporate our patented technology, we may not be able to meet demand, which could have a material adverse effect on our business,
+financial condition, results of operations and cash flows. 
+
+The COVID-19 pandemic has resulted in extended shutdown of businesses
+all over the world causing general delays in the supply of components. We have not suffered from a supply shortage, but it is possible
+that the component shortage has caused delays and/or increased cost of components impacting our customers ability to manufacture
+and sell products on a cost-effective basis. 
+
+It can be difficult for us to verify royalty amounts owed to
+us under licensing agreements, and this may cause us to lose potential revenue. 
+
+Our license agreements typically require our licensees
+to document the sale of licensed products and report this data to us on a quarterly basis. Although our standard license terms give us
+the right to audit books and records of our licensees to verify this information, audits can be expensive, time consuming, incomplete,
+and subject to dispute. From time to time, we audit certain of our licensees to verify independently the accuracy of the information contained
+in their royalty reports in an effort to decrease the likelihood that we will not receive the royalty revenues to which we are entitled
+under the terms of our license agreements, but we can give no assurances that these audits will be effective. 
+
+We have limited experience in manufacturing products and our
+entry into the hardware market may not be successful. 
+
+Our business model has historically focused on licensing
+touch technology. In October 2017, we began to manufacture and sell sensor touch components. There can be no assurance that our hardware
+manufacturing and sales will result in market acceptance or meaningful revenues. The commercial success of our sensor modules will depend
+on customer response and our management s execution. The commercial success of our sensor modules is subject to numerous risks,
+including: 
+
+the quality and reliability of product components that we source from third-party suppliers and incorporate in our sensor modules; 
+
+our ability to secure product components in a timely manner, in sufficient quantities or on commercially reasonable terms; 
+
+our ability to increase production capacity or volumes to meet demand; 
+
+our ability to identify and qualify alternative suppliers for product components in a timely manner; and 
+
+our ability to establish and maintain effective sales channels. 
+
+8 
+
+In addition, if demand for our products increases,
+we will have to invest additional resources to purchase product components, hire and train employees and enhance our manufacturing processes.
+If we fail to increase our production capacity efficiently, our sales may not increase in line with our expectations and our operating
+margins could fluctuate or decline. 
+
+If we fail to develop and introduce new technology successfully,
+and in a cost-effective and timely manner, we will not be able to compete effectively and our ability to generate revenues will suffer . 
+
+We operate in a highly competitive, rapidly evolving
+environment, and our success depends on our ability to develop and introduce new technology that our customers and end users choose to
+buy. If we are unsuccessful at developing new technologies that are appealing to our customers and end users, with acceptable functionality,
+quality, prices, and terms, we will not be able to compete effectively and our ability to generate revenues will suffer. The development
+of new technology is very difficult and requires high levels of innovation and competence. The development process is typically also very
+lengthy and costly. If we fail to anticipate our end users needs or technological trends accurately or if we are unable to complete
+development in a cost effective and timely fashion, we will be unable to introduce new technology into the market or successfully compete
+with other providers. As we introduce new or enhanced technology or integrate new technology into new or existing customer products, we
+face risks including, among other things, disruption in customers ordering patterns, inability to deliver new technology to meet
+customers demand, possible product and technology defects, and potentially unfamiliar sales and support environments. Premature
+announcements or leaks of new products, features, or technologies may exacerbate some of these risks. Our failure to manage the transition
+to newer technology or the integration of newer technology into new or existing customer products could adversely affect our business,
+results of operations, and financial condition. 
+
+Our operating results may fluctuate significantly as a result
+of a variety of factors, many of which are outside of our control. 
+
+As a result of the unpredictability of our customer
+product development and the nature of the markets in which we compete, it is very difficult for us to forecast accurately. We base our
+current and future expense estimates largely on our investment plans and estimates of future needs, although some of our expenses are,
+to a large extent, fixed. We may be unable to adjust spending in a timely manner to compensate for any unexpected revenue shortfall. Accordingly,
+any significant shortfall in revenues relative to our planned expenditures would have an immediate adverse effect on our business, results
+of operations and financial condition. 
+
+In addition, the following factors, among others,
+may negatively affect and cause fluctuations in our operating results: 
+
+the announcement or introduction of new products or technologies by our competitors; 
+
+our ability to upgrade and develop our infrastructure to accommodate growth; 
+
+our ability to attract and retain key personnel in a timely and cost-effective manner; 
+
+technical difficulties; 
+
+the amount and timing of operating costs and capital expenditures relating to the expansion of our business, operations, and infrastructure; 
+
+economic conditions specific to the industries and segments where we are active, for instance printers, automotive, elevators, and interactive kiosks; and 
+
+general economic conditions including as a result of the ongoing COVID-19
+pandemic or future pandemics or epidemics, or geopolitical conflicts such as the ongoing war in Ukraine. 
+
+9 
+
+Further, as a strategic response to changes in the
+competitive environment, we may from time to time make certain pricing, service, or marketing decisions that could have a material and
+adverse effect on our business, results of operations, and financial condition. Due to the foregoing factors, our revenues and operating
+results are and will remain difficult to forecast. 
+
+We must enhance our sales and technology development organizations.
+If we are unable to identify, hire, or retain qualified sales, marketing, and technical personnel, our ability to achieve future revenue
+may be adversely affected. 
+
+We continually monitor and enhance the effectiveness
+and breadth of our sales efforts in order to increase market awareness and sales of our technology, especially as we expand into new market
+areas. Competition for qualified sales personnel is intense, and we may not be able to hire the kind and number of sales personnel we
+are targeting. Likewise, our efforts to improve and refine our technology require skilled engineers and programmers. Competition for professionals
+capable of expanding our research and development efforts is intense due to the limited number of people available with the necessary
+technical skills. If we are unable to identify, hire, or retain qualified sales, marketing, and technical personnel, our ability to achieve
+future revenue may be adversely affected. 
+
+We may make acquisitions and strategic investments that are dilutive
+to existing stockholders, result in unanticipated accounting charges or otherwise adversely affect our results of operations. 
+
+We may decide to grow our business through business
+combinations or other acquisitions of businesses, products or technologies that allow us to complement our existing touch technology offerings,
+expand our market coverage, increase our workforce, or enhance our technological capabilities. If we make any future acquisitions, we
+could issue stock that would dilute our stockholders percentage ownership, or we may incur substantial debt, reduce our cash reserves
+and/or assume contingent liabilities. Further, acquisitions and strategic investments may result in material charges, adverse tax consequences,
+substantial depreciation, deferred compensation charges, in-process research and development charges, and the amortization of amounts
+related to deferred compensation and identifiable purchased intangible assets or impairment of goodwill. Any of these could negatively
+impact our results of operations. 
+
+We are dependent on the services of our key personnel. 
+
+We are highly dependent on our senior management
+team, including Dr. Urban Forssell, our Chief Executive Officer, and Fredrik Nihl n, our Chief Financial Officer. Changes in our
+senior management team or the unplanned loss of the services of either member of our senior management team could have a material adverse
+effect on our operations and future prospects. 
+
+If we are unable to obtain and maintain patent or other intellectual
+property protection for any products we develop or for our technologies, or if the scope of the patents and other intellectual property
+protection obtained is not sufficiently broad, our competitors could develop and commercialize products and technologies similar or identical
+to ours, and our ability to successfully commercialize any products we may develop, and our technologies, may be harmed. 
+
+Our success depends in large part on our proprietary
+technology and other intellectual property rights. We rely on a combination of patents, copyrights, trademarks and trade secrets, confidentiality
+provisions, and licensing arrangements to establish and protect our proprietary rights. Our intellectual property, particularly our patents,
+may not provide us with a significant competitive advantage. If we fail to protect or to enforce our intellectual property rights successfully,
+our competitive position could suffer, which could harm our results of operations. Our pending patent applications for registration may
+not be allowed, or others may challenge the validity or scope of our patents. Even if our patent registrations are issued and maintained,
+these patents may not be of adequate scope or benefit to us or may be held invalid and unenforceable against third parties. We may need
+to expend significant resources to secure and protect our intellectual property. The loss of intellectual property rights may adversely
+impact our ability to generate revenues and expand our business. 
+
+We may not be successful in our strategic efforts around patent
+monetization. 
+
+Our success depends in part on our ability to effectively utilize our
+intellectual property. Our policy is to always try to protect our innovations using patents. Our patent portfolio is an important prerequisite
+for our licensing business and also protects our investments in product development. From time to time, we also explore opportunities
+to monetize our patents per se. As an example of this, on May 6, 2019, we assigned a portfolio of patents to Aequitas Technologies LLC
+to license or otherwise monetize those patents. In the future we may enter into additional alternative patent monetization strategies,
+including the sale of patents. Our patent monetization strategies may negatively impact our financial condition, revenues, and results
+of operations. No assurance can be given that we will enter into agreements related to our patent portfolio or that we will be successful
+in any strategic efforts around patent monetization. 
+
+10 
+
+If third parties infringe upon our intellectual property, we
+may expend significant resources enforcing our rights or suffer competitive injury. 
+
+Existing laws, contractual provisions and remedies
+afford only limited protection for our intellectual property. We may be required to spend significant resources to monitor and police
+our intellectual property rights. Effective policing of the unauthorized use of our technology or intellectual property is difficult and
+litigation may be necessary in the future to enforce our intellectual property rights. Intellectual property litigation is not only expensive,
+but time-consuming, regardless of the merits of any claim, and could divert attention of our management from operating the business. Intellectual
+property lawsuits are subject to inherent uncertainties due to, among other things, the complexity of the technical issues involved, and
+we cannot assure you that we will be successful in asserting our intellectual property rights. Attempts may be made to copy or reverse
+engineer aspects of our technology or to obtain and use information that we regard as proprietary. We may not be able to detect infringement
+and may lose competitive position in the market as a result. In addition, competitors may design around our technology or develop competing
+technologies. We cannot assure you that we will be able to protect our proprietary rights against unauthorized third party copying or
+use. The unauthorized use of our technology or of our proprietary information by competitors could have an adverse effect on our ability
+to sell our technology. 
+
+The laws of certain foreign countries may not provide sufficient
+protection of our intellectual property rights to the same extent as the laws of the United States, which may make it more difficult for
+us to protect our intellectual property. 
+
+As part of our business strategy, we target customers
+and relationships with suppliers and OEMs in countries with large populations and propensities for adopting new technologies. However,
+many of these countries do not address misappropriation of intellectual property nor deter others from developing similar, competing technologies
+or intellectual property. Effective protection of patents, copyrights, trademarks, trade secrets and other intellectual property may be
+unavailable or limited in some foreign countries. In particular, the laws of some foreign countries in which we do business may not protect
+our intellectual property rights to the same extent as the laws of the United States. As a result, we may not be able to effectively prevent
+competitors in these regions from infringing our intellectual property rights, which could reduce our competitive advantage and ability
+to compete in those regions and negatively impact our business. 
+
+We have an international presence in countries and must manage
+currency risks. 
+
+A significant portion of our business is conducted
+in currencies other than the U.S. dollar (the currency in which our consolidated financial statements are reported), primarily the Swedish
+Krona and, to a lesser extent, the Euro, Japanese Yen, Korean Won, and Taiwan dollar. For the year ended December 31, 2022, our revenues
+from Asia, North America and Europe were 49 , 33 , and 18 , respectively. We incur a significant portion of our expenses in Swedish Krona,
+including a significant portion of our research and development expenses and a substantial portion of our general and administrative expenses.
+As a result, appreciation of the value of the Swedish Krona relative to the other currencies, particularly the U.S. dollar, could adversely
+affect operating results. We do not currently undertake hedging transactions to cover our currency exposure, but we may choose to hedge
+a portion of our currency exposure in the future as we deem appropriate. 
+
+Security breaches and other disruptions to our information technology
+infrastructure could interfere with our operations, compromise confidential information, and expose us to liability which could materially
+adversely impact our business and reputation. 
+
+In the normal course of business, we rely on information
+technology networks and systems to process, transmit, and store electronic information, and to manage or support a variety of business
+processes and activities. Additionally, we collect and store certain data, including proprietary business information and customer and
+employee data, and may have access to confidential or personal information in certain of our businesses that is subject to privacy and
+security laws, regulations, and customer-imposed controls. Despite our cybersecurity measures, our information technology networks and
+infrastructure may be vulnerable to damage, disruptions, or shutdowns due to attack by hackers or breaches, employee error or malfeasance,
+power outages, computer viruses, telecommunication or utility failures, systems failures, natural disasters, or other catastrophic events.
+Any such events could result in legal claims or proceedings, liability or penalties under privacy laws, disruption in operations, and
+damage to our reputation, which could materially adversely affect our business. 
+
+11 
+
+Third parties that maintain our confidential and proprietary
+information could experience a cybersecurity incident. 
+
+We rely on third parties to provide or maintain
+some of our information technology and related services. We do not exercise direct control over these systems. Despite the implementation
+of security measures at third party locations, these services are also vulnerable to security breaches or other disruptions. Despite assurances
+from third parties to protect this information and, where we believe appropriate, our monitoring of the protections employed by these
+third parties, there is a risk that the confidentiality of the data held by these third parties on our behalf may be compromised and expose
+us to liability for any security breach or disruption. 
+
+If we are unable to detect material weaknesses in our internal
+control, our financial reporting and our business may be adversely affected. 
+
+Section 404 of the Sarbanes-Oxley Act of 2002 requires
+us to evaluate the effectiveness of our internal controls over financial reporting as of the end of each fiscal year, and to include a
+management report assessing the effectiveness of our internal controls over financial reporting in our annual report on Form 10-K for
+that fiscal year. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that
+the control system s objectives will be met. Further, the design of a control system must reflect the fact that there are resource
+constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control
+systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud involving a company have
+been, or will be, detected. The design of any system of controls is based in part on certain assumptions about the likelihood of future
+events, and we cannot assure you that any design will succeed in achieving its stated goals under all potential future conditions. Over
+time, controls may become ineffective because of changes in conditions or deterioration in the degree of compliance with policies or procedures.
+Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+We cannot assure you that we or our independent registered public accounting firm will not identify a material weakness in our internal
+controls in the future. A material weakness in our internal controls over financial reporting would require management and our independent
+registered public accounting firm to consider our internal controls as ineffective. If our internal controls over financial reporting
+are not considered effective, we may experience a loss of public confidence, which could have an adverse effect on our business and on
+the market price of our common stock. 
+
+Risks Related to Owning Our Stock 
+
+Future sales of our common stock by us or our insiders could
+adversely affect the trading price of our common stock and dilute your investment. 
+
+Our long-term success is dependent on us obtaining
+sufficient capital to fund our operations, develop our touch technology and bring our technology to the worldwide market in order to generate
+sufficient sales volume to be profitable. We may sell securities in the public or private equity markets if and when conditions are favorable,
+even if we do not have an immediate need for additional capital at that time. We may also issue additional common stock in future financing
+transactions or as incentive compensation for our executive management and other key personnel, consultants and advisors. 
+
+Sales of substantial amounts of common stock by
+us or by our insiders or large stockholders, or the perception that such sales could occur, could adversely affect the prevailing market
+price of our common stock and our ability to raise capital. Issuing equity securities would also be dilutive to the equity interests represented
+by our then-outstanding shares of common stock. The market price for our common stock could decrease as the market takes into account
+the dilutive effect of any of these issuances. Furthermore, we may enter into financing transactions at prices that represent a substantial
+discount to the market price of our common stock. A negative reaction by investors and securities analysts to any discounted sale of our
+equity securities could result in a decline in the trading price of our common stock. 
+
+12 
+
+We currently have fewer than 300 stockholders of record
+and, therefore, are eligible to terminate the registration of our common stock under the Exchange Act and cease being a U.S. public company
+with reporting obligations. 
+
+Section 12(g)(4) of the Exchange Act allows for the registration of
+any class of securities to be terminated after a company files a certification with the SEC that the number of holders of record of such
+class of security is fewer than 300 persons. As of February 9, 2023, there were 37 stockholders of record of our common stock.
+This does not include the number of shareholders that hold shares in street name through banks, brokers and other financial
+institutions. Accordingly, we are eligible to deregister our common stock and suspend our reporting obligations under the Exchange
+Act. If we were to terminate our registration and suspend our reporting obligations under the Exchange Act, we would no longer be required
+to comply with U.S. public company disclosure requirements under the Exchange Act, including, but not limited to, annual and quarterly
+report filings, proxy statement filings and filings by insiders to disclose the acquisition and disposition of our securities. 
+
+Our stock price has been volatile, and your investment in our
+common stock could suffer a decline in value. 
+
+There has been significant volatility in the market
+price and trading volume of equity securities, which is unrelated to the financial performance of the companies issuing the securities.
+These broad market fluctuations may negatively affect the market price of our common stock. You may not be able to resell your shares
+at or above the price you pay for those shares due to fluctuations in the market price of our common stock caused by changes in our operating
+performance or prospects, and other factors. 
+
+Some factors that may have a significant effect
+on our common stock market price include: 
+
+actual or anticipated fluctuations in our operating results or future prospects; 
+
+our announcements or our competitors announcements of new technology; 
+
+the public s reaction to our press releases, our other public announcements, and our filings with the SEC; 
+
+strategic actions by us or our competitors, such as acquisitions or restructurings; 
+
+new laws or regulations or new interpretations of existing laws or regulations applicable to our business; 
+
+changes in accounting standards, policies, guidance, interpretations, or principles; 
+
+changes in our growth rates or our competitors growth rates; 
+
+developments regarding our patents or proprietary rights or those of our competitors; 
+
+the public s reaction to news concerning Aequitas Technologies LLC s
+patent litigations against Apple and Samsung; 
+
+our inability to raise additional capital as needed; 
+
+concern as to the efficacy of our technology; 
+
+changes in financial markets or general economic conditions, including as a result of war, terrorism, pandemics or other catastrophes; 
+
+sales of common stock by us or members of our management team; and 
+
+changes in stock market analyst recommendations or earnings estimates regarding our common stock, other comparable companies, or our industry generally. 
+
+A limited number of stockholders, including directors, hold a
+significant number of shares of our outstanding common stock. 
+
+Our two largest stockholders, who both are members
+of our Board of Directors, hold approximately one-fourth of the shares of our outstanding voting stock. This concentration of ownership
+could impact the outcome of stockholder votes, including votes concerning the election of directors, the adoption or amendment of provisions
+in our certificate of incorporation and our bylaws, and the approval of mergers and other significant corporate transactions. These factors
+may also have the effect of delaying or preventing a change in our management or our voting control. 
+
+Our certificate of incorporation and bylaws and the Delaware
+General Corporation Law contain provisions that could delay or prevent a change in control. 
+
+Our Board of Directors has the authority to issue
+up to 1,000,000 shares of preferred stock and to determine the price, rights, preferences and privileges of those shares without any further
+vote or action by the stockholders. The rights of the holders of common stock will be subject to, and may be materially adversely affected
+by, the rights of the holders of any preferred stock that may be issued in the future. The issuance of preferred stock could have the
+effect of making it more difficult for a third party to acquire a majority of our outstanding voting stock. Furthermore, certain other
+provisions of our certificate of incorporation and bylaws may have the effect of delaying or preventing changes in control or management,
+which could adversely affect the market price of our common stock. In addition, we are subject to the provisions of Section 203 of the
+Delaware General Corporation Law, an anti-takeover law. 
+
+13 
+
+If securities analysts do not publish research or if securities
+analysts or other third parties publish inaccurate or unfavorable research about us, the price of our common stock could decline. 
+
+The trading market for our common stock may rely
+in part on the research and reports that securities analysts and other third parties choose to publish about us. We do not control these
+analysts or other third parties. The price of our common stock could be negatively impacted by insufficient analyst coverage or if one
+or more analysts or other third parties publish inaccurate or unfavorable research about us. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM
+2. PROPERTIES 
+
+As of December 31, 2022, we leased office facilities
+of approximately 6,700 square feet for our corporate headquarters in Stockholm. In addition, our subsidiary Pronode Technologies AB leases
+a workshop of approximately 9,000 square feet in Kungsbacka, Sweden. 
+
+We believe our facilities are adequate and suitable
+for our current needs and that suitable additional or alternative space will be available to accommodate our operations if needed. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+We are not a party to any pending legal proceedings.
+From time to time, we may become subject to legal proceedings, claims, and litigation arising in the ordinary course of business, including,
+but not limited to, employee, customer and vendor disputes. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+14 
+
+PART II 
+
+ITEM
+5. MARKET FOR THE REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market Information 
+
+Our common stock is quoted on the Nasdaq Stock Market
+under the symbol NEON. 
+
+Holders 
+
+As of February 8, 2023, there were 37 stockholders
+of record of our common stock. This does not include the number of stockholders that hold shares in street name through
+banks, brokers and other financial institutions. 
+
+Securities Authorized for Issuance Under Equity Compensation Plans 
+
+See Part III, Item 12.
+ Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters for information relating
+to our equity compensation plans. 
+
+Recent Sale of Unregistered Securities and Use of Proceeds 
+
+None. 
+
+Purchases of Equity Securities By the Issuer and Affiliated Purchasers 
+
+None. 
+
+ITEM
+6. [RESERVED] 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion and analysis should be
+read in conjunction with our consolidated financial statements and the related notes thereto included elsewhere in this Annual Report. 
+
+Overview 
+
+Our company provides advanced optical sensing solutions
+for contactless touch, touch, and gesture sensing. We also provide software solutions for machine perception that feature advanced machine
+learning algorithms to detect and track persons and objects in video streams for cameras and other types of imagers. We base our contactless
+touch, touch, and gesture sensing products and solutions using our zForce technology platform and our machine perception solutions on
+our MultiSensing technology platform. We market and sell our solutions to customers in many different markets and segments including,
+but not limited to, office equipment, automotive, industrial automation, medical, military and avionics. 
+
+In 2010, we began licensing to Original Equipment Manufacturers OEMs and Tier 1 suppliers who embed our technology into products they develop, manufacture, and sell. Since 2010, our licensing customers have
+sold approximately 90 million devices that use our technology. In October 2017, we augmented our licensing business and began manufacturing
+and shipping touch sensor modules TSMs that incorporate our patented technology. We sell these TSMs to OEMs, Original
+Design Manufacturers ODMs ), and systems integrators for use in their products. 
+
+As of December 31, 2022 we had 35 valid technology license agreements
+with global OEMs, ODMs and Tier 1 suppliers. As of December 31, 2021, that number was 34. During the year ended December 31, 2022, we
+had 11 customers using our touch technology in products that were being shipped to their customers. The majority of our license fees earned
+in 2022 and 2021 were from customer shipments of printers. 
+
+As of December 31, 2022, we had 10 agreements with value added resellers VARs for integration of our TSMs in the products they offer to global OEMs, ODMs and systems integrators. In addition
+to this, we distribute our TSMs through Digi-Key Corporation, Serial Microelectronics HK Ltd, and Nexty Electronics Corporation. During
+2022, our three distributors sold and shipped 4,834 TSMs and related development kits. 
+
+15 
+
+During 2022 and 2021, we continued to focus our efforts on maintaining
+our current licensing customers and achieving design wins for new products both with current and future customers. We made investments
+enhancing the design and improving the production yield of our TSMs and improving the related firmware and configuration tools software
+platforms. We also made investments to expand our partner networks for sales and distribution of TSMs. We intend to continue expanding
+our TSM product offerings in 2023 and beyond, including new TSM variants and new sensor products for delivery to our key markets. We expect
+that over time the sales of HMI products and Remote Sensing Solutions may constitute the majority of our revenue. 
+
+Critical Accounting Policies and Estimates 
+
+Our consolidated financial statements have been
+prepared in accordance with accounting principles generally accepted in the United States of America U.S. GAAP and include
+the accounts of Neonode Inc. and its wholly owned subsidiaries, as well as Pronode Technologies AB (Sweden), wholly owned subsidiary of
+Neonode Technologies AB, one of our wholly owned subsidiaries. The non-controlling interests are reported below net loss including non-controlling
+interests under the heading Net loss attributable to non-controlling interests in the consolidated statements of operations,
+below comprehensive loss under the heading Comprehensive loss attributable to non-controlling interests in the consolidated
+statements of comprehensive loss, and shown as a separate component of stockholders equity in the consolidated balance sheets.
+See Non-controlling Interests below for further discussion. All inter-company accounts and transactions have been eliminated
+in consolidation. 
+
+The accounting policies affecting our financial
+condition and results of operations are more fully described in Note 2 of our consolidated financial statements. Certain of our accounting
+policies require the application of judgment by management in selecting appropriate assumptions for calculating financial estimates, which
+inherently contain some degree of uncertainty. Management bases its estimates on historical experience and various other assumptions that
+are believed to be reasonable under the circumstances. The historical experience and assumptions form the basis for making judgments about
+the reported carrying values of assets and liabilities and the reported amounts of revenue and expenses that may not be readily apparent
+from other sources. Actual results may differ from these estimates under different assumptions or conditions. We believe the following
+are critical accounting policies and related judgments and estimates used in the preparation of our consolidated financial statements. 
+
+Estimates 
+
+The preparation of financial statements in conformity
+with U.S. GAAP requires making estimates and judgments that affect, at the date of the financial statements, the reported amounts of assets
+and liabilities, disclosure of contingent assets and liabilities and the reported amounts of revenue and expenses. Actual results could
+differ from these estimates and judgments. 
+
+Significant estimates and judgments include, but
+are not limited to: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, the standalone
+selling price of performance obligations, and transaction prices and assessing transfer of control; measuring variable consideration and
+other obligations such as product returns and refunds, and product warranties; provisions for uncollectible receivables; determining the
+net realizable value of inventory; recoverability of long-lived asset; for leases, determining whether a contract contains a lease, allocating
+consideration between lease and non-lease components, determining incremental borrowing rates, and identifying reassessment events, such
+as modifications; the valuation allowance related to our deferred tax assets; and the fair value of options issued for stock-based compensation. 
+
+16 
+
+Revenue Recognition 
+
+We recognize revenue when control of products is
+transferred to our customers, and when services are completed and accepted by our customers; the amount of revenue we recognize reflects
+the consideration we expect to receive for those products or services. Our contracts with customers may include combinations of products
+and services (e.g., a contract that includes products and related engineering services). We structure our contracts such that distinct
+performance obligations, such as product sales or license fees, and related engineering services, are clearly defined in each contract. 
+
+License fees and sales of our AirBars and TSMs
+are on a per-unit basis. Therefore, we generally satisfy performance obligations as units are shipped to our customers. Non-recurring
+engineering service performance obligations are satisfied as work is performed and accepted by our customers. 
+
+We recognize revenue net of allowances for returns
+and any taxes collected from customers, which are subsequently remitted to governmental authorities. We treat all product shipping and
+handling charges (regardless of when they occur) as activities to fulfill the promise to transfer goods. Therefore, we treat all shipping
+and handling charges as expenses. 
+
+License fees 
+
+We earn revenue from licensing our internally developed
+intellectual property IP ). We enter into IP licensing agreements that generally provide licensees the right to incorporate
+our IP components into their products, with terms and conditions that vary by licensee. Fees under these agreements may include license
+fees relating to our IP, and royalties payable to us following the distribution by our licensees of products incorporating the licensed
+technology. The license for our IP has standalone value and can be used by the licensee without maintenance and support. 
+
+For technology license arrangements that do not
+require significant modification or customization of the underlying technology, we recognize technology license revenue when the license
+is made available to the customer and the customer has a right to use that license. At the end of each reporting period, we record unbilled
+license fees, using prior royalty revenue data by customer to make estimates of those royalties. 
+
+Explicit return rights are not offered to customers.
+There have been no returns through December 31, 2022. 
+
+Product sales 
+
+We earn revenue from sales of TSM hardware products
+to our OEM, ODM and Tier 1 supplier customers, who embed our hardware into their products, and from sales of branded consumer products
+that incorporate our TSMs that are sold through distributors or directly to end users. These distributors are generally given business
+terms that allow them to return unsold inventory, receive credits for changes in selling prices, and participate in various cooperative
+marketing programs. Our sales agreements generally provide customers with limited rights of return and warranty provisions. 
+
+The timing of revenue recognition related to AirBar
+modules depends upon how each sale is transacted - either point-of-sale or through distributors. We recognize revenue for AirBar modules
+sold point-of-sale (online sales and other direct sales to customers) when we provide the promised product to the customer. 
+
+Because we use distributors to provide AirBar TSMs
+to our customers, we must analyze the terms of our distributor agreements to determine when control passes from us to our distributors.
+For sales of AirBar and TSMs sold through distributors, we recognize revenues when our distributors obtain control over our products.
+Control passes to our distributors when we have a present right to payment for products sold to the distributors, the distributors have
+legal title to and physical possession of products purchased from us, and the distributors have significant risks and rewards of ownership
+of products purchased. 
+
+Distributors participate in various cooperative
+marketing and other incentive programs, and we maintain estimated accruals and allowances for these programs. If actual credits received
+by distributors under these programs were to deviate significantly from our estimates, which are based on historical experience, our revenue
+could be adversely affected. 
+
+Under U.S. GAAP, companies may make reasonable
+aggregations and approximations of returns data to accurately estimate returns. Our AirBar and TSM returns and warranty experience to
+date has enabled us to make reasonable returns estimates, which are supported by the fact that our product sales involve homogenous transactions.
+The reserve for future sales returns is recorded as a reduction of our accounts receivable and revenue and was 9,000 and 69,000 as of
+December 31, 2022 and 2021, respectively. The warranty reserve is recorded as an accrued expense and cost of sales and was 49,000 and
+ 36,000 as of December 31, 2022 and 2021, respectively. If the actual future returns were to deviate from the historical data on which
+the reserve had been established, our revenue could be adversely affected. 
+
+Non-Recurring Engineering 
+
+For technology license or TSM contracts that require
+modification or customization of the underlying technology to adapt the technology to customer use, we determine whether the technology
+license or TSM, and required engineering consulting services represent separate performance obligations. We perform our analysis on a
+contract-by-contract basis. If there are separate performance obligations, we determine the standalone selling price SSP of each separate performance obligation to properly recognize revenue as each performance obligation is satisfied. We provide engineering
+consulting services to our customers under a signed Statement of Work SOW ). Deliverables and payment terms are specified
+in each SOW. We generally charge an hourly rate for engineering services, and we recognize revenue as engineering services specified in
+contracts are completed and accepted by our customers. Any upfront payments we receive for future non-recurring engineering are recorded
+as unearned revenue until that revenue is earned. 
+
+17 
+
+We believe that recognizing revenue from non-recurring
+engineering as progress towards completion of engineering services and customer acceptance of those services occurs best reflects the
+economics of those transactions, because engineering services as tracked in our systems correspond directly with the value to our customers
+of our performance completed to date. Hours performed for each engineering project are tracked and reflect progress made on each project
+and are charged at a consistent hourly rate. 
+
+Revenues from non-recurring engineering contracts
+that are short-term in nature are recorded when those services are complete and accepted by customers. 
+
+Revenues from non-recurring engineering contracts
+with substantive defined deliverables for which payment terms in the SOW are commensurate with the efforts required to produce such deliverables
+are recognized as they are completed and accepted by customers. 
+
+Estimated losses on all SOW projects are recognized
+in full as soon as they become evident. During the years ended December 31, 2022 and December 31, 2021, we recorded no losses. 
+
+Accounts Receivable and Allowance for Doubtful
+Accounts 
+
+Our accounts receivable is stated at net realizable
+value. Our policy is to maintain allowances for estimated losses resulting from the inability of our customers to make the required payments. 
+
+Inventory 
+
+Our inventory
+consists primarily of components that will be used in the manufacturing of our TSMs. We classify inventory for reporting purposes as raw
+materials, work-in-process, and finished goods. 
+
+Inventory
+is stated at the lower of cost or net realizable value, using the first-in, first-out FIFO valuation method. Net realizable
+value is the estimated selling price in the ordinary course of business, less reasonably predictable costs of completion, disposal, and
+transportation. Any adjustments to reduce the cost of inventories to their net realizable value are recognized in earnings in the current
+period. 
+
+Due to the
+low sell-through of our AirBar products, management has decided to fully reserve work-in-process for AirBar components, as well as AirBar
+related raw materials and finished goods. The AirBar inventory reserve was 0.3 million
+and 0.8 million as of December 31, 2022 and 2021, respectively. 
+
+Management decided to reserve for
+TSM inventory related to a quality issue in production. The TSM inventory reserve was 0.2 million as of December 31, 2021. During
+2022 the affected inventory was scrapped and as of December 31, 2022 the inventory reserve was zero. 
+
+Research and Development 
+
+Research and development R D costs are expensed as incurred. R D costs consist mainly of personnel related costs in addition to some external consultancy costs
+such as testing, certifying and measurements. 
+
+Stock-Based Compensation Expense 
+
+We measure the cost of employee services received
+in exchange for an award of equity instruments, including share options, based on the estimated fair value of the award on the grant date,
+and recognize the value as compensation expense over the period the employee is required to provide services in exchange for the award,
+usually the vesting period, net of estimated forfeitures. 
+
+18 
+
+We account for equity instruments issued to non-employees
+at their estimated fair value. 
+
+When determining stock-based compensation expense
+involving options and warrants, we determine the estimated fair value of options and warrants using the Black-Scholes option pricing model. 
+
+Non-controlling Interests 
+
+We recognize any non-controlling interest, also
+known as a minority interest, as a separate line item in equity in the consolidated financial statements. A non-controlling interest represents
+the portion of equity ownership in a less-than-wholly owned subsidiary not attributable to us. Generally, any interest that represents
+less than 50 of the outstanding voting shares is deemed to be a non-controlling interest; however, there are other factors, such as decision-making
+rights, that are considered as well. We include the amount of net income (loss) attributable to non-controlling interests in consolidated
+net income (loss) on the face of the consolidated statements of operations. 
+
+We provide either in the consolidated statement
+of stockholders equity, if presented, or in the notes to consolidated financial statements, a reconciliation at the beginning and
+the end of the period of the carrying amount of total equity (net assets), equity (net assets) attributable to the parent, and equity
+(net assets) attributable to the non-controlling interest that separately discloses: 
+
+(1) 
+ Net income or loss; 
+
+(2) 
+ Transactions with owners acting in their capacity as owners, showing separately contributions from and distributions to owners; and 
+
+(3) 
+ Each component of other comprehensive income or loss. 
+
+Net Loss per Share 
+
+Net loss per share amounts have been computed based
+on the weighted-average number of shares of common stock outstanding during the years ended December 31, 2022 and 2021. 
+
+Net loss per share, assuming dilution amounts from
+common stock equivalents, is computed based on the weighted-average number of shares of common stock and potential common stock equivalents
+outstanding during the period. The weighted-average number of shares of common stock and potential common stock equivalents used in computing
+the net loss per share for years ended December 31, 2022 and 2021 exclude the potential common stock equivalents, as the effect would
+be anti-dilutive. 
+
+Deferred Revenues 
+
+Deferred revenues consist primarily of prepayments
+for license fees, and other products or services that we have been paid in advance. We earn this revenue when we transfer control of the
+product or service. Deferred revenues may also include upfront payments for consulting services to be performed in the future, such as
+non-recurring engineering services. 
+
+We defer license fees until we have met all accounting
+requirements for revenue recognition, which is when a license is made available to a customer and that customer has a right to use the
+license. Engineering development fee revenues are deferred until engineering services have been completed and accepted by our customers.
+We defer sensor modules revenues until distributors sell the products to their end customers. 
+
+The following table presents our deferred revenues
+by source (in thousands); 
+
+Years ended December 31, 
+
+2022 
+ 2021 
+ 
+ Deferred revenues license fees 
+ 20 
+ 28 
+ 
+ Deferred revenues products 
+ 9 
+ 70 
+ 
+ Deferred non-recurring engineering 
+ 7 
+ 8 
+
+36 
+ 106 
+
+19 
+
+Results of Operations 
+
+A summary of our financial results for the years
+ended December 31, 2022 and 2021 is as follows (in thousands, except percentages): 
+
+2022 
+ 2021 
+ Variance in Dollars 
+ Variance in Percent 
+ 
+ Revenue: 
+
+License fees 
+ 4,470 
+ 4,787 
+ (317 
+ (6.6 
+ 
+ Percentage of revenue 
+ 78.8 
+ 82.0 
+
+Products 
+ 995 
+ 955 
+ 40 
+ 4.2 
+ 
+ Percentage of revenue 
+ 17.5 
+ 16.4 
+
+Non-recurring engineering 
+ 205 
+ 94 
+ 111 
+ 118.1 
+ 
+ Percentage of revenue 
+ 3.6 
+ 1.6 
+
+Total Revenue 
+ 5,670 
+ 5,836 
+ (166 
+ (2.8 
+
+Cost of Sales: 
+
+Products 
+ 776 
+ 922 
+ (146 
+ (15.8 
+ 
+ Percentage of revenue 
+ 13.7 
+ 15.8 
+
+Non-recurring engineering 
+ 28 
+ 33 
+ (5 
+ (15.2 
+ 
+ Percentage of revenue 
+ 0.5 
+ 0.6 
+
+Total Cost of Sales 
+ 804 
+ 955 
+ (151 
+ (15.8 
+
+Total Gross Margin 
+ 4,866 
+ 4,881 
+ (15 
+ (0.3 
+
+Operating Expense: 
+
+Research and development 
+ 3,963 
+ 3,546 
+ 417 
+ 11.8 
+ 
+ Percentage of revenue 
+ 69.9 
+ 60.8 
+
+Sales and marketing 
+ 2,034 
+ 2,839 
+ (805 
+ (28.4 
+ 
+ Percentage of revenue 
+ 35.9 
+ 48.6 
+
+General and administrative 
+ 4,155 
+ 5,603 
+ (1,448 
+ (25.8 
+ 
+ Percentage of revenue 
+ 73.3 
+ 96.0 
+
+Total Operating Expenses 
+ 10,152 
+ 11,988 
+ (1,836 
+ (15.3 
+ 
+ Percentage of revenue 
+ 179.0 
+ 205.4 
+
+Operating Loss 
+ (5,286 
+ (7,107 
+ 1,821 
+ (25.6 
+ 
+ Percentage of revenue 
+ (93.2 
+ (121.8 
+
+Interest income (expense) 
+ 100 
+ (15 
+ 115 
+ (766.7 
+ 
+ Percentage of revenue 
+ 1.8 
+ (0.3 
+
+Other income 
+ 21 
+ - 
+ 21 
+ - 
+ 
+ Percentage of revenue 
+ 0.4 
+ - 
+
+Provision for income taxes 
+ 118 
+ 146 
+ (28 
+ (19.2 
+ 
+ Percentage of revenue 
+ 2.1 
+ 2.5 
+
+Less: net loss attributable to noncontrolling interests 
+ 400 
+ 818 
+ (418 
+ (51.1 
+ 
+ Percentage of revenue 
+ 7.1 
+ 14.0 
+
+Net loss attributable to Neonode Inc. 
+ (4,883 
+ (6,450 
+ 1,567 
+ (24.3 
+ 
+ Percentage of revenue 
+ (86.1 
+ (110.5 
+
+Net loss per share attributable to Neonode Inc. per share 
+ (0.36 
+ (0.54 
+ 0.18 
+ (33.3 
+
+20 
+
+Revenues 
+
+All of our sales for the years ended December 31,
+2022 and 2021 were to customers located in the United States, Europe and Asia. 
+
+The decrease in total gross revenues by 2.8 for
+the year ended December 31, 2022 as compared to 2021 was primarily caused by lower license fees, offset by higher product sales and NRE. 
+
+The following tables present the net revenues distribution
+by geographical area and revenue stream for the years ended December 31, 2022 and 2021 (dollars in thousands): 
+
+2022 
+ 2021 
+
+Amount 
+ Percentage 
+ Amount 
+ Percentage 
+ 
+ AMER 
+
+License fees 
+ 1,812 
+ 98.5 
+ 2,102 
+ 93.6 
+ 
+ Products 
+ 27 
+ 1.5 
+ 144 
+ 6.4 
+ 
+ Non-recurring engineering 
+ - 
+ - 
+ - 
+ - 
+
+1,839 
+ 100.0 
+ 2,246 
+ 100.0 
+
+APAC 
+
+License fees 
+ 2,369 
+ 85.7 
+ 2,394 
+ 77.2 
+ 
+ Products 
+ 348 
+ 12.6 
+ 661 
+ 21.3 
+ 
+ Non-recurring engineering 
+ 46 
+ 1.7 
+ 48 
+ 1.5 
+
+2,763 
+ 100.0 
+ 3,103 
+ 100.0 
+
+EMEA 
+
+License fees 
+ 289 
+ 27.1 
+ 291 
+ 59.8 
+ 
+ Products 
+ 620 
+ 58.0 
+ 150 
+ 30.8 
+ 
+ Non-recurring engineering 
+ 159 
+ 14.9 
+ 46 
+ 9.4 
+
+1,068 
+ 100.0 
+ 487 
+ 100.0 
+
+21 
+
+The following table presents disaggregated revenues
+by revenue stream for the years ended December 31, 2022 and 2021 (dollars in thousands): 
+
+Year ended December 31, 2022 
+ Year ended December 31, 2021 
+
+Amount 
+ Percentage 
+ Amount 
+ Percentage 
+ 
+ Net license revenues from automotive (license fees) 
+ 1,551 
+ 27.4 
+ 1,602 
+ 27.5 
+ 
+ Net license revenues from consumer electronics (license fees) 
+ 2,919 
+ 51.5 
+ 3,185 
+ 54.5 
+ 
+ Net revenues from TSMs (products) 
+ 995 
+ 17.5 
+ 955 
+ 16.4 
+ 
+ Net revenues from non-recurring engineering services 
+ 205 
+ 3.6 
+ 94 
+ 1.6 
+
+5,670 
+ 100.0 
+ 5,836 
+ 100.0 
+
+License fees decreased by 6.6 in 2022 as compared
+to 2021. The decrease is primarily the result of component shortages within the printer and automotive markets related to the COVID-19
+pandemic, which in turn impacted our license revenues for 2022. However, we saw a recovery of license revenues for the second half of
+2022 compared to the same period in 2021. 
+
+Revenues from product sales were 1.0 million,
+the same as for 2021. We saw a recovery for the second half of 2022 compared to same period in 2021, but our product sales continue to
+be negatively impacted by COVID-19 driven lock-downs in Asia. We are also affected by the comparatively long development and launch periods,
+often 12 to 18 months, or longer, for our customers new equipment solutions, which slows our sales growth. 
+
+Revenues from NRE services increased 118.1 in
+2022 as compared to 2021. Revenues from NRE is associated with customer application development projects and typically fluctuates from
+quarter to quarter and year to year and is entirely dependent on specific customer driven development activities. We expect to continue
+to earn NRE fees in 2023 and future years. 
+
+Gross Margin 
+
+Our total gross margin was 85.8 in 2022 compared
+to 83.6 in 2021. Gross margin related to product sales was 22.0 in 2022 compared to 3.5 in 2021. In 2022 and 2021 product sales gross
+margin was impacted by one-time adjustments related to TSMs stock write-downs. 
+
+Our cost of revenues includes the direct cost of
+production of certain customer prototypes, costs of engineering personnel, engineering consultants to complete the engineering design
+contracts and cost of goods sold for sensor modules includes fully burdened manufacturing costs, outsourced final assembly costs, and
+component costs of sensor modules. 
+
+Research and Development 
+
+Product R D expenses for 2022 were 69.9 of
+total revenue compared to 60.8 in 2021. R D in 2022 increased 11.8 compared to 2021 primarily due to higher cost for personnel and
+related costs. The cost was also affected by favorable exchange rate from Swedish Krona to US Dollar. There were 26 employees and zero
+consultants in our R D department as of December 31, 2022 compared to 25 employees and 2 consultants as of December 31, 2021. 
+
+Our R D groups are primarily tasked with developing
+technology and software platforms to support our TSMs and our customer integration activities for both our sensor hardware and license
+agreements. 
+
+Sales and Marketing 
+
+Sales and marketing expenses for 2022 were 35.9 
+of total revenue compared to 48.6 in 2021. Sales and marketing expenses in 2022 decreased 28.4 compared to 2021 primarily due to lower
+cost for personnel and related costs in 2022. The decrease was also result of favorable exchange rate from Swedish Krona to US Dollar.
+We had eight employees and five consultants in our sales and marketing department as of December 31, 2022 compared to eight employees
+and six consultants as of December 31, 2021. There is approximately 8,000 of stock-based compensation expense included in sales and marketing
+expenses for the year ended December 31, 2022 compared to 50,000 for the year ended December 31, 2021. 
+
+Our sales activities focus on OEM, ODM and Tier
+1 customers, directly or through VARs, who license our technology or purchase and embed our touch sensor modules into their products. 
+
+22 
+
+General and Administrative 
+
+General and administrative G A expenses were 73.3 of revenue in 2022 compared to 96.0 in 2021. Total G A expenses in 2022 decreased 25.8 from 2021 and was primarily
+due to lower cost for personnel and related, depreciation and amortization, and professional fees. The decrease was also result of favorable
+exchange rate from Swedish Krona to US Dollar. As of December 31, 2022, we had 13 full-time employees and zero consultants in our G A
+department fulfilling management, IT, HR and accounting responsibilities compared to seven full-time employees and three consultants as
+of December 31, 2021. There is approximately 114,000 of non-cash stock-based compensation included in G A expenses for the year ended
+December 31, 2022 compared to 107,000 for the year ended December 31, 2021. 
+
+Other Income (Expense) 
+
+Other income (expense) for the year ended December
+31, 2022 was 121,000 compared to (15,000) for the year ended December 31, 2021. The other income for 2022 was related to interest income
+earned and gain from recovery of bad debt offset by primarily finance leases. The other expense for 2021 was primarily related to finance
+leases. 
+
+Foreign Currency Translation and Transaction
+Gains and Losses 
+
+The functional currency of our foreign subsidiaries
+is the applicable local currency, the Swedish Krona, the Japanese Yen, the South Korean Won and the Taiwan Dollar. The translation from
+Swedish Krona, Japanese Yen, South Korean Won or the Taiwan Dollar to U.S. Dollars is performed for balance sheet accounts using current
+exchange rates in effect at the balance sheet date and for income statement accounts using a weighted average exchange rate during the
+period. Gains or (losses) resulting from translation are included as a separate component of accumulated other comprehensive income (loss).
+Gains or (losses) resulting from foreign currency transactions are included in general and administrative expenses in the accompanying
+consolidated statements of operations were 35,000 and (66,000) during the years ended December 31, 2022 and 2021, respectively. Foreign
+currency translation gains (losses) were 68,000 and (4,000) during the years ended December 31, 2022 and 2021, respectively 
+
+Income Taxes 
+
+Our effective tax rate was (2) for the year ended
+December 31, 2022 and (2) for the year ended December 31, 2021. We recorded valuation allowances in 2022 and 2021 for deferred tax assets
+related to net operating losses due to the uncertainty of realization. 
+
+Net Loss 
+
+As a result of the factors discussed above, we
+recorded a net loss of 4.9 million for the year ended December 31, 2022, compared to a net loss of 6.5 million for the year ended December
+31, 2021. 
+
+Contractual Obligation 
+
+We previously agreed to secure the value of inventory
+purchased by one of our AirBars manufacturing partners. At December 31, 2021, the guaranteed amount was decreased from 100,000 to 0.
+We do not have any other transactions, arrangements, or other relationships with unconsolidated entities that are reasonably likely to
+affect our liquidity or capital resources other than the operating leases incurred in the normal course of business. 
+
+We have no special purpose or limited purpose entities
+that provide off-balance sheet financing, liquidity, or market or credit risk support. We do not engage in leasing, hedging, research
+and development services, or other relationships that expose us to liability that is not reflected on the face of the consolidated financial
+statements. 
+
+Operating Leases 
+
+We did not renew our lease for the office space
+located at 2880 Zanker Road, San Jose, California 95134 in August 2020 and Neonode Inc. now operates solely through a virtual office in
+California. 
+
+23 
+
+On December 1, 2020, Neonode Technologies AB entered
+into a lease for 6,684 square feet of office space located at Karlav gen 100, Stockholm, Sweden. The lease agreement has been extended
+and is valid through November 2023. It is extended on a yearly basis unless written notice is provided nine months prior to the expiration
+date. 
+
+On December 1, 2015, Pronode Technologies AB entered
+into a lease agreement for 9,040 square feet of workshop located at Faktorv gen 17, Kungsbacka, Sweden. The lease agreement has been
+extended and is valid through September 2024. It is extended on a three-year basis unless written notice is given nine months prior to
+the expiration date. 
+
+On September 1, 2019 we entered into a lease of
+office space located at the NishiShinjuku Takagi Building, 1203 NishiShinjuku, Shinjukuku, Tokyo, Japan. The lease was valid through August
+31, 2021 and was not renewed. We now operate through a virtual office in Japan. 
+
+For the years ended December 31, 2022 and 2021,
+we recorded approximately 577,000 and 661,000, respectively, for rent expense. 
+
+Equipment Subject to
+Finance Leases 
+
+In April 2014, we entered into a lease for certain
+specialized milling equipment. Under the terms of the lease agreement we are obligated to purchase the equipment at the end of the original
+six-year lease term for 10 of the original purchase price of the equipment. In accordance with relevant accounting guidance the lease
+is classified as a finance lease. The lease payments and depreciation period began on July 1, 2014 when the equipment went into service.
+On July 1, 2020 the lease contract was extended for one year. The implicit interest rate of the extended lease period is 9.85 per annum.
+The lease expired July 1, 2021 and we paid the residual value. 
+
+Between the second and fourth quarters of 2016,
+we entered into six leases for component production equipment. Under the terms of five of the lease agreements we are obligated to purchase
+the equipment at the end of the original 3-5 year lease terms for 5-10 of the original purchase price of the equipment. In accordance
+with relevant accounting guidance the leases are classified as finance leases. The lease payments and depreciation periods began between
+June and November 2016 when the equipment went into service. The implicit interest rate of the leases is currently approximately 3 per
+annum. One of the leases is a hire-purchase agreement where the equipment is required to be paid off after five years. In accordance with
+relevant accounting guidance, the lease is classified as a finance lease. The lease payments and depreciation period began on July 1,
+2016 when the equipment went into service. The implicit interest rate of the lease is currently approximately 3 per annum. On April 1,
+2022, one of lease contracts was extended for three years. The implicit interest rate of the extended lease period is 2.7 per annum. 
+
+In 2017, we entered into a lease for component
+production equipment. Under the terms of the lease agreement the lease will be renewed within one year of the end of the original four-year
+lease term. In accordance with relevant accounting guidance, the lease is classified as a finance lease. The lease payments and depreciation
+periods began in May 2017 when the equipment went into service. The implicit interest rate of the lease is currently approximately 1.5 
+per annum. On November 1, 2021 the lease contract was extended for two years. The implicit interest rate of the extended lease period
+is 1.5 per annum. 
+
+In 2018, we entered into a lease for component
+production equipment. Under the terms of the agreement, the lease will be renewed within one year of the original four-year lease term.
+In accordance with relevant accounting guidance, the lease is classified as a finance lease. The lease payments and depreciation periods
+began in August 2018 when the equipment went into service. The implicit interest rate of the lease is currently approximately 1.5 per
+annum. 
+
+In 2021 we terminated one finance lease by purchasing
+the related equipment and extended one finance lease for an additional two years. 
+
+During 2022, we entered into
+a lease for soundproof office pods. Under the terms of the agreement, the lease will be renewed within one year of the original three-year
+lease term. In accordance with relevant accounting guidance the lease is classified as a finance lease. The lease payments and depreciation
+periods began in May 2022 when the equipment went into service. The implicit interest rate of the lease is currently approximately 3.0 
+per annum. 
+
+Non-Recurring Engineering
+Development Costs 
+
+On April 25, 2013, we entered into an Analog Device
+Development Agreement (the NN1002 Agreement with Texas Instruments TI ), with an effective date of December
+6, 2012, pursuant to which TI agreed to integrate our intellectual property into an ASIC. Under the terms of the NN1002 Agreement, we
+agreed to pay TI 500,000 of non-recurring engineering costs at the rate of 0.25 per ASIC for each of the first two million ASICs sold.
+As of December 31, 2022, we had made no payments to TI under the NN1002 Agreement. 
+
+24 
+
+Liquidity and Capital
+Resources 
+
+Our liquidity is dependent on many factors, including
+sales volume, operating profit and the efficiency of asset use and turnover. Our future liquidity will be affected by, among other things: 
+
+licensing of our technology; 
+
+purchases of our TSMs and AirBars; 
+
+operating expenses; 
+
+timing of our OEM customer product shipments; 
+
+timing of payment for our technology licensing agreements; 
+
+gross profit margin; and 
+
+ability to raise additional capital, if necessary. 
+
+As of December 31, 2022, we had cash of 14.8 million,
+as compared to 17.4 million as of December 31, 2021. 
+
+Working capital (current assets less current liabilities)
+was 19.1 million as of December 31, 2022, compared to working capital of 19.1 million as of December 31, 2021. 
+
+Net cash used in operating activities for the year
+ended December 31, 2022 was 6.8 million and was primarily the result of a net loss including noncontrolling interests of approximately
+ 5.3 million. Cash used to fund net losses is offset by approximately 0.6 million in non-cash operating expenses, mainly comprised
+of depreciation, amortization and stock-based compensation. 
+
+Accounts receivable and unbilled revenues increased
+by approximately 136,000 as of December 31, 2022 compared to December 31, 2021. 
+
+Inventory increased by approximately 1,133,000
+as of December 31, 2022 compared to December 31, 2021. 
+
+Accounts payable and accrued expenses decreased
+approximately 460,000 as of December 31, 2022 compared to December 31, 2021. 
+
+Net cash used in operating activities for the year
+ended December 31, 2021 was 7.7 million and was primarily the result of a net loss including noncontrolling interests of approximately
+ 7.3 million. Cash used to fund net losses is offset by approximately 1.3 million in non-cash operating expenses, mainly comprised of
+depreciation, amortization and stock-based compensation. 
+
+25 
+
+Net cash provided by financing activities for the
+year ended December 31, 2022 was 4.5 million and was mainly the result of the issuance of common stock, partly offset by principal payments
+on finance leases. 
+
+Net cash provided by financing activities for the
+year ended December 31, 2021 was 14.6 million and was mainly the result of the issuance of common stock, partly offset by principal payments
+on finance leases. 
+
+For the year ended December 31, 2022, we purchased
+ 52,000 of fixed assets, consisting primarily of office equipment. For the year ended December 31, 2021, we purchased 67,000 of fixed
+assets, consisting primarily of engineering equipment. 
+
+Registered Direct Offering 
+
+On October 21, 2021, we entered into a placement
+agency agreement with Pareto Securities Inc. and Pareto Securities AB pursuant to which we sold to certain Swedish and other European
+investors an aggregate of 1,808,000 shares of our common stock at a price of 7.75 per share in a registered direct offering that closed
+on October 26, 2021 (the Offering ). We received net proceeds of approximately 13.1 million from the Offering after deducting
+placement agent fees and offering expenses. 
+
+At-the-Market Offering
+Program 
+
+On May 10, 2021, we entered into an At Market Issuance
+Sales Agreement (the Sales Agreement with B. Riley Securities, Inc. B. Riley Securities with respect to
+an at the market offering program (the ATM Facility ), under which we may, from time to time, in our sole discretion,
+issue and sell through B. Riley Securities, acting as sales agent, up to 25 million of shares of our common stock. 
+
+Pursuant to the Sale Agreement, we may sell the
+shares through B. Riley Securities by any method permitted that is deemed an at the market offering as defined in Rule 415
+under the Securities Act of 1933, as amended. B. Riley Securities will use commercially reasonable efforts consistent with its normal
+trading and sales practices to sell the shares from time to time, based upon instructions from us (including any price or size limits
+or other customary parameters or conditions we may impose). We will pay B. Riley Securities a commission of 3.0 of the gross sales price
+per share sold under the Sales Agreement. 
+
+We are not obligated to sell any shares under the
+Sale Agreement. The offering of shares pursuant to the Sale Agreement will terminate upon the earlier to occur of (i) the issuance and
+sale, through B. Riley Securities, of all of the shares subject to the Sales Agreement and (ii) termination of the Sale Agreement in accordance
+with its terms. 
+
+During the twelve months ended December 31, 2022, we sold an aggregate
+of 886,065 shares of common stock under the ATM Facility, resulting in net proceeds of approximately 4,686,000 after payment of commissions
+to B. Riley Securities and other expenses of 167,000. 
+
+During the twelve months ended December 31, 2021,
+we sold an aggregate of 235,722 shares of common stock under the ATM Facility, resulting in net proceeds of approximately 1,984,000 after
+payment of commissions to B. Riley Securities and other expenses of 66,000. 
+
+During January 2023, we sold an aggregate of 903,716
+shares of our common stock under the ATM Facility with aggregate net proceeds to us of 7,868,000, after payment of commissions to B.
+Riley Securities and other expenses of 244,000. 
+
+26 
+
+Future Sources of Liquidity 
+
+In the future, we may require sources of capital
+in addition to cash on hand and our ATM Facility to continue operations and to implement our strategy. If our operations do not become
+cash flow positive, we may be forced to seek equity investments or debt arrangements. Historically, we have been able to access the capital
+markets through sales of common stock and warrants to generate liquidity. Our management believes it could raise capital through public
+or private offerings if needed to provide us with sufficient liquidity. 
+
+No assurances can be given, however, that we will
+be successful in obtaining such additional financing on reasonable terms, or at all. If adequate funds are not available on acceptable
+terms, or at all, we may be unable to adequately fund our business plans and it could have a negative effect on our business, results
+of operations and financial condition. In addition, no assurance can be given that stockholders will approve an increase in the number
+of our authorized shares of common stock if needed. The issuance of equity securities or securities convertible into equity could dilute
+the value of shares of our common stock and cause the market price to fall, and the issuance of debt securities could impose restrictive
+covenants that could impair our ability to engage in certain business transactions. 
+
+The functional currency of our foreign subsidiaries
+is the applicable local currency, the Swedish Krona, the Japanese Yen, the South Korean Won and the Taiwan Dollar. They are subject to
+foreign currency exchange rate risk. Any increase or decrease in the exchange rate of the U.S. Dollar compared to the Swedish Krona, Japanese
+Yen, South Korean Won or Taiwan Dollar will impact our future operating results. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not applicable. 
+
+27 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Index to the Consolidated Financial Statements Page Report of Independent Registered Public Accounting Firm (PCAOB ID: F-2 Consolidated Balance Sheets as of December 31, 2022 and 2021 F-4 Consolidated Statements of Operations for the years ended December 31, 2022 and 2021 F-5 Consolidated Statements of Comprehensive Loss for the years ended December 31, 2022 and 2021 F-6 Consolidated Statements of Stockholders Equity for the years ended December 31, 2022 and 2021 F-7 Consolidated Statements of Cash Flows for the years ended December 31, 2022 and 2021 F-8 Notes to the Consolidated Financial Statements F-9 
+
+F- 1 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+Board of Directors and Stockholders 
+
+Neonode Inc. 
+
+Opinion on the Consolidated Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of Neonode
+Inc. (a Delaware corporation) and subsidiaries (the Company as of December 31, 2022 and 2021, the related consolidated
+statements of operations, comprehensive loss, stockholders equity and cash flows for each of the two years in the period ended
+December 31, 2022, and the related notes (collectively referred to as the consolidated financial statements ). In our opinion,
+the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31,
+2022 and 2021, and the results of its operations and its cash flows for each of the two years in the period ended December 31, 2022,
+in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility of
+the Company s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits.
+We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and
+are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules
+and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements
+are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform,
+an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal
+control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s internal
+control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material
+misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those
+risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial
+statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well
+as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis
+for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is a matter arising from
+the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee
+and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on
+the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing
+a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+F- 2 
+
+Accounting for Licensing Revenues 
+
+Critical Audit Matter Description 
+
+As described further in Note 2 to the consolidated financial statements,
+the Company earns revenue from licensing its internally developed intellectual property IP by entering into IP licensing
+agreements that generally provide licensees the right to incorporate IP components in their products, with terms and conditions that
+vary by licensee. Fees under these agreements may include license fees relating to the Company s IP, and royalties payable to the
+Company following the distribution by the licensees of products incorporating the licensed technology. At the end of each reporting period,
+the Company records unbilled license revenues, using prior royalty revenue data by customer to make estimates of those royalties. 
+
+Auditing management s evaluation of unbilled license revenues
+was challenging due to the lack of objectively verifiable evidence used in the estimation process. As a result, there is a high degree
+of auditor judgment involved in performing procedures on the Company s estimates. 
+
+How the Critical Audit Matter Was Addressed
+in the Audit 
+
+The primary procedures we performed to address this critical audit
+matter included assessing the accuracy of royalty estimates made in prior reporting periods as compared to the actual royalties subsequently
+determined for all significant licensing customers and inquiring of management as to the reasons for any significant differences between
+actual and estimated royalties, determining that the Company has had no significant revenue reversals as a result of these past differences,
+and inquiring as to the basis of the current period estimates of royalties, including the Company s considerations of the overall
+economic environment, past royalty experience and the specific circumstances and trends of the license customers royalty-based
+business based on the Company s knowledge of and discussions with customers representatives. 
+
+/s/ 
+
+We have served as the Company s auditor since 2009. 
+
+March 9, 2023 
+
+F- 3 
+
+NEONODE INC. 
+
+CONSOLIDATED BALANCE SHEETS 
+
+(In thousands, except share and per share amounts) 
+
+As of December 31, 2022 
+ As of December 31, 2021 
+ 
+ ASSETS 
+
+Current assets: 
+
+Cash 
+
+Accounts receivable and unbilled revenues, net 
+
+Inventory 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Property and equipment, net 
+
+Operating lease right-of-use assets, net 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued payroll and employee benefits 
+
+Accrued expenses 
+
+Contract liabilities 
+
+Current portion of finance lease obligations 
+
+Current portion of operating lease obligations 
+
+Total current liabilities 
+
+Finance lease obligations, net of current portion 
+
+Operating lease obligations, net of current portion 
+
+Total liabilities 
+
+Commitments and contingencies 
+
+Stockholders equity: 
+
+Common stock, shares authorized, with par value of ; and shares issued and outstanding at December 31, 2022 and 2021, respectively 
+
+Additional paid-in capital 
+
+Accumulated other comprehensive loss 
+
+Accumulated deficit 
+
+Total Neonode Inc. stockholders equity 
+
+Noncontrolling interests 
+ - 
+
+Total stockholders equity 
+
+Total liabilities and stockholders equity 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 4 
+
+NEONODE INC. 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+(In thousands, except per share amounts) 
+
+Years Ended 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ Revenues: 
+
+License fees 
+
+Products 
+
+Non-recurring engineering 
+
+Total revenues 
+
+Cost of revenues: 
+
+Products 
+
+Non-recurring engineering 
+
+Total cost of revenues 
+
+Total gross margin 
+
+Operating expenses: 
+
+Research and development 
+
+Sales and marketing 
+
+General and administrative 
+
+Total operating expenses 
+
+Operating loss 
+
+Other income (expense): 
+
+Interest income (expense), net 
+
+Other income 
+ 
+ -
+
+Total other income (expense) 
+
+Loss before provision for income taxes 
+
+Provision for income taxes 
+
+Net loss including noncontrolling interests 
+
+Less: net loss attributable to noncontrolling interests 
+
+Net loss attributable to Neonode Inc. 
+
+Loss per common share: 
+
+Basic and diluted loss per share
+
+Basic and diluted weighted average number of common shares outstanding
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 5 
+
+NEONODE INC. 
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+
+(In thousands) 
+
+Years Ended 
+
+December 31, 2022 
+ December 31, 2021 
+
+Net loss including noncontrolling interests 
+
+Other comprehensive income (loss): 
+
+Foreign currency translation adjustments 
+
+Comprehensive loss 
+
+Less: Comprehensive loss attributable to noncontrolling interests 
+
+Comprehensive loss attributable to Neonode Inc. 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 6 
+
+NEONODE INC. 
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS 
+EQUITY 
+
+(In thousands) 
+
+Common Stock Shares Issued 
+ Common Stock Amount 
+ Additional Paid-in Capital 
+ Accumulated Other Comprehensive Income (Loss) 
+ Accumulated Deficit 
+ Total Neonode Inc. Stockholders Equity 
+ Noncontrolling Interests 
+ Total Stockholders Equity 
+
+Balances, January 1, 2021 
+
+Issuance of shares for cash, net of offering costs 
+
+-
+ 
+ -
+
+-
+
+Stock-based compensation 
+ 
+ -
+
+-
+ 
+ -
+
+-
+
+Foreign currency translation adjustment 
+ - 
+ -
+ 
+ -
+
+-
+
+-
+
+Net loss 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+Balances, December 31, 2021 
+
+Issuance of shares for cash, net of offering costs 
+ 
+ -
+
+-
+ 
+ -
+
+-
+
+Stock-based compensation 
+ 
+ -
+
+-
+ 
+ -
+
+-
+
+Repurchase and retirement of stock 
+ 
+ - 
+ 
+ - 
+ - 
+ 
+ - 
+
+Acquisition of remaining shares Pronode 
+ - 
+ - 
+ 
+ - 
+ - 
+
+- 
+
+Foreign currency translation adjustment 
+ - 
+ -
+ 
+ -
+
+-
+
+-
+
+Net loss 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+Balances, December 31, 2022 
+
+- 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 7 
+
+NEONODE INC. 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(In thousands) 
+
+Years Ended 
+
+December 31, 2022 
+ December 31, 2021 
+
+Cash flows from operating activities: 
+
+Net loss (including noncontrolling interests) 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Stock-based compensation expense 
+
+Depreciation and amortization 
+
+Amortization of operating lease right-of-use assets 
+
+Recoveries of bad debt 
+ 
+ -
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable and unbilled revenue, net 
+
+Projects in process 
+ -
+ 
+ -
+
+Inventory 
+
+Prepaid expenses and other current assets 
+
+Accounts payable and accrued expenses 
+
+Deferred revenues 
+
+Operating lease obligations 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities: 
+
+Purchase of property and equipment 
+
+Net cash used in investing activities 
+
+Cash flow from financing activities: 
+
+Proceeds from issuance of common stock, net of offering costs 
+
+Repurchase of common stock 
+ 
+ - 
+ 
+ Principal payments on finance lease obligations 
+
+Net cash provided by financing activities 
+
+Effect of exchange rate changes on cash 
+
+Net change in cash 
+
+Cash at beginning of year 
+
+Cash at end of year 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for interest 
+
+Cash paid for income taxes 
+
+Supplemental disclosure of non-cash investing and financial activities: 
+
+Right-of-use asset obtained in exchange for finance lease
+ obligations 
+
+Acquisition of Pronode shares 
+ 
+ - 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 8 
+
+NEONODE INC. 
+
+Notes to the Consolidated Financial Statements 
+
+million
+and million for the years ended December 31, 2022 and 2021, respectively, and had an accumulated deficit of approximately 
+million as of December 31, 2022. In addition, we used cash in operating activities of approximately million and million for
+the years ended December 31, 2022 and 2021, respectively. 
+
+shares of our common stock at a price of per share in a registered direct offering that closed
+on October 26, 2021 (the Offering ). We received net proceeds of approximately million from the Offering after deducting
+placement agent fees and offering expenses. 
+
+million of shares of our common stock. 
+
+of the gross sales price
+per share sold under the Sales Agreement. 
+
+shares of common stock under the ATM Facility, resulting in net proceeds of approximately after payment of commissions
+to B. Riley Securities and other expenses of . 
+
+shares of common stock under the ATM Facility, resulting in net proceeds of approximately 
+after payment of commissions to B. Riley Securities and other expenses of . 
+
+shares of our
+common stock under the ATM Facility with aggregate net proceeds to us of , after payment of commissions to B. Riley Securities
+and other expenses of . 
+
+F- 9 
+
+majority owned subsidiary of
+Neonode Technologies AB, through September 30, 2022. On October 1, 2022, the remaining of Pronode Technologies AB was acquired from
+Propoint AB, located in Gothenburg, Sweden. All inter-company accounts and transactions have been eliminated in consolidation. 
+
+of the voting rights. 
+
+Yen per customer. The Korea Deposit Insurance Corporation provides insurance coverage up to Won per customer.
+The Central Deposit Insurance Corporation in Taiwan provides insurance coverage up to 3,000,000 Taiwan Dollar per customer. At times,
+deposits held with financial institutions may exceed the amount of insurance provided. 
+
+F- 10 
+
+and as of December 31, 2022 and 2021, respectively. 
+
+million and million as of December 31, 2022 and 2021, respectively. 
+
+million as of December 31, 2021. During 2022 the affected inventory was scrapped
+and as of December 31, 2022 the inventory reserve was zero . 
+
+Work-in-process 
+
+Finished goods 
+
+Ending inventory 
+
+F- 11 
+
+years 
+ 
+ Furniture and fixtures 
+ years 
+ 
+ Equipment 
+ years 
+
+and ) during the years ended December 31, 2022 and 2021, respectively.
+Foreign currency translation gains (losses) were and ) during the years ended December 31, 2022 and 2021, respectively. 
+
+of our customers
+represented approximately of our consolidated accounts receivable and unbilled revenues. 
+
+of our customers
+represented approximately of our consolidated accounts receivable and unbilled revenues. 
+
+F- 12 
+
+or more of our
+revenues during the year ended December 31, 2022 are as follows. 
+
+Seiko Epson LG Alpine Electronics 
+
+or more of our
+revenues during the year ended December 31, 2021 are as follows. 
+
+Seiko Epson LG 
+
+, and of its net assets in
+the United States, Europe and Asia, respectively. As of December 31, 2021, the Company maintained approximately , 
+and of its net assets in the United States, Europe and Asia, respectively. 
+
+F- 13 
+
+and as
+of December 31, 2022 and 2021, respectively. The warranty reserve is recorded as an accrued expense and cost of sales and was 
+and as of December 31, 2022 and 2021, respectively. If the actual future returns were to deviate from the historical data on
+which the reserve had been established, our revenue could be adversely affected. 
+
+Net revenues from distributors and other 
+
+APAC 
+
+Net revenues from automotive 
+
+Net revenues from consumer electronics 
+
+Net revenues from distributors and other 
+
+EMEA 
+
+Net revenues from automotive 
+
+Net revenues from medical 
+
+Net revenues from distributors and other 
+
+F- 14 
+
+Contract liabilities (deferred revenues) 
+
+F- 15 
+
+Provisions for warranty issued 
+
+Balance at end of period 
+
+F- 16 
+
+Deferred revenues products 
+
+Deferred non-recurring engineering 
+
+as of December 31, 2022. We expect to recognize of that revenue over the next twelve months. The Company recognized revenues of approximately
+ 24,000 and , for 2022 and 2021, respectively, related to contract liabilities outstanding at the beginning of the year. 
+
+and for the years ended December 31, 2022 and 2021, respectively. 
+
+F- 17 
+
+of the outstanding voting shares is deemed to be a noncontrolling interest; however, there are other factors,
+such as decision-making rights, that are considered as well. We include the amount of net income (loss) attributable to noncontrolling
+interests in consolidated net income (loss) on the face of the consolidated statements of operations. 
+
+F- 18 
+
+Japanese Yen 
+
+South Korean Won 
+
+Taiwan Dollar 
+
+Japanese Yen 
+
+South Korean Won 
+
+Taiwan Dollar 
+
+F- 19 
+
+Prepaid rent 
+
+VAT receivable 
+
+Advances 
+ -
+
+Advances to suppliers 
+ -
+
+Other 
+
+Total prepaid expenses and other current assets 
+
+Equipment 
+
+Less accumulated depreciation and amortization 
+
+Property and equipment, net 
+
+million and million for the years ended December 31, 2022 and 2021, respectively. 
+
+Accrued consulting fees and other 
+
+Total accrued expenses 
+
+F- 20 
+
+shares of common stock, par value
+ per share. 
+
+shares of
+our common stock to key employees pursuant to our 2020 long-term incentive program 2020 LTIP (see Note 8). 
+
+F- 21 
+
+shares
+of our common stock to key employees pursuant to our 2020 long-term incentive program 2020 LTIP (see Note 8). 
+
+shares of our common stock at a price of per share in a registered direct offering that closed
+on October 26, 2021 (the Offering ). We received net proceeds of approximately million from the Offering after deducting
+placement agent fees and offering expenses. 
+
+shares of common stock under the ATM Facility, resulting in net proceeds to us of approximately 
+after payment of commissions to B. Riley and other expenses of . 
+
+shares of common stock under the ATM Facility, resulting in net proceeds of approximately after payment of commissions
+to B. Riley Securities and other expenses of . 
+
+warrants expired and no warrants were exercised. During the year ended December 31, 2021, no warrants expired and no warrants were exercised. 
+
+Expired/forfeited 
+ -
+ 
+ -
+ 
+ -
+
+December 31, 2021 
+
+Issued 
+ -
+ 
+ -
+ 
+ -
+
+Expired/forfeited 
+
+- 
+ 
+ Exercised 
+ -
+ 
+ -
+ 
+ -
+
+December 31, 2022 
+ -
+ 
+ -
+ 
+ -
+
+shares of preferred stock, par value per share. 
+
+F- 22 
+
+shares of common stock have been reserved for awards, including nonqualified stock option grants and restricted
+stock grants to officers, employees, non-employee directors and consultants. The terms of the awards granted under the 2020 Plan are
+set by our compensation committee at its discretion. 
+
+to of future unearned bonuses that may be awarded to them under the Company s annual bonus arrangement in exchange for the
+grant of shares of the Company s common stock. 
+
+shares
+of common stock to key employees pursuant to the 2020 LTIP. The shares were immediately vested but subject to a two-year lock-up period
+after issuance. In the event the participant s employment with Neonode is terminated by the participant during the two-year lock-up
+period, the Company will repurchase the shares at a price equal to of the lower of market value at issuance and termination date.
+Neonode has reported and paid Swedish social charges of for the issued shares but only of the stock-based compensation (totaling) was recognized immediately in the consolidated statement of operations for the year ended December 31, 2020, with the remainder
+to be recognized ratably over the two-year lock-up period. 
+
+shares of
+common stock to a key employee pursuant to the 2020 LTIP. The shares were immediately vested but subject to a two-year lock-up period
+after issuance. In the event the participant s employment with the Company is terminated by the participant during the two-year
+lock-up period, the Company will repurchase the shares at a price equal to of the lower of market value at issuance and the termination
+date. The Company has reported and paid Swedish social charges of for the issued shares but only of the stock-based compensation
+(totaling was recognized immediately in the consolidated statements of operations for the year ended December 31, 2021, with
+the remainder to be recognized ratably over the two-year lock-up period. 
+
+F- 23 
+
+shares
+of common stock to key employees pursuant to the 2020 LTIP. The shares were immediately vested but subject to a two-year lock-up period
+after issuance. In the event the participant s employment with Neonode is terminated by the participant during the two-year lock-up
+period, the Company will repurchase the shares at a price equal to of the lower of market value at issuance and termination date.
+Neonode has reported and paid Swedish social charges of for the issued shares but only of the stock-based compensation (totaling) was recognized immediately in the consolidated statements of operations for the year ended December 31, 2021, with the remainder
+to be recognized ratably over the two-year lock-up period. 
+
+shares of common
+stock to a director pursuant to the 2020 Plan. The shares were immediately vested but subject to a two-year lock-up period after issuance.
+In the event the participant s employment with the Company is terminated by the participant during the two-year lock-up period,
+the Company will repurchase the shares at a price equal to of the lower of market value at issuance and the termination date. The
+Company has reported and paid Swedish social charges of for the issued shares but only of the stock-based compensation (totaling) was recognized immediately in the consolidated statements of operations for the year ended December 31, 2022, with the remainder
+to be recognized ratably over the two-year lock-up period. 
+
+shares
+of common stock from an employee who resigned during the two-year lock up period associated with such shares for , pursuant to
+the terms of the 2020 LTIP. 
+
+and , respectively, of stock-based compensation for the amortization of the LTIP over the respective lock-up periods. 
+
+- 
+
+-
+
+Options granted 
+ -
+ 
+ -
+
+-
+
+Options exercised 
+ -
+ 
+ -
+
+-
+
+Options cancelled or expired 
+
+-
+
+Options outstanding December 31, 2021 
+
+-
+
+Options granted 
+ -
+ 
+ -
+
+-
+
+Options exercised 
+ -
+ 
+ -
+
+-
+
+Options cancelled or expired 
+
+-
+
+Options outstanding and vested December 31, 2022 
+
+-
+
+F- 24 
+
+General and administrative 
+
+Stock-based compensation expense 
+
+, which will be recognized over two years. 
+
+incurred in connection with the Proceeding.
+On November 3, 2021, the Company entered into a settlement agreement with plaintiff s counsel, which was accrued for as of September
+30, 2021. On November 4, 2021, the case was dismissed with prejudice. 
+
+F- 25 
+
+F- 26 
+
+on an annual basis, unless we provide
+written notice nine months prior to the respective expiration dates. 
+
+Finance lease cost: 
+
+Amortization of leased assets 
+
+Interest on lease liabilities 
+
+Total finance lease cost 
+
+and for the years ended December 31, 2022 and 2021. 
+
+Operating cash flows from finance leases 
+
+Financing cash flows from finance leases 
+
+Right-of-use assets obtained in exchange for lease obligations: 
+
+Operating leases 
+ -
+
+Finance leases 
+ 
+ -
+
+F- 27 
+
+Current portion of operating lease obligations 
+
+Operating lease liabilities, net of current portion 
+
+Total operating lease liabilities 
+
+Finance leases 
+
+Property and equipment, at cost 
+
+Accumulated depreciation 
+
+Property and equipment, net 
+
+Current portion of finance lease obligations 
+
+Finance lease liabilities, net of current portion 
+
+Total finance lease liabilities 
+
+years 
+ 
+ Finance leases 
+ years 
+
+Weighted-Average Discount Rate 
+
+Operating leases (2) 
+
+Finance leases 
+
+2024 
+
+Total minimum payments required: 
+
+Less imputed interest 
+
+Total lease liabilities 
+
+Less current portion 
+
+2024 
+
+2025 
+
+Total minimum payments required: 
+
+Less amount representing interest: 
+
+() 
+ 
+ Present value of net minimum lease payments: 
+
+Less current portion 
+
+() 
+
+F- 28 
+
+reportable segment, which
+is comprised of the touch technology licensing and sensor module business. 
+
+Japan 
+
+South Korea 
+
+Switzerland 
+
+Germany 
+
+France 
+
+- 
+ 
+ Sweden 
+
+- 
+ 
+ China 
+
+Other 
+
+Total 
+
+Foreign 
+
+Total 
+
+Change in deferred 
+
+Federal 
+
+Federal valuation allowance 
+
+State 
+ 
+ -
+
+State valuation allowance 
+ 
+ -
+
+Foreign 
+
+Foreign valuation allowance 
+
+Total current 
+
+F- 29 
+
+Foreign losses taxed at different rates 
+
+Stock-based compensation 
+
+GILTI inclusion 
+ 
+ - 
+ 
+ Other 
+
+Total 
+
+Valuation allowance 
+
+Effective tax rate 
+
+Stock compensation 
+
+Net operating losses 
+
+Total deferred tax assets 
+
+Valuation allowance 
+
+Total net deferred tax assets 
+ -
+ 
+ -
+
+million, million and million, respectively. The
+federal loss carryforward begins to expire in 2028, and the California loss carryforward begins to expire in 2030. The foreign loss carryforward,
+which is generated in Sweden, does not expire. 
+
+We are not currently under any federal, state or foreign income tax examinations. 
+
+F- 30 
+
+and of the employee s annual salary to these
+pension plans depending on age and salary level. Contributions relating to these defined contribution plans for the years ended December
+31, 2022 and 2021 were and , respectively. We match U.S. employee contributions to a 401(K) retirement plan up to a maximum
+of six percent of an employee s annual salary. Contributions relating to the matching 401(K) contributions for the years ended
+December 31, 2022 and 2021 were and , respectively. In Taiwan, we contribute six percent of the employee s annual
+salary to a pension fund which agrees with Taiwan s Labor Pension Act. Contributions relating to the Taiwanese pension fund for
+the years ended December 31, 2022 and 2021 were and , respectively. 
+
+Net loss attributable to common shareholders of Neonode Inc. 
+
+Net loss per share basic and diluted
+
+shares of our common stock under the ATM Facility with aggregate net proceeds to us of , after payment of commissions to B.
+Riley Securities and other expenses of 244,000. 
+
+F- 31 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Under the supervision of and with the participation
+of our management, including our Chief Executive Officer and our Chief Financial Officer, we evaluated the effectiveness of our disclosure
+controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of December 31, 2022. Based
+upon that evaluation, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures
+are designed at a reasonable assurance level and are effective as of December 31, 2022 to provide reasonable assurance that information
+we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported
+within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to our
+management, including our Chief Executive Officer and our Chief Financial Officer, as appropriate, to allow timely decisions regarding
+required disclosure. 
+
+In designing and evaluating disclosure controls
+and procedures, our management recognized that any controls and procedures, no matter how well designed and operated, can provide only
+reasonable, not absolute, assurance of achieving the desired control objectives, and management necessarily was required to apply its
+judgment in evaluating the cost-benefit relationship of possible controls and procedures. 
+
+Changes in Internal Control over Financial Reporting 
+
+There were no changes in our internal control over
+financial reporting during the quarter ended December 31, 2022 that have materially affected, or are reasonably likely to materially affect,
+our internal control over financial reporting. 
+
+Management s Annual Report on Internal Control over Financial
+Reporting 
+
+Our management is responsible for establishing
+and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange
+Act. 
+
+A control system, no matter how well designed and
+operated, can provide only reasonable, not absolute, assurance that the control system s objectives will be met. Further, the design
+of a control system must reflect the fact that there are resource constraints. Because of the inherent limitations in all control systems,
+no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within our Company have
+been detected. 
+
+Under the supervision and with the participation
+of our Chief Executive Officer and our Chief Financial Officer, our management assessed the effectiveness of our internal control over
+financial reporting as of December 31, 2022. In making their assessment, our management used criteria established in the framework
+on Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission
+(COSO). Based upon that assessment, our management concluded that our internal control over financial reporting was effective as of December
+31, 2022. 
+
+This report does not include an attestation report
+of our independent registered public accounting firm regarding our internal control over financial reporting in accordance with applicable
+SEC rules that permit us to provide only management s report in this report. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None 
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+Not applicable. 
+
+28 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+The information required by this Item will be included
+in our definitive proxy statement for the 2023 Annual Meeting of Stockholders and is incorporated herein by reference. 
+
+ITEM 11 . EXECUTIVE COMPENSATION 
+
+The information required by this Item will be included
+in our definitive proxy statement for the 2023 Annual Meeting of Stockholders and is incorporated herein by reference. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The information required by this Item will be included
+in our definitive proxy statement for the 2023 Annual Meeting of Stockholders and is incorporated herein by reference. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+The information required by this Item will be included
+in our definitive proxy statement for the 2023 Annual Meeting of Stockholders and is incorporated herein by reference. 
+
+ITEM 14. Principal AccountING Fees and Services 
+
+The information required by this Item will be included
+in our definitive proxy statement for the 2023 Annual Meeting of Stockholders and is incorporated herein by reference. 
+
+29 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+Financial Statements 
+
+The consolidated financial statements of the registrant
+are listed in the index to the consolidated financial statements and filed under Item 8 of this Annual Report. 
+
+Financial Statement Schedules 
+
+Not Applicable. 
+
+30 
+
+Exhibits 
+
+Number 
+ 
+ Description 
+ 
+ 3.1 
+ 
+ Restated Certificate of Incorporation of Neonode Inc., incorporated by reference to Exhibit 3.1 of the registrant s current report on Form 8-K filed on December 11, 2020) 
+ 
+ 3.2 
+ 
+ Amended and Restated Bylaws incorporated by reference to Exhibit 3.1 of the registrant s current report on Form 8-K filed on July 27, 2022 
+ 
+ 4.1 
+ 
+ Description of registrant s Common Stock (incorporated by reference to Exhibit 4.1 to the registrant s Form S-3 (No. 333-255964), filed on May 10, 2021) 
+ 
+ 10.1 
+ 
+ Assignment Agreement with Aequitas Technologies LLC, dated May 6, 2019 incorporated by reference to Exhibit 10.1 of the registrant s current report on Form 8-K filed May 8, 2019 
+ 
+ 10.2 
+ 
+ Form of Purchase Warrant incorporated by reference to Exhibit 4.1 of the registrant s current report on Form 8-K filed on August 16, 2016 
+ 
+ 10.3 
+ 
+ Form of Warrant, dated as of August 8, 2017 (incorporated by reference to Exhibit 4.1 of the registrant s current report on Form 8-K, filed on August 8, 2017) 
+ 
+ 10.4 
+ 
+ Employment Agreement of Urban Forssell, dated October 20, 2019 (incorporated by reference to Exhibit 10.4 of the registrant s annual report on Form 10-K filed on March 10, 2021) + 
+ 
+ 10.5 
+ 
+ Employment Agreement of Fredrik Nihl n, dated March 30, 2021 (incorporated by reference to Exhibit 10.1 of the registrant s current report on Form 8-K, filed on March 31, 2021) + 
+ 
+ 10.6 
+ 
+ Neonode Inc. 2015 Stock Incentive Plan incorporated by reference to Exhibit 10.4 of the registrant s annual report on Form 10-K filed on March 11, 2016 
+ 
+ 10.7 
+ 
+ Form of Notice of Grant of Stock Option used in connection with the 2015 Stock Incentive Plan incorporated by reference to Exhibit 10.5 of the registrant s annual report on Form 10-K filed on March 11, 2016 
+ 
+ 10.8 
+ 
+ Form of Notice of Grant of Restricted Stock used in connection with the 2015 Stock Incentive Plan incorporated by reference to Exhibit 10.6 of the registrant s annual report on Form 10-K filed on March 11, 2016 
+ 
+ 10.9 
+ 
+ Form of Notice of Grant of Restricted Stock Units used in connection with the 2015 Stock Incentive Plan incorporated by reference to Exhibit 10.7 of the registrant s annual report on Form 10-K filed on March 11, 2016 
+ 
+ 10.10 
+ 
+ Form of Notice of Grant of Stock Option to Swedish residents used in connection with the 2015 Stock Incentive Plan incorporated by reference to Exhibit 10.8 of the registrant s annual report on Form 10-K filed on March 11, 2016 
+ 
+ 10.11 
+ 
+ Neonode Inc. 2020 Stock Incentive Plan incorporated by reference to Exhibit 99.1 to the registration statement on Form S-8 (No. 333-249806) filed on November 2, 2020). 
+ 
+ 10.12 
+ 
+ Placement
+ Agency Agreement, dated October 21, 2021, by and among the registrant and Pareto Securities Inc. and Pareto Securities AB (incorporated
+ by reference to Exhibit 10.1 of the registrant's current report on Form 8-K filed on October 21, 2021). 
+
+21 
+ 
+ Subsidiaries of the registrant 
+ 
+ 23.1 
+ 
+ Consent of Independent Registered Public Accounting Firm 
+ 
+ 31.1 
+ 
+ Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act Of 2002 
+ 
+ 31.2 
+ 
+ Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act Of 2002 
+ 
+ 32 
+ 
+ Certifications pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+
++ Management contract or compensatory
+plan or arrangement 
+
+ITEM 16. FORM 10-K SUMMARY 
+
+None. 
+
+31 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d)
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized. 
+
+NEONODE INC. 
+(Registrant) 
+
+Date: March 9, 2023 
+ By: 
+ /s/ Fredrik Nihl n 
+
+Fredrik Nihl n 
+
+Chief Financial Officer 
+
+Pursuant to the requirements for the Securities
+Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacity and dates indicated. 
+
+Name 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Urban Forssell 
+ 
+ President and Chief Executive Officer 
+ 
+ March 9, 2023 
+ 
+ Urban Forssell 
+ 
+ (Principal Executive Officer) 
+
+/s/ Fredrik Nihl n 
+ 
+ Chief Financial Officer 
+ 
+ March 9, 2023 
+ 
+ Fredrik Nihl n 
+ 
+ (Principal Financial and Accounting Officer) 
+
+/s/ Ulf Rosberg 
+ 
+ Chairman of the Board of Directors 
+ 
+ March 9, 2023 
+ 
+ Ulf Rosberg 
+
+/s/ Per L fgren 
+ 
+ Director 
+ 
+ March 9, 2023 
+ 
+ Per L fgren 
+
+/s/ Peter Lindell 
+ 
+ Director 
+ 
+ March 9, 2023 
+ 
+ Peter Lindell 
+
+/s/ Cecilia Edstr m 
+ 
+ Director 
+ 
+ March 9, 2023 
+ 
+ Cecilia Edstr m 
+
+32 
+
+<EX-21>
+ 2
+ f10k2022ex21_neonodeinc.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+Exhibit 21 
+
+SUBSIDIARIES OF THE REGISTRANT 
+
+Name 
+ 
+ Jurisdiction 
+ 
+ Neonode Technologies AB 
+ 
+ Sweden 
+ 
+ Neonode Japan Inc. 
+ 
+ Japan 
+ 
+ Neonode Korea Ltd. 
+ 
+ South Korea 
+
+</EX-21>
+
+<EX-23.1>
+ 3
+ f10k2022ex23-1_neonodeinc.htm
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+We consent to the incorporation by reference in
+Registration Statement Nos. 333-249806, 333-205682, 333-192505, 333-179313, 333-150346 and 333-132713 on Form S-8 and Registration Statement
+Nos. 333-255964, 333-248614, 333-213503, 333-196441, 333-177726, 333-153634, 333-152163 and 333-147425 on Form S-3 of our report dated
+March 9, 2023, relating to the consolidated financial statements of Neonode Inc. and subsidiaries appearing in this Annual Report on Form
+10-K of Neonode Inc. for the year ended December 31, 2022. 
+
+/s/ KMJ Corbin
+ Company LLP 
+
+Irvine, California 
+
+ March 9, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ f10k2022ex31-1_neonodeinc.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+I, Urban Forssell, certify that: 
+
+1. I have reviewed this annual report on
+Form 10-K of Neonode Inc.; 
+
+2. Based on my knowledge, this report does
+not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying
+officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for
+the registrant and have: 
+
+a) Designed such disclosure controls and procedures,
+or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; 
+
+d) Disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying
+officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) All significant deficiencies and material weaknesses
+in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+b) Any fraud, whether or not material, that involves
+management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 9, 2023 
+
+/s/ Urban Forssell 
+
+Urban Forssell 
+
+President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ f10k2022ex31-2_neonodeinc.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+I, Fredrik Nihl n, certify that: 
+
+1. I have reviewed this annual report on
+Form 10-K of Neonode Inc.; 
+
+2. Based on my knowledge, this report does
+not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying
+officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for
+the registrant and have: 
+
+a) Designed such disclosure controls and procedures,
+or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; 
+
+d) Disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying
+officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) All significant deficiencies and material weaknesses
+in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+b) Any fraud, whether or not material, that involves
+management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 9, 2023 
+
+/s/ Fredrik Nihl n 
+
+Fredrik Nihl n 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 6
+ f10k2022ex32_neonodeinc.htm
+ CERTIFICATION
+
+Exhibit 32 
+
+CERTIFICATIONS PURSUANT TO 18 U.S.C. SECTION
+1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+In connection with the annual report of Neonode
+Inc. (the Company on Form 10-K for the fiscal year ended December 31, 2022 as filed with the Securities and Exchange Commission
+(the Report ), the undersigned principal executive officer and principal financial officer of the Company, each hereby certify,
+solely for purposes of 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operation of the Company. 
+
+/s/ Urban Forssell 
+ 
+ /s/ Fredrik Nihl n 
+ 
+ Urban Forssell 
+ 
+ Fredrik Nihl n 
+
+President and Chief Executive Officer 
+ March 9, 2023 
+
+Chief Financial Officer 
+ March 9, 2023 
+
+This certification is not deemed filed with the Securities and Exchange
+Commission and is not to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or
+the Securities Act of 1934, as amended, whether made before or after the date of the Report, irrespective of any general incorporation
+language contained in such filing. 
+
+</EX-32>
+
+<EX-101.SCH>
+ 7
+ neon-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ neon-20221231_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ neon-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ neon-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ neon-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

@@ -1,0 +1,2931 @@
+<Header>
+<FileStats>
+    <FileName>20230727_10-K_edgar_data_39020_0001185185-23-000763.txt</FileName>
+    <GrossFileSize>7435144</GrossFileSize>
+    <NetFileSize>166737</NetFileSize>
+    <NonText_DocumentType_Chars>1308534</NonText_DocumentType_Chars>
+    <HTML_Chars>2528122</HTML_Chars>
+    <XBRL_Chars>1559401</XBRL_Chars>
+    <XML_Chars>1692453</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001185185-23-000763.hdr.sgml : 20230727
+<ACCEPTANCE-DATETIME>20230727171328
+ACCESSION NUMBER:		0001185185-23-000763
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		90
+CONFORMED PERIOD OF REPORT:	20230430
+FILED AS OF DATE:		20230727
+DATE AS OF CHANGE:		20230727
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FREQUENCY ELECTRONICS INC
+		CENTRAL INDEX KEY:			0000039020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				111986657
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08061
+		FILM NUMBER:		231119408
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 CHARLES LINDBERGH BLVD
+		CITY:			MITCHEL FIELD
+		STATE:			NY
+		ZIP:			11553
+		BUSINESS PHONE:		5167944500
+
+	MAIL ADDRESS:	
+		STREET 1:		55 CHARLES LINDBERGH BOULEVARD
+		CITY:			MITCHELL FIELD
+		STATE:			NY
+		ZIP:			11553
+
+</SEC-Header>
+</Header>
+
+ 0001185185-23-000763.txt : 20230727
+
+10-K
+ 1
+ freqelec20230430_10k.htm
+ FORM 10-K
+
+freqelec20230430_10k.htm 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 
+
+(Mark one) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 	 	 
+
+For the Fiscal Year ended , 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 	 	 
+
+For the transition period from to 
+
+Commission File No. 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 	 incorporation or organization) 	 	 	 (I.R.S. Employer Identification No.) 	 	 	 	 	 	 	 	 	 	 	 	 	 ., , 	 	 	 	 	 	 	 	 (Address of principal executive offices) 	 	 	 (Zip Code) 	 	 
+
+Registrant s telephone number, including area code: -794-4500 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 	 	 	 Trading Symbol 	 	 	 Name of each exchange on which registered 	 	 	 	 	 	 	 	 	 	 	 Global Market 	 	 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+
+None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 	 	 	 Accelerated filer 	 	 	 	 	 	 	 	 Smaller Reporting Company 	 	 	 	 	 	 	 	 Emerging growth company 	 	 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+The aggregate market value of voting common equity held by non-affiliates of the registrant as of October 31, 2022 
+
+The number of shares outstanding of registrant s Common Stock, par value 1.00 per share, as of July 17, 2023 
+
+DOCUMENTS INCORPORATED BY REFERENCE: PART III incorporates information by reference from the definitive proxy statement to be filed with the Securities and Exchange Commission with respect to the Annual Meeting of Stockholders to be held on or about October 5, 2023. 
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES 
+
+TABLE OF CONTENTS 
+
+PART I 
+
+Item 1. 
+
+Business 
+
+4 
+
+Item 1A. 
+
+Risk Factors 
+
+10 
+
+Item 1B. 
+
+Unresolved Staff Comments 
+
+16 
+
+Item 2. 
+
+Properties 
+
+16 
+
+Item 3. 
+
+Legal Proceedings 
+
+16 
+
+Item 4. 
+
+Mine Safety Disclosures 
+
+16 
+
+PART II 
+
+Item 5. 
+
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+17 
+
+Item 6. 
+
+[Reserved] 
+
+17 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+17 
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+23 
+
+Item 8. 
+
+Financial Statements and Supplementary Data 
+
+24-49 
+
+Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+50 
+
+Item 9A. 
+
+Controls and Procedures 
+
+50 
+
+Item 9B. 
+
+Other Information 
+
+51 
+
+Item 9C. 
+
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+
+51 
+
+PART III 
+
+Item 10. 
+
+Directors, Executive Officers and Corporate Governance 
+
+52 
+
+Item 11. 
+
+Executive Compensation 
+
+52 
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+52 
+
+Item 13. 
+
+Certain Relationships and Related Transactions, and Director Independence 
+
+52 
+
+Item 14. 
+
+Principal Accountant Fees and Services 
+
+52 
+
+PART IV 
+
+Item 15. 
+
+Exhibits and Financial Statement Schedules 
+
+53 
+
+Item 16. 
+
+Form 10-K Summary 
+
+55 
+
+SIGNATURES 
+
+56 
+
+Table of Contents 
+
+PART I 
+
+Item 1. Business 
+
+GENERAL DISCUSSION 
+
+Frequency Electronics, Inc. (sometimes referred to as Registrant , FEI , Frequency Electronics or the Company is a world leader in precision time and frequency generation technology, which is incorporated into commercial and Government Satellites, Command, Control, Communication, Computer, Intelligence, Surveillance and Reconnaissance C4ISR ), and Electronic Warfare EW systems. Its technology is used for a wide range of space and non-space applications. 
+
+Unless the context indicates otherwise, references to the Registrant or the Company are to Frequency Electronics, Inc. and its subsidiaries. References to FEI are to the parent company alone and do not refer to any of the subsidiaries. Frequency Electronics, a Delaware corporation, has its principal executive office at 55 Charles Lindbergh Boulevard, Mitchel Field, New York 11553. Its telephone number is 516-794-4500 and its website is www.frequencyelectronics.com. 
+
+Frequency Electronics was founded in 1961 as a research and development firm generating proprietary precision time and frequency technology primarily under contracts for end-use by the United States U.S. Government. In the mid-1990 s, the Company evolved into a designer, developer and manufacturer of state-of-the-art products for both commercial and government end-use. The Company s present mission is to be the world leader in providing precision time and low phase noise frequency generation systems, from 1 Hz to 46 GHz for space and other challenging environments. The Company s technology is the key element in enhancing the functionality and performance of many electronic systems. 
+
+MARKETS 
+
+The Company s principal end markets are time and frequency generation and distribution systems for use in satellite payloads and terrestrial secure command control and communications systems. 
+
+For the satellite market, the Company has a unique legacy of providing master timing systems, power converters, and frequency generation, synthesis and distribution systems. These products are applicable for both commercial and U.S. Government end-use. Currently, there are approximately [3,000 U.S. satellites] with varying remaining useful lives operating in Geostationary, Medium and Low Earth Orbits. The number of operational satellites with emphasis on high-throughput is expected to continue to grow over the next ten years as demand for higher bandwidths and improved anti-jam-anti-spoofing increases. Furthermore, the U.S. Government is expected to contract options for additional GPS III satellites, and the Company believes it is well positioned to compete for the onboard clock ensemble with its high-precision digital Rubidium atomic frequency standard. 
+
+For the terrestrial secure command control and communications systems market, the Company s products support multiple C4ISR and EW applications for the U.S. Government on land, sea and air-borne platforms. Recently identified threats to the communication capabilities of U.S. Government facilities through jamming or spoofing global positioning systems GPS signals may be mitigated by the Company s technologies. In addition, similar types of threats to the public and enterprise networks have been identified by the U.S. Department of Homeland Security. The Company s high precision, ruggedized clocks combined with specialized software are essential for certain secure communication systems. 
+
+To address these markets, the Company has several corporate entities which operate under two reportable segments primarily based on the geographic locations of its subsidiaries. The two reportable segments are (1) FEI-NY, which includes the subsidiaries FEI Government Systems, Inc., FEI Communications, Inc., and FEI-Elcom Tech, Inc. FEI-Elcom and (2) FEI-Zyfer, Inc. FEI-Zyfer ). 
+
+Frequency Electronics has made a strategic decision to focus on satellite payloads, C4ISR and EW market segments, because the Company believes these business areas represent significant opportunities for revenue growth. 
+
+1. FEI-NY U.S. Government and commercial satellite electronics, as well as products for the U.S. military and commercial telecom customers, are designed and manufactured at the Company s Long Island, New York headquarters facility. 
+
+FEI-Elcom designs and manufactures Radio Frequency RF microwave modules, devices and subsystems up to 60 GHz including fast switching, ultra-low phase noise synthesizers, up-down converters, receivers, tuners, ceramic resonance oscillators and dielectric resonance oscillators. These instruments and components are mission critical for multiple applications in the EW market, SATCOM communication, surveillance, signal intelligence (COMINT, MASINT and ELINT), threat simulation, electronic attack EA and electronic prevention EP systems. FEI-Elcom s RF microwave technology has also been utilized to develop new products for application in the Company s satellite payload end market. The Company began consolidating FEI-Elcom s manufacturing capabilities into its FEI-NY operations in 2020, in an effort to reduce costs and improve margin. These efforts continue. 
+
+4
+
+Table of Contents 
+
+2. FEI-Zyfer - Precision time references for terrestrial secure communications and command and control, and frequency products that incorporate GPS technology are manufactured by the Company s subsidiary, FEI-Zyfer. FEI-Zyfer s GPS capability complements the Company s existing technologies and permits the combined entities to provide a broader range of embedded systems for a variety of timing functions and anti-spoofing applications. 
+
+For additional information about these reportable segments, see Item 1. Business Reportable Segments and Products below. 
+
+In addition to its subsidiaries, the Company made a strategic investment in and licensed certain technology to Morion, Inc. Morion ), a Russian crystal oscillator manufacturer located in St. Petersburg, Russia. The Company s relationship with Morion, which includes ownership of 4.6 of the outstanding shares of Morion s common stock, permits the Company to secure a cost-effective source for high precision quartz resonators and crystal oscillators. Until April 30, 2022, the Morion investment was accounted for under the cost method. Due to the current Russian-Ukraine conflict and resulting sanctions, the future status of FEI s equity investment in Morion is uncertain. In response to these conditions, in connection with the preparation of the audited financial statements included in the annual report on Form 10-K, for the fiscal year ended April 30, 2022, as amended (the 2022 Form 10-K ), the Company impaired its investment in Morion in full. For more information regarding the Company s investment in Morion, see Note 10 to the Consolidated Financial Statements. 
+
+REPORTABLE SEGMENTS AND PRODUCTS 
+
+The Company operates under two reportable segments, primarily aligned with the geographical locations of its subsidiaries: (1) FEI-NY and (2) FEI-Zyfer. Within each segment the Company designs, develops, manufactures and markets precision time and frequency control products for different markets as described below. The Company s Chief Executive Officer measures segment performance based on total revenues and profits generated by each geographic center rather than on the specific types of customers or end-users. Consequently, the Company determined that the segments indicated above appropriately reflect the way the Company s management views the business. The FEI-NY segment, which operates out of the Company s Long Island, New York headquarters facility, also includes the operations of the Company s wholly-owned subsidiary, FEI-Elcom. FEI-Elcom, in addition to its own product line, provides design and technical support for the FEI-NY segment s business. The products manufactured by the FEI-NY segment are principally marketed to the commercial and U.S. Government satellite markets, to other U.S. Department of Defense DOD customers and to wireless communications network providers. The FEI-Zyfer segment, which operates out of California, designs and manufactures products which incorporate GPS technologies and high-precision clocks designed and manufactured at FEI-NY. FEI-Zyfer sells its products to both commercial and U.S. Government customers and collaborates with FEI-NY on joint product development activities. 
+
+During fiscal years 2023 and 2022, approximately 79 and 85 , respectively, of the Company s consolidated revenues were from products sold by the FEI-NY segment. In fiscal years 2023 and 2022, sales for the FEI-Zyfer segment were 24 and 16 of consolidated revenues. (The sum of annual sales percentages exceeds 100 due to intersegment sales.) 
+
+Consolidated revenues include sales to end-users in countries located outside of the U.S., primarily in Europe and Asia. During fiscal years 2023 and 2022, foreign sales comprised 3 and 2 , respectively, of consolidated revenues. For segment information, see Note 13 to the Consolidated Financial Statements. 
+
+FEI-NY Segment: 
+
+The Company provides precision time, frequency generation and synchronization products and subsystems that are found on-board satellites, in ground-based communication systems and imbedded in mobile platforms operated by the U.S. military. The Company has made a substantial investment in research and development R D to apply its core technologies to satellite payloads, non-space DOD programs and commercial and industrial markets. Revenues from satellite payloads, both for commercial and U.S. Government applications, have become the Company s largest business area while the portion of commercial network infrastructure sales has declined relatively. The Company expects to continue to generate substantial revenues from deployment of new and replacement satellites and other U.S. Government/DOD applications including sales of ruggedized subsystems for mobile U.S. military platforms. 
+
+5
+
+Table of Contents 
+
+Satellite Payloads 
+
+The use of satellites launched for communications, navigation, weather forecasting, video and data transmissions and Internet access has expanded the need to transmit increasing amounts of voice, video, and data to earth-based receivers. This requires more precise timing and frequency control at the satellite. The Company manufactures the master timing systems (quartz, rubidium) and other significant timing and frequency generation products for navigation, communication and intelligence collection satellites, and many of the Company s other space assemblies are used onboard spacecraft for command, control and power distribution. Efficient and reliable DC-DC power converters are also manufactured for the Company s own assemblies and as stand-alone products for space applications. The Company s oven-controlled quartz crystal oscillators are cost-effective precision frequency sources suited for high-end performance required in satellite communications, airborne and terrestrial datalinks and geophysical survey positioning systems. Commercial satellite programs which utilize the Company s space-qualified products include Iridium NEXT Constellation, Intelsat EPIC, O3B, WAAS, MexSat, MSV, ICO, TerreStar, EchoStar, Inmarsat and others. The Company is also pursuing core product opportunities for planned satellite constellations that will operate in low- or mid-earth orbits. 
+
+In the years ahead, the Company expects that the DOD will require more secure communication capabilities, more assets in space and greater bandwidth. The Global Positioning Satellite System, the MILSTAR Satellite System and the AEHF Satellite System are examples of the programs in which the Company has participated or plans to participate - programs which management believes are important to the success of the U.S. Government s communication, intelligence and Precision Navigation and Timing PNT needs. It is likely that the DOD will move to adopt smaller and less expensive satellites for Low Earth Orbit LEO applications, which the Company anticipates will necessitate the adaptation of the Company s products or development of new products to better suit this type of satellite architecture. The Company previously manufactured the master clock for the Trident missile, the basic timing system for the Voyager I and Voyager II deep space exploratory missions and the quartz timing system for the Space Shuttle. The Company s product offerings for U.S. Government satellite programs are similar in design and function to those used on commercial satellites, as described above. 
+
+U.S. Government- Non-space 
+
+In addition to space-based programs, the Company s proprietary products have been used in airborne and ground-based guidance, navigation, communications, radar, sonar and electronic countermeasures and timing systems. The Company has developed and patented a low acceleration-sensitive technology which offers an approximate 100 times improvement in performance under shock, vibration and other environmental effects as compared to devices not so designed. Products are built in accordance with DOD standards and are in use on many of the U.S. Government s important military applications. The Company anticipates that adequate funds will be provided by the U.S. Government to ensure that these programs are sustained. 
+
+FEI-Elcom addresses RF microwave modules and subsystems up to 60 GHz including fast switching, ultra-low phase noise synthesizers, up-down converters, receivers, tuners, ceramic resonance oscillators and dielectric resonance oscillators. These instruments and components are mission critical for many applications in the EW market, including SATCOM communication, surveillance, intelligence collection (SIGINT, COMINT, MASINT, and ELINT) and threat simulation systems. 
+
+The Company s sales on U.S. Government programs for both space and non-space applications are generally made under fixed price or cost-plus contracts either directly with U.S. Government agencies or indirectly through subcontracts intended for U.S. Government end-use. For fixed-price contracts, the price paid to the Company is not subject to adjustment by reason of costs incurred by the Company in the performance of the contract, except for costs incurred due to contract changes ordered by the customer. These contracts are negotiated on terms under which the Company bears the risk of cost overruns and derives the benefit from cost savings. Cost-plus contracts reimburse the Company for the actual costs incurred in performance of the contract requirements. 
+
+As indicated above, many of the programs and platforms for which the Company supplies products and systems, are used by the U.S. Government for maintaining secure communications world-wide, for obtaining vital intelligence and for enabling precision targeting capabilities. It is the belief of management that the future success of the mission of the U.S. military and intelligence community is dependent on successful and timely deployment of these systems. Thus, the Company anticipates that adequate funds will be provided by the U.S. Government to ensure that the programs are completed. However, the Company s experience indicates that programs and/or product sales can be delayed or canceled due to variations associated with periodic U.S. Government appropriations cycles and shifting priorities. If the U.S. Government canceled or delayed, even temporarily, programs and/or purchases involving Company products, the Company s business could suffer a material adverse effect. 
+
+6
+
+Table of Contents 
+
+Negotiations on U.S. Government contracts are sometimes based in part on Certificates of Current Costs. An inaccuracy in such certificates may entitle the U.S. Government to an appropriate recovery. The Company s accounts with respect to these contracts are subject to audit by the Defense Contract Audit Agency DCAA ). The Company s last full incurred cost audit was performed in 2008. The Company is required to submit, for subsequent review, an Incurred Cost Report by October 31, for each year then ended. All such required reports have been filed with no adverse comments to date. 
+
+FEI has a DCAA audited and approved accounting system, which enables the Company to enter into contracts directly with U.S. Government agencies that require government certified accounting systems. 
+
+Government end-use contracts are subject to termination by the purchaser for convenience or default, as well as various other Federal Acquisition Regulations provisions. In the event of a termination for convenience, the Company is entitled to receive compensation as provided under the specific terms of such contracts. There were no end-use contracts terminated for the fiscal year ended April 30, 2023. 
+
+FEI-Zyfer Segment: 
+
+FEI-Zyfer designs, develops and manufactures products which provide PNT, primarily incorporating Global Navigation Satellite System(s) technology. FEI-Zyfer s products make use of both in-the-clear civil and crypto-secured military signals for GPS. FEI-Zyfer s products are integrated into radar systems, airborne SIGINT/COMINT platforms, information networks, test equipment, military command and control terminals, and satellite ground stations. FEI-Zyfer s products are an important extension of FEI s core product line, specifically in secure PNT for Command, Control, Communications, Computers, Combat Systems, Intelligence, Surveillance, and Reconnaissance (C5ISR). Recently identified threats to the communication capabilities of U.S. Government and to the public and enterprise networks through jamming, multi-path or spoofing GPS signals may be mitigated by FEI-Zyfer s technologies and products. High precision, ruggedized clocks combined with specialized software are essential for the security of government communication and systems. More than 86 of FEI-Zyfer s revenues are derived from sales where the end user is the U.S. Government. 
+
+BACKLOG 
+
+As of April 30, 2023, the Company s consolidated backlog amounted to approximately 57 million compared to 40 million, at the end of the prior fiscal year. Approximately 75 of the current backlog is expected to be filled during the Company s fiscal year ending April 30, 2024. As of April 30, 2023, there were no amounts included in backlog under cost-plus fixed-fee contracts that had not been funded. The Company excludes from backlog those contracts or awards for which it has not received authorization to proceed. On fixed price contracts, the Company excludes any unfunded portion. The Company expects any partially funded contracts to become fully funded over time and will add the additional funding to its backlog at that time. The backlog is subject to change for various reasons, including possible cancellation of orders, change orders, change in contract terms and other factors beyond the Company s control. Accordingly, the backlog is not necessarily indicative of the revenues or profits (losses) which may be realized when the results of such contracts are reported. 
+
+CUSTOMERS AND SUPPLIERS 
+
+The Company markets its products both directly and through independent sales representative organizations located in the U.S., Europe and Asia. Sales to non-U.S. end-users totaled approximately 3 and 2 of net revenues in fiscal years 2023 and 2022, respectively. 
+
+The Company s products are sold to both commercial and governmental customers. For the years ended April 30, 2023 and 2022, approximately 95 and 94 , respectively, of the Company s sales were made under contracts to the U.S. Government or subcontracts for U.S. Government end-use. 
+
+During fiscal year 2023, Lockheed Martin Corporation Lockheed Martin ), Northrop Grumman Company Northrop Grumman ), Office of Naval Research and BAE Systems each accounted for more than 10 of the Company s consolidated revenues. 
+
+During fiscal year 2022, Northrop Grumman, Lockheed Martin, and BAE Systems each accounted for more than 10 of the Company s consolidated revenues. 
+
+The loss by the Company of any one of these customers could have a material adverse effect on the Company s business. The Company believes its relationship with these companies is mutually satisfactory. Additionally, the Company is not aware of any prospect for the cancellation or significant reduction of any of its commercial or existing U.S. Government contracts; however, the cancellation or significant reduction of the Company s commercial or existing U.S. Government contracts could also have a material adverse effect of the Company s business. 
+
+7
+
+Table of Contents 
+
+The Company purchases a variety of electrical and other components and materials for use in the manufacture of its products. The Company is not dependent upon any one supplier or source of supply for any of its materials and maintains alternative sources of supply for all of its purchases. The Company has found its suppliers generally reliable and price-competitive; however, recent quotes for various parts and materials reflect significantly increased delivery schedules and price increases. Where supply chain issues have been encountered, the Company has responded by changing the source of supply or redesigning products and replacing unavailable parts and materials with alternates wherever possible. FEI is dependent on a limited number of suppliers for space qualified parts. If these suppliers were unable to deliver in reasonable time frames, then the prompt qualification of alternate suppliers may not be feasible or cost effective. Consequently, the Company could experience delays in delivery of its end products or costs in excess of what was originally quoted. 
+
+RESEARCH AND DEVELOPMENT 
+
+The Company s technological leadership continues to be an essential factor as it pursues future growth in revenues and earnings. The Company has focused its internal R D efforts on improving the core physics and electronic performance in its time and frequency products, conducting research to develop new time and frequency technologies and capabilities, improving product manufacturability by seeking to reduce its production costs through product redesign and process improvements and other measures to take advantage of lower cost components. 
+
+The Company continues to focus a significant portion of its own resources and efforts on developing hardware for satellites (commercial and U.S. Government) and terrestrial commercial communications systems, including wireless and GPS-related systems. During fiscal years 2023 and 2022, the Company expended 3.1 million and 5.0 million of its own funds, respectively, on such R D activity. See Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations. Additionally, the Company receives customer funding for specific R D projects and anticipates additional funding from customers for future R D initiatives. Although funding is obtained from customers, the Company retains the rights to any products developed. During fiscal years 2023 and 2022, some of the Company s development resources were applied to the design-stage of fixed-price satellite payload sub-system programs. For fiscal year 2024, the resources to be allocated to R D will depend on market conditions and identification of new opportunities, as was the case in fiscal year 2023. 
+
+PATENTS AND LICENSES 
+
+The Company believes that its business is generally not dependent on patent or license protection. Rather, it is primarily dependent upon the Company s technical competence, the quality of its products and its prompt and responsible contract performance. However, employees working for the Company assign all rights to inventions to the Company, and the Company presently holds such patents and licenses. In certain limited circumstances, the U.S. Government may use or permit the use by the Company s competitors of certain patents or licenses the government has funded. During fiscal year 2003, the Company received a broad and significant patent for proprietary quartz oscillator technology which the Company has incorporated into its legacy designs, and which it will incorporate into future designs, to exploit in both legacy and new applications. In 2006, the Company obtained a basic patent for its low g-sensitivity technology which management believes will permit greatly enhanced performance of devices on moving platforms and under externally imposed shock or vibration. The Company s current patents run through 2026. 
+
+COMPETITION 
+
+The Company experiences competition in all areas of its business. Many of the Company s competitors are larger, have greater financial resources and have larger R D and marketing staffs. The Company has a strong history of competing successfully in this environment due to the quality, reliability and outstanding record of performance its products have achieved. The Company competes primarily on the basis of the accuracy, performance and reliability of its products, the ability of its products to function under severe conditions, such as in space or in other extremely hostile environments, and the Company s track record of prompt and responsive contract performance and technical competence. The Company has unique and broad capabilities which include quartz and rubidium-based timing references and specialized RF microwave technology. With respect to very high precision products, the Company encounters fewer competitors than it does for lower precision products for which there are a significant number of suppliers. 
+
+The Company s principal competition for space products is the in-house capability of its major customers such as the Boeing Company, Northrop Grumman and Lockheed Martin, as well as a number of other firms capable of providing high-reliability microwave frequency generators. With respect to non-space products, such as systems for precision time for terrestrial secure communication and command and control, and products for multiple applications in the EW market, the Company competes with larger domestic companies such as Microchip Technology Inc. and Mercury Systems. 
+
+8
+
+Table of Contents 
+
+The Company has previously outsourced certain manufacturing processes to third parties and to Russia-based Morion, in which the Company is a minority stockholder. The Company believes its ability to obtain raw materials, manufacture finished products, integrate them into systems and sub-systems and interface these systems with highly sophisticated end-user applications provides a strong competitive edge. 
+
+EMPLOYEES 
+
+Due to the specialized nature of our business, our performance depends on identifying, attracting, developing, motivating, and retaining a highly skilled workforce in multiple areas, including engineering, science, manufacturing, information technology, cybersecurity and business development. The Company develops its workforce using a broad-based recruiting process to select talented individuals and by offering competitive compensation and benefits. 
+
+The Company currently employs 196 employees (187 full-time and 9 part-time), all based in the U.S. No employees are represented by labor unions. Relationships with employees are favorable as reflected in high retention rates and increasing average length of service. Due to low turnover of employees, the average age of the workforce is increasing with time. Depending on growth in total employment and the average age of newly hired employees, replacement of key technical staff may be an issue in the future due to increased retirement. 
+
+Employee health and safety is a top priority. The Company has provided all employees with detailed health and safety literature on COVID-19 and had implemented work from home policies at all locations for a period of time at the beginning of the pandemic for positions that were conducive to work from home in order to minimalize risk to the manufacturing staff that continued to work in the Company s facilities. The Company has since returned to essentially normal operations. 
+
+OTHER ASPECTS 
+
+The Company s business is not seasonal although it expects to experience some fluctuation in revenues during the second fiscal quarter as a result of summer holiday periods. 
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS 
+
+The executive officers hold office until the annual meeting of the Board of Directors following the annual meeting of stockholders, subject to earlier removal by the Board of Directors. 
+
+The names of all executive officers of the Company and all positions and offices with the Company which they presently hold are as follows: 
+
+Thomas McClelland 
+
+- 
+
+President and Chief Executive Officer 
+
+Oleandro Mancini 
+
+- 
+
+Senior Vice President, Business Development 
+
+Steven L. Bernstein 
+
+- 
+
+Chief Financial Officer and Secretary and Treasurer 
+
+Thomas McClelland, age 68, joined the Company as an engineer in 1984 and was elected Vice President, Commercial Products in March 1999. In fiscal year 2011, Dr. McClelland s title was modified to Vice President Advanced Development to describe his expanded role in the Company. In January 2020 Dr. McClelland s title was modified to Senior Vice President and Chief Scientist. On July 8, 2022, Dr. McClelland was appointed the Company s Interim President and Chief Executive Officer, in addition to his existing positions and responsibilities with the Company, following the resignation of the Company s former President and Chief Executive Officer, on July 8, 2022. On January 17, 2023, Dr. McClelland was appointed the Company s President and Chief Executive Officer. 
+
+Oleandro Mancini, age 74, joined the Company in August 2000 as Vice President, Business Development and was promoted to Senior Vice President in 2010. Prior to joining the Company, Mr. Mancini served from 1998 to 2000 as Vice President, Sales and Marketing at Satellite Transmission Systems, Inc. and from 1995 to 1998 as Vice President, Business Development at Cardion, Inc., a Siemens A.G. company. From 1987 to 1995, he held the position of Vice President, Engineering at Cardion, Inc. 
+
+Steven L. Bernstein, age 58, joined the Company in April 2010 as its Controller and was appointed to the position of Chief Financial Officer in April 2016. Effective January 1, 2019, Mr. Bernstein was also appointed as Secretary and Treasurer of the Company, in addition to his role as Chief Financial Officer. Prior to joining the Company, Mr. Bernstein worked in the North America accounting group of Arrow Electronics, a Fortune 500 electronics distributor. 
+
+9
+
+Table of Contents 
+
+Item 1A. Risk Factors 
+
+Risks Related to Business Operations and Our Industry 
+
+We rely heavily on U.S. Government programs for a substantial portion of our business. Accordingly, changes in U.S. Government priorities or delays or reductions in spending by the U.S. Government on such programs could have a material adverse effect on our business, financial position, results of operations and/or cash flows. 
+
+Either as a prime contractor or as a subcontractor, we rely heavily on U.S. Government programs, from which we derived approximately 95 and 94 of our sales in fiscal 2023 and fiscal 2022, respectively. These U.S Government programs may be only partially or incrementally funded and are subject to potential termination, may be subject to funding reductions and/or delays due to changes in government priorities or other factors. Whether direct contracts with the U.S. Government or contracts with prime contractors to the U.S. Government, our contracts typically are funded at a level less than the full contract value and require periodic incremental additional funding in order to continue. Should circumstances change regarding funding and sufficient funding become unavailable, contracts may be terminated, delayed significantly or put on stop work status. 
+
+U.S. Government contracts are subject to congressional funding, which may be unavailable due to changes in priorities or subject to continuing resolution, which may result in funding reductions, eliminations or other effects that could impact our business. Furthermore, budget uncertainty, the risk of future budget cuts, the potential for U.S. Government shutdowns, and the federal debt ceiling could also adversely affect our industry and the funding for our current and future contracts. If appropriations are delayed or a government shutdown was to occur and was to continue for an extended period of time, we could be at risk of program or contract cancellations and other disruptions and nonpayment. Finally, shifting funding priorities or federal budget changes, could also result in reductions in overall spending on our contracts and projects, which could adversely impact our business. Changes in funding priorities could reduce opportunities in existing programs and in future programs where we intend to compete. While we would expect to compete and be well positioned as the incumbent on existing programs, we may not be successful and, even if we are successful, the replacement programs may be funded at lower levels. 
+
+We depend heavily on a small number of larger customers for a substantial portion of our business. The loss of one or more of our largest customers or programs could have a material adverse effect on our business, financial position, results of operations and/or cash flows. 
+
+The Company s products are sold to both commercial and governmental customers. For fiscal 2023 and fiscal 2022, approximately 95 and 94 of the Company s sales, respectively, were made under contracts to the U.S. Government or subcontracts for U.S. Government end-use. As a subcontractor, the Company is reliant on a few large customers that generally hold the ultimate contract with the U.S. Government. During fiscal year 2023, Lockheed Martin, Northrop Grumman, Office of Naval Research and BAE Systems each accounted for more than 10 of the Company s consolidated revenues. These customers typically incorporate our products into larger programs. If these customers encounter technical, financial or other issues unrelated to our products that affect the larger program s operations, the related program may be terminated or require expensive, unanticipated revisions. These issues, although unrelated to our products, could adversely impact us if our customers contracts with the U.S. Government become subject to re-competition or are ultimately cancelled. Additionally, our larger customers are sophisticated corporations with large research and development staffs and budgets. If one or more sought to design and manufacture replacements for our products, they could potentially discontinue their need for our products. Alternatively, our larger customers could look to replace our products with the products of one or more of our competitors. The loss of the U.S. Government or one or more of our other larger customers or programs could adversely affect our business, financial position, results of operations and/or cash flows 
+
+We use estimates when accounting for contracts. Changes in estimated contract revenues and/or changes in costs can affect our profitability and our overall financial position. 
+
+Contract accounting requires significant judgment by the Company s management with respect to estimating contract revenues and costs. Due to the nature and complexity of many of our contracts, the estimation of total revenues and costs at completion is subject to many variables and often difficult to predict accurately. As a result, it has, and could in the future, be possible that the Company s estimates when accounting for contracts may prove to be materially incorrect. 
+
+10
+
+Table of Contents 
+
+The Company s operating income can be adversely affected when estimated contract costs increase. Reasons for increased estimated contract costs include: design issues; changes in estimates of the nature and complexity of the work, including technical or quality issues or requests for additional work; production challenges, including those resulting from the timeliness of customer funding, unavailability or reduced productivity of qualified labor; the availability, performance, and quality of significant subcontractors; supplier issues, including the costs, timeliness and availability of materials and components; changes in laws or regulations; actions necessary for long-term customer satisfaction; and natural disasters or other matters. We have filed, and may file, requests for equitable adjustment or claims to seek recovery in whole or in part for our increased costs and aim to protect against these risks through contract terms and conditions when practical, but the prime contractor or the U.S. Government may disagree with our requests or may not have funding to cover them. 
+
+Due to their nature, fixed price contracts inherently tend to have more financial risk than cost-type contracts, including as a result of inflationary pressures, labor shortages, and increased labor rates. In fiscal 2023, 81 of our sales were derived from fixed-price contracts. While the Company s management uses its best judgment to estimate costs associated with fixed-price contracts, future events may require adjustments, which could ultimately adversely affect the Company s operating income. 
+
+Under cost-type contracts, allowable costs incurred by the contractor are generally subject to reimbursement plus a fee. These cost-type programs typically have award or incentive fees that are uncertain and may be earned over extended periods or towards the end of the contract. In these cases, the associated financial risks are primarily in recognizing profit, which ultimately may not be earned, or program cancellation if cost, schedule, or technical performance issues arise. 
+
+Changes in underlying assumptions, circumstances or estimates, and the failure to prevail on related claims for equitable adjustments could have a material adverse effect on our business, financial position, results of operations and/or cash flows. 
+
+We face substantial competition in our industry, and if we fail to win future business or experience undue pricing pressures as a result of such competition, our business, financial position, results of operations and/or cash flows could be adversely affected. 
+
+We operate in a highly competitive industry focused on very high-performance products. Many of our competitors are larger, have greater financial resources and have larger research and development and marketing staffs. While we also maintain a robust internal research and development program that is intended to maintain our technical edge, the Company is limited in its resources and ultimately may not be able to successfully compete. Technology is advancing rapidly, and if we are unable to respond effectively to competition, we may lose existing customers, fail to win future business or experience undue pricing pressures that could affect our financial performance. Certain of our current technologies may become subject to significant future advancements, which may make our products obsolete or non-competitive. Competitors may be able to develop new manufacturing technologies that afford them cost and/or schedule advantages compared to our products. Customers may elect a less expensive product, even where it offers lower performance, in cases where that performance difference becomes less, compared to our current products. Specifically, the emergence of numerous LEO commercial satellite systems that have significantly lower requirements for life in orbit may result in new products based on commercial parts and processes not required for the high performance and/or longer lived geo-synchronous orbit (GEO) satellites for which the Company has typically developed products. This may result in a migration to less capable, but less expensive products compared to what the Company has traditionally produced. This may result in reduced market share, lower revenues and impact our business operations and financial conditions. Additionally, competitors may have the benefit of other contracts that enable them to produce in volume with a concomitant cost advantage that affords them a price advantage. Many of our customers have in-house capability to develop products comparable to ours and may opt to do so. Accordingly, if we are unable to continue to compete successfully against our current or future competitors, we may experience declines in future revenues and market share, which could have a material adverse effect on our financial position, results of operations and/or cash flows. 
+
+Our products, which are often incorporated into larger systems, are technologically complex and require state-of-the-art technology and manufacturing expertise. Any defect in the design, materials or workmanship with respect to our product could result in system failure. 
+
+Our products are technologically complex and require state-of-the-art technology and manufacturing expertise. If a defect in design, materials or workmanship is not identified prior to delivery, the defect can result in product failure and potentially the loss of mission capability for the systems into which our products are integrated. Costly satellites cannot be recovered from orbit to repair failed sub-systems, therefore failure of a Company product incorporated into a satellite may result in the complete loss of the satellite with a significant impact to the Company s reputation and future business prospects. Penalties and possible litigation may result from these types of problems, with potential significant impact to our financial position, results of operations and/or cash flows. 
+
+11
+
+Table of Contents 
+
+We are dependent on numerous suppliers for various parts, materials, test services, facility operations and infrastructure. If these suppliers fail to perform or we are unable to procure or experience significant delays with respect to needed products, materials or services, our financial position, results of operations and/or cash flows could be materially adversely affected. 
+
+We are dependent on numerous suppliers for various parts, materials, test services, facility operations and infrastructure who may, in turn, be affected by factors such as raw material availability, skilled personnel shortages, pandemics, major weather events or natural disasters and other impacts that affect their ability to provide the goods and services we require. Disruptions or performance problems caused by our suppliers or failure to meet regulatory or contractual requirements, have had, and may continue to have, various adverse impacts on the Company, including our ability to meet our commitments to customers. The inability of our suppliers to perform adequately has resulted in and could in the future result in the need for us to transition to alternate suppliers if available, which could result in significant incremental cost and delay or the need for us to provide other resources to support our existing suppliers. The Company is reliant on suppliers who are space-qualified, limiting the ability to procure certain key materials, such as circuit boards, from other vendors. When these key suppliers experience quality issues, their products may have to be rejected, causing delays in our ability to complete projects on schedule and at projected costs. The time and cost associated with resolution of these issues may impact our financial performance. Consolidation of the industry can result in elimination of suppliers or discontinuation of certain product lines upon which we are reliant, necessitating lifetime buys of components or the need to redesign electronics to incorporate different components, having a negative effect on our financial position, results of operations and/or cash flows. Furthermore, latent supply chain quality issues may affect our product performance and reliability, which may damage our reputation and impact future business. 
+
+The success of our business and financial performance is dependent on our ability to identify, attract, train and retain a highly skilled workforce. 
+
+We rely on very unique skill sets in our employee population. Our average employee tenure is approximately 15 years and the median age is approximately 53. Our products rely on very experienced engineers, physicists and manufacturing personnel who are trained in-house and who acquire competence only after a lengthy period of time. Given the median age of our average employee, we anticipate that a number of our key personnel will retire in the coming years. If we are unable to attract, train and retain competent and skilled replacement employees, our ability to design, develop and manufacture our products will be adversely affected. Furthermore, our operating performance is also dependent upon personnel who hold security clearances and receive substantial training to work on certain programs or tasks. If we were to experience an unanticipated attrition with respect to these employees, it will be difficult for us to replace them on a timely basis. 
+
+Adverse changes in global economic or geopolitical conditions may adversely affect business operations and financial condition. 
+
+Global economic and geopolitical conditions may adversely affect our business operations and financial condition. Turmoil in world financial markets may impact our supply chain resulting in unavailability of key components and materials increasing costs due to delays, need to redesign certain electronics in order to mitigate shortages or schedule impacts and costs to establish alternate qualified suppliers. These impacts may affect our business due to customer cancellations, reduced demand for our products and increased costs, which impact our financial condition. We are also subject to inflation and recessionary pressures. The current inflationary environment has and may continue to increase our cost of labor as well as our other operating costs. Likewise, deteriorating economic conditions could reduce the demand for our products, which could adversely affect our business operations and financial condition. 
+
+We face various risks related to health epidemics, pandemics and similar outbreaks, which may have material adverse effects on our business, financial position, results of operations and/or cash flows. 
+
+Health epidemics, pandemics and similar outbreaks, such as COVID-19, create substantial risk to the Company. Employees work in close proximity to one another. When an employee is positive for COVID-19 or suspected of being infected, other employees he or she has come in contact with may also be infected, with a cascading effect on the workforce. In addition to the time off to recover (or pass the CDC guideline isolation period), there is a need to clean and disinfect the areas where the employee was working and had frequented in the facility. The nature of the Company s business requires mostly hands-on activities related to design, manufacturing and testing. Therefore, absenteeism resulting from infectious diseases and cleaning procedures to disinfect various areas of our facilities can have a significant impact on a contract s schedule, with a corresponding impact to costs. The Company is not able to predict possible future pandemics, but if they manifest, they could have significant adverse effects on our business, financial position, results of operations and/or cash flows. 
+
+12
+
+Table of Contents 
+
+Our business could be adversely impacted by various external disruptions. 
+
+A natural disaster, terrorism, insider threat, workplace violence, civil unrest, damaging weather, fire, act of war, or similar acts or events could limit our access to our facilities or cause interruption in the supply of electricity, natural gas, or water or preclude delivery of various supplies or limit the movement of our workforce, which may have a significant adverse impact to our operations and financial performance. The nature of our business requires mostly hands-on activities at our facilities to design and manufacture our products. Additionally, our products undergo lengthy testing, and interruption of these tests for any reason can cause damage to the product and/or necessitate the need to repeat test cycles, with adverse cost and schedule impacts. Catastrophic effects that result in intrusion of damaging water or other contaminants may cause damage to sensitive capital equipment, inventory or facilities that could be material. Our ability to recover from these catastrophes may be limited. As a result, such disruptions could adversely impact our financial position, results of operations and/or cash flows. 
+
+Risks Related to Legal, Regulatory and Compliance Matters 
+
+Our failure to comply with laws, regulations and/or terms we are subject to could adversely affect our business. 
+
+We operate in a highly regulated industry and are routinely audited and reviewed by the U.S. Government and its agencies. These agencies review performance under our contracts, our cost structure and accounting, and our compliance with applicable laws, regulations, terms and standards, as well as the adequacy of our systems in meeting government requirements. If an audit uncovers improper or illegal activities, we would be subject to possible civil and criminal penalties, sanctions, forfeiture of profits or suspension or debarment. Most of our contracts are subject to Federal Acquisition Regulations (FARs) or Defense Federal Acquisition Regulation Supplement (DFARS). Violation of any of these regulations can result in significant consequences, including fines, disbarments, or other punitive measures by the U.S. Government. Additionally, the Company has defense department security clearance that is required for performance on several contracts. Failure to maintain compliant security procedures may result in suspension of our security clearance and inability to perform on current contracts, as well as limit our ability to be awarded future contracts. The Company is also subject to export control requirements, anti-boycott regulations and Office of Foreign Assets Control (OFAC) sanctions against business dealings with certain persons and entities, including its investment in Morion, Inc., a less than wholly-owned subsidiary of state-owned Russian bank Gazprombank. Violation of any of these requirements may have a material adverse effect on our financial position, results of operations and/or cash flows. 
+
+We are subject to various investigations, claims, disputes, enforcement actions, litigation, and other legal proceedings that could ultimately be resolved against us. 
+
+We have and may in the future become subject to investigations, claims, disputes, enforcement actions and administrative, civil or criminal litigation, arbitration or other legal proceedings across a broad array of matters, including government contracts, commercial transactions, false claims, false statements, compliance with government orders, mischarging, contract performance, fraud, procurement integrity, securities laws and requirements, products liability, warranties, hazardous materials, personal injury claims, environmental, stockholder derivative actions, acquisitions and divestitures, intellectual property, tax, corporate law and obligations, employment, export/import, anti-corruption, debt and equity, labor, health and safety, the COVID-19 pandemic and the Company s response to it, accidents, and employee benefits and plans, including plan administration, improper payments, and issues related to privacy and security (cyber and physical). These matters can divert financial and management resources; result in administrative, civil or criminal fines, penalties or other sanctions (including judgments, convictions, consent or other voluntary decrees or agreements), compensatory, treble or other damages, non-monetary relief, or other liabilities; and otherwise harm our business and our ability to obtain and retain new business. Certain allegations against us can lead to suspension or debarment from government contracts. A suspension or debarment could have a material adverse effect on the Company because of our reliance on U.S. Government contracts. Additionally, an investigation, claim, dispute, enforcement action or litigation, even if pending or not ultimately substantiated or if fully indemnified or insured, can also negatively impact our reputation among our customers, and make it substantially more difficult for us to compete effectively for business in the future. Accordingly, investigations, claims, disputes, enforcement actions, litigation or other legal proceedings could have a material adverse effect on our financial position, results of operations and/or cash flows. 
+
+13
+
+Table of Contents 
+
+The Company s failure to establish and maintain effective internal control over financial reporting resulted in a material misstatement of the audited consolidated financial statements in the Form 10-K for the fiscal year ended April 30, 2022 (the 2022 Form 10-K ). Although we have remediated the material weakness, we cannot assure you that other material weaknesses in internal control over financial reporting will not occur in the future. An ineffective control environment and could result in material misstatements in future consolidated financial statements. Additionally, the Company s failure to establish and maintain effective internal control over financial reporting could result in the Company s failure to meet its reporting and financial obligations, which in turn could have a negative impact on its financial condition. 
+
+Maintaining effective internal control over financial reporting is necessary for us to produce reliable financial statements. In the course of preparing the condensed consolidated financial statements for the second quarter of fiscal 2023, ended October 31, 2022, the Company identified revisions related to the calculations, and errors related to the presentation of contract assets and contract liabilities in the 2022 Form 10-K. Following the identification of these prior errors and revisions, management re-evaluated the Company s internal control over financial reporting as of April 30, 2022 and as of July 31, 2022 and identified certain deficiencies, which the Company concluded constituted material weaknesses in the Company s internal control over financial reporting as of April 30, 2022 and for the three months ended July 31, 2022. 
+
+Under standards established by the Public Company Accounting Oversight Board (United States) PCAOB ), a material weakness is defined as a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis. A material weakness in the design of monitoring controls indicates that the Company has not sufficiently developed and/or documented internal controls by which management can review and oversee the Company s financial information to detect and correct material errors or that the personnel responsible for performing the review did not have the sufficient skill set or knowledge of the subject matter to perform a proper assessment. 
+
+As a result of the material weaknesses, the Company s management concluded that the audited consolidated financial statements included in the 2022 Form 10-K were materially misstated. Accordingly, the Company filed the amendment to its 2022 Form 10-K in order to correct the audited consolidated financial statements for the fiscal year ended April 30, 2022. 
+
+The material weaknesses were due to revisions related to the calculations, and errors related to the presentation of contract assets and contract liabilities. In response, the Company implemented the following remediation steps to address the material weaknesses: The Company used additional checks and balances surrounding the calculations and formulas used, as well as additional verification checks regarding the presentation of contract assets and contract liabilities to comply with current reporting requirements. As of April 30, 2023, the Company s management believes the identified material weaknesses have been remediated. 
+
+The Company cannot assure you that new material weaknesses in our internal control over financial reporting will not arise in the future. 
+
+Any failure to maintain existing or implement required new or improved controls, or any difficulties we encounter in their implementation, could result in new material weaknesses in the Company s internal control over financial reporting, could result in future material misstatements in its consolidated financial statements and cause the Company to fail to meet its reporting and financial obligations, which in turn could have a negative impact on the Company s financial condition. 
+
+Risks Related to Information Technology and Intellectual Property 
+
+Our business could be adversely impacted by significant cybersecurity attacks. 
+
+As a U.S. Government defense industry contractor, the Company has experienced cybersecurity attacks in the past and may be subjected to significant cybersecurity attacks in the future in an effort to, among other things, steal intellectual property, disrupt operations, embed ransomware, or initiate insider attacks. Although we implement various measures and controls to monitor and mitigate risks associated with these threats and to increase the cyber resiliency of our infrastructure and products, there can be no assurance that these processes will be sufficient. Our inability to defend effectively against cyberattacks may result in disruption of operations, loss of significant intellectual property, compromise of employee s personal information or violation of government contractor requirements for information security. These could result in reputational damage, fines, litigation, operational impacts or significant costs for mitigation and/or recovery, all with adverse consequences to our financial position, results of operations and/or cash flows. 
+
+14
+
+Table of Contents 
+
+Claims by third parties that our products infringe their intellectual property could result in costly disputes and/or require us to develop alternate designs. 
+
+We may become subject to claims for infringement of intellectual property, which could result in litigation costs or require us to incur costs for developing alternate designs that may require extensive testing and qualification to meet contract obligations. This could result in adverse consequences to our financial position, results of operations and/or cash flows. 
+
+Risks Related to Our Common Stock 
+
+Our stock price may continue to be volatile. 
+
+The trading price of our common stock may continue to be volatile. As a result, investors in our common stock may experience substantial losses. This volatility may or may not be related to our operating performance. Our operating results, from time to time, may be below the expectations of public market analysts and investors, which could have a material adverse effect on the market price of our common stock. 
+
+The relatively low trading volume of our common stock may limit your ability to sell your shares. 
+
+Although our shares of common stock are listed on the Nasdaq Global Market, we have historically experienced a relatively low trading volume of approximately 13,000 shares per trading day. If our low trading volume continues, holders of shares of our common stock may have difficulty selling shares of our common stock in the manner, at the time, or at a price they desire. 
+
+If significant existing stockholders sell large numbers of shares of our common stock, our common stock price could decline. 
+
+Approximately 50.4 of our outstanding common stock is held by 6 individuals or entities. The market price of our common stock could decline if a large number of our shares of outstanding common stock are sold in the public market by our existing stockholders or as a result of the perception that such sales could occur. Due to the relatively low trading volume of our shares of common stock, the sale of a large number of shares of our outstanding common stock may significantly depress the price of our common stock. 
+
+15
+
+Table of Contents 
+
+Item 1B. Unresolved Staff Comments 
+
+Not Applicable. 
+
+Item 2. Properties 
+
+The Company operates out of several facilities located around the U.S. Each facility is used for manufacturing its products and for administrative activities. The following table presents the location, size and terms of ownership/occupation: 
+
+Location 
+
+Size (sq. ft.) 
+
+Own or Lease 
+
+Mitchel Field, NY 
+
+93,000 
+
+Lease 
+
+Garden Grove, CA 
+
+27,850 
+
+Lease 
+
+Northvale, NJ 
+
+6,548 
+
+Lease 
+
+The Company s facility located in Mitchel Field, Long Island, New York, is part of the building that the Company constructed in 1981 and expanded in 1988 on land leased from Nassau County. In January 1998, the Company sold the building and the related land lease to Reckson Associates Realty Corp. Reckson ), leasing back the space that it presently occupies. 
+
+The Company leases its manufacturing and office space from RA 55 CLB LLC (as successor-in-interest to Reckson). The lease expires on September 30, 2029. Pursuant to the lease agreement, the Company pays a gradually increasing annual rent of 1,046,810 in 2019 to 1,276,056 in 2029. The Company believes the leased space is adequate to meet the Company s domestic operational needs which encompass the principal operations of the FEI-NY segment and also serves as the Company s corporate headquarters. 
+
+The Garden Grove, California facility is leased by the Company s subsidiary, FEI-Zyfer. The facility consists of a combination office and test/assembly areas. The Company has signed a second amendment to the lease, which extended the lease an additional 88 months, beginning October 1, 2017 and expiring January 31, 2025. The average annual rent over the period of the amendment is approximately 312,000. The Company believes the leased space is adequate to meet FEI-Zyfer s operational needs. 
+
+FEI-Elcom entered into a new lease agreement on January 12, 2022 regarding its Northvale, New Jersey facility. The facility consists of a combination office and manufacturing space. The Company has signed a third amendment to the lease, which extended the lease an additional 36 months beginning February 1, 2022 and expiring January 31, 2025, and reduced the square footage rented. The lease, as amended, requires monthly payments of 8,270. The Company believes the leased space is adequate to meet FEI-Elcom s operational needs. 
+
+Item 3. Legal Proceedings 
+
+From time to time, the Company may become a defendant in litigation arising out of the ordinary course of business. As of July 27, 2023, the Company is not party to any material pending legal proceedings. 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable. 
+
+16
+
+Table of Contents 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+The common stock of the Company is listed on The Nasdaq Global Market NASDAQ under the ticker symbol FEIM. As of July 17, 2023, the approximate number of holders of record of common stock was 408. 
+
+DIVIDEND POLICY 
+
+No dividends were declared or paid during fiscal year 2022. On December 20, 2022, the Board of Directors of the Company declared a special cash dividend of 1.00 per share of common stock. The dividend was paid on January 26, 2023, to stockholders of record as of the close of business on January 6, 2023. The total amount of the special dividend payment was 9.4 million. Any future determinations as to the declaration of dividends on our common stock will be made at the discretion of the Board of Directors and will depend on our earnings, operating and financial conditions, capital requirements and other factors deemed relevant by the Board of Directors. 
+
+STOCK BUYBACK PROGRAM 
+
+In March 2005, the Company s Board of Directors authorized a stock repurchase program for up to 5 million of the Company s outstanding common stock. This program does not have an expiration date. Shares may be purchased in open market purchases, private transactions or otherwise at such times and from time to time, and at such prices and in such amounts as the Company believes appropriate and in the best interests of its stockholders. The timing and volume of repurchases will vary depending on market conditions and other factors. Purchases may be commenced or suspended at any time without notice. The Company has acquired approximately 4 million of its common stock out of the total authorization of 5 million. The Company did not make any purchases of stock for the treasury during fiscal years 2023 or 2022. 
+
+Item 6. [Reserved] 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Safe Harbor Statement under the Private Securities Litigation Reform Act of 1995: 
+
+The statements in this Annual Report on Form 10-K regarding future earnings and operations and other statements relating to the future constitute forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements inherently involve risks and uncertainties that could cause actual results to differ materially from the forward-looking statements. Factors that would cause or contribute to such differences include, but are not limited to, the risks associated with health epidemics and pandemics, including the COVID-19 pandemic and similar outbreaks, such as their impact on our financial condition and results of operations and on our ability to continue manufacturing and distributing our products, and the impact of health epidemics and pandemics on general economic conditions, including any resulting recession, our inability to integrate operations and personnel, actions by significant customers or competitors, general domestic and international economic conditions, reliance on key customers, continued acceptance of the Company s products in the marketplace, competitive factors, new products and technological changes, product prices and raw material costs, dependence upon third-party vendors, other supply chain related issues, increasing costs for materials, operating related expenses, competitive developments, changes in manufacturing and transportation costs, the availability of capital, the outcome of any litigation and arbitration proceedings, and failure to maintain an effective system of internal controls over financial reporting. The factors listed above are not exhaustive. Other sections of this Form 10-K include additional factors that could materially and adversely impact the Company s business, financial condition and results of operations. Moreover, the Company operates in a very competitive and rapidly changing environment. New factors emerge from time to time and it is not possible for management to predict the impact of all these factors on the Company s business, financial condition or results of operations or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. Given these risks and uncertainties, investors should not rely on forward-looking statements as a prediction of actual results. Any or all of the forward-looking statements contained in this Form 10-K and any other public statement made by the Company or its management may turn out to be incorrect. The Company expressly disclaims any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+
+17
+
+Table of Contents 
+
+Critical Accounting Estimates 
+
+The Company s significant accounting policies are described in Note 1 to the Consolidated Financial Statements. The Company believes its most critical accounting policies to be the recognition of revenue and costs on production contracts, income taxes and the valuation of inventory. Each of these areas requires the Company to make use of reasonable estimates, including estimating the cost to complete a contract, the realizable value of its inventory or the market value of its products. Changes in estimates can have a material impact on the Company s financial position and results of operations. 
+
+Revenue Recognition 
+
+Revenues are reported in operating results over time using the cost-to-cost method. Under this method, revenue is recorded based upon the ratio that incurred costs bear to total estimated contract costs with related cost of revenues recorded as the costs are incurred. Each month management reviews estimated contract costs through a process of aggregating actual costs incurred and estimating additional costs to completion based upon the current available information regarding labor, outside services, materials, overhead costs, and status of the contract. The effect of any change in the estimated gross margin rate for a contract is reflected in revenues in the period in which the change is known. Provisions for the full amount of anticipated losses on contracts are made in the period in which they become determinable. 
+
+Significant judgment is used in evaluating the financial information for certain contracts to determine an appropriate budget and estimated cost. The Company evaluates this information continuously and bases its judgments on historical experience, design specifications, and expected costs for material and labor. 
+
+Inventory 
+
+In accordance with industry practice, inventoried costs contain amounts relating to contracts and programs with long production cycles, a portion of which will not be realized within one year. Inventory write downs are established for slow-moving materials based on percentage of usage over a ten-year period, obsolete items on a gradual basis over five years with no usage and costs incurred on programs for which production-level orders cannot be determined as probable. Such write-downs are based upon management s experience and expectations for future business. 
+
+Income Taxes 
+
+Our income tax expense, deferred tax asset and liabilities, and liabilities for unrecognized tax benefits reflect management s best estimate of current and future taxes to be paid. Significant judgments and estimates are required in the determination of the consolidated income tax expense. 
+
+Deferred income taxes arise from temporary differences between the tax basis of assets and liabilities and their reported amounts in the financial statements, which will result in taxable or deductible amounts in the future. In evaluating our ability to recover deferred tax assets in the jurisdiction from which they arise, we consider all positive and negative evidence, including the reversal of deferred tax liabilities, projected future taxable income, tax planning strategies, and results of recent operations. As of April 30, 2023 and 2022, we have a full valuation allowance against our U.S. deferred tax assets. If these estimates and assumptions change in the future, the Company may be required to reduce its existing valuation allowance resulting in less income tax expense. The Company evaluates the likelihood of realizing its deferred tax assets quarterly. 
+
+Tax benefits are recognized for an uncertain tax position when, in the Company s judgment, it is more likely than not that the position will be sustained upon examination by a taxing authority. For a tax position that meets the more-likely-than-not recognition threshold, the tax benefit is measured as the largest amount that is judged to have a greater than 50 likelihood of being realized upon ultimate settlement with a taxing authority. The liability associated with unrecognized tax benefits is adjusted periodically due to changing circumstances and when new information becomes available. Such adjustments are recognized entirely in the period in which they are identified. The effective tax rate includes the net impact of changes in the liability for unrecognized tax benefits and subsequent adjustments as considered appropriate by the Company. While it is often difficult to predict the final outcome or the timing of resolution of any particular tax matter, the Company believes its liability for unrecognized tax benefits is adequate. 
+
+18
+
+Table of Contents 
+
+RESULTS OF OPERATIONS 
+
+Consolidated Results 
+
+The table below sets forth for the fiscal years ended April 30, 2023 and 2022, the percentage of consolidated net sales represented by certain items in the Company s consolidated statements of operations: 
+
+Fiscal Years Ended April 30, 
+
+2023 
+
+2022 
+
+Revenues 
+
+FEI-NY 
+
+79.2 
+
+85.2 
+
+FEI-Zyfer 
+
+24.4 
+
+16.2 
+
+Less intersegment revenues 
+
+(3.6 
+
+(1.4 
+
+100.0 
+
+100.0 
+
+Cost of revenues 
+
+80.8 
+
+82.2 
+
+Gross margin 
+
+19.2 
+
+17.8 
+
+Selling and administrative expenses 
+
+23.0 
+
+24.1 
+
+Research and development expenses 
+
+7.7 
+
+10.3 
+
+Operating loss 
+
+(11.5 
+
+(16.6 
+
+Other (expense) income, net 
+
+(1.8 
+
+(1.3 
+
+Provision from income taxes 
+
+0.2 
+
+- 
+
+Net loss 
+
+(13.5 
+
+(17.9 
+
+Revenues 
+
+Fiscal Years Ended April 30, 
+
+(in thousands) 
+
+Segment 
+
+2023 
+
+2022 
+
+Change 
+
+FEI-NY 
+
+32,314 
+
+41,157 
+
+(8,843 
+
+(21.5 
+
+FEI-Zyfer 
+
+9,932 
+
+7,827 
+
+2,105 
+
+26.9 
+
+Intersegment revenues 
+
+(1,469 
+
+(688 
+
+(781 
+
+NM 
+
+40,777 
+
+48,296 
+
+(7,519 
+
+(15.6 
+
+Fiscal year 2023 revenues from satellite programs, one of the Company s largest business areas, decreased by 8.2 million, or 31 , compared to the prior fiscal year. Satellite program revenues for government end-use were 43 and 52 of total revenues for fiscal years 2023 and 2022, respectively. Satellite program revenues for commercial end-use were 1 and 2 of total revenue for fiscal year 2023 and 2022, respectively. Revenues on satellite program contracts are recorded in the FEI-NY segment and are recognized primarily under the Percentage-of-Completion POC method. Revenues from non-space U.S. Government/DOD customers increased by approximately 0.7 million, or 4 , in fiscal year 2023 compared to fiscal year 2022. These revenues are recorded in both the FEI-NY and FEI-Zyfer segments and accounted for approximately 50 and 41 of consolidated revenues for fiscal years 2023 and 2022, respectively. Other commercial and industrial sales accounted for approximately 6 and 5 of consolidated revenues for fiscal years 2023 and 2022, respectively. Sales in this business area were 2.6 million for both the fiscal year ended April 30, 2023 and the fiscal year ended April 30, 2022. The majority of the decrease in sales for fiscal year 2023 was in government satellite programs. This decrease is attributable in part to space programs which were delayed due to engineering issues, and in part to programs which were expected to start during fiscal year 2023 but have been delayed. The Company believes those engineering issues have largely been resolved, and the delayed programs are expected to start during fiscal year 2024 and contribute significantly to sales in fiscal year 2024. 
+
+19
+
+Table of Contents 
+
+Gross Profit 
+
+Fiscal Years Ended April 30, 
+
+(in thousands) 
+
+2023 
+
+2022 
+
+Change 
+
+7,849 
+
+8,599 
+
+(750 
+
+(8.7 
+
+Gross Profit Percentage 
+
+19.2 
+
+17.8 
+
+For the fiscal year ended April 30, 2023, the gross profit decreased and gross profit percentage increased as the result of several factors. The decrease in gross profit dollars was directly related to the decrease in revenues. Although the gross profit percentage increased slightly in fiscal year 2023 as compared to fiscal year 2022, it remains far below our targeted gross profit percentage range of 35 -40 . However, the Company is encouraged by the fact that the gross profit percentage for the third and fourth quarters of fiscal year 2023 were both over 30 , and the Company anticipates that this trend will continue in fiscal year 2024. The low gross profit percentage for fiscal 2022 and fiscal 2023 started in the fourth quarter of fiscal 2022, when we reported that several developmental stage programs experienced substantially higher than anticipated engineering costs. This continued into the first quarter and partially into second quarter of fiscal year 2023, however, the Company believes those issues have been largely resolved and the gross margin for the third and fourth quarters of fiscal year 2023 has increased to over 30 , as mentioned above. 
+
+Selling and Administrative Expenses 
+
+Fiscal Years Ended April 30, 
+
+(in thousands) 
+
+2023 
+
+2022 
+
+Change 
+
+9,372 
+
+11,662 
+
+(2,290 
+
+(19.6 
+
+In fiscal years ended April 30, 2023 and 2022, selling and administrative expenses SG A were 23 and 24 of consolidated revenues, respectively. The decrease in SG A expenses was mainly due to the decrease in professional fees, deferred compensation expense, stock compensation expense and depreciation expense. 
+
+Research and Development Expenses 
+
+Fiscal Years Ended April 30, 
+
+(in thousands) 
+
+2023 
+
+2022 
+
+Change 
+
+3,149 
+
+4,975 
+
+(1,826 
+
+(36.7 
+
+As a percentage of consolidated revenue, R D expense for the fiscal years ended April 30, 2023 and 2022 were 8 and 10 , respectively. The 1.8 million decrease in R D expense year over year was largely due to a renewed focus on correcting the program specific engineering issues identified above as part of an overall effort to return the Company to profitability. It should also be noted that FEI has dedicated resources and made substantial progress on two advanced technology development programs which are externally funded, and thus do not show up as internally funded R D. That being said, FEI is committed to maintaining its technical excellence, and expects future R D investment to be in line with, or even potentially above historical commitments. 
+
+The funds received in connection with customer funded R D appears in revenues and the associated expenses are included in cost of revenues and are not included in the table above. The Company believes that internally generated cash and cash reserves are adequate to fund its future R D activity. 
+
+20
+
+Table of Contents 
+
+Operating Loss 
+
+Fiscal Years Ended April 30, 
+
+(in thousands) 
+
+2023 
+
+2022 
+
+Change 
+
+(4,672 
+
+(8,038 
+
+3,366 
+
+(41.9 
+
+For the fiscal year ended April 30, 2023, the Company recorded an operating loss of 4.7 million compared to an operating loss of 8.1 million in the prior fiscal year. The decrease in operating loss was due to changes made affecting the second half of fiscal year 2023. The Company recorded approximately 614,000 of operating income in the second half of fiscal year 2023, a significant improvement from the 5.4 million operating loss for the first half of fiscal year 2023. 
+
+Other Income (Expense), net 
+
+Fiscal Years Ended April 30, 
+
+(in thousands) 
+
+2023 
+
+2022 
+
+Change 
+
+(Loss) income on Investments 
+
+(606 
+
+199 
+
+(805 
+
+NM 
+
+Loss on disposal of asset 
+
+- 
+
+(110 
+
+110 
+
+(100.0 
+
+Loss on impairment of Morion 
+
+- 
+
+(796 
+
+796 
+
+(100.0 
+
+Interest expense 
+
+(156 
+
+(77 
+
+(79 
+
+NM 
+
+Other income (expense), net 
+
+7 
+
+160 
+
+(153 
+
+(95.6 
+
+(755 
+
+(624 
+
+(131 
+
+21.0 
+
+Losses on investment income was derived primarily from the sale of the Company s available-for-sale marketable securities, which primarily consisted of fixed income securities, during the fiscal year ended April 30, 2023. Investment income was derived primarily from the Company s holdings of marketable securities, which primarily consisted of fixed income securities for the fiscal year ended April 30, 2022. 
+
+Income Tax Provision 
+
+Fiscal Years Ended April 30, 
+
+(in thousands) 
+
+2023 
+
+2022 
+
+Change 
+
+74 
+
+1 
+
+73 
+
+NM 
+
+Fiscal Years Ended April 30, 
+
+(in thousands) 
+
+2023 
+
+2022 
+
+Effective tax rate on pre-tax book loss: 
+
+(1.3 
+
+(0.0 
+
+For the fiscal year ended April 30, 2023, the Company recorded an income tax provision of 74,000. For the fiscal year ended April 30, 2022, the Company recorded an income tax provision of 1,000. 
+
+The Company s effective tax rate of (1.3) for fiscal year 2023 differs from the U.S. federal statutory rate of 21 primarily due to state taxes and domestic losses for which the Company is not recognizing an income tax benefit. (See Note 12 to the Consolidated Financial Statements for a reconciliation of the actual tax benefit to the expected tax provision at the federal statutory rate.) 
+
+As of April 30, 2023, the Company has U.S. federal net operating losses of 31.3 million of which 15.7 million begins to expire in fiscal year 2026 through fiscal year 2038, including 3.1 million which is subject to annual limitation under IRC Section 382. The remaining U.S. federal net operating losses of 15.6 million have an indefinite carry-forward period. The U.S. federal capital loss carry-forward of 0.9 million expires in fiscal years 2025 and 2027. U.S. federal R D credits of 0.9 million begin to expire in fiscal year 2036 through fiscal year 2040. The Company also has state net operating loss carryforwards, and state tax credits that expire in various years and amounts. 
+
+21
+
+Table of Contents 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+Net cash provided by operations was 1.2 million in fiscal year 2023 compared to cash provided by operations of 4.0 million in fiscal year 2022. The Company s balance sheet continues to reflect a highly liquid position with working capital of 21.0 million at April 30, 2023 as compared to 34.2 million at April 30, 2022. Included in working capital at April 30, 2023 was 12.0 million consisting of cash and cash equivalents. The Company s current ratio at April 30, 2023 was 1.8 to 1 compared to 2.6 to 1, at the end of the prior fiscal year. 
+
+During fiscal years 2023 and 2022, the Company incurred 5.0 million and 5.4 million, respectively, in non-cash charges to earnings, including adjustments relating to net assets and liabilities for operating leases, loss provision accrual, loss on impairment of Morion, provision for a note receivable, depreciation and amortization expense, inventory adjustments, warranty and accounts receivable reserves and certain employee benefit plan expenses, including accounting for stock-based compensation. During fiscal year 2023, operating cash was increased by decreases in loss on provision accrual and other liabilities and increases in contract assets and inventory, offset by an increase in contract liabilities. During fiscal year 2022, operating cash was increased by a decrease in contract assets and inventory and increases in contract liabilities. Contract liabilities include amounts for programs that are pre-funded for long-lead materials required to be purchased. 
+
+Net cash provided by investing activities for the fiscal year ended April 30, 2023 was 8.7 million compared to 2.3 million used in investing activities for the fiscal year ended April 30, 2022. In fiscal year 2023, investing activities included the proceeds related to sales of marketable securities net of the purchases of marketable securities of 9.6 million and purchases of capital expenditures of 0.9 million. In fiscal year 2022, investing activities included the proceeds related to sales of marketable securities net of the purchases of marketable securities of 422,000 and purchases of capital expenditures of 1.9 million. 
+
+Net cash used in financing activities for the fiscal year ended April 30, 2023 was approximately 9.4 million related to a dividend payout. There was no cash used in financing activities for the fiscal year ended April 30, 2022. 
+
+The Company will continue to expend resources to develop, improve and acquire products for space and other applications, which management believes will result in future growth and profitability. During fiscal year 2023, the Company secured partial customer funding for a portion of its R D efforts. The customer funds received in connection therewith appear in revenues and are not included in R D expenses. For fiscal year 2024, the Company anticipates securing additional customer funding for a portion of its R D activities and will allocate internal funds depending on market conditions and identification of new opportunities as in fiscal 2023. The Company expects internally generated cash will be adequate to fund these future R D efforts. The Company may also pursue acquisitions to expand its range of products and may use internally generated cash and external funding in connection with such acquisitions. 
+
+During fiscal year 2023, as in fiscal year 2022, the impact of inflation on the Company s business was due to increases in costs for materials and services. The Company believes this may continue to impact expenses in fiscal year 2024 and future years. 
+
+As of April 30, 2023, the Company had an accumulated deficit of 25.6 million. The Company believes that its cash, as of April 30, 2023, and cash flows from operations will provide sufficient liquidity to meet its operating needs in the normal course of business in both the short-term (next twelve months from the date of issuance of these consolidated financial statements) and in the long-term (beyond the next twelve months). 
+
+RECENT ACCOUNTING PRONOUNCEMENTS 
+
+In January 2017, the Financial Accounting Standards Board FASB issued ASU No. 2017-04, Intangibles Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment ASU 2017-04 ), which simplifies how an entity is required to test goodwill for impairment by eliminating Step 2 from the goodwill impairment test. Under ASU 2017-04, goodwill impairment will be tested by comparing the fair value of a reporting unit with its carrying amount, and recognizing an impairment charge for the amount by which the carrying amount exceeds the reporting unit s fair value. The new guidance must be applied on a prospective basis and is effective for periods beginning after December 15, 2022, with early adoption permitted. The Company is evaluating the effect, if any, the update will have on its consolidated financial statements. 
+
+In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments ASU 2016-13 ), which replaces the incurred loss impairment methodology in current U.S. GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates. The new guidance is effective for fiscal years beginning after December 15, 2022. The Company is evaluating the effect, if any, the update will have on its consolidated financial statements when adopted in fiscal year 2024. 
+
+22
+
+Table of Contents 
+
+OTHER MATTERS 
+
+The financial information reported herein is not necessarily indicative of future operating results or of the future financial condition of the Company. 
+
+Morion 
+
+The Company has an investment in Morion, a privately-held Russian company, which manufactures high precision quartz resonators and crystal oscillators. The Company has also licensed certain technology to Morion. 
+
+The Company s investment consists of 4.6 of Morion s outstanding shares, accordingly, the Company accounted for its investment in Morion on the cost basis. During the fiscal years ended April 30, 2023 and 2022, the Company acquired product from Morion in the aggregate amount of approximately 196,000 and 215,000, respectively. During the fiscal year ended April 30, 2022, the Company sold product and training services to Morion in the aggregate amount of approximately 23,000, included in revenues in the consolidated statements of operations as part of the FEI-NY segment. During the fiscal years ended April 30, 2022, the Company received dividends from Morion in the amount of approximately 123,000, which is included in other income, net in the consolidated statements of operations as part of the FEI-NY segment. During the fiscal year ended April 30, 2023, the Company sold no product and training services to Morion, and the Company received no dividends from Morion. Purchases of materials from Morion consist mainly of quartz crystal blanks which are used in the fabrication of quartz resonators. In the event that these items become unavailable from Morion, the Company is in the process of establishing alternate sources of supply. The Company is also capable of fabricating the crystal blanks in-house. 
+
+Morion is a less than wholly-owned subsidiary of Gazprombank, a state-owned Russian bank. The U.S. Ukraine-related sanctions regime has since 2014 included a list of sectoral sanctions identifications SSI pursuant to Executive Order 13662, which prohibits certain transactions, including certain extensions of credit, with an entity designated as an SSI or certain affiliates of an entity designated as an SSI. On July 16, 2014, after the Company s investment in Morion, Gazprombank was designated as an SSI. 
+
+As previously disclosed, in light of Morion s relationship with Gazprombank, in 2020, the Company evaluated, with the assistance of external legal counsel, certain sales to Morion and the timing of payments by Morion to the Company in connection with those sales to determine whether payments by Morion may have inadvertently constituted extensions of credit in violation of Directive 1 under Executive Order 13662. The Company determined that certain payments by Morion the majority of which occurred more than five years ago were not timely. Following the evaluation, on May 7, 2020, the Company voluntarily disclosed its findings to the Office of Foreign Assets Control OFAC ). The Company s voluntary disclosure to OFAC related solely to delays in collection of accounts receivable that exceeded then-applicable payment windows set forth in sanctions regulations and did not relate to any other type of payment or transaction. On February 17, 2021, the Company received a Cautionary Letter from OFAC indicating that OFAC has completed its review of the matter. According to OFAC, the Cautionary Letter was issued instead of pursuing a civil monetary penalty or taking other enforcement action. 
+
+Due to the Russia-Ukraine conflict and resulting sanctions, the future status of FEI s equity investment in Morion is uncertain. In response to these conditions, in connection with the preparation of the audited financial statements included in the 2022 Form 10-K, the Company impaired its investment in Morion in full. The impairment of 796,000 is included in other income (expense), net, in the Consolidated Statements of Operations for the fiscal year ended April 30, 2022. The likelihood of future sales to, purchases, and dividend payments from Morion is questionable. 
+
+Item 7A. Quantitative and Qualitative Disclosure about Market Risk 
+
+Not applicable 
+
+23
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplementary Data 
+
+Report of Independent Registered Public Accounting Firm 
+
+Shareholders and Board of Directors 
+
+Frequency Electronics, Inc. 
+
+Mitchel Field, New York 
+
+Opinion on the Consolidated Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of Frequency Electronics, Inc. (the Company as of April 30, 2023 and 2022, the related consolidated statements of operations and comprehensive income (loss), changes in stockholders equity, and cash flows for each of the years then ended, and the related notes (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at April 30, 2023 and 2022, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Revenue Recognized Over Time Using Percentage-of-Completion 
+
+As described in Note 1 to the consolidated financial statements, the Company derives revenue from contracts with customers by units sold with specific specifications and frequencies that are used by a specific customer and contracts where the end user is the United States Government. The Company s contracts typically include one performance obligation which is satisfied by shipped projects and completed services/reports required in the contract. Control over these performance obligations passes to the customer over time and therefore these revenues are reported in operating results over time using the Percentage-of-Completion POC cost-to-cost method. Under this method, revenue is recorded based upon the ratio that incurred costs bear to total estimated contract costs. 
+
+We identified estimated costs to complete for contracts where revenue is recognized over time using the POC cost-to-cost method as a critical audit matter. The determination of the total estimated costs to complete requires management to make significant estimates and assumptions regarding labor, outside services, materials and overhead costs. Changes in the estimates of these costs can have a significant impact on the revenue recognized each period. Auditing these elements involved especially challenging auditor judgment in evaluating the reasonableness of management s assumptions and estimates over the duration of these contracts. 
+
+24
+
+Table of Contents 
+
+The primary procedures we performed to address this critical audit matter included selecting a sample of contracts for testing and performing the following procedures: 
+
+Agreeing the key terms to contracts and comparing estimated costs at completion as of the current year-end to the estimated costs at completion as of the prior year-end. 
+
+Testing the Company s estimated costs to complete by performing a retrospective review to identify changes in contract gross margin and assessing the reasonableness of such changes. 
+
+Testing the Company s estimated costs to complete by evaluating subsequent events activity for changes in conditions that may result in significant changes to estimated costs to complete the contract selected for testing. 
+
+Evaluating management s ability to prepare and estimate the remaining costs to complete for contracts in process as of the balance sheet date by performing inquiries of certain of the Company s operations and accounting personnel. 
+
+Testing the mathematical accuracy of management s calculation of the estimated costs at completion. 
+
+/s/ BDO USA, P.A. 
+
+We have served as the Company s auditor since 2020. 
+
+Melville, New York 
+
+July 27, 2023 
+
+25
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES 
+
+Consolidated Balance Sheets 
+
+(In thousands, except par value) 
+
+April 30, 
+
+April 30, 
+
+2023 
+
+2022 
+
+ASSETS: 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Marketable securities 
+
+Accounts receivable, net of allowance for doubtful accounts of at April 30, 2023 and April 30, 2022 	 
+
+Contract assets 
+
+Inventories, net 
+
+Prepaid income taxes 
+
+Prepaid expenses and other 
+
+Total current assets 
+
+Property, plant, and equipment, net 
+
+Goodwill 
+
+Cash surrender value of life insurance 
+
+Other assets 
+
+Right-of-Use assets operating leases 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS EQUITY: 
+
+Current liabilities: 
+
+Accounts payable trade 
+
+Accrued liabilities 
+
+Loss provision accrual 
+
+Operating lease liability, current portion 
+
+Contract liabilities 
+
+Total current liabilities 
+
+Deferred compensation 
+
+Deferred taxes 
+
+Operating lease liability non-current 
+
+Other liabilities 
+
+Total liabilities 
+
+Contingencies (Note 16) 
+
+Stockholders equity: 
+
+Preferred stock - par value; authorized shares, shares issued 	 
+
+-
+
+-
+
+Common stock - par value; authorized shares, shares issued and shares outstanding at April 30, 2023; shares issued and shares outstanding at April 30, 2022 	 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Common stock reacquired and held in treasury - 	 at cost share at April 30, 2023 and April 30, 2022) 	 
+
+Accumulated other comprehensive income (loss) 
+
+Total stockholders equity 
+
+Total liabilities and stockholders equity 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+26
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES 
+
+Consolidated Statements of Operations and Comprehensive Income (Loss) 
+
+(In thousands, except per share data) 
+
+Years Ended April 30, 
+
+2023 
+
+2022 
+
+Consolidated Statements of Operations 
+
+Revenues 
+
+Cost of revenues 
+
+Gross margin 
+
+Selling and administrative expenses 
+
+Research and development expenses 
+
+Operating loss 
+
+Other income (expense): 
+
+(Loss) income on Investments 
+
+Loss on disposal of asset 
+
+Loss on impairment of Morion 
+
+Interest expense 
+
+Other income (expense), net 
+
+Loss before provision from income taxes 
+
+Provision from income taxes 
+
+Net loss 
+
+Net loss per common share: 
+
+Basic and diluted loss per share 
+
+Weighted average shares outstanding: 
+
+Basic and diluted 
+
+Consolidated Statements of Comprehensive Income (Loss) 
+
+Net loss 
+
+Unrealized gain (loss) on marketable securities: 
+
+Change in market value of marketable securities before reclassification, net of tax 
+
+Reclassification adjustment for realized gains (loss) included in net income, net of tax 
+
+Total unrealized gain (loss) on marketable securities, net of tax 
+
+Comprehensive loss 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+27
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES 
+
+Consolidated Statements of Cash Flows 
+
+(In thousands) 
+
+Years Ended April 30, 
+
+2023 
+
+2022 
+
+Cash flows from operating activities: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+Non-cash lease expense 
+
+Provision for losses on accounts receivable, inventories, other assets and warranty reserve 
+
+Loss (gain) on marketable securities 
+
+Loss on sale of fixed and other assets, net 
+
+Loss on impairment of Morion 
+
+Employee benefit plans expense 
+
+Stock-based compensation expense 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Contract assets 
+
+Inventories 
+
+Prepaid expenses and other 
+
+Other assets 
+
+Accounts payable - trade 
+
+Accrued liabilities 
+
+Contract liabilities 
+
+Loss provision accrual 
+
+Income taxes refundable 
+
+Other liabilities 
+
+Net cash provided by operating activities 
+
+Cash flows from investing activities: 
+
+Purchase of marketable securities 
+
+Proceeds from sale or redemption of marketable securities 
+
+Capital expenditures 
+
+Net cash provided by (used in) investing activities 
+
+Cash flows from financing activities: 
+
+Payment of Dividend 
+
+Net cash used in financing activities 
+
+Net increase in cash and cash equivalents 
+
+Cash and cash equivalents at beginning of year 
+
+Cash and equivalents at end of year 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+28
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES 
+
+Consolidated Statements of Cash Flows 
+
+(In thousands) 
+
+(Continued) 
+
+Years Ended April 30, 
+
+2023 
+
+2022 
+
+Supplemental disclosures of cash flow information: 
+
+Cash paid during the year for: 
+
+Interest 
+
+Income taxes 
+
+Cash refund during the year for: 
+
+Income taxes 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+29
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+Consolidated Statements of Changes in Stockholders Equity 
+
+Years ended April 30, 2023 and 2022 
+
+(In thousands, except share data) 
+
+Additional 
+
+Treasury stock 
+
+Accumulated other 
+
+Common Stock 
+
+paid in 
+
+Accumulated 
+
+(at cost) 
+
+comprehensive 
+
+Shares 
+
+Amount 
+
+capital 
+
+Deficit 
+
+Shares 
+
+Amount 
+
+Income (loss) 
+
+Total 
+
+Balance at April 30, 2021 
+
+Contribution of stock to 401(k) plan 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock-based compensation expense 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Exercise of stock options and stock appreciation rights - net of shares tendered for exercise price 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other comprehensive loss, net of tax 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance at April 30, 2022 
+
+Contribution of stock to 401(k) plan 
+
+- 
+
+- 
+
+Stock-based compensation expense 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other comprehensive income, net of tax 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Dividends paid 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance at April 30, 2023 
+
+- 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+30
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+April 30, 2023 and 2022 
+
+31
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+years for buildings and to years for other depreciable assets). Leasehold improvements are amortized on the straight-line method over the lesser of the lease term or the estimated useful life of the asset. 
+
+. 
+
+32
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+million and million of the million and million reported for the years ended April 30, 2023 and 2022, respectively. The amounts by segment and product line were as follows: 
+
+FEI-Zyfer 
+
+Intersegment 
+
+Revenue 
+
+FEI-Zyfer 
+
+Intersegment 
+
+Revenue 
+
+Government Non-Space Revenue 
+
+Other Commercial Industrial Revenue 
+
+Consolidated revenues 
+
+33
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+34
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+Effect of Dilutive Securities 
+
+Diluted EPS Shares outstanding 
+
+and , respectively. 
+
+Contract Liabilities 
+
+Contract assets and contract liabilities at April 30, 2021, were and ), respectively. 
+
+35
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+
+million during fiscal year 2023, primarily due to recognition of revenue related to the satisfaction or partial satisfaction of performance obligations during fiscal year 2023 for which we have not yet billed out customers. Contract liabilities increased million during fiscal year 2023, primarily due to payments received in excess of revenue recognized on these performance obligations. During fiscal year 2023, we recognized million of our contract liabilities at April 30, 2022 as revenue. During fiscal year 2022, we recognized million of our contract liabilities at April 30, 2021 as revenue. During the fiscal years ended April 30, 2023 and 2022, revenue recognized under POC contracts was approximately million and million, respectively. If contract losses are anticipated, a loss provision is recorded for the full amount of such losses when they are determinable. Total contract losses for the fiscal years ended April 30, 2023 and 2022 were approximately and million, respectively. 
+
+Work in Progress 
+
+Finished Goods 
+
+Inventory reserves included in inventory were million and million for the fiscal years ended April 30, 2023 and 2022, respectively. 
+
+Machinery, equipment and furniture 
+
+Less accumulated depreciation 
+
+Depreciation and amortization expense was million and million for the fiscal years ended April 30, 2023 and 2022, respectively. 
+
+Maintenance and repairs charged to operations was approximately and for the fiscal years ended April 30, 2023 and 2022, respectively. 
+
+36
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+Liabilities 
+
+Operating lease liabilities (short-term) 
+
+Lease liability, current 
+
+Operating lease liabilities (long-term) 
+
+Lease liability, non-current 
+
+Total lease liabilities 
+
+Total operating lease expense was approximately million and million for the fiscal years ended April 30, 2023 and 2022, respectively, the majority of which is included in cost of revenues and the remaining amount in selling and administrative expenses on the consolidated statements of operations. In addition, the Company made cash payments of million and million for operating leases during the fiscal years ended April 30, 2023 and 2022, respectively, which are included in cash flows from operating activities in our consolidated statements of cash flows. As of April 30, 2023, the Company had no operating lease liabilities that had not commenced. 
+
+37
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+Thereafter 
+
+Total lease payments 
+
+Less imputed interest 
+
+Present value of future lease payments 
+
+Less current obligations under leases 
+
+Long-term lease obligations 
+
+As of April 30, 2023 and 2022, the weighted-average remaining lease term for all operating leases was years and years, respectively. The Company does not generally have access to the rate implicit in the leases, therefore, we use a discount rate based on our incremental borrowing rate, which is determined using our credit rating and information available as of the commencement date. The weighted average discount rate for operating leases as of April 30, 2023 and 2022, was and , respectively. 
+
+38
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+April 30, 2022 
+
+Fixed Income Securities 
+
+The Company liquidated all holdings related to Marketable Securities during the fiscal year ended April 30, 2023. 
+
+Gross realized gains 
+
+Gross realized losses 
+
+The fair value accounting framework provides a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and the lowest priority to unobservable inputs (Level 3 measurements). 
+
+The levels of the fair value hierarchy are described below: 
+
+Level 1 
+
+Inputs to the valuation methodology are unadjusted quoted prices for identical assets or liabilities in active markets that the Company has the ability to access. 
+
+Level 2 
+
+Inputs to the valuation methodology include: 
+
+			 -Quoted prices for similar assets or liabilities in active markets; 
+
+			 -Quoted prices for identical or similar assets or liabilities in inactive markets; 
+
+			 -Inputs other than quoted prices that are observable for the asset or liability; and 
+
+			 -Inputs that are derived principally from or corroborated by observable market data by correlation or other means. 
+
+Level 3 
+
+Inputs to the valuation methodology are unobservable and significant to the fair value measurement. 
+
+The asset s or liability s fair value measurement level within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement. Valuation techniques used need to maximize the use of observable inputs and minimize the use of unobservable inputs. The Company s money market, business account, and U.S. securities were valued on a Level 1 basis. The Company s fixed income corporate debt securities and certificates of deposit were valued on a Level 2 basis. Level 2 securities were valued at the closing prices and are consistent with quoted prices of similar assets reported in active markets. 
+
+39
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+Incentive compensation 
+
+Payroll taxes 
+
+Warranty reserve 
+
+Commissions 
+
+Deferred compensation payable 
+
+Other 
+
+of Morion s outstanding shares, accordingly, the Company accounted for its investment in Morion on the cost basis. During the fiscal years ended April 30, 2023 and 2022, the Company acquired product from Morion in the aggregate amount of approximately and , respectively. During the fiscal years ended April 30, 2022, the Company sold product and training services to Morion in the aggregate amount of approximately , included in revenues in the consolidated statements of operations as part of the FEI-NY segment. During the fiscal year ended April 30, 2022, the Company received dividends from Morion in the amount of approximately , which is included in other income, net in the consolidated statements of operations as part of the FEI-NY segment. During the fiscal year ended April 30, 2023, the Company sold no product and training devices to Morion, and the Company received no dividends from Morion. Purchases of materials from Morion consist mainly of quartz crystal blanks which are used in the fabrication of quartz resonators. In the event that these items become unavailable from Morion, the Company is in the process of establishing alternate sources of supply. The Company is also capable of fabricating the crystal blanks in-house. 
+
+Morion is a less than wholly-owned subsidiary of Gazprombank, a state-owned Russian bank. The U.S. Ukraine-related sanctions regime has since 2014 included a list of SSI pursuant to Executive Order 13662, which prohibits certain transactions, including certain extensions of credit, with an entity designated as an SSI or certain affiliates of an entity designated as an SSI. On July 16, 2014, after the Company s investment in Morion, Gazprombank was designated as an SSI. 
+
+As previously disclosed, in light of Morion s relationship with Gazprombank, in 2020, the Company evaluated, with the assistance of external legal counsel, certain sales to Morion and the timing of payments by Morion to the Company in connection with those sales to determine whether payments by Morion may have inadvertently constituted extensions of credit in violation of Directive 1 under Executive Order 13662. The Company determined that certain payments by Morion the majority of which occurred more than five years ago were not timely. Following the evaluation, on May 7, 2020, the Company voluntarily disclosed its findings to the OFAC. The Company s voluntary disclosure to OFAC related solely to delays in collection of accounts receivable that exceeded then-applicable payment windows set forth in sanctions regulations and did not relate to any other type of payment or transaction. On February 17, 2021, the Company received a Cautionary Letter from OFAC indicating that OFAC has completed its review of the matter. According to OFAC, the Cautionary Letter was issued instead of pursuing a civil monetary penalty or taking other enforcement action. 
+
+40
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+is included in other income (expense), net, in the consolidated statements of operations for the fiscal year ended April 30, 2022. 
+
+and shares of common stock, respectively. The approximate value of these shares at the date of contribution was and in fiscal years 2023 and 2022, respectively. Contributed shares are drawn from the Company s common stock and during fiscal years 2023 and 2022, such transactions increased additional paid in capital by and , respectively. As of April 30, 2023, the plan held a total of shares, which were allocated to the accounts of the individual participants. As of April 30, 2022, the plan held a total of shares, which were allocated to the accounts of the individual participants. 
+
+Income Incentive Pool: 
+
+The Company maintains incentive bonus programs for certain employees that are based on operating profits of the individual subsidiaries to which the employees are assigned. The Company also adopted a plan for the President and Chief Executive Officer of the Company, which the formula is based on consolidated pre-tax profits. The incentive bonus recorded for the fiscal year ended April 30, 2023 was . The incentive bonus recorded for the fiscal year ended April 30, 2022 was . 
+
+Employee Stock Plans: 
+
+The Company has various stock plans, some of which have been approved by the Company s stockholders, for key management employees, including officers and directors who are employees, certain consultants and independent members of the Board of Directors. The plans are Nonqualified Stock Options NQSO plans, Incentive Stock Option ISO plans, and SAR plans. Under these plans, options or SARs are granted at the discretion of the Stock Option Committee at an exercise price not less than the fair market value of the Company s common stock on the date of grant. 
+
+Typically, options and SARs vest over a -year period from the date of grant. The options and SARs generally expire after the date of grant (the most recent SARs awards, beginning in fiscal year 2017, expire in and are subject to certain restrictions on transferability of the shares obtained on exercise. Under the Company s 2005 Stock Award Plan Plan the Company provided option holders the opportunity to exercise stock options either by paying the exercise price for the shares or to do a cashless exercise whereby the individual receives the net number of shares of stock equal in value to the exercised number of shares times the difference between the current market value of the Company s stock and the exercise price. Under the Plan, instruments granted under other plans which expire, are canceled, or are tendered in the exercise of such instruments, increase the shares available under the Plan. 
+
+As of April 30, 2023, eligible employees and directors had been granted total SARs representing approximately shares of the Company s common stock, of which approximately shares were outstanding and approximately shares with a weighted average exercise price of were exercisable. There were no SARs granted during the fiscal year 2023. When the SARs become exercisable, the Company will settle the SARs by issuing to exercising recipients the number of shares of stock from common stock or treasury stock, if available, equal to the appreciated value of the Company s stock between the grant date and exercise date. At the time of exercise, the quantity of shares under the SARs grant equal to the exercise value divided by the then market value of the shares will be returned to the pool of available shares for future grant under the Plan. During the fiscal year ended April 30, 2023, no employees exercised SARs and no shares were granted. There were shares returned to the pool of available shares and may be used for future grants under the Plan. Forfeitures are recorded as they occur. 
+
+The excess of the consideration received over the par value of the common stock or cost of treasury stock issued under both types of option plans is recognized as an increase in additional paid-in capital. 
+
+41
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+years 	 
+
+Granted 
+
+Exercised 
+
+Expired or Canceled 
+
+Outstanding April 30, 2022 
+
+years 	 
+
+Granted 
+
+Exercised 
+
+Expired or Canceled 
+
+Outstanding April 30, 2023 
+
+years 	 
+
+Exercisable 
+
+years 	 
+
+Available for future grants 
+
+As of April 30, 2022, exercisable shares related to options and SARs under the plans totaled , weighted-average exercise price was , grant date fair value was , weighted average remaining contractual term was years, and the aggregate intrinsic value was . 
+
+As of April 30, 2023, there was no unrecognized compensation cost related to non-vested options and SARs under the plans. As of April 30, 2022, total unrecognized compensation cost related to non-vested options and SARs under the plans was approximately . 
+
+During the fiscal years ended April 30, 2023 and 2022, shares and shares, respectively, vested, the fair value of which was approximately and , respectively. 
+
+Stock-based compensation costs, for options and SARs, included in the cost of revenues of programs on which the Company recognizes revenue under the POC method were approximately and for the fiscal years ended April 30, 2023 and 2022, respectively. Stock-based compensation expense included in selling and administrative expenses, related to options and SARs, during the fiscal years ended April 30, 2023 and 2022 were approximately and , respectively. 
+
+The Company classifies cash flows resulting from the tax benefits from tax deductions recognized upon the exercise of stock options or SARs (tax benefits) as operating cash flows. The Company did not recognize any tax benefits from the exercise of stock options and SARs for the fiscal years presented. 
+
+Restricted Stock Plan and Other Issuances: 
+
+During fiscal year 1990, the Company adopted a Restricted Stock Plan which provided that key management employees could be granted rights to purchase an aggregate of shares of the Company s common stock. The grants, transferability restrictions and purchase price were determined at the discretion of a special committee of the Board of Directors. The purchase price could not be less than the par value of the common stock. Transferability of shares is restricted for a four-year period, except in the event of a change in control as defined therein. As a result of the adoption by the Company s stockholders of the 2005 Stock Award Plan, the Restricted Stock Plan was discontinued. No additional grants will be made under this plan. As of April 30, 2023, there are outstanding shares available for purchase. 
+
+42
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+shares from common stock and shares from common stock, respectively, to select employees for milestone years of service to the Company. These shares were issued under the 2005 Stock Award Plan, are shares of the Company s common stock, and are fully vested at time of issuance. 
+
+In fiscal year 2021 the Company elected to issue Performance Stock Units PSUs to an officer of the Company. The fair value of these awards is equivalent to the market value of the Company s common stock on the grant date and requires an assessment of the probability that the specified performance criteria will be achieved, which is updated at each reporting date. PSUs are not shares of the Company s common stock and do not have any rights or privileges thereof, including voting or dividend rights. On the applicable vesting date, subject to the attainment of the specified performance criteria, the holder of a PSU becomes entitled to a share of the Company s common stock. PSUs are subject to certain restrictions and forfeiture provisions, in addition to performance vesting conditions, prior to vesting. A portion of the PSUs awarded will vest, subject to specified performance criteria, annually until fiscal year 2025. Forfeitures are recorded as they occur. 
+
+Stock-based compensation costs, related to RSUs and PSUs, included in the cost of revenues of programs on which the Company recognizes revenue under the POC method were approximately and for the fiscal years ended April 30, 2023 and 2022, respectively. Stock-based compensation expense, for RSUs and PSUs, included in selling and administrative expenses were approximately and for the fiscal years ended April 30, 2023 and 2022, respectively. The fair value of RSUs and PSUs vested were approximately and for the fiscal years ended April 30, 2023 and 2022, respectively. 
+
+Granted 
+
+Vested 
+
+Forfeited 
+
+Balance April 30, 2022 
+
+Granted 
+
+Vested 
+
+Forfeited 
+
+Balance April 30, 2023 
+
+Deferred Compensation Agreements: 
+
+The Company has a series of agreements with key employees providing for the payment of benefits upon retirement or death. The Company pays the benefits out of its working capital but has also purchased whole life or term life insurance policies on the lives of certain of the participants to cover the optional lump sum obligations of the agreements upon the death of the participant. Deferred compensation expense charged to selling and administrative expenses during the fiscal year ended April 30, 2023 was approximately . Deferred compensation expense charged to selling and administrative expenses during the fiscal year ended April 30, 2022 was approximately million. 
+
+43
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+State 
+
+Current provision 
+
+Deferred: 
+
+Federal 
+
+State 
+
+Deferred tax provision 
+
+Total provision 
+
+State and local tax 
+
+Valuation allowance on deferred tax assets 
+
+Nondeductible expenses 
+
+Uncertain tax positions 
+
+Nontaxable life insurance cash value increase 
+
+Taxable life insurance gain 
+
+Capital Loss 
+
+Stock Compensation 
+
+Tax credits 
+
+Change in tax rate 
+
+Other items 
+
+Total provision 
+
+44
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+Inventory 
+
+Accounts receivable 
+
+Tax credits 
+
+Other assets 
+
+Lease Liability 
+
+Capital Loss carry-forward 
+
+Research Development 
+
+Net operating loss carryforwards 
+
+Total deferred tax asset 
+
+Deferred tax liabilities: 
+
+Property, plant and equipment 
+
+Right of use asset 
+
+Other liabilities 
+
+Deferred state income tax 
+
+Net deferred tax asset 
+
+Valuation allowance 
+
+Net deferred tax liability 
+
+In assessing the potential for realization of deferred tax assets, the Company considers whether it is more-likely-than-not that some portion or all of the deferred tax assets will be realized. A valuation allowance, if needed, reduces the deferred tax assets to the amounts expected to be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income in those periods in which temporary differences become deductible and/or net operating loss carryforwards can be utilized. We assess all positive and negative evidence when determining the amount of the net deferred tax assets that are more likely than not to be realized. This evidence includes, but is not limited to, prior earnings history, scheduled reversal of taxable temporary differences, tax planning strategies and projected future taxable income. Significant weight is given to positive and negative evidence that is objectively verifiable. As of April 30, 2023 and 2022, we have a full valuation allowance against our U.S. net deferred tax assets. If these estimates and assumptions change in the future, the Company may be required to reduce its existing valuation allowance resulting in less income tax expense. 
+
+For the fiscal year ended April 30, 2023, the valuation allowance decreased by approximately million from the prior fiscal year primarily due a decrease in the net deferred tax asset for which no tax benefit was provided. 
+
+The Company has a net deferred tax liability related to the tax effect of differences between financial reporting and tax basis of intangible assets that are not expected to reverse within the Company s net operating loss carryforward periods. The utilization of indefinite lived net operating losses are limited to 80 of taxable income in an annual period. 
+
+As of April 30, 2023, the Company has U.S. federal net operating losses of million of which million begins to expire in fiscal years 2024 through 2038, including million which is subject to annual limitation under IRC 382. The remaining U.S. federal net operating losses of million have an indefinite carry-forward period. The U.S. federal capital loss carry-forward of million expires in fiscal years 2025 and 2027. U.S. federal R D credits of million begin to expire in fiscal years 2036 through 2040. The Company also has state net operating loss carryforwards, and state tax credits that expire in various years and amounts. 
+
+45
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+Additions based on positions taken in the current year 
+
+Additions based on positions taken in prior years 
+
+Decreases based on positions taken in prior years 
+
+Lapse in statute of limitations 
+
+Balance at the end of the fiscal year 
+
+The entire amount reflected in the above table at April 30, 2023, if recognized, would reduce our effective tax rate. As of April 30, 2023, and 2022, the Company had and , respectively, accrued for the payment of interest and penalties. For the fiscal years ended April 30, 2023 and 2022, the Company recognized interest of and , respectively. Although it is difficult to predict or estimate the change in the Company s unrecognized tax benefits over the next twelve months, the Company believes will be recognized in the next twelve months. 
+
+The Company is subject to taxation in the U.S. federal, various state and local, and foreign jurisdictions. The Company is no longer subject to examination of its U.S. federal income tax returns by the Internal Revenue Service for fiscal years 2019 and prior. Net operating losses and tax attributes generated in closed years and utilized in open years are subject to adjustment by the tax authorities. 
+
+reportable segments based on the geographic locations of its subsidiaries: 
+
+(1) 	 	 	 FEI-NY operates out of New York and its operations consist principally of precision time and frequency control products used in principal markets- communication satellites (both commercial and U.S. Government-funded); terrestrial cellular telephone or other ground-based telecommunication stations; and other components and systems for the U.S. military. 	 	 The FEI-NY segment also includes the operations of the Company s wholly-owned subsidiary, FEI-Elcom. FEI-Elcom, in addition to its own product line, provides design and technical support for the FEI-NY segment s satellite business. 	 	 
+
+(2) 
+
+FEI-Zyfer operates out of California and its products incorporate Global Positioning System (GPS) technologies into systems and subsystems for secure communications, both government and commercial, and other locator applications. This segment also provides sales and support for the Company s wireline telecommunications family of products, including US5G, which are sold in the U.S. market. 
+
+The Company measures segment performance based on total revenues and profits generated by each geographic location rather than on the specific types of customers or end-users. Consequently, the Company determined that the segments indicated above most appropriately reflect the way the Company s management views the business. 
+
+The accounting policies of the segments are the same as those described in Note 1. The Company evaluates the performance of its segments and allocates resources to them based on operating profit which is defined as income before investment income, interest expense and taxes. All acquired assets, including intangible assets, are included in the assets of both reporting segments. 
+
+46
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+FEI-Zyfer 
+
+less intersegment revenues 
+
+Consolidated revenues 
+
+FEI-Zyfer 
+
+less intersegment revenues 
+
+Corporate 
+
+Consolidated operating loss 
+
+FEI-Zyfer 
+
+less intersegment balances 
+
+Corporate 
+
+Consolidated identifiable assets 
+
+FEI-Zyfer 
+
+Corporate 
+
+Consolidated depreciation and amortization expense 
+
+Major Customers 
+
+The Company s products are sold to both commercial and governmental customers. For the fiscal years ended April 30, 2023 and 2022, approximately and , respectively, of the Company s sales were made under contracts to the U.S. Government or subcontracts for U.S. Government end-use. 
+
+In the fiscal year ended April 30, 2023, revenues from four customers, of the FEI-NY segment which each accounted for more than 10 of that segment s revenues, were million, million, million, and million. In the fiscal year ended April 30, 2022, revenues from four customers, of the FEI-NY segment which each accounted for more than 10 of that segment s revenues, were million, million, million, and million. In the FEI-Zyfer segment two customers, which each accounted for more than 10 of that segment s revenues, were million and million in the fiscal year ended April 30, 2023. In the fiscal year ended April 30, 2022, revenues from two customers, of the FEI-Zyfer segment which each accounted for more than 10 of that segment s revenues, were million and million. 
+
+47
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+Foreign 
+
+As of April 30, 2023 and 2022, there were no material foreign sales to one specific foreign country. 
+
+The Company establishes warranty reserves based on its product history, current information on repair costs and annual sales levels. 
+
+Warranty costs incurred 
+
+Product warranty accrual 
+
+Balance at end of year 
+
+48
+
+Table of Contents 
+
+FREQUENCY ELECTRONICS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+
+April 30, 2023 and 2022 
+
+Items of other comprehensive income (loss) before reclassification, pretax 
+
+Tax effect 
+
+Items of other comprehensive income (loss) before reclassification, net of taxes 
+
+Reclassification adjustments, pretax 
+
+Tax effect 
+
+Total other comprehensive income (loss), net of taxes 
+
+Balance April 30, 2022, net of taxes 
+
+Items of other comprehensive income (loss) before reclassification, pretax 
+
+Tax effect 
+
+Items of other comprehensive income (loss) before reclassification, net of taxes 
+
+Reclassification adjustments, pretax 
+
+Tax effect 
+
+Total other comprehensive income (loss), net of taxes 
+
+Balance April 30, 2023, net of taxes 
+
+million on or before September 24, 2021. The final settlement occurred on September 21, 2021. 
+
+49
+
+Table of Contents 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+None. 
+
+Item 9A. Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures . 
+
+We maintain disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act )) designed to provide reasonable assurance the information required to be disclosed by us in reports we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms; and (ii) accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosures. 
+
+In connection with the filing of this Annual Report on Form 10-K, the Company s management, with the participation of the Company s chief executive officer and chief financial officer, evaluated the effectiveness of the design and operation of the Company s disclosure controls and procedures as of the end of the period covered by this report. Based on their evaluation, the Company s chief executive officer and chief financial officer have concluded that, as of April 30, 2023, the Company s disclosure controls and procedures were effective at a reasonable assurance level. 
+
+There are inherent limitations to the effectiveness of any system of disclosure controls and procedures, including the possibility of human error and the circumvention or overriding of the controls and procedures. Accordingly, even effective disclosure controls and procedures can only provide reasonable assurance of achieving their control objectives. 
+
+Remediation of Previously Reported Material Weaknesses 
+
+Management assessed the effectiveness of the Company s internal control over financial reporting as of April 30, 2022. Based on this evaluation, the Company s management initially concluded and disclosed in the 2022 Form 10-K that the Company s internal control over financial reporting was effective as of April 30, 2022. However, as previously disclosed in the 2022 Form 10-K, management conducted a re-assessment of the effectiveness of the Company s internal control over financial reporting as of April 30, 2022. In conducting its re-assessment of the effectiveness of the Company s internal control over financial reporting as of April 30, 2022, management concluded that the Company s internal control over financial reporting was not effective as of April 30, 2022, because of certain previously unidentified material weaknesses in internal control over financial reporting related to the presentation of contract assets and contract liabilities on the consolidated balance sheet. The material weaknesses were largely due to the calculations, and errors related to the presentation of contract assets and contract liabilities. In response, the Company implemented the following remediation steps to address the material weaknesses: The Company used additional checks and balances surrounding the calculations and formulas used, as well as additional verification checks regarding the presentation of contract assets and contract liabilities to comply with current reporting requirements. As of April 30, 2023, the Company s management believes the identified material weaknesses have been remediated. 
+
+Management s Report on Internal Control Over Financial Reporting 
+
+The Company s management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. The Company s internal control system is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. GAAP. Because of inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Management assessed the effectiveness of the Company s internal control over financial reporting as of April 30, 2023. In making this assessment, management used the criteria established in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, the Company s management concluded that the Company s internal control over financial reporting was effective as of April 30, 2023. 
+
+50
+
+Table of Contents 
+
+Financial Reporting 
+
+This Annual Report on Form 10-K does not include an attestation report of our registered public accounting firm regarding our internal control over financial reporting. Management s report on internal control over financial reporting is not subject to attestation by our registered public accounting firm. 
+
+Changes in Internal Control over Financial Reporting. 
+
+Except as set forth above, there has been no changes in the Company s internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the fiscal quarter ended April 30, 2023 that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+Item 9B. Other Information 
+
+None. 
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+
+Not applicable. 
+
+51
+
+Table of Contents 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+
+The information required to be furnished pursuant to this item with respect to Directors of the Company, compliance with Section 16(a) of the Exchange Act, the Company s code of ethics and certain corporate governance matters is incorporated herein by reference from the Company s definitive proxy statement to be filed no later than 120 days after April 30, 2023, for the annual meeting of stockholders to be held on or about October 5, 2023 (the 2023 Proxy Statement ). See Election of Directors, Delinquent Section 16(a) Reports, Corporate Governance Matters Code of Ethics, and Certain Information as to Committees and Meetings of the Board from the Company s 2023 Proxy Statement. The information required to be furnished pursuant to this item with respect to Executive Officers is set forth, pursuant to General Instruction G(3) of Form 10-K, under Part I of this Annual Report on Form 10-K. 
+
+Item 11. Executive Compensation 
+
+This item is incorporated herein by reference from the Company s 2023 Proxy Statement under Election of Directors and Executive Compensation. 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+This item is incorporated herein by reference from the Company s 2023 Proxy Statement under Executive Compensation and Stock Ownership of Certain Beneficial Owners and Management. 
+
+EQUITY COMPENSATION PLAN INFORMATION 
+
+Number of securities 
+
+Number of securities 
+
+to be issued upon exercise 
+
+remaining available for 
+
+of outstanding options, 
+
+Weighted-average 
+
+future issuance under 
+
+warrants and rights 
+
+exercise price of 
+
+equity compensation plans 
+
+and vesting of 
+
+outstanding options, 
+
+(excluding securities 
+
+Plan Category 
+
+RSU's and PSU's 
+
+warrants and rights 
+
+reflected in column (a)) 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Equity Compensation Plans 
+
+Approved by Security Holders (1) 
+
+537,021 
+
+10.77 
+
+851,965 
+
+(1) 
+
+The Company s equity compensation plans are described in Note 11 to the Consolidated Financial Statements. 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence 
+
+This item is incorporated herein by reference from the Company s 2023 Proxy Statement under Election of Directors. 
+
+Item 14. Principal Accountant Fees and Services 
+
+This item is incorporated herein by reference from the Company s 2023 Proxy Statement under Appointment of Independent Registered Public Accounting Firm and Report of the Audit Committee. 
+
+52
+
+Table of Contents 
+
+PART IV 
+
+Item 15. Exhibits and Financial Statement Schedules 
+
+(a) 
+
+Index to Financial Statements and Exhibits 
+
+The financial statements and exhibits are listed below and are filed as part of this report. 
+
+(1) FINANCIAL STATEMENTS 
+
+Included in Part II of this report: 
+
+Page(s) 	 	 	 	 	 Report of Independent Registered Public Accounting Firm ; ; PCAOB ID# 	 	 	 24-25 	 	 	 	 	 	 	 	 	 	 	 	 	 Consolidated Balance Sheets 	 	 	 	 	 	 	 	 - April 30, 2023 and 2022 	 	 	 26 	 	 	 	 	 	 	 	 	 	 	 	 	 Consolidated Statements of Operations and Comprehensive Income (Loss) 	 	 	 	 	 	 	 	 - Years ended April 30, 2023 and 2022 	 	 	 27 	 	 	 	 	 	 	 	 	 	 	 	 	 Consolidated Statements of Cash Flows 	 	 	 	 	 	 	 	 - Years ended April 30, 2023 and 2022 	 	 	 28-29 	 	 	 	 	 	 	 	 	 	 	 	 	 Consolidated Statements of Changes in Stockholders Equity 	 	 	 	 	 	 	 	 - Years ended April 30, 2023 and 2022 	 	 	 30 	 	 	 	 	 	 	 	 	 	 	 	 	 Notes to Consolidated Financial Statements 	 	 	 31-49 	 	 
+
+(2) EXHIBITS 
+
+Exhibit No. in 
+
+this Form 10-K 
+
+Description of Exhibit 
+
+NOTE 
+
+2.1 
+
+Stock Purchase Agreement, dated as of February 21, 2012, by and among the Registrant, Elcom Technologies Inc. and the stockholders of Elcom Technologies Inc. identified on the signature pages thereto 
+
+(11) 
+
+3.1 
+
+Copy of Certificate of Incorporation of the Registrant filed with the Secretary of State of Delaware 
+
+(1) 
+
+3.2 
+
+Amendment to Certificate of Incorporation of the Registrant filed with the Secretary of State of Delaware on March 27, 1981 
+
+(2) 
+
+3.3 
+
+Amendment to Certificate of Incorporation of the Registrant filed with Secretary of State of Delaware on October 26, 1984 
+
+(5) 
+
+3.4 
+
+Amendment to Certificate of Incorporation of the Registrant filed with the Secretary of State of Delaware on October 22, 1986 
+
+(7) 
+
+3.5 
+
+Amended and Restated Certificate of Incorporation of the Registrant filed with the Secretary of State of Delaware on October 26, 1987 
+
+(9) 
+
+3.6 
+
+Amended Certificate of Incorporation of the Company filed with the Secretary of State of Delaware on November 2, 1989 
+
+(9) 
+
+3.7 
+
+Amended and Restated By-Laws of the Registrant, as amended 
+
+(13) 
+
+4.1 
+
+Specimen of Common Stock certificate 
+
+(1) 
+
+4.2 
+
+Description of Capital Stock 
+
+(24) 
+
+53
+
+Table of Contents 
+
+Exhibit No. in 
+
+this Form 10-K 
+
+Description of Exhibit 
+
+NOTE 
+
+10.1 
+
+Settlement Agreement dated as of September 13, 2016, by and among Registrant, Privet Fund LP, Privet Fund Management LLC, Ryan J. Levenson and General Lance W. Lord 
+
+(14) 
+
+10.2 
+
+Frequency Electronics, Inc. 2005 Stock Plan 
+
+(16) 
+
+10.3 
+
+Lease Agreement between Registrant and Reckson Operating Partnership, L.P. dated January 6, 1998 
+
+(15) 
+
+10.4 
+
+First Amendment to Lease Amendment between Registrant and RA 55 CLB LLC (as successor-in-interest to Reckson Operating Partnership, L.P.) dated July 25, 2018 
+
+(17) 
+
+10.5 
+
+Registrant s Cash or Deferral Profit Sharing Plan and Trust under Internal Revenue Code Section 401, dated April 1, 1985 
+
+(6) 
+
+10.6 
+
+Amendment dated Jan. 1, 1988 to Registrant s Cash or Deferred Profit Sharing Plan and Trust under Section 401 of Internal Revenue Code 
+
+(8) 
+
+10.7 
+
+Form of Deferred Compensation Agreement 
+
+(18) 
+
+10.8 
+
+Form of Stock Appreciation Rights Agreement 
+
+(19) 
+
+10.9 
+
+Employment Agreement effective as of May 1, 2018, between Stanton Sloane and the Registrant 
+
+(21) 
+
+10.10 
+
+Promissory Note, dated April 12, 2020, by and between Registrant and JPMorgan Chase Bank, N.A. 
+
+(23) 
+
+21 
+
+List of Subsidiaries of Registrant 
+
+(25) 
+
+23.1 
+
+Consent of BDO USA, P.A. 
+
+Filed herewith 
+
+31.1 
+
+Certification of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+Filed herewith 
+
+31.2 
+
+Certification of the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+Filed herewith 
+
+32 
+
+Certifications of the Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+Filed herewith 
+
+101 
+
+The following materials from the Frequency Electronics, Inc. Annual Report on Form 10-K for the fiscal year ended April 30, 2023 formatted in Inline eXtensible Business Reporting Language (XBRL): (i) Consolidated Balance Sheets, (ii) Consolidated Statements of Operations and Comprehensive Income (loss), (iii) Consolidated Statements of Cash Flows, (iv) Consolidated Statements of Changes in Stockholders Equity and (v) Notes to Consolidated Financial Statements 
+
+104 
+
+Cover Page Interaction Data File (formatted as inline XBRL and contained in Exhibit 101) 
+
+54
+
+Table of Contents 
+
+Denoted compensatory plans or arrangements or management contracts 
+
+NOTES: 
+
+(1) 
+
+Filed with the SEC as an exhibit, numbered as indicated above, to the registration statement of Registrant on Form S-1, File No. 2-29609, which exhibit is incorporated herein by reference. 
+
+(2) 
+
+Filed with the SEC as Exhibit 3.2 to the registration statement of Registrant on Form S-1, File No. 2-71727, which exhibit is incorporated herein by reference. 
+
+(3) 
+
+[Intentionally Omitted] 
+
+(4) 
+
+[Intentionally Omitted] 
+
+(5) 
+
+Filed with the SEC as Exhibit 3.3 to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 1985, which exhibit is incorporated herein by reference. 
+
+(6) 
+
+Filed with the SEC as Exhibit 10.16 to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 1986, which exhibit is incorporated herein by reference. 
+
+(7) 
+
+Filed with the SEC as Exhibit 3.4 to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 1987, which exhibit is incorporated herein by reference. 
+
+(8) 
+
+Filed with the SEC as Exhibit 10.24 to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 1989, which exhibit is incorporated herein by reference. 
+
+(9) 
+
+Filed with the SEC as an exhibit, numbered as indicated above, to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 1990, which exhibit is incorporated herein by reference. 
+
+(10) 
+
+[Intentionally Omitted] 
+
+(11) 
+
+Filed with the SEC as Exhibit 2.1 to the current report of Registrant on Form 8-K, File No. 1-8061, on February 27, 2012, which exhibit is incorporated herein by reference. 
+
+(12) 
+
+[Intentionally Omitted] 
+
+(13) 
+
+Filed with the SEC as Exhibit 3.1 to a current report of the Registrant on Form 8-K, File No. 1-8061, on June 25, 2020, which exhibit is incorporated herein by reference. 
+
+(14) 
+
+Filed with the SEC as Exhibit 10.1 to a current report of the Registrant on Form 8-K, File No. 1-8061, on September 16, 2016, which exhibit is incorporated herein by reference. 
+
+(15) 
+
+Filed with the SEC as Exhibit 10.13 to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 1998, which exhibit is incorporated herein by reference. 
+
+(16) 
+
+Filed with the SEC as Exhibit 10.1 to a current report of the Registrant on Form 8-K, File No. 1-8061, on October 4, 2005, which exhibit is incorporated herein by reference. 
+
+(17) 
+
+Filed with the SEC as Exhibit 10.13 to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 2018, which exhibit is incorporated herein by reference. 
+
+(18) 
+
+Filed with the SEC as Exhibit 10.17 to Amendment No. 1 on Form 10-K/A to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 2018, which exhibit is incorporated herein by reference. 
+
+(19) 
+
+Filed with the SEC as Exhibit 10.18 to Amendment No. 1 on Form 10-K/A to the annual report of Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 2018, which exhibit is incorporated herein by reference. 
+
+(20) 
+
+[Intentionally Omitted] 
+
+(21) 
+
+Filed with the SEC as Exhibit 10.11 to the annual report of the Registrant on Form 10-K, File No. 1-8061, for the year ended April 30, 2019, which exhibit is incorporated herein by reference. 
+
+(22) 
+
+Filed with the SEC as Exhibit 16.1 to a current report of the Registrant on Form 8-K, File No. 1-8061, on July 30, 2019, which exhibit is incorporated herein by reference. 
+
+(23) 
+
+Filed with the SEC as Exhibit 10.11 to the annual report of the Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 2020, which exhibit is incorporated herein by reference. 
+
+(24) 
+
+Filed with the SEC as Exhibit 4.2 to the annual report of the Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 2021, which exhibit is incorporated herein by reference. 
+
+(25) 
+
+Filed with the SEC as Exhibit 21 to the annual report of the Registrant on Form 10-K, File No. 1-8061, for the fiscal year ended April 30, 2022, which exhibit is incorporated herein by reference. 
+
+Item 16. Form 10-K Summary. 
+
+None. 
+
+55
+
+Table of Contents 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+FREQUENCY ELECTRONICS, INC. 
+
+By: 
+
+/s/ Thomas McClelland 
+
+Thomas McClelland 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+By: 
+
+/s/ Steven L. Bernstein 
+
+Steven L. Bernstein 
+
+Chief Financial Officer, Secretary and Treasurer 
+
+(Principal Financial and Accounting Officer) 
+
+Dated: July 27, 2023 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated: 
+
+Signature 
+
+Title 
+
+Date 
+
+/s/ Jonathan Brolin 
+
+Lead Independent Director 
+
+July 27, 2023 
+
+Jonathan Brolin 
+
+/s/ Richard Schwartz 
+
+Director 
+
+July 27, 2023 
+
+Richard Schwartz 
+
+/s/ Russell M. Sarachek 
+
+Chairman of the Board 
+
+July 27, 2023 
+
+Russell M. Sarachek 
+
+/s/ GEN Lance W. Lord, USAF, ret 
+
+Director 
+
+July 27, 2023 
+
+Lance W. Lord 
+
+56
+
+<EX-23.1>
+ 2
+ ex_546191.htm
+ EXHIBIT 23.1
+
+ex_546191.htm 
+
+Exhibit 23.1 
+
+Consent of Independent Registered Public Accounting Firm 
+
+Frequency Electronics, Inc. 
+
+ Mitchel Field, New York 
+
+We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (Nos. 333-08901, 333-40506, 333-140938, 333-156600, 333-42233 and 333-188952) of Frequency Electronics, Inc. of our report dated July 27, 2023, relating to the consolidated financial statements which appears in this Annual Report on Form 10-K. 
+
+/s/ BDO USA, P.A. 
+
+Melville, New York 
+
+ July 27, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ ex_546196.htm
+ EXHIBIT 31.1
+
+ex_546196.htm 
+
+Exhibit 31.1 
+
+Certification 
+
+I, Thomas McClelland, certify that: 
+
+1. I have reviewed this Annual Report on Form 10-K of Frequency Electronics, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: July 27, 2023 
+
+By: /s/ Thomas McClelland 
+
+ Thomas McClelland 
+
+ President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex_546197.htm
+ EXHIBIT 31.2
+
+ex_546197.htm 
+
+Exhibit 31.2 
+
+Certification 
+
+I, Steven L. Bernstein, certify that: 
+
+1. I have reviewed this Annual Report on Form 10-K of Frequency Electronics, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: July 27, 2023 
+
+By: /s/ Steven L. Bernstein 
+
+ Steven L. Bernstein 
+
+ Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ ex_546198.htm
+ EXHIBIT 32
+
+ex_546198.htm 
+
+Exhibit 32 
+
+CERTIFICATION PURSUANT TO 
+
+ SECTION 906 OF 
+
+ THE SARBANES-OXLEY ACT OF 2002 
+
+Certification of CEO 
+
+ In connection with the Annual Report of Frequency Electronics, Inc. (the Company on Form 10-K for the fiscal year ended April 30, 2023 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Thomas McClelland, President and Chief Executive Officer of the Company, certify, pursuant to Section 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13(a) and 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Thomas McClelland 
+
+July 27, 2023 
+
+Thomas McClelland 
+
+President and Chief Executive Officer 
+
+Certification of CFO 
+
+ In connection with the Annual Report of Frequency Electronics, Inc. (the Company on Form 10-K for the fiscal year ended April 30, 2023 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Steven L. Bernstein, Chief Financial Officer of the Company, certify, pursuant to Section 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13(a) and 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Steven L. Bernstein 
+
+July 27, 2023 
+
+Steven L. Bernstein 
+
+Chief Financial Officer 
+
+A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request . 
+
+</EX-32>
+
+<EX-101.SCH>
+ 6
+ feim-20230430.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ feim-20230430_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ feim-20230430_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ feim-20230430_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ feim-20230430_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

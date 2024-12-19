@@ -1,0 +1,1539 @@
+<Header>
+<FileStats>
+    <FileName>20230324_10-K_edgar_data_894329_0001193125-23-079192.txt</FileName>
+    <GrossFileSize>230404</GrossFileSize>
+    <NetFileSize>79547</NetFileSize>
+    <NonText_DocumentType_Chars>16274</NonText_DocumentType_Chars>
+    <HTML_Chars>119589</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-23-079192.hdr.sgml : 20230324
+<ACCEPTANCE-DATETIME>20230324163259
+ACCESSION NUMBER:		0001193125-23-079192
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20221231
+<DEPOSITOR-CIK>0001645731
+<SPONSOR-CIK>0000894327
+FILED AS OF DATE:		20230324
+DATE AS OF CHANGE:		20230324
+ABS ASSET CLASS:             	Credit card
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Discover Card Execution Note Trust
+		CENTRAL INDEX KEY:			0001407200
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				510020270
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-141703-02
+		FILM NUMBER:		23760308
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O DISCOVER BANK
+		STREET 2:		800 PRIDES CROSSING SUITE 100
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19713
+		BUSINESS PHONE:		3023237315
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DISCOVER BANK
+		STREET 2:		800 PRIDES CROSSING SUITE 100
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19713
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Discover Funding LLC
+		CENTRAL INDEX KEY:			0001645731
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				474047337
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-205455
+		FILM NUMBER:		23760310
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 PRIDES CROSSING
+		STREET 2:		SUITE 100
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19713
+		BUSINESS PHONE:		303-323-7315
+
+	MAIL ADDRESS:	
+		STREET 1:		800 PRIDES CROSSING
+		STREET 2:		SUITE 100
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19713
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DISCOVER CARD MASTER TRUST I
+		CENTRAL INDEX KEY:			0000894329
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				510020270
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-23108
+		FILM NUMBER:		23760309
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O DISCOVER BANK
+		STREET 2:		800 PRIDES CROSSING SUITE 100
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19713
+		BUSINESS PHONE:		3023237315
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DISCOVER BANK
+		STREET 2:		800 PRIDES CROSSING SUITE 100
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19713
+
+</SEC-Header>
+</Header>
+
+ 0001193125-23-079192.txt : 20230324
+
+10-K
+ 1
+ d400645d10k.htm
+ 10-K
+
+10-K 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 10-K (Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ For the fiscal year ended December 31, 2022 
+ or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ For the transition period from
+ to
+ 
+ DISCOVER CARD
+EXECUTION NOTE TRUST (Exact name of issuing entity in respect of the notes as specified in its charter) 
+ 
+ Commission File Numbers of issuing entity in respect of the notes: 
+ 333-141703-02, 
+ 333-167413, 333-191359, 333-205455-01, 333-228025-02, 333-260957 Central Index Key Number
+of issuing entity in respect of the notes: 0001407200 
+ DISCOVER CARD
+MASTER TRUST I (Exact name of issuing entity in respect of the Series 2007-CC Collateral
+Certificate as specified in its charter) 
+ Commission
+File Numbers of issuing entity in respect of the Series 2007-CC Collateral Certificate: 000-23108, 333-141703, 333-167413-02, 333-191359-02, 333-205455-02, 333-228025-01, 333-260957-02 Central Index Key Number of issuing entity
+in respect of the Series 2007-CC Collateral Certificate: 0000894329 
+ DISCOVER BANK
+ (Exact name of sponsor as specified in its charter) 
+ 
+ Commission File Numbers of sponsor: 
+ 033-54804, 
+ 333-141703-01, 333-167413-01, 333-191359-01 Central Index Key Number of sponsor: 0000894327 
+ 
+ DISCOVER FUNDING LLC 
+ (Exact name of depositor as specified in its charter) 
+ Commission
+File Number of depositor: 333-205455, 333-228025, 333-260957-01 Central Index Key Number of depositor:
+0001645731 
+
+Delaware 
+ 
+ 51-0020270 
+ 
+ (State of organization) 
+ 
+ (I.R.S. Employer Identification No. of the sponsor) 
+
+47-4047337 
+
+(I.R.S. Employer Identification No. of the depositor) 
+ 
+ 800 Prides Crossing, 
+ Suite 100 Newark,
+Delaware 
+ 
+ 19713 
+ 
+ (Address of principal executive offices) 
+ 
+ (Zip Code) 
+ Depositor s telephone number, including area code:
+ (302) 323-7315 Securities registered pursuant to Section 12(b) of the Act: None
+ Securities registered pursuant to Section 12(g) of the Act: None 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act. Yes No Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+days. Yes No Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period
+that the registrant was required to submit such files). Yes No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated 
+filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal
+control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Act). Yes No State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common
+equity, as of the last business day of the registrant s most recently completed second fiscal quarter. Registrant has no voting or non-voting common equity outstanding held by non-affiliates. Documents
+incorporated by reference: None. 
+
+PART I 
+ The following Items have been omitted in accordance with General Instruction J to Form 10-K: 
+
+Item 1. 
+ 
+ Business. 
+
+Item 1A. 
+ 
+ Risk Factors. 
+
+Item 2. 
+ 
+ Properties. 
+
+Item 3. 
+ 
+ Legal Proceedings. 
+ Item 1B. Unresolved Staff Comments. 
+ Not applicable. Item 4. Mine Safety
+Disclosures. Not applicable. 
+ Substitute information provided in accordance with General Instruction J to Form 10-K: 
+ Item 1112(b) of Regulation AB. Significant Obligors of Pool Assets (Financial Information). 
+ The primary asset of Discover Card Execution Note Trust (the Note Issuance Trust is the Discover Card Master Trust I,
+Series 2007-CC collateral certificate, which represents an undivided interest in Discover Card Master Trust I (the Master Trust ), whose assets include Discover Card receivables existing as
+of specified dates in designated accounts, which receivables have been transferred to the Master Trust by Discover Bank and Discover Funding LLC, as applicable. The investor interest in receivables for the collateral certificate reflects the
+aggregate nominal liquidation amount of notes issued by the Note Issuance Trust. The Master Trust, therefore, may be considered a significant obligor in relation to the Note Issuance Trust. Pursuant to Instruction 3.b. to Item 1112(b) of
+Regulation AB, the information required by Instruction J to Form 10-K in respect of the Master Trust has been disclosed in this report on Form 10-K in lieu of the
+information otherwise contemplated by Item 1112(b). The pool assets held by the Master Trust do not include any significant
+obligors. Item 1114(b)(2) of Regulation AB. Credit Enhancement and Other Support, Except for Certain Derivatives Instruments (Information
+Regarding Significant Enhancement Providers) (Financial Information). Not applicable. 
+ Item 1115(b) of Regulation AB. Certain Derivatives Instruments (Financial Information). 
+ Not applicable. Item 1117 of Regulation
+AB. Legal Proceedings. Discover Bank 
+ In the normal course of business, from time to time, Discover Bank and/or one or more of its affiliates have been named as a defendant in
+various legal actions, including arbitrations, class actions, and other litigation, arising in connection with our activities. Certain of the actual or threatened legal actions include claims for substantial compensatory and/or punitive damages or
+claims for indeterminate amounts of damages. Discover Bank contests liability and/or the amount of damages as appropriate in each pending matter. 
+ Discover Bank and its affiliates are also involved, from time to time, in other reviews, investigations and proceedings (both formal and
+informal) by governmental regulatory and enforcement agencies regarding its business, including, among other matters, accounting, tax and operational matters, some of which may result in adverse judgments, settlements, fines, penalties, injunctions,
+decreases in regulatory ratings or other relief, which could materially impact Discover Bank s financial results, increase its cost of operations, require a change in business activities and product offerings or limit its ability to execute its
+business strategies and engage in certain business activities. 
+ 2 
+
+In July 2015, Discover Bank, The Student Loan Corporation SLC and Discover
+Products Inc. DPI agreed to a consent order with the Consumer Financial Protection Bureau CFPB with respect to certain private student loan servicing practices (the 2015 Order ). The 2015 Order expired in July
+2020. In December 2020, Discover Bank, SLC and DPI agreed to a consent order (the 2020 Order with the CFPB resolving the agency s investigation into Discover Bank s compliance with the 2015 Order. In connection with the 2020
+order, Discover is required to implement a redress and compliance plan and must pay at least 10 million in consumer redress to consumers who may have been harmed and paid a 25 million civil money penalty to the CFPB. 
+ U.S. Bank Trust Company, National Association (Successor to U.S. Bank National Association) 
+ U.S. Bank Trust Company, National Association, a national banking association U.S. Bank Trust Co. ), will act as the indenture
+trustee for the note issuance trust, also acts as trustee for the master trust and as registrar and paying agent under the Pooling and Servicing Agreement and the series supplement for Series 2007-CC and the
+other series of master trust certificates, if any. U.S. Bank National Association U.S. Bank N.A. made a strategic decision
+to reposition its corporate trust business by transferring substantially all of its corporate trust business to its affiliate, U.S. Bank Trust Co., a non-depository trust company (U.S. Bank N.A. and U.S. Bank
+Trust Co. are collectively referred to herein as U.S. Bank. ). Upon U.S. Bank Trust Co. s succession to the business of U.S. Bank N.A., it became a wholly owned subsidiary of U.S. Bank N.A. The Indenture Trustee will maintain the
+accounts of the issuing entity in the name of the Indenture Trustee at U.S. Bank N.A. U.S. Bancorp, with total assets exceeding
+ 675 billion as of December 31, 2022, is the parent company of U.S. Bank N.A., the fifth largest commercial bank in the United States. As of December 31, 2022, U.S. Bancorp operated over 2,200 branch offices in 26 states. A network of
+specialized U.S. Bancorp offices across the nation provides a comprehensive line of banking, brokerage, insurance, investment, mortgage, trust and payment services products to consumers, businesses, and institutions. 
+ U.S. Bank has one of the largest corporate trust businesses in the country with office locations in 48 domestic and 2 international cities.
+The Pooling and Servicing Agreement and the indenture will be administered from U.S. Bank s corporate trust office located at 190 South LaSalle Street, 7th Floor, Chicago, IL 60603. 
+ U.S. Bank has provided corporate trust services since 1924. As of December 31, 2022, U.S. Bank was acting as trustee with respect to over
+124,000 issuances of securities with an aggregate outstanding principal balance of over 5.6 trillion. This portfolio includes corporate and municipal bonds, mortgage-backed and asset-backed securities and collateralized debt obligations. 
+ As trustee, paying agent, and registrar with respect to the master trust, U.S. Bank Trust Co. will make each certificateholders monthly
+statement available to the certificateholders and noteholders via the master trust trustee s internet website at https://pivot.usbank.com. Noteholders with questions may direct them to the master trust trustee s bondholder services group
+at (800) 934-6802. As of December 31, 2022, U.S. Bank (and its affiliate U.S. Bank Trust
+National Association) was acting as indenture trustee, registrar and paying agent on 42 issuances of credit card receivables-backed securities with an outstanding aggregate principal balance of approximately 27,809,200,000. 
+ U.S. Bank N.A. and other large financial institutions have been sued in their capacity as trustee or successor trustee for certain residential
+mortgage-backed securities RMBS trusts. The complaints, primarily filed by investors or investor groups against U.S. Bank N.A. and similar institutions, allege the trustees caused losses to investors as a result of alleged failures by
+the sponsors, mortgage loan sellers and servicers to comply with the governing agreements for these RMBS trusts. Plaintiffs generally assert causes of action based upon the 
+ 3 
+
+trustees purported failures to enforce repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties, notify securityholders of purported events of
+default allegedly caused by breaches of servicing standards by mortgage loan servicers and abide by a heightened standard of care following alleged events of default. 
+ U.S. Bank N.A. denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were
+not the cause of losses to investors, that it has meritorious defenses, and it has contested and intends to continue contesting the plaintiffs claims vigorously. However, U.S. Bank N.A. cannot assure you as to the outcome of any of the
+litigation, or the possible impact of these litigations on the trustee or the RMBS trusts. On March 9, 2018, a law firm purporting
+to represent fifteen Delaware statutory trusts (the DSTs that issued securities backed by student loans (the Student Loans filed a lawsuit in the Delaware Court of Chancery against U.S. Bank N.A. in its capacities as
+indenture trustee and successor special servicer, and three other institutions in their respective transaction capacities, with respect to the DSTs and the Student Loans. This lawsuit is captioned The National Collegiate Student Loan Master Trust
+I, et al. v. U.S. Bank National Association, et al. , C.A. No. 2018-0167-JRS (Del. Ch.) (the NCMSLT Action ). The complaint, as amended on June 15, 2018, alleged that the DSTs have been
+harmed as a result of purported misconduct or omissions by the defendants concerning administration of the trusts and special servicing of the Student Loans. Since the filing of the NCMSLT Action, certain Student Loan borrowers have made assertions
+against U.S. Bank N.A. concerning special servicing that appear to be based on certain allegations made on behalf of the DSTs in the NCMSLT Action. 
+ U.S. Bank N.A. has filed a motion seeking dismissal of the operative complaint in its entirety with prejudice pursuant to Chancery Court Rules
+12(b)(1) and 12(b)(6) or, in the alternative, a stay of the case while other prior filed disputes involving the DSTs and the Student Loans are litigated. On November 7, 2018, the Court ruled that the case should be stayed in its entirety
+pending resolution of the first-filed cases. On January 21, 2020, the Court entered an order consolidating for pretrial purposes the NCMSLT Action and three other lawsuits pending in the Delaware Court of Chancery concerning the DSTs and the
+Student Loans, which remains pending. U.S. Bank N.A. denies liability in the NCMSLT Action and believes it has performed its obligations
+as indenture trustee and special servicer in good faith and in compliance in all material respects with the terms of the agreements governing the DSTs and that it has meritorious defenses. It has contested and intends to continue contesting the
+plaintiffs claims vigorously. PART II 
+ The following Items have been omitted in accordance with General Instruction J to Form 10-K: 
+
+Item 5. 
+ 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Item 6. 
+ 
+ Selected Financial Data. 
+
+Item 7. 
+ 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Item 7A. 
+ 
+ Quantitative and Qualitative Disclosures About Market Risk. 
+
+Item 8. 
+ 
+ Financial Statements and Supplementary Data. 
+
+Item 9. 
+ 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+Item 9A. 
+ 
+ Controls and Procedures. 
+ Item 9B. Other Information. 
+ None. 
+ 4 
+
+PART III 
+ The following Items have been omitted in accordance with General Instruction J to Form 10-K: 
+
+Item 10. 
+ 
+ Directors, Executive Officers and Corporate Governance. 
+
+Item 11. 
+ 
+ Executive Compensation. 
+
+Item 12. 
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+Item 13. 
+ 
+ Certain Relationships and Related Transactions, and Director Independence. 
+
+Item 14. 
+ 
+ Principal Accountant Fees and Services. 
+ Substitute information provided in accordance with General Instruction J to Form
+ 10-K: Item 1119 of Regulation AB. Affiliations and Certain Relationships and Related Transactions.
+ Discover Bank, which acts as the sponsor of its securitizations, is a wholly owned subsidiary of Discover Financial Services. Discover
+Funding LLC, which is a wholly owned subsidiary of Discover Bank, acts as depositor and beneficiary for the Note Issuance Trust and as holder of the residual transferor interest of the Master Trust. Discover Financial Services acquired Discover Bank
+in January 1985. Discover Bank and the trustee for the Master Trust formed the Master Trust in October 1993. Discover Bank originates the credit card receivables generated under certain designated Discover card accounts and transfers such credit
+card receivables to Discover Funding LLC for further transfer to the Master Trust. Discover Bank and the owner trustee formed the Note Issuance Trust on July 2, 2007. Discover Bank transferred an undivided interest in the receivables and other
+assets of the Master Trust, represented by the collateral certificate, to the Note Issuance Trust to support the issuance of notes on July 26, 2007. 
+ Discover Bank acts as master servicer for the Master Trust and is currently the only servicer under the Pooling and Servicing Agreement with
+respect to the receivables. During the reporting period, Discover Bank outsourced certain servicing functions to its affiliate, DPI. While DPI has contracted with third-party service providers for certain services, Discover Bank is ultimately
+responsible for the overall servicing function. Discover Bank also acts as calculation agent for the Note Issuance Trust, which is part of the servicing function. 
+
+Item 1122 
+ of Regulation AB. Compliance with Applicable Servicing Criteria. 
+ Each of Discover Bank, DPI, U.S. Bank National Association and U.S. Bank Trust Company, National Association (each, a Servicing
+Participant has been identified as a party participating in the servicing function during the reporting period with respect to the pool assets held by each of the Master Trust and the Note Issuance Trust. Each of Discover Bank, DPI, U.S.
+Bank National Association and U.S. Bank Trust Company, National Association has completed a report on an assessment of compliance with the servicing criteria applicable to such Servicing Participant (each, a Report on Assessment during the year ended December 31, 2022, which Reports on Assessment are attached as exhibits to this Form 10-K. In addition, each of Discover Bank, DPI, U.S. Bank National Association and U.S. Bank Trust
+Company, National Association has provided an attestation report (each, an Attestation Report by a registered independent public accounting firm regarding its related Report on Assessment. Each Attestation Report is attached as
+an exhibit to this Form 10-K. None of the Reports on Assessment or the related Attestation Reports has identified any material instances of noncompliance with the servicing criteria applicable to such
+Servicing Participant described in the related Report on Assessment. 
+
+Item 1123 
+ of Regulation AB. Servicer Compliance Statement. 
+ Each of Discover Bank and DPI has been identified as a servicer during the reporting period with respect to the pool assets held by each of the
+Master Trust and the Note Issuance Trust. Each of Discover Bank and DPI has provided a statement of compliance (each, a Compliance Statement with respect to the servicing activities conducted during the Note Issuance Trust s
+year ended December 31, 2022, signed by an authorized officer, and each such Compliance Statement is attached as an exhibit to this Form 10-K. 
+ 5 
+
+PART IV 
+ Item 15. Exhibits, Financial Statement Schedules. 
+
+(a) 
+ List of documents filed as part of this Report 
+
+(1) 
+ Not applicable. 
+
+(2) 
+ Not applicable. 
+
+(3) 
+ The exhibits filed in response to Item 601 of Regulation S-K are listed
+below and either included or incorporated by reference as indicated: 
+
+EXHIBIT 
+ 
+ DESCRIPTION 
+
+3.1 
+ 
+ Limited Liability Company Agreement of Discover Funding LLC, dated as of May 18, 2015 (incorporated by reference to Exhibit 3.1 to Discover Funding
+LLC s Form SF-3 filed on December 9, 2015). 
+
+4.1 
+ 
+ Receivables Sale and Contribution Agreement, between Discover Bank and Discover Funding LLC, dated as of December 22, 2015 (incorporated by reference
+ to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on December 23, 2015). 
+
+4.2 
+ 
+ Third Amended and Restated Pooling and Servicing Agreement, among Discover Bank as Master Servicer and Servicer, Discover Funding LLC, as Depositor
+ and U.S. Bank National Association, as Trustee, dated as of December 22, 2015 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report on Form 8-K filed on December 23,
+2015). 
+
+4.3.1 
+ 
+ Amended and Restated Series Supplement for Series 2007-CC, between Discover Bank, as Master Servicer and Servicer, Discover Funding LLC, as Depositor
+ and U.S. Bank National Association, as Trustee, dated as of December 22, 2015, including the form of collateral certificate (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust s Current Report on Form 8-K filed on December 23, 2015). 
+
+4.3.2 
+ 
+ Collateral Certificate Transfer Agreement, between Discover Bank, as Depositor, and Discover Card Execution Note Trust, dated as of July 26, 2007
+(incorporated by reference to Exhibit 4.4 to the Note Issuance Trust s Current Report on Form 8-K filed on July 27, 2007 (No. 033-54804, 000-23108 and 333-141703-02)). 
+
+4.3.3 
+ 
+ Series Termination Date Extension Agreement, between Discover Bank, as Master Servicer and as Servicer, Discover Funding LLC, as Transferor, and
+ U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Trustee, dated as of January 31, 2023 (incorporated by reference to Exhibit 99.1 to the Note Issuance Trust s Current Report on Form 8-K filed
+on February 1, 2023). 
+
+4.4 
+ 
+ Amended and Restated Indenture, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee,
+ dated as of December 22, 2015 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust s Current Report on Form 8-K filed on December 23, 2015). 
+
+4.5 
+ 
+ Second Amended and Restated Indenture Supplement for the DiscoverSeries Notes, between Discover Card Execution Note Trust, as Issuer, and U.S.
+ Bank National Association, as Indenture Trustee, dated as of December 22, 2015 (incorporated by reference to Exhibit 4.5 to the Note Issuance Trust s Current Report on Form 8-K filed on December 23,
+2015). 
+
+4.6 
+ 
+ Amended and Restated Trust Agreement, between Wilmington Trust Company, as Owner Trustee, and Discover Funding LLC, as Beneficiary, dated as of
+December 22, 2015 (incorporated by reference to Exhibit 4.6 to the Note Issuance Trust s Current Report on Form 8-K filed on December 23, 2015). 
+
+4.7.1 
+ 
+ Class A(2008-C) Terms Document between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated
+ as of August 28, 2008 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on August 29, 2008 (No. 033-54804, 000-23108 and 333-141703-02)).
+
+4.7.2 
+ 
+ Omnibus Amendment to Indenture Supplement and Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association,
+ as Indenture Trustee, dated as of July 2, 2009 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on July 6, 2009 (No. 033-54804, 000-23108 and 333-141703-02)). 
+ 
+ 6 
+
+4.7.3 
+ 
+ Class 
+D(2009-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of July 2, 2009 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report
+ on Form 8-K filed on July 6, 2009 (No. 033-54804, 000-23108 and 333-141703-02)). 
+
+4.7.4 
+ 
+ Omnibus Amendment to Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee,
+ dated as of January 13, 2010 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on January 13, 2010 (No. 033-54804, 000-23108 and 333-141703-02)). 
+
+4.7.5 
+ 
+ Third Omnibus Amendment to Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee,
+dated as of June 4, 2010 (incorporated by reference to Exhibit 4.6 to the Note Issuance Trust s Current Report on Form 8-K filed on June 4, 2010 (No. 033-54804, 000-23108 and
+ 333-141703-02)). 
+
+4.7.6 
+ 
+ Class 
+A(2010-D) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of November 23, 2010 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current
+ Report on Form 8-K filed on November 23, 2010 (No. 033-54804, 000-23108 and 333-141703-02)). 
+
+4.7.7 
+ 
+ Class 
+A(2011-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of January 28, 2011 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report
+ on Form 8-K filed on February 1, 2011 (No. 033-54804, 000-23108 and 333-141703-02)). 
+
+4.7.8 
+ 
+ Third Amendment to Class 
+A(2008-C) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of August 30, 2013 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report
+on Form 8-K filed on August 30, 2013 (No. 033-54804, 000-23108 and 333-141703-02)). 
+
+4.7.9 
+ 
+ Class 
+A(2015-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of June 19, 2015 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report
+ on Form 8-K filed on June 22, 2015 (No. 033-54804, 000-23108 and 333-141703-02)). 
+
+4.7.10 
+ 
+ Omnibus Amendment to Specified Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture
+ Trustee, dated as of February 24, 2016 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on February 24, 2016). 
+
+4.7.11 
+ 
+ Omnibus Amendment to Specified Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture
+ Trustee, dated as of October 26, 2016 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on October 26, 2016). 
+
+4.7.12 
+ 
+ Class 
+A(2017-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of April 25, 2017 (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust s Current Report
+ on Form 8-K filed on April 25, 2017). 
+
+4.7.13 
+ 
+ Class 
+A(2017-5) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of June 30, 2017 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report
+ on Form 8-K filed on July 5, 2017). 
+ 
+ 7 
+
+4.7.14 
+ 
+ Omnibus Amendment to Specified Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture
+ Trustee, dated as of September 27, 2017 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on September 27, 2017). 
+
+4.7.15 
+ 
+ Class 
+A(2018-6) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of October 11, 2018 (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust s Current Report
+ on Form 8-K filed on October 12, 2018). 
+
+4.7.16 
+ 
+ Class 
+A(2019-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of June 25, 2019 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report
+ on Form 8-K filed on June 28, 2019). 
+
+4.7.17 
+ 
+ Amendment No. 1 to Master Indenture and Amendment No. 
+1 to Second Amendment and Restated Indenture Supplement, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of August 27, 2019 (incorporated by reference to Exhibit 4.2 to the Note Issuance
+ Trust s Current Report on Form 8-K filed on August 28, 2019) (No. 033-54804, 000-23108, 333-141703-02 and 333-205455). 
+
+4.7.18 
+ 
+ Omnibus Amendment to Specified Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture
+ Trustee, dated as of August 27, 2019 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report on Form 8-K filed on August 28, 2019) (No. 033-54804, 000-23108, 333-141703-02 and 333-205455). 
+
+4.7.19 
+ 
+ Class 
+A(2021-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of September 27, 2021 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current
+ Report on Form 8-K filed on September 28, 2021). 
+
+4.7.20 
+ 
+ Class 
+A(2021-2) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of September 27, 2021 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current
+ Report on Form 8-K filed on September 28, 2021). 
+
+4.7.21 
+ 
+ Class 
+A(2022-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of February 22, 2022 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current
+ Report on Form 8-K filed on February 22, 2022). 
+
+4.7.22 
+ 
+ Class 
+A(2022-2) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of May 26, 2022 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust s Current Report
+ on Form 8-K filed on May 26, 2022). 
+
+4.7.23 
+ 
+ Class 
+A(2022-3) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of August 9, 2022 (incorporated by reference
+ to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on August 10, 2022). 
+
+4.7.24 
+ 
+ Class 
+A(2022-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of November 28, 2022 (incorporated by reference
+ to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on November 29, 2022). 
+ 
+ 8 
+
+4.7.25 
+ 
+ Class 
+B(2020-3) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of December 
+9, 2020 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report on Form 8-K filed on December 11, 2020). 
+
+4.7.26 
+ 
+ Class 
+B(2020-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of December 
+9, 2020 (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust s Current Report on Form 8-K filed on December 11, 2020). 
+
+4.7.27 
+ 
+ Class 
+C(2020-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of December 
+9, 2020 (incorporated by reference to Exhibit 4.5 to the Note Issuance Trust s Current Report on Form 8-K filed on December 11, 2020). 
+
+4.7.28 
+ 
+ Class 
+C(2020-5) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of December 
+9, 2020 (incorporated by reference to Exhibit 4.6 to the Note Issuance Trust s Current Report on Form 8-K filed on December 11, 2020). 
+
+4.7.29 
+ 
+ Class 
+B(2023-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of January 31, 2023 (incorporated by reference
+ to Exhibit 4.1 to the Note Issuance Trust s Current Report on Form 8-K filed on February 1, 2023). 
+
+4.7.30 
+ 
+ Class 
+C(2023-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of January 31, 2023 (incorporated by reference
+ to Exhibit 4.2 to the Note Issuance Trust s Current Report on Form 8-K filed on February 1, 2023). 
+
+4.8.1 
+ 
+ Class 
+A(2017-4) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of April 25, 2017 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust s Current Report on Form
+ 8-K filed on April 25, 2017). 
+
+4.8.2 
+ 
+ Class 
+A(2017-5) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of June 30, 2017 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report on Form
+ 8-K filed on July 5, 2017). 
+
+4.8.3 
+ 
+ Class 
+A(2018-6) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of October 11, 2018 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust s Current Report on Form
+ 8-K filed on October 12, 2018). 
+
+4.8.4 
+ 
+ Class A(2021-1) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as
+of September 27, 2021 (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust s Current Report on Form 8-K filed on September 28, 2021). 
+
+4.8.5 
+ 
+ Class 
+A(2021-2) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of September 27, 2021 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust s Current Report on
+Form 8-K filed on September 28, 2021). 
+
+4.8.6 
+ 
+ Class 
+A(2022-1) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of February 22, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report on
+ Form 8-K filed on February 22, 2022). 
+ 
+ 9 
+
+4.8.7 
+ 
+ Class 
+A(2022-2) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of May 26, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report on Form
+ 8-K filed on May 26, 2022). 
+
+4.8.8 
+ 
+ Class 
+A(2022-3) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of August 9, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report on Form
+ 8-K filed on August 10, 2022). 
+
+4.8.9 
+ 
+ Class 
+A(2022-4) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of November 
+28, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust s Current Report on Form 8-K filed on November 29, 2022). 
+
+10.1 
+ 
+ Second Amended and Restated Master Services Agreement, between Discover Financial Services, Discover Bank and other affiliated entities party
+ thereto, dated as of March 15, 2018 (incorporated by reference to Exhibit 99.1 to the Note Issuance Trust s Current Report on Form 8-K filed on March 21, 2018). 
+
+10.2 
+ 
+ Fourth Amended and Restated Services Addendum, between Discover Products Inc. and Discover Bank, dated as of November 1, 2019 (incorporated by
+reference to Exhibit 99.1 to the Note Issuance Trust s Current Report on Form 8-K filed on November 13, 2019). 
+
+10.3 
+ 
+ Collateral Account Control Agreement, between Discover Card Execution Note Trust, as Grantor, U.S. Bank National Association, as Secured Party,
+ and U.S. Bank National Association, as Securities Intermediary, dated as of July 26, 2007 (incorporated by reference to Exhibit 10.1 to the Note Issuance Trust s Current Report on Form 8-K filed on July
+27, 2007 (No. 033-54804, 000- 23108 and 333-141703-02)). 
+
+10.4 
+ 
+ Amendment No. 
+1 to Collateral Account Control Agreement, between Discover Card Execution Note Trust, as Grantor, U.S. Bank Trust Company, National Association (as successor U.S. Bank National Association), as Secured Party, and U.S. Bank National Association, as Securities
+ Intermediary, dated as of July 1, 2022 (incorporated by reference to Exhibit 99.2 to the Note Issuance Trust s Current Report on Form 8-K filed on July 1, 2022). 
+
+10.5 
+ 
+ Asset Representations Review Agreement among Discover Bank, Discover Card Execution Note Trust and FTI Consulting, Inc., dated as of January 7,
+ 2016 (incorporated by reference to Exhibit 10.1 to the Note Issuance Trust s Current Report on Form 8-K filed on January 12, 2016). 
+
+10.6 
+ 
+ Account Control Agreement among, Discover Funding LLC, U.S. Bank Trust Company, National Association, as Indenture Trustee, and U.S. Bank National
+ Association, as Securities Intermediary, dated as of July 1, 2022 (incorporated by reference to Exhibit 99.1 to the Note Issuance Trust s Current Report on Form 8-K filed on July 1, 2022). 
+
+10.7 
+ 
+ Series 2007-CC Investor Certificate, by Discover Bank and authenticated by U.S. Bank Trust Company, National Association, as Trustee, dated as
+of July 1, 2022 (incorporated by reference to Exhibit 99.3 to the Note Issuance Trust s Current Report on Form 8-K filed on July 1, 2022). 
+
+31.1 
+ 
+ Rule 13a 14(a)/15d 14(a) Certification (Section 302 Certification) from Discover Funding LLC and Discover Bank. 
+
+33.1 
+ 
+ Report on Assessment of Compliance with Servicing Criteria concerning servicing activities of Discover Bank for the year ended December 31, 2022. 
+
+33.2 
+ 
+ Report on Assessment of Compliance with Servicing Criteria concerning servicing activities of Discover Products Inc. for the year ended December 31, 2022. 
+ 
+ 10 
+
+33.3 
+ 
+ Report on Assessment of Compliance with Servicing Criteria concerning servicing activities of U.S. Bank National Association and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National
+ Association) for the year ended December 31, 2022. 
+
+34.1 
+ 
+ Independent Registered Public Accounting Firm Attestation Report concerning servicing activities of Discover Bank for the year ended December 31, 2022. 
+
+34.2 
+ 
+ Independent Registered Public Accounting Firm Attestation Report concerning servicing activities of Discover Products Inc. for the year ended December 31, 2022. 
+
+34.3 
+ 
+ Independent Registered Public Accounting Firm Attestation Report concerning servicing activities of U.S. Bank National Association and U.S. Bank Trust Company, National Association (as successor to U.S. Bank
+ National Association) for the year ended December 31, 2022. 
+
+35.1 
+ 
+ Servicer Compliance Statement of Discover Bank for the year ended December 31, 2022. 
+
+35.2 
+ 
+ Servicer Compliance Statement of Discover Products Inc. for the year ended December 31, 2022. 
+
+(b) 
+ See Item 15(a)(3) above for a list of exhibits filed in response to Item 601 of Regulation S-K. 
+
+(c) 
+ Not applicable. 
+
+Item 16. 
+ Form 10 K Summary. 
+ Not applicable. 
+ 11 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized. Date: March 24, 2023 
+
+Discover Funding LLC 
+ 
+ (as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as registrant under Commission File Numbers 333-205455, 
+ 333-228025 and 333-260957-01) 
+
+By: 
+ 
+ /s/ Patricia S. Hall 
+ 
+ Name: 
+ 
+ Patricia S. Hall 
+ 
+ Title: 
+ 
+ Vice President, Chief Financial Officer and Treasurer 
+
+(senior officer in charge of securitization) 
+
+12 
+
+<EX-31.1>
+ 2
+ d400645dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+ Certification I, Patricia S. Hall,
+certify that: 
+
+1. 
+ I have reviewed this report on Form 10-K and all reports on Form 10-D required to be filed in respect of the period covered by this report on Form 10-K of Discover Card Master Trust I and Discover Card Execution Note Trust (the
+ Exchange Act periodic reports 
+
+2. 
+ Based on my knowledge, the Exchange Act periodic reports, taken as a whole, do not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, all of the distribution, servicing and other information required to be provided under
+Form 10-D for the period covered by this report is included in the Exchange Act periodic reports; 
+
+4. 
+ Based on my knowledge and the servicer compliance statements required in this report under Item 1123 of
+Regulation AB, and except as disclosed in the Exchange Act periodic reports, the servicers have fulfilled their obligations under the servicing agreements in all material respects; and 
+
+5. 
+ All of the reports on assessment of compliance with servicing criteria for asset-backed securities and their
+related attestation reports on assessment of compliance with servicing criteria for asset-backed securities required to be included in this report in accordance with Item 1122 of Regulation AB and Exchange Act Rules 13a-18 and 15d-18 have been included as an exhibit to this report, except as otherwise disclosed in this report. Any material instances of noncompliance described in such
+reports have been disclosed in this report on Form 10-K. In giving the
+certifications above, I have reasonably relied on information provided to me by the following unaffiliated party: U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association). 
+
+By: 
+ 
+ /s/ Patricia S. Hall 
+
+Patricia S. Hall, 
+
+Vice President, Chief Financial Officer and Treasurer of Discover Funding LLC (senior officer of the depositor in charge of securitization) 
+
+By: 
+ 
+ /s/ Patricia S. Hall 
+
+Patricia S. Hall, 
+
+Vice President, Chief Financial Officer and Assistant Treasurer of Discover Bank (senior officer in charge of servicing function) 
+ 
+ Date: March 24, 2023 
+
+</EX-31.1>
+
+<EX-33.1>
+ 3
+ d400645dex331.htm
+ EX-33.1
+
+EX-33.1 
+
+Exhibit 33.1 
+ Management s Assertion on 
+ Compliance with Regulation AB Criteria 
+ Discover Bank Discover Bank or the Asserting Party is responsible for assessing its compliance, as of and for the
+year ended December 31, 2022 (the Reporting Period ), with the servicing criteria applicable to it in connection with the Third Amended and Restated Pooling and Servicing Agreement, dated as of December 22, 2015, as amended, by
+and among Discover Bank, as Master Servicer and Servicer, Discover Funding LLC, as Transferor, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Trustee, and the Amended and Restated Series
+Supplement for Series 2007-CC dated as of December 22, 2015, as amended, with respect to Discover Card Execution Note Trust. The Asserting Party used the criteria set forth in Item 1122(d) of
+Regulation AB, excluding the criteria set forth in Items 1122 (d)(1)(iii), (d)(1)(iv), (d)(2)(iii), (d)(2)(iv), (d)(2)(v), (d)(2)(vi), (d)(3)(iii), (d)(3)(iv), (d)(4)(i), (d)(4)(iv), (d)(4)(vi), (d)(4)(vii), (d)(4)(viii), (d)(4)(ix), (d)(4)(x),
+(d)(4)(xi), (d)(4)(xii), (d)(4)(xiii), (d)(4)(xiv), and (d)(4)(xv) of Regulation AB, which the Asserting Party has concluded are not applicable to the activities it performs with respect to the asset-backed securities transactions covered by this
+report (such applicable criteria, after giving effect to the exclusions identified above, the Applicable Servicing Criteria ), to assess such compliance. The transactions covered by this report include all asset-backed securities
+transactions involving credit card receivables conducted by Discover Card Master Trust I and Discover Card Execution Note Trust that were registered with the Securities and Exchange Commission pursuant to the Securities Act of 1933, as amended, or
+were not required to be registered where the related asset-backed securities were outstanding during the Reporting Period (the Platform ), as listed in Appendix A. 
+ Discover Bank has assessed its compliance with the Applicable Servicing Criteria for the Reporting Period and has concluded that the Asserting
+Party has complied, in all material respects, with the Applicable Servicing Criteria for the Reporting Period with respect to the Platform taken as a whole. 
+ Deloitte Touche LLP, an independent registered public accounting firm, has issued an attestation report for the Platform on the
+assessment of compliance with the Applicable Servicing Criteria for the Reporting Period as set forth in this assertion. 
+
+Discover Bank, Master
+Servicer and Servicer of Discover Card Master Trust I and 
+ Calculation Agent of Discover Card Execution Note
+Trust 
+
+By: 
+ 
+ /s/ Patricia S. Hall 
+
+Patricia S. Hall, 
+
+Vice President, Chief Financial Officer and Assistant Treasurer 
+ 
+ Date: March 22, 2023 
+
+Appendix A 
+ Series 2007-CC: 
+ Class A (2008-C) DiscoverSeries Notes 
+ Class A (2010-D) DiscoverSeries Notes 
+ Class A (2011-A) DiscoverSeries Notes 
+ Class A (2015-A) DiscoverSeries Notes 
+ Class A (2017-1) DiscoverSeries Notes 
+ Class A (2017-2) DiscoverSeries Notes 
+ Class A (2017-4) DiscoverSeries Notes 
+ Class A (2017-5) DiscoverSeries Notes 
+ Class A (2017-7) DiscoverSeries Notes 
+ Class A (2018-1) DiscoverSeries Notes 
+ Class A (2018-2) DiscoverSeries Notes 
+ Class A (2018-6) DiscoverSeries Notes 
+ Class A (2019-1) DiscoverSeries Notes 
+ Class A (2019-A) DiscoverSeries Notes 
+ Class A (2019-3) Discover Series Notes 
+ Class A (2021-1) Discover Series Notes 
+ Class A (2021-2) Discover Series Notes 
+ Class A (2022-1) Discover Series Notes 
+ Class A (2022-2) Discover Series Notes 
+ Class A (2022-3) Discover Series Notes 
+ Class A (2022-4) Discover Series Notes 
+ Class B (2020-2) DiscoverSeries Notes 
+ Class B (2020-3) DiscoverSeries Notes 
+ Class B (2020-4) DiscoverSeries Notes 
+ Class C (2020-2) DiscoverSeries Notes 
+ Class C (2020-3) DiscoverSeries Notes 
+ Class C (2020-4) DiscoverSeries Notes 
+ Class C (2020-5) DiscoverSeries Notes 
+ Class D (2009-1) DiscoverSeries Notes 
+
+</EX-33.1>
+
+<EX-33.2>
+ 4
+ d400645dex332.htm
+ EX-33.2
+
+EX-33.2 
+
+Exhibit 33.2 
+ Management s Assertion on 
+ Compliance with Regulation AB Criteria 
+ Discover Products Inc. DPI or the Asserting Party is responsible for assessing its compliance, as of and for the
+year ended December 31, 2022 (the Reporting Period ), with the servicing criteria applicable to it in connection with the Second Amended and Restated Master Services Agreement, among Discover Financial Services, Discover Bank, DPI
+and other affiliated entities thereto, dated as of March 15, 2018, as supplemented by the Fourth Amended and Restated Services Addendum, between DPI and Discover Bank, dated as of November 1, 2019. The Asserting Party used the criteria set
+forth in Item 1122(d) of Regulation AB, excluding the criteria set forth in Items 1122 (d)(1)(i), (d)(1)(iii), (d)(1)(iv), (d)(2)(ii), (d)(2)(iii), (d)(2)(iv), (d)(2)(v), (d)(2)(vi), (d)(2)(vii), (d)(3)(i), (d)(3)(ii), (d)(3)(iii),
+(d)(3)(iv), (d)(4)(i), (d)(4)(ii), (d)(4)(iii), (d)(4)(v), (d)(4)(x), (d)(4)(xi), (d)(4)(xii), (d)(4)(xiii), and (d)(4)(xv) of Regulation AB, which the Asserting Party has concluded are not applicable to the activities it performs with respect to
+the asset-backed securities transactions covered by this report (such applicable criteria, after giving effect to the exclusions identified above, the Applicable Servicing Criteria ), to assess such compliance. The transactions covered by
+this report include all asset-backed securities transactions involving credit card receivables conducted by Discover Card Master Trust I and Discover Card Execution Note Trust that were registered with the Securities and Exchange Commission pursuant
+to the Securities Act of 1933, as amended, or were not required to be registered where the related asset-backed securities were outstanding during the Reporting Period (the Platform ), as listed in Appendix A. 
+ With respect to servicing criteria 1122(d)(1)(v), 1122(d)(2)(i) and 1122(d)(4)(iv) for the Reporting Period defined above, the Asserting Party
+has engaged vendors to perform certain limited payment activities required by these servicing criteria. With respect to servicing criteria 1122(d)(1)(v), 1122(d)(4)(vii) and 1122(d)(4)(viii) for the Reporting Period defined above, the Asserting
+Party has engaged vendors to perform the collection activities required by these servicing criteria for a limited number of accounts that were delegated to such vendors. The Asserting Party has determined that none of these vendors engaged for
+either payment or collection activities is a servicer as defined in Item 1101(j) of Regulation AB, and the Asserting Party has elected to take responsibility for assessing compliance with the servicing criteria applicable to each vendor
+as permitted by the SEC s Compliance and Disclosure Interpretation 200.06, Vendors Engaged by Servicers C DI 200.06 (formerly SEC Manual Telephone Interpretation 17.06). The Asserting Party has policies and procedures
+in place to provide reasonable assurance that each vendor s activities comply in all material respects with the servicing criteria applicable to such vendor. 
+
+DPI has assessed its compliance with the Applicable Servicing Criteria for the Reporting
+Period and has concluded that the Asserting Party has complied, in all material respects, with the Applicable Servicing Criteria for the Reporting Period with respect to the Platform taken as a whole. 
+ Deloitte Touche LLP, an independent registered public accounting firm, has issued an attestation report for the Platform on the
+assessment of compliance with the Applicable Servicing Criteria for the Reporting Period as set forth in this assertion. 
+
+Discover Products Inc. 
+
+Servicing Party of Discover
+Card Master Trust I and 
+
+Discover Card Execution Note Trust 
+
+By: 
+ 
+ /s/ Daniel P. Capozzi 
+
+Daniel P. Capozzi, 
+
+Executive Vice President, President US Cards 
+ 
+ Date: March 22, 2023 
+
+Appendix A 
+ Series 2007-CC: 
+ Class A (2008-C) DiscoverSeries Notes 
+ Class A (2010-D) DiscoverSeries Notes 
+ Class A (2011-A) DiscoverSeries Notes 
+ Class A (2015-A) DiscoverSeries Notes 
+ Class A (2017-1) DiscoverSeries Notes 
+ Class A (2017-2) DiscoverSeries Notes 
+ Class A (2017-4) DiscoverSeries Notes 
+ Class A (2017-5) DiscoverSeries Notes 
+ Class A (2017-7) DiscoverSeries Notes 
+ Class A (2018-1) DiscoverSeries Notes 
+ Class A (2018-2) DiscoverSeries Notes 
+ Class A (2018-6) DiscoverSeries Notes 
+ Class A (2019-1) DiscoverSeries Notes 
+ Class A (2019-A) DiscoverSeries Notes 
+ Class A (2019-3) DiscoverSeries Notes 
+ Class A (2021-1) DiscoverSeries Notes 
+ Class A (2021-2) DiscoverSeries Notes 
+ Class A (2022-1) Discover Series Notes 
+ Class A (2022-2) Discover Series Notes 
+ Class A (2022-3) Discover Series Notes 
+ Class A (2022-4) Discover Series Notes 
+ Class B (2020-2) DiscoverSeries Notes 
+ Class B (2020-3) DiscoverSeries Notes 
+ Class B (2020-4) DiscoverSeries Notes 
+ Class C (2020-2) DiscoverSeries Notes 
+ Class C (2020-3) DiscoverSeries Notes 
+ Class C (2020-4) DiscoverSeries Notes 
+ Class C (2020-5) DiscoverSeries Notes 
+ Class D (2009-1) DiscoverSeries Notes 
+
+</EX-33.2>
+
+<EX-33.3>
+ 5
+ d400645dex333.htm
+ EX-33.3
+
+EX-33.3 
+
+Exhibit 33.3 
+ Management s Assertion 
+ Report on Assessment of Compliance with Applicable Servicing Criteria 
+ Management of U.S. Bank National Association and U.S. Bank Trust Company, National Association (collectively U.S. Bank is responsible for
+assessing compliance as of and for the year ended December 31, 2022 with the servicing criteria set forth in Item 1122 (d) of Regulation AB applicable to it as set forth on Exhibit A hereto. This report covers asset backed securities
+transactions within the U.S. Bank Corporate Trust Asset-Backed Securities Platform 1 (the Platform 
+ U.S. Bank hereby provides the following report on its assessment of compliance with the servicing criteria set forth in Item 1122 of Regulation AB applicable
+to it and as described on Exhibit A hereto: 
+
+1. 
+ U.S. Bank is responsible for assessing its compliance with the servicing criteria applicable to it as noted on
+the accompanying Exhibit A; 
+
+2. 
+ Except as set forth in paragraph 3 below, U.S. Bank used the criteria set forth in paragraph (d) of Item
+1122 of Regulation AB to assess its compliance with the applicable servicing criteria; 
+
+3. 
+ The criteria listed in the column titled Inapplicable Servicing Criteria on Exhibit A hereto are
+inapplicable to U.S. Bank based on the servicing activities it performs directly with respect to the Platform; 
+
+4. 
+ U.S. Bank has complied, in all material respects, with the applicable servicing criteria as of and for the year
+ended December 31, 2022; and 
+
+5. 
+ Ernst Young, LLP, a registered public accounting firm, has issued an attestation report on U.S.
+Bank s assessment of compliance with the applicable servicing criteria as of and for the year ended December 31, 2022. 
+
+1 
+ The U.S. Bank Corporate Trust Asset-Backed Securities Platform (the Platform consists of the
+activities involved in the performance of servicing functions for which the Company provides trustee, securities administration, registrar and paying agent services for (i) publicly issued asset-backed and mortgage-backed transactions the
+securities of which were offered on or after January 1, 2006 and (ii) certain asset-backed transactions for which the Issuer has voluntarily elected to make Regulation AB compliant filings under the Securities Exchange Act of 1934, as
+amended. 
+
+Corporate Trust ABS Platform (A) 
+ 
+ 1 
+
+U.S. BANK NATIONAL ASSOCIATION 
+
+/s/ John Stern 
+ 
+ Name: John Stern 
+ 
+ Title: Executive Vice President 
+
+U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION 
+
+/s/ John Stern 
+ 
+ Name: John Stern 
+ 
+ Title: Executive Vice President 
+
+Dated: February 27, 2023 
+
+Corporate Trust ABS Platform (A) 
+ 
+ 2 
+
+EXHIBIT A to Management s Assertion 
+
+Reference 
+ 
+ Servicing Criteria 
+ 
+ Applicable Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+
+General Servicing Considerations 
+
+1122(d)(1)(i) 
+ 
+ Policies and procedures are instituted to monitor any performance or other triggers and events of default in accordance with the transaction agreements. 
+ 
+ X 
+
+1122(d)(1)(ii) 
+ 
+ If any material servicing activities are outsourced to third parties, policies and procedures are instituted to monitor the third party s performance and compliance with such servicing activities. 
+ 
+ X 2 
+
+1122(d)(1)(iii) 
+ 
+ Any requirements in the transaction agreements to maintain a back-up servicer for the Pool Assets are maintained. 
+
+X 
+
+1122(d)(1)(iv) 
+ 
+ A fidelity bond and errors and omissions policy is in effect on the party participating in the servicing function throughout the reporting period in the amount of coverage required by and otherwise in accordance with the terms of
+the transaction agreements. 
+ 
+ X 
+
+1122(d)(1)(v) 
+ 
+ Aggregation of information, as applicable, is mathematically accurate and the information conveyed accurately reflects the information. 
+ 
+ X 3 
+
+Cash Collection and Administration 
+
+1122(d)(2)(i) 
+ 
+ Payments on pool assets are deposited into the appropriate custodial bank accounts and related bank clearing accounts no more than two business days following receipt, or such other number of days specified in the transaction
+agreements. 
+ 
+ X 
+
+1122(d)(2)(ii) 
+ 
+ Disbursements made via wire transfer on behalf of an obligor or to an investor are made only by authorized personnel. 
+ 
+ X 
+
+1122(d)(2)(iii) 
+ 
+ Advances of funds or guarantees regarding collections, cash flows or distributions, and any interest or other fees charged for such advances, are made, reviewed and approved as specified in the transaction agreements. 
+ 
+ X 4 
+
+1122(d)(2)(iv) 
+ 
+ The related accounts for the transaction, such as cash reserve accounts or accounts established as a form of over collateralization, are separately maintained (e.g., with respect to commingling of cash) as set forth in the
+transaction agreements. 
+ 
+ X 
+
+1122(d)(2)(v) 
+ 
+ Each custodial account is maintained at a federally insured depository institution as set forth in the transaction agreements. For purposes of this criterion, federally insured depository institution with respect to a
+foreign financial institution means a foreign financial institution that meets the requirements of Rule 13k-1(b)(1) of the Securities Exchange Act. 
+ 
+ X 
+
+1122(d)(2)(vi) 
+ 
+ Unissued checks are safeguarded so as to prevent unauthorized access. 
+ 
+ X 
+
+2 
+ No servicing activities were performed by the Company that required the servicing criteria to be complied with.
+
+3 
+ No servicing activities were performed by the Company that required the servicing criteria to be complied with.
+
+4 
+ No servicing activities were performed by the Company that required the servicing criteria to be complied with.
+
+Corporate Trust ABS Platform (A) 
+ 
+ 3 
+
+Reference 
+ 
+ Servicing Criteria 
+ 
+ Applicable Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+
+1122(d)(2)(vii) 
+ 
+ Reconciliations are prepared on a monthly basis for all asset-backed securities related bank accounts, including custodial accounts and related bank clearing accounts. These reconciliations are (A) mathematically accurate;
+(B) prepared within 30 calendar days after the bank statement cutoff date, or such other number of days specified in the transaction agreements; (C) reviewed and approved by someone other than the person who prepared the reconciliation;
+and (D) contain explanations for reconciling items. These reconciling items are resolved within 90 calendar days of their original identification, or such other number of days specified in the transaction agreements. 
+ 
+ X 
+
+Investor Remittances and Reporting 
+
+1122(d)(3)(i) 
+ 
+ Reports to investors, including those to be filed with the Commission, are maintained in accordance with the transaction agreements and applicable Commission requirements. Specifically, such reports (A) are prepared in
+accordance with timeframes and other terms set forth in the transaction agreements; (B) provide information calculated in accordance with the terms specified in the transaction agreements; (C) are filed with the Commission as required by
+its rules and regulations; and (D) agree with investors or the trustee s records as to the total unpaid principal balance and number of Pool Assets serviced by the Servicer. 
+ 
+ X 
+
+1122(d)(3)(ii) 
+ 
+ Amounts due to investors are allocated and remitted in accordance with timeframes, distribution priority and other terms set forth in the transaction agreements. 
+ 
+ X 
+
+1122(d)(3)(iii) 
+ 
+ Disbursements made to an investor are posted within two business days to the Servicer s investor records, or such other number of days specified in the transaction agreements. 
+ 
+ X 
+
+1122(d)(3)(iv) 
+ 
+ Amounts remitted to investors per the investor reports agree with cancelled checks, or other form of payment, or custodial bank statements. 
+ 
+ X 
+
+Pool Asset Administration 
+
+1122(d)(4)(i) 
+ 
+ Collateral or security on pool assets is maintained as required by the transaction agreements or related pool asset documents. 
+
+X 
+
+1122(d)(4)(ii) 
+ 
+ Pool assets and related documents are safeguarded as required by the transaction agreements. 
+
+X 
+
+1122(d)(4)(iii) 
+ 
+ Any additions, removals or substitutions to the asset pool are made, reviewed and approved in accordance with any conditions or requirements in the transaction agreements. 
+ 
+ X 
+
+1122(d)(4)(iv) 
+ 
+ Payments on pool assets, including any payoffs, made in accordance with the related pool asset documents are posted to the Servicer s obligor records maintained no more than two business days after receipt, or such other number
+of days specified in the transaction agreements, and allocated to principal, interest or other items (e.g., escrow) in accordance with the related pool asset documents. 
+
+X 
+
+Corporate Trust ABS Platform (A) 
+ 
+ 4 
+
+Reference 
+ 
+ Servicing Criteria 
+ 
+ Applicable Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+
+1122(d)(4)(v) 
+ 
+ The Servicer s records regarding the pool assets agree with the Servicer s records with respect to an obligor s unpaid principal balance. 
+
+X 
+
+1122(d)(4)(vi) 
+ 
+ Changes with respect to the terms or status of an obligor s pool assets (e.g., loan modifications or re-agings) are made, reviewed and approved by authorized personnel in accordance with
+the transaction agreements and related pool asset documents. 
+
+X 
+
+1122(d)(4)(vii) 
+ 
+ Loss mitigation or recovery actions (e.g., forbearance plans, modifications and deeds in lieu of foreclosure, foreclosures and repossessions, as applicable) are initiated, conducted and concluded in accordance with the timeframes or
+other requirements established by the transaction agreements. 
+
+X 
+
+1122(d)(4)(viii) 
+ 
+ Records documenting collection efforts are maintained during the period a pool asset is delinquent in accordance with the transaction agreements. Such records are maintained on at least a monthly basis, or such other period
+specified in the transaction agreements, and describe the entity s activities in monitoring delinquent pool assets including, for example, phone calls, letters and payment rescheduling plans in cases where delinquency is deemed temporary (e.g.,
+illness or unemployment). 
+
+X 
+
+1122(d)(4)(ix) 
+ 
+ Adjustments to interest rates or rates of return for pool assets with variable rates are computed based on the related pool asset documents. 
+
+X 
+
+1122(d)(4)(x) 
+ 
+ Regarding any funds held in trust for an obligor (such as escrow accounts): (A) such funds are analyzed, in accordance with the obligor s pool asset documents, on at least an annual basis, or such other period specified in the
+transaction agreements; (B) interest on such funds is paid, or credited, to obligors in accordance with applicable pool asset documents and state laws; and (C) such funds are returned to the obligor within 30 calendar days of full
+repayment of the related pool assets, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(4)(xi) 
+ 
+ Payments made on behalf of an obligor (such as tax or insurance payments) are made on or before the related penalty or expiration dates, as indicated on the appropriate bills or notices for such payments, provided that such support
+has been received by the servicer at least 30 calendar days prior to these dates, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(4)(xii) 
+ 
+ Any late payment penalties in connection with any payment to be made on behalf of an obligor are paid from the Servicer s funds and not charged to the obligor, unless the late payment was due to the obligor s error or
+omission. 
+
+X 
+
+1122(d)(4)(xiii) 
+ 
+ Disbursements made on behalf of an obligor are posted within two business days to the obligor s records maintained by the servicer, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(4)(xiv) 
+ 
+ Delinquencies, charge-offs and uncollectible accounts are recognized and recorded in accordance with the transaction agreements. 
+
+X 
+
+1122(d)(4)(xv) 
+ 
+ Any external enhancement or other support, identified in Item 1114(a)(1) through (3) or Item 1115 of Regulation AB, is maintained as set forth in the transaction agreements. 
+ 
+ X 
+
+Corporate Trust ABS Platform (A) 
+ 
+ 5 
+
+</EX-33.3>
+
+<EX-34.1>
+ 6
+ d400645dex341.htm
+ EX-34.1
+
+EX-34.1 
+
+Exhibit 34.1 
+
+Deloitte Touche LLP 111 S
+Wacker Drive Chicago, IL 60606 USA 
+ Tel:
+ 312-486-1000 Fax: 312-247-1486 www.deloitte.com 
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ Discover Bank Newark, DE 
+ We have examined management of Discover Bank s assertion, included in the accompanying Management s Assertion on Compliance with Regulation AB
+Criteria, that Discover Bank (the Bank complied with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange Commission s Regulation AB for the Discover Card Master Trust I and Discover Card Execution Note
+Trust Asset-Backed Securities Platform (the Platform ), excluding criteria 1122 (d)(1)(iii), (d)(1)(iv), (d)(2)(iii), (d)(2)(iv), (d)(2)(v), (d)(2)(vi), (d)(3)(iii), (d)(3)(iv), (d)(4)(i), (d)(4)(iv), (d)(4)(vi), (d)(4)(vii),
+(d)(4)(viii), (d)(4)(ix), (d)(4)(x), (d)(4)(xi), (d)(4)(xii), (d)(4)(xiii), (d)(4)(xiv), and (d)(4)(xv), (the servicing criteria ), as of and for the year ended December 31, 2022, which management has determined are not applicable to
+the activities performed by the Bank with respect to the Platform. Appendix A to management s assertion identifies the individual asset-backed transactions defined by management as constituting the Platform. Management is responsible for the
+Bank s compliance with the servicing criteria and its assertion. Our responsibility is to express an opinion on management s assertion about the Bank s compliance with the servicing criteria based on our examination. 
+ Our examination was conducted in accordance with the standards of the Public Company Accounting Oversight Board (United States) and in accordance with
+attestation standards established by the American Institute of Certified Public Accountants. Those standards require that we plan and perform the examination to obtain reasonable assurance about whether management s assertion about compliance
+with the servicing criteria is fairly stated, in all material respects, and, accordingly, included examining, on a test basis, evidence about the Bank s compliance with the servicing criteria, including tests on a sample basis of the servicing
+activities related to the Platform, determining whether the Bank performed those selected activities in compliance with the servicing criteria during the specified period, and performing such other procedures as we considered necessary in the
+circumstances. Our procedures were limited to selected servicing activities performed by the Bank during the period covered by this report and, accordingly, such samples may not have included servicing activities related to each asset-backed
+transaction included in the Platform. Further, an examination is not designed to detect noncompliance arising from errors that may have occurred prior to the period specified above that may have affected the balances or amounts calculated or
+reported by the Bank during the period covered by this report. We believe that the evidence we obtained in our examination is sufficient and appropriate to provide a reasonable basis for our opinion. 
+ Our examination does not provide a legal determination on the Company s compliance with the servicing criteria. 
+ In our opinion, management s assertion that the Bank complied with the aforementioned servicing criteria as of and for the year ended December 31,
+2022, for the Discover Card Master Trust I and Discover Card Execution Note Trust Asset-Backed Securities Platform is fairly stated, in all material respects. 
+
+/s/ Deloitte Touche LLP 
+
+Chicago, IL 
+ 
+ March 22, 2023 
+
+</EX-34.1>
+
+<EX-34.2>
+ 7
+ d400645dex342.htm
+ EX-34.2
+
+EX-34.2 
+
+Exhibit 34.2 
+
+Deloitte Touche LLP 111 S
+Wacker Drive Chicago, IL 60606 USA 
+ Tel:
+ 312-486-1000 Fax: 312-247-1486 www.deloitte.com 
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ Discover Products Inc. West Valley City, UT 
+ We have examined management of Discover Products Inc. s assertion, included in the accompanying Management s Assertion on Compliance with Regulation
+AB Criteria, that Discover Product Inc. DPI complied with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange Commission s Regulation AB for the Discover Card Master Trust I and Discover Card Execution
+Note Trust Asset-Backed Securities Platform (the Platform ), excluding criteria 1122 (d)(1)(i), (d)(1)(iii), (d)(1)(iv), (d)(2)(ii), (d)(2)(iii), (d)(2)(iv), (d)(2)(v), (d)(2)(vi), (d)(2)(vii), (d)(3)(i), (d)(3)(ii), (d)(3)(iii),
+(d)(3)(iv), (d)(4)(i), (d)(4)(ii), (d)(4)(iii), (d)(4)(v), (d)(4)(x), (d)(4)(xi), (d)(4)(xii), (d)(4)(xiii), and (d)(4)(xv), (the servicing criteria ), as of and for the year ended December 31, 2022, which management has determined
+are not applicable to the activities performed by DPI with respect to the Platform. Appendix A to management s assertion identifies the individual asset-backed transactions defined by management as constituting the Platform. Management is
+responsible for DPI s compliance with the servicing criteria and its assertion. Our responsibility is to express an opinion on management s assertion about DPI s compliance with the servicing criteria based on our examination. 
+ Our examination was conducted in accordance with the standards of the Public Company Accounting Oversight Board (United States) and in accordance with
+attestation standards established by the American Institute of Certified Public Accountants. Those standards require that we plan and perform the examination to obtain reasonable assurance about whether management s assertion about compliance
+with the servicing criteria is fairly stated, in all material respects, and, accordingly, included examining, on a test basis, evidence about DPI s compliance with the servicing criteria, including tests on a sample basis of the servicing
+activities related to the Platform, determining whether DPI performed those selected activities in compliance with the servicing criteria during the specified period, and performing such other procedures as we considered necessary in the
+circumstances. Our procedures were limited to selected servicing activities performed by DPI during the period covered by this report and, accordingly, such samples may not have included servicing activities related to each asset-backed transaction
+included in the Platform. Further, an examination is not designed to detect noncompliance arising from errors that may have occurred prior to the period specified above that may have affected the balances or amounts calculated or reported by DPI
+during the period covered by this report. We believe that the evidence we obtained in our examination is sufficient and appropriate to provide a reasonable basis for our opinion. 
+ As described in management s assertion, for servicing criteria 1122(d)(1)(v), 1122(d)(2)(i), 1122(d)(4)(iv), 1122(d)(4)(vii) and 1122(d)(4)(viii), DPI
+has engaged vendors to perform certain activities required by these servicing criteria. DPI has determined that none of these vendors are considered a servicer as defined in Item 1101(j) of Regulation AB, and DPI has elected to take
+responsibility for assessing compliance with the servicing criteria applicable to these vendors as permitted by the SEC s Compliance and Disclosure Interpretation 200.06, Vendors Engaged by Servicers C DI 200.06 ). As
+permitted by C DI 200.06, DPI has asserted that it has policies and procedures in place designed to provide reasonable assurance that the vendors activities comply in all material respects with the servicing criteria applicable to these
+vendors. DPI is solely responsible for determining that it meets the SEC requirements to apply C DI 200.06 for the vendors and related criteria as described in its assertion, and we performed no procedures with respect to DPI s
+determination of its eligibility to apply C DI 200.06. 
+
+Our examination does not provide a legal determination on the Company s compliance with the servicing
+criteria. In our opinion, management s assertion that DPI complied with the aforementioned servicing criteria as of and for the year ended
+December 31, 2022 for the Discover Card Master Trust I and Discover Card Execution Note Trust Asset-Backed Securities Platform is fairly stated, in all material respects. 
+
+/s/ Deloitte Touche LLP 
+
+Chicago, IL 
+ 
+ March 22, 2023 
+
+</EX-34.2>
+
+<EX-34.3>
+ 8
+ d400645dex343.htm
+ EX-34.3
+
+EX-34.3 
+
+Exhibit 34.3 
+
+Report of Independent Registered Public Accounting Firm 
+ The Board of Directors U.S. Bank National Association 
+ We have examined management s assertion, included in the accompanying Report on Assessment of Compliance with Applicable Servicing Criteria, that U.S.
+Bank National Association and U.S. Bank Trust Company, National Association (collectively, the Company complied with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange Commission s Regulation AB for the
+U.S. Bank Corporate Trust Asset-Backed Securities Platform (the Platform ), for which the Company provides trustee, securities administration, registrar and paying agent services, as of and for the year ended December 31, 2022,
+except for servicing criteria Items 1122(d)(1)(iii), 1122(d)(4)(i)-(ii), and 1122(d)(4)(iv)-(xiv), which the Company has determined are not applicable to the activities it performs with respect to the servicing platform covered by this
+report. Management is responsible for the Company s compliance with those servicing criteria. Our responsibility is to express an opinion on management s assertion about the Company s compliance with the servicing criteria based on
+our examination. Our examination was conducted in accordance with attestation standards established by the American Institute of Certified Public
+Accountants and the Public Company Accounting Oversight Board (United States) and, accordingly, included examining, on a test basis, evidence about the Company s compliance with the applicable servicing criteria and performing such other
+procedures as we considered necessary in the circumstances. Our examination included testing of less than all of the individual asset-backed transactions and securities that comprise the Platform, testing of less than all of the servicing activities
+related to the Platform, and determining whether the Company processed those selected transactions and performed those selected activities in compliance with the servicing criteria. Furthermore, our procedures were limited to the selected
+transactions and servicing activities performed by the Company during the period covered by this report. Our procedures were not designed to determine whether errors may have occurred either prior to or subsequent to our tests that may have affected
+the balances or amounts calculated or reported by the Company during the period covered by this report for the selected transactions or any other transactions. Although the Company is responsible for assessing compliance with Items 1122(d)(1)(ii),
+1122(d)(1)(v), and 1122(d)(2)(iii) of Regulation AB, there were no servicing activities performed by the Company during the year ended December 31, 2022 that required these servicing criteria to be complied with. We believe that the evidence we
+obtained is sufficient and appropriate to provide a reasonable basis for our opinion. We are required to be independent of the Company and to meet our
+other ethical responsibilities, in accordance with the relevant ethical requirements related to our examination engagement. Our examination does not
+provide a legal determination on the Company s compliance with the servicing criteria. In our opinion, management s assertion that the Company
+complied with the aforementioned servicing criteria as of and for the year ended December 31, 2022, for the U.S. Bank Corporate Trust Asset-Backed Securities Platform is fairly stated, in all material respects. 
+
+Minneapolis, Minnesota 
+ February 27, 2023 
+
+</EX-34.3>
+
+<EX-35.1>
+ 9
+ d400645dex351.htm
+ EX-35.1
+
+EX-35.1 
+
+Exhibit 35.1 
+ SERVICER COMPLIANCE STATEMENT 
+ Discover Bank Discover
+Card Master Trust I The undersigned, a duly authorized representative of Discover Bank, pursuant to Section 3.07(c) of the Third
+Amended and Restated Pooling and Servicing Agreement, dated as of December 22, 2015, as amended (the Pooling and Servicing Agreement ), among Discover Bank, as Master Servicer and Servicer, Discover Funding LLC, as Transferor, and
+U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Trustee, hereby certifies that: 
+
+(a) 
+ A review of the activities of Discover Bank during the year ended December 31, 2022 and of its performance
+under the Pooling and Servicing Agreement was made under my supervision. 
+
+(b) 
+ To the best of my knowledge, based on such review, Discover Bank has fulfilled all of its obligations in all
+material respects under the Pooling and Servicing Agreement throughout the year ended December 31, 2022. IN
+WITNESS WHEREOF, the undersigned has duly executed this Certificate this 16th day of March 2023. 
+
+By: 
+ 
+ /s/ Patricia S. Hall 
+
+Patricia S. Hall, 
+
+Vice President, Chief Financial Officer and 
+
+Assistant Treasurer 
+
+Discover Bank, 
+
+Master Servicer and Servicer of 
+
+Discover Card Master Trust I 
+
+</EX-35.1>
+
+<EX-35.2>
+ 10
+ d400645dex352.htm
+ EX-35.2
+
+EX-35.2 
+
+Exhibit 35.2 
+ SERVICER COMPLIANCE STATEMENT 
+ Discover Products Inc. 
+ Discover Card Master Trust I 
+ The undersigned, a duly authorized representative of Discover Products Inc. DPI ), hereby certifies that: 
+
+(a) 
+ A review of the activities of DPI during the year ended December 31, 2022 and of its performance under the
+Second Amended and Restated Master Services Agreement, among Discover Financial Services, Discover Bank, DPI and other affiliated entities thereto, dated as of March 15, 2018, as supplemented by the Fourth Amended and Restated Services
+Addendum, between DPI and Discover Bank, dated as of November 1, 2019 (collectively, the Agreement was made under my supervision. 
+
+(b) 
+ To the best of my knowledge, based on such review, DPI has fulfilled all of its obligations in all material
+respects under the Agreement throughout the year ended December 31, 2022. IN WITNESS WHEREOF, the undersigned has
+duly executed this Certificate this 16th day of March 2023. 
+
+By: 
+ 
+ /s/ Daniel P. Capozzi 
+
+Daniel P. Capozzi, 
+
+Executive Vice President, President US Cards 
+
+Discover Products Inc. 
+
+Servicing Party of 
+
+Discover Card Master Trust I 
+
+</EX-35.2>
+

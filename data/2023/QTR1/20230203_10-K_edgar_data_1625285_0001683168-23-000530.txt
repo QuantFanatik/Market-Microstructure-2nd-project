@@ -1,0 +1,1586 @@
+<Header>
+<FileStats>
+    <FileName>20230203_10-K_edgar_data_1625285_0001683168-23-000530.txt</FileName>
+    <GrossFileSize>1733721</GrossFileSize>
+    <NetFileSize>57799</NetFileSize>
+    <NonText_DocumentType_Chars>602386</NonText_DocumentType_Chars>
+    <HTML_Chars>316239</HTML_Chars>
+    <XBRL_Chars>293766</XBRL_Chars>
+    <XML_Chars>422761</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-23-000530.hdr.sgml : 20230203
+<ACCEPTANCE-DATETIME>20230203122550
+ACCESSION NUMBER:		0001683168-23-000530
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		45
+CONFORMED PERIOD OF REPORT:	20221031
+FILED AS OF DATE:		20230203
+DATE AS OF CHANGE:		20230203
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Arma Services Inc
+		CENTRAL INDEX KEY:			0001625285
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-FACILITIES SUPPORT MANAGEMENT SERVICES [8744]
+		IRS NUMBER:				320449388
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-202398
+		FILM NUMBER:		23584822
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 140-920
+		STREET 2:		7260 WEST AZURE DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89130
+		BUSINESS PHONE:		657-315-8312
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 140-920
+		STREET 2:		7260 WEST AZURE DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89130
+
+</SEC-Header>
+</Header>
+
+ 0001683168-23-000530.txt : 20230203
+
+10-K
+ 1
+ arma_i10k-103122.htm
+ FORM 10-K
+
+Table of Contents 
+
+U.S. SECURITIES AND EXCHANGE
+COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended , 2022 
+
+or 
+
+TRANSITION REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from
+ [ ] to [ ] 
+
+Commission file number: 
+
+(Exact name of Company as specified in its charter) 
+
+(State of incorporation) 
+ (I.R.S. Employer Identification
+ No.) 
+
+, 
+
+ (Address of principal executive offices) 
+
+(Company s telephone number, including area
+code) 
+
+Securities registered pursuant to Section 12(b)
+of the Exchange Act: 
+
+ None 
+
+Securities registered pursuant to Section 12(g)
+of the Exchange Act: 
+
+ None 
+
+Indicate by check mark if the Company is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the Company is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate by check mark whether the issuer (1)
+filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the preceding 12 months (or for such shorter
+period that the Company was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+ No 
+
+Indicate by check mark whether the Company has
+submitted electronically, every Interactive Data File required to be submitted
+pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the Company was required to submit such files). Yes No 
+
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to
+the best of Company s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K. 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer, smaller reporting company, 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act 
+
+Indicate by check mark whether the Company is
+a shell company (as defined in Rule 12b-2 of the Act). No 
+
+The aggregate market value of voting stock held
+by non-affiliates of the Company as of the last business day of the Company s most recently complete second fiscal quarter was
+ (computed by reference to the closing price of a share of the Company s common stock of 1.00 on that date as reported). 
+
+As of October 31, 2022, shares of
+the issuer s common stock were issued and outstanding. 
+
+Documents Incorporated By Reference: None 
+
+TABLE OF CONTENTS 
+
+Page 
+ 
+ PART I 
+
+Item 1 
+ Business 
+ 3 
+ 
+ Item 1A 
+ Risk Factors 
+ 4 
+ 
+ Item IB 
+ Unresolved Staff Comments 
+ 4 
+ 
+ Item 2 
+ Properties 
+ 4 
+ 
+ Item 3 
+ Legal Proceedings 
+ 4 
+ 
+ Item 4 
+ Mine Safety Disclosures 
+ 4 
+
+PART II 
+
+Item 5 
+ Market for Company s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 5 
+ 
+ Item 6 
+ Selected Financial Data 
+ 6 
+ 
+ Item 7 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 6 
+ 
+ Item 7A 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 8 
+ 
+ Item 8 
+ Financial Statements 
+ F-1 
+ 
+ Item 9 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 8 
+ 
+ Item 9A 
+ Controls and Procedures 
+ 8 
+ 
+ Item 9B 
+ Other Information 
+ 9 
+
+PART III 
+
+Item 10 
+ Directors, Executive Officers and Corporate Governance 
+ 10 
+ 
+ Item 11 
+ Executive Compensation 
+ 12 
+ 
+ Item 12 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 14 
+ 
+ Item 13 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 15 
+ 
+ Item 14 
+ Principal Accounting Fees and Services 
+ 15 
+
+PART IV 
+
+Item 15 
+ Exhibits and Financial Statement Schedules 
+ 16 
+
+SIGNATURES 
+ 
+ 17 
+
+2 
+
+PART I 
+
+Item 1. Business. 
+
+As used in this Annual Report on Form 10-K (this
+ Report ), references to the Company, the Company, we, our or us 
+refer to ARMA Services, Inc., unless the context otherwise indicates . 
+
+Forward-Looking Statements 
+
+Certain statements contained in this report,
+including statements regarding our business, financial condition, our intent, belief or current expectations, primarily with respect
+to the future operating performance of the Company and other statements contained herein regarding matters that are not historical facts,
+are forward-looking statements. You can identify forward-looking statements by those that are not historical in nature, particularly
+those that use terminology such as may, will, should, expects, anticipates, 
+ contemplates, estimates, believes, plans, projected, predicts, 
+ potential, or continue or the negative of these similar terms. Future filings with the Securities and Exchange
+Commission, future press releases and future oral or written statements made by us or with our approval, which are not statements of
+historical fact, may contain forward-looking statements. Because such statements include risks and uncertainties, actual results may
+differ materially from those expressed or implied by such forward-looking statements. 
+
+All forward-looking statements speak only as
+of the date on which they are made. We undertake no obligation to update such statements to reflect events that occur or circumstances
+that exist after the date on which they are made, except as required by federal securities and any other applicable law. 
+
+Corporate History 
+
+Arma Services,
+Inc. was incorporated by our director in the State of Nevada on September 2, 2014. The Company s principal offices are located
+7260 W. Azure Dr., Suite 140-928, Las Vegas, NV 89130. 
+
+Our primary business was to be destination management
+and event management services initially in the Russian Federation, but with plans at a later stage to spread our business to America
+and China. We aimed to provide a full range of services in the field of Meeting, Incentive, Conference, and Exhibition tourism in Russia
+for corporate customers from United States, China and Russia. We planned to create a variety of events for domestic and foreign companies,
+including; industry conferences and business meetings, dealer conferences for producers, motivational and incentive arrangements for
+key employees, and to organize participation in exhibitions and forums. 
+
+The Company abandoned these plans in 2018 and
+has been inactive since. 
+
+The Company decided that Mr. Sergey Gandin is to resign from the position of the Director, CEO and CFO of the Company and be appointed
+solely as Secretary of Arma Services Inc. The Company and Mr. Gandin are in agreement that these changes are effective from March 26,
+2022. These developments do not involve any disagreement on any matter relating to the Company s operations, policies or practices
+(financial or otherwise). 
+
+The Company appointed Clive Hill, 66, from the United Kingdom to the positions of Director, CEO and CFO of the Company. This appointment
+is effective from March 26, 2022. Arma Services Inc, finds that Mr. Hill s credentials qualify him for the positions of the Company.
+Mr. Hill possesses over 40 years of business experience and has directed a number of organizations where he led strategic initiatives
+and oversaw accounting and financial operations of the management of companies including an event organizing firm. 
+
+3 
+
+On August
+17, 2022, the sole existing director and officer resigned immediately. Accordingly, Clive Hill, serving as a director and an officer,
+ceased to be the President, Chief Executive Officer, Chief Financial Officer, and as a Member of the Board of Directors of the Company.
+Also on August 17, 2022, B. Maria Teresa Tattersfield, 46, consented to act as a Member of the Board of Directors of the Company, Alberto
+Ramirez, 38, consented to act as a Member of the Board of Directors of the Company, Eduardo Piquero, 41, consented to act as a Member
+of the Board of Directors of the Company, and Jaime Sanchez Cortina, 57, consented to act as the new President, CEO, CFO, and Member
+of the Board of Directors of the Company. 
+
+On January 27, 2023, Jaime Sanchez Cortina, 57,
+resigned immediately as CEO, CFO, President and a member of the Board of Directors. Also on January 27, 2023, Eric Nixon, 35, agreed
+to be appointed the President, Chief Executive Officer, Chief Financial Officer, and as a Member of the Board of Directors of the Company. 
+
+Capital Stock 
+
+The Company s capitalization is 75,000,000
+common shares with a par value of 0.001 per share. No preferred shares have been authorized or issued. Total shares issued and outstanding
+as of October 31, 2022 is 6,240,000. 
+
+Employees 
+
+As of October 31, 2022, other than its CEO, Jaime
+Sanchez Cortina , the Company has no employees. On January 27, 2023, Eric Nixon agreed to be appointed the President, Chief Executive
+Officer, Chief Financial Officer, and as a Member of the Board of Directors of the Company. 
+
+Item 1A. Risk Factors 
+
+Smaller reporting companies are not required
+to provide the information required by this Item 1A. 
+
+Item 1B. Unresolved Staff Comments 
+
+None. 
+
+Item 2. Properties 
+
+The Company does not own any real estate or other
+properties and has not entered into any long term lease or rental agreements for property. 
+
+Item 3. Legal Proceedings 
+
+There is no pending legal proceeding to which
+the Company is a party or in which any director, officer or affiliate of the Company, any owner of record or beneficially of more than
+5 of any class of voting securities of the Company, or security holder is a party adverse to the Company or has a material interest
+adverse to the Company. The Company s property is not the subject of any pending legal proceedings. 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable. 
+
+4 
+
+PART II 
+
+Item 5. Market for Company s Common Equity, Related Stockholder
+Matters and Issuer Purchases of Equity Securities. 
+
+Market Information 
+
+On April 28, 2022, a bid and an ask was initially
+posted. 
+
+The high and low bid prices of our common stock
+following such date is as follows: 
+
+Quarter Ended 
+ High 
+ Low 
+ 
+ April 30, 2022 
+ 1.00 
+ 1.00 
+ 
+ July 31, 2022 
+ 1.00 
+ 1.00 
+ 
+ October 31, 2022 
+ 1.00 
+ 1.00 
+ 
+ January 31, 2023 
+ 6.00 
+ 1.00 
+
+The last reported sales price of our common stock
+on the OTCMarkets on January 27, 2023, was 4.99. 
+
+Dividend Policy 
+
+We have not declared or paid dividends on our
+common stock since our formation, and we do not anticipate paying dividends in the foreseeable future. Declaration or payment of dividends,
+if any, in the future, will be at the discretion of our Board of Directors and will depend on our then current financial condition, results
+of operations, capital requirements and other factors deemed relevant by the Board of Directors. There are no contractual restrictions
+on our ability to declare or pay dividends. 
+
+Holders 
+
+As of October 31, 2022, there were 6,240,000
+shares of common stock issued and outstanding, which were held by 29 stockholders of record. 
+
+Equity Compensation Plans 
+
+We do not have any equity compensation plans. 
+
+Recent Sales of Unregistered Securities; Use of Proceeds from Registered
+Securities 
+
+None. 
+
+Purchases of Equity Securities by the Small Business Issuer and
+Affiliated Purchasers 
+
+None. 
+
+5 
+
+Item 6. Selected Financial Data. 
+
+Smaller reporting companies are not required
+to provide the information required by this Item 6. 
+
+Item 7. Management s Discussion and Analysis of Financial
+Condition and Results of Operations. 
+
+This Management s Discussion and Analysis
+of Financial Condition and Results of Operations is intended to provide a reader of our financial statements with a narrative from the
+perspective of our management on our financial condition, results of operations, liquidity, and certain other factors that may affect
+our future results. The following discussion and analysis should be read in conjunction with our audited consolidated financial statements
+and the accompanying notes thereto included in Item 8. Financial Statements and Supplementary Data. In addition to historical
+financial information, the following discussion and analysis contains forward-looking statements that involve risks, uncertainties and
+assumptions. See Forward-Looking Statements. Our results and the timing of selected events may differ materially from those
+anticipated in these forward-looking statements as a result of many factors. 
+
+Business Overview 
+
+The Company initially was a provider of destination
+management and event management services. 
+
+After the change in control of management, the
+Company is currently working to acquire an operating business in the carbon emissions control industry. 
+
+Plan of Operations 
+
+The Company is currently planning to enter the
+carbon emissions reduction industry. We are tentatively look for a target company in the industry for acquisition in order to increase
+our service scopes. 
+
+Going Concern 
+
+Our auditor has indicated in their reports on
+our financial statements for the fiscal years ended October 31, 2022, that conditions exist that raise substantial doubt about our ability
+to continue as a going concern due to our recurring losses from operations, deficit in equity, and the need to raise additional capital
+to fund operations. A going concern opinion could impair our ability to finance our operations through the sale of debt
+or equity securities. 
+
+Results of Operations 
+
+Fiscal Year Ended October 31, 2022 and Fiscal Year Ended
+October 31, 2021 
+
+The company has generated nil and
+ nil revenues for the fiscal year ended October 31, 2022 and 2021, respectively. Cost of revenues were nil for the fiscal years ended
+October 31, 2022, and October 31, 2021. Operating expenses increased to 9,659 for
+the fiscal year ended October 31, 2022, as compared to 4,192 for the fiscal year ended 2021, both of them are substantially professional
+services expenses. We had net loss of 9,659 and 4,192 for the fiscal year ended October 31, 2022 and 2021, respectively. 
+
+6 
+
+Capital Resources and Liquidity 
+
+Fiscal Year Ended October 31, 2022 and Fiscal Year Ended
+October 31, 2021 
+
+Cash Used in Operating Activities 
+
+For the years ended October 31, 2022 and 2021, the
+Company had cash used in operating activities in the amount of 6,598 and 4,082, respectively, which were primarily due to net loss
+for the year, prepayment, and accounts payable and accrued liabilities. 
+
+Cash Provided by Financing Activities 
+
+For the years ended October 31, 2022 and
+2021, the Company realized cash provided by financing activities in the amount of 6,598 and 4,092, respectively, which was advances
+from our director for working capital purposes. 
+
+As of October 31, 2022, we have cash of 0. As of October
+31, 2021, we had cash of 0. 
+
+Our auditors have issued a going concern 
+opinion, meaning that there is substantial doubt if we can continue as an on-going business for the next twelve months unless we obtain
+additional capital. No substantial revenues are anticipated until we have implemented our plan of operations. 
+
+The Company requires additional
+funding to meet its ongoing obligations and to fund anticipated operating losses. Our auditor has expressed substantial doubt about our
+ability to continue as a going concern. The ability of the Company to continue as a going concern is dependent on raising capital to
+fund its initial business plan and ultimately to attain profitable operations. These financial statements do not include any adjustments
+relating to the recoverability and classification of recorded asset amounts or amounts and classification of liabilities that might result
+from this uncertainty. 
+
+We expect to incur marketing and professional
+and administrative expenses as well expenses associated with maintaining our filings with the Commission. We will require additional
+funds during this time and will seek to raise the necessary additional capital. If we are unable to obtain additional financing, we may
+be required to reduce the scope of our business development activities, which could harm our business plans, financial condition and
+operating results. Additional funding may not be available on favorable terms, if at all. The Company intends to continue to fund its
+business by way of equity or debt financing and advances from related parties. Any inability to raise capital as needed would have a
+material adverse effect on our business, financial condition and results of operations. 
+
+If we cannot raise additional funds, we will have to
+cease business operations. As a result, investors in the Company s common stock would lose all of their investment. 
+
+Off Balance Sheet Arrangements 
+
+None. 
+
+Recent Accounting Pronouncements 
+
+None. 
+
+7 
+
+Item 7A. Quantitative
+and Qualitative Disclosures About Market Risk. 
+
+Not applicable to a smaller reporting company as defined
+in Rule 12b-2 of the Exchange Act. 
+
+Item 8. Financial Statements and Supplementary
+Data. 
+
+The full text of the Company s financial statements for the
+fiscal years ended October 31, 2022 and 2021, begins on page F- 1 of this Annual Report on Form 10-K. 
+
+Item 9. Changes in and Disagreements
+With Accountants on Accounting and Financial Disclosure. 
+
+There have been no changes in or disagreements with accountants
+regarding our accounting, financial disclosures or any other matter. 
+
+Item 9A. Controls and Procedures. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+The management of the Company is responsible
+for establishing and maintaining adequate internal control over financial reporting, as required by Sarbanes- Oxley (SOX) Section 404
+A. The Company s internal control over financial reporting is a process designed under the supervision of the Company s Chief
+Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of the Company s financial statements for external purposes in accordance with U.S. generally accepted accounting principles. 
+
+Management assessed the effectiveness
+of the Company s internal control over financial reporting based on the criteria for effective internal control over financial
+reporting established in SEC guidance on conducting such assessments as of the end of the period covered by this report. Management conducted
+the assessment based on certain criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission. Based on this assessment, management concluded that our internal controls over financial reporting
+were not effective as of October 31 , 2022. 
+
+The matters involving internal controls
+and procedures that the Company s management considered to be material weaknesses under the standards of the Public Company Accounting
+Oversight Board were: (1) lack of a functioning audit committee and lack of a majority of outside directors on the Company s board
+of directors, resulting in ineffective oversight in the establishment and monitoring of required internal controls and procedures; (2)
+inadequate segregation of duties consistent with control objectives; (3) insufficient written policies and procedures for accounting
+and financial reporting with respect to the requirements and application of US GAAP and SEC disclosure requirements; and (4) ineffective
+controls over period end financial disclosure and reporting processes. The aforementioned material weaknesses were identified by the
+Company s Chief Financial Officer in connection with the review of our financial statements as of October 31, 2022 and communicated
+the matters to our management. 
+
+Management believes that the material weaknesses
+set forth in items (2), (3) and (4) above did not have an effect on the Company s financial results. However, management believes
+that the lack of a functioning audit committee and lack of a majority of outside directors on the Company s board of directors,
+resulting in ineffective oversight in the establishment and monitoring of required internal controls and procedures can result in the
+Company s determination to its financial statements for the future years. 
+
+8 
+
+We are committed to improving our financial
+organization. As part of this commitment, we will create a position to segregate duties consistent with control objectives and will increase
+our personnel resources and technical accounting expertise within the accounting function when funds are available to the Company: (i)
+Appointing one or more outside directors to our board of directors who shall be appointed to the audit committee of the Company resulting
+in a fully functioning audit committee who will undertake the oversight in the establishment and monitoring of required internal controls
+and procedures; and ii) Preparing and implementing sufficient written policies and checklists which will set forth procedures for accounting
+and financial reporting with respect to the requirements and application of US GAAP and SEC disclosure requirements. 
+
+Management believes that the appointment
+of one or more outside directors, who shall be appointed to a fully functioning audit committee, will remedy the lack of a functioning
+audit committee and a lack of a majority of outside directors on the Company s Board. In addition, management believes that preparing
+and implementing sufficient written policies and checklists will remedy the following material weaknesses (i) insufficient written policies
+and procedures for accounting and financial reporting with respect to the requirements and application of US GAAP and SEC disclosure
+requirements; and (ii) ineffective controls over period end financial close and reporting processes. Further, management believes that
+the hiring of additional personnel who have the technical expertise and knowledge will result proper segregation of duties and provide
+more checks and balances within the department. Additional personnel will also provide the cross training needed to support the Company
+if personnel turn over issues within the department occur. This coupled with the appointment of additional outside directors will greatly
+decrease any control and procedure issues the company may encounter in the future. 
+
+We will continue to monitor and evaluate
+the effectiveness of our internal controls and procedures and our internal controls over financial reporting on an ongoing basis and
+are committed to taking further action and implementing additional enhancements or improvements, as necessary and as funds allow. 
+
+This annual report does not include
+an attestation report of the company s registered public accounting firm regarding internal control over financial reporting. Management s
+report was not subject to attestation by the company s registered public accounting firm pursuant to temporary rules of the Securities
+and Exchange Commission that permit the Company to provide only management s report in this annual report. 
+
+There have been no changes in our
+internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of Rules 13a- 15 or
+15d- 15 under the Exchange Act that occurred during the small business issuer s last fiscal year that has materially affected,
+or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+We will continue to monitor and evaluate
+the effectiveness of our internal controls and procedures and our internal controls over financial reporting on an ongoing basis and
+are committed to taking further action and implementing additional enhancements or improvements, as necessary and as funds allow. 
+
+Changes in Internal Control over Financial Reporting 
+
+There were no changes that have affected,
+or are reasonably likely to materially affect, our internal control over financial reporting (as defined in Rules 13a- 15(f) or 15d-
+15(f) under the Exchange Act) during the fiscal year ended October 31, 2022. 
+
+Item 9B. Other Information. 
+
+None. 
+
+9 
+
+PART
+III 
+
+Item 10. Directors, Executive Officers
+and Corporate Governance. 
+
+Our executive officers and director are as follows: 
+
+Name 
+ Age 
+ Position 
+ 
+ Jaime Sanchez Cortina 
+ 57 
+ Former Chief Executive Officer, Chief Financial Officer, President,
+ Secretary and Treasurer, and Chairman of the Board of Directors (resigned January 27, 2023) 
+ 
+ Eric Nixon 
+ 35 
+ Current Chief Executive Officer, Chief Financial Officer, President, Secretary
+ and Treasurer, and Chairman of the Board of Directors (appointed January 27, 2023) 
+ 
+ Maria Teresa Tattersfield Yarza 
+ 46 
+ Director 
+ 
+ Alberto Ramirez 
+ 38 
+ Director 
+ 
+ Eduardo Piquero 
+ 41 
+ Director 
+
+Jaime Sanchez Cortina,
+57, Former Chief Executive Officer, Chief Financial Officer, President, Secretary and Treasurer, and Chairman of the Board of Directors
+(resigned January 27, 2023). 
+
+Jamie has over a decade of experience in financial
+management and strategic planning. He played a key role in developing six start-ups in Latin America and has been part of five private
+equity and venture capital funds, investing in over 30 companies, in which the best IRR of one investment reached 218 . 
+
+Mr. Sanchez Cortina manages the portfolio of
+E Capital Mexico Venture Capital Funds, a venture capital organization with nine early stage investments in the fintech, technology,
+environmental, and auto part sectors. Prior to that, Jaime a Director at Abraaj Group in the Mexico office, managing a portfolio of over
+US 170 M. Before that he structured and developed the strategy of the Mexican Government Venture Capital Fund of Funds, Mexico Ventures
+I, a Venture Capital Fund of Funds co-managed with Sun Mountain Capital and GreenSpring Associates. 
+
+Eric Nixon, 35, CEO, CFO, President, and
+Director 
+
+For over two decades, Eric has worked in the
+electrical technology sector, bringing multiple renewable energy projects to life and striving for a carbon neutral society. He
+has worked alongside Conestoga College to educate the public on reducing energy consumption and researching new technologies to help
+reduce the carbon footprint. 
+
+Eric has also dedicated years of volunteer work
+to helping the homeless and the most vulnerable, ensuring they receive the proper help and medical treatment. He has the skills and experience
+to take on projects in the residential, commercial, industrial, technology sectors and emergency response services when needed. 
+
+Maria Teresa Tattersfield
+Yarza , 46 , Director 
+
+Teresa is the Co-Founder
+of Bret Consultores. She holds a degree in International Relations with a Master's Degree in Environmental Policy and Management, an
+Specialization in Sustainable Development (LEAD program from the Colegio de M xico) and Energy Efficiency and Environment at FLACSO.
+She is currently the forest carbon Manager of WRI Mexico, responsible for coordinating the execution of CO2munitario. She is a specialist
+in the design and development of methodologies and protocols that have been implemented in Mexico for the sale of offsets in the international
+market. 
+
+During the previous
+six years, she oversaw the Program of Natural Solutions at Tec de Monterrey University and was an advisor to the Neutral zate
+Program of Pronatura M xico. She has been part of the special team of advisers in sustainable development and climate change for
+the Foreign Ministry of the British Commonwealth Government. She has been responsible for the elaboration of strategies that combine
+the efforts of local and federal governments in the development of international initiatives such as Methane to Markets. In her work
+at the Ministry of Environment and Natural Resources, she coordinated initiatives such as the restoration of the Lerma Chapala Basin. 
+
+10 
+
+Alberto Ram rez ,
+ 38, Director 
+
+Alberto has collaborated
+as a consultant for entities such as CONAFOR, PROBOSQUE; SEDEMA; WWF Mexico; Climate Action Reserve (CAR); PRONATURE; ClimateSeed, among
+others, for the development and feasibility assessment of forestry carbon capture projects. He has experience as a verifier in compliance
+with forest regulations on sustainability with an emphasis on biodiversity and social aspects. He was the first Mexican verifier accredited
+by CAR and has participated in the review and proposal of GHG removal quantification protocols; such as CAR s Forest Protocol for
+Mexico v.2.0. His main activities focus on the sustainable management of natural resources through the participation of rural communities.
+Alberto is a Biologist, graduated from the Faculty of Higher Studies Iztacala of the UNAM. 
+
+Alberto is currently
+the Forest Carbon Coordinator at WRI Mexico. Alberto is responsible for coordinating carbon capture forestry projects; through capacity
+building in communities; linking of forest communities at the national level; and for providing advice on inventories, monitoring, reporting
+and verification. 
+
+Eduardo Piquero,
+41, Director 
+
+CEO M XICO2;
+Eduardo has more than 15 years of experience in international and national carbon pricing instruments and policies. He is currently the
+CEO of M XICO2, where he oversees the development of environmental markets, including carbon markets, clean energy certificates
+and green bonds. 
+
+He also led the development
+of the simulation exercise of a Mexican Emissions Trading System (SCE) in collaboration with the Ministry of Environment of Mexico (SEMARNAT)
+as a preparation for the country s regulated emissions scheme, with the participation of more than 90 companies. Furthermore, he
+participated in the creation of a secondary market for Clean Energy Certificates (CEL), which supports the Mexican Wholesale Electricity
+Market (MEM). In addition to his work in Mexico, Eduardo has focused on developing projects to reduce greenhouse gas emissions and has
+designed climate change projects in several countries in Latin America, Asia, and Africa. 
+
+Eduardo has been a speaker
+at conferences and events related to climate change and climate finance. He was also a member of the Green Finance Working Group of the
+United Nations at the Initiative for Sustainable Stock Exchanges. Further, since 2021 is member of the board of the Climate Action Reserve,
+and in 2022 was selected as one of the 30 most sustainable minds in Mexico, by Forbes. 
+
+Director Independence 
+
+No members of our board of directors is qualifies
+as independent directors in accordance with the published listing requirements of the NASDAQ Global Market. The NASDAQ independence definition
+includes a series of objective tests, such as that the director is not, and has not been for at least three years, one of our employees
+and that neither the director, nor any of his family members has engaged in various types of business dealings with us. In addition,
+our board of directors has not made a subjective determination as to each director that no relationship exists which, in the opinion
+of our board of directors, would interfere with the exercise of independent judgment in carrying out the responsibilities of a director,
+though such subjective determination is required by the NASDAQ rules. Had our board of directors made these determinations, our board
+of directors would have reviewed and discussed information provided by the directors and us with regard to each director s business
+and personal activities and relationships as they may relate to us and our management. 
+
+Involvement in Legal Proceedings 
+
+To our knowledge, there have been
+no material legal proceedings during the last ten years that would require disclosure under the federal securities laws that are material
+to an evaluation of the ability or integrity of any of our directors or executive officers. 
+
+Potential Conflicts of Interest 
+
+None. 
+
+11 
+
+Item 11. Executive Compensation. 
+
+Summary Compensation Table 
+
+ARMA Services, Inc. has made no provisions
+for paying cash or non-cash compensation to its officers and directors. No salaries are being paid at the present time, and none will
+be paid unless and until our operations generate sufficient cash flows. 
+
+The table below summarizes all
+compensation awarded to, earned by, or paid to our named executive officer for all services rendered in all capacities to us for the
+years ended October 31, 2022 and October 31, 2021. 
+
+Summary Compensation
+of Named Executive Officers 
+
+Name and Principal
+ Position 
+ Fiscal
+ Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards ) 
+ Option Awards ) 
+ All
+ Other Compensation ) 
+ Total ) 
+ 
+ Jaime Sanchez Cortina 
+ 
+ 2022 
+
+(Former Chief Executive Officer) 
+ 2021 
+
+Eric Nixon 
+ 2022 
+
+(Chief Executive Officer) 
+ 2021 
+
+Mr. Nixon was appointed as Chief Executive Officer and
+Chief Financial Officer on January 27, 2023. 
+
+Mr. Jaime Sanchez Cortina resigned all his positions on
+January 23, 2023. 
+
+Outstanding Equity Awards at Fiscal Year End 
+
+We did not pay any salaries in
+2022 or 2021. None of our executive officers received any equity awards, including, options, restricted awards stock, performance or
+other equity incentives during the fiscal year ended October 31, 2022 and October 31, 2021. 
+
+Employment Contracts 
+
+The Company has not entered into any employment agreements
+with its officer and director. 
+
+Stock Awards Plan 
+
+The Company has not adopted a Stock Awards Plan but may
+do so in the future. The terms of any such plan have not been determined. 
+
+12 
+
+Director Compensation 
+
+The Board of Directors of the Company
+has not adopted a stock option plan. The Company has no plans to adopt it but may choose to do so in the future. If such a plan is adopted,
+this may be administered by the board or a committee appointed by the board (the Committee ). The committee would have the
+power to modify, extend or renew outstanding options and to authorize the grant of new options in substitution therefore, provided that
+any such action may not impair any rights under any option previously granted. ARMA Services Inc. may develop an incentive-based stock
+option plan for its officers and directors and may reserve up to 10 of its outstanding shares of common stock for that purpose. 
+
+The table below summarizes all compensation awarded
+to, earned by, or paid to our directors for all services rendered in all capacities to us for the periods ending October 31, 2022 and
+2021. 
+
+DIRECTOR COMPENSATION 
+
+Name 
+ Fees 
+ Earned 
+ or 
+ Paid in 
+ Cash 
+ ) 
+ Stock 
+ Awards 
+ ) 
+ Option 
+ Awards 
+ ) 
+ Non-Equity 
+ Incentive 
+ Plan 
+ Compensation 
+ ) 
+ Non-Qualified 
+ Deferred 
+ Compensation 
+ Earnings 
+ ) 
+ All 
+ Other 
+ Compensation 
+ ) 
+ Total 
+ ) 
+ 
+ Eric Nixon 
+
+Jaime Sanchez Cortina 
+
+Maria Teresa Tattersfield Yarza 
+
+Alberto Ram rez 
+
+Eduardo Piquero 
+
+Eric Nixon was appointed as Director on January 27, 2023. 
+
+ Jaime Sanchez Cortina resigned all his positions
+on January 27, 2023. 
+
+ Maria Teresa Tattersfield Yarza, Alberto Ram rez, and Eduardo Piquero were appointed on August 17, 2022. 
+
+Board Committees 
+
+We have not formed an Audit Committee, Compensation Committee
+or Nominating and Corporate Governance Committee as of the filing of this Annual Report. Our Board of Directors performs the principal
+functions of an Audit Committee. We currently do not have an audit committee financial expert on our Board of Directors. We believe that
+an audit committee financial expert is not required because the cost of hiring an audit committee financial expert to act as one of our
+directors and to be a member of an Audit Committee outweighs the benefits of having an audit committee financial expert at this time. 
+
+13 
+
+Item 12. Security Ownership of Certain
+Beneficial Owners and Management and Related Stockholder Matters. 
+
+The following table sets forth certain information
+with respect to the beneficial ownership of our voting securities by (i) each director and named executive officer, (ii) all executive
+officers and directors as a group; and (iii) each shareholder known to be the beneficial owner of 5 or more of the outstanding common
+stock of the Company as of October 31, 2022. 
+
+Beneficial ownership is determined in accordance
+with the rules of the SEC. Generally, a person is considered to beneficially own securities: (i) over which such person, directly or
+indirectly, exercises sole or shared voting or investment power, and (ii) of which such person has the right to acquire beneficial ownership
+at any time within 60 days (such as through exercise of stock options or warrants). For purposes of computing the percentage of outstanding
+shares held by each person or group of persons, any shares that such person or persons has the right to acquire within 60 days of October
+31, 2022 are deemed to be outstanding, but are not deemed to be outstanding for the purpose of computing the percentage ownership of
+any other person. The inclusion herein of any shares listed as beneficially owned does not constitute an admission of beneficial ownership. 
+
+Amount and Nature of Beneficial Ownership 
+ Common Stock (2) 
+ 
+ Name and Address of
+ Beneficial Owner (1) 
+ Number of 
+ Shares 
+ Beneficially 
+ Owned 
+ Percentage 
+ Ownership 
+ of shares of 
+ Common 
+ Stock 
+
+Eric Nixon 
+ 0 
+ 0 
+
+Jaime Sanchez Cortina 
+ 0 
+ 0 
+
+Maria Teresa Tattersfield Yarza 
+ 0 
+ 0 
+
+Alberto Ram rez 
+ 0 
+ 0 
+
+Eduardo Piquero 
+ 0 
+ 0 
+
+All officers and directors as a group (4 people) 
+ 0 
+ 0 
+
+Ruslan Mishin 
+ Wilkina st. 15-5 
+ Vakhrushevo, Ukraine 9456 
+ 4,000,000 
+ 64 
+
+(1) The address of each beneficial
+owner is c/o ARMA Services Inc., Suite 140-920 7260 West Azure Drive, Las Vegas, Nevada 89130 (2) 
+ 
+ (2) Based on 6,240,000 shares of common stock issued and outstanding
+ as of October 31, 2022. 
+
+14 
+
+Item 13. Certain Relationships and Related
+Transactions, and Director Independence. 
+
+Except as set forth below, we had
+not entered into any transactions with our officers or directors, or persons nominated for these positions, beneficial owners of 5 or
+more of our common stock, or family members of these persons wherein the amount involved in the transaction or a series of similar transactions
+exceeded the lesser of 120,000 or 1 of the average of our total assets for the last three fiscal years. 
+
+Transactions with Related Persons 
+
+As of October 31, 2022, the Company had a loan outstanding with Mr.
+Sergey Gandin, former CEO and director in the amount of 27,248 compared to 20,650 as of October 31, 2021. The loan is non-interest
+bearing, due upon demand, and unsecured. 
+
+Item 14. Principal Accountant Fees and Services. 
+
+Fees paid to Auditors 
+
+Audit Fees 
+
+During fiscal years ended October 31, 2022
+and 2021, we incurred approximately 5,000 and 5,000 respectively, in fees to our principal independent accountants for professional
+services rendered in connection with the audit of our October 31, 2022 and 2021 financial statements and for the reviews of our financial
+statements for the quarters ended during such periods. 
+
+The SEC requires that before our independent
+registered public accounting firm is engaged by us to render any auditing or permitted non-audit related service, the engagement be either:
+(i) approved by our Audit Committee or (ii) entered into pursuant to pre-approval policies and procedures established by the Audit Committee,
+provided that the policies and procedures are detailed as to the particular service, the Audit Committee is informed of each service,
+and such policies and procedures do not include delegation of the Audit Committee s responsibilities to management. 
+
+We do not have an Audit Committee. Our Board
+pre-approves all services provided by our independent registered public accounting firm. 
+
+15 
+
+PART IV 
+
+Item 15. Exhibit and Financial Statement
+Schedules. 
+
+Please see the Exhibit Index, 
+which is incorporated herein by reference, following the signature page for a list of our exhibits. 
+
+EXHIBIT INDEX 
+
+23.1 
+ Consent of Independent Registered Public Accounting Firm 
+ 
+ 31 
+ Certification of Chief Executive Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+ 
+ 32.1 
+ Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002. 
+ 
+ 32.2 
+ Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002 . 
+ 
+ 101.INS 
+ Inline XBRL Instance Document (the instance document does not appear
+ in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document) 
+ 
+ 101.SCH 
+ Inline XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ Inline XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 104 
+ Cover Page Interactive Data File (formatted in inline XBRL, and included
+ in exhibit 101). 
+
+16 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+ARMA SERVICES , INC. 
+
+Dated: February 3, 2023 
+ By: 
+ /s/ Eric Nixon 
+
+Name: 
+ Eric Nixon 
+
+Title: 
+ President, Chief Executive Officer, Chief 
+ Financial Officer and Secretary and Director 
+ (Principal Executive, Financial and Accounting Officer) 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Company and in the capacities and on
+the dates indicated. 
+
+Dated: February 3, 2023 
+ By: 
+ /s/ Eric Nixon 
+
+Name: 
+ Eric Nixon 
+
+Title: 
+ President, Chief Executive Officer, Chief 
+ Financial Officer and Secretary and as a director 
+ (Principal Executive, Financial and Accounting Officer) 
+
+17 
+
+INDEX TO AUDITED FINANCIAL STATEMENTS 
+
+Report of
+ Independent Registered Public Accounting Firm PCAOB ID 
+ 
+ F-2 
+
+Balance Sheets as of October 31, 2022, and 2021 
+ 
+ F-3 
+
+Statements of Operations for the years ended October 31, 2022 and 2021 
+ 
+ F-4 
+
+Statements of Stockholders Equity for the years ended October 31, 2022, and 2021 
+ 
+ F-5 
+
+Statements of Cash Flows for the years ended October 31, 2022, and 2021 
+ 
+ F-6 
+
+Notes to Audited Financial Statements 
+ 
+ F-7 
+
+F- 1 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the shareholders and the Board of Directors
+of Arma Services Inc. 
+
+Opinion on the Financial Statements 
+
+ We have audited the accompanying balance sheets
+of Arma Services Inc. the Company as of October 31, 2022 the related statements of operations, stockholder's equity, and
+cash flows, for the period ended October 31, 2022 and the related notes (collectively referred to as the financial statements ).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of October
+31, 2022, and the results of its operations and its cash flows for the period ended October 31, 2022, in conformity with accounting principles
+generally accepted in the United States of America. The financial statement of Arma Services Inc. As of October 31, 2021, were audited
+by other auditors whose report dated December 27, 2021 expressed an unqualify opinion on those statement. 
+
+Material Uncertainty Relating to Going Concern
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 4 to the financial statements, the Company has
+suffered recurring losses and had not yet established a reliable, consistent, and proven source of revenue to meet its operating costs
+on an ongoing basis and currently does not have sufficient available funding to fully implement its business plan. These factors raise
+substantial doubt about its ability to continue as a going concern. Management's plans in regard to these matters were also not described
+in the financial statements. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Our opinion is not modified with respect to this matter. 
+
+Basis for Opinion 
+
+ These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+ We conducted our audits in accordance with
+the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal
+control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our audits included performing procedures
+to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that
+respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as
+evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+(Chartered Accountants) 
+
+We have served as the Company's auditor since January 2023. 
+
+ January 26 th , 2023. 
+
+F- 2 
+
+ARMA SERVICES, INC. 
+
+ Balance Sheets (Audited) 
+
+ As of October 31, 2022, and 2021 
+
+October 31, 2022 
+ October 31, 2021 
+
+ASSETS 
+
+Current Assets 
+
+Cash and cash equivalents 
+
+Total Current Assets 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current Liabilities 
+
+Accounts payable 
+
+Loan from director 
+
+Total Current Liabilities 
+
+Total Liabilities 
+
+Commitments and Contingencies 
+
+Stockholders Equity 
+
+Common stock, par value ; shares authorized, shares issued and outstanding at October 31, 2022 and 2021 
+
+Additional paid in capital 
+
+Accumulated deficit 
+
+Total Stockholders Equity 
+
+Total Liabilities and Stockholders Equity 
+
+See accompanying notes to financial statements. 
+
+F- 3 
+
+ARMA SERVICES, INC. 
+
+ Statements of Operations (Audited) 
+
+ For the years ended October 31, 2022, and 2021 
+
+Year ended October 31, 2022 
+ Year ended October 31, 2021 
+
+REVENUES 
+
+OPERATING EXPENSES 
+
+Professional Fees 
+
+Bank Service Charges 
+
+TOTAL OPERATING EXPENSES 
+
+NET LOSS FROM OPERATIONS 
+
+PROVISION FOR INCOME TAXES 
+
+NET LOSS 
+
+NET LOSS PER SHARE: BASIC AND DILUTED 
+
+WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING: BASIC AND DILUTED 
+
+See accompanying notes to financial statements. 
+
+F- 4 
+
+ARMA SERVICES, INC. 
+
+ Statement of Stockholder s Equity (Audited) 
+
+ For the Years Ended October 31, 2022, and 2021 
+
+Common Stock 
+ Additional Paid-in 
+ Accumulated 
+ Total Stockholders 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Equity 
+
+Balance, October 31, 2020 
+
+Net loss for the year ended October 31, 2021 
+
+Balance, October 31, 2021 
+
+Net loss for the year ended October 31, 2022 
+
+Balance, October 31, 2022 
+
+See accompanying notes to financial statements. 
+
+F- 5 
+
+ARMA SERVICES, INC. 
+
+ Statement of Cash Flows (Audited) 
+
+ For the Years Ended October 31, 2022, and 2021 
+
+Year ended October 31, 2022 
+ Year ended October 31, 2021 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss for the year 
+
+Adjustment for non-cash item 
+
+Changes in assets and liabilities: 
+
+Increase (decrease) in accounts payable 
+
+Cash flows provided by/ (used in) operating activities 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Cash flows provided by/ (used in) investing activities 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Loan from director 
+
+Cash flows provided by/ (used in) financing activities 
+
+NET INCREASE (DECREASE) IN CASH 
+
+Cash, beginning of period 
+
+Cash, end of period 
+
+SUPPLEMENTAL CASH FLOW INFORMATION: 
+
+Interest paid 
+
+Income taxes paid 
+
+See accompanying notes to financial statements. 
+
+F- 6 
+
+ARMA SERVICES, INC. 
+
+ NOTES TO THE AUDITED FINANCIAL STATEMENTS 
+
+ October 31, 2022, and 2021 
+
+of cash as of October 31, 2022. 
+
+t granted any stock options. 
+
+such common stock equivalents
+outstanding as of October 31, 2022 and 2021. In loss years common stock equivalents would not be included as they would be anti-dilutive. 
+
+.
+As of October 31, 2022, and 2021 the loan is non-interest bearing, due upon demand and unsecured. 
+
+, par value shares
+of common stock authorized. As of October 31, 2022, and 2021, the Company had shares issued and outstanding. 
+
+. 
+
+The Company s officers and director provide
+services and office space to the Company without compensation. The Company has entered into vendor agreements with Proekta LLC and Gazetny
+LLC, which are entities related to officers of the Company. During the year, company had not transacted any business with the related
+entities. 
+
+that may be available to reduce future years taxable income in varying amounts through
+2037. Future tax benefits which may arise as a result of these losses have not been recognized in these financial statements, as their
+realization is determined not likely to occur and accordingly, the Company has recorded a valuation allowance for the deferred tax asset
+relating to these tax loss carryforwards. The provision for Federal income tax consists of the following: 
+
+Less: valuation allowance 
+
+Net provision for Federal income taxes 
+
+The cumulative tax effect at the expected rate of 21 of significant
+items comprising our net deferred tax amount is as follows: 
+
+Less: valuation allowance 
+
+Net deferred tax asset 
+
+Due to the change in ownership provisions of the
+Tax Reform Act of 1986, net operating loss carry forwards of approximately 68,204 for Federal income tax reporting purposes are subject
+to annual limitations. Should a change in ownership occur net operating loss carry forwards may be limited as to use in future years. 
+
+F- 10 
+
+<EX-23.1>
+ 2
+ arma_ex2301.htm
+ CONSENT
+
+EXHIBIT 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+The Shareholders and Board of Directors of Arma Services Inc 
+
+We consent
+to the inclusion in the Form 10-K of Arma Services Inc . of our report
+dated January 26th, 2023, with respect to the audited balance sheets and the related statements of operations, stockholders equity,
+and cashflows for the year ended October 31, 2022. 
+
+/S/ Olayinka Oyebola 
+
+ OLAYINKA OYEBOLA CO 
+
+ Chartered Accountant 
+
+PCAOB No:5968 
+
+ Lagos, Nigeria 
+
+ February 3rd, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ arma_ex3101.htm
+ CERTIFICATION
+
+EXHIBIT 31.1 
+
+CERTIFICATION OF 
+
+ PRINCIPAL EXECUTIVE OFFICER AND PRINCIPAL ACCOUNTING
+OFFICER 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF 
+
+ THE SARBANES-OXLEY ACT OF 2002 
+
+I, Eric Nixon, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of ARMA Services, Inc. (the Registrant ): 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The Registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13-a13a-15(f) and 15d-15(f)) for the Registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the Registrant s disclosure controls and procedures; and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+
+5. 
+ The Registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Dated: February 3, 2023 
+ By: 
+ /s/ Eric Nixon 
+
+Eric Nixon 
+
+Chief Executive Officer and Chief Financial Officer 
+ (Principal Executive Officer and Principal Accounting
+ Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 4
+ arma_ex3201.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U. S. C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of ARMA Services,
+Inc. (the Company on Form 10-K for the year ended October 31, 2022 (the Report ), I, Eric Nixon, Chief Executive
+Officer of the Company, hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act
+of 2002, that: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: February 3, 2023 
+ By: 
+ /s/ Eric Nixon 
+
+Eric Nixon 
+
+Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ arma_ex3202.htm
+ CERTIFICATION
+
+EXHIBIT 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U. S. C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of ARMA Services,
+Inc. (the Company on Form 10-K for the year ended October 31, 2022 (the Report ), I, Eric Nixon, Chief Financial
+Officer of the Company, hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act
+of 2002, that: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: February 3, 2023 
+ By: 
+ /s/ Eric Nixon 
+
+Eric Nixon 
+
+Chief Financial Officer 
+ (Principal Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ arma-20221031.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ arma-20221031_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ arma-20221031_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ arma-20221031_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

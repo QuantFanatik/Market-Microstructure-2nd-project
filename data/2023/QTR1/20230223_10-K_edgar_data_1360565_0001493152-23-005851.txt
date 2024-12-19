@@ -1,0 +1,4526 @@
+<Header>
+<FileStats>
+    <FileName>20230223_10-K_edgar_data_1360565_0001493152-23-005851.txt</FileName>
+    <GrossFileSize>6925001</GrossFileSize>
+    <NetFileSize>182937</NetFileSize>
+    <NonText_DocumentType_Chars>1103539</NonText_DocumentType_Chars>
+    <HTML_Chars>2165900</HTML_Chars>
+    <XBRL_Chars>1356946</XBRL_Chars>
+    <XML_Chars>1904949</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-005851.hdr.sgml : 20230223
+<ACCEPTANCE-DATETIME>20230223131111
+ACCESSION NUMBER:		0001493152-23-005851
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		84
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230223
+DATE AS OF CHANGE:		20230223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Where Food Comes From, Inc.
+		CENTRAL INDEX KEY:			0001360565
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				431802805
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40314
+		FILM NUMBER:		23658491
+
+	BUSINESS ADDRESS:	
+		STREET 1:		202 6TH STREET
+		STREET 2:		SUITE 400
+		CITY:			CASTLE ROCK
+		STATE:			CO
+		ZIP:			80104
+		BUSINESS PHONE:		(303) 895-3002
+
+	MAIL ADDRESS:	
+		STREET 1:		202 6TH STREET
+		STREET 2:		SUITE 400
+		CITY:			CASTLE ROCK
+		STATE:			CO
+		ZIP:			80104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Integrated Management Information, Inc.
+		DATE OF NAME CHANGE:	20060425
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-005851.txt : 20230223
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended , 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from ____________ to _____________ 
+
+Commission
+File No. 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+of incorporation or organization) 
+ 
+ (I.R.S.
+Employer Identification No.) 
+
+, 
+
+ , 
+
+ (Address
+of principal executive offices, including zip code) 
+
+Registrant s
+telephone number, including area code: 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None 
+
+Securities
+registered pursuant to Section 12(g) of the Act: 
+
+(Title
+of Class) 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2)
+has been subject to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer: 
+ 
+ Accelerated filer: 
+
+: 
+ 
+ Smaller reporting company: 
+
+Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicated
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C.7252(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+ Yes
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+ Yes
+
+The
+aggregate market value of the voting stock held by non-affiliates of the registrant on June 30, 2022, the last business day of our most
+recently completed second fiscal quarter, was , based on the closing stock price on June 30, 2022 of 10.80. 
+
+The
+number of shares of the registrant s common stock, 0.001 par value per share, outstanding as of February 17, 2023 was . 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE: 
+
+TABLE
+OF CONTENTS 
+
+Page 
+ 
+ PART I 
+ 
+ ITEM
+ 1. 
+ BUSINESS 
+ 3 
+ 
+ ITEM
+ 1A. 
+ RISK FACTORS 
+ 10 
+ 
+ ITEM
+ 1B. 
+ UNRESOLVED STAFF COMMENTS 
+ 17 
+ 
+ ITEM
+ 2. 
+ PROPERTIES 
+ 17 
+ 
+ ITEM
+ 3. 
+ LEGAL PROCEEDINGS 
+ 17 
+ 
+ ITEM
+ 4. 
+ MINE SAFETY DISCLOSURES 
+ 17 
+ 
+ PART II 
+
+ITEM
+ 5. 
+ MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 18 
+ 
+ ITEM
+ 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 19 
+ 
+ ITEM
+ 7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 27 
+ 
+ ITEM
+ 8. 
+ FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 28 
+ 
+ ITEM
+ 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 61 
+ 
+ ITEM
+ 9A. 
+ CONTROLS AND PROCEDURES 
+ 61 
+ 
+ ITEM
+ 9B. 
+ OTHER INFORMATION 
+ 61 
+ 
+ ITEM
+ 9C. 
+ DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+ 61 
+ 
+ PART III 
+
+ITEM
+ 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 62 
+ 
+ ITEM
+ 11. 
+ EXECUTIVE COMPENSATION 
+ 62 
+ 
+ ITEM
+ 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 62 
+ 
+ ITEM
+ 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 62 
+ 
+ ITEM
+ 14. 
+ PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 62 
+ 
+ ITEM
+ 15. 
+ EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+ 63 
+ 
+ ITEM
+ 16. 
+ FORM 10-K SUMMARY 
+ 64 
+
+SIGNATURES 
+ 65 
+
+2 
+
+PART
+I 
+
+ITEM 1. BUSINESS 
+
+GENERAL 
+
+Where
+Food Comes From, Inc. and its subsidiaries WFCF, the Company, our, we, or us is a leading trusted resource for third-party verification of food production practices in North America. The Company estimates that
+is supports more than approximately 17,500 farmers, ranchers, vineyards, wineries, processors, retailers, distributors, trade associations,
+consumer brands, chefs and restaurants with a wide variety of value-added services provided through its family of verifiers, including
+IMI Global IMI ), Where Food Comes From Organic WFCFO - previously International Certification Services
+and A Bee Organic), and Validus Verification Services Validus ). In order to have credibility, product claims such as gluten-free,
+non-GMO, non-hormone treated, humane handling, and others require verification by an independent third-party such as WFCF. The Company s
+principal business is conducting both on-site and desk audits to verify that claims being made about livestock, aquaculture, crops and
+other food products are accurate. 
+
+Through
+SureHarvest Services LLC SureHarvest and Postelsia Holdings, Ltd. Postelsia ), we primarily provide a wide
+range of professional services and technology solutions that generate incremental revenue specific to the food and agricultural industry
+and drive sustainable value creation. 
+
+Finally,
+the Company s Where Food Comes From Source Verified retail and restaurant labeling program utilizes the verification of product
+attributes to connect consumers directly to the source of the food they purchase through product labeling and web-based information sharing
+and education. With the use of Quick Response Code QR technology, consumers can instantly access information about the
+producers behind their food. 
+
+WFCF
+was founded in 1996 and incorporated in the state of Colorado as a subchapter C corporation in 2006. The Company s shares of common
+stock trade on the NASDAQ Capital Market NASDAQ ), under the stock ticker symbol, WFCF. 
+
+The
+Company s original name Integrated Management Information, Inc. (d.b.a. IMI Global) was changed to Where Food Comes
+From, Inc. in 2012 to better reflect the Company s mission. Early growth was attributable to source and age verification services
+for beef producers that wanted access to markets overseas following the discovery of mad cow disease in the U.S. Over the
+years, WFCF has expanded its portfolio to include verification and software services for most food groups and over 50 programs and organizations.
+This growth has been achieved both organically and through the acquisition of other companies. 
+
+BUSINESS
+OVERVIEW 
+
+What
+We Do 
+
+The
+Company is one of the nation s largest independent, third-party traceability and verification providers. We use rigorous
+verification processes on food production processes to ensure that claims made by food producers and processors are accurate. We
+care about food and other agricultural products, how it is grown and raised, the quality of what we eat, what farmers and ranchers
+do, and authentically telling that story to the consumer. Our team visits farms and ranches and looks at their plants, animals, and
+records, and compares the information we collect to specific standards or claims that farms and ranches want to make about how they
+are producing food. Our customers include top-tier players in the food and wine space. 
+
+3 
+
+The
+Company also provides a wide range of professional consulting services and technology solutions that generate incremental revenue specific
+to the food and agricultural industry and drive sustainable value creation. 
+
+The
+Company s business benefits from growing demand by consumers, retailers and government for increased transparency into food production
+practices. 
+
+Consumers:
+ Due to concerns about social responsibility and sustainability, food safety, and an overall increase in health consciousness, consumers
+are demanding more information about the food they purchase. 
+
+Retailers:
+ Responding to consumer demands for increased transparency as well as to the negative impact food scandals have on their bottom lines,
+retailers are requiring their suppliers to adhere to more stringent traceability and verification of product claims. 
+
+Government
+Regulation: Regulations including the U.S. Department of Agriculture s Animal Disease Traceability program, international export
+requirements, non-GMO and gluten-free testing requirements, and ingredient labeling regulations are all impacting product verification. 
+
+Growth
+Strategy 
+
+Due
+to organic growth in our portfolio of auditing standards, consumer demand and acquisitions, our sales have grown rapidly from 1.1 million
+in 2006 to 24.8 million in 2022, a 17-year compounded annual growth rate CAGR of approximately 20 . 
+
+Our
+growth strategy is as follows: 
+
+To
+ cover more food groups than any other verification provider. Currently we verify beef, lamb, pork, poultry, seafood, dairy, eggs,
+ fresh produce, nuts and grains, wine and finished products. In the future, we hope to further expand our scope within beverages,
+ seafood and other produce. 
+
+To
+ offer solutions for all participants in the food supply chain, including feed and input ingredient providers, farmers, producers,
+ packers, auction barns, processors, handlers, distributors, restaurants, retailers and consumers. 
+
+To
+ expand on the industry s largest solutions portfolio. We currently are verifying or certifying to more than 50 certification
+ standards or guidelines. To our knowledge, that is the most in the industry. 
+
+To
+ continue organic growth. We leverage our bundling capability to aggressively pursue new customers, while sustaining our recurring
+ revenue model and high retention rates. 
+
+To
+ continue growth through merger and acquisition opportunities. Through selective acquisitions, we can expand our footprint by adding
+ new customers, services, food groups and revenue streams. 
+
+INDUSTRY
+BACKGROUND 
+
+The
+value-added food industry has been growing rapidly for the past several years in response to increased consumer interest about social
+responsibility, sustainability and food safety production practices. We continue to see a growing interest from consumers regarding how
+their food is produced. We are in an increasingly global food market with food products traveling around the world, and brands differentiating
+themselves in the market. These key drivers are increasing the number of food labeling claims made on food products. 
+
+Natural
+and/or organic are examples of food labels that indicate that the food or other agricultural product has been produced in a certain way.
+Natural and organic sales are only part of the story of how consumers look for the verification of practices tied to food labeling claims.
+Other factors are also becoming increasingly more important to consumers, evidenced on menus and product labels. While not an exhaustive
+list, some of the issues that farms, ranches, producers, processors, restaurants and retailers are addressing include how animals are
+cared for and handled, how a product s production impacts the environment and societies, and what inputs were used in the production
+of food items (like antibiotics). 
+
+4 
+
+As
+consumers want more assurance about the trustworthiness of labeling claims, there is a growing trend for verification of practices around
+sustainability. As the agriculture, livestock and food industries continue to mature and expand internationally, there is an increasing
+need to record, manage, report and verify information regarding the source, age, genetic background, animal husbandry, environmental
+stewardship, practices surrounding the people and community, and other credence attributes. We believe verification of labeling claims
+by an independent third-party can meet consumer demands and expectations. Third-party verification also benefits producers, processors,
+distributors, restaurants, and retailers by addressing marketplace differentiation and global competitiveness. 
+
+Current
+Marketplace Opportunities 
+
+Because
+of growing demand for increased transparency into food production practices, we believe there are three main market drivers to promote
+forward momentum for our business: 
+
+Market
+Driver #1 - Consumer awareness and expectations 
+
+Per
+ Steve Stouffer, group president of Tyson Fresh Meats, We recognize the importance of sustainable beef production practices
+ that take care of people, the planet and animals. Our goal is to work with ranchers to verify (via a third-party) and, when possible,
+ improve those practices so that we can be transparent with our customers and consumers about how cattle in our supply chain are raised. 
+
+Per
+ Priya Khan, Founder and CEO of Nutrigold, concerned consumers often wonder if the claims on product labels are actually true.
+ They want to buy healthy, environmentally-friendly products and often pay a premium to do so. It is difficult to know what companies
+ you can trust, and hard to tell what you are really getting when you buy. Something an increasing number of companies do to add transparency
+ is use third-party verification, so consumers can buy with confidence. 
+
+Per
+ the Organic Global Food Market Report 2022, the global organic food market is expected to grow from 227.19 billion in 2021 to 259.06
+ billion in 2022 at a compound annual growth rate (CAGR) of 14.0 . The market is expected to grow to 437.36 billion in 2026 at a
+ compound annual growth rate (CAGR) of 14.0 . Major players in the market include General Mills Inc., Nestle, Cargill, Inc., Danone,
+ United Natural Foods Inc. and Amy s Kitchen. Increasing health concerns due to the growing number of chemical poisoning cases
+ globally is acting as a driver in the organic food market. This is causing consumers to shift their focus towards organic food products. 
+
+Market
+Driver #2 - Global competitiveness and risk mitigation among producers, restaurants, and retailers 
+
+Per
+ Managing Business Risk in the Food and Beverage Industry, prepared by Cambashi,
+ Inc., To compete, midsize companies across the industry have stepped up research and
+ development (R D) to improve on and leverage existing brands and product lines for new
+ applications, markets, and regions. The way people eat and what they eat around the globe
+ continually changes, and this is driving co-ops and processors to research and develop new
+ types of packaging, a wider variety of flavors, partially prepared options, and facilities
+ dedicated to organic, allergy-free, or kosher foods. To support these shifts, companies are
+ building or expanding facilities with state-of-the-art technologies and systems for development,
+ testing, processing, and packaging. We can assist companies by providing third party
+ verification and other technology solutions to help companies compete on brand innovation. 
+
+5 
+
+Per
+ the May 2020 blog post from CompareEthics.com, independent, third-party testing and
+ certification benefits brands in many ways. Firstly, verification showcases compliance with
+ national or international standards and regulations. Consumers and brand competitors should
+ have no reason to be suspicious of your business. Verification also demonstrates a commitment
+ to safety and quality. This is key for customer retention. Verifying a product also increases
+ credibility, trust and acceptance with retailers, consumers, and other regulators. This essentially
+ strengthens your business case and future proofs your company. Obviously brands themselves
+ also benefit from enhanced product quality and minimize risks, losses, and negative press
+ by verifying each product. 
+
+Producers,
+ restaurant chains and retailers with dominant market shares and large buying power, like
+ Dannon, Tyson, McDonald s, Chick-Fil-A, Costco, and Wal-Mart, are leading the way in
+ prioritizing sustainable food supply initiatives in response to consumer demands. With information
+ literally at our fingertips, Google searches and smart phone apps are making it easier to
+ expose where sustainable food supply chains are, and where they are not. We believe our technology
+ will play a key role in capturing data to improve processes, yields and communicate our customer s
+ values, practices and other initiatives to consumers. 
+
+Producers,
+ packers, distributors and retailers understand that verification, identification and traceability
+ are key competitive differentiators. Oftentimes, it is necessary for export into international
+ markets, including Korea, Russia, China and the European Union. 
+
+Market
+Driver #3 - Government regulation 
+
+On
+ July 15, 2019 the European Council approved an agreement to establish a duty-free tariff
+ rate quote (TRQ) exclusively for the United States for High Quality Beef HQB ).
+ HQB includes a restriction on hormones and must be third party verified. Under the agreement,
+ US ranchers are guaranteed an increasingly larger share of Europe s beef market annually,
+ with annual duty-free exports. The annual quota will increase from 18,500 metric tons beginning
+ in 2020, growing annually, then stabilizing at 35,000 metric tons in 2026 and beyond. For
+ 2023, American ranchers have a TRQ of 27,800 metric tons annually, compared to 17,200 metric
+ tons annually for all other eligible countries. We believe the EU quota will continue to
+ fuel demand for non-hormone treated cattle NHTC ). 
+
+Effective
+ February 19, 2019, the USDA released a rule establishing the new national mandatory bioengineered
+ (BE) food disclosure standard (NBFDS or Standard). The Standard requires food manufacturers,
+ importers, and other entities that label foods for retail sale to disclose information about
+ BE food and BE food ingredients. As of January 1, 2022, all food manufacturers must comply
+ with the Standard. Our work as a Technical Administrator for the Non-GMO Project enables
+ brands to have confidence that their products will align with the Standard. 
+
+The
+ Animal Disease Traceability ADT Rule promulgated by the USDA primarily covers
+ beef cattle 18 months of age or older. Under the final rule, unless specifically exempted,
+ livestock moved interstate must be officially identified and accompanied by an interstate
+ certificate of veterinary inspection or other documentation, such as owner-shipper statements
+ or brand certificates. Although animal disease traceability does not prevent disease, an
+ efficient and accurate traceability system reduces the number of animals and response time
+ involved in a disease investigation. Our traceability solutions and EID tags can track animals
+ from birth to slaughter using technology that offers a comprehensive solution that meets
+ and/or exceeds the USDA s ADT Rule. 
+
+Pressure
+ from financial markets has also been growing. Investment managers such as BlackRock, as well
+ as financial regulators including the Securities and Exchange Commissions and the U.S. Federal
+ Reserve, are pushing companies to disclose sustainability metrics such as emissions across
+ their supply chains and draw up plans to decarbonize their operations. We believe our solutions
+ and expertise within the agrifood supply chain can assist companies in pursuing and reporting
+ their sustainability strategies. 
+
+6 
+
+REVENUES
+
+We
+offer a wide array of services, including verification, certification, consulting and software as a service SaaS ), to
+help food producers, brands and consumers differentiate certain attributes and production methods in the marketplace. We sell our services
+directly to customers at various levels in the agriculture, food and livestock supply chain. Most of our service offerings can be bundled
+to provide a one-stop shop for customers that have multiple levels of verification and certification needs, such as source
+verification and food safety certification. Our customers include some of the largest U.S. beef and pork packers, organic producers and
+processors, and specialty retail chains. No single customer generated more than 10 of the Company s consolidated revenue in 2022
+or 2021. 
+
+With
+each acquisition, we assess the need to disclose discrete information related to our operating segments. Because of the similarities
+of certain of our acquisitions that provide certification and verification services, we aggregate operations into one verification and
+certification reportable segment. The operating segments included in the aggregated verification and certification segment include IMI
+Global, WFCFO and Validus. The factors considered in determining this aggregated reporting segment include the economic similarity of
+the businesses, the nature of services provided, production processes, types of customers and distribution methods. 
+
+The
+Company also determined that it has a software and related consulting reportable segment. SureHarvest, which includes Postelsia, is the
+sole operating unit under the software and related consulting reportable segment. This segment includes a wide range of professional
+consulting services and technology solutions that generate incremental revenue specific to the food and agricultural industry and drive
+sustainable value creation. 
+
+The
+Company s chief operating decision maker (the Company s CEO) allocates resources and assesses the performance of its operating
+segments. Segment management makes decisions, measures performance, and manages the business utilizing internal operating segment information.
+Performance of operating segments are based on net sales, gross profit, selling, general and administrative expenses and most importantly,
+operating income. 
+
+Verification
+and Certification Segment 
+
+Our
+verification and certification service revenues consist of fees charged for verification audits and other verification and certification
+related services that the Company performs for customers. We include fees earned from our WFCF labeling program and consulting/program
+development services in our verification and certification revenues due to the immateriality of the revenue stream and because it represents
+a value-added extension of our source verification. We are recognized and utilized by numerous standard-setting bodies as an accredited
+verification or certification service provider. We enable food producers and brands to make certain claims on live animals or packaged
+food products by verifying that they are meeting the standards or guidelines associated with the claim(s) they are making. For the years
+ended December 31, 2022 and 2021, our third-party verification programs provided 70.9 and 73.2 of our total revenue, respectively. 
+
+Our
+product sales are an ancillary part of our verification and certification services and represent sales of cattle identification ear tags.
+Our product sales allow us to offer our customers a comprehensive solution. Approximately 17.6 and 17.5 of our total revenue was generated
+by the sale of product during the years ended December 31, 2022 and 2021, respectively. 
+
+We
+historically purchased most of our electronic identification EID tags from one significant supplier and sourced the remainder
+of our EID tags from alternate smaller suppliers. In late 2021, we were informed by our key tag supplier that materials were becoming
+scarcer and their ability to meet our need was becoming more difficult. Accordingly, we identified multiple players in the market and
+contracted with all tag suppliers thereby changing the market dynamics. It has given us a strategic advantage, effectively minimizing
+our concentration risk. We also worked with all our tag suppliers to build our inventory by purchasing excess supply. 
+
+7 
+
+Software
+and Related Consulting Segment 
+
+Software
+and related consulting includes a wide range of professional consulting services and technology solutions that support our verification
+business and generate incremental revenue specific to the food and agricultural industry. 
+
+MARKETING 
+
+Our
+marketing strategy includes direct marketing, advertising, event sponsorship, and trade show participation. From a public relations perspective,
+members of our staff are frequently quoted in industry trade journals and requested as speakers at various industry events as subject
+matter experts on the topics of animal identification, traceability, branding, third-party verification and certification, and the USDA
+verification programs. 
+
+In
+order to reach additional customers, we continually develop strategic marketing partnerships with leading companies in the industry with
+complementary abilities and products. We do not currently rely on any third-party contracts with distributors, licensors or manufacturers
+in conducting our business. 
+
+We
+also use social media sites such as Facebook and Twitter to help promote our business, market our product offerings, and connect consumers
+with current topics in the agriculture, livestock and food industries. 
+
+COMPETITION
+
+The
+competition for third-party verification services in the food and agriculture industry is growing more intense, especially within the
+organic market. As of December 31, 2022, we estimate that there are approximately eight key competitors serving the food and agricultural
+industry, including Quality Assurance International, California Certified Organic Farmers, Oregon Tilth, Organic Crop Improvement Association,
+Earth Claims, FoodChain ID, NSF International, SGS and SCS Global Services. Differentiation hinges upon understanding all facets of food
+verification and the complex compliance challenges to make product verifications efficient, cost-effective, and seamless. Our core business
+and expertise focus on the on farm verifications to a variety of standards, guidelines and criteria, including source verification,
+natural, animal care and well-being, and sustainability verification. 
+
+SEASONALITY 
+
+Our
+business is subject to seasonal fluctuations. Significant portions of our verification and certification service revenue is typically
+realized during late May through early October when the calf marketings and the growing seasons are at their peak. Because of the seasonality
+of the business and our industry, results for any quarter are not necessarily indicative of the results that may be achieved for any
+other quarter or for the full fiscal year. 
+
+INTELLECTUAL
+PROPERTY 
+
+We
+create, own and maintain a variety of intellectual property assets that we believe are among our most valuable assets. Our intellectual
+property assets include patents and patent applications related to our innovations, products and services, trademarks related to our
+brands, products and services, and other property rights. We also have licensing arrangements when features from our programs are desirable
+to incorporate into either a new or an existing technology we offer. We seek to protect our intellectual property right assets through
+patent, copyright, trade secret, trademark and other laws of the United States and other countries, and through contractual provisions.
+Additional information regarding certain risks related to our intellectual property is included in Part I, Item 1A Risk Factors 
+of this Annual Report on Form 10-K. 
+
+8 
+
+EMPLOYEES 
+
+As
+of December 31, 2022, we had 93 total employees, of which 88 were full-time employees. Approximately 78 of our workforce is comprised
+of female and other minority employees. Our future success is substantially dependent upon the performance of our key senior management
+personnel, as well as our ability to attract and retain highly qualified technical personnel. Additional information regarding certain
+risks related to our employees is included in Part I, Item 1A Risk Factors of this Annual Report on Form 10-K. 
+
+AVAILABLE
+INFORMATION 
+
+Our
+corporate website is located at www.wherefoodcomesfrom.com. We make available free of charge on our investor relations website under
+ SEC Filings our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments
+to those reports as soon as reasonably practicable after we electronically file or furnish such materials to the U.S. Securities and
+Exchange Commission (the SEC ). Further, a copy of this Annual Report on Form 10-K is located at the SEC s Public
+Reference Room at 100 F Street, NE, Room 1580, Washington, D.C. 20549. Information on the operation of the Public Reference Room can
+be obtained by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements
+and other information regarding our filings at http://www.sec.gov . 
+
+INFORMATION
+ABOUT OUR EXECUTIVE OFFICERS 
+
+John
+Saunders , 51, founded the Company in 1998 and has served as the Chief Executive Officer since then.
+Mr. Saunders is also the Chairman of the Board of Directors of the Company and has served in this position since 1998. Previously, Mr.
+Saunders was a partner and consultant for Pathfinder Consulting Services, Inc. in Parker, Colorado. An expert in both technology and
+the livestock industry, Mr. Saunders is a graduate of Yale University. 
+
+Leann
+Saunders , 52, began working for the Company in 2003 and has been the President of the Company since
+2008. Mrs. Saunders is also a Director on our Board of Directors and has served in this position since January 2012. Prior to 2003, Mrs.
+Saunders worked for PM Beef Holdings PM ), an integrated beef company, and developed a supply system for PM s Ranch
+to Retail product line and managed PM s USDA Process Verified program. She then served as the company s Vice President of
+Marketing and Communications. Prior to joining PM in 1996, Mrs. Saunders worked for McDonald s Corporation as a Purchasing Specialist,
+and Hudson Foods Corporation. Mrs. Saunders graduated with a B.S. in Agriculture Business and an M.S. in Beef Industry Leadership from
+Colorado State University. Mrs. Saunders currently sits on the Colorado State University Agriculture Dean s Advisory Board, the
+University of Nebraska s Engler Agribusiness Entrepreneurship Program Advisory Board, the Board of Directors for the International
+Stockmen s Education Foundation and was the Chair for the United States Meat Export Federation for the 2015-2016 year. 
+
+Dannette
+Henning , 53, has been the Chief Financial Officer of the Company since January 2008. Prior to her
+appointment, she was engaged by the Company as a consultant beginning in November 2007. From 2004 to 2007, Mrs. Henning was the Corporate
+Controller for Einstein Noah Restaurant Group. From 2001 to 2003, she served as the Controller for Vari-L Company. Mrs. Henning s
+previous experience includes financial management positions with KPMG Peat Marwick, DF R Restaurant Company, and CSI/CDC Company.
+Mrs. Henning is a Certified Public Accountant with more than 30 years of professional experience. She received a B.B.A. degree in Accounting
+from the University of Texas at Arlington. 
+
+9 
+
+Jason
+Franco , 46, has been the Chief Technology Officer of the Company since August 2021. Previously,
+Mr. Franco served as Senior Vice President of Technology since September 2018 when WFCF acquired JVF Consulting, LLC, the consulting
+firm Mr. Franco founded in 2004 serving as President. From 2000 to 2004, Mr. Franco worked as a technical application consultant and
+integration specialist with Peoplesoft / Oracle. He began his career in 1998 as a software developer with John Deere Special Technologies
+Group, where he specialized in traceability applications. He received his B.S. degree in Computer Science from the University of the
+Pacific in Stockton, CA. 
+
+Family
+Relationships 
+
+John
+Saunders, our CEO and Chairman of the Board, is married to Leann Saunders, our President. Both Mr. and Mrs. Saunders serve on our Board
+of Directors. 
+
+ITEM 1A. RISK FACTORS 
+
+In
+addition to the other information included in this report and our other public filings and releases, the following factors should be
+considered when evaluating our business, financial condition, results of operations and prospects: 
+
+We
+are in a period of increasing inflation and economic uncertainty 
+
+The
+economy is facing inflationary pressures which has resulted in a few challenges for our business, most notably in the form of a tight
+labor market where job candidates have considerable bargaining power which has driven wages up. Additionally, we are experiencing higher
+labor and benefit related costs to retain our existing personnel. We believe we will continue to see significant pressure in our labor
+and benefit related costs which impacts both our gross margins and net income. 
+
+We
+also continue to monitor for weakened demand in our software and related consulting business segment due to significant customer concentration.
+Increased inflation could place pressure on our customers timing of approval for consulting projects to move forward. Currently,
+it is difficult to estimate the financial impact to our software and related consulting revenue, if any. We actively market our sustainability
+solutions and services to new types of customers. We believe the growing awareness of environmental, social and governance ESG matters creates a key opportunity for us because we have the expertise and technology needed to help companies achieve ESG objectives
+within the food supply chain. 
+
+We
+face risks due to changing weather patterns and other environmental factors 
+
+Over
+the past several years, changing weather patterns and climatic conditions have added to the unpredictability and frequency of natural
+disasters, such as drought, hailstorms, wildfires and wind, snow and ice storms. Any such extreme weather condition can
+negatively impact a significant portion of our customers who produce food (including all major species of animal-based protein or edible
+plant variety) in various regions. For example, the drought conditions that impacted nearly one-half of the United States in the first
+half of 2022 predominately affected our ranch customers resulting in fewer cattle subject to verification. While this example doesn t
+directly affect our audit related revenue, it does impact our product sales and other related supply chain fees due to smaller herd sizes.
+ We cannot anticipate changes in
+weather patterns/conditions, and we cannot predict their impact on our customer s operations if they were to occur. 
+
+If
+the operating results of our customers are impaired, the financial resources of our customers may limit purchases of our verification
+solutions and consulting services. Therefore, our ability to generate revenue is subject to the risks and uncertainties relating to the
+financial condition of our customers. 
+
+10 
+
+We
+operate in a competitive industry with a limited market characterized by changing technology, frequent introductions of new service offerings,
+service enhancements, and evolving industry standards. 
+
+We
+compete with many other vendors of products and services designed for tracking cattle and other livestock, for herd management, for crop
+production practices and other verification of marketing claims over processed foods. Our competitors range from small start-up companies
+to multi-national firms. Our competitors may have significantly more financial, technical and marketing resources than we do. Competition
+is likely to intensify as current competitors expand their service offerings and as new companies enter the market. Additionally, competition
+may intensify as our competitors enter into business combinations or alliances, and established companies in other market segments expand
+to become competitive with our business. Increasing competition may result in reduced margins and the loss of market share. Our competitors
+may offer broader service offerings or technologies that are more commercially attractive and gain greater market acceptance than our
+current or future products. Additionally, new technology may render our products and services obsolete. 
+
+The
+success of our business model depends on the broad acceptance of our technologies into markets that are continuing to develop as a result
+of the increasing focus on food safety and assurance. 
+
+We
+are currently benefiting from a slow but growing movement among the agriculture, livestock and food industries to source and/or age verify
+products, and bundle with other marketing claims such as non-genetically modified foods and beverages. This emerging trend is fueled
+in part by consumers focus on food safety and assurance. However, we can offer no assurances that there will be market acceptance
+of our technologies. Furthermore, some of our primary target segments within the agriculture, livestock and food industries are experiencing
+unpredictable economic conditions and are expected to continue to struggle with supply, trade and profitability issues in the near term.
+Although we believe that our products, if adopted on a wide-scale basis, would have a significant impact on improving the safety, quality
+and confidence in the world s food supply, our customers for these products historically have been very slow to change and reluctant
+to adopt new technologies and business practices. 
+
+We
+face risks of rapidly changing regulations which may negatively impact our programs. 
+
+Regulations
+and standards are continually evolving and present a challenging risk. For example, in January 2013, the Japanese government announced
+a change to its import requirements on U.S. beef. Because the change enabled a significant increase in the amount of product qualifying
+for export to Japan, it negatively impacted the premiums typically seen in the marketplace for source and age verified cattle. In March
+2020, the World Health Organization declared the outbreak of novel coronavirus disease COVID-19 as a pandemic which negatively
+impacted certain aspects of our business due to government-mandated closures and social distancing
+measures. Due to our commitment to innovation, diversification of our product offerings, and our strategy of managing profitability,
+we believe we can quickly minimize the impact of any adverse changes in regulations or verification standards. While we attempt to mitigate
+these risks, we can give no assurance that we will be successful in overcoming the potential negative impact to the results of our operations. 
+
+Increased
+scrutiny and changing expectations from stakeholders with respect to the Company s ESG practices may result in additional costs
+or risks. 
+
+Companies
+across many industries are facing increasing scrutiny related to their environmental, social and governance (ESG) practices. Investor
+advocacy groups, certain institutional investors, investment funds and other influential investors are also increasingly focused on ESG
+practices and in recent years have placed increasing importance on the non-financial impacts of their investments. We take social responsibility
+very seriously. It s the entire reason we spend day in and day out helping farmers, ranchers and brands around the world provide
+transparency to their consumers by communicating authentic, sustainable and traceable stories that directly impact our future. However,
+if our ESG practices do not meet investor or other industry stakeholder expectations, which continue to evolve, we may incur additional
+costs. Also, our brand, ability to attract and retain qualified employees and business may be harmed. 
+
+We
+face risks that highly contagious diseases or viral outbreaks may negatively impact the source of product we are able to verify and/or
+impact the efficiency in which we conduct ongoing business operations. 
+
+Today,
+infectious disease and viral outbreaks appear to be emerging more quickly than ever. For example, Porcine Epidemic Diarrhea Virus (PEDv)
+negatively impacted the pork/sow industry in 2014 and Highly Pathogenic Avian Influenza, more commonly known as Bird Flu, impacted poultry
+operations in 2016 and continues to impact poultry operations today in 2022/2023. In March 2020, the Global Health Organization declared
+the outbreak of the Corona Virus as a pandemic in human populations. Contagious diseases or viral outbreaks create increased bio-exclusion
+and social distancing considerations in our business. 
+
+11 
+
+These
+diseases and viral outbreaks frequently impact our business resulting in some customers requesting postponement of onsite visits. We
+work closely with our customers and standard setting bodies to identify innovative solutions and reschedule onsite visits as timely as
+possible. We also closely monitor the situation and react accordingly to any future restrictions or limitations, while keeping the interests
+of our customers, employees, and business operations in mind. 
+
+We
+have created innovative solutions that mitigate the risk of transferring disease but due to uncertainty in the severity and duration
+of various diseases and viral outbreaks, we can give no assurance that we will be successful in overcoming the impact to our business
+operations, employees, customers, and suppliers which could negatively impact our business revenues, profitability and financial condition. 
+
+In
+the event that market demand for third-party verified products declines, our customers may not be able to generate sufficient revenues
+to justify the purchase of our verification solutions and consulting services. 
+
+Public
+attitudes towards food production practices may be influenced by claims that these products are unsafe for consumption or pose unknown
+health risks. For example, decreased demand for beef and other livestock products could have a material adverse effect on the operating
+results and financial condition of our existing or prospective customers. If operating results of our customers are impaired, the resources
+that our customers can devote to building information systems for tracking cattle and other livestock and herd management are reduced,
+which in turn may limit purchases of our verification solutions and consulting services. Therefore, our ability to generate revenue is
+subject to the risks and uncertainties relating to the financial condition of our customers. 
+
+We
+look for opportunities to expand our presence in international markets in which we may have limited experience, and inherently international
+operations are subject to increased risks which could harm our business, operating results and financial condition. 
+
+We
+continually seek to expand our product and service offerings in international markets. As we expand into new international markets, we
+will have only limited experience in marketing and operating our products and services in such markets. In other instances, we may rely
+on the efforts and abilities of foreign business partners in such markets. Certain international markets may develop more slowly than
+do domestic markets, and our operations in international markets may not develop at a rate that supports our level of investment. 
+
+In
+addition to uncertainty about our ability to expand into international markets, there are certain risks inherent in doing business internationally,
+including, but not limited to: 
+
+trade
+ barriers and changes in trade regulations; 
+
+difficulties
+ in developing, staffing and simultaneously managing varying foreign operations as a result of distance, language and cultural differences;
+
+differing
+ local labor laws and regulations; 
+
+longer
+ payment cycles; 
+
+currency
+ exchange rate fluctuations; 
+
+political
+ or social unrest or economic instability; 
+
+import
+ or export restrictions; 
+
+seasonal
+ volatility in business activity; 
+
+risks
+ related to government regulation or required compliance with local laws in certain jurisdictions, including those more fully described
+ above; and 
+
+potentially
+ adverse tax consequences. 
+
+One
+or more of these factors could harm our future international operations and consequently could harm our brand, business, operating results
+and financial condition. 
+
+12 
+
+Our
+business could suffer if we are unsuccessful in making, integrating, and maintaining our acquisitions and investments. 
+
+We
+have acquired and invested in a number of companies, and we may acquire or invest in or enter into joint ventures with additional companies.
+These transactions create risks such as: 
+
+disruption
+ of our ongoing business, including loss of management focus on existing businesses; 
+
+problems
+ retaining key personnel; 
+
+additional
+ operating losses and expenses of the businesses we acquired or in which we invested; 
+
+the
+ potential impairment of tangible and intangible assets and goodwill, including those that are a result of acquisitions; 
+
+the
+ potential impairment of customer and other relationships of the company we acquired or in which we invested or our own customers
+ as a result of any integration of operations; 
+
+the
+ difficulty of incorporating acquired technology and rights into our offerings and unanticipated expenses related to such integration; 
+
+the
+ difficulty of integrating a new company s accounting, financial reporting, management, information and information security,
+ human resource, and other administrative systems to permit effective management, and the lack of control if such integration is delayed
+ or not implemented; 
+
+for
+ investments in which an acquired company s financial performance is incorporated into our financial results, either in full
+ or in part, the dependence on such company s accounting, financial reporting, and similar systems, controls, and processes; 
+
+the
+ difficulty of implementing controls, procedures, and policies appropriate for a public company on our acquired companies; and 
+
+potential
+ unknown liabilities associated with a company we acquire or in which we invest. 
+
+As
+a result of future acquisitions or mergers, we might need to issue additional equity securities, spend our cash, or incur debt, contingent
+liabilities, or amortization expenses related to intangible assets, any of which could reduce our profitability and harm our business.
+In addition, valuations supporting our acquisitions and strategic investments could change rapidly given the current global economic
+climate. We could determine that such valuations have experienced impairments or other-than-temporary declines in fair value which could
+adversely impact our financial results. 
+
+Federal,
+state or local laws and regulations, or our failure to comply with such laws and regulations, could increase our expenses and expose
+us to legal risks. 
+
+We
+are subject to a wide range of general and industry-specific laws and regulations imposed by federal, state and local authorities such
+as sales tax, intellectual property infringement, zoning and occupancy matters. In addition, various federal and state laws govern our
+relationship with, and other matters pertaining to, our employees, including wage and hour laws, laws governing independent contractor
+classifications, requirements to provide meal and rest periods or other benefits, family leave mandates, requirements regarding working
+conditions and accommodations to certain employees, citizenship or work authorization and related requirements, insurance and workers 
+compensation rules and anti-discrimination laws. We believe that we have complied with these laws and regulations; however, there is
+a risk that we will become subject to claims that allege we have failed to do so. Any claim that alleges a failure by us to comply with
+any of the foregoing laws and regulations may subject us to fines, penalties, injunctions, litigation and/or potential criminal violations,
+which could adversely affect our reputation, business, financial condition and operating results. 
+
+Any
+changes to the foregoing laws or regulations or any new laws or regulations that are passed or go into effect may make it more difficult
+for us to operate our business and in turn adversely affect our operating results. 
+
+We
+may also be subject to audits by various taxing authorities. Similarly, changes in tax laws in any of the multiple jurisdictions in which
+we operate, or adverse outcomes from tax audits that we may be subject to in any of the jurisdictions in which we operate, could result
+in an unfavorable change in our effective tax rate, which could adversely affect our business, financial condition and operating results.
+
+13 
+
+Our
+future success depends upon our ability to obtain and enforce patents; prevent others from infringing on our patents, trademarks and
+other intellectual property rights; and operate without infringing upon the patents and proprietary rights of others. 
+
+We
+will be able to protect our intellectual property IP from unauthorized use by third parties only to the extent that it
+is covered by valid and enforceable patents and trademarks. IP protection generally involves complex legal and factual issues and, therefore,
+the enforceability of IP rights cannot be predicted with certainty. Moreover, the laws of some foreign countries do not protect proprietary
+rights to the same extent as do the laws of the United States. In the event that IP owned by us does not provide adequate protection,
+we may not be able to prevent competitors from offering substantially similar products and services. 
+
+In
+the event that third parties claim that our current or future products or services infringe upon their intellectual property, we may
+face litigation and be prevented from selling the products and services at issue. Infringement or other claims could be asserted or prosecuted
+against us in the future, and it is possible that past or future assertions or prosecutions could harm our business. Litigation either
+in defense of our IP rights or in response to infringement claims made by others may be both expensive and time consuming, which in turn
+would adversely affect our business. 
+
+A
+significant data breach or information technology system disruption could adversely affect our business, financial results, or reputation,
+and we may be required to increase our spending on data and system security. 
+
+We
+rely heavily on information technology networks and systems, including the Internet, to manage or support a wide variety of important
+business processes and activities throughout our operations. 
+
+Our
+information technology systems may be susceptible to damage, disruptions or shutdowns due to failures during the process of upgrading
+or replacing software, databases or components thereof, power outages, hardware failures, computer viruses, cyber-attacks, ransomware
+attacks, malware attacks, malicious employees or other insiders, telecommunications failures, human errors or catastrophic events. Hackers,
+foreign governments, cyber-terrorists and cyber-criminals, acting individually or in coordinated groups, may launch distributed denial
+of service attacks or other coordinated attacks that may cause service outages, gain inappropriate or block legitimate access to systems
+or information, or result in other interruptions in our business. In addition, breaches in security could expose us and our customers,
+or the individuals affected, to a risk of loss or misuse of proprietary information and sensitive or confidential data, including personal
+information of customers, employees and others. The techniques used to obtain unauthorized access, disable or degrade service or sabotage
+systems change frequently, may be difficult to detect for a long time and often are not recognized until launched against a target. As
+a result, we may be unable to anticipate these techniques or to implement adequate preventive measures. 
+
+We
+also depend on and interact with the information technology networks and systems of third parties for many aspects of our business operations,
+including our customers and service providers such as cloud service providers and third-party delivery services. These third parties
+may have access to information we maintain about our company, operations, customers, employees and vendors, or operating systems that
+are critical to or can significantly impact our business operations. Like us, these third parties are subject to risks imposed by data
+breaches and cyber-attacks and other events or actions that could damage, disrupt or close down their networks or systems. Security processes,
+protocols and standards that we have implemented and contractual provisions requiring security measures that we may have sought to impose
+on such third parties may not be sufficient or effective at preventing such events, which could result in unauthorized access to, or
+disruptions or denials of access to, or misuse of, information or systems that are important to our business, including proprietary information,
+sensitive or confidential data, and other information about our operations, customers, employees and suppliers, including personal information. 
+
+14 
+
+Any
+of these events that impact our information technology networks or systems, or those of acquired businesses, customers, service providers
+or other third parties, could result in disruptions in our operations, the loss of existing or potential customers, damage to our brand
+and reputation, regulatory scrutiny, and litigation and potential liability for the Company. Among other consequences, our customers 
+confidence in our ability to protect data and systems and to provide services consistent with their expectations could be impacted, further
+disrupting our operations. Similarly, an actual or alleged failure to comply with applicable U.S. or foreign data protection regulations
+or other data protection standards may expose us to litigation, fines, sanctions or other penalties. 
+
+We
+have invested and continue to invest in technology security initiatives, information technology risk management and disaster recovery
+plans. The cost and operational consequences of implementing, maintaining and enhancing further data or system protection measures could
+increase significantly to overcome increasingly intense, complex and sophisticated global cyber threats. Despite our best efforts, we
+are not fully insulated from data breaches and system disruptions. There is no assurance that such impacts will not be material in the
+future, and our efforts to deter, identify, mitigate and/or eliminate future breaches may require significant additional effort and expense
+and may not be successful. 
+
+Our
+future success depends to a significant degree upon the continued service of key senior management personnel, in particular, John and
+Leann Saunders. 
+
+Both
+John and Leann Saunders reputation and prominence in the field provide us with a strong competitive advantage. While they are
+currently bound by employment agreements, we can offer no assurance that John and/or Leann Saunders will be able to continue to work
+for us in the event of an unforeseen accident, severe injury or major disease, or on a long-term basis. The loss of key personnel could
+have a material adverse effect on our business and operating results. 
+
+Directors,
+executive officers, principal stockholders and affiliated entities beneficially own or control a significant amount of our outstanding
+common stock and together meaningfully influence our activities. 
+
+As
+of February 17, 2023, John Saunders, our Chairman and CEO, and Leann Saunders, our President, beneficially owned in the aggregate approximately
+30.4 of our common stock. The Saunders, together with the rest of our Board, beneficially own approximately 57.7 of our common stock. These
+directors and officers, if they determine to vote in the same manner, would have a significant impact on the outcome of any matter requiring
+approval by our shareholders, including the election of directors and the approval of mergers or other business combination transactions
+or terms of any liquidation. This concentration of ownership may have the effect of delaying or preventing a change in control of our
+company that may be favored by other shareholders. This could prevent transactions in which shareholders might otherwise recover a premium
+for their shares over current market prices. 
+
+We
+have not paid any regular cash dividends. 
+
+We
+have not declared or paid any regular cash dividends on our common stock since our incorporation. A special cash dividend was paid on
+August 16, 2021 to shareholders of record at the close of business on July 27, 2021. Payment of future cash dividends, if any, will be
+at the discretion of the Board of Directors and will depend on our financial condition, results of operations, contractual restrictions,
+business prospects and other factors that the Board of Directors considers relevant. In the absence of regular dividends, investors will
+only see a return on their investment if the value of our common stock appreciates. 
+
+Future
+sales of our securities in the public or private markets could adversely affect the trading price of our common stock and our ability
+to continue to raise funds in new stock offerings. 
+
+We
+have historically used common stock or securities exercisable or convertible into common stock in order to finance our future growth
+plans. Future sales of substantial amounts of our securities in the public or private markets would dilute our existing shareholders
+and could adversely affect the trading prices of our common stock and impair our ability to raise capital through future offerings of
+securities. Alternatively, we may rely on debt financing and assume debt obligations that require us to make substantial interest and
+principal payments that could adversely affect our business and future growth potential. 
+
+15 
+
+Our
+common stock has traded in low volumes. We cannot predict whether an active trading market for our common stock will ever develop. 
+
+Historically,
+our common stock has experienced a lack of trading liquidity. In the absence of an active trading market: 
+
+an
+ investor may have difficulty buying and selling our common stock at all or at the price one considers reasonable; and 
+
+market
+ visibility for shares of our common stock may be limited, which may have a depressive effect on the market price for shares of our
+ common stock and on our ability to raise capital or make acquisitions by issuing our common stock. 
+
+Price
+and volume volatility of our publicly traded securities could adversely affect investors portfolios. 
+
+In
+recent months and years, the securities markets in the United States have experienced high levels of price and volume volatility, and
+the market prices of securities of many companies have experienced wide fluctuations that have not necessarily been related to the operating
+performance or prospects of such companies. It is likely that continual fluctuations in market and share prices will occur. Our shares
+of common stock trade on the NASDAQ Stock Market LLC. The price of our common stock has been subject to price and volume volatility in
+the past and will likely continue to be subject to such volatility in the future. 
+
+As
+a public company, we are subject to complex legal and accounting requirements that require us to incur substantial expenses, and our
+financial controls and procedures may not be sufficient to ensure timely and reliable reporting of financial information, which, as a
+public company, could materially harm our stock price and listing on the NASDAQ marketplace. 
+
+As
+a public company, we are subject to numerous legal and accounting requirements that do not apply to private companies. The cost of compliance
+with many of these requirements is substantial, not only in absolute terms but, more importantly, in relation to the overall scope of
+the operations of a small company. Failure to comply with these requirements can have numerous adverse consequences, including, but not
+limited to, our inability to file required periodic reports on a timely basis, loss of market confidence, delisting of our securities
+and/or governmental or private actions against us. We cannot assure you that we will be able to comply with all of these requirements
+or that the cost of such compliance will not prove to be a substantial competitive disadvantage as compared with privately held and larger
+public competitors. 
+
+The
+Sarbanes-Oxley Act of 2002 Sarbanes-Oxley requires, among other things, that we maintain effective internal controls
+over financial reporting and disclosure controls and procedures. In particular, we must create internal controls and strategies to ensure
+those controls are effective at producing accurate financial reports. Our compliance with Sarbanes-Oxley requires that we incur substantial
+accounting expenses and expend significant management efforts. The effectiveness of our controls and procedures may in the future be
+limited by a variety of factors, including: 
+
+faulty
+ human judgment and simple errors, omissions or mistakes; 
+
+fraudulent
+ action of an individual or collusion of two or more people; 
+
+inappropriate
+ management override of procedures; and 
+
+the
+ possibility that any enhancements to controls and procedures may still not be adequate to assure timely and accurate financial information. 
+
+If
+we are not able to comply with the requirements of Sarbanes-Oxley in a timely manner, or if we or our independent registered public accounting
+firm identifies deficiencies in our internal control over financial reporting that are deemed to be material weaknesses, we may be subject
+to delisting, investigations by the SEC and civil or criminal sanctions. 
+
+16 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM 2. PROPERTIES 
+
+The
+Company leases approximately 15,700 square feet of office space for its corporate headquarters. Total rental payments are approximately
+ 43,800 per month as of December 31, 2022, which includes common area charges, and are subject to annual increases over the term of the
+lease. The lease agreement has an initial term of five years plus two renewal periods. The Company has exercised the first renewal period
+and is likely to renew for the second renewal period. This space is being leased from a company in which our CEO and President, each
+a related party to the Company, have a 24.3 jointly held ownership interest. 
+
+In
+September 2017, the Company entered into a lease agreement for our Urbandale, Iowa office space. The lease is for a period of two years
+and expired on August 31, 2019. This lease was extended twice (2) for additional 3 year terms, with the current extension terminating
+on August 31, 2025. Rental payments are approximately 3,500 per month, which includes common area charges, and are not subject to annual
+increases over the term of the lease. 
+
+In
+December 2018, the Company entered into a new lease agreement in San Ramon, California for SureHarvest office space. The lease is for
+a period of sixty-six months and expires on May 1, 2024. Rental payments are approximately 6,750 per month as of December 31, 2022,
+which includes common area charges, and are subject to annual increases over the term of the lease. 
+
+In
+June 2021, the Company entered into a new lease agreement in Victoria, British Columbia, Canada for Postelsia office space. The lease
+is for a period of two years and expires on May 31, 2023. Rental payments are approximately Canadian 1,850 or US 1,400 per month as
+of December 31, 2022, which includes common area charges, and are not subject to annual increases over the term of the lease. 
+
+In
+December 2021, the Company sold the 2,300-square foot building located in Medina, North Dakota. In December 2021, the Company entered
+into a lease agreement for the Medina, North Dakota office space. The lease is for sixty-one months and expires on December 31, 2026.
+Rental payments are approximately 1,000 per month, which includes common area charges, and are not subject to annual increases over
+the term of the lease. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+From
+time to time, we may become involved in various legal actions, administrative proceedings and claims in the ordinary course of business.
+We generally record losses for claims in excess of the limits of purchased insurance in earnings at the time and to the extent they are
+probable and estimable. 
+
+There
+are currently no material pending proceedings against the Company. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+17 
+
+PART
+II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market
+Information for Common Stock 
+
+The
+Company s common stock is traded on the NASDAQ Stock Market LLC under the symbol WFCF. 
+
+Stockholders 
+
+As
+of February 16, 2023, we estimate that there were 87 record holders of our common stock. A significant
+number of the outstanding shares of common stock which are beneficially owned by individuals and entities are registered in the name
+of Cede Co. A nominee of The Depository Trust Company, Cede Co. is a securities depository for banks and brokerage firms. 
+
+Dividends 
+
+For
+the year ended December 31, 2022, there have been no cash dividends declared or paid. For the year ended December 31, 2021, we declared
+a special cash dividend of 0.15 per share for shareholders of record on July 27, 2021, with a payment date of August 16, 2021. 
+
+Recent
+Sales of Unregistered Securities 
+
+There
+have been no unregistered sales of securities for the years ended December 31, 2022 and 2021. 
+
+Issuer
+Purchases of Equity Securities 
+
+On
+September 30, 2019, our Board of Directors approved a plan to buy back up to 2.5 million additional shares of our common stock from the
+open market Stock Buyback Plan ). Our Stock Buyback Plan has been and will be used to return capital to shareholders and
+to minimize the dilutive impact of stock options and other share-based awards. In the future, we may consider additional share repurchases
+under our plan based on several factors, including our cash position, share price, operational liquidity, and planned investment and
+financing needs. Our Board of Directors did not specify an expiration date for repurchases under the Stock Buyback Plan. 
+
+Activity
+for the quarter ended December 31, 2022 is as follows: 
+
+Number of 
+ Shares 
+ Cost of Shares 
+ (in thousands) 
+ Average Cost 
+ per Share 
+ 
+ Shares purchased - October 2022 
+ 45,000 
+ 492 
+ 10.94 
+ 
+ Shares purchased - November 2022 
+ 46,100 
+ 560 
+ 12.15 
+ 
+ Shares purchased - December 2022 
+ 14,001 
+ 196 
+ 13.97 
+ 
+ Total 
+ 105,101 
+ 1,248 
+ 11.88 
+
+18 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Cautionary
+Note Regarding Forward-Looking Statements 
+
+This
+Annual Report on Form 10-K and other publicly available documents, including the documents incorporated herein and therein by reference,
+contain forward-looking statements within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation
+Reform Act of 1995. Additionally, our officers and representatives may from time to time make forward-looking statements. Forward-looking
+statements can be identified by words such as anticipate, intend, plan, goal, 
+ seek, believe, project, estimate, expect, strategy, 
+ future, likely, may, should, will and similar references to future
+periods. Examples of forward-looking statements include, among others, statements we make regarding: 
+
+our
+ expectations and beliefs about the market and industry and competitive landscape; 
+
+our
+ goals, plans, and expectations regarding our operations and properties and results; 
+
+our
+ beliefs about our competitive advantages, the diversification of our product offerings, and the keys to our success; 
+
+plans
+ regarding our Stock Buyback Plan; 
+
+our
+ beliefs and expectations regarding our financial position, ability to finance operations and growth, and pay dividends; 
+
+the
+ amount of financing necessary to support operations; and 
+
+our
+ beliefs regarding the impact of the adoption of certain accounting standards on our financial statements. 
+
+Forward-looking
+statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations
+and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy
+and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks
+and changes in circumstances that are difficult to predict and many of which are outside of our control. Our actual results and financial
+condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not rely on any of these
+forward-looking statements. Important factors that could cause our actual results and financial condition to differ materially from those
+indicated in the forward-looking statements include, among others, the following: 
+
+changing
+ technology and evolving standards in the livestock and food industry; 
+
+consumer
+ focus on social responsibility, sustainability, food safety and assurance; 
+
+competition
+ from other providers serving the food and agriculture industry; 
+
+economic
+ and financial conditions in the livestock and food industry; 
+
+international
+ export market activities, including trade barriers to certain beef and other livestock exports; 
+
+market
+ demand for beef and other livestock products; 
+
+seasonal
+ volatility in business activity; 
+
+developments
+ and changes in laws and regulations, including increased regulation of the livestock and food industry through legislative action
+ and revised rules and standards; 
+
+strategic
+ actions, including acquisitions and our success in integrating acquired businesses; 
+
+enforceability
+ of our patents, trademarks and other intellectual property rights; 
+
+continued
+ service of key senior management personnel; 
+
+the
+ impact of COVID-19 on our business, customers, suppliers and employees; 
+
+disruptions
+ of inefficiencies in the supply chain, including any impact of COVID-19; and 
+
+such
+ other factors as discussed throughout Part II, Item 7. Management s Discussion and Analysis of Financial Condition
+ and Results of Operations and in Part I, Item 1A. Risk Factors. 
+
+19 
+
+Any
+forward-looking statement made by us in this Annual Report on Form 10-K is based only on information currently available to us and speaks
+only as of the date on which it is made. We undertake no obligation to publicly update any forward-looking statement, whether written
+or oral, that may be made from time to time, whether as a result of new information, future developments or otherwise. 
+
+RESULTS
+OF OPERATIONS 
+
+Year
+Ended December 31, 2022 Compared to Year Ended December 31, 2021 
+
+The
+following table shows information for reportable operating business segments: 
+
+Year ended December 31, 2022 
+ Year ended December 31, 2021 
+
+Verification 
+ and 
+ Certification 
+ Segment 
+ Software 
+ Sales and 
+ Related 
+ Consulting 
+ Segment 
+ Eliminations 
+ and Other 
+ Consolidated 
+ Totals 
+ Verification 
+ and 
+ Certification 
+ Segment 
+ Software 
+ Sales and 
+ Related 
+ Consulting 
+ Segment 
+ Eliminations 
+ and Other 
+ Consolidated 
+ Totals 
+ 
+ Assets: 
+
+Goodwill 
+ 1,947 
+ 999 
+ - 
+ 2,946 
+ 1,947 
+ 999 
+ - 
+ 2,946 
+ 
+ All other assets, net 
+ 9,949 
+ 3,182 
+ 2,219 
+ 15,350 
+ 14,267 
+ 3,848 
+ (1,277 
+ 16,838 
+ 
+ Total assets 
+ 11,896 
+ 4,181 
+ 2,219 
+ 18,296 
+ 16,214 
+ 4,847 
+ (1,277 
+ 19,784 
+
+Revenues: 
+
+Verification and certification service revenue 
+ 17,610 
+ - 
+ - 
+ 17,610 
+ 16,058 
+ - 
+ - 
+ 16,058 
+ 
+ Product sales 
+ 4,364 
+ - 
+ - 
+ 4,364 
+ 3,830 
+ - 
+ - 
+ 3,830 
+ 
+ Software and related consulting revenue 
+ - 
+ 2,871 
+ - 
+ 2,871 
+ - 
+ 2,044 
+ - 
+ 2,044 
+ 
+ Total revenues 
+ 21,974 
+ 2,871 
+ - 
+ 24,845 
+ 19,888 
+ 2,044 
+ - 
+ 21,932 
+ 
+ Costs of revenues: 
+
+Costs of verification and certification services 
+ 9,748 
+ - 
+ - 
+ 9,748 
+ 8,402 
+ - 
+ - 
+ 8,402 
+ 
+ Costs of products 
+ 2,333 
+ - 
+ - 
+ 2,333 
+ 2,441 
+ - 
+ - 
+ 2,441 
+ 
+ Costs of software and related consulting 
+ - 
+ 2,296 
+ - 
+ 2,296 
+ - 
+ 1,352 
+ - 
+ 1,352 
+ 
+ Total costs of revenues 
+ 12,081 
+ 2,296 
+ - 
+ 14,377 
+ 10,843 
+ 1,352 
+ - 
+ 12,195 
+ 
+ Gross profit 
+ 9,893 
+ 575 
+ - 
+ 10,468 
+ 9,045 
+ 692 
+ - 
+ 9,737 
+ 
+ Depreciation amortization 
+ 582 
+ 183 
+ - 
+ 765 
+ 597 
+ 202 
+ - 
+ 799 
+ 
+ Other operating expenses 
+ 6,805 
+ 246 
+ - 
+ 7,051 
+ 6,324 
+ 311 
+ - 
+ 6,635 
+ 
+ Segment operating income/(loss) 
+ 2,506 
+ 146 
+ - 
+ 2,652 
+ 2,124 
+ 179 
+ - 
+ 2,303 
+ 
+ Other items to reconcile segment operating income/(loss) to net income/(loss): 
+
+Other income/(loss) 
+ 202 
+ (38 
+ - 
+ 164 
+ 1,329 
+ (12 
+ - 
+ 1,317 
+ 
+ Income tax benefit/(expense) 
+ - 
+ - 
+ (822 
+ (822 
+ - 
+ - 
+ (659 
+ (659 
+ 
+ Net income/(loss) 
+ 2,708 
+ 108 
+ (822 
+ 1,994 
+ 3,453 
+ 167 
+ (659 
+ 2,961 
+
+Verification
+and Certification Segment 
+
+Verification
+and certification service revenues consist of fees charged for verification audits and other verification and certification related services
+that the Company performs for customers. Fees earned from our WFCF labeling program are also included in our verification and certification
+revenues as it represents a value-added extension of our source verification. Verification and certification service revenue for the
+year ended December 31, 2022 increased approximately 1.6 million, or 9.7 compared to 2021. Overall, the increase is due primarily to
+increased customer awareness and demand for our product offerings. 
+
+Our
+product sales are an ancillary part of our verification and certification services and represent sales of cattle identification ear tags.
+Product sales for the year ended December 31, 2022 increased approximately 0.5 million or 13.9 compared to 2021, primarily due to increased
+pricing reflective of the market, and limited supply elsewhere in the market. 
+
+Costs
+of revenues (for services and product sales) for the verification and certification segment for the year ended December 31, 2022 were
+approximately 12.1 million compared to approximately 10.8 million in 2021. Gross margin for the year ended December 31, 2022 decreased
+slightly to 45.0 compared to 45.5 in 2021. The decline is primarily due to increases in compensation related costs due to a tight labor
+market and inflation, offset by increased margins for our product sales. Our margins are generally impacted by various costs such as
+cost of products, salaries and benefits, insurance and taxes. 
+
+20 
+
+Selling,
+general and administrative expenses for the year ended December 31, 2022 increased 6.7 compared to 2021. Overall, the increase in our
+selling, general and administrative expenses is due to increased compensation related costs due to a tight labor market and inflation,
+as well as, an increase in headcount. 
+
+Software
+and Related Consulting Segment 
+
+Software
+and related consulting revenue is a revenue stream specific to our acquisitions of SureHarvest and Postelsia. Offerings include a wide
+range of professional consulting services and technology solutions that support our verification business and generate incremental revenue
+specific to the food and agricultural industry. For the year ended December 31, 2022, software and related consulting service revenue
+increased approximately 40.5 over 2021, due to a significant short-term engagement with a Japanese party to promote Japanese seafood
+products into the American supply chain. While we do not believe this engagement will be an annual recurring source of revenue for our
+consulting segment, we are hopeful that it is a long-term potential opportunity for our verification and certification segment. Additionally,
+because this was a short-term engagement, it is not necessarily indicative of the results that may be achieved for any other quarter
+or for the full fiscal year. 
+
+Costs
+of revenues for our software and related consulting segment for the years ended December 31, 2022 and 2021 were approximately 2.3 and
+ 1.4 million, respectively. For the year ended December 31, 2022, gross margin had decreased to 20.0 from 33.9 in 2021. The decrease
+in gross margin is due primarily to increased cost of contract labor to support the short-term consulting engagement mentioned above. 
+
+Selling,
+general and administrative expenses for the year ended December 31, 2022 decreased 16.4 compared to 2021. The decrease is predominately
+due to the decrease in depreciation and personnel costs, slightly offset by increased travel related expenses. 
+
+Dividend
+Income from Progressive Beef, LLC 
+
+On
+ August 9, 2018, the Company purchased a ten percent membership interest in Progressive Beef, LLC Progressive
+Beef for an aggregate purchase price of approximately 1.0 million. The Company received dividend income of 250,000 and 200,000
+for the years ended December 31, 2022 and 2021, respectively, from Progressive Beef representing a distribution of their earnings. 
+
+Income
+Tax Expense 
+
+For
+the years ended December 31, 2022 and 2021, we recorded income tax expense of approximately 0.8 million and 0.7 million, respectively.
+The effective tax rate for the year ended December 31, 2022 and 2021 was 28.8 and 24.6 , respectively, compared to a federal corporate
+rate of 21.0 . The effective tax rate for 2021 was favorably impacted by the non-taxability of the Paycheck Protection Program PPP)
+loan forgiveness income. 
+
+Net
+Income and Per Share Information 
+
+As
+a result of the foregoing, net income for the year ended December 31, 2022 was approximately 2.0 million or 0.34 per basic and 0.33
+per diluted common share, compared to approximately 3.0 million or 0.49 per basic and 0.48 per diluted common share in 2021. 
+
+Liquidity
+and Capital Resources 
+
+At
+December 31, 2022, we had cash and cash equivalents of approximately 4.4 million compared to approximately 5.4 million at December
+31, 2021. Our working capital at December 31, 2022 was approximately 4.9 million compared to approximately 5.7 million at December
+31, 2021. 
+
+21 
+
+Net
+cash provided by operating activities during 2022 was approximately 2.7 million compared to 3.0 million during the same period in 2021.
+Net cash provided by operating activities is driven by a decrease in our net income and adjusted by non-cash items and changes in current
+assets and liabilities. Non-cash adjustments primarily include depreciation, amortization of intangible assets, stock-based compensation
+expense, forgiveness of Paycheck Protection Program loan, and deferred taxes. Fluctuations are primarily due to operating performance
+offset by the timing of cash receipts and cash disbursements. The cash provided by operating activities for 2022 was primarily driven
+by a decrease in deferred revenue and cash used for inventory, offset by an increase in prepaid expenses and accounts payable. The cash
+provided by operating activities for 2021 was primarily driven by an increase in deferred revenue, decrease in accounts receivable and
+prepaid expenses and other assets, offset by cash used for inventory. 
+
+Net
+cash used in investing activities during 2022 was approximately 0.3 million compared to 3,000 during 2021. Net cash used in the 2022
+period was 0.2 million for the purchase of digital assets and 0.1 million for the purchase of a vehicle, equipment and software development.
+Net cash used in the 2021 period was 0.2 million for the purchase of a vehicle, equipment and software development offset by 0.2 million
+in proceeds from the sale of the Medina land and building. 
+
+Net
+cash used in financing activities during 2022 was approximately 3.4 million compared to net cash used of 2.0 million in the 2021 period.
+Net cash used in the 2022 period was primarily for the repurchase of common shares under the Stock Buyback Plan. Net cash used in the
+2021 period was 1.1 million for the repurchase of common shares under the Stock Buyback Plan and 0.9 million in dividends paid to shareholders. 
+
+Over
+the past several years, our growth has been funded primarily through cashflows from operations. We continually evaluate all funding options,
+including additional offerings of our securities to private, public and institutional investors and other credit facilities as they become
+available. 
+
+The
+primary driver of our operating cash flow is our third-party verification solutions, specifically the gross margin generated from services
+provided. Therefore, we focus on the elements of those operations, including revenue growth, gross margin and long-term projects that
+ensure a steady stream of operating profits to enable us to meet our cash obligations. On a weekly basis, we review the performance of
+each of our revenue streams focusing on third-party verification solutions compared with prior periods and our operating plan. We believe
+that our various sources of capital, including cash flow from operating activities, overall improvement in our performance, and our ability
+to obtain additional financing, are adequate to finance current operations as well as the repayment of current debt obligations. We are
+not aware of any other event or trend that would negatively affect our liquidity. In the event such a trend develops, we believe that
+there are sufficient financing avenues available to us and from our internal cash-generating capabilities to adequately manage our ongoing
+business. 
+
+The
+culmination of all our efforts has brought significant opportunities to us, including increased investor
+confidence and renewed interest in our company, as well as the potential to develop business relationships with long-term strategic
+partners. In keeping with our core business, we will continue to review our business model with a focus on profitability, long-term capital
+solutions and the potential impact of acquisitions or divestitures, if such an opportunity arises. 
+
+Our
+plan for continued growth is primarily based on diversification in our product offerings within national and international markets, as
+well as, potential acquisitions. We believe that there are significant growth opportunities available to us because of growing consumer
+awareness and demand on a national level. Internationally, a quality verification program is often the only way to overcome import or
+export restrictions. 
+
+22 
+
+Debt
+Facility 
+
+The
+Company has a revolving line of credit LOC agreement which matures April 12, 2025. The LOC provides for 75,080 in working
+capital. The interest rate is at the Wall Street Journal prime rate plus 1.50 and is adjusted daily. Principal and interest are payable
+upon demand, but if demand is not made, then annual payments of accrued interest only are due, with the principal balance due upon maturity.
+As of December 31, 2022, and 2021, the effective interest rate was 9.0 and 4.75 , respectively. The LOC is collateralized by all the
+business assets of Where Food Comes From Organic, Inc. WFCFO ), a subsidiary of WFCF. As of December 31, 2022, and 2021,
+there were no amounts outstanding under this LOC. 
+
+On
+April 17, 2020, the Company received a 1.0 million loan under the Paycheck Protection Program PPP with a maturity date
+of April 17, 2022 and an annual interest rate of 1.00 . The Company received notification the loan and accrued interest amount was forgiven
+on March 4, 2021. 
+
+Off
+Balance Sheet Arrangements 
+
+As
+of December 31, 2022, we had no off-balance sheet arrangements of any type. 
+
+CRITICAL
+ACCOUNTING POLICIES AND ESTIMATES 
+
+Below
+is a discussion of the accounting policies and related estimates that we believe are the most critical to understanding our consolidated
+financial statements, financial condition and results of operations and which require complex management judgments, uncertainties and/or
+estimates. The preparation of financial statements in accordance with U.S. GAAP requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts
+of revenues and expenses during a reporting period; however, actual results could differ from those estimates. Management has discussed
+the development, selection and disclosure of the critical accounting policies and estimates with the Audit Committee of the Board of
+Directors. Information regarding our other accounting policies is included in Note 2 to our consolidated financial statements set forth
+in Item 8 of this Annual Report on Form 10-K. 
+
+Revenue
+Recognition 
+
+Verification
+and Certification Segment 
+
+We
+offer a range of products and services to maintain identification, traceability, and verification systems. We conduct both on-site and
+desk audits to verify that claims being made about livestock, food, other high-value specialty crops and agricultural products are accurate.
+We generate revenue primarily from the sale of our verification solutions, consulting services and hardware sales. We sell our products
+and services directly to customers at various levels in the livestock and agricultural supply chains. 
+
+Verification
+and certification service revenue primarily consists of fees charged for verification audits and other verification services that the
+Company performs for customers. We recognize revenue utilizing an input method to measure over-time progress of each verification audit
+based on the number of audit days performed. 
+
+For
+certain of our third-party crop and other processed product audits, we assess a fixed fee for the annual certification period. We recognize
+revenue utilizing an input method to measure progress toward satisfaction of the annual assessment based on the percentage of activities/phases
+or input reviews completed under the annual assessment. 
+
+23 
+
+Product
+sales are primarily generated from the sale of cattle identification ear tags. Revenue for product sales is recognized upon delivery
+of the goods to customer, at which point title, custody and risk of loss transfer to the customer. 
+
+We
+had deferred revenue of approximately 1.2 million and 1.0 million at December 31, 2022 and 2021, respectively, primarily related to
+the annual certification period for certain of our third-party crop and other processed product audits. The balance of these contract
+liabilities at the beginning of the period is expected to be recognized as revenue during 2023. 
+
+Software
+and Related Consulting Segment 
+
+Consulting
+services fees are derived from a standard rate card by employee level, and we invoice for consulting services monthly on a time-incurred
+basis. We recognize revenue over time utilizing the practical expedient that allows us to recognize revenue in the amount to which we
+have a right to invoice. 
+
+We
+also offer software products via a SaaS model, which is an annual subscription-based model. Support services and web-hosting are generally
+included in the subscription. 
+
+We
+recognize revenue related to the SaaS arrangement over an annual subscription period utilizing a time-based output measure of progress
+that results in a straight-line attribution of revenue. We had deferred revenue of approximately 0.1 and 0.5 million at December 31,
+2022 and 2021, respectively, primarily due to the SaaS arrangements. 
+
+In
+connection with web-hosting services under our SaaS arrangements, we present revenue on a gross basis, with consideration received from
+our customer for the web-hosting service recorded as revenue and the cost paid to the third-party to provide those web-hosting services
+recorded as an expense. 
+
+Other 
+
+Generally,
+we do not provide right of return or warranty on product sales or services performed. 
+
+In
+connection with the provision of on-site audits, reimbursable expenses are incurred and billed to customers, and such amounts are recognized
+on a gross basis as both revenue and cost of revenue. 
+
+Any
+amounts collected on behalf of a third-party and remitted in full to that third-party are excluded from the transaction price and, thus,
+revenue. 
+
+Our
+business is subject to seasonal fluctuations. Significant portions of our verification and certification service revenue is typically
+realized during late May through early October when the calf marketings and the growing seasons are at their peak. Although this seasonality
+does not impact our policies for revenue recognition, it does generally impact our results of operations by potentially causing an increase
+in our profit margins during May through October and decreased margins during November through April. 
+
+Stock-Based
+Compensation 
+
+The
+Company recognizes all equity-based compensation as stock-based compensation expense based on the fair value of the compensation measured
+at the grant date. For stock options, fair value is calculated using the Black-Scholes-Merton option-pricing model. For restricted stock
+awards and stock awards, fair value is the closing stock price for the Company s common stock on the grant date. The expense is
+recognized over the vesting period of the grant. 
+
+Calculating
+stock-based compensation expense using the Black-Scholes-Merton option-pricing model requires the input of highly subjective assumptions,
+including the expected term of the stock-based awards, stock price volatility, and the pre-vesting option forfeiture rate. We consider
+many factors when estimating expected forfeitures, including the types of awards, employee classification and historical experience.
+Actual forfeitures may differ substantially from our current estimate. Under this pricing model, which incorporates ranges of assumptions
+for inputs, our assumptions are as follows: 
+
+Dividend
+ yield is based on our historical policy of not paying cash dividends. 
+
+24 
+
+Expected
+ volatility assumptions were derived from our actual volatilities. 
+
+The
+ risk-free interest rate is based on the U.S. Treasury yield curve in effect at the date of grant with maturity dates approximately
+ equal to the expected term at the grant date. 
+
+The
+ expected term of options represents the period of time that options granted are expected to be outstanding giving consideration to
+ vesting schedules, based on historical exercise patterns, which we believe are representative of future behavior. 
+
+There
+is a risk that our estimates of the fair values may differ from the actual values. It is possible that employee stock options may expire
+worthless or otherwise result in zero intrinsic value as compared to the fair values originally estimated on the grant date and reported
+in our financial statements. Alternatively, value may be realized from these instruments that are significantly in excess of the fair
+values originally estimated on the grant date and reported in our financial statements. The fair value determined using the Black-Scholes-Merton
+option-pricing model may not be indicative of the fair value observed in a willing buyer / willing seller market transaction. 
+
+Estimates
+of share-based compensation expense are highly subjective as to value and have an impact on our financial statements, but these expenses
+will never result in the payment of cash by us. For this reason, and because we do not view share-based compensation as being related
+to our operational performance, we exclude estimated share-based compensation expense when internally evaluating our performance. 
+
+Income
+Taxes 
+
+We
+record income taxes under the asset and liability method. Deferred tax assets and liabilities reflect our estimation of the future tax
+consequences of temporary differences between the carrying amounts of assets and liabilities for book and tax purposes. We determine
+deferred income taxes based on the differences in accounting methods and timing between financial statement and income tax reporting.
+Accordingly, we determine the deferred tax asset or liability for each temporary difference based on the enacted tax rates expected to
+be in effect when we realize the underlying items of income and expense. 
+
+We
+consider the probability of future taxable income and our historical profitability, among other factors, in assessing the amount of the
+valuation allowance. Significant judgment is involved in this determination, including projections of future taxable income. 
+
+Our
+liability for unrecognized tax benefits contains uncertainties because management is required to make assumptions and to apply judgment
+to estimate the exposures associated with our various filing positions. 
+
+Our
+effective income tax rate is also affected by changes in tax law, our level of earnings and the results of tax audits. As of December
+31, 2022, we concluded that a valuation allowance against our deferred tax assets was not considered necessary. As of December 31, 2022
+and 2021, the Company did not have an unrecognized tax liability. Changes in these estimates and assumptions could materially affect
+the tax provision as recorded. 
+
+Goodwill 
+
+We
+perform an impairment test of our goodwill annually or when events and circumstances indicate goodwill might be impaired. Impairment
+testing of goodwill is required at the reporting unit level and involves a two-step process. However, we may first assess the qualitative
+factors to determine whether it is necessary to perform the two-step quantitative goodwill impairment test. 
+
+25 
+
+The
+first step of the impairment test involves comparing the estimated fair value of our reporting units with the reporting unit s
+carrying amount, including goodwill. If we determine that the carrying value of a reporting unit exceeds its estimated fair value, we
+perform a second step to compare the carrying amount of goodwill to the implied fair value of that goodwill. The implied fair value of
+goodwill is determined in the same manner as utilized to recognize goodwill in a business combination. If the carrying amount of goodwill
+exceeds the implied fair value of that goodwill, an impairment loss would be recognized in an amount equal to the excess. 
+
+We
+evaluate our reporting units on an annual basis or when events or circumstances indicate our reporting units might change. 
+
+Application
+of the goodwill impairment test requires judgment, including performing the qualitative assessment, the identification of reporting units,
+assigning assets and liabilities to reporting units, assigning goodwill to reporting units, and determining the fair value of each reporting
+unit. 
+
+Estimating
+the fair value of an individual reporting unit requires us to make assumptions and estimates regarding our future plans, industry and
+economic conditions and our actual results and conditions may differ over time. Examples of events or circumstances that could have a
+negative effect on the estimated fair value of our reporting units include (i) changes in technology or customer demands that were not
+anticipated; (ii) competition or regulatory developments in the industry that may adversely affect profitability; (iii) a prolonged weakness
+in general economic conditions; (iv) a sustained decrease in share price; (v) volatility in the equity and debt markets which could result
+in a higher discount rate; and (vi) the inability to execute our strategy to grow our growth products. 
+
+These
+types of analyses contain uncertainties because they require management to make assumptions and to apply judgment to estimate industry
+economic factors and the profitability of future business strategies. 
+
+We
+have not made any material changes in the accounting methodology used to evaluate impairment of goodwill during the past two years. 
+
+As
+of December 31, 2022 and 2021, we had approximately 2.9 million of goodwill. 
+
+During
+the fourth quarter of 2022 and 2021, we performed a qualitative assessment on our WFCF, WFCFO, Validus and SureHarvest units and concluded
+that the fair value of the reporting units exceeded their carrying value. 
+
+Long-Lived
+Assets 
+
+Our
+definite-lived intangible assets consist of customer relationships, accreditations, tradenames / trademarks and patents related to our
+acquisitions, recorded at estimated fair value. It also consists of our trademark rights and the related costs incurred to obtain the
+trademark rights recorded at cost. These definite-lived assets are subject to amortization using the straight-line method over the estimated
+useful-lives of the respective assets, which range from two to fifteen years. Estimates of useful-lives are based on the nature of the
+underlying assets as well as our experience with similar assets and intended use. We periodically review estimated useful-lives for reasonableness. 
+
+We
+evaluate recoverability of long-lived assets, including property and equipment and definite-lived intangible assets, when events or changes
+in circumstances indicate that the carrying amount may not be recoverable. 
+
+Assumptions
+and estimates about future values and remaining useful-lives can be affected by a variety of factors, including external factors such
+as consumer spending habits and general economic trends, and internal factors such as changes in our business strategy and our internal
+forecasts. 
+
+We
+have not made any material changes in the accounting methodology or useful-lives we use to account for long-lived assets during the past
+two years. 
+
+Pursuant
+to Accounting Standards Update 2016-02 ASU Topic 842, we determine if an arrangement is a lease at inception. Operating
+leases are included in the right-of-use (ROU) assets, current operating lease liabilities and noncurrent operating lease liabilities
+in our consolidated balance sheet. Finance leases are included in property and equipment, current finance lease obligations and long-term
+finance lease obligations in our consolidated balance sheet. 
+
+26 
+
+ROU
+assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease
+payments arising from the lease. ROU assets and liabilities are recognized at the lease commencement date based on the estimated present
+value of lease payments over the lease term. 
+
+Indefinite-Lived
+Assets 
+
+Our
+non-amortizable intangible assets which have an indefinite life relate to the trademarks/tradenames and digital assets. 
+
+Trademarks/tradenames
+were acquired in the Validus acquisition. Pursuant to Accounting Standards Codification ASC Topic 350, if an intangible
+asset is determined to have an indefinite useful life, it shall not be amortized until its useful life is determined to no longer be
+indefinite. Accordingly, we evaluate the remaining useful life of an intangible asset that is not being amortized each reporting period
+to determine whether events or circumstances continue to support an indefinite useful life. 
+
+In
+addition, an intangible asset that is not subject to amortization shall be tested for impairment annually, or more frequently if events
+or changes in circumstances indicate that the asset might be impaired. Entities testing an indefinite-lived intangible asset for impairment
+have the option of performing a qualitative assessment before calculating the fair value of the asset. If entities determine, on the
+basis of qualitative factors, that the likelihood of the indefinite-lived intangible asset being impaired is below a more-likely-than-not 
+threshold (i.e., a likelihood of more than 50 percent), the entity would not need to calculate the fair value of the asset. 
+
+As
+of December 31, 2022, there have been no changes to the indefinite life determination pertaining to the trademarks/tradenames intangible
+assets. Based on the qualitative assessment on Validus reporting unit, we concluded that the likelihood of the indefinite lived asset
+being impaired was below a more-likely-than-not threshold. 
+
+Digital
+assets or cryptocurrency are held as indefinite-lived intangible assets in accordance with ASC Topic 350. We have ownership
+of and control over our digital assets and may use a third-party custodial service to secure it. The digital assets are initially recorded
+at cost and are subsequently remeasured on the consolidated balance sheet at cost, net of any impairment losses incurred since acquisition,
+if applicable. 
+
+We
+determine the fair value of our digital assets on a quarterly basis in accordance with ASC Topic 820, Fair Value Measurement ,
+based on quoted prices on the active exchange(s) that we have determined is the principal market for such assets (Level 1 inputs). We
+perform an analysis each quarter to identify whether significant events or changes in circumstances, indicate that it is more likely
+than not that our digital assets are permanently impaired. In determining if an impairment has occurred, we consider the lowest market
+price of one unit of digital asset quoted on an active exchange since acquiring the digital asset. If the current carrying value of a
+digital asset significantly exceeds the fair value so determined, a permanent impairment loss has occurred with respect to the digital
+assets in the amount equal to the difference between their carrying values and the price determined. 
+
+As
+of December 31, 2022, we have not sold any digital assets and have recognized an impairment loss of 62,000. As of December 31, 2022,
+the carrying value of our digital assets held was 0.1 million. 
+
+Business
+Combinations 
+
+A
+component of our growth strategy has been to acquire businesses that complement our existing operations. We account for business combinations
+in accordance with the guidance for business combinations and related literature. Accordingly, we allocate the purchase price of acquired
+companies to the tangible and intangible assets acquired and liabilities assumed based upon their estimated fair values at the date of
+purchase. The excess of the purchase price over the fair value of the net assets acquired is recorded as goodwill. 
+
+In
+determining the fair values of assets acquired and liabilities assumed in a business combination, we use various recognized valuation
+methods, including present value modeling and referenced market values (where available). Further, we make assumptions within certain
+valuation techniques, including discount rates and the timing of future cash flows. Valuations are performed by management or independent
+valuation specialists under management s supervision, where appropriate. We believe that the estimated fair values assigned to
+the assets acquired and liabilities assumed are based on reasonable assumptions that marketplace participants would use. However, such
+assumptions are inherently uncertain and actual results could differ from those estimates. 
+
+RECENT
+ACCOUNTING PRONOUNCEMENTS 
+
+See
+Note 2 to our consolidated financial statements set forth in Item 8 of this Annual Report on Form 10-K for a detailed description of
+recent accounting pronouncements. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not
+applicable. 
+
+27 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Index
+to Financial Statements 
+
+Page 
+ 
+ Financial
+ Statements: 
+
+Report of Independent Registered Public Accounting Firm 
+ 29 
+ 
+ Consolidated Balance Sheets as of December 31, 2022 and 2021 
+ 31 
+ 
+ Consolidated Statements of Income for the years ended December 31, 2022 and December 31, 2021 
+ 32 
+ 
+ Consolidated Statements of Cash Flows for the years ended December 31, 2022 and December 31, 2021 
+ 33 
+ 
+ Consolidated Statements of Equity for the years ended December 31, 2022 and December 31, 2021 
+ 34 
+ 
+ Notes to Consolidated Financial Statements 
+ 35 
+
+28 
+
+Report
+of Independent Registered Public Accounting Firm 
+
+To
+the Board of Directors and Stockholders of 
+
+ Where
+Food Comes From, Inc. 
+
+ Castle
+Rock, Colorado 
+
+OPINION
+ON THE FINANCIAL STATEMENTS 
+
+We have audited the accompanying consolidated balance sheets of Where Food Comes From, Inc. and its subsidiaries
+(the Company as of December 31, 2022 and 2021, and the related consolidated statements of income, equity, and cash flows,
+for the years ended December 31, 2022 and 2021, and the related notes (collectively referred to as the financial statements ).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December
+31, 2022 and 2021 and the results of its operations and its cash flows for the years ended December 31, 2022 and 2021, in conformity with
+accounting principles generally accepted in the United States of America. 
+
+BASIS
+FOR OPINION 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+CRITICAL
+AUDIT MATTER 
+
+The
+critical audit matter communicated below is a matter arising from the current-period audit of the financial statements that was communicated
+or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the financial
+statements and (2) involved especially challenging, subjective, or complex judgments. The communication of a critical audit matter does
+not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter
+below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+29 
+
+Revenue
+Recognition Refer to Note 2 to the financial statements 
+
+Critical
+Audit Matter Description 
+
+The
+Company recognizes revenue upon transfer of control of promised products or services to customers in an amount that reflects the consideration
+the Company expects to receive in exchange for those products or services. The Company offers customers the ability to acquire multiple
+licenses of software products and services, in its customer agreements through its service and licensing programs. 
+
+Significant
+judgment is exercised by the Company in determining revenue recognition for these customer agreements, and includes the following: 
+
+Determination
+ of whether products and services are considered distinct performance obligations that should be accounted for separately versus together,
+ such as software licenses and related services. 
+
+The
+ pattern of delivery (i.e., timing of when revenue is recognized) for each distinct performance obligation. 
+
+Identification
+ and treatment of contract terms that may impact the timing and amount of revenue recognized (e.g., length of time for services and
+ cancellation terms). 
+
+Determination
+ of stand-alone selling prices for each distinct performance obligation and for products and services that are not sold separately. 
+
+Given
+these factors and due to the volume of transactions, the related audit effort in evaluating management s judgments in determining
+revenue recognition for these customer agreements was extensive and required a high degree of auditor judgment. 
+
+How
+the Critical Audit Matter Was Addressed in the Audit 
+
+Our
+principal audit procedures related to the Company s revenue recognition for these customer agreements included the following: 
+
+We
+ evaluated management s significant accounting policies related to these customer agreements for reasonableness. 
+
+We
+ selected a sample of customer agreements and performed the following procedures: 
+
+Obtained
+ and read contract source documents for each selection, including master agreements, and other documents that were part of the agreement. 
+
+Tested
+ management s identification and treatment of contract terms. 
+
+Assessed
+ the terms in the customer agreement and evaluated the appropriateness of management s application of their accounting policies,
+ along with their use of estimates, in the determination of revenue recognition conclusions. 
+
+We
+ evaluated the reasonableness of management s estimate of stand-alone selling prices for products and services that are not
+ sold separately. 
+
+We
+ evaluated the appropriateness of certain accounts receivables and deferred revenue items based on the timing of the payment and the
+ products and services provided. 
+
+We
+ tested the mathematical accuracy of management s calculations of revenue and the associated timing of revenue recognized in
+ the financial statements. 
+
+/s/
+ . 
+
+We
+have served as the Company s auditors since 2019. 
+
+Auditor Firm ID 
+
+February
+23, 2023 
+
+30 
+
+Where
+Food Comes From, Inc. 
+
+ Consolidated
+Balance Sheets 
+
+December 31, 
+ December 31, 
+ 
+ (Amounts in thousands, except per share amounts) 
+ 2022 
+ 2021 
+ 
+ Assets 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Accounts receivable, net of allowance 
+
+Inventory 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Property and equipment, net 
+
+Right-of-use assets, net 
+
+Investment in Progressive Beef 
+
+Intangible and other assets, net 
+
+Goodwill, net 
+
+Deferred tax assets, net 
+
+Total assets 
+
+Liabilities and Equity 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued expenses and other current liabilities 
+
+Deferred revenue 
+
+Current portion of finance lease obligations 
+
+Current portion of operating lease obligations 
+
+Total current liabilities 
+
+Finance lease obligations, net of current portion 
+
+Operating lease obligation, net of current portion 
+
+Total liabilities 
+
+Commitments and contingencies 
+ - 
+ - 
+
+Equity: 
+
+Preferred stock, par value; shares authorized; issued or outstanding 
+ - 
+ - 
+ 
+ Common stock, par value; shares authorized; (2022) and (2021) shares issued,
+ and (2022) and (2021) shares outstanding 
+
+Additional paid-in-capital 
+
+Treasury stock of (2022) and (2021) shares 
+
+Retained earnings 
+
+Total equity 
+
+Total liabilities and stockholders equity 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+31 
+
+Where
+Food Comes From, Inc. 
+
+ Consolidated
+Statements of Income 
+
+(Amounts in thousands, except per share amounts) 
+ 2022 
+ 2021 
+
+Year ended December 31, 
+ 
+ (Amounts in thousands, except per share amounts) 
+ 2022 
+ 2021 
+ 
+ Revenues: 
+
+Verification and certification service revenue 
+
+Product sales 
+
+Software and related consulting revenue 
+
+Total revenues 
+
+Costs of revenues: 
+
+Costs of verification and certification services 
+
+Costs of products 
+
+Costs of software and related consulting 
+
+Total costs of revenues 
+
+Gross profit 
+
+Selling, general and administrative expenses 
+
+Income from operations 
+
+Other income/(loss): 
+
+Dividend income from Progressive Beef 
+
+Gain on sale of assets 
+
+Loan forgiveness from Paycheck Protection Program 
+ - 
+
+Other income, net 
+
+Loss on foreign currency exchange 
+
+Impairment expense 
+ 
+ - 
+ 
+ Interest expense 
+
+Income before income taxes 
+
+Income tax expense 
+
+Net income 
+
+Per share - net income 
+
+Basic 
+
+Diluted 
+
+Weighted average number of common shares outstanding: 
+
+Basic 
+
+Diluted 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+32 
+
+Where
+Food Comes From, Inc. 
+
+ Consolidated
+Statements of Cash Flows 
+
+(Amounts in thousands) 
+ 2022 
+ 2021 
+
+Year ended December 31, 
+ 
+ (Amounts in thousands) 
+ 2022 
+ 2021 
+
+Operating activities: 
+
+Net income 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+Impairment of digital assets 
+ 
+ - 
+ 
+ Gain on sale of assets 
+
+Stock-based compensation expense 
+
+Deferred tax benefit 
+
+Bad debt expense 
+ 
+ - 
+ 
+ Forgiveness of note payable from Paycheck Protection Program 
+ - 
+
+Changes in operating assets and liabilities, net of effect from acquisitions: 
+
+Accounts receivable 
+
+Inventory 
+
+Prepaid expenses and other assets 
+
+Accounts payable 
+
+Accrued expenses and other current liabilities 
+
+Deferred revenue 
+
+Right of use assets and liabilities, net 
+
+Net cash provided by operating activities 
+
+Investing activities: 
+
+Purchase of digital assets 
+ 
+ - 
+ 
+ Proceeds from sale of assets 
+ - 
+
+Purchases of property, equipment and software development costs 
+
+Net cash used in investing activities 
+
+Financing activities: 
+
+Repayments of finance lease obligations 
+
+Proceed from stock option exercise 
+
+Dividends paid to shareholders 
+ - 
+
+Stock repurchase under Stock Buyback Plan 
+
+Net cash used in financing activities 
+
+Net change in cash 
+
+Cash at beginning of period 
+
+Cash at end of period 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+33 
+
+Where
+Food Comes From, Inc. 
+
+ Consolidated
+Statements of Equity 
+
+ Years
+ended December 31, 2021 and 2022 
+
+(Amounts in thousands) 
+ Shares 
+ Amount 
+ Capital 
+ Stock 
+ Earnings 
+ Total 
+
+Additional 
+
+Common Stock 
+ Paid-in 
+ Treasury 
+ Retained 
+
+(Amounts in thousands) 
+ Shares 
+ Amount 
+ Capital 
+ Stock 
+ Earnings 
+ Total 
+
+Balance at January 1, 2021 
+
+Stock-based compensation expense 
+ 
+ - 
+ 
+ - 
+ - 
+
+Stock options exercised 
+ 
+ - 
+ 
+ - 
+ - 
+
+Repurchase of common shares under Stock Buyback Plan 
+ 
+ - 
+ - 
+ 
+ - 
+
+Dividends paid 
+ - 
+ - 
+ - 
+ - 
+
+Net income 
+ - 
+ - 
+ - 
+ - 
+
+Balance at December 31, 2021 
+
+Beginning balance 
+
+Stock-based compensation expense 
+ 
+ - 
+ 
+ - 
+ - 
+
+Stock options exercised 
+ 
+ - 
+ 
+ - 
+ - 
+
+Repurchase of common shares under Stock Buyback Plan 
+ 
+ - 
+ - 
+ 
+ - 
+
+Net income 
+ - 
+ - 
+ - 
+ - 
+
+Balance at December 31, 2022 
+
+Ending balance 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+34 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+), and we believe our credit risk is minimal. At times, we may also invest in short-term investments with original
+maturities of three months or less, which we consider to be cash and cash equivalents, since they are readily convertible to cash. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+We
+further concluded that over-time recognition is appropriate because: (i) our performance of audits does not create an asset with an alternative
+use, as the audit and related verification report relates to facts and circumstances that are specific to each customer site or location
+(that is, there is a practical limitation on our ability to readily direct the asset to another customer) and (ii) we have an enforceable
+right to payment, inclusive of a reasonable profit, for performance completed to date. We utilize an input method to measure over-time
+progress of each audit within the series based on the number of audit days performed. 
+
+We
+do, however, note that there are instances in which we only have an enforceable right to payment upon completion of an audit, and thus,
+over-time recognition is not permitted. For these contracts, revenue is recognized at the point in time at which an audit is completed.
+This does not result in a significant difference in the timing of revenue recognition (as compared to those audits that are recognized
+over time) due to the very short-term duration of an audit. 
+
+Our
+customers may also have the option to purchase incremental review services (for example, an investigative audit or video review services)
+that are unrelated to the audit services to verify compliance with a specified standard or claim. The incremental review services are
+also typically very short-term in nature (that is, one to two weeks). We have concluded that these optional purchases do not reflect
+a material right under ASC 606 because the incremental review services are performed at standard pricing that would be charged to other
+similarly situated customers. Upon customer request for an incremental review service, we believe that our customer has made a discrete
+purchasing decision that should be treated as a separate accounting contract under ASC 606. 
+
+We
+charge a fixed fee for the incremental review service, and thus, upon customer request, we are entitled to fixed consideration for that
+service under ASC 606. We concluded that over-time revenue recognition is appropriate for incremental review services because: (i) our
+performance of incremental review services does not create an asset with an alternative use because that review service, and the associated
+customer deliverable, relates to facts and circumstances that are specific to each customer site or location (that is, there is a practical
+limitation on our ability to readily direct the asset to another customer) and (ii) we have an enforceable right to payment, inclusive
+of a reasonable profit, for performance completed to date on incremental review services. We utilize a time-based input method to measure
+progress toward complete satisfaction of an incremental review service, which is based on the number of hours performed on the incremental
+review service relative to the total number of hours required to complete that review service. As previously mentioned, our incremental
+review services are typically completed within one to two weeks of a customer request. 
+
+Contract
+to Provide Animal Audit Services at Customer Request 
+
+Other
+animal verification and certification services contracts are structured such that we commit to perform audit services at a fixed price
+by site or location type as requested by our customer during an annual period. Performance of an audit typically occurs within a one
+to two-week period. We invoice our customer upon completion of an audit, and payment is due from customer within thirty days or less
+of receipt of invoice. 
+
+Under
+this contract structure, the customer is, in effect, provided a pricing list for animal audit services, and pricing is effective over
+a one-year period. We have concluded that enforceable rights and obligations do not arise until a customer actually engages us to perform
+an audit service documented in the pricing list; therefore, each customer request represents a purchasing decision that is a separate
+accounting contract under ASC 606. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+We
+note that the termination provisions specified in our pricing lists vary. In certain instances, a customer may only have the right to
+terminate in the event of non-performance. Alternatively, in other contracts, a customer may have the right to terminate without prejudice
+at any time or with thirty days written notice. However, regardless of the termination provision specified, we have concluded
+that the accounting contract term is equal to the duration of the requested audit service (that is, the termination provisions generally
+do not affect the accounting contract term for each requested audit service). 
+
+Upon
+a customer s request for an audit service, consideration is fixed, as we charge the customer a fixed fee by audit type over the
+annual period per the pricing list. 
+
+We
+concluded that over-time revenue recognition is appropriate for a requested audit service because: (i) our performance of the requested
+audit service does not create an asset with an alternative use as that audit, and the associated audit report, relate to facts and circumstances
+that are specific to each customer site or location (that is, there is a practical limitation on our ability to readily direct the asset
+to another customer) and (ii) we have an enforceable right to payment, inclusive of a reasonable profit, for performance completed to
+date on a requested audit. A time-based input method is utilized to measure progress toward complete satisfaction of an audit based on
+the number of hours performed on that audit relative to the total number of hours expected to be required to complete the audit. As previously
+mentioned, our audit services are typically completed within one to two weeks of a customer request. 
+
+Other
+Considerations for Animal Certification and Verification Services 
+
+In
+connection with the provision of on-site audits related to animal certification and verification services, reimbursable expenses are
+incurred and billed to customers, and such amounts are recognized on a gross basis as both revenue and cost of revenue. 
+
+Any
+amounts collected on behalf of a third-party and remitted in full to that third-party are excluded from the transaction price and, thus,
+revenue. 
+
+Crop
+and Other Processed Product Verification and Certification Services 
+
+Third-party
+crop and other processed product audits are generally structured such that we commit to perform an independent audit to verify that food
+producers and/or farmers comply with certain standards. We generally provide verification services related to organic, Non-GMO and gluten-free
+standards. Depending on the crop or product type, verification audit activities may take two months to one year to complete. During this
+assessment period, various integrated audit activities and/or input reviews are performed in accordance with the regulations specified
+by the relevant standard. 
+
+The
+fee structure is such that customers pay an annual assessment fee for a crop or other processed product to verify compliance with the
+specified standard. This fee is payable upfront on a nonrefundable basis. Our customers can typically terminate a crop or other processed
+product audit at any time without prejudice. However, given the nonrefundable upfront payment structure for the annual assessment service,
+we have concluded that the contract term is one year. We record the upfront payment made by the customer for the annual assessment service
+as deferred revenue. 
+
+The
+audit activities and input reviews required in the provision of an annual assessment are not distinct under ASC 606, and consequently,
+we account for an annual assessment as a single integrated performance obligation. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+For
+certain of our third-party crop and other processed product audits, the annual assessment fee is fixed for the annual period. In other
+scenarios, the annual assessment fee may be variable due to increased review activities required for incremental inputs to a crop or
+processed product identified through the assessment process. At the time that an incremental input is identified, which generally occurs
+in the early stages of an annual assessment, the incremental consideration for the provision of review services related to that incremental
+input also becomes known. 
+
+We
+allocate the transaction price derived from the annual assessment fee to the single integrated performance obligation for that annual
+assessment. Revenue related to the annual assessment is recognized over time in accordance with ASC 606. This is because the annual assessment
+service does not create an asset with an alternative use, as it relates to facts and circumstances that are specific to a customer s
+crop or processed product. Further, we have an enforceable right to payment for performance completed to date on the annual assessment
+due to the nonrefundable upfront payment made by customer. We utilize an input method to measure progress toward satisfaction of the
+annual assessment based on the percentage of activities/phases or input reviews completed under the annual assessment. 
+
+As
+it relates to the upfront payment for the annual assessment, we have utilized the practical expedient that exempts us from adjusting
+consideration for the effects of a significant financing component when we expect that the period between customer payment and the provision
+of the related service is one year or less. 
+
+In
+certain contracts, an independent third-party inspection may be required for a site or location in our customer s supply chain
+in accordance with the regulations for a specified standard. An inspection is performed by an independent third-party inspector, and
+the customer is charged an hourly rate for these inspection services. 
+
+Under
+this scenario, a separate accounting contract arises upon initiation and performance of an inspection, and we typically invoice our customer
+for the inspection upon completion of the inspection service. Given that the customer has the ability to terminate at any time without
+prejudice, we have concluded that the contract term for each inspection ends as control of an inspection service transfers. Inspections
+are generally short-term in nature with a term ranging from a few days to two weeks. 
+
+We
+have further determined that inspections are distinct from an annual assessment. Consideration attributable to an inspection is variable,
+as the inspector is only able to provide a high-level estimate of the cost of the inspection based on the inspector s hourly rate
+until the inspector is at the relevant producer/supplier site to determine the time and level of effort required to complete the inspection.
+Given the very short-term nature of an inspection, variability related to an inspection generally resolves itself within a reporting
+period. However, we are typically required by certain regulations to provide an inspection cost estimate to our customer, and, if required,
+we utilize that estimate as our estimate of variable consideration. The cost estimate is generally derived from the cost to perform the
+prior-year inspection for that specific customer site or location or, when required, the historical cost to provide an inspection for
+a comparable site or location. In our experience, the historical cost of inspections has been predictive of the future cost of an inspection. 
+
+Other
+Considerations for Crop and Other Processed Product Verification Services 
+
+Reimbursable
+expenses incurred in the provision of an annual assessment or required inspection are billed to our customers, and such amounts are recognized
+on a gross basis as both revenue and cost of revenue. 
+
+In
+addition, any amounts collected on behalf of a third-party and remitted in full to that third-party are excluded from the transaction
+price and, thus, revenue. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Product
+Sales 
+
+Product
+sales are primarily generated from the sale of cattle identification ear tags. Each customer purchase request represents a purchasing
+decision made by customer. As such, enforceable rights and obligations (and, thus, a separate accounting contract under ASC 606) arise
+at the time a customer submits its purchase request to us. At the time of request, we are entitled to fixed consideration, as the sales
+quantity and related price of the product is known. All of our customers are charged the same fixed price per tag. 
+
+Revenue
+for product sales is recognized upon delivery of the goods to customer, at which point title, custody and risk of loss transfer to the
+customer. We typically deliver product to the customer within a few days of customer s sales request. At the time of delivery,
+we invoice our customer for the related product sales and record invoiced amounts to accounts receivable. Payment is typically due by
+customer upon receipt of invoice. 
+
+In
+relation to our product sales, the sales taxes collected from customers and remitted to government authorities are excluded from revenue. 
+
+Additionally,
+we do not typically provide right of return or warranty on product sales. 
+
+Software
+and Related Consulting Segment 
+
+We
+predominately offer software products via a SaaS model, which is an annual subscription-based model. Support services are generally included
+in the subscription. We also provide web-hosting services on an annual basis to all of our customers in conjunction with their software
+subscription. Customers have the ability to terminate without prejudice upon thirty days written notice; however, the subscription
+fee, inclusive of maintenance and support services, and the web-hosting fee are paid upfront by the customer on a nonrefundable basis.
+Consequently, we have concluded that the contract term for the annual software subscription and web-hosting services is one year. 
+
+We
+have determined that a software license subscription and the related hosting service should be accounted for as a service transaction,
+as we provide the functionality of our software through the hosting arrangement. The SaaS arrangement provides customers with unlimited
+access to our software and, thus, is accounted for as a series of distinct daily service periods that provide substantially the same
+service (that is, continuous access to the hosted software) each day during the annual contract term. Further, the provision of basic
+technical support services also represents a stand-ready obligation that is a series of distinct daily service periods that provide substantially
+the same service (that is, access to our technical support infrastructure) during the annual contract term. Because the basic technical
+support services and SaaS each represent performance obligations that are a series of distinct daily service periods, we have elected
+to combine these performance obligations. 
+
+We
+are entitled to fixed consideration for the software license subscription, inclusive of support services, and the related hosting service.
+The software license subscription and hosting fees in our contracts represent the standalone selling price for that related service.
+This is because the fees charged for the software license subscription and hosting service represent the software license subscription
+and hosting service fees that are charged to other customers with a similar level of data loaded into the software (regardless of whether
+that customer contracts for professional services). Accordingly, the software license subscription and hosting fees are allocated to
+the combined SaaS performance obligation. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+We
+recognize revenue related to the SaaS arrangement over time because a customer simultaneously receives and consumes the benefit from
+the provision of access to the hosted software over the annual subscription period. Accordingly, we utilize a time-based output measure
+of progress that results in a straight-line attribution of revenue. That is, revenue related to the combined SaaS obligation should be
+recognized daily on a straight-line basis over the one-year subscription term, as this reflects the direct measurement of value to a
+customer of the provision of access to the software via hosting each day. 
+
+As
+it relates to the upfront payment for the software subscription and hosting service, we have utilized the practical expedient that exempts
+us from adjusting consideration for the effects of a significant financing component when we expect that the period between customer
+payment and the provision of the related service is one year or less. 
+
+In
+addition, we record the upfront payment made by customer for the annual assessment service as deferred revenue. 
+
+In
+some of our SaaS contracts, we also provide software-related consulting services to our customers during an annual software subscription
+period. Consulting services fees are derived from a standard rate card by employee level, and we invoice for consulting services monthly
+on a time-incurred basis. Due to the termination provisions present in our SaaS contracts, our customers have an in-substance renewal
+decision each month for further consulting services (that is, via their decision not to terminate the contract each month). Accordingly,
+the contract term for consulting services is on a month-to-month basis within the annual subscription period. 
+
+We
+have concluded that consulting services are distinct from the SaaS arrangement. To the extent that consulting services result in a software
+enhancement or new functionality, we have determined that those consulting services are still distinct because added features typically
+provide new, discrete capabilities with independent value to a customer and a customer accesses the SaaS in a single-tenant architecture.
+Further, additional features and functionality are often made available to a customer substantially after the go-live date
+of the software (via the hosting service). As a result, our software-related consulting services represent distinct performance obligations. 
+
+We
+recognize revenue related to consulting services over time in accordance with ASC 606. This is because our performance does not create
+an asset with an alternative use, as consulting services, and, if applicable, any related software enhancements, are highly tailored
+to the farming industry specific to the given customer, and we have an enforceable right to payment, inclusive of profit, for performance
+completed to date. As a result, for our consulting services, we have elected to utilize the practical expedient that allows us to recognize
+revenue in the amount to which we have a right to invoice, as we believe that we have a right to consideration from a customer in an
+amount that corresponds directly with the value to the customer of our performance completed to date for the provision of consulting
+services. 
+
+Principal
+versus Agent Considerations 
+
+Under
+certain of our verification and certification service contracts, a third-party inspector may be required to perform an independent inspection
+of a site or location within our customer s supply chain in accordance with regulations of a certain standard or claim. In this
+scenario, we have concluded that we are the principal in the provision of inspection services to our customer, as we control the inspection
+service, and the related inspection report, before it is transferred to our customer. In accordance with this conclusion, we present
+revenue related to inspections on a gross basis, with customer payment for an inspection presented as revenue and the inspection cost
+paid to the third-party inspector presented as an expense. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+In
+addition, we utilize a third-party to provide web-hosting services in the provision of our SaaS arrangements. In this scenario, we are
+primarily responsible for fulfilling the promise to provide web-hosting services to the customer, and we establish the fee that the customer
+is charged for the web-hosting services. Consequently, we have also concluded that we are the principal in the provision of web-hosting
+services under our SaaS arrangements. As such, we present revenue on a gross basis, with consideration received from our customer for
+the web-hosting service recorded as revenue and the cost paid to the third-party to provide those web-hosting services recorded as an
+expense. 
+
+Disaggregation
+of Revenue 
+
+We
+have identified three material revenue categories in our business: (i) verification and certification service revenue, (ii) product sales,
+(iii) software and related consulting revenue. 
+
+- 
+ - 
+
+- 
+ - 
+
+Product sales 
+ 
+ - 
+ - 
+
+- 
+ - 
+
+Software and related consulting revenue 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+Total revenues 
+
+- 
+
+- 
+
+Transaction
+Price Allocated to Remaining Performance Obligations 
+
+We
+generally enter into revenue contracts with a one-year term. In certain instances, we have concluded that our contract term is less than
+one year because: (i) the termination provisions present in the contract impact the contract term under ASC 606 or (ii) a contract under
+ASC 606 arises at the time our customer requests the provision of a good or service that is delivered within or over a few days to a
+couple of weeks. As a result of our short-term contract structures, we have utilized the practical expedient in ASC 606-10-50-14 that
+exempts us from disclosure of the transaction price allocated to remaining performance obligations if the performance obligation is part
+of a contract that has an original expected duration of one year or less. 
+
+Contract
+Balances 
+
+Under
+our animal verification and certification services contracts, we invoice customers once the performance obligation for the provision
+of a site or location audit has been satisfied, at which point payment is unconditional. In addition, any product sales are invoiced
+upon delivery to the customer, at which point payment is also unconditional. Accordingly, our animal verification and certification services
+contracts do not give rise to a contract asset under ASC 606; rather, invoiced amounts reflect accounts receivable. 
+
+Under
+our crop and other processed product verification and certification services, a nonrefundable payment for an annual assessment of compliance
+with a standard is typically made by our customers upfront upon contract execution. That is, payment is made in advance of the provision
+of annual assessment services. Accordingly, we recognize deferred revenue upon receipt of the upfront payment from our customers for
+crop and other processed product audit assessment services. Revenue is subsequently recognized, and the related deferred revenue is reduced,
+over the one-year period during which assessment services are provided to the customer using the over-time measure of progress selected
+in accordance with ASC 606. To the extent that an inspection is required during the annual assessment period, we invoice customers once
+the performance obligation for the inspection has been satisfied, at which point payment is unconditional. As such, inspection services
+give rise to accounts receivable. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Our
+software subscriptions, web-hosting, and support services are paid by our customers upfront on a nonrefundable basis. That is, payment
+is made in advance of the provision of these services to our customers. As a result, we recognize deferred revenue upon receipt of the
+upfront payment from our customers for software subscriptions, web-hosting and maintenance and support services. Revenue is subsequently
+recognized, and the related deferred revenue is reduced, on a straight-line basis during the annual contract term that these stand-ready
+services are provided to customer. 
+
+Software-related
+consulting services are invoiced monthly on a time-incurred basis, at which point we have an enforceable right to payment for those services.
+Because payment is unconditional upon invoicing, our software-related consulting services are reflected as accounts receivable. 
+
+As
+of December 31, 2022 and 2021, accounts receivable from contracts with customers, net of allowance for doubtful accounts, were approximately
+ million. 
+
+As
+of December 31, 2022 and 2021, deferred revenue from contracts with customers were approximately million and million, respectively.
+The balance of the contract liabilities at December 31, 2021 was recognized as revenue in 2022 and the balance at December 31, 2022 is
+expected to be recognized as revenue during 2023. 
+
+Unearned billings 
+
+Revenue recognized 
+
+Deferred revenue December 31 
+
+and , at December 31, 2022 and 2021, respectively. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+At
+December 31, 2022 and 2021, no single customer accounted for greater than 10 of our accounts receivable balance. 
+
+- percent; 
+
+b) 
+ Terminal
+ value based on long-term sustainable growth rates of percent; 
+
+c) 
+ Financial
+ data of comparable companies for market participant assumptions; and 
+
+d) 
+ Consideration
+ of the marketability that market participants would consider when measuring the fair value of a non-controlling interest in our acquisition. 
+
+Where
+ Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+years. Certain acquired
+trade names and digital assets are considered to have indefinite lives and are not amortized but are assessed at least annually for potential
+impairment as described below. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+We
+review long-lived assets for indicators of impairment whenever events or changes in circumstances indicate that the carrying amount may
+not be recoverable, or at least annually. The evaluation is performed at the lowest level of identifiable cash flows. Undiscounted cash
+flows expected to be generated by the related assets are estimated over the asset s useful life based on updated projections. If
+the evaluation indicates that the carrying amount of the asset may not be recoverable, any potential impairment is measured based upon
+the fair value of the related asset or asset group as determined by an appropriate market appraisal or other valuation technique. 
+
+We
+determine the fair value of our digital assets on a quarterly basis based on quoted prices on the active exchange(s) that we have determined
+is the principal market for such assets. We perform an analysis each quarter to identify whether significant events or changes in circumstances,
+indicate that it is more likely than not that our digital assets are permanently impaired. In determining if an impairment has occurred,
+we consider the lowest market price of one unit of digital asset quoted on an active exchange since acquiring the digital asset. If the
+current carrying value of a digital asset significantly exceeds the fair value so determined, a permanent impairment loss has occurred
+with respect to the digital assets in the amount equal to the difference between their carrying values and the price determined. 
+
+million is included in property and equipment as of December 31, 2022 and 2021. During
+2021, million of the software developed for external sale was reclassified to be used for internal purposes only. During 2022 and
+2021, the amortization of capitalized costs totaled approximately . 
+
+million and million, respectively. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Expected
+ volatility assumptions were derived from our actual volatilities. 
+ 
+ The
+ risk-free interest rate is based on the U.S. Treasury yield curve in effect at the date of
+ grant with maturity dates approximately equal to the expected term at the grant date. 
+ 
+ The
+ expected term of options represents the period of time that options granted are expected
+ to be outstanding giving consideration to vesting schedules, based on historical exercise
+ patterns, which we believe are representative of future behavior. 
+
+or less are not recorded on the balance sheet. Our lease agreements do not contain any residual value guarantees. 
+
+We
+have operating and finance leases for corporate offices, other regional offices, and certain equipment. Our leases have remaining lease
+terms of year to years, some of which include multiple 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Recently
+Issued Accounting Pronouncements 
+
+In
+September 2016, the FASB issued ASU 2016-13, Financial Instruments Credit Losses (Topic 326): Measurement of Credit Losses on
+Financial Instruments, which adds a new Topic 326 to the Codification and removes the thresholds that companies apply to measure credit
+losses on financial instruments measured at amortized cost, such as loans, receivables, and held-to-maturity debt securities. Under current
+U.S. GAAP, companies generally recognize credit losses when it is probable that the loss has been incurred. The revised guidance will
+remove all recognition thresholds and will require companies to recognize an allowance for credit losses for the difference between the
+amortized cost basis of a financial instrument and the amount of amortized cost that the company expects to collect over the instrument s
+contractual life. The Company is currently required
+to adopt the new standard in 2023. The adoption of this standard will have no material impact on the financial statements. 
+
+Furniture and office equipment 
+
+Software and tools 
+
+Website development and other enhancements 
+
+Building and leasehold improvements 
+
+Land 
+ - 
+ - 
+
+3,646 
+ 3,585 
+ 
+ Less accumulated depreciation 
+
+Property and equipment, net 
+
+Total
+depreciation expense for the years ended December 31, 2022 and 2021 was approximately million. Depreciation expense for assets recorded
+under finance leases was approximately for the years ended December 31, 2022 and 2021. 
+
+In
+December 2021, the Company sold the land, -square foot building and some office furniture located in Medina, North Dakota for 
+million. 
+
+million funded by a combination of cash and stock of the Company. Where Food Comes From is the primary
+certifier for Progressive Beef. As of December 31, 2022 and 2021, the Company received dividend income of approximately and 
+million, respectively, from Progressive Beef representing a distribution of their earnings. The income is reflected within the other
+(expense) income section of the Company s Consolidated Statement of Income for the years ended December 31, 2022 and 2021.
+The investment is accounted for as a financial instrument under ASC 321 and the Company has elected to apply the practical expedient
+to value the investment at cost minus impairment, if any, plus or minus changes resulting from observable price changes in orderly transactions
+for the identical or similar investment of the same issuer. The Company completed a qualitative assessment and determined that there
+were no impairment indicators as of December 31, 2022 and 2021. 
+
+Where
+ Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+- years 
+ 
+ Accreditations 
+
+years 
+ 
+ Customer relationships 
+
+- years 
+ 
+ Patents 
+
+years 
+ 
+ Non-compete agreements 
+
+years 
+ 
+ Intangible
+ and other assets, gross 
+
+Less accumulated amortization 
+
+Intangible
+ and other assets, Net 
+
+Cryptocurrency (not subject to amortization) 
+ 
+ - 
+
+Tradenames/trademarks (not subject to amortization) 
+
+Intangible
+ assets 
+
+Other assets 
+
+Intangible and other assets: 
+
+We
+reviewed our long-lived assets for indicators of impairment in 2022 and 2021 and concluded in
+each year that no impairments exist. For the period ending December 31, 2022, we have not sold any digital assets and have recognized
+an impairment loss of related to our investment in cryptocurrency. As of December 31, 2022, the carrying value of our digital
+assets held was . 
+
+Amortization
+expense for each of the years ended December 31, 2022 and 2021 was approximately million and million, respectively. 
+
+2024 
+
+2025 
+
+2026 
+
+2027 
+
+Thereafter 
+
+Intangible
+ and other assets, net 
+
+Where
+ Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Payroll related accruals 
+
+Customer deposits 
+
+Professional fees and other expenses 
+
+Accrued expenses and
+ other current liabilities 
+
+. The LOC provides for in
+working capital. The interest rate is at the Wall Street Journal prime rate plus and is adjusted daily. Principal and interest
+are payable upon demand, but if demand is not made, then annual payments of accrued interest only are due, with the principal balance
+due upon maturity . As of December 31, 2022 and 2021, the effective interest rate was and
+ , respectively. The LOC is collateralized by all the business assets of WFCFO. As of December 31, 2022 and 2021, there were amounts
+outstanding under this LOC. 
+
+Lease
+Obligations 
+
+We
+have operating and finance leases for corporate offices, other regional offices, and certain equipment. Our leases have remaining lease
+terms of year to years, some of which include multiple 
+
+Where
+ Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Finance lease cost 
+
+Amortization of assets 
+
+Interest on finance lease obligations 
+
+Variable lease cost 
+ - 
+ - 
+ 
+ Total net lease cost 
+
+Included
+in the table above, is approximately million for the years ended December 31, 2022 and 2021, of operating lease cost for our corporate
+headquarters. This space is being leased from The Move,
+LLC. Our CEO and President, each a related party to WFCF, have a jointly-held ownership interest in The Move, LLC. 
+
+Rent
+and lease expense for each of the years ended December 31, 2022 and 2021 was approximately million and million, respectively. 
+
+Current operating lease liabilities 
+
+Noncurrent operating lease liabilities 
+
+Total operating lease liabilities 
+
+Finance leases: 
+ December 31, 2022 
+ December 31, 2021 
+ 
+ Right of use asset, at cost 
+
+Accumulated amortization 
+
+Right of use asset, net 
+
+Current obligations of finance leases 
+
+Finance leases, net of current obligations 
+
+Total finance lease liabilities 
+
+Weighted average remaining lease term (in years): 
+
+Operating leases 
+
+Finance leases 
+
+Weighted average discount rate: 
+
+Operating leases 
+
+Finance leases 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Operating cash flows from finance leases 
+
+Financing cash flows from finance leases 
+
+Right of use assets obtained in exchange for lease liabilities: 
+
+Operating leases 
+
+2024 
+
+2025 
+
+2026 
+
+2027 
+
+Thereafter 
+ 
+ - 
+ 
+ Total lease payments 
+
+Less amount representing interest 
+
+Total lease obligations 
+
+Less current portion 
+
+Long-term lease obligations 
+
+Federal 
+
+State 
+
+Total current income tax expense 
+
+Deferred income tax benefit: 
+
+Federal 
+
+State 
+
+Total deferred income tax benefit 
+
+Total income tax expense 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+State tax provision, net 
+
+Permanent differences 
+
+Foreign 
+
+Stock options 
+
+PPP loan forgiveness 
+ - 
+
+Other, net 
+
+Total income tax expense 
+
+Stock based compensation 
+
+Property and equipment 
+
+Intangibles assets 
+
+Net deferred tax assets 
+
+million additional shares of our common stock from
+the open market Stock Buyback Plan ). 
+
+Shares purchased during 2021 
+
+Balance, December 31, 2021 
+
+Shares purchased during 2022 
+
+Balance, December 31, 2022 
+
+The
+repurchased shares are recorded as part of treasury stock and are accounted for under the cost method. 
+
+Our
+Stock Buyback Plan has been and will be used to return capital to shareholders and to minimize the dilutive impact of stock options and
+other share-based awards. In the future, we may consider additional share repurchases under our plan based on several factors, including
+our cash position, share price, operational liquidity, and planned investment and financing needs. 
+
+Where
+ Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Stock awards 
+
+Restricted stock awards 
+ - 
+
+Total 
+
+- 
+
+2024 
+ 
+ - 
+
+2025 
+ - 
+ - 
+ - 
+ 
+ 2026 
+ - 
+ - 
+ - 
+
+- 
+
+The
+Company estimated the fair value of stock options using the Black-Scholes-Merton option-pricing model with the following assumptions: 
+
+Risk-free interest rate 
+ N/A 
+
+Expected volatility 
+ N/A 
+
+Assumed dividend yield 
+ N/A 
+ N/A 
+ 
+ Expected life of options from the date of grant 
+ N/A 
+ years 
+
+Where
+ Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Equity
+Incentive Plans 
+
+Our
+2006 Equity Incentive Plan (the 2006 Plan and 2016 Equity Incentive Plan (the 2016 Plan, and together with
+the 2006 Plan, the Plans provide for the issuance of stock-based awards to employees, officers, directors and consultants.
+The Plans permit the granting of stock awards and stock options. The vesting of stock-based awards is generally subject to the passage
+of time and continued employment through the vesting period. 
+
+Our
+2006 Plan provided for the issuance of a maximum of million shares of our common stock. The 2006 Plan terminated in September 2016.
+As of December 31, 2022, the 2006 Plan had awards outstanding. 
+
+Our
+2016 Plan was ratified by our shareholders in May 2016 and provides for the issuance of a maximum of million shares of our common
+stock, of which million shares were still available for issuance as of December 31, 2022. 
+
+Stock
+Option Activity 
+
+The
+Company generally grants stock options to directors, eligible employees and officers as a part of its equity incentive plan. Restrictions
+and vesting periods for the stock option grants are set forth in the award agreements. A stock option grant represents an option to purchase
+a defined number of shares of the Company s common stock to be released from restrictions upon completion of the vesting period.
+The awards typically vest in equal increments over one to . Stock option activity during 2022 and 2021 is summarized as follows: 
+
+Granted 
+
+Exercised 
+
+Expired/Forfeited 
+
+- 
+
+Outstanding, December 31, 2021 
+
+Granted 
+ - 
+ - 
+ - 
+ - 
+
+Exercised 
+
+Expired/Forfeited 
+
+- 
+
+Outstanding, December 31, 2022 
+
+Exercisable, December 31, 2022 
+
+Unvested, December 31, 2022 
+
+The
+aggregate intrinsic value of stock options represents the total pre-tax intrinsic value (the aggregate difference between the closing
+stock price of our common stock on December 31, 2022 and the exercise price for in-the-money options) that would have been received by
+the option holders if all in-the-money options had been exercised on December 31, 2022. 
+
+During
+the year ended December 31, 2022, a total of options were forfeited, of which all were vested. The options were forfeited upon the
+employees termination from the Company. During the year ended December 31, 2021, a total of options were forfeited, 
+of which were unvested. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Stock
+Activity 
+
+The
+Company grants shares of stock to directors, eligible employees and officers as a part of its equity incentive plan. Any restrictions
+and vesting periods for the awards are set forth in the award agreements. Each share of stock represents one share of the Company s
+common stock. Shares of stock are valued at the closing price of the Company s common stock on the grant date and are recognized
+as selling, general and administrative expense over the vesting period of the award. 
+
+During
+2022, the Company awarded shares of the Company s common stock at a fair market value price of per share to an employee
+of the Company, with immediate vesting. The Company awarded shares of the Company s stock at a fair market value price of
+ to members of the board of directors, with immediate vesting. 
+
+During
+2021, the Company awarded shares of the Company s common stock at a fair market value price of per share to an employee
+of the Company, with immediate vesting. The Company awarded shares of the Company s stock at a fair market value price of
+ to members of the board of directors, with immediate vesting. 
+
+Diluted: 
+
+Weighted average shares outstanding 
+
+Weighted average effects of dilutive securities 
+
+Total 
+
+Antidilutive securities: 
+
+The
+effect of the inclusion of the antidilutive shares would have resulted in an increase in earnings per share. Accordingly, the weighted
+average shares outstanding have not been adjusted for antidilutive shares. 
+
+Where
+ Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+and , respectively, from related parties. The related parties
+consisted of a business owned by the father of Leann Saunders, our President, and businesses owned by members of our Board of Directors. 
+
+The
+Company leases its corporate headquarters from a company in which our CEO and President have a jointly-held ownership interest
+(Note 14). U nder the related party arrangement, a pproximately
+ million was paid in rent and CAM for our corporate headquarters was included in the consolidated statements of income for each of
+the years ended December 31, 2022 and 2021. 
+
+square feet of office space for its corporate headquarters. This space is being leased from The Move,
+LLC in which our CEO and President, each a related party to the Company, have a jointly-held ownership interest. The lease agreement
+has an initial term of five years plus two renewal periods, which the Company is more likely than not to renew. Total rental payments
+are approximately per month as of December 31, 2022. The rental payments include common area charges and are subject to annual
+increases over the term of the lease. 
+
+The
+Company has recorded leasehold improvements of approximately million, which included approximately million in lease incentives.
+Leasehold improvements are included in property and equipment on the consolidated balance sheets. Lease incentives have been included
+in calculating the lease liability recorded on the balance sheet. 
+
+In
+September 2017, the Company entered into a new lease agreement for our Urbandale, Iowa office space. The lease was for a period of and expired on August 31, 2019. This lease was extended twice (2) for additional years terms, with the current extension terminating
+on . Rental payments are approximately per month, which includes common area charges, and are not subject to annual
+increases over the term of the lease. 
+
+In
+December 2018, we entered into a new lease agreement in San Ramon, California for SureHarvest and JVF office space. The lease is for
+a period of sixty-six months and expires on . Rental payments are approximately per month as of December 31, 2022,
+which includes common area charges, and are subject to annual increases over the term of the lease. 
+
+In
+June 2021, the Company entered into a new lease agreement in Victoria, British Columbia, Canada for Postelsia office space. The lease
+is for a period of and expires on . Rental payments are approximately Canadian or US per month as
+of December 31, 2022, which includes common area charges, and are not subject to annual increases over the term of the lease. 
+
+In
+December 2021, the Company entered into a lease agreement for the Medina, North Dakota office space. The lease is for sixty-one months
+and expires on . Rental payments are approximately per month, which includes common area charges, and are not
+subject to annual increases over the term of the lease. 
+
+See
+Note 8 of our Consolidated Financial Statements for a detailed description of maturities of lease liabilities related to our leases. 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+Legal
+Proceedings 
+
+From
+time to time, we may become involved in various legal actions, administrative proceedings and claims in the ordinary course of business.
+We generally record losses for claims in excess of the limits of purchased insurance in earnings at the time and to the extent they are
+probable and estimable. 
+
+Employee
+Benefit Plan 
+
+The
+Company has established a 401(k) plan for the benefit of our employees. The plan covers substantially all of our employees who have attained
+age 21. We may make a discretionary matching contribution in an amount that is determined by our Board of Directors. If a matching contribution
+is made, the amount cannot exceed the elective deferral contributions. For each of the years ended December 31, 2022 and 2021, we made
+aggregate matching contributions of approximately million. 
+
+Non-cash investing and financing activities: 
+
+Equipment acquired under a finance lease 
+ 
+ - 
+
+Where
+Food Comes From, Inc. 
+
+ Notes
+to the Consolidated Financial Statements 
+
+- 
+
+- 
+
+All other assets, net 
+
+Total assets 
+
+Revenues: 
+
+Verification and certification service revenue 
+ 
+ - 
+ - 
+
+- 
+ - 
+
+Product sales 
+ 
+ - 
+ - 
+
+- 
+ - 
+
+Software and related consulting revenue 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+Total revenues 
+
+- 
+
+- 
+
+Costs of revenues: 
+
+Costs of verification and certification services 
+ 
+ - 
+ - 
+
+- 
+ - 
+
+Costs of products 
+ 
+ - 
+ - 
+
+- 
+ - 
+
+Costs of software and related consulting 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+Total costs of revenues 
+
+- 
+
+- 
+
+Gross profit 
+
+- 
+
+- 
+
+Depreciation amortization 
+
+- 
+
+- 
+
+Other operating expenses 
+
+- 
+
+- 
+
+Segment operating income/(loss) 
+
+- 
+
+- 
+
+Other items to reconcile segment operating income/(loss) to net income/(loss): 
+
+Other income/(loss) 
+
+- 
+
+- 
+
+Income tax benefit/(expense) 
+ - 
+ - 
+
+- 
+ - 
+
+Net income/(loss) 
+
+60 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Our
+Chief Executive Officer and Chief Financial Officer, after evaluating the effectiveness of the Company s disclosure controls
+and procedures (as defined in the Securities Exchange Act of 1934 (the Exchange Act Rules 13a-15(e) or 15d-15(e))
+as of the end of the period covered by this annual report, have concluded that our disclosure controls and procedures are effective based
+on their evaluation of these controls and procedures as required by paragraph (b) of the Exchange Act Rules 13a-15 or 15d-15. 
+
+Attestation
+Report of the Registered Public Accounting Firm 
+
+This
+annual report does not include an attestation report of the Company s independent registered public accounting firm regarding internal
+control over financial reporting. Management s report was not subject to attestation by the Company s independent registered
+public accounting firm pursuant to rules of the SEC that permit the Company to provide only management s report in this annual
+report. 
+
+Internal
+Control over Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f)
+of the Exchange Act. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements
+and can only provide reasonable assurance with respect to financial statement preparation. Also, projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate. 
+
+There
+have not been any changes in the Company s internal control over financial reporting (as such term is defined in Rule 13a-15(f)
+under the Exchange Act) during the most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect,
+the Company s internal control over financial reporting. 
+
+Management
+assessed the effectiveness of the Company s internal control over financial reporting as of December 31, 2022. In making this assessment,
+management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated
+Framework (2013). Based on this assessment, management has concluded that the Company s internal control over financial reporting
+was effective as of December 31, 2022. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+Not
+applicable. 
+
+61 
+
+PART
+III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Information
+relating to directors required by Item 10 will be included in our definitive proxy statement with respect to our 2023 Annual Meeting
+of Shareholders (the Proxy Statement ), which will be filed within 120 days after the close of the 2022 fiscal year, and
+is hereby incorporated by reference. 
+
+Information
+relating to compliance with Section 16(a) of the Exchange Act required by Item 10 will be included in our Proxy Statement, which will
+be filed within 120 days after the close of the 2022 fiscal year, and is hereby incorporated by reference. 
+
+Information
+regarding executive officers is included in Part I of this Annual Report on Form 10-K under the caption Information About our
+Executive Officers. 
+
+Our
+Board of Directors has adopted a code of business conduct and ethics (the Code of Conduct ), which is posted on our website
+at www.wherefoodcomesfrom.com. Our Code of Conduct applies to all employees, including our Chief Executive Officer, Chief Financial Officer
+and Controller. The Code of Conduct sets forth specific policies to guide the designated officers in their duties. We intend to satisfy
+the disclosure requirement under Item 5.05 of Form 8-K regarding any amendment to, or waiver from, a provision of the Code of Conduct
+by posting such information on our website, at the address and location specified above. 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+This
+information will be included in our Proxy Statement, which will be filed within 120 days after the close of the 2022 fiscal year, and
+is hereby incorporated by reference. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+This
+information will be included in our Proxy Statement, which will be filed within 120 days after the close of the 2022 fiscal year, and
+is hereby incorporated by reference. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+This
+information will be included in our Proxy Statement, which will be filed within 120 days after the close of the 2022 fiscal year, and
+is hereby incorporated by reference. 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+This
+information will be included in our Proxy Statement, which will be filed within 120 days after the close of the 2022 fiscal year, and
+is hereby incorporated by reference. 
+
+62 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+Exhibit
+ Number 
+ 
+ Document
+ Name 
+
+2.1 
+ 
+ Asset Purchase and Contribution Agreement, dated as of September 16, 2013, by and among Praedium Ventures, LLC; the Members of Praedium Ventures, LLC; Where Food Comes From, Inc. and Validus Verification Services LLC 
+ 
+ Incorporated
+ by reference from Registrant s Current Report on Form 8-K filed September 19, 2013 
+ 
+ 2.2 
+ 
+ Asset Purchase Agreement, dated as of December 28, 2016, by and among Where Food Comes From, Inc., SureHarvest Services, LLC, SureHarvest, Inc. and Jeff Dlott 
+ 
+ Incorporated
+ by reference from Registrant s Current Report on Form 8-K filed December 30, 2016 
+ 
+ 2.3 
+ 
+ Asset Purchase Agreement, dated as of May 16, 2018, between Where Food Comes From, Inc. and Sow Organic, LLC 
+ 
+ Incorporated
+ by reference from Registrant s Quarterly Report on Form 10-Q filed August 14, 2018 
+ 
+ 2.4 
+ 
+ Purchase Agreement, dated as of August 9, 2018, between Where Food Comes From, Inc. and Progressive Beef, LLC 
+ 
+ Incorporated
+ by reference from Registrant s Quarterly Report on Form 10-Q filed November 13, 2018 
+ 
+ 3.1 
+ 
+ Articles of Incorporation 
+ 
+ Incorporated
+ by reference from Registrant s Registration Statement on Form SB-2 filed April 28, 2006 
+ 
+ 3.2 
+ 
+ Articles of Amendment 
+ 
+ Incorporated
+ by reference from Registrant s Current Report on Form 8-K filed December 5, 2012 
+ 
+ 3.3 
+ 
+ By-laws of the Registrant 
+ 
+ Incorporated
+ by reference from Registrant s Registration Statement on Form SB-2 filed April 28, 2006 
+ 
+ 4.1 
+ 
+ Form of the Registrant s Common Stock Certificate 
+ 
+ Incorporated
+ by reference from Registrant s Registration Statement on Form SB-2 filed June 22, 2006 
+ 
+ 4.2 
+ 
+ Description of Registrant s Securities 
+ 
+ Incorporated
+by reference from Registrant s Annual Report on Form 10-K filed February 28, 2022 
+ 
+ 10.1 
+ 
+ 2006 Equity Incentive Plan 
+ 
+ Incorporated
+ by reference from Registrant s Registration Statement on Form SB-2 filed April 28, 2006 
+ 
+ 10.2 
+ 
+ 2016 Equity Incentive Plan 
+ 
+ Incorporated
+ by reference from Registrant s Current Report on Form 8-K filed May 10, 2016 
+ 
+ 10.3 
+ 
+ Employment Agreement dated January 1, 2006 between the Registrant and John K. Saunders 
+ 
+ Incorporated
+ by reference from Registrant s Registration Statement on Form SB-2 filed April 28, 2006 
+ 
+ 10.4 
+ 
+ Employment Agreement dated January 1, 2006 between the Registrant and Leann Saunders 
+ 
+ Incorporated
+ by reference from Registrant s Registration Statement on Form SB-2 filed April 28, 2006 
+ 
+ 10.5 
+ 
+ Purchase and Exchange Agreement, dated as of February 29, 2012, by and among Integrated Management Information, Inc. and International Certification Services, Inc. 
+ 
+ Incorporated
+ by reference from Registrant s Current Report on Form 8-K filed March 2, 2012 
+ 
+ 10.6 
+ 
+ Shareholders Agreement, dated as of February 29, 2012, by and among Integrated Management Information, Inc. and International Certification Services, Inc. and the selling shareholders. 
+ 
+ Incorporated
+ by reference from Registrant s Current Report on Form 8-K filed March 2, 2012 
+ 
+ 10.7 
+ 
+ Amended and Restated Operating Agreement of Validus Verification Services LLC, dated as of September 16, 2013 
+ 
+ Incorporated
+ by reference from Registrant s Current Report on Form 8-K filed September 19, 2013 
+ 
+ 10.8 
+ 
+ Lease Agreement between Move LLC and Where Food Comes From, Inc. 
+ 
+ Incorporated
+ by reference from Registrant s Annual Report on Form 10-K filed February 28, 2017 
+ 
+ 10.9 
+ 
+ First Amendment to Lease Agreement between Move LLC and Where Food Comes From, Inc. 
+ 
+ Incorporated
+ by reference from Registrant s Annual Report on Form 10-K filed April 2, 2018 
+
+63 
+
+10.10 
+ 
+ Employment Agreement, effective December 28, 2016, by and between SureHarvest Services, LLC and Jeff Dlott 
+ 
+ Incorporated
+ by reference from Registrant s Current Report on Form 8-K filed December 30, 2016 
+ 
+ 21.1 
+ 
+ Subsidiaries of the Registrant 
+ 
+ Filed herewith 
+ 
+ 23.1 
+ 
+ Consent of Causey Demgen Moore, P.C. 
+ 
+ Filed herewith 
+ 
+ 31.1 
+ 
+ Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ Filed herewith 
+ 
+ 31.2 
+ 
+ Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ Filed herewith 
+ 
+ 32.1 
+ 
+ Certification Pursuant to 18 U.S.C. Section 1350 as adopted by Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ Furnished herewith 
+ 
+ 32.2 
+ 
+ Certification Pursuant to 18 U.S.C. Section 1350 as adopted by Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ Furnished herewith 
+ 
+ 101 
+ 
+ The
+ following materials from the registrant s Annual Report on Form 10-K for the year ended December 31, 2021, formatted in Inline
+ XBRL (Extensible Business Reporting Language): (1) the Consolidated Balance Sheets, (2) the Consolidated Statements of Income, (3)
+ the Consolidated Statements of Cash Flows, (4) Consolidated Statements of Equity and (5) Notes to Consolidated Financial Statements. 
+
+104 
+ 
+ Cover
+ Page formatted in Inline XBRL and contained in Exhibit 101 
+
+Indicates a management contract or compensatory plan or arrangement in which directors or executive officers are eligible to participate. 
+
+ITEM 16. FORM 10-K SUMMARY 
+
+None. 
+
+64 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+Date:
+ February 23, 2023 
+ Where
+ Food Comes From, Inc. 
+
+By: 
+ /s/
+ John K. Saunders 
+
+Name: 
+ John
+ K. Saunders 
+
+Title: 
+ Chief
+ Executive Officer 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+Signatures 
+ 
+ Title 
+ 
+ Date 
+ 
+ /s/
+ John K. Saunders 
+
+Chairman
+ and CEO 
+
+February
+ 23, 2023 
+ 
+ John
+ K. Saunders 
+ 
+ (Principal
+ Executive Officer) 
+
+/s/
+ Leann Saunders 
+
+President
+ and Director 
+
+February
+ 23, 2023 
+ 
+ Leann
+ Saunders 
+
+/s/
+ Dannette Henning 
+
+Chief
+ Financial Officer 
+
+February
+ 23, 2023 
+ 
+ Dannette
+ Henning 
+ 
+ (Principal
+ Financial Officer) 
+
+/s/
+ Tom Heinen 
+
+Director 
+ 
+ February
+ 23, 2023 
+ 
+ Tom
+ Heinen 
+
+/s/
+ Pete Lapaseotes 
+
+Director 
+ 
+ February
+ 23, 2023 
+ 
+ Pete
+ Lapaseotes 
+
+/s/
+ Adam Larson 
+
+Director 
+ 
+ February
+ 23, 2023 
+ 
+ Adam
+ Larson 
+
+/s/
+ Graeme P. Rein 
+
+Director 
+ 
+ February
+ 23, 2023 
+ 
+ Graeme
+ P. Rein 
+
+/s/
+ Michael D. Smith 
+
+Director 
+ 
+ February
+ 23, 2023 
+ 
+ Michael
+ D. Smith 
+
+65 
+
+<EX-21.1>
+ 2
+ ex21-1.htm
+
+EXHIBIT
+21.1 
+
+Subsidiaries
+of the Registrant 
+
+Where
+Food Comes From Organic, Inc. 
+
+ Validus
+Verification Services LLC 
+
+ SureHarvest
+Services, LLC 
+
+ Postelsia
+Holdings, Ltd 
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ ex23-1.htm
+
+EXHIBIT
+23.1 
+
+CONSENT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We
+consent to the incorporation by reference in the Registration Statement on Form S-8 (No. 333-212061) of Where Food Comes From, Inc. of
+our report dated February 23, 2023 relating to the consolidated financial statements as of and for the years ended December 31, 2022
+and 2021 of Where Food Comes From, Inc., appearing in this Annual Report on Form 10-K for the years ended December 31, 2022 and 2021. 
+
+/s/
+ Causey Demgen Moore, P.C. 
+
+Denver,
+ Colorado 
+
+February
+ 23, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+I,
+John Saunders, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K of Where Food Comes From, Inc. 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+ evaluation; and 
+
+(d)
+ 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+(a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+(b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date: February 23, 2023 
+
+/s/
+ John Saunders 
+
+John Saunders, Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex31-2.htm
+
+EXHIBIT
+31.2 
+
+I,
+Dannette Henning, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K of Where Food Comes From, Inc. 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+(d)
+ 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+(a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+(b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+ February 23, 2023 
+
+/s/
+ Dannette Henning 
+
+Dannette
+ Henning, Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+Certification
+of Periodic Financial Report 
+
+ Pursuant
+to 18 U.S.C. Section 1350 
+
+For
+purposes of 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned, John Saunders
+the Chief Executive Officer of Where Food Comes From, Inc. (the Company ), hereby certifies that, to his knowledge: 
+
+(i)
+ 
+ the
+ Annual Report on Form 10-K of the Company for the year ended December 31, 2022, as filed with the Securities and Exchange Commission
+ on the date hereof (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange
+ Act of 1934; and 
+
+(ii) 
+ the
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Company. 
+
+Date:
+ February 23, 2023 
+
+/s/
+ John Saunders 
+
+John
+ Saunders, Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ ex32-2.htm
+
+EXHIBIT 32.2 
+
+Certification of Periodic Financial Report 
+
+ Pursuant to 18 U.S.C. Section 1350 
+
+For purposes of 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned, Dannette Henning, the Chief Financial Officer of Where Food
+Comes From, Inc. (the Company ), hereby certifies that, to her knowledge: 
+
+(i) 
+ the Annual Report on Form 10-K of the Company for the year ended December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(ii) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: February 23, 2023 
+
+/s/ Dannette Henning 
+
+Dannette Henning, Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ wfcf-20221231.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ wfcf-20221231_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ wfcf-20221231_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ wfcf-20221231_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

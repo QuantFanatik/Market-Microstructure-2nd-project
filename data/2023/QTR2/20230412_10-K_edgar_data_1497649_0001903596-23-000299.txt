@@ -1,0 +1,3271 @@
+<Header>
+<FileStats>
+    <FileName>20230412_10-K_edgar_data_1497649_0001903596-23-000299.txt</FileName>
+    <GrossFileSize>4154400</GrossFileSize>
+    <NetFileSize>104254</NetFileSize>
+    <NonText_DocumentType_Chars>706155</NonText_DocumentType_Chars>
+    <HTML_Chars>1549623</HTML_Chars>
+    <XBRL_Chars>706194</XBRL_Chars>
+    <XML_Chars>955592</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001903596-23-000299.hdr.sgml : 20230412
+<ACCEPTANCE-DATETIME>20230412142602
+ACCESSION NUMBER:		0001903596-23-000299
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		57
+CONFORMED PERIOD OF REPORT:	20220930
+FILED AS OF DATE:		20230412
+DATE AS OF CHANGE:		20230412
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Graphene & Solar Technologies Ltd
+		CENTRAL INDEX KEY:			0001497649
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				272888719
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-174194
+		FILM NUMBER:		23815383
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 NORTH CAMDEN DRIVE
+		STREET 2:		SUITE 600
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90212
+		BUSINESS PHONE:		(310) 887-1477
+
+	MAIL ADDRESS:	
+		STREET 1:		433 NORTH CAMDEN DRIVE
+		STREET 2:		SUITE 600
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90212
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Solar Quartz Technologies Corp
+		DATE OF NAME CHANGE:	20170929
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vanguard Energy Corp
+		DATE OF NAME CHANGE:	20100728
+
+</SEC-Header>
+</Header>
+
+ 0001903596-23-000299.txt : 20230412
+
+10-K
+ 1
+ gstx_10k.htm
+
+FORM
+
+SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+(Mark
+One) 
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended , 2022 
+
+OR 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission
+file number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction of incorporation or organization) 
+ 
+ (I.R.S.
+ Employer Identification No.) 
+
+, 
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number, including area code: 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None. 
+
+Title
+of Each Class. N/A 
+
+Trading
+Symbol. N/A 
+
+Name
+of Each Exchange as which registered. N/A 
+
+Securities
+registered pursuant to Section 12(g) of the Act: None. 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. 
+No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulations S-T (232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required
+to submit such filing). Yes 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, and/or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ Growth Company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act): Yes 
+
+The
+aggregate market value of the voting stock held by non-affiliates of the registrant on September 30, 2022 was approximately .00 
+
+As
+of April 12, 2023, the registrant had 
+ outstanding shares of common stock. 
+
+Documents
+Incorporated by Reference: 
+
+Table
+of Contents 
+
+Page 
+
+Part
+ I 
+ 
+ 4 
+
+Item
+ 1. 
+ Business. 
+ 
+ 4 
+
+Item
+ 1A. 
+ Risk
+ Factors. 
+ 
+ 7 
+
+Item
+ 1B. 
+ Unresolved
+ Staff Comments. 
+ 
+ 7 
+
+Item
+ 2. 
+ Properties. 
+ 
+ 7 
+
+Item
+ 3. 
+ Legal
+ Proceedings. 
+ 
+ 7 
+
+Part
+ II 
+ 
+ 8 
+
+Item
+ 5. 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 
+ 8 
+
+Item
+ 6. 
+ Selected
+ Financial Data. 
+ 
+ 9 
+
+Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 9 
+
+Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosures About Market Risk. 
+ 
+ 14 
+
+Item
+ 8. 
+ Financial
+ Statements and Supplementary Data. 
+ 
+ F-1 
+
+Item
+ 9. 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 
+ 15 
+
+Item
+ 9A. 
+ Controls
+ and Procedures. 
+ 
+ 15 
+
+Item
+ 9B. 
+ Other
+ Information. 
+ 
+ 16 
+
+Part
+ III 
+ 
+ 17 
+
+Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance. 
+ 
+ 17 
+
+Item
+ 11. 
+ Executive
+ Compensation. 
+ 
+ 21 
+
+Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 
+ 22 
+
+Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence. 
+ 
+ 24 
+
+Item
+ 14. 
+ Principal
+ Accountant Fees and Services. 
+ 
+ 24 
+
+Part
+ IV 
+ 
+ 25 
+
+Item
+ 15. 
+ Exhibits
+ and Financial Statements Schedules. 
+ 
+ 25 
+
+Signatures 
+ 
+ 26 
+
+FORWARD-LOOKING
+STATEMENTS 
+
+This
+report contains forward-looking statements. The Securities and Exchange Commission (the Commission encourages companies
+to disclose forward-looking information so that investors can better understand a company s future prospects and make informed
+investment decisions. This report and other written and oral statements that we make from time to time contain such forward-looking statements
+that set out anticipated results based on management s plans and assumptions regarding future events or performance. We have tried,
+wherever possible, to identify such statements by using words such as anticipate, estimate, expect, 
+ project, intend, plan, believe, will and similar expressions in
+connection with any discussion of future operating or financial performance. In particular, these include statements relating to future
+actions, future performance or results of current and anticipated sales efforts, expenses, the outcome of contingencies, such as legal
+proceedings, and financial results. 
+
+We
+caution that the factors described herein, and other factors could cause our actual results of operations and financial condition to
+differ materially from those expressed in any forward-looking statements we make and that investors should not place undue reliance on
+any such forward-looking statements. Further, any forward-looking statement speaks only as of the date on which such statement is made,
+and we undertake no obligation to update any forward-looking statement to reflect events or circumstances after the date on which such
+statement is made or to reflect the occurrence of anticipated or unanticipated events or circumstances. New factors emerge from time
+to time, and it is not possible for us to predict all of such factors. Further, we cannot assess the impact of each such factor on our
+results of operations or the extent to which any factor, or combination of factors, may cause actual results to differ materially from
+those contained in any forward-looking statements. 
+
+PART
+I 
+
+ITEM
+1. BUSINES S 
+
+Overview. 
+
+We
+are primarily focused on providing the materials and technologies for a greener future. GSTX has a portfolio of projects in the cleantech
+are with: 
+
+Patented
+ and novel technologies. 
+
+Proven
+ products with exclusive geographical distribution rights. 
+
+Ground-breaking
+ new innovations. 
+
+Mineral
+ resources that critical to the high-tech supply chain. 
+
+These
+investments focus on global opportunities, multi-billion-dollar industries, with a significant positive environmental impact. GSTX is
+focused on projects with exceptionally strong business opportunities, taking advantage of the environmental and supply chain challenges
+the world faces at present. GSTX is currently focused on supplying advanced materials to existing manufacturers and water harvesting
+products to market. 
+
+Advanced
+Materials 
+
+ A
+portfolio of proprietary technologies for upstream manufacturing material supply into high tech markets including solar, semiconductor,
+defence. 
+
+The
+ Dragonfly range of transparent conductive thin films. 
+
+High
+ purity quartz sand production. 
+
+High
+ purity graphite production. 
+
+Water
+Technologies 
+
+ A
+portfolio of products and technologies for providing clean drinkable water for consumers and industry. 
+
+Ambient
+ water harvesting equipment. 
+
+The
+ company is also exploring opportunities in water remediation, oils spill clean-up. 
+
+The
+Company is also exploring acquisition opportunities for Critical Resources Assets (Minerals with identified supply chain risk), zero
+emission fossil fuel replacement, green hydrogen, and ammonia production. 
+
+Operational
+Overview. 
+
+US
+Thin Films 
+
+US
+Thin-Film Corporation, a 100 owned subsidiary of GSTX holds a Patent Portfolio (IP) relating to the novel leading-edge production of
+conductive transparent thin films. The thin films are based on a conductive nanoparticle technology, an innovative conductive coating
+that self-assembles into a random mesh-like network pattern when coated, providing excellent electrical conductivity, high transparency,
+and flexibility. The Technology was founded and developed in Israel and has built up significant R D profile for over 15 years with
+more than USD 90 Million invested. The technology has won several international touchscreen technology awards. 
+
+Applications
+of the proprietary thin film in existing electronics applications outperforms current materials. Key applications include: Electromagnetic
+Interference (EMI) Shielding, Flexible Transparent Antennas (4G/5G communications), Transparent Heaters (windows, goggles, etc), Touch
+Displays (monitors, phones, tablets), Photovoltaic, OLED Lighting, Flexible Displays, Sensors, and numerous other electronic applications 
+
+The
+US Thin-Film technology is superior to traditional/existing technology with multiple times the electrical conductivity of conventional
+ITO based transparent conductive films with a simple manufacturing method protected by the company s patent portfolio. 
+
+The
+company is presently in discussions with several contract manufacturing groups to produce initial samples of its thin film technology,
+branded Dragonfly film, for product qualification and pre-sales activity purposes. 
+
+4 
+
+Water
+Harvesting 
+
+Water
+scarcity is at the center of the world s most significant challenges. The United Nations estimates approximately 30 of the world s
+population will face severe water shortages by 2025. Many people do not realise that the atmosphere, the air we breathe, contains a significant
+amount of water. Humidity is water in the air. Air can hold 1-2 ounces of water per cubic yard. At any one instant, the Earth s
+atmosphere contains 37.5 trillion gallons of water vapor enough to cover the entire surface of the planet with 1.5 inches of
+rain if condensed. 
+
+In
+parallel, massive population growth and urbanisation has led to an unprecedented demand for fresh water. Investment in infrastructure
+has been woefully inadequate, resulting in severe and critical water stress globally. 
+
+There
+are an estimated 13 trillion litres (3.4 trillion gal) of water floating in the atmosphere at any one time. There is 6 times as much
+fresh water in the air as in all rivers and lakes in the world. 
+
+The
+Company is continuing commercialization of a unique water harvesting technology utilizing modular, self-contained units that can be solar
+or grid powered, and deployed in urban and rural environments. The water harvesters will extract moisture from the ambient air and collect
+as 100 pure fresh water. Each domestic water harvester will be capable of generating 30-50 liters (8-13 gal) of pure fresh water per
+day for personal use, with commercial models collecting up to 50,000 liters (13,000 gal) per day. The 100 pure H20 extracted from the
+atmosphere is also suitable for industrial use in green hydrogen production and pharmaceutical, semiconductor processing plants. 
+
+A
+100 operational subsidiary has been established for the water harvesting products. It will trade as Adaquo, which is a Latin verb meaning
+to supply water. The company has engaged the services of two industry veterans (20+ years experience) to assist with commercialization
+of the technology. 
+
+Whilst
+still undertaking in house development of the company s proprietary solid-state technology, the company is also exploring opportunities
+to license and distribute existing products that have been market proven on an exclusive geographical basis. 
+
+Quartz
+Material. 
+
+The
+company has significant technical expertise and experience in the high purity quartz sector. Initially, the company focused upon acquiring
+resources and developing high purity silica (99.9 purity) into commercial grade high purity quartz sand (HPQS 99.997 purity). HPQS
+is essential for the production of semiconductors and photovoltaic solar panels. 
+
+Although
+the enterprise was successful in identifying substantial resources and valuable customers in Japan, China, South Korea, Taiwan and South-East
+Asia, the company was unable to secure funding to scale to meet demand for HPQS product, largely due to complications with the onset
+of Covid-19 in March 2020. The COVID Pandemic saw significant disruption to the global solar and semiconductor manufacturing sector.
+This had significant flow on effects to HPQS market. It is anticipated that by mid-2023 the sector will be substantially recovered to
+pre-covid levels of production and associated demand for raw materials. At present manufacturing levels of solar cells are showing strong
+growth and a swift recovery. 
+
+The
+company is presently re-engaging with past acquisition opportunities and customers in the HPQ sector. At present there is a significant
+production shortfall for the material and prices/volumes are showing strong growth. The company is continuing to pursue the development
+of an Australian based production facility. 
+
+Graphene
+Material. 
+
+Graphene,
+a new material, was discovered in 2004 by two UK based Russian university professors who were awarded the Nobel Prize in 2010 for their
+discovery. Graphene is a 2D material, (one atom thickness) made from graphite/carbon atoms, and whilst still largely unknown to the world
+is rapidly becoming a new industrial revolution in its own right with more than 8,800 patent applications for graphene and graphene enabled
+product applications having been filed recently. We have taken an early-stage leading-edge position in this evolving new technological
+field of graphene enabling and enhancement, specifically to focus upon development of graphene enabled photovoltaic solar panels. 
+
+5 
+
+Graphene
+is the world s thinnest and strongest material ever, with remarkable electrical, thermal, and optical properties being the most
+conductive material ever scientifically measured. A sheet of graphene material is only one single atom in thickness and is referred to
+as a 2D nano-material having almost no measurable depth, only length and width. Graphene is also highly transparent and can be easily
+flexed and stretched 25 of its size without breaking. However, it is also 200 times stronger than steel and harder than a diamond. Graphene
+material is completely impermeable, even a helium atom (the smallest) cannot pass through graphene. The advent of graphene and the introduction
+of the extraordinary benefits from combining graphene with existing materials and products. 
+
+Our
+main focus remains dedicated to our original premise of producing low cost, high grade, high purity graphene for industrial sales to
+existing materials groups. 
+
+Government
+Product Approvals. 
+
+There
+are no identified government approvals required for our products and no export restrictions for the products. 
+
+Effect
+of Existing or Probable Governmental Regulations on the Business. 
+
+Management
+believes that there are no identified existing or probable government regulations that will adversely impact our business. 
+
+Research
+and Development Activities. 
+
+The
+primary research and development during the next fiscal year will involve further development and evaluation of new efficient material
+processing techniques. The company plans to manufacture samples of its products for customer validation and presales activity purposes. 
+
+Additional
+research and development resources will be progressively committed to develop new graphene/silica (quartz) and thin film materials and
+applications to expand and diversify the company product offerings into complimentary high tech and clean tech storage markets. 
+
+Compliance
+with Environmental Laws. 
+
+Based
+upon our long-term experience, management believes that the nature of our proposed processing operations does not involve any onerous
+environmental compliance requirements. Compliance costs have been identified and quantified in the company plan of operations, business
+plan including financial plan. 
+
+Employees. 
+
+Certain
+members of our management team have been involved in this industry since 2005 and this has resulted in an experienced team of learned
+employees, advisors and technical experts in various locations and capacities within both Australia, Central Europe, and in the United
+States. It is planned to increase fulltime and part time employees/contractors from the present levels to a minimum of 30 within the
+next 12 months, subject to the company securing additional funding. 
+
+At
+the present time we rely upon experienced consultants with whom management has long-term relationships. 
+
+Executive
+Management and Technical Team. 
+
+Our
+executive management and technical team have largely co-worked together since 2005, and especially the last 5 years in Melbourne, Australia,
+China and the USA. All the specialized human resources are available to us. 
+
+6 
+
+ITEM
+1.A. RISK FACTORS. 
+
+Not
+applicable. 
+
+ITEM
+1.B. UNRESOLVED STAFF COMMENTS. 
+
+Not
+Applicable 
+
+ITEM
+2. PROPERTIES. 
+
+We
+own general office, lab and factory equipment with a net book value of 1,273 and 2,250 as of September 30, 2022 and 2021 respectively,
+net of depreciation. 
+
+We
+currently maintain a representative office at 23 Corporate Plaza Drive suite 150 Newport Beach, California 92660 (the Company pays monthly
+rent in the amount of 175 for this office). We also maintain a substantial office at 88 Lorimer Street, Docklands, Melbourne 3008, in
+the State of Victoria, Australia (the company pays monthly expense for use, equivalent to the amount of AUD 2,200 for this office, which
+it has occupied for the last seven years). These offices are currently adequate for our needs. These are month to month arrangements
+and therefore scoped out of ASC 842. 
+
+ITEM
+3. LEGAL PROCEEDINGS. 
+
+Not
+applicable 
+
+7 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Our
+common stock at September 30, 2022 trades in the OTC Markets OTC Pink Market under the symbol GSTX . Shown below is the
+range of high and low closing prices for our common stock for the periods indicated. The market quotations reflect inter-dealer prices,
+without retail mark-up, mark-down or commissions and may not necessarily represent actual transactions. 
+
+Quarter
+ Ended 
+ 
+ High 
+ 
+ Low 
+ 
+ September 30, 2020 
+
+0.20 
+
+0.14 
+
+December 31, 2020 
+
+1.61 
+
+1.26 
+
+March 31, 2021 
+
+1.07 
+
+0.95 
+
+June 30, 2021 
+
+0.32 
+
+0.28 
+
+September 30, 2021 
+
+0.68 
+
+0.55 
+
+December 31, 2021 
+
+0.68 
+
+0.60 
+
+March 31, 2022 
+
+0.29 
+
+0.28 
+
+June 30, 2022 
+
+0.20 
+
+0.20 
+
+September 30, 2022 
+
+0.16 
+
+0.16 
+
+Holders
+of our common stock are entitled to receive dividends as may be declared by the Board of Directors. Our Board of Directors is not restricted
+from paying any dividends but is not obligated to declare a dividend. No cash dividends have ever been declared and it is not anticipated
+that cash dividends will ever be paid. 
+
+Our
+Articles of Incorporation authorize our Board of Directors to issue up to 500,000,000 shares of common stock and up to 10,000,000 shares
+of preferred stock. The provisions in the Articles of Incorporation relating to the preferred stock allow our directors to issue preferred
+stock with multiple votes per share and dividend rights which would have priority over any dividends paid with respect to the holders
+of our common stock. The issuance of preferred stock with these rights may make the removal of management difficult even if the removal
+would be considered beneficial to shareholders, generally, and will have the effect of limiting shareholder participation in certain
+transactions such as mergers or tender offers if these transactions are not favored by our management. 
+
+As
+of September 30, 2022, we had approximately 393 shareholders of record . 
+
+We
+have not declared or paid any dividends on our common stock since our inception, and we do not anticipate declaring or paying any dividends
+on our common stock for the foreseeable future. We currently intend to retain any future earnings to finance future growth. Any future
+determination to pay dividends will be at the discretion of our board of directors and will depend on our financial condition, results
+of operations, capital requirements and other factors the board of directors considers relevant. 
+
+8 
+
+ITEM
+6. SELECTED FINANCIAL DATA. 
+
+Not
+applicable. 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The
+following discussion of our financial condition and results of operations should be read in conjunction with our financial statements
+and the related notes, and other financial information included in this Form 10-K. Our Management s Discussion and Analysis contains
+not only statements that are historical facts, but also statements that are forward-looking. Forward-looking statements can be by their
+very nature, uncertain and risky. Although the forward-looking statements in this Report reflect the good faith judgment of our
+management, such statements can only be based on facts and factors currently known by them. Consequently, and because forward-looking
+statements are inherently subject to risks and uncertainties, the actual results and outcomes may differ materially from the results
+and outcomes discussed in the forward-looking statements. You are urged to carefully review and consider the various disclosures made
+by us in this report as we attempt to advise interested parties of the risks and factors that may affect our business, financial condition,
+and results of operations and prospects. 
+
+Overview 
+
+In
+July 2017, the Company acquired Solar Quartz Technologies Limited, a New Zealand corporation with substantial mineral resource and technical
+engineering assets. 
+
+In
+September 2021, the Company through its 100 owned subsidiary, US Thin Film Corporation, acquired Specialty Material Group, Cayman Island
+corporation who holds a significant group of invention and processing patents in making Nanoparticle conductive thin film material for
+various industrial and technology applications. 
+
+We
+continue to seek new financing in the form of equity, debt, or a combination thereof to meet further development and general operating
+obligations. Achieving sufficient funds soon is of vital importance. The Company has managed to raise sufficient capital by sale of shares,
+but as of September 30, 2022, the Company has not been successful in raising sufficient funds to maintain primary operations. However,
+substantial efforts are underway to secure funding, and we believe that funding for the Company is imminent in the near future, although
+no assurance can be made as to the amount of funds, if any, or the terms thereof. 
+
+Current
+Business and Operation 
+
+The
+company has had a significant change of Management and the Board of Directors. Following the passing of Roger May (CEO) on 24 August
+2022, the company has appointed Dr. Andrew Liang as CEO and Roger s son, Jason May, as CTO. They are both based in Melbourne, Victoria.
+Rod Young, Michael Selsman and Juliana Tan have resigned as directors of the Company. Charles Wantrup and Jason May have been appointed
+as new Directors on 29 September 2022. 
+
+The
+company has a renewed focus and strategy to supply materials and technologies for the cleantech sector. This leverages the existing company
+operations and includes thin films, graphene, quartz, and water harvesting. The company is exploring acquisitions and partnerships in
+aligned areas of materials. 
+
+The
+Company is actively recruiting new members of the management team to assist with implementing its strategic plan. The company is re-engaging
+various opportunities that it was pursuing pre pandemic. 
+
+Currently,
+GSTX is primarily focused upon completing development and initial sample production of commercially viable products. The goal for the
+2023 FY is to begin generating revenue. 
+
+9 
+
+Results
+of Operations. 
+
+Years
+Ended September 30, 2022 and 2021 
+
+Years
+ Ended 
+
+September
+ 30, 
+
+2022 
+ 2021 
+ Changes
+ ) 
+ 
+ Operating expenses 
+ 15,021,841 
+ 34,679,444 
+ (19,657,603 
+ 
+ Other
+ Expense 
+ 5,997,535 
+ 135,500 
+ 5,862,035 
+ 
+ Net
+ Income (loss) 
+ (21,019,376 
+ (34,814,944 
+ (13,795,568 
+
+For
+the years ended September 30, 2022 and 2021, we generated no revenues, and thus no cost of sales or gross profits. 
+
+For
+the years ended September 30, 2022 and 2021, we incurred 14,883,889 and 34,679,444, respectively in operating expenses. The operating
+expense decreases are due primarily to reduced costs of contracting professional services in the development of markets, financing, legal
+fees, and other general and administrative expenses. 
+
+For
+the years ended September 30, 2022 and 2021, our other income (expenses) consisted of the following: 
+
+Years
+ Ended 
+
+September
+ 30, 
+
+2022 
+ 2021 
+ Changes
+ ) 
+ 
+ Other (Income) Expense: 
+
+Interest expense 
+ (35,262 
+ (151,203 
+ 115,941 
+ 
+ Rental income 
+ 24,982 
+ 15,703 
+ 9,279 
+ 
+ Impairment of assets 
+ (5,794,603 
+ 
+ (5,794,602 
+ 
+ Foreign currency transaction
+ gain 
+
+Change in fair value of derivative
+ liability 
+
+Loss on settlement of convertible
+ note 
+ (192,652 
+ 
+ (192,652 
+
+(5,997,535 
+ (135,500 
+ (5,862,035 
+
+For
+the year ended September 30, 2022, we reported a net loss before taxes of 20,969,221 compared to a net loss before taxes of 34,814,944
+for the year ended September 30, 2021. Since there were no tax obligations in either year, net loss in each year was the same as that
+reported before taxes. 
+
+Cash
+Flows 
+
+Years
+ Ended 
+
+September
+ 30, 
+
+2022 
+ 2021 
+ Changes
+ ) 
+ 
+ Cash Flows used
+ in Operating Activities 
+ (43,823 
+ (320,127 
+ 276,304 
+ 
+ Cash Flows Provided (Used)
+ by Investing Activities 
+ 
+ 2,858 
+ (2,858 
+ 
+ Cash
+ Flows provided by Financing Activities 
+ 46,921 
+ 271,098 
+ (224,177 
+ 
+ Effect
+ of exchange rate in cash 
+ (3,969 
+ 55,603 
+ (59,572 
+ 
+ Net
+ Change in Cash During Period 
+ (871 
+ 3,716 
+ (4,587 
+
+10 
+
+Cash
+Flow from Operating Activities 
+
+Cash
+flows used in operating activities was 44,031 in the year ended September 30, 2022, while for the year ended September 30, 2021, the
+Company expended 320,127. 
+
+The
+increase in the year ended September 30, 2022 was primarily due to an increase in accounts payable and accrued expenses, primarily for
+legal and consulting expenses and due to related parties. 
+
+Cash
+Flow from Investing Activities 
+
+Shareholder
+loans and some minimal funding activities were mainly significant in the year ended September 30, 2022 and 2021. 
+
+Cash
+Flow from Financing Activities 
+
+Cash
+from financing activities in the year ended September 30, 2022 contributed 46,921 from the sale of shares to unaffiliated investors.
+Cash from financing activities in the year ended September 30, 2021 contributed 271,098, 138,093 from the sales of shares to unaffiliated
+investors and 133,005 from proceeds of a convertible note payable. 
+
+Liquidity
+and Capital Resources. 
+
+Years
+Ended September 30, 2022 and 2021 . 
+
+September
+ 30, 2022 
+ September
+ 30, 2021 
+ Changes
+ ) 
+ 
+ Cash 
+ 2,857 
+ 3,728 
+ (871 
+ 
+ Working capital deficit 
+ (4,047,534 
+ (3,263,621 
+ (783,913 
+ 
+ Total assets 
+ 18,382 
+ 6,803,174 
+ (6,784,792 
+ 
+ Total liabilities 
+ (4,061,574 
+ (3,539,553 
+ (522,021 
+ 
+ Total stockholders 
+ deficit 
+ (4,043,192 
+ (3,263,621 
+ (779,571 
+
+As
+of September 30, 2022, we had total current liabilities of 4,061,574, while as of September 30, 2021 we had total current liabilities
+of 3,539,553, an increase of 522,021. The increase in current liabilities was primarily due to an increase in accounts payable and
+due to related party. 
+
+As
+of September 30, 2022, we had a working capital deficit of 4,002,218 compared to a working capital deficit of 4,047,534 as of September
+30, 2021. As of September 30, 2022, we had cash and cash equivalents of 2,857 and total assets of 18,382 compared to cash and cash
+equivalents of 3,728 and total assets of 6,803,174 as of September 30, 2021. 
+
+11 
+
+General
+Discussion . 
+
+Whereas
+management has been successful in the past in raising capital, there are no assurances that these sources of financing will continue
+to be available to us and/or that demand for our common stock will be sufficient to meet our capital needs, or that financing will be
+available on terms favorable to us. If funding is insufficient at any time in the future, we may not be able to take advantage of business
+opportunities or respond to competitive pressures or may be required to reduce the scope of our planned product development and marketing
+efforts, any of which could have a negative impact on its business and operating results. In addition, insufficient funding may have
+a material adverse effect on our financial condition, which could require it to: 
+
+seek
+ joint venture partners; 
+
+monetize
+ its assets; 
+
+seek
+ arrangements with strategic partners or other parties that may require the company to relinquish significant rights to products,
+ technologies or markets; or 
+
+explore
+ other strategic alternatives, including a merger or sale of our company. 
+
+Cease
+ current operations 
+
+To
+the extent that we raise additional capital through the sale of equity or convertible debt securities, the issuance of such securities
+may result in dilution to our existing stockholders. If additional funds are raised through the issuance of debt securities, these securities
+may have rights, preferences and privileges senior to holders of common stock and the terms of such debt could impose restrictions on
+our operations. Regardless of whether our cash assets prove to be inadequate to meet its operational needs, we may seek to compensate
+providers of services by issuance of stock in lieu of cash, which may also result in dilution to our existing stockholders. 
+
+Inflation. 
+
+The
+impact of inflation on our costs and the ability to pass on cost increases to its customers over time is dependent upon market conditions.
+We are not aware of any inflationary pressures that have had any significant impact on its operations over the past quarter and we do
+not anticipate that inflationary factors will have a significant impact on future operations. 
+
+Impact
+of the Inflation Reduction Act. 
+
+The
+Inflation Reduction Act of 2022 (the IRA was signed into law on August 16, 2022. Among other things, the IRA contained
+certain clean energy incentives and initiatives. The Company operates in sectors that management believe will benefit from these initiatives. 
+
+Going
+Concern and Management s Liquidity Plans. 
+
+As
+reflected in the consolidated financial statements, the Company had an accumulated deficit at September 30 2022, a net loss and net cash
+used in operating activities for the year then ended and has generated no revenues since inception. These factors raise substantial doubt
+about the Company s ability to continue as a going concern within one year from the issuance date of the consolidated financial
+statements. 
+
+The
+ability of the Company to continue its operations is dependent on management s plans, which include the raising of capital through
+debt and/or equity markets. The Company may need to incur additional liabilities with certain related parties to sustain the Company s
+existence until such time that funds provided by operations are sufficient to fund working capital requirements. There can be no assurance
+that the Company will be able to raise any additional capital. 
+
+The
+Company may also require additional funding to finance the growth of our anticipated future operations as well as to achieve its strategic
+objectives. There can be no assurance that financing will be available in amounts or terms acceptable to the Company, if at all. In that
+event, the Company would be required to change its growth strategy and seek funding on that basis, if at all. 
+
+12 
+
+The
+Company s plan regarding these matters is to raise additional debt and/or equity financing to allow the Company the ability to
+cover its current cash flow requirements and meet its obligations as they become due. There can be no assurances that financing will
+be available or if available, that such financing will be available under favorable terms. In the event that the Company is unable to
+generate adequate revenues to cover expenses and cannot obtain additional financing in the near future, the Company may seek protection
+under bankruptcy laws. The accompanying financial statements have been prepared on a going concern basis, which contemplates the realization
+of assets and the satisfaction of liabilities in the normal course of business. These financial statements do not include any adjustments
+relating to the recovery of the recorded assets or the classification of the liabilities that might be necessary. 
+
+Off-Balance
+Sheet Arrangements. 
+
+We
+do not maintain off-balance sheet arrangements, nor do we participate in non-exchange traded contracts requiring fair value accounting
+treatment. 
+
+Critical
+Accounting Policies and New Accounting Pronouncements. 
+
+The
+Securities and Exchange Commission SEC has issued Financial Reporting Release No. 60, Cautionary Advice Regarding Disclosure
+About Critical Accounting Policies, suggesting companies provide additional disclosure and commentary on their most critical
+accounting policies. In FRR 60, the Securities and Exchange Commission has defined the most critical accounting policies as the ones
+that are most important to the portrayal of a company s financial condition and operating results and require management to make
+its most difficult and subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain.
+Based on this definition, our most critical accounting policies are set forth below. The methods, estimates, and judgments the company
+uses in applying these most critical accounting policies have a significant impact on the results the company reports in its financial
+statements. 
+
+A
+summary of the significant accounting policies applied in the preparation of the accompanying financial statements follows: 
+
+Stock-Based
+Compensation We account for employee and non-employee stock-based compensation using the fair value method. The fair value
+attributable to stock options is calculated based on the Black-Scholes option pricing model and is amortized to expense over the service
+period which is equivalent to the time required to vest the stock options. 
+
+Income
+Taxes Income taxes are provided based on the liability method for financial reporting purposes. Under this method deferred
+tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and are measured using enacted tax rates expected to apply to taxable income in the
+years in which those temporary differences are expected to reverse. Valuation allowances are established when necessary to reduce deferred
+income tax assets to the amount expected to be realized. 
+
+Uncertain
+tax positions are recognized in the financial statements only if that position is more likely than not of being sustained upon examination
+by taxing authorities, based on the technical merits of the position. The Company recognizes interest and penalties related to uncertain
+tax positions in income tax expense. 
+
+We
+are required to file federal income tax returns in the United States and in various state and local jurisdictions. Our tax returns filed
+since inception are subject to examination by taxing authorities in the jurisdictions in which it operates in accordance with the normal
+statutes of limitations in the applicable jurisdiction. 
+
+Earnings
+Per Share Basic earnings per share have been calculated based upon the weighted-average number of common shares outstanding.
+Diluted earnings per share have been calculated based upon the weighted-average number of common and potential shares and is not presented
+when anti-dilutive. 
+
+Financial
+Instruments and Fair Value Measurements - As defined in ASC 820 Fair Value Measurements, fair value is the
+price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at
+the measurement date (exit price). The Company utilizes market data or assumptions that market participants would use in pricing the
+asset or liability, including assumptions about risk and the risks inherent in the inputs to the valuation technique. These inputs can
+be readily observable, market corroborated, or generally unobservable. The Company classifies fair value balances based on the observability
+of those inputs. ASC 820 establishes a fair value hierarchy that prioritizes the inputs used to measure fair value. The hierarchy gives
+the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (level 1 measurement) and the
+lowest priority to unobservable inputs (level 3 measurement). 
+
+13 
+
+The
+Company determines the level in the fair value hierarchy within which each fair value measurement falls in its entirety, based on the
+lowest level input that is significant to the fair value measurement in its entirety. In determining the appropriate levels, the Company
+performs an analysis of the assets and liabilities at each reporting period end. 
+
+The
+Company s financial instruments consist of cash, accounts receivable, accounts payable, accrued interest, and due to related parties.
+The carrying amounts of these financial instruments approximate fair value due to either length of maturity or interest rates that approximate
+prevailing rates unless otherwise disclosed in these financial statements. 
+
+Derivative
+Financial Instruments - The Company accounts for freestanding contracts that are settled in a company s own stock, including
+common stock warrants, to be designated as an equity instrument or generally as a liability. A contract so designated is carried at fair
+value on a company s balance sheet, with any changes in fair value recorded as a gain or loss in a company s results of operations. 
+
+The
+Company records all derivatives on the balance sheet at fair value, adjusted at the end of each reporting period to reflect any material
+changes in fair value, with any such changes classified as changes in derivatives valuation in the statement of operations. The calculation
+of the fair value of derivatives utilizes highly subjective and theoretical assumptions that can materially affect fair values from period
+to period. The recognition of these derivative amounts does not have any impact on cash flows. 
+
+At
+the date of the conversion of any convertible debt, the pro rata fair value of the related embedded derivative liability is transferred
+to additional paid-in capital. 
+
+The
+Company determines our derivative liabilities to be a Level 3 fair value measurement and uses the Binomial pricing model to calculate
+the fair value. There are no derivative liabilities as of September 30, 2022 and 2021. The Binomial model requires six basic data inputs:
+the exercise or strike price, time to expiration, the risk-free interest rate, the current stock price, the estimated volatility of the
+stock price in the future, and the dividend rate. Changes to these inputs could produce a significantly higher or lower fair value measurement.
+The fair value of each convertible note is estimated using the Binomial valuation model. 
+
+Recently
+Issued Accounting Pronouncements For discussion of recently issued accounting pronouncements, please see Note 2 to the consolidated
+financial statements included in this report. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Not
+applicable. 
+
+14 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+Page 
+
+Reports
+ of Independent Registered Public Accounting Firms 
+ 
+ F-1 
+
+Consolidated
+ Balance Sheets 
+ 
+ F-2 
+
+Consolidated
+ Statements of Operations and Comprehensive Loss 
+ 
+ F-3 
+
+Consolidated
+ Statements of Changes in Stockholders Deficit 
+ 
+ F-4 
+
+Consolidated
+ Statements of Cash Flows 
+ 
+ F-5 
+
+Notes
+ to the Consolidated Financial Statements 
+ 
+ F-6 
+
+15 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and 
+
+ Stockholders
+of Graphene Solar Technologies Limited 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Graphene Solar Technologies Limited (the Company) as of December 31,
+2022 and 2021, and the related consolidated statements of operations and comprehensive loss, stockholders deficit, and cash flows
+for each of the years in the two-year period ended December 31, 2022, and the related notes (collectively referred to as the financial
+statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of
+the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the years in the two-year
+period ended December 31, 2022, in conformity with accounting principles generally accepted in the United States of America. 
+
+Going
+Concern 
+
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 1 to the consolidated financial statements, the Company had a net loss from continuing operations, net cash used in operations,
+and a lack of revenues to-date, which raises substantial doubt about its ability to continue as a going concern. Management s plans
+regarding those matters are discussed in Note 1. The consolidated financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance
+with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.
+The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part
+of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing
+an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements.
+We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that
+was communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material
+to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication
+of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are
+not, by communicating the critical audit matter below, providing separate opinions on the critical audit matter or on the accounts or
+disclosures to which they relate. 
+
+ Going
+Concern 
+
+As
+discussed in Note 1 to the consolidated financial statements, the Company had a net loss from continuing operations, net cash used in
+operations, and a lack of revenues to-date. 
+
+Auditing
+management s evaluation of a going concern can be a significant judgement given the fact that the Company uses management estimates
+on future revenues and expenses which are not able to be substantiated. 
+
+To
+evaluate the appropriateness of the going concern, we examined and evaluated the financial information that was the initial cause along
+with management s plans to mitigate going concern and management s disclosure on going concern. 
+
+/s/
+
+M K
+CPAS, PLLC 
+
+We
+have served as the Company s auditor since 2020 
+
+Firm
+ID 
+
+April
+12, 2023 
+
+F- 1 
+
+GRAPHENE
+ SOLAR TECHNOLOGIES LIMITED 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+September
+ 30, 
+ September
+ 30, 
+
+2022 
+ 2021 
+ 
+ Assets 
+
+Current Assets: 
+
+Cash 
+
+Prepaid
+ expenses 
+
+Total Current Assets 
+
+Other Assets: 
+
+Furniture
+ and equipment, net of depreciation 
+
+Receivables 
+
+Intellectual
+ property at cost, net 
+
+Other
+ intangible assets at cost 
+
+Total
+ Assets 
+
+Liabilities
+ and Stockholders Deficit 
+
+Current Liabilities 
+
+Accounts
+ payable and other payable 
+
+Accrued
+ interest payable 
+
+Due to
+ related party 
+
+Notes
+ payable in default 
+
+Convertible
+ notes payable, net of discount 
+ and ,
+ and 100,747 in default 
+
+Other
+ loans and payables 
+
+Total
+ Current Liabilities 
+
+Total
+ Liabilities 
+
+Stockholders 
+ Deficit 
+
+Preferred stock: 
+ shares authorized; 
+ par value; shares issued and outstanding 
+
+Common stock: 
+ shares authorized; 
+ par value; 
+ and 
+ shares issued and outstanding 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Stock receivable 
+
+Accumulated
+ other comprehensive income 
+
+Total
+ Stockholders Deficit 
+
+Total
+ Liabilities and Stockholders Deficit 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 2 
+
+GRAPHENE
+ SOLAR TECHNOLOGIES LIMITED 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+
+Years
+ Ended 
+
+September
+ 30, 
+
+2022 
+ 2021 
+
+Revenue 
+
+Operating
+ Expenses: 
+
+Professional
+ fees 
+
+General
+ and administration 
+
+Total
+ operating expenses 
+
+Operating
+ Loss 
+
+Other Income
+ (Expense): 
+
+Interest
+ expense 
+
+Rental
+ income 
+
+Loss on
+ extinguishment of debt 
+
+Impairment
+ of assets 
+
+Total
+ Other Expense 
+
+Net
+ Loss 
+
+Other comprehensive
+ income (loss) 
+
+Foreign
+ currency translation adjustment 
+
+Comprehensive
+ Loss 
+
+Net
+ Loss available to common shareholders 
+
+Basic
+ and diluted loss per common share 
+
+Weighted average number of
+ common shares outstanding 
+
+Basic
+ and diluted 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 3 
+
+GRAPHENE
+ SOLAR TECHNOLOGIES LIMITED 
+
+ CONSOLIDATED
+STATEMENTS OF STOCKHOLDERS DEFICIT 
+
+Common
+ Stock 
+ Additional 
+ Stock 
+ Accumulated 
+ Accumulated
+ Comprehensive 
+ Stockholders 
+
+Shares 
+ Amount 
+ Paid-in 
+ Receivable 
+ Deficit 
+ Income 
+ Deficit 
+ 
+ Balance September
+ 30, 2020 
+
+Shares issued for cash 
+
+Stock-based compensation 
+
+Conversion of notes 
+
+Shares issued for acquisition
+ of intangible assets 
+
+Foreign currency translation
+ adjustment 
+
+Other comprehensive income,
+ net of tax 
+
+Balance September 30, 2021 
+
+Shares issued for cash 
+
+Stock-based compensation 
+
+Settlement of notes 
+
+Foreign currency translation
+ adjustment 
+
+Other
+ comprehensive income, net of tax 
+
+Balance
+ September 30, 2022 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 4 
+
+GRAPHENE
+ SOLAR TECHNOLOGIES LIMITED 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+Year
+ Ended 
+
+September
+ 30, 
+
+2022 
+ 2021 
+ 
+ Cash Flows
+ From Operating Activities: 
+
+Net
+ loss 
+
+Adjustments
+ to reconcile net loss to net cash used in operating activities: 
+
+Share-based
+ payments 
+
+Loss
+ on Settlement of Debt 
+
+Amortization
+ expenses 
+
+Depreciation
+ expenses 
+
+Amortization
+ of debt discounts 
+
+Accounts
+ payable related party 
+
+Impairment of assets 
+
+Changes
+ in operating assets and liabilities: 
+
+Prepaid
+ expenses 
+
+Other
+ receivable 
+
+Accounts
+ payable 
+
+Accrued
+ interest payable 
+
+Due
+ to related party 
+
+Net
+ Cash Used in Operating Activities 
+
+Cash Flows
+ From Investing Activities: 
+
+Payments for property, plant
+ and equipment 
+
+Payments
+ for intangibles 
+
+Net Cash
+ Used in Investing Activities 
+
+Cash Flows
+ From Financing Activities: 
+
+Proceeds
+ from common stock issuances 
+
+Proceeds
+ from other loans 
+
+Proceeds
+ from notes payable 
+
+Net
+ Cash Provided by Financing Activities 
+
+Effect
+ of exchange rate in cash 
+
+Net Change
+ in Cash 
+
+Cash at Beginning of Period 
+
+Cash
+ at End of Period 
+
+Supplemental
+ Cash Flow Information: 
+
+Cash
+ paid for interest 
+
+Cash
+ paid for taxes 
+
+Supplemental
+ disclosure of non-cash financing activity: 
+
+Acquisition of patents 
+
+Note
+ payable converted into common stock 
+
+Debt
+ discount on convertible notes 
+
+Settlement
+ of Debt for common stock 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 5 
+
+GRAPHENE
+ SOLAR TECHNOLOGIES LIMITED 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ AS
+OF SEPTEMBER 30, 2022 AND 2021 
+
+, Graphene Solar
+Technologies Limited Graphene or the Company ), was incorporated in Colorado as Vanguard Energy Corporation Vanguard ). On July 5, 2017, Vanguard changed its name to Solar Quartz Technologies Corporation. On September 18, 2018,
+the name was again changed to Graphene Solar Technologies Limited GSTX ). 
+
+Business
+Operations 
+
+We
+are primarily focused on providing the materials and technologies for a greener future. GSTX has a portfolio of projects in the cleantech
+are with: 
+
+Patented
+ and novel technologies. 
+
+Proven
+ products with exclusive geographical distribution rights. 
+
+Ground-breaking
+ new innovations. 
+
+Mineral
+ resources that critical to the high-tech supply chain. 
+
+These
+investments focus on global opportunities, multibillion-dollar industries, with a significant positive environmental impact. GSTX is
+focused on projects with exceptionally strong business opportunities, taking advantage of the environmental and supply chain challenges
+the world faces at present. GSTX is currently focused on supplying advanced materials to existing manufacturers and water harvesting
+products to market. 
+
+Advanced
+Materials 
+
+ A
+portfolio of proprietary technologies for upstream manufacturing material supply into high tech markets including solar, semiconductor,
+defence. 
+
+The
+ Dragonfly range of transparent conductive thin films. 
+
+High
+ purity quartz sand production. 
+
+High
+ purity graphite production. 
+
+Water
+Technologies 
+
+ A
+portfolio of products and technologies for providing clean drinkable water for consumers and industry. 
+
+Ambient
+ water harvesting equipment. 
+
+The
+ company is also exploring opportunities in water remediation, oils spill clean-up. 
+
+The
+Company is also exploring acquisition opportunities for Critical Resources Assets (Minerals with identified supply chain risk), zero
+emission fossil fuel replacement, green hydrogen and ammonia production. 
+
+The
+Company s activities are subject to significant risks and uncertainties, including the need for additional capital, as described
+below. The Company has not yet commenced any revenue-generating operations, does not have positive cash flows from operations, and is
+dependent on periodic infusions of equity capital to fund its operating requirements. 
+
+The
+Company s common stock is traded on the Over-the-Counter Market under the symbol GSTX. 
+
+Going
+Concern 
+
+The
+Company s consolidated financial statements have been presented on the basis that it is a going concern, which contemplates the
+realization of assets and satisfaction of liabilities in the normal course of business. The Company has not generated any revenues from
+operations to date and does not expect to do so in the foreseeable future. The Company has a stockholders deficit as of September
+30, 2022. Furthermore, the Company has experienced recurring operating losses and negative operating cash flows since inception and has
+financed its working capital requirements during this period primarily through the recurring sale of its equity securities. 
+
+As
+a result, management has concluded that there is substantial doubt about the Company s ability to continue as a going concern within
+one year of the date that the consolidated financial statements are being issued. In addition, the Company s independent registered
+public accounting firm, in their report on the Company s consolidated financial statements for the year ended September 30, 2022,
+has also expressed substantial doubt about the Company s ability to continue as a going concern. 
+
+The
+Company s plan regarding these matters is to raise additional debt and/or equity financing to allow the Company the ability to
+cover its current cash flow requirements and meet its obligations as they become due. There can be no assurances that financing will
+be available or if available, that such financing will be available under favorable terms. In the event that the Company is unable to
+generate adequate revenues to cover expenses and cannot obtain additional financing in the near future, the Company may seek protection
+under bankruptcy laws. The accompanying financial statements have been prepared on a going concern basis, which contemplates the realization
+of assets and the satisfaction of liabilities in the normal course of business. These financial statements do not include any adjustments
+relating to the recovery of the recorded assets or the classification of the liabilities that might be necessary. 
+
+The
+spread of a novel strain of coronavirus (COVID-19) around the world from the first half of 2020 has caused significant volatility in
+U.S. and international markets. There is significant uncertainty around the breadth and duration of business disruptions relate to COVlD-19,
+as well as its impact on the U.S. and international economies. The outbreak and any preventative or protective actions that governments
+or we may take in respect of this COVID-19 may result in a period of business disruption. Any financial impact cannot be reasonably estimated
+at this time but may materially affect our future business and financial condition. The extent to which COVID-19 impacts our results
+will depend on future developments, which are highly uncertain and cannot be predicted, including new information which may emerge concerning
+the severity of the COVID-19 and the actions required to contain the COVID-19 or treat its impact, among others. 
+
+The
+Company s ability to continue as a going concern is dependent upon its ability to raise additional equity capital to fund its activities
+and to ultimately achieve sustainable operating revenues and profits. The Company s consolidated financial statements do not include
+any adjustments that might result from the outcome of these uncertainties. 
+
+Because
+the Company is currently engaged in an early stage of development, it may take a considerable amount of time to develop any product or
+intellectual property capable of generating sustainable revenues. Accordingly, the Company s business is unlikely to generate any
+sustainable operating revenues in the next several years. In addition, to the extent that the Company is able to generate revenues through
+product sales, there can be no assurance that the Company will be able to achieve positive earnings and operating cash flows. 
+
+At
+September 30, 2022, the Company had cash of 
+ available to fund its operations. The Company
+needs to raise additional capital during the year ending September 30, 2023 to fund its ongoing business activities. 
+
+The
+amount and timing of future cash requirements during the year ended September 30, 2023 will depend on the extent of financing the Company
+is able to arrange. As market conditions present uncertainty as to the Company s ability to secure additional funds, there can
+be no assurances that the Company will be able to secure additional financing on acceptable terms, or at all, as and when necessary to
+continue to conduct operations. If cash resources are insufficient to satisfy the Company s ongoing cash requirements, the Company
+would be required to scale back or discontinue its technology and product development programs, or obtain funds, if available (although
+there can be no certainty), through strategic alliances that may require the Company to relinquish rights to certain of its assets, or
+to discontinue its operations entirely. 
+
+Intangible
+Assets 
+
+We
+capitalize external costs, such as filing fees and associated attorney fees, incurred to obtain issued patents and patent license rights.
+We expense costs associated with maintaining and defending patents subsequent to their issuance in the period incurred. We amortize capitalized
+patent costs for internally generated patents on a straight-line basis for 7 years, which represents the estimated useful lives
+of the patents. The seven-year estimated useful life for internally generated patents is based on our assessment of such factors
+as: the integrated nature of the portfolios being licensed, the overall makeup of the portfolio over time, and the length of license
+agreements for such patents. The estimated useful lives of acquired patents and patent rights, however, have been and will continue to
+be based on a separate analysis related to each acquisition and may differ from the estimated useful lives of internally generated patents.
+The average estimated useful life of acquired patents is 6.7 years. We assess the potential impairment to all capitalized net
+patent costs when events or changes in circumstances indicate that the carrying amount of our patent portfolio may not be recoverable. 
+
+Assumed
+Liabilities 
+
+As
+a result of the acquisition of Cima Specialty Materials Ltd (CSML) from CIMA Nanotech Holdings Limited, CNHL , (a Cayman
+Island Registered company) the Company s wholly owned subsidiary US Thin Film Corporation (USTFC) under the terms of the of the
+Share Sale and Purchase agreement the Company issued 3,000,000 shares of common stock for future liability settlement for assumed liabilities.
+The fair value of these future assumed liabilities of 
+ was recorded as a stock receivable. 
+
+Revenue
+recognition Policies (ASC 606) 
+
+The
+Company recognizes revenue on arrangements in accordance with ASC 606, Revenue from Contracts with Customers ASC 606 ).
+The core principle of ASC 606 is to recognize revenues when promised goods or services are transferred to customers in an amount that
+reflects the consideration to which an entity expects to be entitled for those goods or services ASC 606 requires companies to assess
+their contracts to determine the timing and amount of revenue to recognize under the new revenue standard. The model has a five-step
+approach: 
+
+1. Identify
+the contract with the customer. 
+
+ 2. Identify
+the performance obligations in the contract. 
+
+ 3. Determine
+the total transaction price. 
+
+ 4. Allocate
+the total transaction price to each performance obligation in the contract. 
+
+ 5. Recognize
+as revenue when (or as) each performance obligation is satisfied. 
+
+Disclosure
+of Rental Income 
+
+Rental
+income is not recognized as operating revenue but as other income during the period of 24,982. 
+
+and 
+ in cash, respectively, and no cash equivalents. 
+
+On
+December 22, 2017, the Tax Reform Act was signed into law. The Tax Reform Act is effective for tax years beginning on or after January
+1, 2018, except for certain provisions, and resulted in significant changes to existing United States tax law, including various provisions
+that are expected to impact the Company. Among other provisions, the Tax Reform Act reduced the federal corporate tax rate from 35 to
+21 effective January 1, 2018. The Company completed the accounting for the effects of the Tax Reform Act during the year ended September
+30, 2020. Given that current deferred tax assets are offset by a full valuation allowance, these changes will have no impact on the balance
+sheet. 
+
+The
+Company is currently delinquent with respect to certain of its U.S. federal and state income tax filings. 
+
+shares of the Company s common stock to
+members of the Board of Directors, employees, and consultants. The fair value of the shares, as determined by reference to the closing
+price of the Company s common stock on each respective grant date, aggregated 13,207,981. 
+
+During
+the year ended September 30, 2021, the Company issued 
+ shares of the Company s common stock to
+members of the Board of Directors, employees, and consultants. The fair value of the shares, as determined by reference to the closing
+price of the Company s common stock on each respective grant date, aggregated 6,293,499. 
+
+Total
+stock-based compensation expense was 
+ and 
+ for the years ended September 30, 2022 and 2021,
+respectively. 
+
+Average AUD: USD exchange
+ rate 
+
+Computers 
+
+Furniture
+ and fixtures 
+
+Less
+ accumulated depreciation 
+
+Net
+ property and equipment 
+
+Depreciation
+expense for the years ended September 30, 2022 and 2021 was 
+ and ,
+respectively. 
+
+Accumulated
+ amortization 
+
+Impairment
+ Expense 
+
+Total
+ patent costs, net 
+
+During
+the years ended September 3, 2022, and 2021, the Company recorded amortization expenses related to patents of and
+ ,
+respectively. 
+
+In
+September 2021, the Company through its 100 owned subsidiary, US Thin Film Corporation, acquired Cima Specialty Material Limited, a
+Cayman Island corporation who holds a significant group of invention and processing patents in making Nanoparticle conductive thin film
+material for various industrial and technology applications. The patent portfolio was purchased from Cima Nanotech Holding Limited, the
+parent company of Specialty Material, and was paid with 31 million shares of GSTX common stock for the purchase. Subsequently the management
+and the auditors evaluated this intangible asset by considering its useful life, future economic benefit, and amortization, decided a
+value of US 6.5 million entered the book and reported in the 10K filing 2021. The delayed commercialization process for the past year
+prompted the management to examine the short-term revenue generating prospect of this intangible assets and to consider and accept the
+recommendation of our auditors for a total impairment of the patents. 
+
+Convertible notes payable 
+
+Notes
+Payable and Other Loans 
+
+During
+2015 and 2016, the Company executed promissory notes payable with six individuals with an aggregate principal balance of .
+The notes were due on demand and included interest at 10 . As of September 30, 2022 and 2021, the total promissory notes payable balance
+was 
+ and ,
+including accrued interest of 
+ and ,
+respectively. On January 15, 2019, the holder of a note with a principal balance of 10,000 made demand for payment. To date, the note
+has not been paid. 
+
+Convertible
+Notes Payable 
+
+On
+June 29, 2012, the Company issued convertible secured notes payable totaling 8,254,500 to a group of private investors. The notes matured
+on June 30, 2015. The notes, with interest at 15 , were convertible at the discretion of the holders, into common shares of the Company
+at the rate of 3.31 per share. Unable to make a required interest payment on March 31, 2014, the notes became due on demand. Effective
+June 17, 2014, with the noteholder approval, the assets securing the convertible notes were sold with the net proceeds of approximately
+ 5,200,000 being distributed to the noteholders. Noteholders were to receive payment for the remaining balance due on the notes in the
+form of an exchange for the common stock of the Company at the rate of 3.31 per share. As of September 30, 2022 and 2021, noteholders
+representing 70,747 in outstanding principal had not requested the exchange of shares of common stock. As of September 30, 2022 and
+2021, the exchange obligation payable was 
+ and ,
+including accrued interest of 
+ and ,
+respectively. As of September 30, 2022 and 2021, the exchange obligation was for 
+ shares and 
+ shares of common stock, respectively. 
+
+On
+February 1, 2016, the Company issued convertible secured note payable of 30,000 to an individual. The note was due on January 31, 2017
+and included interest at 10 . The note was convertible at discretion of the holder into common shares of the Company at the rate of 0.50
+per shares. The Company has not extended the maturity date and the note is in default. As of September 30, 2022 and 2021, the total convertible
+note payable balance was 
+ and ,
+including accrued interest of 1 
+ and ,
+respectively. As of September 30, 2022 and 2021, the exchange obligation was for 
+ shares and 
+ shares of common stock, respectively. 
+
+On
+December 5, 2019, the Company issued a convertible note payable in the amount of 68,220. The convertible note bore interest at 10 and
+matured on December 5, 2021. The conversion option could be exercised by lender at any time during the 24-month period ended December
+5, 2021. The noteholder agreed on September 3, 2022 to settle the debt and accrued interest through a share settlement agreement for
+one-million shares at 0.2750. 
+
+Common
+Stock 
+
+The
+Company is authorized to issue up to 
+ shares of common stock (par value 0.00001).
+As of September 30, 2022 and 2021, the Company had 
+ shares and 
+ shares of common stock issued and outstanding,
+respectively. 
+
+During
+the year ended September 30, 2022, the Company issued 31,068,111 shares of common stock as follows: 
+
+28,868,111
+ shares of the Company s common stock to members of the Board of Directors, employees and consultants valued at 13,207,981
+ 0.46 per share average). 
+
+1,000,000
+ shares of the Company s common stock at 0.10 per share for a purchase price of 100,000. 
+
+200,000
+ shares of the Company s common stock at 0.22 per share for a purchase price of 21,921 (AUD 30,000). 
+
+1,000,000
+ shares issued to settle debt on convertible note that matured on December 5, 2021. 
+
+During
+the year ended September 30, 2021, the Company issued 
+ shares of common stock as follows: 
+
+12,888,596
+ shares of the Company s common stock to members of the Board of Directors, employees and consultants valued at 6,293,500 0.49
+ per share). 
+
+1,900,000
+ shares of the Company s common stock at an average price of 0.073 per share for an aggregate purchase price of 138,093. 
+
+534,446
+ shares of the Company s common stock for the conversion of debt totaling 204,010. 
+
+50,000,000
+ shares of the Company s common stock to EKH International Co. Limited a beneficial entity of Rodney Young valued at 0.55 per
+ share. 
+
+28,665,604
+ shares of the Company s common stock for the acquisition of intangible assets valued at 6,879,745 
+
+3,000,000
+ shares of the Company s common stock for the future liability settlement for assumed liabilities fair value of 720,000 recorded
+ as stock receivable. 
+
+During
+the year ended September 30, 2022, the Company borrowed 
+ from PGRNZ Limited and repaid . 
+
+The
+Company s Chief Executive Officer, and a Company Director, provides office facilities to the Company for which the Company was
+charged 6,000(AUD) monthly, approximately 4,276 (US). During the years ended September 30, 2022 and 2021, the Company incurred charges
+to operations of 51,307 (US) and 54,000 (US), respectively, with respect to this arrangement. 
+
+During
+the year ended September 30, 2020 a Company Advisor, A. Liang, now CEO, loaned the Company .
+The loan is a demand note at zero interest. 
+
+During
+the year ended September 30, 2020 the former Company Chairman, FJ.Garafalo loaned the company .
+The loan is a demand note on zero interest. 
+
+As
+of September 30, 2022 and 2021, due to related parties was 
+ and ,
+respectively. 
+
+Due
+from related party 
+
+During
+September 2021, the Company approved and issued 50,000,000 shares to Rod Young who became a related party subsequent to this reporting
+period. The shares were fully expensed during the period. 
+
+Stock-Based
+Compensation 
+
+During
+the years ended September 30, 2022 and 2021, stock-based compensation expense relating to directors, officers, affiliates and related
+parties was 
+ and ,
+respectively (Note 5). 
+
+,
+however the stock-based compensation and the debt discount amortization of 
+ and 
+ respectively are not used in the calculations
+below. 
+
+For
+the years ended September 30, 2022 and 2021, the local United States of America and foreign components of loss before
+income taxes were comprised of the following: 
+
+- Foreign 
+
+Loss
+ before income taxes 
+
+United
+States of America 
+
+Graphene
+ Solar Technologies Limited is subject to the tax laws of United States of America. 
+
+The
+income tax provision for the years ended September 30, 2022 and 2021, consists of the following: 
+
+Effective
+ tax rate 
+
+Income tax expense (benefit) 
+
+Less:
+ valuation allowance 
+
+Income
+ tax expense (benefit) 
+
+Net
+deferred tax assets consist of the following components as of September 30, 2022 and 2021: 
+
+Valuation allowance 
+
+() 
+
+() 
+ 
+ Net deferred tax asset 
+
+On
+December 22, 2017, the United States enacted the Tax Cuts and Jobs Act (the Act resulting in significant modifications
+to existing law including lowering the corporate tax rate from 34 to 21 . In addition to applying the new lower corporate tax rate in
+2018 and thereafter to any taxable income we may have, the legislation affects the way we can use and carry forward net operating losses
+previously accumulated and results in a revaluation of deferred tax assets and liabilities recorded on our balance sheet. The Company
+has completed the accounting for the effects of the Act during the year ended September 30, 2022. Given that current deferred tax assets
+are offset by a full valuation allowance, these changes will have no impact on the balance sheet. 
+
+At
+September 30, 2022 and 2021, the Company had 
+ and 
+ respectively of the U.S. net operating losses
+(the U.S. NOLs ), which begin to expire beginning in 2039. NOLs generated in tax years prior to July 31, 2018, can be carryforward
+for twenty years, whereas NOLs generated after July 31, 2018 can be carryforward indefinitely. 
+
+New
+Zealand 
+
+The
+Company s subsidiary operating in New Zealand NZ are subject to the New Zealand Corporate Income Tax at a standard
+income tax rate range of 28 on the assessable income arising in New Zealand during its tax year. The reconciliation of income tax rate
+to the effective income tax rate for the years ended September 30, 2022 and 2021 is as follows: 
+
+Effective
+ tax rate 
+
+Income tax expense (benefit) 
+
+Less:
+ valuation allowance 
+
+Income
+ tax expense (benefit) 
+
+Net
+deferred tax assets consist of the following components as of September 30, 2022 and September 30, 2021: 
+
+Valuation
+ allowance 
+
+Net
+ deferred tax asset 
+
+As
+of September 30, 2022, the operations in New Zealand incurred 515,793 of cumulative net operating losses which can be carried forward
+to offset future taxable income. The Company has provided for a full valuation allowance against the deferred tax assets of 1,422,579
+on the expected future tax benefits from the net operating loss carryforwards as the management believes it is more likely than not that
+these assets will not be realized in the future. 
+
+The
+following table sets forth the significant components of the aggregate deferred tax assets of the Company as of September 30, 2022 and
+2021: 
+
+New
+ Zealand 
+
+Total 
+
+Valuation
+ allowance 
+
+Net
+ deferred tax asset 
+
+F- 19 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+There
+are no changes in nor disagreements with accountants on accounting and financial disclosure. Effective for May 7, 2020, the firm of M K
+CPAS PLLC was engaged to serve as the new principal accountant to audit our financial statements. The decision to retain this accountant
+for the years ended Sept 30, 2022 and 2021 was approved by our board of directors. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES. 
+
+An
+evaluation was carried out under the supervision and with the participation of our management, including our Principal Executive and
+Interim Financial Officer, of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this
+report on Form 10-K. Disclosure controls and procedures are procedures designed with the objective of ensuring that information required
+to be disclosed in our reports filed under the Securities Exchange Act of 1934, such as this Form 10-K, is recorded, processed, summarized
+and reported, within the time period specified in the Securities and Exchange Commission s rules and forms, and that such information
+is accumulated and is communicated to our management, including our Principal Executive [and Financial Officer], or persons performing
+similar functions, as appropriate, to allow timely decisions regarding required disclosure. Based on that evaluation, our management
+concluded that, as of September 30, 2022, our disclosure controls and procedures were not effective. 
+
+Management
+conducted an evaluation of the effectiveness of our internal control over financial reporting as of September 30, 2022, based on the
+framework established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission
+in 2013 COSO ). 
+
+As
+of period covered by this Annual Report on Form 10-K, we have concluded that our internal control over financial reporting was ineffective.
+The Company s assessment identified certain material weaknesses which are set forth below: 
+
+Functional
+Controls and Segregation of Duties 
+
+Because
+of the Company s limited resources, there are limited controls over information processing. 
+
+There
+is an inadequate segregation of duties consistent with control objectives. Our Company s management is composed of a small number
+of individuals resulting in a situation where limitations on segregation of duties exist. In order to remedy this situation, we would
+need to hire additional staff to provide greater segregation of duties. Currently, it is not feasible to hire additional staff to obtain
+optimal segregation of duties. Management will reassess this matter in the following year to determine whether improvement in segregation
+of duty is feasible. 
+
+Accordingly,
+as the result of identifying the above material weakness we have concluded that these control deficiencies resulted in a reasonable possibility
+that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis by the
+Company s internal controls. 
+
+15 
+
+Management s
+Report on Internal Control over Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting and for the assessment
+of the effectiveness of internal control over financial reporting. As defined by the Securities and Exchange Commission, internal control
+over financial reporting is a process designed by, or under the supervision of our Principal Executive and Financial Officer and implemented
+by our Board of Directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of our financial statements in accordance with U.S. generally accepted accounting principles. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Roger
+May, our former Principal Executive Officer, evaluated the effectiveness of our internal control over financial reporting as of September
+30, 2022 based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations
+of the Treadway Commission, or the COSO Framework (2013). Management s assessment included an evaluation of the design of our internal
+control over financial reporting and testing of the operational effectiveness of those controls. 
+
+Changes
+in Internal Control Over Financial Reporting 
+
+There
+was no change in our internal control over financial reporting that occurred during the period covered by this report that has materially
+affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+Management
+has been addressing any underlying causes for our weaknesses in internal control which may have occurred as a result of limited resources.
+The Company has also engaged local accountants in Australia to assist Company management to prepare the Company s financial statements. 
+
+ITEM
+9B. OTHER INFORMATION. 
+
+None. 
+
+16 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+Our
+officers and directors are listed below. Our directors are generally elected at our annual shareholders meeting and hold office
+until the next annual shareholders meeting, or until their successors are elected and qualified. The executive officers are elected
+by the directors and serve at their discretion. Rodney Young resigned as Chairman on October 16, 2022. 
+
+Name 
+ Age 
+ Position 
+ 
+ Roger T. May [ footnote
+ 1] 
+ 76 
+ Former Chief Executive
+ Officer, Former Director 
+ 
+ Andrew Y. Liang [ footnote
+ 2] 
+ 62 
+ Chief Executive Officer; Director 
+
+David A.B. Halstead 
+ 76 
+ Chief Financial Officer; Director 
+
+Jason May [ footnote 3] 
+ 50 
+ Director 
+
+Michael Selsman [ footnote
+ 4] 
+ 83 
+ Director 
+
+Jeffrey Freedman 
+ 76 
+ Director 
+
+Juliana Tan 
+ 43 
+ Director 
+
+Charles Wantrup [ footnote
+ 5] 
+ 76 
+ Director 
+
+Footnote
+1: 
+
+ As
+of August 24, 2022, Mr. Roger May was removed from the Board of Directors as a result of his passing. 
+
+Footnote
+2: 
+
+ On
+August 26, 2022, Mr. Andrew Liang was appointed to the position of Interim Chief Executive Officer and as a Director. 
+
+Footnote
+3: 
+
+ On
+September 29, 2022, Mr. Jason May was appointed to the Board of Directors. 
+
+Footnote
+4: 
+
+ On
+September 27, 2022, Mr. Michael Selsman resigned from the Board of Directors. 
+
+Footnote
+5: 
+
+ On
+September 29, 2022, Mr. Charles Wantrup was appointed to the Board of Directors. 
+
+Andrew
+Y. Liang. 
+
+Dr.
+Andrew Liang, Ph.D., has been an advisor to the GSTX board since 2017. He was appointed as Director of Operations on July 20, 2020, and
+assumed the Interim CEO position following the untimely passing of Roger May in August 2022. Andrew was formally appointed the position
+of Chief Executive Officer in October. 
+
+Andrew
+is an established academic with a B.Sc. in Mechanical Engineering from China and a Ph.D. in Agricultural Engineering from the University
+of Newcastle Upon Tyne. He studied his MBA at Monash University. He lectured in Soil Mechanics at the China Agricultural University and
+Politics and at the University of Newcastle Upon Tyne. 
+
+Andrew
+has an extensive corporate track record in executive level management. He has led and expanded high-growth business ventures, established
+and managed manufacturing facilities, developed successful teams, and built highly professional and diverse work environments. 
+
+17 
+
+Throughout
+Andrew s career, he has demonstrated his ability to formulate and capitalize on key opportunities. His career started in management
+consulting for the Danish multinational group, the East Asiatic Company (EAC), where he led their business development in China. He pioneered,
+facilitated, and negotiated multiple EAC investment projects in China, including securing Chinese state enterprise investment in the
+Australian wool industry. Following this success, Andrew was appointed Deputy Managing Director of Bloch Behrens, EAC s Australian
+subsidiary. 
+
+Most
+recently, Andrew established and managed the production facility of Michell Wool, in China. Andrew successfully navigated complex manufacturing
+processes, strict environmental regulations and challenging local industrial laws, resulting in a world-class production facility running
+to an Australian standard. 
+
+Andrew
+has extensive business growth and management expertise in the Asia Pacific region, including South Korea, South-East Asia and the Pacific
+Islands. He spent over a decade as an Asia Regional General Manager for Ballantyne Foods, a leading Australian dairy food company in
+the global market for fine foods. He was also the General Manager of Asia Pacific for EKF Diagnostic plc, a global medical diagnostics
+company based in the UK. 
+
+Andrew
+spent four years driving high business growth and optimising distribution networks for Coloplast A/S, a Danish multinational company
+that develops, manufactures, and markets medical devices and services related to ostomy, urology, continence, and wound care. In this
+role, he transformed the China subsidiary from a manufacturing hub to one of the largest revenue-generating subsidiaries of the Coloplast
+group, which subsequently became Coloplast s Asia Pacific headquarters. 
+
+Andrew s
+extensive global experience in establishing and growing new companies and production facilities is of considerable value to GSTX. He
+is excited to bring his leadership experience, business acumen and analytical management style to develop the strategic direction and
+future of the GSTX group. 
+
+David
+A. B. Halstead. 
+
+Mr.
+Halstead has been a director since July 1, 2017. He has a wide range of corporate, secretarial and trusts experience, in both offshore
+and onshore companies. In 1973 he became a partner in a local chartered accounting firm and in 1984 a principal in the Hong Kong office
+of Coopers Lybrand (now PWC), specializing in international corporate and secretarial services, and offshore tax structures. Upon
+his return to Auckland, New Zealand in 1994, Mr. Halstead established and operated, several integrated medical centers, a surgical hospital
+in Auckland and a state of the art diagnostic center. He then spent three years working with World Vision fund raising
+for its micro finance arm Vision Fund involved with the capitalization and establishment of Vision Fund Cambodia. Reflecting
+his interest in health care delivery, in 2003 to this day, Mr. Halstead became, and is a Trustee of the New Zealand based international
+medical aid charity, Medical Aid Abroad. 
+
+Since
+2006, Mr. Halstead has acted as a director, company secretary and treasurer for a group of international clients. Contemporaneously he
+established and operated, until recently, a unique world-first web based joint venture service for the New Zealand Government processing
+immigration medicals online in a secure platform through a company called NZimed Limited. Mr. Halstead is a director of an immigration
+sector lead generation company, Leadgen Matrix Ltd, Business Epic Ltd, a company focused on assisting baby boomer SME owner
+operators maximize their business exit strategies and value, and Asia Capital (China) Ltd, a NZ registered Financial Services Provider
+facilitating investment into Australia and New Zealand. He is a director of several Hong Kong and Singapore companies as well as other
+New Zealand entities. 
+
+Mr.
+Halstead was educated at Kings College, Auckland, the son of a former New Zealand Cabinet Minister and diplomat. He is a graduate of
+the University of Auckland with a Bachelor of Commerce and further qualifications in accounting and taxation. 
+
+Jason
+May. 
+
+Jason
+is an experienced C-Level executive with a strong technical and business skillset. He possesses excellent communication skills and deep
+experience of complex technical project management. Jason has spent the past 15 years working on mineral projects for the cleantech supply
+chain from identification to development to production. 
+
+18 
+
+Experience
+includes lecturing in Communications Electronics Engineering at RMIT University (software, hardware, networking, security), developing
+remote power meter readers, embedded electricity networks, numerous software and hardware development projects, wireless communications
+systems and numerous mining and mineral processing projects. 
+
+Jason
+has worked extensively in the high purity industrial minerals sector, particularly the raw material supply chain for solar and semiconductor
+manufacturing. Jason is an expert in high purity quartz purification. More recently Jason has been developing a process and pilot plant
+to extract pharmaceutical grade minerals form waste biomass. 
+
+He
+has direct hands-on experience of designing and building high temperature furnaces, gas diffusion systems, chemical reactors, quality
+systems (GMP, HACCP), regulatory approvals, health safety systems, product development, business development, strategy, financial
+modelling, technical sales in China, Japan, Germany, USA and South Korea. With an extensive network of cleantech industry contacts and
+market knowledge Jason has an excellent technical and business background to the Company. 
+
+Michael
+Selsman. 
+
+Mr.
+Selsman has been a director since July 17, 2017. Mr. Selsman, as principal of Public Communications Company, Beverly Hills, California,
+represents publicly traded companies as a consultant in both public relations and investor relations. He is a director of Gawk, Inc.
+and is CEO of Archer Entertainment Media Communications, Inc. Mr. Selsman also researches and writes due diligence reports for brokerages,
+public and private companies (www.publiccommunicationsco.com). He is also a partner in Troika Publishing Media, a digital new media company. 
+
+Mr.
+Selsman has provided investor relations counsel to numerous publicly traded companies. Selsman has served on the boards of a number of
+major charities and lectured at most of the major universities in the Los Angeles area. 
+
+Jeffrey
+Freedman. 
+
+Effective
+July 21, 2021, Jeffrey Freedman was elected to the Board of Directors of the Company. Mr. Freedman, aged 75, has a professional history
+spanning over 35 years predominantly in the Energy and Oilfield services industries and has held various executive level and finance
+positions and Board Directorships in companies in these sectors. These have included Financial Executive and Capital Markets Consultant
+at EcoStim Energy Solutions, Inc.; CEO and CFO at Petro River Oil Corp f/k/a Gravis Oil Corporation; Executive Vice President, Corporate
+Development and Board Member at Allis-Chalmers Energy, Inc.; Managing Director, Oilfield Service and Equipment at Prudential Securities
+and Managing Director, Oilfield Service and Equipment at Smith Barney. Jeffrey holds an MBA Finance and Investments from New York University,
+Stern School of Business and BSBA-Finance from Babson College. 
+
+Juliana
+Tan. 
+
+Effective
+July 20 2020, Juliana Tan was elected to the Board of Directors of the Company. Ms. Tan has over twenty years of international experience
+at senior levels in corporate acquisitions, wealth management, and capital raising. Her areas of expertise include international business
+development, operations, marketing and sales development, strategic planning, intellectual property, process improvement, manufacturing
+and financial planning. Ms. Tan recently founded Eligius Lab Pte. Ltd, Singapore which establishes architectures and hardware designs
+for marketing, commercialization and system integration in healthcare technology projects focused on patient engagement systems. She
+has also served as Executive Director of CIMA Nanotech and Clearview Technology Group where she was responsible for operations, strategy
+development and marketing. She has served as Executive Director of Egreen Co. Ltd, Seoul Korea, where she led fundraising activities
+and established regional business relationships including for Sri Lanka, Indonesia, China, India and Spain. Ms. Tan has served as investment
+advisor for Colliers International (Singapore, China and Hong Kong), Knight Frank (Singapore, China and Malaysia), Fraser and Company
+(Singapore and Malaysia), SP Setia Sdn Bhd (Malaysia and Australia), Hartemas Real Estate Sdn Bhd (Malaysia), Ascendants Assets Pte Ltd.
+(Singapore Tudorville Properties Ltd (UK) and Kingfield s Solicitors (UK). 
+
+19 
+
+Charles
+Wantrup. 
+
+Mr.
+Charles Wantrup has been practicing exclusively as a commercial solicitor for over 35 years and heads his Law practice Wantrup and Associates.
+He has extensive experience in funding and financing, taxation law and practice, intellectual property law, industrial relations, international
+trade, and investment and in corporations law, capital raising and mergers and acquisitions. A key aspect of his approach to providing
+services is his concentration on structuring business enterprises. This involves an understanding of corporations and international corporate
+business structures. He has been closely associated providing significant advice to GSTX for the past 12 years. 
+
+ He
+has pioneering experience in the establishment and structuring of high technology companies, mining joint ventures and venture capital
+funds. Specialist in international taxation with over 35 years experience in practice. Daily reviews of taxation changes throughout
+the world, especially USA, Europe, and Asia generally (including China and India). Involved in advice (and currently litigation) in BEPS
+areas including transfer pricing and territorially distributed business structures. 
+
+ Charles s
+firms international network includes overseas consultants and advisers, Banking and Finance Institutions, Custodial Agents, Offshore
+Corporate Secretaries and Directors, Insurance Companies and Venture Capitalists. They have presences in New Zealand, Europe, Canada,
+the United Kingdom, and the United States. 
+
+20 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+The
+following table summarizes the compensation received by our principal executive and financial officers during the two years ended September
+30, 2022. 
+
+Name
+ and Principal Position 
+ 
+ Fiscal
+ Year 
+
+Salary (1) 
+ 
+ Other
+ Compensation (2) 
+
+Total 
+
+Roger
+ May 
+
+2022 
+
+Chief
+ Executive Officer 
+
+2021 
+
+Andrew
+ Y. Liang 
+
+2022 
+
+Director 
+
+2021 
+
+Chief
+ Executive Officer 
+
+David
+ Halstead 
+
+2022 
+
+Director 
+
+2021 
+
+Financial and Accounting
+ Officer 
+
+Jason
+ May 
+
+2022 
+
+Director 
+
+2021 
+
+Michael
+ Selsman 
+
+2022 
+
+Director 
+
+2021 
+
+Jeffrey
+ Freedman 
+
+2022 
+
+Director
+ (appointed July 21, 2021) 
+
+2021 
+
+Juliana
+ Tan 
+
+2022 
+
+Director 
+
+2021 
+
+Charles
+ Wantrup 
+
+2022 
+
+Director 
+
+2021 
+
+(1) 
+ The
+ dollar value of base salary (cash and non-cash) earned. 
+ 
+ (2) 
+ All
+ other compensation received that could not be properly reported in any other column of the table. 
+
+Long-Term
+Incentive Plans. We do not provide our officers or employees with pension, stock appreciation rights, long-term incentive or
+other plans. 
+
+Employee
+Pension, Profit Sharing or other Retirement Plans. We do not have a defined benefit, pension plan, profit sharing or other retirement
+plan, although we may adopt one or more of such plans in the future. 
+
+Compensation
+of Directors During Years Ended September 30, 2022 and 2021. During the years ended September 30, 2022 and 2021, we did not
+compensate our directors for acting as such. 
+
+Compensation
+Committee Interlocks and Insider Participation. During the years ended September 30, 2022 and 2021, none of our officers was
+also a member of the compensation committee or a director of another entity, which other entity had one of its executive officers serving
+as one of our directors. 
+
+21 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The
+following table shows the beneficial ownership of our common stock, as of September 30, 2022 (373,027,114 shares issued and outstanding)
+by (i) each person whom the company knows beneficially owns more than 5 of the outstanding shares of the common stock, (ii) each of
+the officers, (iii) each of the directors, and (iv) all the officers and directors as a group. 
+
+Unless
+otherwise indicated, each owner has sole voting and investment powers over his shares of common stock. Unless otherwise indicated, beneficial
+ownership is determined in accordance with the Rule 13d-3 promulgated under the Securities and Exchange Act of 1934, as amended, and
+includes voting or investment power with respect to shares beneficially owned. 
+
+Number of
+ Shares 
+
+Beneficially 
+ 
+ Percentage 
+ 
+ Name and
+ Address of Beneficial Owner (1) 
+ 
+ Owned 
+ 
+ of
+ Class 
+
+Phoenix Global Holdings Limited 
+
+112,881,762 
+ (2) 
+
+31.6 
+
+6 Hills View Lane 
+
+Mangawhai, 0505 New Zealand 
+
+Pegasus Resources Limited 
+
+3,500,000 
+ (2) 
+
+1.0 
+
+6 Hills View Lane 
+
+Mangawhai, 0505 New Zealand 
+
+NZ Macro Limited 
+
+4,000,000 
+ (3) 
+
+1.2 
+
+6 Hills View Lane 
+
+Mangawhai, 0505 New Zealand 
+
+Liang Family Trust 
+
+3,500,000 
+
+0.9 
+
+39 Park Street 
+
+St. Kilda West, Victoria 3182 Australia 
+
+MANJI Family Trust 
+
+1,000,000 
+
+0.3 
+
+160 Queens Street 
+
+Melbourne, Victoria 3000 Australia 
+
+New Technologies Cluster Limited 
+
+500,000 
+
+0.1 
+
+Flat 9, 7 Patterson Street 
+
+Sandringham, Auckland 1041 New Zealand 
+
+Paul Krok Limited 
+
+1,000,000 
+
+0.3 
+
+6 Hills View Lane 
+
+Mangawhai, Mangawhai 0505 New Zealand 
+
+Andrew Liang 
+
+3,500,000 
+
+0.9 
+
+39 Park Street 
+
+St. Kilda West, Victoria 3182 Australia 
+
+Jason May 
+
+1,000,000 
+
+0.3 
+
+160 Queens Street 
+
+Melbourne, Victoria 3000 Australia 
+
+Charles Wantrup 
+
+1,500,000 
+
+0.4 
+
+Flat 9, 7 Patterson Street 
+
+Sandringham, Auckland 1041 New Zealand 
+
+22 
+
+Michael Selsman 
+
+500,000 
+
+0.1 
+
+23 Corporate Plaza Drive 
+
+Newport Beach, California 92660 USA 
+
+Roger May 
+
+116,381,762 
+
+32.6 
+
+88 Lorimer Street 
+
+Docklands, Melbourne 3008 Australia 
+
+David A.B. Halstead 
+
+4,000,000 
+ (3) 
+
+1.1 
+
+6 Hills View Lane 
+
+Mangawhai, 0505 New Zealand 
+
+Juliana Tan 
+
+500,000 
+
+0.1 
+
+23 Corporate Plaza Drive 
+
+Newport Beach, California 92660 USA 
+
+Jeffrey Freedman 
+
+500,000 
+
+0.1 
+
+23 Corporate Plaza Drive 
+
+Newport Beach, California 92660 USA 
+
+All officers and directors as a group (4 persons) 
+
+121,381,762 
+
+34.02 
+
+________________ 
+
+(1) 
+ Neither
+ our officers and directors, nor any company they directly or indirectly control, has entered into any arrangements, agreements (including
+ derivative agreements), or contracts that give or will give anyone else an interest in the company. The directors/officers have not
+ used their shares of the company to secure a loan. 
+ 
+ (2) 
+ Roger
+ May may be deemed to be the beneficial owner of the shares held on record by Phoenix Global Holdings Limited and also Pegasus Resources
+ Limited as a result of him being the sole shareholder of this entity which is the trustee of Phoenix Global Holdings Limited. Jason
+ May is the inheritor of these shares, as the beneficiary of Roger May s estate. 
+ 
+ (3) 
+ David Halstead may be deemed to be the beneficial owner
+ of the shares held of record by NZ Macro Limited as a result of his being the sole Director of the entity. 
+
+23 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+(a)
+None. 
+
+(b)
+The company considers Messrs. Liang, Halstead, May, Freedman, Selsman and Wantrup and Ms. Juliana Tan to be independent directors as
+such term is defined by the NASDAQ Rules or Rule 10A-3 of the Exchange Act. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+
+M K
+CPAS PLLC of Houston was engaged to audit our financial statements for the year ended September 30, 2022. The following table shows the
+fees billed to us for the period presented by M K CPAS PLLC. 
+
+Year
+ Ended 
+ Year
+ Ended 
+
+September
+ 30, 2022 
+ September
+ 30, 2021 
+
+Audit Fees 
+ 43,000 
+ 37,000 
+ 
+ Audit-Related Fees 
+
+Tax Fees 
+
+Audit
+fees represent amounts billed for professional services rendered for the audit of our annual financial statements and reviews of our
+quarterly financial statements. 
+
+Audit-related
+fees represent amounts billed for consents related to regulatory filings, audit/review of financial statements included in our registration
+statements filed with the Securities and Exchange Commission, and consulting related to the implementation of accounting standards. 
+
+Tax
+fees include professional services for tax return preparation and income tax audit support. 
+
+The
+policy of our directors is to pre-approve all audit and non-audit services provided by our independent auditors. 
+
+24 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+
+EXHIBIT
+INDEX 
+
+Number 
+ 
+ Description 
+
+3.1 
+ 
+ Articles
+ of Incorporation, dated June 21, 2010 (incorporated by reference to Exhibit 3.1 of the Form S-1 filed on May 13, 2011). 
+
+3.2 
+ 
+ Articles
+ of Amendment, dated September 29, 2015 (filed herewith). 
+
+3.3 
+ 
+ Articles
+ of Amendment, dated July 5, 2017 (incorporated by reference to Exhibit 5.03 of the Form 8-K/A filed on October 4, 2017). 
+
+3.4 
+ 
+ Articles
+ of Amendment, dated September 18, 2018 (filed herewith). 
+
+3.5 
+ 
+ Bylaws,
+ dated June 21, 2010 (incorporated by reference to Exhibit 3.2 of the Form S-1 filed on May 13, 2011). 
+
+10.1 
+ 
+ Asset
+ Acquisition Agreement to Exchange Securities between Vanguard Energy Corporation and Solar Quartz Technologies, Inc., dated June
+ 28, 2017 (incorporated by reference to Exhibit 10 of the Form 8-K/A filed on October 4, 2017). 
+
+14 
+ 
+ Code
+ of Ethics, dated March 2, 2011 (incorporated by reference to Exhibit 14 of the Form S-1 filed on May 13, 2011). 
+
+21 
+ 
+ Subsidiaries
+ (incorporated by reference to Form 10-K filed on September 7, 2018). 
+
+31 
+ 
+ Certification
+ pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32 
+ 
+ Certification
+ pursuant to Section 906 of the Sarbanes-Oxley Act 
+
+25 
+
+SIGNATURES 
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the Registrant has caused this Report to be signed on its behalf by the undersigned,
+thereunto duly authorized on the 12th day of April 2023. 
+
+By: 
+ /s/
+ Andrew Liang 
+
+Andrew
+ Liang, Chief Executive Officer 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Andrew Liang 
+ 
+ CEO
+ Director 
+ 
+ April
+ 12, 2023 
+ 
+ Andrew
+ Liang 
+
+/s/
+ David A.B. Halstead 
+ 
+ CFO
+ Director 
+ 
+ April
+ 12, 2023 
+ 
+ David
+ A.B. Halstead 
+
+/s/
+ Jason May 
+ 
+ Director 
+ 
+ April
+ 12, 2023 
+ 
+ Jason
+ May 
+
+/s/
+ Juliana Tan 
+ 
+ Director
+
+April
+ 12, 2023 
+ 
+ Juliana
+ Tan 
+
+/s/
+ Michael Selsman 
+ 
+ Director 
+ 
+ April
+ 12, 2023 
+ 
+ Michael
+ Selsman 
+
+/s/
+ Jeffrey Freedman 
+ 
+ Director 
+ 
+ April
+ 12, 2023 
+ 
+ Jeffrey
+ Freedman 
+
+/s/
+ Charles Wantrup 
+ 
+ Director 
+ 
+ April
+ 12, 2023 
+ 
+ Charles
+ Wantrup 
+
+26 
+
+<EX-31>
+ 2
+ ex31.htm
+ CERTIFICATIONS OF THE CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER
+
+EXHIBIT
+31 
+
+CERTIFICATIONS
+OF THE CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER 
+
+ UNDER
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Andrew Liang, Chief Executive Officer of Graphene Solar Technologies, Ltd. (the Registrant ), certify that: 
+
+1. 
+ I
+ have reviewed this Annual Report on Form 10-K for the fiscal year ended September 30, 2022 of Graphene Solar Technologies,
+ Ltd. (the Annual Report ); 
+
+2. 
+ Based
+ on my knowledge, this Annual Report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this Annual Report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this Annual Report, fairly present in all
+ material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented
+ in this Annual Report; 
+
+4. 
+ I
+ am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+ 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant
+ and I have: 
+
+(a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to
+ ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to me by others
+ within those entities, particularly during the period in which this Annual Report is being prepared; 
+
+(b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under my
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated
+ the effectiveness of the Registrant s disclosure controls and procedures and presented in this Annual Report my conclusions
+ about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this Annual Report based
+ on such evaluation; and 
+
+(d) 
+ Disclosed
+ in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s
+ most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+
+5. 
+ I
+ have disclosed, based on my most recent evaluation of internal control over financial reporting, to the Registrant s auditors
+ and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information;
+ and 
+
+(b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s
+ internal control over financial reporting. 
+
+Date:
+ April 12, 2023 
+ By: 
+ /s/
+ ANDREW LIANG 
+
+Name: 
+ Andrew
+ Liang 
+
+Title: 
+ Director
+ and Chief Executive Officer 
+
+</EX-31>
+
+<EX-32>
+ 3
+ ex32.htm
+ UNDER SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+EXHIBIT
+32 
+
+UNDER
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the filing by Graphene Solar Technologies, Ltd. (the Registrant of its Annual Report on Form 10-K
+for the fiscal year ended September 30, 2022 (the Annual Report with the Securities and Exchange Commission, I, David
+Halstead, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(i) 
+ The
+ Annual Report fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act
+ of 1934, as amended; and 
+
+(ii) 
+ The
+ information contained in the Annual Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Registrant. 
+
+A
+signed original of this written statement required by Section 906 has been provided to the Registrant and will be retained by the Registrant
+and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+Date:
+ April 12, 2023 
+ By: 
+ /s/
+ DAVID HALSTEAD 
+
+Name: 
+ David
+ Halstead 
+
+Title: 
+ Director
+ and Chief Financial Officer 
+
+</EX-32>
+
+<EX-101.SCH>
+ 4
+ gstx-20220930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ gstx-20220930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ gstx-20220930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ gstx-20220930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

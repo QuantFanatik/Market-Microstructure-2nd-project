@@ -1,0 +1,2925 @@
+<Header>
+<FileStats>
+    <FileName>20230414_10-K_edgar_data_1911500_0001493152-23-012223.txt</FileName>
+    <GrossFileSize>5202032</GrossFileSize>
+    <NetFileSize>92732</NetFileSize>
+    <NonText_DocumentType_Chars>942306</NonText_DocumentType_Chars>
+    <HTML_Chars>1871463</HTML_Chars>
+    <XBRL_Chars>923757</XBRL_Chars>
+    <XML_Chars>1219445</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-012223.hdr.sgml : 20230414
+<ACCEPTANCE-DATETIME>20230414094458
+ACCESSION NUMBER:		0001493152-23-012223
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230414
+DATE AS OF CHANGE:		20230414
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CATTHIS HOLDINGS CORP
+		CENTRAL INDEX KEY:			0001911500
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-264963
+		FILM NUMBER:		23819995
+
+	BUSINESS ADDRESS:	
+		STREET 1:		A-9-3,NORTHPOINT OFFICE,MID VALLEY CITY
+		STREET 2:		LINGKARAN SYED PUTRA
+		CITY:			KUALA LUMPUR
+		STATE:			N8
+		ZIP:			59200
+		BUSINESS PHONE:		60397756029
+
+	MAIL ADDRESS:	
+		STREET 1:		A-9-3,NORTHPOINT OFFICE,MID VALLEY CITY
+		STREET 2:		LINGKARAN SYED PUTRA
+		CITY:			KUALA LUMPUR
+		STATE:			N8
+		ZIP:			59200
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-012223.txt : 20230414
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+The Fiscal Year Ended , 
+
+or 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from _______________ to _______________ 
+
+Commission
+File Number 
+
+(Exact
+name of registrant issuer as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ incorporation
+ or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+, , , 
+ , 
+
+ (Address
+of principal executive offices, including zip code) 
+
+Registrant s
+phone number, including area code + 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant
+to Rule 405 of Regulation S-T (section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files). 
+
+ Yes
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated
+by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer ,
+ smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+Accelerated Filer Accelerated Filer Smaller reporting company Emerging growth company
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+ Yes
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+
+OTC
+ Market 
+
+APPLICABLE
+ONLY TO ISSUERS INVOLVED IN BANKRUPTCY 
+
+ PROCEEDINGS
+DURING THE PRECEDING FIVE YEARS: 
+
+Indicate
+by check mark whether the registrant has filed all documents and reports required to be filed by Sections 12, 13 or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. 
+
+ Yes
+ No 
+
+APPLICABLE
+ONLY TO CORPORATE REGISTRANTS 
+
+Indicate
+the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 
+
+Class 
+ 
+ Outstanding
+ at December 31, 2022 
+ 
+ Common
+ Stock, .0001 par value 
+
+catTHIS
+Holdings Corp 
+
+ FORM
+10-K 
+
+ For
+the Fiscal Year Ended December 31, 2022 
+
+ Index 
+
+Page
+ # 
+ 
+ PART
+ I 
+
+Item
+ 1. 
+ Business 
+ 2 
+ 
+ Item
+ 1A. 
+ Risk
+ Factors 
+ 4 
+ 
+ Item
+ 1B. 
+ Unresolved
+ Staff Comments 
+ 4 
+ 
+ Item
+ 2. 
+ Properties 
+ 4 
+ 
+ Item
+ 3. 
+ Legal
+ Proceedings 
+ 4 
+ 
+ Item
+ 4. 
+ Mine
+ Safety Disclosure 
+ 4 
+
+PART
+ II 
+
+Item
+ 5. 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 5 
+ 
+ Item
+ 6. 
+ Selected
+ Financial Data 
+ 6 
+ 
+ Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 6 
+ 
+ Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosures About Market Risk 
+ 11 
+ 
+ Item
+ 8. 
+ Financial
+ Statements and Supplementary Data 
+ 11 
+ 
+ Item
+ 9. 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 11 
+ 
+ Item
+ 9A. 
+ Controls
+ and Procedures 
+ 11 
+ 
+ Item
+ 9B. 
+ Other
+ Information 
+ 11 
+
+PART
+ III 
+
+Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance 
+ 12 
+ 
+ Item
+ 11. 
+ Executive
+ Compensation 
+ 15 
+ 
+ Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 16 
+ 
+ Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence 
+ 17 
+ 
+ Item
+ 14. 
+ Principal
+ Accounting Fees and Services 
+ 17 
+
+PART
+ IV 
+
+Item
+ 15. 
+ Exhibits,
+ Financial Statement Schedules 
+ 18 
+
+SIGNATURES 
+ 19 
+
+CAUTIONARY
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This
+Annual Report on Form 10-K contains forward-looking statements. These forward-looking statements are not historical facts but rather
+are based on current expectations, estimates and projections. We may use words such as anticipate, expect, 
+ intend, plan, believe, foresee, estimate and variations of these
+words and similar expressions to identify forward-looking statements. These statements are not guarantees of future performance and are
+subject to certain risks, uncertainties and other factors, some of which are beyond our control, are difficult to predict and could cause
+actual results to differ materially from those expressed or forecasted. These risks and uncertainties include the following: 
+
+The
+ availability and adequacy of our cash flow to meet our requirements; 
+
+Economic,
+ competitive, demographic, business and other conditions in our local and regional markets; 
+
+Changes
+ or developments in laws, regulations or taxes in our industry; 
+
+Actions
+ taken or omitted to be taken by third parties including our suppliers and competitors, as well as legislative, regulatory, judicial
+ and other governmental authorities; 
+
+Competition
+ in our industry; 
+
+The
+ loss of or failure to obtain any license or permit necessary or desirable in the operation of our business; 
+
+Changes
+ in our business strategy, capital improvements or development plans; 
+
+The
+ availability of additional capital to support capital improvements and development; and 
+
+Other
+ risks identified in this report and in our other filings with the Securities and Exchange Commission or the SEC. 
+
+This
+report should be read completely and with the understanding that actual future results may be materially different from what we expect.
+The forward looking statements included in this report are made as of the date of this report and should be evaluated with consideration
+of any changes occurring after the date of this Report. We will not update forward-looking statements even though our situation may change
+in the future and we assume no obligation to update any forward-looking statements, whether as a result of new information, future events
+or otherwise. 
+
+Use
+of Defined Terms 
+
+Except
+as otherwise indicated by the context, references in this Report to: 
+
+The
+ Company, we, us, or our, catTHIS Holdings are references to
+ catTHIS Holdings Corp, a Nevada corporation. 
+
+Common
+ Stock refers to the common stock, par value .0001, of the Company; 
+
+U.S.
+ dollar, and US refer to the legal currency of the United States; 
+
+Securities
+ Act refers to the Securities Act of 1933, as amended; and 
+
+Exchange
+ Act refers to the Securities Exchange Act of 1934, as amended. 
+
+1 
+
+PART
+I 
+
+ITEM
+1. BUSINESS 
+
+Corporate
+History 
+
+catTHIS
+Holdings Corp. was incorporated on January 4, 2021 under the laws of the state of Nevada. 
+
+The
+Company, through its subsidiary, engaged in providing digital marketing services. 
+
+On
+June 25, 2021, the Company acquired 100 of the equity interests in catTHIS Holdings Corp. (herein referred as the Malaysia Company ),
+a private limited company incorporated in Labuan, Malaysia. 
+
+Details
+of the Company s subsidiary: 
+
+Company
+ name 
+ 
+ Place
+ and date of incorporation 
+ 
+ Particulars
+ of issued capital 
+ 
+ Principal
+ activities 
+
+1. 
+ catTHIS
+ Holdings Corp. 
+ 
+ Labuan
+ / January 26, 2021 
+ 
+ 100
+ share of ordinary share of US 1 each 
+ 
+ Digital
+ marketing service provider 
+
+Business
+Overview 
+
+Note:
+The purpose of the Labuan, Malaysia Company is to function as the current regional hub, carrying out the majority of physical operations
+of the Company. Initially, we intend for our services to cover the whole of mainland of Malaysia. The Labuan company is part of our international
+business structure that encompasses our expansion plans and provides other trade and tax benefits. 
+
+catTHIS
+Holdings Corp., a Nevada Corporation, is a company that operates through its wholly owned subsidiary, catTHIS Holdings Corp., a Company
+organized in Labuan, Malaysia. The Nevada and Malaysia corporations share the same exact business plan. 
+
+We
+are a startup early-stage company that intend to provide digital marketing services through technology. Its leading mobile application
+ catTHIS is a digital catalogue management platform that allows users to upload and share PDF catalogues anywhere and from
+any devices for free. This environmental-friendly service would significantly bring down the number of physical printed catalogues, newspaper
+advertisement, magazines and other printed materials. The key feature of this digital catalogue management platform is its engagement
+metrics, which are extremely useful for users to understand how well its catalogue is reaching their audience. 
+
+Our
+Services 
+
+Our
+leading mobile application catTHIS is a digital catalogue management platform that allows users to upload and share PDF
+catalogues anywhere and from any devices for free. This environmental-friendly service would significantly bring down the number of physical
+printed catalogues, newspaper advertisement, magazines and other printed materials. The key feature of this digital catalogue management
+platform is its engagement metrics, which are extremely useful for users to understand how well its catalogue is reaching their audience
+as following: 
+
+1. 
+ Upload
+ This function allows users to advertise by uploading PDF catalogues, images and description and it is using multiple methods
+ (visual, descriptive and informative) to promote the products and services of the sellers. 
+
+2. 
+ Video
+ This function allows the uploader to embed a Youtube Video to better enhance the description of the catalogues. 
+
+3. 
+ QR
+ Scanner Users can just scan the catalogues and save it without going through the sometimes, long download and saving process. 
+
+4. 
+ Share
+ The catalogue can be effortlessly shared with people who do not have the catTHIS App installed either through Whatsapp, Wechat
+ or any other such social media platforms. 
+
+2 
+
+5. 
+ Privatize
+ The Privatize function enables additional approval for dedicated recipients. This allow the uploader of the
+ catalogue marked private to decide the extent of information to be shared with the receiver. 
+
+6. 
+ Editing
+ The App also allows for editing updates or changes to be incorporated directly into the format in the app. Catalogues are
+ thus automatically updated and users do not need to print a new set of catalogues which can be costly, especially if the changes
+ are minor. 
+
+7. 
+ Analytics
+ The analytics function allows users to gain real-time data on the catalogues they have uploaded. 
+
+8. 
+ Organize
+ The organize function helps users to save their catalogues and organize them into folders. This allows users to save a large
+ number of catalogues without the use of additional space on their mobile devices. 
+
+9. 
+ News
+ and Events This function allows users to push for news and events to selected catalogue followers. 
+
+10. 
+ Chat
+ function The chat function allows for two-way communication between users (buyer and seller). This acts as a feedback loop
+ to the seller as they can gather feedback from buyers instantly and be more responsive. 
+
+Competition 
+
+Our existing product is a combination between social media marketing, cloud storage and file management system. We see a demand in this
+space of which no direct competitors are providing the same services in South East Asia. Our distinctive e-catalogue management system
+is different from those features offered by existing social media platform such as Facebook, Instagram, Dropbox, Google Drive and etc. 
+
+Core
+competency 
+
+Ability
+of digital catalogue platform to connect user and potential seller catTHIS App allows user to save digital catalogue and marketing
+materials effortlessly by using QR scanner which allow for quicker progression in marketing events as the visitors can just scan through
+their QR scanner for marketing materials. The App also have the ability to allow users to gain access to real-time data whenever there
+is an update or editing action being taken by the catalogue uploader, thus users do not need to print a new set of catalogues which can
+be costly, especially if the changes are minor. 
+
+In addition, the chat function also allows for the sales process to be faster compared to the physical catalogue which requires the buyer
+to contact the representative from the seller for further action. The chat function can act as customer service and repeat sales channel
+as sellers can continuously promote their products and services with their buyers and buyers can contact their sellers for after-sales
+services such as maintenance services. 
+
+Targeted
+marketing through big data and analytics The analytics function allows users to find out the number of people that have downloaded
+or saved the catalogues which allow users to track and gain information on potential sales. An user s act of downloading or saving
+the catalogue is a behavioral cue that they might have some interest in the products and services highlighted by the catalogue. The probability
+of converting such users into actual buyers is higher than those that shows no interest. Sellers can then better target their marketing
+efforts on the catTHIS App by focusing on the data provided by the App to increase the success rate of their marketing campaigns. 
+
+catTHIS
+intend to provide targeted marketing services to retailers where they can leverage this data at a low fee while complying with data protection
+regulations to reach out to prospective app users. Retailers will be able to avail catTHIS targeted marketing feature to target potential
+app users in a specific country by identifying their targeted market based on selected tags associated with the product or service catalogue.
+For instance, a furniture company can specifically target potential app user by filtering those who have downloaded or have seen catalogues
+related to furniture in the past one month. 
+
+Employees 
+
+Our
+only employee is our Mr. Yeo, our chief executive officer. We employ nine independent contractors who provide technical and administrative
+support. Mr. Yeo and our contractors devote up to 30 hours per week, but are prepared to devote more time if necessary. 
+
+We
+do not presently have pension, health, annuity, insurance, stock options, profit sharing, or similar benefit plans; however, we may adopt
+plans in the future. There are presently no personal benefits available to our employees, Officers and/or Directors. 
+
+Government
+Regulation 
+
+At
+present, we are subject to the laws and regulations of the jurisdictions in which we operate, which may include business licensing requirements,
+income taxes and payroll taxes. In general, the development and operation of our business is not subject to special regulatory and supervisory
+requirements. 
+
+3 
+
+ITEM
+1A. RISK FACTORS 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. 
+
+ITEM
+2. PROPERTIES 
+
+We
+lease 1,841 square foot office space for a monthly rental of MYR 6,500 from December 1, 2021 to November 30, 2022 and RM7,000 from
+December 1, 2022 to November 30, 2023 Our executive offices and operations are located in this space. The space is located in an
+office building at A-9-3, Northpoint Office, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur, Malaysia. We believe this
+office space is sufficient for our needs for 2 years. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+From
+time to time, we may become party to litigation or other legal proceedings that we consider to be a part of the ordinary course of our
+business. We are not currently involved in legal proceedings that could reasonably be expected to have a material adverse effect on our
+business, prospects, financial condition or results of operations. We may become involved in material legal proceedings in the future. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+4 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Holders 
+
+As
+of December 31, 2022, we had 126,737,500 shares of our Common Stock par value, .0001 issued and outstanding. There were 119 beneficial
+owners of our Common Stock. 
+
+Penny
+Stock Regulations 
+
+The
+Securities and Exchange Commission has adopted regulations which generally define penny stock to be an equity security
+that has a market price of less than 5.00 per share. Our Common Stock, when and if a trading market develops, may fall within the definition
+of penny stock and be subject to rules that impose additional sales practice requirements on broker-dealers who sell such securities
+to persons other than established customers and accredited investors (generally those with assets in excess of 1,000,000, or annual
+incomes exceeding 200,000 individually, or 300,000, together with their spouse). 
+
+For
+transactions covered by these rules, the broker-dealer must make a special suitability determination for the purchase of such securities
+and have received the purchaser s prior written consent to the transaction. Additionally, for any transaction, other than exempt
+transactions, involving a penny stock, the rules require the delivery, prior to the transaction, of a risk disclosure document mandated
+by the Securities and Exchange Commission relating to the penny stock market. The broker-dealer also must disclose the commissions payable
+to both the broker-dealer and the registered representative, current quotations for the securities and, if the broker-dealer is the sole
+market-maker, the broker-dealer must disclose this fact and the broker-dealer s presumed control over the market. Finally, monthly
+statements must be sent disclosing recent price information for the penny stock held in the account and information on the limited market
+in penny stocks. Consequently, the penny stock rules may restrict the ability of broker-dealers to sell our Common Stock
+and may affect the ability of investors to sell their Common Stock in the secondary market. 
+
+In
+addition to the penny stock rules promulgated by the Securities and Exchange Commission, the Financial Industry Regulatory
+Authority FINRA has adopted rules that require that in recommending an investment to a customer, a broker-dealer must
+have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending speculative low-priced
+securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about the customer s
+financial status, tax status, investment objectives and other information. Under interpretations of these rules, FINRA believes that
+there is a high probability that speculative low-priced securities will not be suitable for at least some customers. The FINRA requirements
+make it more difficult for broker-dealers to recommend that their customers buy our common stock, which may limit the investors 
+ability to buy and sell our stock. 
+
+Dividend
+Policy 
+
+Any
+future determination as to the declaration and payment of dividends on shares of our Common Stock will be made at the discretion of our
+board of directors out of funds legally available for such purpose. We are under no obligations or restrictions to declare or pay dividends
+on our shares of Common Stock. In addition, we currently have no plans to pay such dividends. Our board of directors currently intends
+to retain all earnings for use in the business for the foreseeable future. 
+
+Equity
+Compensation Plan Information 
+
+Currently,
+there is no equity compensation plan in place. 
+
+Unregistered
+Sales of Equity Securities 
+
+Currently,
+there is no unregistered sales of equity securities. 
+
+5 
+
+Purchases
+of Equity Securities by the Registrant and Affiliated Purchasers 
+
+We
+have not repurchased any shares of our common stock during the fiscal year ended December 31, 2022. 
+
+ITEM
+6. [Reserved] 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The
+following discussion of our financial condition and results of operations should be read in conjunction with our audited consolidated
+financial statements and the notes to those financial statements appearing elsewhere in this Report. 
+
+Certain
+statements in this Report constitute forward-looking statements. These forward-looking statements include statements, which involve risks
+and uncertainties, regarding, among other things, (a) our projected sales, profitability, and cash flows, (b) our growth strategy, (c)
+anticipated trends in our industry, (d) our future financing plans, and (e) our anticipated needs for, and use of, working capital. They
+are generally identifiable by use of the words may, will, should, anticipate, 
+ estimate, plan, potential, project, continuing, ongoing, 
+ expects, management believes, we believe, we intend, or the negative of these
+words or other variations on these words or comparable terminology. In light of these risks and uncertainties, there can be no assurance
+that the forward-looking statements contained in this filing will in fact occur. You should not place undue reliance on these forward-looking
+statements. 
+
+The
+forward-looking statements speak only as of the date on which they are made, and, except to the extent required by federal securities
+laws, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date on which
+the statements are made or to reflect the occurrence of unanticipated events. 
+
+Overview 
+
+catTHIS
+Holdings Corp., was incorporated in the State of Nevada on January 4, 2021 and it operates through its wholly owned subsidiary, catTHIS
+Holdings Corp., a Company organized in Labuan, Malaysia. The Nevada and, Malaysia corporations share the same exact business plan. 
+
+We
+are an online platform that provides digital catalogue management service to retailers. Our app catTHIS enables users to
+save PDF catalogues and organize them in a customized way. Users can download the mobile app from Google Play (https://play.google.com/store/apps/details?id=com.incredibleqr.mycatthis.production)
+ or App Store https://apps.apple.com/us/app/catthis/id1211749794 ), or access our web-based digital catalogue management
+system via https://catthis.com/. 
+
+We are a startup early-stage company that intend to provide digital marketing services through technology. Its leading mobile application
+ catTHIS is a digital catalogue management platform that allows users to upload and share PDF catalogues anywhere and from
+any devices for free. This environmental-friendly service would significantly bring down the number of physical printed catalogues, newspaper
+advertisement, magazines and other printed materials. The key feature of this digital catalogue management platform is its engagement
+metrics, which are extremely useful for users to understand how well its catalogue is reaching their audience. 
+
+6 
+
+Results
+of Operations for the year ended December 31, 2022 and 2021 
+
+Revenues
+
+The
+Company generated revenue of 193,614 and 4,827 for the year ended December 31, 2022 and 2021. The revenue represented income generated
+was a result of branding and marketing service fees paid by corporate clients which include catalogue management services, video production
+and live streaming services via green-screen studio production. All these services are provided by the Company s own inhouse production
+team and the resulted video and live stream are broadcasted at the client s website. The revenue derived is not dependent on the
+number of users of catTHIS app. 
+
+Currently
+the Company has yet to generate any advertising revenue as direct result of catTHIS s app user big data and does not plan to charge
+app users solely on catalogue management services. The Company intend to monetize app user data in the future via advertising sales to
+corporate clients in two methods, namely advertising space within the app and active push notifications to targeted users. 
+
+The
+Company target to start monetizing on the app user big data when the number of app users exceed 100,000. 
+
+Cost
+of Revenue and Gross Margin 
+
+For
+the year ended December 31, 2022 and 2021, cost incurred in providing marketing and studio production services is 91,488 and 3,017.
+The Company generates gross profits of 102,126 and 1,810 for the year ended December 31, 2022 and 2021. 
+
+Other
+Income 
+
+The
+Company recorded an amount of 8,343 and 356 as other income for the year ended December 31, 2022 and 2021 respectively. This income
+which was primarily gain from foreign currency translation arise during bank remittance of shares subscription and day to day operations. 
+
+Selling
+and Distribution Expenses 
+
+Selling
+and distribution expenses for the year ended December 31, 2022 and 2021 amounted to 24,747 and 28,873 respectively. These expenses
+comprised expenses of advertising and transportation fee. 
+
+General
+and Administrative Expenses 
+
+General
+and administrative expenses for the year ended December 31, 2022 and 2021 amounted to 354,045 and 281,825 respectively. These expenses
+were primarily comprised of professional fees consultation fees, and cost of upkeep of office. The nature of the consultation fee is
+related to the group s business expansion and management consultation fee. 
+
+Other
+Operating Expenses 
+
+General
+and administrative expenses for the year ended December 31, 2022 and 2021 amounted to 31,061 and 4,065 respectively. These expenses
+ were primarily comprised of depreciation of property, plant and equipment, amortization of intangible
+assets and leased right-of-use assets. 
+
+7 
+
+Net
+Loss 
+
+The
+net loss for the year was 299,384 for the year ended December 31, 2022 as compared to 312,597 for the year ended December 31, 2021.
+The decrease in net loss of 13,211 can be contributed to improve in sales and reduced in administrative expenses. 
+
+Cash
+Used In Operating Activities 
+
+For
+the year ended December 31, 2022 and 2021, net cash used in operating activities was 318,730 and 310,367. The cash used in operating
+activities were attributable to selling and distribution costs, and professional fees. 
+
+Cash
+Used In Investing Activities 
+
+For
+the year ended December 31, 2022 and 2021, net cash used in investing activities was 3,496 and 66,906. This was mainly arising from the purchase
+of property, plant and equipment. 
+
+Cash
+Provided In Financing Activities 
+
+For
+the year ended December 31, 2022 and 2021, net cash used in financing activities was 0 and net cash provided by financing activities
+was 716,412 respectively. The financing cash flow performance for period ended 2021 primarily reflects the receipts from issuance of
+founder and private placement shares. 
+
+Liquidity
+and Capital Resources 
+
+As
+of December 31, 2022, we had cash and cash equivalents of 5,850 as compared to 345,678 as of December 31, 2021. We expect
+increased levels of operating activities going forward will result in more significant cash inflows. 
+
+8 
+
+Critical
+Accounting Policies and Estimates 
+
+Basis
+of presentation 
+
+The
+consolidated financial statements for catTHIS Holdings Corp. and its subsidiariy for the year ended December 31, 2022 is prepared in
+accordance with accounting principles generally accepted in the United States of America US GAAP and include the accounts
+of catTHIS Holdings Corp. and its wholly owned subsidiary, catTHIS Holdings Corp. Intercompany accounts and transactions have been eliminated
+on consolidation. The Company has adopted December 31 as its fiscal year end. 
+
+Basis
+of consolidation 
+
+The
+consolidated financial statements include the accounts of the Company and its subsidiary. All inter-company accounts and transactions
+have been eliminated upon consolidation. 
+
+Use
+of estimates 
+
+Management
+uses estimates and assumptions in preparing these financial statements in accordance with US GAAP. Those estimates and assumptions affect
+the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities in the balance sheets, and the reported
+revenue and expenses during the year reported. Actual results may differ from these estimates. 
+
+Intangible
+assets, net 
+
+The
+Company follows ASC 360 in accounting for intangible assets, which requires impairment losses to be recorded when indicators of impairment
+are present and the undiscounted cash flows estimated to be generated by the assets are less than the assets carrying amounts.
+For the year ended December 31, 2022 the Company determined there were no indicators of impairment of intangible assets. 
+
+The
+amortization is provided on straight line method so as to write off the amortization amount of the respective classes of intangible assets
+as follows: 
+
+Rate 
+
+Intangible asset 
+ 20 
+
+Property,
+plant and equipment 
+
+Property,
+plant and equipment are stated at cost less accumulated depreciation and accumulated impairment losses, if any. Depreciation is calculated
+on the straight-line basis over the following expected useful lives from the date on which they become fully operational. 
+
+Categories 
+ Estimated useful life 
+ Depreciation rate 
+ 
+ Office equipment 
+ 10 years 
+ 10 
+ 
+ Photography and videography equipment 
+ 5 years 
+ 20 
+
+Expenditures
+for maintenance and repairs are expensed as incurred. The gain or loss on the disposal of plant and equipment is the difference between
+the net sales proceeds and the carrying amount of the relevant assets and is recognized in the statement of operations 
+
+Lease 
+
+The
+Company recognizes lease payments for its short-term lease on a straight-line basis over the lease term in accordance with ASC 842. 
+
+The
+right-of-use asset is initially measured at cost, which comprises the initial amount of the lease liability adjusted for lease payments
+made at or before the lease commencement date, plus any initial direct costs incurred less any lease incentives received. Costs associated
+with operating lease assets are recognized on a straight-line basis within operating expenses over the term of the lease. 
+
+In
+determining the present value of the unpaid lease payments, ASC 842 requires a lessee to discount its unpaid lease payments using the
+interest rate implicit in the lease or, if that rate cannot be readily determined, its incremental borrowing rate. As most of the Company
+leases do not provide an implicit rate, the Company uses its incremental borrowing rate as the discount rate for the lease. The Company
+incremental borrowing rate is estimated to approximate the interest rate on a collateralized basis with similar terms and payments. 
+
+Revenue
+recognition 
+
+In
+accordance with Financial Accounting Standards Board FASB Accounting Standards Codification ASC Topic
+606, Revenue from Contracts . ASC 606 creates a five-step model that requires entities to exercise judgment when considering the
+terms of contracts, which includes (1) identifying the contracts or agreements with a customer, (2) identifying our performance obligations
+in the contract or agreement, (3) determining the transaction price, (4) allocating the transaction price to the separate performance
+obligations, and (5) recognizing revenue as each performance obligation is satisfied. The Company only applies the five-step model to
+contracts when it is probable that the Company will collect the consideration it is entitled to in exchange for the services it transfers
+to its clients. 
+
+Revenue
+is measured at the fair value of the consideration received or receivable, net of discounts and taxes applicable to the revenue. The
+Company derives its revenue from provision of technical consultancy on solar power system and consultancy on green energy solution. 
+
+Income
+taxes 
+
+Income
+taxes are determined in accordance with the provisions of ASC Topic 740, Income Taxes ASC Topic 740 ).
+Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between
+the financial statement carrying amounts of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities
+are measured using enacted income tax rates expected to apply to taxable income in the year in which those temporary differences are
+expected to be recovered or settled. Any effect on deferred tax assets and liabilities of a change in tax rates is recognized in income
+in the year that includes the enactment date. 
+
+ASC
+740 prescribes a comprehensive model for how companies should recognize, measure, present, and disclose in their financial statements
+uncertain tax positions taken or expected to be taken on a tax return. Under ASC 740, tax positions must initially be recognized in the
+financial statements when it is more likely than not the position will be sustained upon examination by the tax authorities. Such tax
+positions must initially and subsequently be measured as the largest amount of tax benefit that has a greater than 50 likelihood of
+being realized upon ultimate settlement with the tax authority assuming full knowledge of the position and relevant facts. 
+
+9 
+
+Foreign
+currencies translation 
+
+Transactions
+denominated in currencies other than the functional currency are translated into the functional currency at the exchange rates prevailing
+at the dates of the transaction. Monetary assets and liabilities denominated in currencies other than the functional currency are translated
+into the functional currency using the applicable exchange rates at the balance sheet dates. The resulting exchange differences are recorded
+in the statements of operations. 
+
+The
+reporting currency of the Company is United States Dollars US ). The Company s subsidiary in Labuan maintains its
+books and record in United States Dollars US respectively, and Ringgits Malaysia MYR is functional currency
+as being the primary currency of the economic environment in which the entity operates. 
+
+In
+general, for consolidation purposes, assets and liabilities of its subsidiary whose functional currency is not the US are translated
+into US , in accordance with ASC Topic 830-30, Translation of Financial Statement , using the exchange rate on the
+balance sheet date. Revenues and expenses are translated at average rates prevailing during the year. The gains and losses resulting
+from translation of financial statements of foreign subsidiary are recorded as a separate component of accumulated other comprehensive
+income within the statement of stockholders equity. 
+
+Translation
+of amounts from MYR into US 1 has been made at the following exchange rates for the respective year: 
+
+As
+ of and for the year ended December 31, 
+
+2022 
+ 2021 
+
+Year-end RM: US 1 exchange rate 
+ 4.4130 
+ 4,1660 
+ 
+ Year-average RM: US 1 exchange rate 
+ 4.4005 
+ 4.1430 
+
+Related
+parties 
+
+Parties,
+which can be a corporation or individual, are considered to be related if the Company has the ability, directly or indirectly, to control
+the other party or exercise significant influence over the other party in making financial and operating decisions. Companies are also
+considered to be related if they are subject to common control or common significant influence. 
+
+Fair
+value of financial instruments: 
+
+The
+carrying value of the Company s financial instruments: cash and cash equivalents, accounts payable and accrued liabilities, and
+amount due to a director approximate at their fair values because of the short-term nature of these financial instruments. 
+
+The
+Company also follows the guidance of the ASC Topic 820-10, Fair Value Measurements and Disclosures ASC 820-10 ),
+with respect to financial assets and liabilities that are measured at fair value. ASC 820-10 establishes a three-tier fair value hierarchy
+that prioritizes the inputs used in measuring fair value as follows: 
+
+Level
+ 1: Observable inputs such as quoted prices in active markets; 
+
+Level
+ 2: Inputs, other than the quoted prices in active markets, that are observable either directly or indirectly; and 
+
+Level
+ 3: Unobservable inputs in which there is little or no market data, which require the reporting entity to develop its own assumptions. 
+
+Recent
+accounting pronouncements 
+
+The
+Company has reviewed all recently issued, but not yet effective, accounting pronouncements and do not believe the future adoption of
+any such pronouncements may be expected to cause a material impact on its financial condition or the results of its operations. 
+
+In
+September 2016, the FASB issued ASU 2016-13, Measurement of Credit Losses on Financial Instruments (Topic 326), which replaces the incurred-loss
+impairment methodology and requires immediate recognition of estimated credit losses expected to occur for most financial assets, including
+trade receivables. Credit losses on available-for-sale debt securities with unrealized losses will be recognized as allowances for credit
+losses limited to the amount by which fair value is below amortized cost. ASU 2016-13 is effective for the Company beginning January
+1, 2020 and early adoption is permitted. The Company does not believe the potential impact of the new guidance and related codification
+improvements will be material to its financial position, results of operations and cash flows. 
+
+Other
+recent accounting pronouncements issued by the FASB, including its Emerging Issues Task Force, the American Institute of Certified Public
+Accountants, and the Securities and Exchange Commission did not or are not believed by management to have a material impact on the Company s
+present or future financial statements. 
+
+Off-Balance
+Sheet Arrangements 
+
+The
+Company has no off-balance sheet arrangements. 
+
+10 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+The
+financial statements required by this item are located in PART IV of this Annual Report. 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Disclosures
+Control and Procedures 
+
+We
+carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Exchange
+Act Rules 13a-15(e) and 15d-15(e)) as of December 31, 2022. This evaluation was carried out under the supervision and with the participation
+of our Chief Executive Officer cum Chief Financial Officer. Based upon that evaluation, our Chief Executive Officer cum Chief Financial
+Officer concluded that, as of December 31, 2022, our disclosure controls and procedures were not effective due to the presence of material
+weaknesses in internal control over financial reporting. 
+
+A
+material weakness in internal control over financial reporting is a deficiency, or a combination of deficiencies, in internal control
+over financial reporting, such that there is a reasonable possibility that a material misstatement of the company s annual or interim
+financial statements will not be prevented or detected on a timely basis. Management has identified the following material weaknesses
+which have caused management to conclude that, as of December 31, 2022, our disclosure controls and procedures were not effective: (i)
+inadequate segregation of duties and effective risk assessment; and (ii) insufficient written policies and procedures for accounting
+and financial reporting with respect to the requirements and application of both US GAAP and SEC guidelines. 
+
+Changes
+in internal controls over financial reporting 
+
+There
+were no changes in our internal control over financial reporting during the quarter ended December 31, 2022, that have materially affected,
+or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None 
+
+11 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Our
+executive officer s and director s and their respective ages as of the date hereof are as follows: 
+
+NAME 
+ 
+ AGE 
+ 
+ POSITION 
+ 
+ Yeo
+ Choon Pin 
+ 
+ 55 
+ 
+ Director,
+ Chief Executive Officer, President, Chief Financial Officer and Secretary 
+
+Set
+forth below is a brief description of the background and business experience of our executive officer and director for the past five
+years. 
+
+Yeo
+Choon Pin Chief Executive Officer, Chief Financial Ofiicer, Director 
+
+Mr. Yeo is our sole director and executive officer. For more than 30 years, Mr. Yeo has been actively involved in media and publishing
+industries, during which he has developed an extensive international network and resources. In 2002, he was elected as a Council Member
+in Singapore Confederation of Industries (now known as the Singapore Manufacturing Federation), and was instrumental in supporting numerous
+incoming and outgoing trade delegations in Asia. In 2003, Mr. Yeo was invited by the Malaysian government to relocate its operation into
+Malaysia, and shortly after, established the Automation Technology Industry Group under the aegis of Federation of Malaysian Manufacturers
+(FMM) and became the first Chairman representing the voice of the industrial automation industry in Malaysia. In 2004, after the launch
+of the Thailand Elite Club by Tourism Authority of Thailand, Mr. Yeo was appointed as Vice President that represents the Thailand Elite
+Membership Project in Singapore and Malaysia. In 2007, he was appointed by Board of Investments (BOI) of Thailand to assist in the collaboration
+programs of the Alliance of Supporting Industries Association (ASIA) and making Automation Technology Group in Thailand as the 14th industry
+grouping in the alliance. In 2020, he was appointed Secretary of Communication and Media of Brunei Darussalam BIMP-EAGA Business Council
+(BDBEBC), an umbrella organization for the private sector in the subregion and enjoys fifth country status in EAGA co-operation.
+Also in 2020, Mr. Yeo was also appointed as Chairman (Singapore Representative) of ASEAN Chamber of Commerce and Industry. 
+
+12 
+
+Corporate
+Governance 
+
+The
+Company promotes accountability for adherence to honest and ethical conduct; endeavors to provide full, fair, accurate, timely and understandable
+disclosure in reports and documents that the Company files with the Securities and Exchange Commission (the SEC and in
+other public communications made by the Company; and strives to be compliant with applicable governmental laws, rules and regulations.
+The Company has not formally adopted a written code of business conduct and ethics that governs the Company s employees, officers
+and Directors as the Company is not required to do so. 
+
+In
+lieu of an Audit Committee, the Company s Board of Directors, is responsible for reviewing and making recommendations concerning
+the selection of outside auditors, reviewing the scope, results and effectiveness of the annual audit of the Company s financial
+statements and other services provided by the Company s independent public accountants. The Board of Directors, the Chief Executive
+Officer and the Chief Financial Officer of the Company review the Company s internal accounting controls, practices and policies. 
+
+Committees
+of the Board 
+
+Our
+Company currently does not have nominating, compensation, or audit committees or committees performing similar functions nor does our
+Company have a written nominating, compensation or audit committee charter. Our Director(s) believes that it is not necessary to have
+such committees, at this time, because the Director(s) can adequately perform the functions of such committees. 
+
+Audit
+Committee Financial Expert 
+
+Our
+director has determined that we do not have a board member that qualifies as an audit committee financial expert as defined
+in Item 407(D)(5) of Regulation S-K, nor do we have a Board member that qualifies as independent as the term is used in
+Item 7(d)(3)(iv)(B) of Schedule 14A under the Securities Exchange Act of 1934, as amended, and as defined by Rule 4200(a)(14) of the
+FINRA Rules. 
+
+We
+believe that our Director(s) are capable of analyzing and evaluating our financial statements and understanding internal controls and
+procedures for financial reporting. The Director(s) of our Company does not believe that it is necessary to have an audit committee because
+management believes that the Board of Directors can adequately perform the functions of an audit committee. In addition, we believe that
+retaining an independent Director who would qualify as an audit committee financial expert would be overly costly and burdensome
+and is not warranted in our circumstances given the stage of our development and the fact that we have not generated any positive cash
+flows from operations to date. 
+
+Involvement
+in Certain Legal Proceedings 
+
+Our
+Director and our Executive officer have not been involved in any of the following events during the past ten years: 
+
+1. 
+ bankruptcy
+ petition filed by or against any business of which such person was a general partner or executive officer either at the time of the
+ bankruptcy or within two years prior to that time; 
+ 
+ 2. 
+ any
+ conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor
+ offenses); 
+
+13 
+
+3. 
+ being
+ subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction,
+ permanently or temporarily enjoining, barring, suspending or otherwise limiting his/her involvement in any type of business, securities
+ or banking activities; or 
+ 
+ 4. 
+ being
+ found by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have
+ violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated. 
+ 
+ 5. 
+ Such
+ person was found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State
+ securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended,
+ or vacated; 
+ 
+ 6. 
+ Such
+ person was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated
+ any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not
+ been subsequently reversed, suspended or vacated; 
+ 
+ 7. 
+ Such
+ person was the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not
+ subsequently reversed, suspended or vacated, relating to an alleged violation of:(i) Any Federal or State securities or commodities
+ law or regulation; or(ii) Any law or regulation respecting financial institutions or insurance companies including, but not limited
+ to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist
+ order, or removal or prohibition order; or(iii) Any law or regulation prohibiting mail or wire fraud or fraud in connection with
+ any business entity; or 
+ 
+ 8. 
+ Such
+ person was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory
+ organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section
+ 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that
+ has disciplinary authority over its members or persons associated with a member. 
+
+Independence
+of Directors 
+
+We
+are not required to have independent member of our Board of Directors, and do not anticipate having independent Directors until such
+time as we are required to do so. 
+
+Code
+of Ethics 
+
+We
+have not adopted a formal Code of Ethics. The Director evaluated the business of the Company and the number of employees and determined
+that since the business is operated by a small number of persons, general rules of fiduciary duty and federal and state criminal, business
+conduct and securities laws are adequate ethical guidelines. In the event our operations, employees and/or Directors expand in the future,
+we may take actions to adopt a formal Code of Ethics. 
+
+Shareholder
+Proposals 
+
+Our
+Company does not have any defined policy or procedural requirements for shareholders to submit recommendations or nominations for Directors.
+The Board of Directors believes that, given the stage of our development, a specific nominating policy would be premature and of little
+assistance until our business operations develop to a more advanced level. Our Company does not currently have any specific or minimum
+criteria for the election of nominees to the Board of Directors and we do not have any specific process or procedure for evaluating such
+nominees. The Board of Directors will assess all candidates, whether submitted by management or shareholders, and make recommendations
+for election or appointment. 
+
+A
+shareholder who wishes to communicate with our Board of Directors may do so by directing a written request addressed to our Chief Executive
+Officer, Yeo Choon Pin, at the address appearing on the first page of this Information Statement. 
+
+14 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+The
+following table sets forth information concerning the compensation of our Chief Executive Officer, and the executive officers who served
+at the end of the year December 31, 2022, for services rendered in all capacities to us. 
+
+Summary
+Compensation Table: 
+
+Name
+ and Principal Position 
+ Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards ) 
+ Option Awards ) 
+ Non-Equity Incentive
+ Plan Compensation ) 
+ Nonqualified Deferred Compensation Earnings ) 
+ All
+ Other Compensation ) 
+ Total ) 
+ 
+ Yeo
+ Choon Pin, Chief Executive Officer, President, Chief Financial Officer, Director 
+ 2022 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+2021 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Narrative
+Disclosure to Summary Compensation Table 
+
+There
+are no arrangements or plans in which we provide pension, retirement or similar benefits for directors or executive officers. Our directors
+and executive officers may receive stock options at the discretion of our board of directors in the future. We do not have any material
+bonus or profit-sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers,
+except that stock options may be granted at the discretion of our board of directors from time to time. We have no plans or arrangements
+in respect of remuneration received or that may be received by our executive officers to compensate such officers in the event of termination
+of employment (as a result of resignation, retirement, change of control) or a change of responsibilities following a change of control. 
+
+Stock
+Option Grants 
+
+We
+have not granted any stock options to our executive officers since our incorporation. 
+
+Employment
+Agreements 
+
+We
+do not have an employment or consulting agreement with any officers or Directors. 
+
+Compensation
+Discussion and Analysis 
+
+Director
+Compensation 
+
+Our
+director does not currently receive any consideration for their services as members of the Board of Directors. The Board of Directors
+reserves the right in the future to award the members of the Board of Directors cash or stock-based consideration for their services
+to the Company, which awards, if granted shall be in the sole determination of the Board of Directors. 
+
+Executive
+Compensation Philosophy 
+
+Our
+Board of Directors determines the compensation given to our executive officers in their sole determination. Our Board of Directors reserves
+the right to pay our executive or any future executives a salary, and/or issue them shares of common stock in consideration for services
+rendered and/or to award incentive bonuses which are linked to our performance, as well as to the individual executive officer s
+performance. This package may also include long-term stock-based compensation to certain executives, which is intended to align the performance
+of our executives with our long-term business strategies. Additionally, while our Board of Directors has not granted any performance
+base stock options to date, the Board of Directors reserves the right to grant such options in the future, if the Board in its sole determination
+believes such grants would be in the best interests of the Company. 
+
+Incentive
+Bonus 
+
+The
+Board of Directors may grant incentive bonuses to our executive officer and/or future executive officers in its sole discretion, if the
+Board of Directors believes such bonuses are in the Company s best interest, after analyzing our current business objectives and
+growth, if any, and the amount of revenue we are able to generate each month, which revenue is a direct result of the actions and ability
+of such executives. 
+
+Long-term,
+Stock Based Compensation 
+
+In
+order to attract, retain and motivate executive talent necessary to support the Company s long-term business strategy we may award
+our executive and any future executives with long-term, stock-based compensation in the future, at the sole discretion of our Board of
+Directors, which we do not currently have any immediate plans to award. 
+
+15 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+As
+of December 31, 2022, the Company has 126,737,500 shares of common stock issued and outstanding, which number of issued and outstanding
+shares of common stock have been used throughout this report. 
+
+The
+following table sets forth, as of December 31, 2022, certain information with regard to the record and beneficial ownership of the Company s
+common stock by (i) each person known to the Company to be the record or beneficial owner of more than 5 of the Company s common
+stock, (ii) each director of the Company, (iii) each of the named executive officers, and (iv) all executive officers and directors of
+the Company as a group: 
+
+Name
+ and Address of Beneficial Owner 
+ Shares
+ of Common Stock Beneficially Owned 
+ Common
+ Stock Voting Percentage Beneficially Owned 
+ Total
+ Voting Percentage Beneficially Owned 
+ 
+ Executive
+ Officers and Directors 
+
+Yeo Choon Pin, Chief Executive
+ Officer, Chief Financial Officer, Director 
+ 60,495,000 
+ 47.73 
+ 47.73 
+
+All of executive officers
+ and director as a group 
+ 60,495,000 
+ 47.73 
+ 47.73 
+
+5 
+ or greater shareholders (excluding officers/directors) 
+
+SEATech Ventures Corp. Address: 11-05 
+ 11-06, Tower A Ave 3, Vertical Business Suite, Jalan Kerinchi Bangsar South, 59200 Kuala Lumpur 
+ 19,000,000 
+ 14.99 
+ 14.99 
+ 
+ Bezeus Sdn. Bhd. 3A, Jalan Lazat 1, Taman
+ Bukit Indah, 58200 Kuala Lumpur, Malaysia 
+ 12,000,000 
+ 9.47 
+ 9.47 
+
+Beneficial
+ownership has been determined in accordance with Rule 13d-3 under the Exchange Act. Under this rule, certain shares may be deemed to
+be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares).
+In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire shares (for example, upon
+exercise of an option or warrant) within 60 days of the date as of which the information is provided. In computing the percentage ownership
+of any person, the amount of shares is deemed to include the amount of shares beneficially owned by such person by reason of such acquisition
+rights. As a result, the percentage of outstanding shares of any person as shown in the following table does not necessarily reflect
+the person s actual voting power at any particular date. 
+
+(1) 
+ Beneficial
+ ownership is determined in accordance with the rules of the Securities and Exchange Commission and generally includes voting or investment
+ power with respect to securities. Beneficial ownership also includes shares of stock subject to options and warrants currently exercisable
+ or exercisable within 60 days of the date of this table. In determining the percent of common stock owned by a person or entity as
+ of the date of this Report, (a) the numerator is the number of shares of the class beneficially owned by such person or entity, including
+ shares which may be acquired within 60 days on exercise of warrants or options and conversion of convertible securities, and (b)
+ the denominator is the sum of (i) the total shares of common stock outstanding on as of the date of this Annual Report (126,737,500
+ shares), and (ii) the total number of shares that the beneficial owner may acquire upon exercise of the derivative securities. Unless
+ otherwise stated, each beneficial owner has sole power to vote and dispose of its shares. 
+
+(2) 
+ Based
+ on the total issued and outstanding shares of 126,737,500 as of the date of this Annual Report. 
+
+16 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, DIRECTOR INDEPENDENCE 
+
+As
+at December 31, 2022, we have paid consulting fees in total amount of 262,820 to SEATech Ventures (HK) Limited with 104,238 paid in year 2021 and 158,582 paid in year 2022. The nature of this
+consulting fee is related to the group s business mentoring, nurturing, incubation services and corporate development, fund
+raising strategy and other related advisory services. SEATech Ventures (HK) Limited is a subsidiary of SEATech Ventures Corp.(2)
+which owns 14.99 our common stock at the date of this prospectus. We may continue to use the services of SEATech in the future. You
+have no assurance substantially identical services would not be available from unrelated third parties at a lower cost. 
+
+Review,
+Approval and Ratification of Related Party Transactions 
+
+Given
+our small size and limited financial resources, we have not adopted formal policies and procedures for the review, approval or ratification
+of transactions, such as those described above, with our executive officer(s), Director(s) and significant stockholders. We intend to
+establish formal policies and procedures in the future, once we have sufficient resources and have appointed additional Directors, so
+that such transactions will be subject to the review, approval or ratification of our Board of Directors, or an appropriate committee
+thereof. On a moving forward basis, our directors will continue to approve any related party transaction. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+Below
+is the aggregate amount of fees billed for professional services rendered by our principal accountants with respect to our last two fiscal
+years. 
+
+For
+ the Year Ended December 31, 2022 
+ For
+ the Period Ended December 31, 2021 
+ 
+ Audit fees 
+ 24,040 
+ 12,094 
+ 
+ Audit related fees 
+ - 
+ - 
+ 
+ Tax fees 
+ - 
+ - 
+ 
+ All other fees 
+ - 
+ - 
+ 
+ Total 
+ 24,040 
+ 12,094 
+
+The
+category of Audit fees includes fees for our annual audit, quarterly reviews and services rendered in connection with regulatory
+filings with the SEC, such as the issuance of comfort letters and consents. 
+
+The
+category of Audit-related fees includes employee benefit plan audits, internal control reviews and accounting consultation. 
+
+The
+category of Tax services includes tax compliance, tax advice, tax planning. 
+
+The
+category of All other fees generally includes advisory services related to accounting rules and regulations. 
+
+All
+of the professional services rendered by principal accountants for the audit of our annual financial statements that are normally provided
+by the accountant in connection with statutory and regulatory filings or engagements for last two fiscal years were approved by our board
+of directors. 
+
+17 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+(a)
+Financial Statements 
+
+The
+following are filed as part of this Annual Report: 
+
+Financial
+Statements 
+
+The
+following financial statements of catTHIS HOLDINGS CORP. and Report of Independent Registered Public Accounting Firm are presented in
+the F pages of this Report: 
+
+Page 
+
+Index 
+ F-1 
+
+Report
+ of Independent Registered Public Accounting Firm 
+ F-2 
+
+Financial
+ Statements 
+
+Consolidated
+ Balance Sheets 
+ F-3 
+
+Consolidated
+ Statements of Operations and Comprehensive Loss 
+ F-4 
+
+Consolidated
+ Statements of Stockholders Equity 
+ F-5 
+
+Consolidated
+ Statements of Cash Flows 
+ F-6 
+
+Notes
+ to Consolidated Financial Statements 
+ F-7
+ F-17 
+
+(b)
+Exhibits 
+
+The
+following exhibits are filed or furnished herewith: 
+
+3.1 
+ Articles of Incorporation 
+
+3.2 
+ Bylaws 
+
+31.1 
+ Rule
+ 13(a)-14(a)/15(d)-14(a) Certification of principal executive officer 
+
+32.1 
+ Section
+ 1350 Certification of principal executive officer 
+
+Filed herewith. 
+
+As filed in the Registrant s Registration Statement on Form S-1 Amendment No.4 (File No. 333-264963) on February 7, 2023. 
+
+18 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+catTHIS
+ HOLDINGS CORP. 
+
+(Name
+ of Registrant) 
+
+Date:
+ April 14, 2023 
+ By: 
+ /s/
+ Yeo Choon Pin 
+
+Title: 
+ Director,
+ Chief Executive Officer, 
+
+Chief
+ Financial Officer 
+
+19 
+
+INDEX
+TO FINANCIAL STATEMENTS 
+
+Page 
+ 
+ Financial
+ Statements 
+
+Report
+ of Independent Registered Public Accounting Firm 
+ F-2 
+
+Consolidated
+ Balance Sheets 
+ F-4 
+
+Consolidated
+ Statements of Operations and Comprehensive Loss 
+ F-5 
+
+Consolidated
+ Statements of Changes in Stockholders Equity 
+ F-6 
+
+Consolidated
+ Statements of Cash Flows 
+ F-7 
+
+Notes
+ to Consolidated Financial Statements 
+ F-8
+ - F-18 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+The Board of Directors and Stockholders of 
+ catTHIS
+Holdings Corp. 
+
+ A-9-3,
+Northpoint Office, 
+
+ Mid
+Valley City, 
+
+ Lingkaran
+Syed Putra, 
+
+ 59200
+Kuala Lumpur, 
+
+ Malaysia. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of catTHIS Holdings Corp. and subsidiaries (the Company as of
+December 31, 2022 and 2021, and the related consolidated statements of operations and comprehensive loss, stockholders equity,
+and cash flows for the each of two years in the year ended of December 31, 2022 and 2021, and the related notes (collectively referred
+to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the
+financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for the each
+of two years in the year ended Deccember 31, 2022 and 2021, in conformity with accounting principles generally accepted in the United
+States of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that
+our audits provide a reasonable basis for our opinion. 
+
+Going
+Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+2 to the financial statements, for the financial year ended December 31, 2022, the Company s losses from operations, accumulated
+deficit and negative operating cash flows raise substantial doubt about its ability to continue as a going concern. Management s
+plans regarding those matters also are described in Note 2. The financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. 
+
+F- 2 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters below are matters arising from the current period audit of the financial statements that were communicated or
+required to be communicated to those charged with governance and that: (1) relate to accounts or disclosures that are material to the
+financial statements and (2) involved our especially challenging, subjective, or complex judgements. The communication of critical audit
+matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical
+audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Recoverability
+and impairment of trade receivables 
+
+The
+Company s trade receivables amounted USD78,337 as at December 31, 2022 represents approximately 48.75 of the Company s total assets. 
+
+We
+focus and assess the recoverability of the trade receivables involved judgements and estimation uncertainty in analyzing historical
+trend of payment, indicators of expected credit losses (ECL) and customer
+payment terms. Auditing trade receivables is an essential component of the
+financial audit process. 
+
+Our
+audit procedures in this area among others to test the existence, completeness, accuracy, and valuation of trade receivables included
+the following: 
+
+(a) 
+ Obtaining
+ debtor confirmation requests to the Company s customers to confirm the balances of their outstanding receivables; 
+
+(b) 
+ Reviewing
+ ageing analysis of receivables and testing the reliability thereof; 
+
+(c) 
+ Reviewing
+ subsequent collections for major receivables and overdue amount; and 
+
+(d) 
+ Making
+ inquiries of management regarding the action plans to recover overdue amount; 
+
+/s/
+ JP CENTURION PARTNERS PLT 
+
+(ID: 
+
+We have served as the Company s auditor since 2022. 
+
+April 14, 2023 
+
+F- 3 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+ AS
+OF DECEMBER 31, 2022 and 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+ (Audited) 
+
+December 31 
+ December 31 
+
+(Audited) 
+ (Audited) 
+
+2022 
+ 2021 
+
+ASSETS 
+
+CURRENT
+ ASSETS 
+
+Trade receivables 
+ 
+ - 
+ 
+ Deposits, prepayments and other receivables 
+
+Cash and cash equivalents 
+
+Total Current Assets 
+
+NON-CURRENT
+ ASSETS 
+
+Property, plant and equipment 
+
+Intangible assets 
+
+Lease
+ asset right of use 
+
+Total Non-Current Assets 
+
+TOTAL
+ ASSETS 
+
+LIABILITIES
+ AND STOCKHOLDERS EQUITY 
+
+CURRENT
+ LIABILITIES 
+
+Trade payables 
+ 
+ - 
+ 
+ Other payables and accrued
+ liabilities 
+
+Amount due to director 
+
+Lease
+ liabilities, short term 
+
+Total Current Liabilities 
+
+NON-CURRENT
+ LIABILITY 
+
+Lease
+ liabilities, long term 
+ - 
+
+TOTAL
+ LIABILITIES 
+
+STOCKHOLDERS EQUITY 
+
+SHAREHOLDER
+ EQUITY 
+
+Common Shares, par value ; 
+ shares authorized shares issued and outstanding as of December 31, 2022 
+
+Additional paid-in capital 
+
+Foreign exchange translation
+ adjustment 
+
+Accumulated
+ deficit 
+
+TOTAL
+ STOCKHOLDERS EQUITY 
+
+TOTAL
+ LIABILITIES AND STOCKHOLDERS EQUITY 
+
+See
+accompanying notes to consolidated financial statements. 
+
+F- 4 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS FOR THE 
+
+ YEAR ENDED DECEMBER 31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+ (Audited) 
+
+For the year ended December
+ 31, 
+ 2022 
+ For the period ended 
+ December
+ 31, 
+ 2021 
+
+REVENUE 
+
+COST OF REVENUE 
+
+GROSS PROFIT 
+
+OTHER INCOME 
+
+SELLING AND DISTRIBUTION EXPENSES 
+
+GENERAL AND ADMINISTRATIVE EXPENSES 
+
+OTHER OPERATING EXPENSES 
+
+LOSS BEFORE INCOME TAX 
+
+INCOME TAX PROVISION 
+ - 
+ - 
+
+NET LOSS 
+
+Other comprehensive loss: 
+
+- Foreign currency translation
+ gain 
+
+TOTAL COMPREHENSIVE
+ LOSS 
+
+Net loss per share -
+ Basic and diluted 
+
+Weighted average number
+ of common shares outstanding - Basic and diluted 
+
+See
+accompanying notes to consolidated financial statements. 
+
+F- 5 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY FOR THE 
+
+ YEAR ENDED DECEMBER 31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+ (Audited) 
+
+NUMBER
+ OF SHARES 
+ AMOUNT 
+ ADDITIONAL
+ PAID-IN CAPITAL 
+ FOREIGN
+ EXCHANGE TRANSLATION ADJUSTMENT 
+ ACCUMULATED
+ LOSSES 
+ TOTAL
+ EQUITY 
+
+COMMON
+ STOCK 
+
+NUMBER
+ OF SHARES 
+ AMOUNT 
+ ADDITIONAL
+ PAID-IN CAPITAL 
+ FOREIGN
+ EXCHANGE TRANSLATION ADJUSTMENT 
+ ACCUMULATED
+ LOSSES 
+ TOTAL
+ EQUITY 
+ 
+ Balance
+ as of January 4, 2021 (inception) 
+
+- 
+ - 
+ - 
+
+Issuance
+ of share capital founder s shares 
+
+- 
+ - 
+ - 
+
+Share
+ issued in private placement completed on October 10, 2021 at per share 
+
+- 
+ - 
+
+Foreign
+ exchange translation adjustment 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Net
+ loss 
+ - 
+ - 
+ - 
+ - 
+
+Balance
+ as of December 31, 2021 
+
+Balance 
+
+Foreign
+ exchange translation adjustment 
+ - 
+ - 
+ - 
+ ) 
+ - 
+
+Net
+ loss 
+ - 
+ - 
+ - 
+ - 
+
+Balance
+ as of December 31, 2022 
+
+) 
+
+Balance 
+
+) 
+
+See
+accompanying notes to consolidated financial statements 
+
+F- 6 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ CONSOLIDATED
+STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 
+
+DECEMBER 31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US )) 
+
+ (Audited) 
+
+For
+ the year ended December
+ 31, 2022 
+ For
+ the period from January 4, 2021 to December
+ 31, 2021 
+
+(Audited) 
+ (Audited) 
+ 
+ CASH FLOWS FROM OPERATING
+ ACTIVITIES: 
+
+Net loss 
+
+Adjustment to reconcile net loss to net cash
+ used in operating activities: 
+
+Depreciation expenses and
+ amortization 
+
+Changes in operating assets and liabilities: 
+
+Trade receivables 
+ 
+ - 
+ 
+ Deposits, prepayments and
+ other receivables 
+
+Operating lease liabilities 
+
+Trade payables 
+ 
+ - 
+ 
+ Other
+ payables and accrued liabilities 
+
+Net cash used in
+ operating activities 
+
+CASH FLOWS FROM INVESTING
+ ACTIVITIES 
+
+Purchase of property, plant
+ and equipment 
+
+Purchase of intangible
+ assets 
+ - 
+
+Net
+ cash used in investing activity 
+
+CASH FLOWS FROM FINANCING
+ ACTIVITIES 
+
+Issuance of share capital 
+ - 
+
+Advance from director 
+ - 
+
+Net
+ cash generated from financing activities 
+ - 
+
+Effect of foreign exchange
+ translation 
+
+Net (decrease) / increase in cash and cash
+ equivalents 
+
+Cash and cash equivalents,
+ beginning of period 
+
+CASH
+ AND CASH EQUIVALENTS, END OF YEAR/PERIOD 
+
+See
+accompanying notes to consolidated financial statements. 
+
+F- 7 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER 31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+of the equity interests in catTHIS Holdings Corp. (herein referred as the Malaysia Company ),
+a private limited company incorporated in Labuan, Malaysia. 
+
+. 
+
+/ 
+
+For
+purposes of consolidated financial statement presentation, catTHIS Holdings Corp. and its subsidiary is hereinafter referred to as the
+ Company . 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER 31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+, net loss of and negative operating cash flows of . These factors raise substantial
+doubt about the Company s ability to continue as a going concern within one year of the date that the financial statements are
+issued. The financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going
+concern. 
+
+The
+Company s ability to continue as a going concern is dependent upon improving its profitability and the continuing financial support
+from its shareholders. Management believes the existing shareholders or external financing will provide the additional cash to meet the
+Company s obligations as they become due. No assurance can be given that any future financing, if needed, will be available or,
+if available, that it will be on terms that are satisfactory to the Company. Even if the Company is able to obtain additional financing,
+if needed, it may contain undue restrictions on its operations, in the case of debt financing, or cause substantial dilution for its
+stock holders, in the case of equity financing. 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER
+31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+years 
+
+Photography and videography equipment 
+ years 
+
+Expenditures
+for maintenance and repairs are expensed as incurred. The gain or loss on the disposal of plant and equipment is the difference between
+the net sales proceeds and the carrying amount of the relevant assets and is recognized in the statement of operations 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER
+31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+of
+being realized upon ultimate settlement with the tax authority assuming full knowledge of the position and relevant facts. 
+
+Year-average RM: US 1 exchange rate 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER 31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER
+31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+shares of restricted common stock, with a par value of per share, to Mr. Yeo Choon Pin
+for initial working capital of . Mr. Yeo serves as our Chief Executive Officer, President, Secretary, Treasurer and as member of our
+Board of Directors. 
+
+On
+July 15, 2021 the Company issued shares of restricted common stock, with a par value of per share, to Mr. Yeo Choon
+Pin in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+August 15, 2021, the Company issued shares of restricted common stock to Hoh Jee Choong with a par value of per share,
+in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+August 15, 2021 the Company issued shares of restricted common stock to Chong Kwong Hsein with a par value of per share,
+in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+August 15, 2021, the Company issued shares of restricted common stock to GreenPro Ventures Capital Limited with a par value
+of per share, in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+August 15, 2021, the Company issued shares of restricted common stock to Hoh Jei Munn with a par value of per share,
+in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+August 15, 2021, the Company issued shares of restricted common stock to Su Ching Pung with a par value of per share,
+in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+August 15, 2021, the Company issued shares of restricted common stock to Low En Lin Justin with a par value of per share,
+in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+September 1, 2021, the Company issued shares of restricted common stock to GreenPro Asia Strategic SPC Greenpro Asia
+Strategic Fund SP with a par value of per share, in consideration of . The in proceeds went to the Company to be used
+as working capital. 
+
+On
+September 5, 2021, the Company issued shares of restricted common stock to Bezeus Sdn Bhd with a par value of per
+share, in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+September 5, 2021, the Company issued shares of restricted common stock to SEATech Ventures Corp with a par value of 
+per share, in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+September 5, 2021 the Company issued shares of restricted common stock to CMK Ventures Sdn Bhd with a par value of 
+per share, in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+September 5, 2021, the Company issued shares of restricted common stock to CT Talent Sdn Bhd with a par value of per
+share, in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+September 5, 2021, the Company issued shares of restricted common stock to Lee Boon Ping (Li WenBing) with a par value of 
+per share, in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+On
+September 5, 2021, the Company issued shares of restricted common stock to Lim Cheng Jeen with a par value of per share,
+in consideration of . The in proceeds went to the Company to be used as working capital. 
+
+Between
+the period of September 10, 2021 to October 10, 2021, the Company sold shares of common stock to foreign parties, all of which do
+not reside in the United States. A total of shares of restricted common stock were sold at a price of per share. The
+total proceeds to the Company amounted to a total of and went to the Company to be used as working capital. 
+
+As
+of December 31, 2022, the Company had a total of of its common stock issued and outstanding. There are no shares of preferred
+stock issued and outstanding. 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER
+31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+and which consists of cash
+on hand and bank balances. 
+
+- 
+ 
+ Total trade receivable 
+ 
+ - 
+
+As
+of December 31, 2022, trade receivable of which accounted of total revenue of year December 31, 2022. 
+
+Accumulated depreciation 
+
+Foreign exchange translation 
+
+Balance as at December 31, 2022, December
+ 31, 2021 
+
+This
+office equipment include, but are not strictly limited to, preparing the interior of the office space for the Company s use, improving
+functionality, and purchasing new office equipment. 
+
+For the year ended December 31, 2022, the depreciation of the property, plant and equipment was . 
+
+Accumulated amortization 
+
+Foreign exchange
+ translation 
+
+Balance as at December
+ 31, 2022, December 31, 2021 
+
+For the year ended December 31, 2022, the amortisation of the intangible assets was 2,472. 
+
+Less: imputed interest 
+
+Recognition as of
+ December 1, 2021 
+
+Initial recognition 
+
+Accumulated amortization 
+
+Foreign exchange translation
+ gain 
+
+Balance as of December
+ 31, 2021 
+
+Balance 
+
+Initial recognition 
+
+Less: gross repayment 
+
+Add: imputed interest 
+
+Foreign exchange translation
+ loss 
+
+Balance as of December 31, 2021 
+
+Balance 
+
+Less: lease liability
+ current portion 
+
+Lease liability non-current
+ portion 
+
+For
+the period ended December 31, 2021, the amortization of the operating lease right of use asset was . 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER
+31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+Initial recognition 
+
+Accumulated amortization 
+
+Foreign exchange translation
+ loss 
+
+Balance as of December
+ 31, 2022 
+
+Ending
+ Balance 
+
+Beginning Balance 
+
+Less: gross repayment 
+
+Add: imputed interest 
+
+Foreign exchange translation
+ loss 
+
+Balance as of December 31, 2022 
+
+Ending Balance 
+
+Less: lease liability
+ current portion 
+
+Lease liability non-current
+ portion 
+ - 
+
+For
+the year ended December 31, 2022, the amortization of the operating lease right of use asset is . 
+
+Prepayments 
+ - 
+
+Total deposits, prepayments
+ and other receivables 
+
+- 
+ 
+ Total trade payable 
+ 
+ - 
+
+As
+of December 31, 2022, trade payable of is charged by a related party, Resource 21 Sdn Bhd. 
+
+Other payables 
+
+Total other payables
+ and accrued liabilities 
+
+Foreign exchange translation 
+ 
+ - 
+ 
+ Total amount due to
+ director 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER
+31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+-Foreign, representing 
+
+Labuan 
+
+Loss before income
+ tax 
+
+The
+effective tax rate in the years presented is the result of the mix of income earned in various tax jurisdictions that apply a broad range
+of income tax rates. The Company has subsidiaries that operate in various countries: United States and Labuan that are subject to taxes
+in the jurisdictions in which they operate, as follows: 
+
+United
+States of America 
+
+The
+Company is registered in the State of Nevada and is subject to the tax laws of the United States of America. As of December 31, 2022
+the operations in the United States of America incurred of cumulative net operating losses which can be carried forward to offset
+future taxable income. The net operating loss carry forwards begin to expire in 2042, if unutilized. The Company has provided for a full
+valuation allowance of against the deferred tax assets on the expected future tax benefits from the net operating loss carry
+forwards as the management believes it is more likely than not that these assets will not be realized in the future. 
+
+Labuan 
+
+Under
+the current laws of the Labuan, catTHIS Holdings Corp.is governed under the Labuan Business Activity Act, 1990. The tax charge for such
+company is based on of net audited profit. 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER
+31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+shareholder of the Company. During the
+year ended December 31, 2022, the Company have paid a further consulting fees amounting to to SEATech Ventures (HK) Limited
+for business mentoring, nurturing, incubation services and corporate development advisory services. There were consultation fee amounting
+to incurred during the period ended December 31, 2021. No amount due to SEATech Ventures (HK) Limited as of December 31, 2022
+and December 31, 2021. There were Metaverse development costs amounting to charged by related party, Resource 21 Sdn Bhd during
+the year ended December 31, 2022. 
+
+- 
+ 
+ - 
+ 
+ - 
+
+- 
+ 
+ - 
+ 
+ - 
+
+(b) 
+ Major
+ suppliers 
+
+For
+the year ended December 31, 2022 and 2021, the vendors who accounted for 10 or more of the Company s purchases and its outstanding
+payable balance at year-end are presented as follows: 
+
+For
+ the year ended December 31 
+
+2022 
+ 2021 
+ 2022 
+ 2021 
+ 2022 
+ 2021 
+
+Cost
+ of Sales 
+ Percentage
+ of Cost 
+ of
+ Revenues 
+ Accounts
+ Payable, Trade 
+ 
+ Supplier A 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ Supplier B 
+ 
+ - 
+ 
+ - 
+ - 
+ - 
+
+- 
+ 
+ - 
+ 
+ - 
+
+(c)
+Credit risk 
+
+Financial instruments that are potentially subject to credit risk consist principally of accounts receivable. The Company believes the
+concentration of credit risk in its trade receivables is substantially mitigated by its ongoing credit evaluation process and relatively
+short collection terms. The Company does not generally require collateral from customers. The Company evaluates the need for an allowance
+for doubtful accounts based upon factors surrounding the credit risk of specific customers, historical trends and other information. 
+
+(d)
+Exchange rate risk 
+
+The
+Company cannot guarantee that the current exchange rate will remain stable, therefore there is a possibility that the Company could post
+the same amount of income for two comparable periods and because of the fluctuating exchange rate actually post higher or lower income
+depending on exchange rate of RM converted to US on that date. The exchange rate could fluctuate depending on changes in political and
+economic environments without notice. 
+
+CATTHIS
+HOLDINGS CORP. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 
+
+ DECEMBER
+31, 2022 AND FOR THE PERIOD ENDED DECEMBER 31, 2021 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+- 
+
+Other income and gains 
+ - 
+ 
+ - 
+
+Cost of revenues 
+ - 
+ 
+ - 
+
+Administrative expenses 
+
+- 
+
+Other operating expenses 
+ - 
+ 
+ - 
+
+Selling and distribution expenses 
+ - 
+ 
+ - 
+
+Net loss 
+
+- 
+
+Total assets 
+ - 
+ 
+ - 
+
+For the period ended December
+ 31, 2021 
+
+United
+ State (Nevada) 
+ Malaysia
+ (Labuan) 
+ Singapore 
+ Total 
+
+Revenues 
+ - 
+ 
+ - 
+
+Other income and gains 
+ - 
+ 
+ - 
+
+Cost of revenues 
+ - 
+ 
+ - 
+
+Administrative expenses 
+
+Other operating expenses 
+ - 
+ 
+ - 
+
+Selling and distribution expenses 
+ - 
+ 
+ - 
+
+Net loss 
+
+- 
+
+Total assets 
+
+- 
+
+Revenues
+and costs are attributed to countries based on the location of customers. 
+
+F- 18 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION 
+
+I,
+Yeo Choon Pin, certify that: 
+
+1.
+I have reviewed this annual report on Form 10-K of catTHIS HOLDINGS CORP (the Company for the year ended December 31,
+2022; 
+
+2.
+Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+year covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the years presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the years in which this report is being prepared; 
+
+b. 
+ Designed
+ such internal control over financial reporting, or caused such internal control to be designed under our supervision, to provide
+ reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+ in accordance with generally accepted accounting principles. 
+
+c. 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the year covered by this report based on such evaluation;
+ and 
+
+d. 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a. 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+ April 14, 2023 
+ By: 
+ /s/
+ Yeo Choon Pin 
+
+Yeo
+ Choon Pin 
+
+Director,
+ Chief Executive Officer, Chief Financial Officer 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of CATTHIS HOLDINGS CORP. (the Company on Form 10-K for the year ended December 31,
+2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ), The undersigned hereby certifies,
+pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge
+and belief: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+Date:
+ April 14, 2023 
+ By: 
+ /s/
+ Yeo Choon Pin 
+
+Yeo
+ Choon Pin 
+
+Director,
+ Chief Executive Officer, Chief Financial Officer 
+
+A
+signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting
+the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and
+will be retained by the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 6
+ catt-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ catt-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ catt-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ catt-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

@@ -1,0 +1,2116 @@
+<Header>
+<FileStats>
+    <FileName>20230918_10-K_edgar_data_1882781_0001599916-23-000202.txt</FileName>
+    <GrossFileSize>1318508</GrossFileSize>
+    <NetFileSize>74398</NetFileSize>
+    <NonText_DocumentType_Chars>321510</NonText_DocumentType_Chars>
+    <HTML_Chars>303792</HTML_Chars>
+    <XBRL_Chars>233929</XBRL_Chars>
+    <XML_Chars>353051</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001599916-23-000202.hdr.sgml : 20230918
+<ACCEPTANCE-DATETIME>20230918090904
+ACCESSION NUMBER:		0001599916-23-000202
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		30
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230918
+DATE AS OF CHANGE:		20230918
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			C2 Blockchain,Inc.
+		CENTRAL INDEX KEY:			0001882781
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56340
+		FILM NUMBER:		231260243
+
+	BUSINESS ADDRESS:	
+		STREET 1:		123 SE 3RD AVE. #130
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33131
+		BUSINESS PHONE:		8884373432
+
+	MAIL ADDRESS:	
+		STREET 1:		123 SE 3RD AVE. #130
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	C2 Blockchain, Inc.
+		DATE OF NAME CHANGE:	20210914
+
+</SEC-Header>
+</Header>
+
+ 0001599916-23-000202.txt : 20230918
+
+10-K
+ 1
+ c2block23o.htm
+ 10-K
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 
+
+ (Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR
+THE FISCAL YEAR ENDED 
+
+OR 
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period
+from ______ to _________ 
+
+COMMISSION FILE NUMBER: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction 
+ of incorporation or organization) 
+ (I.R.S. Employer Identification No.) 
+
+c/o Levi Jacobson 
+ 123 SE 3rd Ave, #130 Miami, Florida 
+ 33131 
+
+(Address of Principal Executive Offices) 
+ (Zip Code) 
+
+Securities to be registered under Section 12(b) of
+the Act: 
+
+Title of each class 
+ Name of each exchange on which registered 
+
+Common Stock, 0.001 
+ 
+ N/A 
+
+Securities to be registered under Section 12(g) of
+the Exchange Act: 
+
+Common stock, par value of 0.001 par value 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ [ ] Yes [X] 
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ [ ] Yes [X] 
+
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. 
+
+ [X] [ ] No 
+
+Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of
+this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+ [X] [ ] No 
+
+ Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer, smaller reporting company, 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+ 
+ Emerging growth company 
+
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Act). 
+
+ [X] [ ] No 
+
+As of December 31, 2022, the last business day
+of the registrant s most recently completed second fiscal quarter, the aggregate market value of the voting common stock held
+by non-affiliates of the registrant was approximately 
+based on the closing price per share (or 0.0659), of the registrant s common stock as reported by OTC Markets Group Inc. 
+
+Indicate the number of shares outstanding of each of the issuer s
+classes of stock, as of the latest practicable date: 
+
+shares of common
+stock, 0.001 par value, issued and outstanding as of September 18, 2023 
+
+ 0 shares of preferred stock,
+ 0.001 par value, issued and outstanding as of September 18, 2023. 
+
+Table of Contents 
+
+TABLE
+OF CONTENTS 
+
+ C2
+Blockchain, Inc. 
+
+PART
+ I 
+
+PAGE 
+ 
+ Item
+ 1 
+ Business 
+ 
+ 1 
+ 
+ Item
+ 1A 
+ Risk
+ Factors 
+ 
+ 4 
+ 
+ Item
+ 1B 
+ Unresolved
+ Staff Comments 
+ 
+ 4 
+ 
+ Item
+ 2 
+ Properties 
+ 
+ 4 
+ 
+ Item
+ 3 
+ Legal
+ Proceedings 
+ 
+ 4 
+ 
+ Item
+ 4 
+ Mine
+ Safety Disclosures 
+ 
+ 4 
+
+PART
+ II 
+
+Item
+ 5 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 4 
+ 
+ Item
+ 6 
+ Selected
+ Financial Data 
+ 
+ 5 
+ 
+ Item
+ 7 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 5 
+ 
+ Item
+ 7A 
+ Quantitative
+ and Qualitative Disclosures about Market Risk 
+ 
+ 5 
+ 
+ Item
+ 8 
+ Financial
+ Statements and Supplementary Data 
+ 
+ F1-F9 
+ 
+ Item
+ 9 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 6 
+ 
+ Item
+ 9A 
+ Controls
+ and Procedures 
+ 
+ 6 
+ 
+ Item
+ 9B 
+ Other
+ Information 
+ 
+ 6 
+
+PART
+ III 
+
+Item
+ 10 
+ Directors,
+ Executive Officers and Corporate Governance 
+ 
+ 7 
+ 
+ Item
+ 11 
+ Executive
+ Compensation 
+ 
+ 9 
+ 
+ Item
+ 12 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 10 
+ 
+ Item
+ 13 
+ Certain
+ Relationships and Related Transactions, and Director Independence 
+ 
+ 10 
+ 
+ Item
+ 14 
+ Principal
+ Accounting Fees and Services 
+ 
+ 11 
+
+PART
+ IV 
+
+Item
+ 15 
+ Exhibits,
+ Financial Statement Schedules 
+ 
+ 12 
+ 
+ Item
+ 16 
+ Form
+ 10-K Summary 
+ 
+ 12 
+
+Signatures 
+ 
+ 12 
+
+Table of Contents 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING
+STATEMENTS 
+
+Certain statements and information included in
+this Annual Report on Form 10-K for the year ended June 30, 2023 (this Report ), contains forward-looking statements
+within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), Section 21 of the Securities
+Exchange Act of 1934, as amended (the Exchange Act ), and the Private Securities Litigation Reform Act of 1995. Forward-looking
+statements are not statements of historical facts, but rather reflect our current expectations concerning future events and results. We
+generally use the words may, should, believe, expect, intend, plan, 
+ anticipate, likely, estimate, potential, continue, will, 
+and similar expressions to identify forward-looking statements. Such forward-looking statements, including those concerning our expectations,
+involve risks, uncertainties and other factors, some of which are beyond our control, which may cause our actual results, performance,
+or achievements, or industry results to be materially different from any future results, performance, or achievements expressed or implied
+by such forward-looking statements. Except as required by applicable law, including the securities laws of the United States, we undertake
+no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise.
+You are cautioned not to unduly rely on such forward-looking statements when evaluating the information presented in this Report. 
+
+GLOSSARY OF TERMS AND
+INDUSTRY DATA 
+
+We, us, our, 
+ the Registrant, the Company, and C2 Blockchain are synonymous with C2 Blockchain, Inc., unless otherwise
+indicated. 
+
+Bitcoin A type of digital asset based
+on an open source math-based protocol existing onthe Bitcoin Network and utilizing cryptographic security. 
+
+ Bitcoin Exchange An electronic marketplace
+where exchange participants may trade, buyand sell bitcoins based on bid-ask trading. The largest Bitcoin Exchanges are online and typically
+trade on a 24-hour basis, publishing transaction prices and volume data. 
+
+ Bitcoin Exchange Market The global Bitcoin
+Exchange market for the trading of bitcoins, which consists of transactions on electronic Bitcoin Exchanges. 
+
+ Bitcoin Network The online, end-user-to-end-user
+network hosting the public transaction ledger, known as the Blockchain, and the source code comprising the basis for the math-based protocols
+and cryptographic security governing the Bitcoin Network. 
+
+ Blockchain The public transaction ledger
+of the Bitcoin Network on which miners or mining pools solve algorithmic equations, allowing them to add records of recent transactions
+(called blocks to the chain of transactions in exchange for an award of bitcoins from the Bitcoin Network and the payment
+of transaction fees, if any, from users whose transactions are recorded in the block being added. 
+
+ CEA Commodity Exchange Act of 1936, as
+amended. 
+
+ CFTC The US Commodity Futures Trading
+Commission, an independent agency with the mandate to regulate commodity futures and option markets in the United States. 
+
+ Code The US Internal Revenue Code of 1986,
+as amended. 
+
+ Digital Asset Collectively, all digital
+assets based upon a computer-generated math-based and/or cryptographic protocol that may, among other things, be used to buy and sell
+goods or pay for services. Bitcoins represent one type of digital asset. 
+
+ DDoS Attack Distributed denial of service
+attacks are coordinated hacking attempts to disrupt websites, web servers or computer networks in which an attacker bombards an online
+target with a large quantity of external requests, thus precluding the target from processing requests from genuine users. 
+
+ Exchange Act The Securities Exchange Act
+of 1934, as amended. 
+
+ FDIC The Federal Deposit Insurance Corporation. 
+
+ FinCEN The Financial Crimes Enforcement
+Network, a bureau of the US Department of the Treasury. 
+
+ FINRA The Financial Industry Regulatory
+Authority, Inc., which is the primary regulator in the United States for broker-dealers. 
+
+ Fiat Currency Currency that a government
+has declared to be legal tender but is not backed by a physical commodity. The value of fiat money is derived from the relationship between
+supply and demand rather than the value of the material that the money is made of. 
+
+ Hash Rate A measure of the computational
+power on a blockchain network. Hash rate is determined by how many guesses are made per second. The overall hash rate helps determine
+the security and mining difficulty of a blockchain network. 
+
+ IRS The US Internal Revenue Service, a
+bureau of the US Department of the Treasury. 
+
+ Mining The process by which Bitcoins are
+created involving programmers solving complex math problems with the computers in the Bitcoin Network. 
+
+ SEC The US Securities and Exchange Commission. 
+
+ Securities Act The Securities Act of 1933,
+as amended. 
+
+ SIPC The Securities Investor Protection
+Corporation. 
+
+Table of Contents 
+
+PART I 
+
+Item 1. Business. 
+
+(a) Business Development 
+
+ C2 Blockchain, Inc. was incorporated on June 30, 2021 in the State of Nevada. 
+
+ On June 30, 2021, Levi Jacobson was appointed Chief Executive Officer, Chief Financial Officer, and Director of C2 Blockchain, Inc. 
+
+ On
+March 31, 2022, the Company entered into a Agreement and Plan of Merger , whereas it agreed to, and subsequently participated
+in, a Nevada holding company reorganization pursuant to NRS 92A.180, NRS 92A.200, NRS 92A.230 and NRS 92A.250 Reorganization ).
+The constituent corporations in the Reorganization were American Estate Management Company AEMC or Predecessor ),
+C2 Blockchain, Inc. Successor or CBLO ), and AEMC Merger Sub, Inc. Merger Sub ). Our director
+is, and was, the sole director/officer of each constituent corporation in the Reorganization. 
+
+C2
+Blockchain, Inc. issued 1,000 common shares of its common stock to Predecessor and Merger Sub issued 1,000 shares of its common stock
+to C2 Blockchain, Inc. immediately prior to the Reorganization. As such, immediately prior to the merger, C2 Blockchain, Inc. became a
+wholly owned direct subsidiary of American Estate Management Company and Merger Sub became a wholly owned and direct subsidiary of C2
+Blockchain, Inc. 
+
+On
+March 31, 2022 , Merger Sub filed Articles of Merger with the Nevada Secretary of State. The merger became
+effective on April 1, 2022 at 4:00 PM PST Effective Time ). At the Effective Time, Predecessor was merged with and into
+Merger Sub (the Merger), and Predecessor became the surviving corporation. Each share of Predecessor common stock issued and outstanding
+immediately prior to the Effective Time was converted into one validly issued, fully paid and non-assessable share of C2 Blockchain, Inc. s Successors common stock. 
+
+On
+May 23, 2022, C2 Blockchain, Inc., as successor issuer to American Estate Management Company began a quoted market in its common
+stock which was the market effective date for our corporate action. 
+
+The
+Company believes that the Reorganization, deemed effective on April 1, 2022, was not a transaction of the type described in subparagraph
+(a) of Rule 145 under the Securities Act of 1933 and the consummation of the Reorganization will not be deemed to involve an offer ,
+ offer to sell , offer for sale or sale within the meaning of Section 2(3) of the Securities Act
+of 1933. The Reorganization was consummated without the vote or consent of the Company s stockholders. In addition, the provisions
+of NRS 92A.180 did not provide a stockholder of the Company with appraisal rights in connection with the Reorganization. The Company believes
+that in the absence of any right of any of the Company s stockholders to vote with respect to the Reorganization or to insist that
+their shares be purchased for fair value, the Reorganization could not be deemed to involve an offer offer to sell 
+or sale within the meaning of Section 2(3) of the Securities Act of 1933. 
+
+On
+April 1, 2022, after the completion of the Holding Company Reorganization, we cancelled all of the stock we held in AEMC resulting in
+AEMC as a stand-alone company. Pursuant to the holding company merger agreement and effects of merger, all of the assets and liabilities,
+if any, remain with AEMC after the Reorganization. Levi Jacobson, the Director of AEMC, did not discover any assets of AEMC from the time
+he was appointed Director until the completion of the Reorganization and subsequent separation of AEMC as a stand-alone company. 
+
+Given
+that the former business plan and objectives of AEMC and the present day business plan and objectives of CBLO substantially differ from
+one another, we conducted the corporate separation with AEMC immediately after the effective time of the Reorganization in order to avoid
+any shareholder confusion. The former business plan of AEMC under the leadership of its former directors, does not, in any way, represent
+the current day business plan of CBLO. The result of corporate separation ameliorated shareholder confusion about our identity
+and/or corporate objectives. Furthermore, we wanted to continue trading in the OTC MarketPlace. 
+
+On April 1, 2022, the Company transmuted its business plan from that of
+a blank check shell company to a business combination related shell company with a holding company formation pursuant to a reorganization
+with American Estate Management Company. 
+
+The
+corporate actions taken by the Company, including, but not limited to, the corporate structuring of the transactions, was deemed, in the
+discretion of our sole director, to be for the benefit of the corporation and its shareholders. Former shareholders of AEMC are now the
+shareholders of CBLO. Each and every shareholder of AEMC became a shareholder of CBLO with each share of capital stock of AEMC held by
+former AEMC shareholder becoming an equivalent amount of capital stock held in CBLO. The former shareholders of AEMC now have the opportunity
+to benefit under our business plan and we have the opportunity to grow organically from our shareholder base and new leadership under
+our sole director. 
+
+FINRA
+completed its review of our corporate action pursuant to our Reorganization. On April 26, 2022, CBLO was given a CUSIP number by CUSIP
+Global Services of 12675R 109. The announcement of our Predecessor s corporate action was posted on the FINRA daily list on May
+20, 2022. The Market Effective date was May 23, 2022. 
+
+Our
+Common Stock is currently quoted on the OTC Markets Group Inc s Pink Open Market under the symbol CBLO . 
+
+After completion of the Holding Company Reorganization and separation
+of AEMC as a wholly owned subsidiary, the Company reverted back to a blank check shell company. 
+
+Currently, we no longer believe we are deemed to be a blank check
+shell company, but rather a shell company as we have a bona fide business plan at this time. The Company s business plan is to
+concentrate on cryptocurrency related investments and development opportunities including but not limited to cryptocurrency mining, primarily
+for Bitcoin, for our own account, investments in private and/or public entities, joint ventures and acquisitions of blockchain related
+companies. We have not commenced our planned principal operations. 
+
+Currently,
+Mendel Holdings, LLC, a Delaware Limited Liability Company, owned and controlled by Levi Jacobson, our sole director is our controlling
+shareholder, owning 200,000,000 shares of our common stock representing approximately 78.76 voting control. 
+
+- 1 - 
+
+Table of Contents 
+
+At this time our office space is provided to us rent free by our director. Our office space is located at 123 SE 3RD Ave, #130, Miami,
+FL 33131. 
+
+The Company has elected June 30th as its fiscal
+year end. 
+
+ At this time we have no employees and we
+have no intellectual property. 
+
+ (b) Business Summary 
+
+We have not yet commenced any material operations. The Company
+plans to build a 14 MW Bitcoin mining facility in Georgia U.S. specifically designed for hosting cryptocurrency mining equipment and
+mining Bitcoin for our own account. Cryptocurrency mining (e.g. bitcoin mining) entails
+running ASIC (application-specific integrated circuit) servers or other specialized servers which solve a set of prescribed complex
+mathematical calculations in order to add a block to a blockchain and thereby confirm digital asset transactions. A party which is
+successful in adding a block to the blockchain is awarded a fixed number of digital assets in return. 
+
+At this time, we own no real estate. Since our inception, June 30,
+2021, we have not generated any revenues. 
+
+In order to implement our plan of operations for the next
+twelve-month period, we require a minimum of 200,000 in funding. At present, we plan to to acquire the aforementioned funding from
+the sale of our common stock pursuant to a Tier II Regulation A Offering we seek to conduct in the near future. At present, the
+Offering Statement pursuant to the Tier II Regulation Offering remains in review by the Securities and Exchange Commission. It is
+not yet qualified. The Offering Circular and related documentation was filed on July 5, 2023. At this time, we cannot accurately
+forecast when the Offering may be qualified and or subsequently conducted. 
+
+The number of computers that we may purchase or lease for
+mining bitcoin will depend on how quickly we are able to raise funds through the aforementioned Offering. We expect the proceeds
+from the Offering will be sufficient for us to implement our business plan and that no additional funding will be needed to
+implement our business plan, however there is no guarantee that this may be the case. We may be unsuccessful in raising any capital
+from the Offering, and thus we may need to seek out alternate sources of financing. The scalability of our business plan also
+depends entirely on our ability to secure funds for future operations. 
+
+Our plan of operations for the next twelve (12) months is as follows: 
+
+We are seeking up to a maximum of 60,000,000 in
+funding from our pending Regulation A Offering to jumpstart our cryptocurrency mining operation including the purchase of ASIC
+computers, land, and construction of a warehouse to host our mining operation. The following plan for the next 12 months assumes
+that we receive 60,000,000. As mentioned, we believe a minimum of 200,000 is needed to commence material operations, albeit on a
+smaller scale than what may be proposed below. There is a possibility that we do not obtain the necessary funding to carry out our
+business plan. If this is to occur we may need to reconsider the feasibility of our business plan, or reconsider how
+we allocate funds available to us. 
+
+The amount we may spend on any of the various endeavors
+below is subject to change and depends entirely on our future financial condition of the Company. 
+
+Six Months 
+
+Capital Raise pursuant to Tier II Regulation A offering 
+
+Purchase of real estate land in Georgia, U.S.A to host our crypto mining operation 
+
+Twelve Months 
+
+Buildout of Warehouse 
+
+Purchase of Mining Hardware 
+
+Purchase and set up of ASIC Computers (application-specific integrated circuit) 
+
+Purchase of Mining Software 
+
+Source Electricity with Municipality. 
+
+Commence Mining of Cryptocurrency 
+
+The anticipated budgets required to achieve the milestones are provided
+in the table below: 
+
+Uses 
+ 
+ Amount 
+
+Purchase of real estate land in Georgia, U.S.A to host our crypto mining operation 
+
+5,000,000 
+
+Building and Construction of Warehouse for Cryptocurrency Datacenter 
+
+10,000,000 
+
+Mining Hardware/Machines 
+
+10,000,000 
+
+Mining Software 
+
+5,000,000 
+
+Cost of Electricity 
+
+10,000,000 
+
+Other Expenses / Working Capital 
+
+10,000,000 
+
+Salaries, General Admin, Professional Fees 
+
+10,000,000 
+
+Total Uses 
+
+60,000,000 
+
+The amounts that we actually spend for any
+specific purpose may vary significantly, and will depend on a number of factors including, but not limited to, the amount of money
+that we actually receive from our pending Regulation A Offering, the pace of progress of our development efforts, actual needs with
+respect to product testing, research and development, market conditions, and changes in or revisions to our marketing strategies, as
+well as any legal or regulatory changes which may ensue. You will be relying on the judgment of our management regarding the
+application of the proceeds of any sale of our common stock. 
+
+If management is unable to implement our proposed
+business plan or employ alternative financing strategies, it does not presently have any alternative proposals. In that event, investors
+should anticipate that their investment may be lost and there may be no ability to profit from this investment. 
+
+We cannot assure you that our planned mining operation
+for bitcoin or any other digital coin will ever happen or that we will ever earn revenues sufficient to support our operations or that
+we will ever be profitable. Furthermore, since we have no committed source of financing, we cannot assure you that we will be able to
+raise money as and when we need it to continue our operations. If we cannot raise funds as and when we need them, we may be required to
+severely curtail, or even to cease our operations. 
+
+- 2 - 
+
+Table of Contents 
+
+(c) Reports to security holders. 
+
+(1) 
+ The Company is not required to deliver an annual report to security holders and at this time does not anticipate the distribution of such a report. 
+
+(2) 
+ The
+ Company will continue to file reports with the SEC. The Company is an SEC reporting company and complies with the requirements of
+ the Exchange Act. 
+
+(3) 
+ The public may read and copy any materials the Company files with the SEC in the SEC's Public Reference Section, Room 1580, 100 F Street N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Section by calling the SEC at 1-800-SEC-0330. Additionally, the SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, which can be found at http://www.sec.gov. 
+
+Emerging Growth Company 
+
+We are an emerging growth company under the JOBS Act. We shall continue
+to be deemed an emerging growth company until the earliest of: 
+
+(a) the last day of the fiscal year of the issuer during which it had total annual gross revenues of 1,070,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) or more; 
+
+(b) the last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective IPO registration statement; 
+
+(c) the date on which such issuer has, during the previous 3-year period, issued more than 1,000,000,000 in non-convertible debt; or 
+
+(d) the date on which such issuer is deemed to be a large accelerated filer, as defined in section 240.12b-2 of title 17, Code of Federal Regulations, or any successor thereto. 
+
+As an emerging growth company, we are exempt from Section 404(b) of Sarbanes
+Oxley. Section 404(a) requires Issuers to publish information in their annual reports concerning the scope and adequacy of the internal
+control structure and procedures for financial reporting. This statement shall also assess the effectiveness of such internal controls
+and procedures. Section 404(b) requires that the registered accounting firm shall, in the same report, attest to and report on the assessment
+on the effectiveness of the internal control structure and procedures for financial reporting. 
+
+As an emerging growth company, we are also exempt from Section 14A (a)
+and (b) of the Securities Exchange Act of 1934 which require the shareholder approval of executive compensation and golden parachutes. 
+
+We have elected to use the extended transition period for complying with
+new or revised accounting standards under Section 102(b)(2) of the Jobs Act, that allows us to delay the adoption of new or revised accounting
+standards that have different effective dates for public and private companies until those standards apply to private companies. As a
+result of this election, our financial statements may not be comparable to companies that comply with public company effective dates, 
+
+- 3 - 
+
+Table of Contents 
+
+Item 1A. Risk Factors. 
+
+The Company qualifies as a smaller reporting company, as defined by Item
+10 of Regulation S-K and, thus, is not required to provide the information required by this Item. 
+
+Item 1B. Unresolved Staff Comments. 
+
+None. 
+
+Item 2. Properties. 
+
+We currently neither rent nor own any properties. We
+currently utilize office space and equipment of our management at no cost. 
+
+Item 3. Legal Proceedings. 
+
+From time to time, we may become party to litigation
+or other legal proceedings that we consider to be a part of the ordinary course of our business. We are not currently involved in legal
+proceedings that could reasonably be expected to have a material adverse effect on our business, prospects, financial condition, or results
+of operations. To the best of our knowledge, no adverse legal activity is anticipated or threatened. 
+
+Item 4. Mine Safety Disclosures. 
+
+Not applicable. 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market Information 
+
+Our Common Stock is quoted on the OTC Markets Group Inc. s Pink 
+Open Market. Our ticker symbol is CBLO . 
+
+There is currently a limited trading market in the Company s shares of Common Stock. Generally speaking, our shares of common stock
+are, and have been thinly traded, meaning our shares cannot be easily purchased or sold and have a low volume of shares trading per day
+which can lead to volatile changes in price per share. 
+
+Over-the-counter
+market quotations reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not necessarily represent a ctual
+transactions. 
+
+Quarter
+ Ended 
+ High
+ Bid 
+ Low
+ Bid 
+ 
+ June
+ 30, 2023 
+ 0.068 
+ 0.04 
+ 
+ March
+ 31, 2023 
+ 0.07 
+ 0.04 
+ 
+ December
+ 31, 2022 
+ 0.10 
+ 0.0271 
+ 
+ September
+ 30, 2022 
+ 0.13 
+ 0.02 
+ 
+ June
+ 30, 2022 
+ 0.42 
+ 0.02 
+
+1 We
+were a party to a corporate reorganization, legally effective as of April 1, 2022. Information regarding this reorganization is detailed
+herein on page 1. Prior to this reorganization, we have no information to report pursuant to the above table. 
+
+Holders 
+
+As
+of the date of this Annual Report, we have 253,936,005 shares of Common Stock, 0.001 par value, issued and outstanding and 0 shares
+of Preferred stock, 0.001 par value, issued and outstanding. 
+
+We
+have approximately 29 stockholders of record. 
+
+Voting 
+
+Each share of common stock has voting rights of one
+vote per share. 
+
+Dividends and Share Repurchases 
+
+We have not paid any dividends to our stockholders.
+There are no restrictions, which would limit our ability to pay dividends on common equity or that are likely to do so in the future. 
+
+Issuer Purchases of Equity Securities 
+
+None. 
+
+Equity Compensation Plan Information 
+
+We do not have any equity compensation plans, either
+approved or not approved, by our security holders. 
+
+Recent Sales of Unregistered Securities; Uses of Proceeds from Registered
+Securities 
+
+None. 
+
+Purchases of Equity Securities by the Issuer and
+Affiliated Purchasers 
+
+None. 
+
+- 4 - 
+
+Table of Contents 
+
+Item 6. Selected Financial Data. 
+
+As a smaller reporting company , we
+are not required to provide the information required by this Item. 
+
+Item 7. Management s Discussion
+and Analysis of Financial Condition and Results of Operations. 
+
+We have not yet commenced any material operations. The Company
+plans to build a 14 MW Bitcoin mining facility in Georgia U.S. specifically designed for hosting cryptocurrency mining equipment and
+mining Bitcoin for our own account. Cryptocurrency mining (e.g. bitcoin mining) entails
+running ASIC (application-specific integrated circuit) servers or other specialized servers which solve a set of prescribed complex
+mathematical calculations in order to add a block to a blockchain and thereby confirm digital asset transactions. A party which is
+successful in adding a block to the blockchain is awarded a fixed number of digital assets in return. 
+
+At this time, we own no real estate. Since our inception, June 30,
+2021, we have not generated any revenues. 
+
+In order to implement our plan of operations for the next
+twelve-month period, we require a minimum of 200,000 in funding. At present, we plan to to acquire the aforementioned funding from
+the sale of our common stock pursuant to a Tier II Regulation A Offering we seek to conduct in the near future. At present, the
+Offering Statement pursuant to the Tier II Regulation Offering remains in review by the Securities and Exchange Commission. It is
+not yet qualified. The Offering Circular and related documentation was filed on July 5, 2023. At this time, we cannot accurately
+forecast when the Offering may be qualified and or subsequently conducted. 
+
+The number of computers that we may purchase or lease for mining
+bitcoin will depend on how quickly we are able to raise funds through the aforementioned Offering and the amounts that we are ultimately
+able to raise. We expect the proceeds from the Offering will be sufficient for us to implement our business plan and that no additional
+funding will be needed to implement our business plan, however there is no guarantee that this may be the case. We may be unsuccessful
+in raising any capital from the Offering, and thus we may need to seek out alternate sources of financing. The scalability of our business
+plan also depends entirely on our ability to secure funds for future operations and the amount of funds at our disposal. At this time
+we do not have the needed funding to implement our business plan in any capacity. 
+
+Net
+Loss 
+
+Our
+net income/loss for the year ended June 30, 2023 was (18,507) and was attributed to general and administrative expenses. 
+
+Our
+net income/loss for the year ended June 30, 2022 was (8,407) and was attributed to general and administrative expenses.
+
+Liquidity 
+
+We
+have no known demands or commitments and are not aware of any events or uncertainties as of June 30, 2023 and June 30, 2022 that will result in or that are reasonably likely to materially increase or decrease our current liquidity. 
+
+Capital
+Resources. 
+
+We
+had no material commitments for capital expenditures as of June 30, 2023 and June 30, 2022. 
+
+Off
+Balance Sheet Arrangements. 
+
+We
+do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources
+that is material to investors. 
+
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk. 
+
+We qualify as a smaller reporting company, as defined
+by Item 10 of Regulation S-K and, thus, are not required to provide the information required by this Item. 
+
+- 5 - 
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplementary
+Data. 
+
+C2 Blockchain, Inc. 
+
+ FINANCIAL STATEMENTS 
+
+INDEX TO FINANCIAL
+STATEMENTS 
+
+Pages 
+
+Report of Independent Registered Public Accounting Firm (PCAOB FIRM ID 5041) 
+ 
+ F2 
+
+Balance Sheets 
+ 
+ F3 
+
+Statements of Operations 
+ 
+ F4 
+
+Statements of Changes in Stockholders Deficit 
+ 
+ F5 
+
+Statements of Cash Flows 
+ 
+ F6 
+
+Notes to Financial Statements 
+ 
+ F7-F9 
+
+- F1 - 
+
+Table of Contents 
+
+Report of Independent Registered Public
+Accounting Firm 
+
+ To the stockholders and the board of directors
+of C2 Blockchain, Inc. 
+
+ Opinion on the Financial Statements 
+
+ We have audited the accompanying balance
+sheets of C2 Blockchain, Inc. as of June 30, 2023 and June 30, 2022, the related consolidated statements of operations, stockholders'
+equity (deficit), and cash flows for the years then ended, and the related notes (collectively referred to as the financial statements ).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of June 30,
+2023 and June 30, 2022, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles
+generally accepted in the United States. 
+
+ Substantial Doubt about the Company s
+Ability to Continue as a Going Concern 
+
+ The accompanying financial statements have
+been prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company
+has suffered recurring losses from operations and has a significant accumulated deficit. In addition, the Company continues to experience
+negative cash flows from operations. These factors raise substantial doubt about the Company's ability to continue as a going concern.
+Management's plans in regard to these matters are also described in Note 3. The financial statements do not include any adjustments that
+might result from the outcome of this uncertainty. 
+
+ Basis for Opinion 
+
+ These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+ We conducted our audit in accordance with
+the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our audit included performing procedures
+to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that
+respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as
+evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+/S/ BF Borgers CPA PC 
+
+ (PCAOB ID 
+
+We have served as the Company's auditor since 2021 
+
+September 18, 2023 
+
+- F2 - 
+
+Table of Contents 
+
+C2 Blockchain, Inc. 
+
+ Balance Sheet 
+
+June 30, 
+ 2023 
+
+June 30, 
+ 2022 
+ 
+ TOTAL ASSETS 
+
+- 
+
+- 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+CURRENT LIABILITIES 
+
+Loan to Company - related party 
+
+TOTAL LIABILITIES 
+
+Stockholders Equity (Deficit) 
+
+Preferred stock par value, shares authorized; issued and outstanding as of June 30, 2023 and June 30, 2022) 
+
+- 
+ 
+ - 
+
+Common stock par value, shares authorized, shares issued and outstanding as of June 30, 2023 and June 30, 2022) 
+
+Additional paid-in capital 
+
+) 
+ 
+ ) 
+ 
+ Accumulated deficit 
+
+) 
+ 
+ ) 
+ 
+ Total Stockholders Equity (Deficit) 
+
+) 
+ 
+ ) 
+
+TOTAL LIABILITIES STOCKHOLDERS EQUITY (DEFICIT) 
+
+- 
+ 
+ - 
+
+The
+accompanying notes are an integral part of these audited financial statements. 
+
+- F3 - 
+
+Table of Contents 
+
+C2 Blockchain, Inc. 
+
+ Statement of Operations 
+
+For the Year Ended 
+ June 30, 2023 
+
+For the Year Ended 
+ June 30, 2022 
+
+Operating expenses 
+
+General and administrative expenses 
+
+Total operating expenses 
+
+Net loss 
+ 
+ ) 
+ 
+ ) 
+
+Basic and Diluted net loss per common share 
+ 
+ ) 
+ 
+ ) 
+
+Weighted
+average number of common shares outstanding - Basic and Diluted 
+
+The
+accompanying notes are an integral part of these audited financial statements. 
+
+- F4 - 
+
+Table of Contents 
+
+C2 Blockchain, Inc. 
+
+ Statement of Changes is
+Stockholder (Deficit) 
+
+ For the years ended June
+30, 2023 and June 30, 2022 
+
+Common Shares 
+ 
+ Par Value Common Shares 
+
+Additional Paid-in Capital 
+ 
+ Accumulated Deficit 
+ 
+ Total 
+
+Balances, June 30, 2021 
+
+- 
+ 
+ - 
+
+) 
+ 
+ ) 
+
+Common shares issued after reorganization 
+
+253,936,005 
+
+) 
+ 
+ - 
+ 
+ - 
+
+Net loss 
+
+- 
+ 
+ - 
+
+) 
+ 
+ ) 
+
+Balances, June 30, 2022 
+
+) 
+ 
+ ) 
+ 
+ ) 
+
+Net loss 
+
+- 
+ 
+ - 
+
+- 
+ 
+ ) 
+ 
+ ) 
+
+Balances, June 30, 2023 
+
+) 
+ 
+ ) 
+ 
+ ) 
+
+The
+accompanying notes are an integral part of these audited financial statements. 
+
+- F5 - 
+
+Table of Contents 
+
+C2
+Blockchain, Inc. 
+
+ Statement
+of Cash Flows 
+
+For the Year Ended June 30, 2023 
+
+For the Year Ended June 30, 
+ 2022 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss 
+ 
+ ) 
+
+) 
+ 
+ Adjustment to reconcile net loss to net cash used in operating activities: 
+
+Changes in current assets and liabilities: 
+
+Accrued expenses 
+ 
+ - 
+
+) 
+ 
+ Net cash used in operating activities 
+ 
+ ) 
+
+) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Loan to company - related party 
+
+Net cash provided by financing activities 
+
+Net change in cash 
+ 
+ - 
+
+- 
+ 
+ Beginning cash balance 
+ 
+ - 
+
+- 
+ 
+ Ending cash balance 
+ 
+ - 
+
+- 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION: 
+
+Interest paid 
+ 
+ - 
+
+- 
+ 
+ Income taxes paid 
+ 
+ - 
+
+- 
+
+The accompanying notes
+are an integral part of these audited financial statements. 
+
+- F6 - 
+
+Table of Contents 
+
+C2
+Blockchain, Inc. 
+
+ Notes
+to the Audited Financial Statements 
+
+- F9 - 
+
+Table of Contents 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting
+and Financial Disclosure. 
+
+None. 
+
+Item 9A Controls and Procedures. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We maintain disclosure controls and procedures, 
+as such term is defined in Rule 13a-15e and Rule 15d-15(e) under the Exchange Act that are designed to ensure that information required
+to be disclosed in our reports filed under the Exchange Act is recorded, processed, summarized and reported within the time periods specified
+in the SEC's rules and forms, and that such information is accumulated and communicated to our management, which at this time consists
+solely of our officer and director, Levi Jacobson. 
+
+As of June 30, 2023, the end of the year covered
+by this Report, we carried out an evaluation, under the supervision of Mr. Jacobson, our Chief Executive Officer and Chief Financial Officer,
+of the effectiveness of the design and the operation of our disclosure controls and procedures. Mr. Jacobson concluded that the disclosure
+controls and procedures were not effective as of the end of the year covered by this Report due to material weaknesses identified below. 
+
+Management s Annual Report on Internal Control Over Financial
+Reporting 
+
+Our management is responsible for establishing and
+maintaining adequate internal control over our financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Internal control
+over financial reporting is a process, including policies and procedures, designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external reporting purposes in accordance with U.S. generally accepted
+accounting principles. Our management assessed our internal control over financial reporting using the criteria in Internal Control 
+Integrated Framework (2013), issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO ). A system
+of internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. 
+
+Based on our evaluation under the framework in COSO,
+our management concluded that our internal control over financial reporting was ineffective as of June 30, 2023 based on such criteria.
+Deficiencies existed in the design or operation of our internal control over financial reporting that adversely affect our internal controls
+and that may be considered material weaknesses. A material weakness is a significant deficiency, or combination of deficiencies, in internal
+control over financial reporting that results in more than a remote likelihood that a material misstatement of the annual or interim financial
+statements will not be prevented or detected. As a result of the determination that there was a lack of resources to provide segregation
+of duties consistent with control objectives, the lack of a formal audit committee, and the lack of a formal review process that includes
+multiple levels of review over financial disclosure and reporting processes, management has determined that material weaknesses existed
+as of June 30, 2023. 
+
+The weaknesses and the related risks are not uncommon
+in a company of our size because of the limitations in the size and number of our staff. To address these material weaknesses, and subject
+to the receipt of additional financing or cash flows, we intend to undertake remediation measures to address the material weaknesses described
+in this Report, including implementing procedures pursuant to which we can ensure segregation of duties and hire additional resources
+to ensure appropriate review and oversight. 
+
+A control system, no matter how well conceived and
+operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met under all potential conditions,
+regardless of how remote, and may not prevent or detect all errors and all fraud. Because of the inherent limitations in all control systems,
+no evaluation of controls can provide absolute assurance that all control issues, if any, within the Company have been detected. These
+inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of a
+simple error or mistake. Our internal control over financial reporting is designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles. 
+
+Auditor s Report on Internal Control Over Financial Reporting 
+
+This Report does not include an attestation report
+of our independent registered public accounting firm regarding internal control over financial reporting. Management s report was
+not subject to attestation by our independent registered public accounting firm pursuant to the rules of the SEC that permit us to provide
+only management s report in this Report. 
+
+Changes in Internal Control Over Financial Reporting 
+
+There have been no changes in our internal control
+over financial reporting (as that term is defined in Rules 13(a)-15(f) and 15(d)-15(f) of the Exchange Act) that have occurred during
+the fourth quarter ended June 30, 2023 that have materially affected, or are reasonably likely to materially affect, our internal control
+over financial reporting. 
+
+Item 9B. Other Information. 
+
+None. 
+
+- 6 - 
+
+Table of Contents 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate
+Governance. 
+
+Each of our directors holds office until the next
+annual meeting of our stockholders or until his successor has been elected and qualified, or until his death, resignation, or removal.
+Our executive officers are appointed by our board of directors and hold office until their death, resignation, or removal from office. 
+
+Our current executive officers and directors and
+additional information concerning them are as follows: 
+
+Name 
+ 
+ Age 
+ 
+ Position(s) 
+
+Levi Jacobson 
+ 
+ 29 
+ 
+ Chief Executive Officer, Chief Financial Officer, Chief Accounting Officer, President, Secretary, and Director 
+
+Levi
+Jacobson - Chief Executive Officer, Chief Financial Officer, Chief Operations Officer, Chief Accounting Officer, President,
+Secretary and sole Director. 
+
+Mr.
+Jacobson studied business and economics at Touro College, which he graduated from in 2014. From February 2015 to August 2015, Mr. Jacobson
+worked for Blue Car Enterprise as a Manager/Director specializing in sales and ad management. Mr. Jacobson was appointed Chief Executive
+Officer, Chief Financial Officer, President, Secretary, Treasurer and Director of the Company on June 30, 2021. Mr. Jacobson served as
+director of Elektros, Inc. from December 1, 2020 until July 1, 2021. Mr. Jacobson is the CEO and sole director of Hemp Naturals, Inc.
+and has served in such positions since November 13, 2015. He is also the CEO and sole director of China Xuefeng Environmental Engineering
+Group, since November 19, 2020 and American Estate Management Company since July 7, 2021. From 2016 through 2019, Mr. Jacobson was working
+at Bluejay Management LLC, a real estate developer in Hewlett, NY assisting management in all aspects of real estate including property
+management, collection of rents and remodeling. 
+
+- 7 - 
+
+Table of Contents 
+
+Committees of the Board 
+
+We currently do not have nominating, compensation, or
+audit committees, or committees performing similar functions, nor do we have a written nominating, compensation, or audit committee charter.
+Our board of director(s) believes that it is not necessary to have such committees given our current size and the limited scope of our
+business. Currently, our board of director(s) is performing the functions of such committees. 
+
+In lieu of an Audit Committee, our board of director(s)
+is responsible for reviewing and making recommendations concerning the selection of outside auditors, reviewing the scope, results, and
+effectiveness of the annual audit of our financial statements and other services provided by our independent registered public accounting
+firm. Our board of director(s), our Chief Executive Officer, and our Chief Financial Officer, all of whom are Levi Jacobson, review our
+internal accounting controls, practices, and policies. 
+
+Audit Committee Financial Expert 
+
+Our board of director(s) has determined that we do
+not have a board member that qualifies as an audit committee financial expert as defined in Item 407(d)(5) of Regulation
+S-K . We believe that given our current size and the limited scope of our business, retaining an independent director who would qualify
+as an audit committee financial expert would be overly costly and burdensome. We will consider establishing an Audit Committee, and identifying
+an individual to serve as an independent director and as the audit committee financial expert when so required. 
+
+Involvement in Certain Legal Proceedings 
+
+None of our executive officers and directors, of which
+we have one, have been involved in or a party to any of the following events or actions during the past ten years: 
+
+1. 
+ Any petition under the federal bankruptcy laws or any state insolvency laws filed by or against, or an appointment of a receiver, fiscal agent, or similar officer by a court for the business or property of such person, a partnership in which such person was a general partner at or within two years before the time of such filing, or any corporation or business association of which such person was an executive officer either at or within two years prior to the time of such filing; 
+ 
+ 2. 
+ Any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+ 
+ 3. 
+ Being subject to any order, judgment, or decree, not subsequently reversed, suspended, or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, such person from, or otherwise limiting, the following activities: (i) acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment advisor, underwriter, broker or dealer in securities, or as an affiliated person, director, or employee of any investment company, bank, savings and loan association, or insurance company, or engaging in or continuing any conduct or practice in connection with such activity; (ii) engaging in any type of business practice; or (iii) engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of federal or state securities laws or federal commodities laws; 
+ 
+ 4. 
+ Being the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any federal or state authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph (3)(i) above, or to be associated with persons engaged in any such activity; 
+ 
+ 5. 
+ Being found by a court of competent jurisdiction (in a civil action) or the SEC to have violated a Federal or State securities law, and the judgment has not been subsequently reversed, suspended, or vacated; 
+ 
+ 6. 
+ Being found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended, or vacated; 
+ 
+ 7. 
+ Being the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of :(i) any Federal or State securities or commodities law or regulation; (ii) any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or (iii) any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+ 
+ 8. 
+ Being the subject of, or a party to, any sanction or order, not subsequently reversed, suspended, or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+
+Code of Ethics 
+
+We have not adopted a formal Code of Ethics. We only
+have one employee, our sole officer and director, Levi Jacobson. In the event we commence operations, or the number of employees, number
+of officers, and/or number of directors increases in the future, we may take actions to adopt a formal Code of Ethics. 
+
+Nomination of Directors 
+
+As of September 18, 2023, we had not effected any material
+changes to the procedures by which our stockholders may recommend nominees to our board of directors. We do not have any defined policy
+or procedural requirements for stockholders to submit recommendations or nominations for directors. Our board of directors believes that,
+given the stage of our development, a specific nominating policy would be premature and of little assistance until our business operations
+develop to a more advanced level. We do not currently have any specific or minimum criteria for the election of nominees to our board
+of directors and we do not have any specific process or procedure for evaluating such nominees. Our board of directors will assess all
+candidates, whether submitted by management or stockholders, and make recommendations for election or appointment. 
+
+A stockholder who wishes to communicate with our board
+of directors may do so by directing a written request addressed to the Company with the address appearing on the first page of this Report. 
+
+Delinquent Section 16(a) Reports 
+
+Section 16(a) of the Exchange Act requires the Company s
+executive officers, directors, and persons who beneficially own more than ten percent of a registered class of the Company s equity
+securities, to file with the SEC initial reports of ownership and reports of changes in ownership of the Company s common stock.
+ Such officers, directors, and persons are required by SEC regulation to furnish the Company with copies of all Section 16(a) forms
+that they file with the SEC. 
+
+Based solely on a review of the copies of such forms
+that were received by the Company, the Company is not aware of any failures to file reports or report transactions in a timely manner
+during the year ended June 30, 2023. 
+
+Family Relationships 
+
+There are no family relationships among our directors
+or executive officers. We have only one officer and director at this time. 
+
+Arrangements 
+
+There are no arrangements or understandings between
+an executive officer or director and any other person pursuant to which he was selected as an executive officer or director. 
+
+- 8 - 
+
+Table of Contents 
+
+Item 11. Executive Compensation. 
+
+The table below summarizes all compensation
+awarded to, earned by, or paid to our named executive officers, which is defined as follows: (i) all individuals serving as our
+principal executive officer during the year ended June 30, 2022 and or June 30, 2023; (ii) each of our two most highly compensated
+executive officers who were serving as executive officers at the end of the year ended June 30, 2022 and or June 30,
+2023; and (iii) up to two additional individuals for whom disclosure would have been required but for the fact that the individual
+was not serving as an executive officer as of the end of the year ended June 30, 2022 and or June 30, 2023. 
+
+Name and 
+ principal position 
+ Fiscal Year Ended June 30, 
+ 
+ Salary 
+ ) 
+ 
+ Bonus 
+ ) 
+
+Stock 
+ Awards 
+ ) 
+ 
+ Option 
+ Awards 
+ ) 
+ 
+ Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) 
+ 
+ Nonqualified 
+ Deferred 
+ Compensation 
+ Earnings ) 
+ 
+ All Other 
+ Compensation 
+ ) 
+ 
+ Total 
+ ) 
+ 
+ Levi Jacobson, President, CEO, CFO, Treasurer, and Director 
+ 2022 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+2023 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+Outstanding Equity Awards at Fiscal Year-End 
+
+We had no outstanding equity awards at the year ended June 30, 2023. 
+
+Potential Payments Upon Termination or Change-of-Control 
+
+None of our named executive officers are entitled
+to any payments upon termination or change-of-control. 
+
+Retirement or Similar Benefit Plans 
+
+There are no arrangements or plans in which we provide
+retirement or similar benefits for our directors or executive officers. 
+
+Employment Agreements 
+
+We have no employment agreements with any of our named executive officers. 
+
+Compensation of Directors 
+
+We did not pay any of our directors any compensation
+during the fiscal year ended June 30, 2023, whether in their capacity as a named executive officer or as a director. 
+
+- 9 - 
+
+Table of Contents 
+
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters. 
+
+The following table sets forth, as of September 18, 2023,
+the number of shares of common stock owned of record and beneficially by (i) each of our current directors, (ii) each of our named executive
+officers, (iii) our directors and executive officers as a group, and (iv) each stockholder known by us to be the beneficial owner of more
+than 5 of our outstanding common stock. Beneficial ownership has been determined in accordance with the rules and regulations of the
+SEC and includes voting or investment power with respect to shares. Unless otherwise indicated, the persons named in the table have sole
+voting and investment power with respect to the number of shares indicated as beneficial owned by them. 
+
+Name
+ and Address 
+ 
+ Amount and Nature
+ of 
+ Beneficial Ownership
+ (Common Stock) (1) 
+ 
+ Percentage 
+ of Class (1) 
+
+Officers
+ and Directors 
+
+Levi
+ Jacobson (2) 
+ 123
+SE 3rd Ave # 130 Miami, Florida, 33131-2003 
+ 
+ 200,000,000
+ (3) 
+ 
+ 78.76 
+
+5 
+ or Greater Shareholders 
+
+Mendel
+ Holdings, LLC (4) 
+ 123
+SE 3rd Ave # 130 Miami, Florida, 33131-2003 
+ 
+ 200,000,000
+ (3) 
+ 
+ 78.76 
+
+Kron
+ Tomas Purna Ltd, Cyprus (5) 
+ 
+ 28,400,150 (5) 
+ 
+ 11.184 
+
+_________________________________________ 
+
+(1)
+Applicable percentage of ownership is based on 253,936,005 shares of common stock outstanding as of September 18, 2023. Beneficial
+ownership is determined in accordance with the rules of the SEC and generally includes voting or investment power with respect to securities.
+Shares of common stock that are currently exercisable within 60 days of September 18, 2023 are deemed to be beneficially owned by the person
+holding such securities for the purpose of computing the percentage of ownership of such person, but are not treated as outstanding for
+the purpose of computing the percentage ownership of any person. 
+
+ (2) Levi Jacobson serves as Chief Executive Officer,
+Chief Financial Officer, President, Treasurer and Director of the Company. 
+
+ (3) Consists of 200,000,000 shares of our common
+stock held by Mendel Holdings, LLC, an entity over which Mr. Jacobson has complete dispositive and voting authority. 
+
+ (4) Levi Jacobson is the sole member of Mendel Holdings,
+LLC. 
+
+ (5) Kron Tomas Purna Ltd is a Cyprus company that is believed to be dissolved in 2016. The Company was owned and controlled by Nikos Chrysanthou
+according to Cyprus Department of Registrar of Companies and Official Receiver. 
+
+Changes in Control 
+
+We do not know of any arrangements that may, at a
+subsequent date, result in a change in control. 
+
+Item 13. Certain Relationships and Related Transactions. 
+
+Related Party Transactions 
+
+Other than the transactions described below,
+since June 30, 2021, the date of our incorporation, there has not been, nor is there currently proposed, any transaction
+or series of similar transactions to which we were or will be a party: 
+
+In which the amount involved exceeds the lesser of 120,000 or one percent of the average of our total assets at year-end; and 
+
+In which any director, executive officer, stockholders who beneficially own more than 5 of our common stock or any member of their immediate family had or will have a direct or indirect material interest. 
+
+Office Space and Equipment 
+
+We utilize the home office space and equipment of our management at no
+cost. 
+
+- 10 - 
+
+Table of Contents 
+
+Additional information 
+
+The
+Company s sole officer and director, Levi Jacobson, paid expenses on behalf of the company totaling 18,507 during the period
+ended June 30, 2023. These payments are considered as a loan to the Company which is noninterest-bearing, unsecured and payable on demand.
+As of June 30, 2023, the related party loan to the Company totaled 31,164. 
+
+The
+Company s sole officer and director, Levi Jacobson, paid expenses on behalf of the company totaling 12,657 during the period
+ended June 30, 2022. These payments are considered as a loan to the Company which is noninterest-bearing, unsecured and payable on demand. 
+
+Director Independence 
+
+We are not listed on any exchange that requires directors to be independent.
+We have not: 
+
+Established our own definition for determining whether our directors or nominees for directors are independent, nor have we adopted any other standard of independence employed by any national securities exchange or inter-dealer quotation system, though our current directors would not be deemed to be independent under any applicable definition given that they are officers of the Company; nor 
+
+Established
+ any committees of our board of directors. 
+
+Item 14. Principal Accounting
+Fees and Services. 
+
+Below is the approximate aggregate amount
+of fees billed for professional services rendered by our principal accountants with respect to the year ended June 30, 2023, and June
+31, 2022 respectively. 
+
+2023 
+ 
+ 2022 
+
+Audit
+ and review fees 
+ BF Borgers
+ CPA PC 
+ 
+ 8,350 
+ 
+ 10,450 
+
+Audit-related
+ fees 
+
+8,350 
+ 
+ 10,450 
+
+Tax
+ fees 
+
+- 
+ 
+ - 
+
+All
+ other fees 
+
+- 
+ 
+ - 
+
+Total 
+
+8,350 
+ 
+ 10,450 
+
+Pre-Approval
+Policies and Procedures 
+
+Currently,
+we do not have a separately designed Audit Committee. Instead, our entire board of directors performs those functions. Accordingly, our
+board of directors was response for pre-approving all services provided by our independent registered public accounting firm.
+The above fees were reviewed and approved by our board of directors before the services were rendered. 
+
+- 11 - 
+
+Table of Contents 
+
+PART IV 
+
+Item 15. Exhibits, Financial Statement Schedules. 
+
+(a) Financial Statements 
+
+1. Our financial statements are listed in
+the index under Item 8 of this document; and 
+
+2. All financial statement schedules are
+omitted because they are not applicable, not material or the required information is shown in the financial statements or notes thereto. 
+
+(b) Exhibits required by Item 601 of Regulation S-K. 
+
+Exhibit
+ No. 
+ 
+ Description 
+ 
+ 3.1 
+ 
+ Certificate
+ of Incorporation (1) 
+
+3.2 
+ 
+ By-laws 
+ (1) 
+
+31 
+ 
+ Certification of the Company s Principal Executive and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, with respect to the registrant s report on Form 10-K for the year ended June 30, 2023 (2) 
+
+32 
+ 
+ Certification of the Company s Principal Executive and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (2) 
+
+101.INS 
+ 
+ XBRL Instance Document (3) 
+
+101.SCH 
+ 
+ XBRL Taxonomy Extension Schema (3) 
+
+101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase (3) 
+
+101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase (3) 
+
+101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase (3) 
+
+101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase (3) 
+
+(1) 
+ Filed as an exhibit to the Company's Registration Statement on Form 10-12G, as filed with the SEC on September 16, 2021, and incorporated herein by this reference. 
+ 
+ (2) 
+ Filed herewith. 
+ 
+ (3) 
+ Users of this data are advised that, pursuant to Rule 406T of Regulation S-T, these interactive data files are deemed not filed or part of a registration statement or Annual Report for purposes of Sections 11 or 12 of the Securities Act of 1933 or Section 18 of the Exchange Act of 1934 and otherwise are not subject to liability. 
+
+Item 16. Form 10-K Summary. 
+
+None. 
+
+Signatures 
+
+Pursuant to the requirements of Section 13 or 15(d)
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized. 
+
+C2 Blockchain, Inc. 
+
+By: /s/ Levi Jacobson 
+
+ Levi Jacobson 
+
+ Chief Executive Officer and Chief Financial Officer, 
+
+ (Principal Executive Officer and Principal Financial
+Officer) 
+
+ Dated: September 18, 2023 
+
+In accordance with the Exchange Act, this report has
+been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+By: /s/ Levi Jacobson 
+
+ Levi Jacobson 
+
+ Chief Executive Officer, Chief Financial Officer, 
+
+ President, Treasurer, and Director 
+
+ Dated: September 18, 2023 
+
+- 12 - 
+
+<EX-31>
+ 2
+ exhibit31.htm
+ EX-31
+
+EXHIBIT 31.1 
+
+C2 Blockchain, INC. 
+
+ OFFICER'S CERTIFICATE PURSUANT TO SECTION 302 
+
+I, Levi Jacobson, certify that: 
+
+1. I have reviewed this report on Form 10-K of C2 Blockchain, Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the small business issuer as of, and for, the periods presented in this report; 
+
+ 4. The small business issuer s other certifying officer
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+small business issuer and have: 
+
+ a. Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the
+small business issuer, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+ b. Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+ c. Evaluated the effectiveness of the small business issuer's
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+ d. Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth
+fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and 
+
+ 5. The small business owner s other certifying officer
+and I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the small business issuer's
+auditors and the audit committee of the small issuer's board of directors (or persons performing the equivalent functions): 
+
+ a. All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the small business
+issuer's ability to record, process, summarize and report financial information; and 
+
+ b. Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the small business issuer's internal control over financial reporting. 
+
+Dated: September 18, 2023 
+
+By: /s/ Levi Jacobson 
+
+ Levi Jacobson, 
+
+Chief Executive
+Officer 
+
+ (Principal
+Executive Officer) 
+
+EXHIBIT 31.2 
+
+C2 Blockchain, INC. 
+
+ OFFICER'S CERTIFICATE PURSUANT TO SECTION 302 
+
+I, Levi Jacobson, certify
+that: 
+
+1. I have reviewed this report on Form 10-K of C2 Blockchain, Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the small business issuer as of, and for, the periods presented in this report; 
+
+ 4. The small business issuer s other certifying officer
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+small business issuer and have: 
+
+ a. Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the
+small business issuer, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+ b. Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+ c. Evaluated the effectiveness of the small business issuer's
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+ d. Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth
+fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and 
+
+ 5. The small business owner s other certifying officer
+and I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the small business issuer's
+auditors and the audit committee of the small issuer's board of directors (or persons performing the equivalent functions): 
+
+ a. All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the small business
+issuer's ability to record, process, summarize and report financial information; and 
+
+ b. Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the small business issuer's internal control over financial reporting. 
+
+Dated: September 18, 2023 
+
+By: /s/ Levi Jacobson 
+
+ Levi Jacobson, 
+
+ Chief Financial
+Officer 
+
+ (Principal
+ Financial Officer) 
+
+</EX-31>
+
+<EX-32>
+ 3
+ exhibit32.htm
+ EX-32
+
+EXHIBIT 32.1 
+
+C2 Blockchain, INC. 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF 
+
+ THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of C2 Blockchain, Inc. (the Company) on Form 10-K for
+the year ended June 30, 2023, as filed with the Securities and Exchange Commission on the date hereof (the
+Report), I, Levi Jacobson, Principal 
+Executive Officer of the Company, certify, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to Section 906 of
+the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in
+all material respects, the financial condition and results of operations of the Company. 
+
+A signed original of this written statement required
+by Section 906 has been provided to Levi Jacobson
+and will be retained by C2 Blockchain, Inc. and furnished to the Securities and Exchange Commission or its
+staff upon request. 
+
+Dated: September 18, 2023 
+
+By: /s/ Levi Jacobson 
+
+ Levi Jacobson, 
+
+Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+EXHIBIT 32.2 
+
+C2 Blockchain, INC. 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF 
+
+ THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of C2 Blockchain, Inc. (the Company) on
+Form 10-K for the year ended June 30, 2023, as filed with the Securities and Exchange Commission on the date
+hereof (the Report), I, Levi Jacobson, Principal
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in
+all material respects, the financial condition and results of operations of the Company. 
+
+A signed original of
+this written statement required by Section 906 has been provided to Levi Jacobson and will
+be retained by C2 Blockchain, Inc. and furnished to the Securities and Exchange
+Commission or its staff upon request. 
+
+Dated: September 18, 2023 
+
+By: /s/ Levi Jacobson 
+
+ Levi Jacobson, 
+
+ Chief Financial
+Officer 
+
+ (Principal Financial Officer) 
+
+</EX-32>
+
+<EX-101.SCH>
+ 4
+ cblo-20230630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ cblo-20230630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ cblo-20230630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ cblo-20230630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

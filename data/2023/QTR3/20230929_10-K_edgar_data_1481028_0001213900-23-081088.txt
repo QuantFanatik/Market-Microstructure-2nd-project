@@ -1,0 +1,3646 @@
+<Header>
+<FileStats>
+    <FileName>20230929_10-K_edgar_data_1481028_0001213900-23-081088.txt</FileName>
+    <GrossFileSize>6410203</GrossFileSize>
+    <NetFileSize>152435</NetFileSize>
+    <NonText_DocumentType_Chars>1252403</NonText_DocumentType_Chars>
+    <HTML_Chars>1530954</HTML_Chars>
+    <XBRL_Chars>1758669</XBRL_Chars>
+    <XML_Chars>1572645</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-23-081088.hdr.sgml : 20230929
+<ACCEPTANCE-DATETIME>20230929170304
+ACCESSION NUMBER:		0001213900-23-081088
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		70
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230929
+DATE AS OF CHANGE:		20230929
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNHYDROGEN, INC.
+		CENTRAL INDEX KEY:			0001481028
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54437
+		FILM NUMBER:		231296509
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BIOVENTURES CENTER
+		STREET 2:		2500 CROSSPARK ROAD
+		CITY:			CORALVILLE
+		STATE:			IA
+		ZIP:			52241
+		BUSINESS PHONE:		805-966-6566
+
+	MAIL ADDRESS:	
+		STREET 1:		BIOVENTURES CENTER
+		STREET 2:		2500 CROSSPARK ROAD
+		CITY:			CORALVILLE
+		STATE:			IA
+		ZIP:			52241
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hypersolar, Inc.
+		DATE OF NAME CHANGE:	20100114
+
+</SEC-Header>
+</Header>
+
+ 0001213900-23-081088.txt : 20230929
+
+10-K
+ 1
+ f10k2023_sunhydrogen.htm
+ ANNUAL REPORT
+
+UNITED
+STATES 
+
+SECURITIES
+AND EXCHANGE COMMISSION 
+
+WASHINGTON,
+D.C. 20549 
+
+FORM
+
+(Mark
+One) 
+
+ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR
+THE FISCAL YEAR ENDED , 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR
+THE TRANSITION PERIOD FROM __________ TO __________ 
+
+COMMISSION
+FILE NUMBER: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+
+, , , 
+
+ (Address
+of principal executive offices) (Zip Code) 
+
+Registrant s
+telephone number, including area code 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered None 
+
+Securities
+registered pursuant to section 12(g) of the Act: common stock, par value 0.001 per share 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated Filer Smaller reporting company Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+If securities are registered pursuant to Section
+12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction
+of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive
+officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+
+The
+aggregate market value of the common stock held by non-affiliates of the registrant, based upon the last sale price of the common stock
+of the registrant as of the last business day of its most recently completed second fiscal quarter was approximately . 
+
+The number of shares of registrant s common stock outstanding,
+as of September 28, 2023 was . 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+None 
+
+TABLE
+OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+ Business 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors 
+ 10 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 15 
+ 
+ Item 1C. 
+ Cybersecurity 
+ 15 
+ 
+ Item 2. 
+ Properties 
+ 15 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 15 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 15 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 16 
+ 
+ Item 6. 
+ [Reserved.] 
+ 17 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 17 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk. 
+ 19 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 19 
+ 
+ Item 9. 
+ Changes In and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 19 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 20 
+ 
+ Item 9B. 
+ Other Information. 
+ 20 
+ 
+ Item 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 20 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 21 
+ 
+ Item 11. 
+ Executive Compensation 
+ 23 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 25 
+ 
+ Item 13. 
+ Certain Relationship and Related Transactions, and Director Independence 
+ 26 
+ 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 26 
+
+PART IV 
+
+Item 15. 
+ Exhibit and Financial Statement Schedules 
+ 27 
+ 
+ Item 16. 
+ Form 10-K Summary 
+ 28 
+
+SIGNATURES 
+ 29 
+
+i 
+
+PART
+I 
+
+Item
+1. Business. 
+
+Unless
+otherwise stated or the context requires otherwise, references in this annual report on Form 10-K to SunHydrogen , the Company ,
+ we , us , or our refer to SunHydrogen, Inc. 
+
+Overview 
+
+At
+SunHydrogen, our goal is to replace fossil fuels with clean, renewable hydrogen. 
+
+Hydrogen
+is the most abundant chemical element in the universe. When hydrogen fuel is used to power transportation and industry, the only byproduct
+left behind is pure water, unlike hydrocarbon fuels such as oil, coal and natural gas that emit carbon dioxide and other harmful pollutants
+into the atmosphere. However, naturally occurring elemental hydrogen is rare so rare, in fact, that today about 95 of all hydrogen
+is produced from steam reforming of natural gas (Source: US Department of Energy, Hydrogen Fuel Basics). This process is both
+economically and environmentally unsound. 
+
+We are developing a technology that we believe has the potential to
+offer an efficient and cost-effective way to produce truly green hydrogen using sunlight and any
+source of water. Just like a solar panel is comprised of multiple cells that generate electricity, our hydrogen panel encases multiple
+hydrogen generators immersed in water. Each hydrogen generator contains billions of electroplated nanoparticles, autonomously splitting
+water into hydrogen and oxygen. Our technology has the potential to be one of if not the most economical green hydrogen
+solutions: Unlike traditional water electrolysis for hydrogen, our process requires no external power other than sunlight and uses efficient
+and low-cost materials. 
+
+We
+believe renewable hydrogen has already proven itself to be a key solution in helping the world meet climate targets, and we believe our
+technology potentially offers solutions to the challenges that the hydrogen future presents, including cost of production and transportation.
+Many of today s green hydrogen producers transport their product over long distances, so although the hydrogen itself is green,
+the delivery and transport infrastructure comes with a high carbon footprint and a significant capital investment. The SunHydrogen solution
+is fully self-contained, offering on-site solar hydrogen generation and local distribution to eliminate carbon footprint altogether and
+significantly reduce capital investments for transport and delivery. 
+
+Additionally,
+because our process directly uses the electrical charges created by sunlight to generate hydrogen, our nanoparticle technology does not
+rely on grid power or require the costly power electronics that conventional electrolyzers do. 
+
+With
+a target cost of 2.50/kg., we believe our solution has the potential to clear a path for green hydrogen to compete with natural gas
+hydrogen and gain mass market acceptance as a true replacement for fossil fuels. 
+
+Our
+technology is primarily developed at our independent laboratory in Coralville, Iowa. Development efforts are also aided by our sponsored
+research agreements with the University of Iowa and the University of Michigan, and by our relationships with specialized industry partners. 
+
+The
+2023 fiscal year saw our Coralville, Iowa laboratory space grow with the addition of talented engineers and chemists, state-of-the-art
+equipment, and a demonstration-ready setup fit for presenting our process to new and existing industrial partners. 
+
+Led
+by Chief Scientific Officer Dr. Syed Mubeen and Director of Technology Dr. Joun Lee, our Iowa team is focused on building tandem photoelectrosynthetic
+heterostructures (nanoparticle-based tandem semiconductor units) and evaluating their manufacturability at scales relevant for commercialization.
+This involves porous substrate fabrication and development of SunHydrogen s two proprietary semiconductor nanoparticle units within
+these porous substrates (dual junction devices). 
+
+1 
+
+In
+the past year, our Iowa team has achieved several key milestones toward commercialization. Namely, we have: 
+
+(1)
+Unveiled the largest version to-date of SunHydrogen s nanoparticle-based green hydrogen technology, featuring 16-times more hydrogen
+generator area than the previous small-scale model. The 1.5 sq. ft. prototype is currently the only self-contained nanoparticle-based
+hydrogen generation device of its kind that splits water molecules into high-purity hydrogen and oxygen using the sun s energy. 
+
+(2)
+Achieved open circuit photovoltages over 0.9 volts with a single-junction semiconductor unit; open circuit photovoltages over 1.8 volts
+with a dual-junction semiconductor unit; and photocurrent densities as high as 13.2 milliamps per square centimeter per substrate with
+a single-junction semiconductor unit. These results confirm that SunHydrogen has consistently reached commercializable photovoltages
+and photocurrent densities using our nanoparticle units. 
+
+While
+the above accomplishments provide encouragement that we are on the right track toward our goal of delivering the most affordable green
+hydrogen solution, we remain focused on the additional milestones we must meet to reach commercialization. 
+
+Foremost,
+to achieve commercially-viable solar-to-hydrogen efficiency targets, we require a second junction unit capable of producing photocurrent
+densities similar to or higher than our first junction, which we are currently working toward. Our team is currently pursuing multiple
+approaches to bolster our operational photocurrent densities, and our next milestone is translating our existing lab-scale success to
+larger scales. 
+
+In parallel, we are optimizing our panel design to increase hydrogen
+production rates and durability while decreasing the cost per kilogram of hydrogen produced. We are working to increase the hydrogen generator
+area to panel area ratio, minimize voltage loss, and improve power conversion efficiency. 
+
+Led
+by Dr. Nirala Singh, one of the lead inventors on SunHydrogen Patent No. 9,593,053B1, the University of Michigan team is focused on understanding
+the requirements of the generator housing including hydrogen collection efficiency and optimizing and testing potential oxygen evolution
+and hydrogen evolution electrocatalysts to accelerate scaleup and increased efficiency of photoelectrochemically active heterostructures. 
+
+In
+the past year, they identified the most promising configurations to minimize the significant energy losses and produce hydrogen at a
+high rate. They further tested these configurations in the Generator Housing with oxygen evolution and hydrogen evolution catalysts synthesized
+in the previous year and measured the collection efficiency of hydrogen following its production. The stability of the hydrogen evolution
+catalyst and oxygen evolution catalyst synthesized in the previous year were also evaluated for continuous operation in a three-electrode
+setup. University of Michigan is developing strategies to mitigate the high series resistance in the device and improved the kinetics
+of the oxygen evolution electrocatalyst to lower the overpotentials while maintaining high stability of the catalyst. 
+
+University
+of Michigan demonstrated the use of the system in the Generator Housing without membranes while maintaining a low crossover of the generated
+gases. The elimination of the membrane can assist with reducing capital and processing costs. University of Michigan also tested the
+ionic and liquid crossover of the membrane integrated configuration fabricated by partners. They evaluated the ionic conductivity as
+well as mechanical, chemical, and electrochemical stability. 
+
+To
+evaluate the hydrogen collection efficiency, University of Michigan integrated a gas collection system to the Generator Housing. This
+system underwent successive modifications to increase efficiency of hydrogen collection process to match the desired values motivated
+by technoeconomic analysis. Consequently, a high faradaic efficiency of hydrogen generation process with high hydrogen collection efficiency
+was successfully achieved. 
+
+University
+of Michigan also identified various voltage losses in the Generator Housing and compared with the model values calculated in the previous
+year. The oxygen evolution catalyst and series resistance in the device were identified as two major sources of voltage loss. 
+
+2 
+
+Outside
+of our central research and development hub in Iowa and our work with the University of Iowa and the University of Michigan, we have
+further expanded our industrial partnerships across the U.S., Germany, South Korea, and Japan. 
+
+Our
+current industrial partners include: COTEC Corp.; MSC Co. LT D; Chromis Technologies; the
+National Renewable Energy Laboratory (NREL); Geomatec; and InRedox. By diversifying our commercialization strategy in this way, we have
+formed relationships with industrial partners who are specialized in individual components of our technology such as electroplating,
+substrate processing and catalyst/membrane integration. 
+
+InRedox
+and Geomatec are focused on facilitating our transition to large-scale substrate manufacturing, while MSC Co. LTD is focused on developing
+large-scale electroplating chemistries. 
+
+With
+the National Renewable Energy Agency, we are working to improve the overall power conversion efficiency of our hydrogen panels. 
+
+With
+COTEC Corp. we are working to reproduce existing lab-scale achievements using industrial electroplating processes. We expect our initial
+exploration phase with COTEC to be completed by December 31, 2023. Following this phase, our next step is to produce 1m 
+hydrogen panels to be utilized in multiple commercial-scale pilot projects. 
+
+We
+are working with Chromis Technologies to integrate both proton exchange membranes (PEM) and anion exchange membranes (AEM) into our proprietary
+substrates and evaluate performance metrics for sustainable hydrogen production. 
+
+We
+also recently announced the approval of 3.1M in funding for Project NanoPEC, which brings us together with six partners at the cutting
+edge of industry and science in Germany, including: SCHMID Group; Fraunhofer; WAVELABS Solar Metrology Systems GmbH ;
+ ECH Elektrochemie Halle GmbH ; Zahner-Elektrik ;
+and Helmholtz-Zentrum Berlin . 
+
+We
+believe working with some of the most innovative leaders in German industry and science can accelerate our progress toward commercialization. 
+
+Finally,
+we remain well-capitalized to pursue strategic investments in the hydrogen space, as evidenced by our November 2022 investment of 10M
+in Norway-based TECO2030 ASA. 
+
+With
+their zero-emission PEM hydrogen fuel cells stacks and modules, TECO2030 ASA is accelerating the
+transition to clean energy in the maritime and heavy-duty transportation sectors, and has formed strong relationships with world-leading
+companies in the fuel cell industry in the process. Their longtime development partner AVL is the world s largest independent
+company for the development, simulation and testing of powertrain systems. TECO 2030 ASA is also partnered with thyssenkrupp Automation
+Engineering, which holds over 100 years of fuel cell experience and 34 billion in revenue in 2021. 
+
+Every
+day in the US, hundreds of thousands of diesel-powered trucks travel through routes with abundant land and sun. Envision SunHydrogen
+panels along and around these highways, producing green hydrogen at and near refueling sites: Our technology would eliminate the need
+to transport hydrogen fuel over long distances, lowering the high costs and hydrogen losses that would otherwise happen in long-distance
+transport. In the future, we believe our green hydrogen panels along major trucking routes worldwide, together with the proliferation
+of TECO 2030 ASA s hydrogen fuel cell technology, can make a significant mark on the industry. 
+
+While we remain dedicated to our primary goal of developing our nanoparticle
+technology to commercialization, we will also seek to further the renewable hydrogen ecosystem through investment in, and acquisition
+of, complementary hydrogen technologies. We believe we have the resources to maximize our impact in this fast-growing industry. 
+
+3 
+
+Additionally,
+we believe our recent uplisting to the OTCQB Venture Market will allow us to expose a broader range of investors to our mission of producing
+low-cost, truly green hydrogen. With additional compliance and quality standards, the OTCQB provides investors improved visibility to
+enhance trading decisions. 
+
+Looking
+ahead to the upcoming months, we continue making steady progress toward strengthening our operational photocurrent densities, optimizing
+our panel design, and engaging quality manufacturing partners that can take our existing lab-scale process to commercial-scale. 
+
+Market
+Opportunity 
+
+Hydrogen
+generation is projected to become a 1 trillion per year market by 2050 (Source: Goldman Sachs, Carbonomics: The clean hydrogen revolution) .
+Current fossil fuels can t sustain future energy requirements environmentally or economically, and hydrogen fuel technologies are
+being adopted across all sectors as the world moves toward renewable alternatives. 
+
+Over
+110 countries have set goals to achieve net-zero emissions by 2050, and as governments are looking to clean energy sources like hydrogen
+to help them meet their targets (Source: United Nations, The race to zero emissions, and why the world depends on it) . It is estimated
+that nearly 25 of global energy will come from clean hydrogen alone by 2050 (Source: Goldman Sachs, Green Hydrogen: The next transformational
+driver of the Utilities industry). 
+
+In
+the US, California is leading the way in hydrogen strategies, with more fuel cell passenger vehicles on the road than any other state
+and one of the largest hydrogen refueling station networks in the world (Source: Sierra Nevada Ally, Hydrogen Fuel Cell Vehicles are
+Building Momentum in California) . Globally, over 1,000 green hydrogen production demonstration projects have been announced around
+the world, and policy leaders have put forth ambitious strategies to utilize hydrogen and fuel cell technologies across all sectors of
+the economy including transportation, feedstock and industrial heat use (Source: The Hydrogen Council and McKinsey Company, Hydrogen
+Insights 2023) . 
+
+Existing
+Market Growth 
+
+As
+supply chain challenges and geopolitical conflicts continue to affect fuel prices globally, the hydrogen market is rallying support from
+consumers and governments alike. 
+
+In
+August 2022, The Inflation Reduction Act, which allotted 369 billion to renewable energy and climate projects, was signed into law in
+the US. Among its features, the law has a 10-year extension of solar and wind tax credits and incentives to support new technology,
+with hydrogen and energy storage set to be the greatest beneficiaries, according to Morningstar s chief US market strategist
+Dave Sekera (Source: Markets Insider, Clean energy stocks are set to be the big winners of the sweeping Inflation Reduction Act just
+signed by Biden, Morningstar says). Specifically,
+the Act included a tax credit that will award up to 3/kg for low carbon hydrogen, with exact credit amounts to be determined by calculating
+a given project s greenhouse gas emissions (Source: S P Global, Hydrogen tax credits preserved in new US Inflation Reduction
+Act) . 
+
+In
+the year since the passage of the Inflation Reduction Act, the US has seen additional promising legislation in favor of the adoption
+of hydrogen as a replacement for fossil fuels. Most recently, the US Department of Energy released its intent to invest up to an additional
+ 1 billion to support the Regional Clean Hydrogen Hubs program, an already- 7 billion initiative to create six to ten regional clean
+hydrogen hubs across the country (DOE, Biden-Harris Administration to Jumpstart Clean Hydrogen Economy with New Initiative to Provide
+Market Certainty and Unlock Private Investment) . According to the DOE, America s growing hydrogen economy has the potential
+to add 100,000 net new direct and indirect jobs by 2030 (DOE, DOE s Pathways to Commercial Liftoff: Clean Hydrogen report) . 
+
+An
+additional factor currently driving the global hydrogen market is the need to reduce sulfur content in petroleum products. U.S. federal
+and state governments have adopted various programs, including the Tier 3 program, to reduce the sulfur content in gasoline, motor oil
+and diesel. Particularly, there is a growing demand
+for petroleum products from developing countries. Hydrogen is used in various refining processes including hydrocracking and hydrodesulfurization
+to crack bigger molecules into lighter ones and produce more usable products. 
+
+4 
+
+For
+all these reasons and more, we believe our renewable hydrogen-producing technology possesses significant early market opportunity, especially
+as innovation and infrastructure continue to develop. 
+
+Hydrogen
+Mobility 
+
+The auto-manufacturing and vehicle industries are among the most recognized
+applications for hydrogen fuel technologies. According to a 2023 study by Information Trends, over 56,000 hydrogen fuel cell vehicles
+had been sold by year-end 2022 (Source: Information Trends, Global Market for Hydrogen Fuel Cell Vehicles). 
+
+Historically,
+sales have been held back due to the lack of a solid hydrogen refueling infrastructure, but the numbers are projected to rise quickly,
+and fuel cell vehicles are gaining momentum around the world. Specifically, hydrogen stands to make a significant impact on the heavy-duty,
+long-haul trucking industry. Hydrogen-powered trucks and hydrogen refueling stations present a
+variety of cost, scalability, and sustainability-related benefits over battery power, according to a recent McKinsey Company report.
+Namely, hydrogen-fueled trucks can refuel faster and carry a lower weight penalty than battery-powered trucks because tanks weigh considerably
+less than batteries. And at scale, the infrastructure is less costly to create than e-truck charging infrastructure because it does not
+require grid upgrades and has a smaller carbon footprint. Faster refueling speed also means the hydrogen infrastructure can be used by
+many more trucks (McKinsey Company, Unlocking hydrogen s power for long-haul freight transport) . 
+
+Additionally,
+hydrogen has emerged as an ideal solution for a myriad of mobility-related applications beyond fuel cell cars and trucks. 
+
+In
+a 2022 report from the Ocean Conservancy, researchers concluded that green hydrogen-based fuels are the best option to transition the
+shipping industry away from fossil fuels. Producing green hydrogen-based fuels can kickstart the transition to new shipping fuels
+along promising green corridor routes within the U.S. and can make key down payments that will drive further investment in renewable
+energy and feed the demand for climate action within the global transportation sector, said Daniel Hubbell, shipping emissions
+campaign manager for Ocean Conservancy (Source: Ocean Conservancy, Green Hydrogen-Based Fuels are the Best Option to Transition the
+Shipping Industry Away from Fossil Fuels, New Report Finds). 
+
+In
+March 2023, French rail transport manufacturing company Alstom announced the debut of North America s first green hydrogen-powered
+train, which began transporting passengers this summer (Smithsonian Magazine, North America s First Hydrogen-Powered Train Will
+Debut This Summer) . This follows Germany s monumental 2022 accomplishment of completing the first-ever rail line to be entirely
+run on hydrogen-powered trains. Germany s hydrogen trains have a range of 1,000 kilometers, meaning they can run for an entire
+day on the network on a single tank of hydrogen, and a hydrogen filing station has already been established on the route (Source: CNN,
+ The world s first hydrogen-powered passenger trains are here ). 
+
+Hydrogen
+is even powering factory forklifts for commerce leaders like Walmart and Amazon: In 2022, Walmart purchased hydrogen from Plug Power
+to fuel as many as 9,500 machines across the retailer s fulfillment and distribution centers (Source: Bloomberg, Walmart Will
+Run Forklifts on Green Hydrogen in Plug Power Deal) . In August 2023, Walmart opened a green hydrogen plant with energy
+company Engie at its Quilcura distribution center in Chile, in alignment with its desire to replace lead-acid batteries in forklifts
+with hydrogen fuel cells. We are moving away from lead-acid batteries to reduce the time our associates spend on the battery charge
+process, which we expect will now improve up to 80 , a company spokesperson said (Source: Hydrogen Insight, Walmart replaces
+battery-electric forklifts with hydrogen fuel-cell models to reduce charging times). 
+
+Amazon
+and Plug Power have entered a similar agreement, with Plug Power providing Amazon with 10,950 tons of liquefied hydrogen per year that
+will be used to fuel transportation and building operations starting in 2025 (Source: Forbes, Amazon To Buy Plug Power s Green 
+Hydrogen In Deal with 2.1 Billion Stock Option) . Along with fuel for forklifts, Amazon may also use hydrogen to power a range of
+vehicles used in delivery operations, including long-haul trucks, the article stated. 
+
+5 
+
+Whether
+in traditional vehicles, marine ships, long-haul trucks, trains, or even factory forklifts, it is clear that hydrogen has already made
+a significant mark on the mobility industry, and we only expect it to become more prolific as governments continue to support the development
+of relevant infrastructure that the hydrogen future calls for. 
+
+Our
+Technology 
+
+Technology
+for Making Renewable Hydrogen from Sunlight and Water 
+
+Powered
+by solar energy, billions of our microscopic nanoparticles split apart water at the molecular level, extracting hydrogen for use as a
+clean energy source and leaving behind only clean oxygen as a byproduct. This process is similar to what happens inside a plant cell
+during photosynthesis: Each Photoelectrosynthetically Active Heterostructures (or PAH) nanoparticle is a microscopic machine, composed
+of multiple layers enabling the solar electrolysis reaction to take place. 
+
+Water
+Splitting 
+
+In
+the process of splitting a water molecule, input energy is transferred into the chemical bonds. Essentially, manufactured hydrogen serves
+as a carrier or battery-like storage of the input energy. If the input energy is from fossil fuels, such as oil and gas, then carbon
+fossil fuel energy is simply transferred into hydrogen. If the input energy is renewable, such as solar or wind, then new and clean energy
+is stored in hydrogen. 
+
+While
+the concept of water splitting is very appealing, the following industry-wide challenges must be addressed for renewable hydrogen to
+be commercially viable: 
+
+Energy
+ Inefficiency Since hydrogen is an energy carrier, the most energy it can store is 100 of the input energy. However,
+ conventional electrolysis methods lose much of the input energy in system components, wires and electrodes resulting in only a small
+ portion of electricity making it into the hydrogen molecules. This translates to high production cost and is the fundamental problem
+ with water splitting for hydrogen production. We intend to address this problem with our low-cost and energy-efficient nanoparticle
+ technology. 
+
+Need
+ for Clean Water Conventional electrolysis requires highly purified clean water to prevent fouling of system components.
+ This prevents current technology from using large quantities of available water from oceans, rivers, industrial waste and municipal
+ waste as feedstock. We are currently working with acidic or alkaline water, as well as wastewater, to produce renewable hydrogen
+ through our nanoparticle technology. 
+
+Technology 
+
+Water
+electrolysis in its simplest form is the transfer of input electrons in the following chemical reactions: 
+
+Cathode
+(reduction): 2H 2 O + 2 e- + 2 + 2OH- 
+
+Anode
+(oxidation): 4OH- 2 + 2H 2 O + 4 e- 
+
+From
+these equations, one can deduce that if every input electron e - is put to work and not lost, then a maximum amount
+of input electrons (i.e. energy) is transferred and stored in the hydrogen molecules (H 2 ). Additionally, if there were a very
+high number of cathode and anode reaction areas within a given volume of water, then a very high number of these reactions could happen
+simultaneously throughout the medium to split each water molecule into hydrogen wherever electrons are available. 
+
+6 
+
+SunHydrogen
+Panel 
+
+Since
+our particles are intended to mimic the natural process of photosynthesis, directly producing hydrogen and oxygen without the need for
+costly intermediate power conversions, they can be housed in very low-cost reactors. To facilitate the commercial use of our self-contained
+particle technology, we are developing a modular system that will enable the onsite daily production and storage of hydrogen for any-time
+use in electricity generation. 
+
+We
+refer to our potential product as the SunHydrogen Panel which is comprised of the following components: 
+
+1.
+The Generator Housing - Our novel device design is the first of its kind to safely separate oxygen and hydrogen in the photoelectrochemical
+process, minimizing the sacrifice of solar-to-hydrogen efficiency. This device houses the water and the solar particles/cells and is
+designed with inlets and outlets for water and gasses. Utilizing a novel ion-exchange membrane integration strategy for separating the
+oxygen from the hydrogen products, efficient ion transport safely enables efficient solar hydrogen production. 
+
+2.
+The NanoParticle or Solar Cell - Powered by solar energy, billions of our microscopic nanoparticle solar cells split apart water at the
+molecular level, extracting hydrogen for use as a clean energy source and leaving behind only clean oxygen as a byproduct. 
+
+3.
+Oxygen Evolution Catalyst - Uniformly applied to the solar cell or nanoparticle, an oxygen evolution catalyst efficiently oxidizes water
+molecules to generate oxygen gas. The oxygen evolution catalyst must be robust to withstand long operating hours under acidic and alkaline
+conditions. 
+
+4.
+Hydrogen Evolution Catalyst - Necessary for collecting electrons to reduce protons for generating hydrogen gas, we have identified a
+strategy to minimize the use of precious metal-based catalysts and integrated the hydrogen catalyst into our generator system for efficient
+solar hydrogen production. 
+
+5.
+Coating Technologies - Two major coating technologies were developed to protect the nanoparticles and solar cells from photocorrosion
+under water: A transparent conductive coating to protect our nanoparticles and solar cells from photocorrosion during the water splitting
+process and efficiently transfer charges to catalysts for oxygen and hydrogen evolution reactions; and a polymer combination that protects
+the semiconductor solar cells that would otherwise fail in aquatic environments, instead ensuring a long lifetime for solar hydrogen
+production. 
+
+Our
+business and commercialization plan utilizes our nanoparticle-based technology, where billions of autonomous solar cells are electrodeposited
+onto protective porous sheets and manufactured in a roll to roll process or wafer process and inserted into our proprietary panels. For
+our nanoparticle technology, we have received multiple patents and our target cost of hydrogen production is 2.50 per kilogram before
+pressurization. 
+
+In
+addition to our sponsored research agreements with the University of Iowa and University of Michigan, we are working with a growing group
+of specialized industrial partners to help commercialize our renewable hydrogen panels that use sunlight and water to generate hydrogen.
+Our current industrial partners include: COTEC Corp.; MSC Co. LTD; Chromis Technologies; the National Renewable Energy Laboratory (NREL);
+Geomatec; and InRedox. Our project partners through Project NanoPEC include: SCHMID Group; Fraunhofer; WAVELABS
+Solar Metrology Systems GmbH; ECH Elektrochemie Halle GmbH; Zahner-Elektrik; and Helmholtz-Zentrum Berlin. 
+
+7 
+
+Intellectual
+Property 
+
+On
+November 14, 2011, we filed a provisional application with the U.S. Patent and Trademark Office to protect the intellectual property
+rights for Photoelectrosynthetically Active Heterostructures A year later on November 14, 2012, we filed a non-provisional
+application claiming priority to the provisional application. On March 14, 2017, a first patent covering the structural design of Photoelectrosynthetically
+Active Heterostructures (PAH) was granted as United States Patent No. 9,593,053B1. A divisional application claiming priority to the
+foregoing applications was filed, and on April 3, 2018, a second patent covering the method for manufacturing PAH was granted as United
+States Patent No. 9,593,053B2. These patents protect the Company s proprietary design and manufacturing method of a self-contained
+solar-to-hydrogen device made up of billions of solar-powered water-splitting nanoparticles, per square centimeter. These nanoparticles
+are separated by a protective coating that prevents corrosion during extended periods of hydrogen production. The aim of producing these
+nanoparticles is to achieve high solar -to-hydrogen conversion efficiency at low cost. These patents expire on November 14, 2032. 
+
+An
+important aspect of the patented technology referred to in the preceding paragraph is the integrated structures of high-density arrays
+of nano-sized solar cells as part of hydrogen production nanoparticles. The technology enables manufacturing of ultra-thin sheets for
+solar hydrogen production, requiring substantially less material as compared to conventional solar cells used in rooftop power applications. 
+
+On
+March 21, 2014, we jointly filed a provisional application with the University of California, Santa Barbara for the Multi-junction
+artificial photosynthetic cell with enhanced photovoltages. Thereafter, we filed a non-provisional application on March 16, 2015
+and a corresponding PCT Application on March 17, 2015. These applications cover our semiconductor designs to enhance the photovoltages
+of the nano-sized solar cells in the PAH structures. The semiconductor designs stacking multiple junctions inside the PAH structures
+would be an efficient and economical solution for the photovoltaic and the photoelectrochemical industries. Patents were granted in Australia
+in April of 2018, China and Europe in March of 2019, and in the U.S. as United States Patent No. 10,100,415 in October of 2018. The last
+patent from this international application was granted in India in October 2022. This patent expires on October 21, 2036. 
+
+On
+September 26, 2016, we filed jointly with the University of Iowa a provisional application for Integrated Membrane Solar Fuel
+Production Assembly to protect the intellectual property for our generator housing system that safely separates oxygen and hydrogen
+in the water-splitting process without sacrificing efficiency. This device houses the water, the solar particles/cells and is designed
+with inlets and outlets for water and gases. Utilizing a special architecture that integrates membranes for separating the oxygen side
+from the hydrogen side, proton transport is increased which is the key to safely increasing solar-to-hydrogen efficiency. On September
+26, 2017, we filed a PCT Application that was later nationalized in the U.S. on March 26, 2019. The U.S. patent application for this
+important invention is pending and prosecution is ongoing. 
+
+8 
+
+Strategic
+Partners 
+
+We
+are currently engaged in a sponsored research agreement with the University of Iowa. This term of the research agreement runs through
+September 30, 2023 but may be extended upon mutual agreement of the parties. 
+
+We
+are currently engaged in a sponsored research agreement with the University of Michigan. This term of the research agreement runs through
+September 30, 2023 but may be extended upon mutual agreement of the parties. 
+
+We
+have also initiated a research agreement with the National Renewable Energy Laboratory (NREL). This research agreement runs through April
+21, 2024, but may be extended upon mutual agreement of the parties. 
+
+Additionally,
+we are engaged in an ongoing consulting contract with Strategic Analysis, Inc. to aid in further reducing our system cost through techno-economic
+research and evaluation. 
+
+In
+February 2021, we entered into a cooperation agreement with SCHMID Group of Freudenstadt, Germany. Through the collaboration, we identified
+key manufacturing needs in the areas of electroplating chemistries, substrate processing and membrane and catalyst integration that require
+collaboration with specialized industry partners. To address these scale-up challenges, we have since adopted a more diversified scale-up
+strategy. Due to delays associated with supply chain challenges brought on by the Covid-19 pandemic, the cooperation agreement was extended
+to fully complete the work scope with no additional cost to the company. Our agreement with SCHMID Group remains open-ended, and we look
+forward to ongoing collaboration with SCHMID through Project NanoPEC on the design and engineering of our generator housing. 
+
+Competition 
+
+Currently,
+most hydrogen is produced by steam reforming of natural gas or methane. This production technology dominates due to easy availability
+and low prices of natural gas. Partial oxidation of petroleum oil is second in production capacity after steam reforming of natural gas.
+The third largest production technology in terms of production capacity is steam gasification of coal. Key players in the traditional
+hydrogen production industry include Linde, Air Liquide, Air Products, Praxair, and more. 
+
+At
+this time, however, we view our primary competition as companies that have developed or are currently developing renewable hydrogen production
+technology. Green or renewable hydrogen can be produced through electrolyzers if the electrolyzers are powered by renewable energy sources,
+such as solar or wind. Some of these companies include: 
+
+Plug
+Power: Plug Power (Stock symbol: PLUG) is engaged in the development of hydrogen fuel cell systems that replace conventional batteries
+in equipment and vehicles powered by electricity. The company is currently building green hydrogen plants to produce at least 70 tons
+of liquid green hydrogen daily by the end of 2022 and 500 tons daily by 2025. 
+
+NEL
+Hydrogen: NEL Hydrogen (Stock symbol: NLLSF) delivers solutions to produce, store, and distribute hydrogen from renewable energy.
+The company s hydrogen solutions cover the entire value chain from hydrogen production technologies to hydrogen fueling stations,
+enabling industries to transition to green hydrogen. 
+
+Fusion
+Fuel: Fusion Fuel (Stock symbol: HTOO) has developed a modular solar to hydrogen solution, combining proven solar concentration technology
+with a proprietary micro-electrolyzer that allows it to produce zero-emissions green hydrogen at highly competitive costs. The company
+sells its HEVO-Solar technology to customers interested in producing their own green hydrogen. It also develops company-owned green hydrogen
+farms. 
+
+ITM
+Power: ITM Power (Stock symbol: ITMPF) designs, manufactures, and integrates electrolyzers based on proton exchange membrane technology
+to produce green hydrogen using renewable electricity and tap water. ITM Power works with strategic partners including Linde, Shell,
+Snam, Hyundai, and Honda to scale its impact and industrial reach. 
+
+McPhy: McPhy (Stock symbol: MCPHY) specializes in the design,
+production and integration of high pressure alkaline electrolyzers and hydrogen stations. McPhy has five development, engineering and
+production sites in France, Italy, and Germany, and it is backed by solid and constantly-evolving European industrial foundations. 
+
+9 
+
+If
+not powered by renewable sources, electrolyzers require external electricity most likely created by coal, gas or oil. We believe that
+our process when fully developed may potentially offer a competitive advantage as we anticipate it will be fully renewable and utilize
+no external power other than the sun. However, it should be noted that the renewable hydrogen market is rich with competitors, like the
+companies mentioned above, who have already successfully commercialized green hydrogen production technologies. We anticipate that existing
+leaders will continue to hone the efficiency of their products and drive down cost of green hydrogen per kilogram, thus creating a more
+competitive, challenging environment for emerging, not-yet-commercialized technologies such as our own. 
+
+Corporate
+Information 
+
+We
+were incorporated in the State of Nevada on February 18, 2009. Our executive offices are located at 2500 Crosspark Road, Coralville IA
+52241. 
+
+Employees 
+
+As
+of September 27, 2023, we have 8 full-time employees and several consultants. We have not experienced any work stoppages and we consider
+relations with our employees and consultants to be good. Our research and development work is performed at our Coralville, Iowa laboratory,
+as well as with the University of Iowa and the University of Michigan through sponsored research agreements, and in collaboration with
+our industrial partners. 
+
+Item
+1A. Risk Factors. 
+
+Risks
+related to our business and industry 
+
+Our
+limited operating history does not afford investors a sufficient history on which to base an investment decision. 
+
+We
+were formed in February 2009 and are currently developing a new technology that has not yet gained market acceptance. There can be no
+assurance that we will ever operate profitably or that we will have adequate working capital to meet our obligations as they become due. 
+
+Investors
+must consider the risks and difficulties frequently encountered by early stage companies, particularly in rapidly evolving markets. Such
+risks include the following: 
+
+competition; 
+
+need
+ for acceptance of products; 
+
+ability
+ to continue to develop and extend brand identity; 
+
+ability
+ to anticipate and adapt to a competitive market; 
+
+ability
+ to effectively manage rapidly expanding operations; 
+
+amount
+ and timing of operating costs and capital expenditures relating to expansion of our business, operations, and infrastructure; and 
+
+dependence
+ upon key personnel. 
+
+We
+cannot be certain that our business strategy will be successful or that we will successfully address these risks. In the event that we
+do not successfully address these risks, our business, prospects, financial condition, and results of operations could be materially
+and adversely affected and we may have to curtail our business. 
+
+10 
+
+We
+have a history of losses and have never realized revenues to date. We expect to continue to incur losses and no assurance can be given
+that we will realize revenues. Accordingly, we may never achieve and sustain profitability. 
+
+As of June 30, 2023, we have an accumulated deficit of 81,971,040.
+For the year ended June 30, 2023 we had net income of 974,979 due to a non-cash change in derivatives. We expect to incur net losses
+until we are able to realize revenues to fund our continuing operations. We may fail to achieve any or significant revenues from sales
+or achieve or sustain profitability. Accordingly, there can be no assurance of when, if ever, we will be profitable or be able to maintain
+profitability. 
+
+We
+have historically raised funds through various capital raising transactions. We will require additional funds in the future to fund our
+business plans, either through additional equity or debt financings or collaborative agreements or from other sources. We have no commitments
+to obtain such additional financing, and we may not be able to obtain any such additional financing on terms favorable to us, or at all.
+During the year ended June 30, 2023, the Company received funds through an equity purchase agreement in the net amount of 2,733,494.
+In the event we are unable to obtain additional financing, we may be unable to implement our business plan. Even with such financing,
+we have a history of operating losses and there can be no assurance that we will ever become profitable. 
+
+We
+may be unable to manage our growth or implement our expansion strategy. 
+
+We
+may not be able to develop our product or implement the other features of our business strategy at the rate or to the extent presently
+planned. Our projected growth will place a significant strain on our administrative, operational and financial resources. If we are unable
+to successfully manage our future growth, establish and continue to upgrade our operating and financial control systems, recruit and
+hire necessary personnel or effectively manage unexpected expansion difficulties, our financial condition and results of operations could
+be materially and adversely affected. 
+
+We
+may not be able to successfully develop and commercialize our technologies which would result in continued losses and may require us
+to curtail or cease operations. 
+
+We
+are currently working to scale the lab-scale prototypes of our nanoparticle technology to larger, commercial-scale prototypes. However,
+we have not completed a large-scale commercial prototype of our technology and are uncertain at this time when completion of a commercial
+scale prototype will occur. Although the lab scale prototype demonstrates the viability of our technology, there can be no assurance
+that we will be able to commercialize our technology. 
+
+Our
+revenues will be dependent upon acceptance of our products by the market; the failure of which would cause us to curtail or cease operations. 
+
+We
+believe that virtually all of our revenues will come from the sale or license of our products. As a result, we will continue to incur
+substantial operating losses until such time as we are able to develop our product and generate revenues from the sale or license of
+our products. There can be no assurance that businesses and customers will adopt our technology and products, or that businesses and
+prospective customers will agree to pay for or license our products. Our technology and product, when fully developed, may not gain market
+acceptance due to various factors such as not enough cost savings between our method of producing hydrogen and other more conventional
+methods. In the event that we are not able to significantly increase the number of customers that purchase or license our products, or
+if we are unable to charge the necessary prices or license fees, our financial condition and results of operations will be materially
+and adversely affected. 
+
+11 
+
+We
+anticipate that we will face intense competition, and many of our competitors have substantially greater resources than we do. 
+
+We
+operate in a competitive environment that is characterized by price fluctuation and technological change. We anticipate that we will
+compete with major international and domestic companies. Some of our current and future potential competitors may have greater market
+recognition and customer bases, longer operating histories and substantially greater financial, technical, marketing, distribution, purchasing,
+manufacturing, personnel and other resources than we do. In addition, competitors may be developing similar technologies with a cost
+similar to, or lower than, our projected costs. As a result, they may be able to respond more quickly to changing customer demands or
+to devote greater resources to the development, promotion and sales of solar and solar-related products than we can. 
+
+Our
+business plan relies on sales of our products based on either a demand for truly renewable clean hydrogen or economically produced clean
+hydrogen. If we fail to compete successfully, our business would suffer and we may lose or be unable to gain market share. Neither the
+demand for our product nor our ability to manufacture at commercial scale have yet been proven. 
+
+Because
+our industry is highly competitive and has low barriers to entry, we may lose market share to larger companies that are better equipped
+to weather a deterioration in market conditions due to increased competition. 
+
+We
+believe that our ability to compete depends in part on a number of factors outside of our control, including: 
+
+the
+ ability of our competitors to hire, retain and motivate qualified personnel; 
+
+the
+ ownership by competitors of proprietary tools to customize systems to the needs of a particular customer; 
+
+the
+ price at which others offer comparable services and equipment; 
+
+the
+ extent of our competitors responsiveness to customer needs; and 
+
+installation
+ technology. 
+
+Currently,
+competing methods of hydrogen production include steam reforming of natural gas or methane, which dominates due to its easy availability
+and low price; partial oxidation of petroleum oil; steam gasification of coal; and electrolyzers powered by solar or wind energy. There
+can be no assurance that we will be able to compete successfully against current and future competitors. If we are unable to compete
+effectively, or if competition results in a deterioration of market conditions, our business and results of operations would be adversely
+affected. 
+
+Our
+business depends on proprietary technology that we may not be able to protect and may infringe on the intellectual property rights of
+others. 
+
+Our
+success will depend, in part, on our technology s commercial viability and on the strength of our intellectual property rights.
+We currently hold patents in the US, China, Australia, and Europe but still have several patents pending in multiple countries. There
+is no guarantee the pending patents will be granted. In addition, any agreements we enter into with our employees, consultants, advisors,
+customers and strategic partners will contain restrictions on the disclosure and use of trade secrets, inventions and confidential information
+relating to our technology may not provide meaningful protection in the event of unauthorized use or disclosure. 
+
+Third
+parties may assert that our technology, or the products we, our customers or partners commercialize using our technology, infringes upon
+their proprietary rights. We have yet to complete an infringement analysis and, even if such an analysis were available at the current
+time, it is virtually impossible for us to be certain that no infringement exists, particularly in our case where our products have not
+yet been fully developed. 
+
+12 
+
+We
+may need to acquire licenses from third parties in order to avoid infringement. Any required license may not be available to us on acceptable
+terms, or at all. 
+
+We
+could incur substantial costs in defending ourselves in suits brought against us for alleged infringement of another party s intellectual
+property rights as well as in enforcing our rights against others, and if we are found to infringe, the manufacture, sale and use of
+our or our customers or partners products could be enjoined. Any claims against us, with or without merit, would likely
+be time-consuming, requiring our management team to dedicate substantial time to addressing the issues presented. Furthermore, the parties
+bringing claims may have greater resources than we do. 
+
+We
+do not maintain theft or casualty insurance and only maintain modest liability and property insurance coverage and therefore, we could
+incur losses as a result of an uninsured loss. 
+
+We
+do not maintain theft, casualty insurance, or property insurance coverage. We cannot assure that we will not incur uninsured liabilities
+and losses as a result of the conduct of our business. Any such uninsured or insured loss or liability could have a material adverse
+effect on our results of operations. 
+
+If
+we lose key employees and consultants or are unable to attract or retain qualified personnel, our business could suffer. 
+
+Our
+success is highly dependent on our ability to attract and retain qualified scientific, engineering and management personnel. We are highly
+dependent on our CEO, Timothy Young, and our development team at the University of Iowa. The loss of this valuable resource could
+have a material adverse effect on our operations. There can be no assurance that they will remain associated with us. Our management s
+efforts will be critical to us as we continue to develop our technology and as we attempt to transition from a development stage company
+to a company with commercialized products and services. If we were to lose Mr. Young or the services of the development team at the university
+or any other key employees or consultants, we may experience difficulties in competing effectively, developing our technology and implementing
+our business strategies. 
+
+The
+loss of strategic alliances used in the development of our products and technology could impede our ability to complete our product and
+result in a material adverse effect causing the business to suffer. 
+
+We pursue strategic alliances with other companies in areas where collaboration
+can produce technological and industry advancement. For example, we have entered into a sponsored research agreement with the University
+of Michigan which is set to terminate September 30, 2023. If we are unable to extend the terms of this agreement, or any of our other
+agreements with our partners as described in this report, we could suffer delays in product development or other operational difficulties
+which could have a material adverse effect on our results of operations. 
+
+The
+COVID-19 pandemic may negatively affect our operations. 
+
+The
+COVID-19 pandemic has had widespread, rapidly evolving, and unpredictable impacts on global society, economies, financial markets, and
+business practices. The continuing impacts of COVID-19 are highly unpredictable and could be significant, and may have an adverse effect
+on our business, operations and our future financial performance. 
+
+The
+impact of the pandemic on our business, operations and future financial performance could include, but is not limited to, that: 
+
+We
+ may experience delays in our product development; 
+
+The
+ rapid and broad-based shift to a remote working environment creates inherent productivity, connectivity, and oversight challenges;
+ and 
+
+Volatility
+ in the equity markets could affect the value of our equity to shareholders and have an impact on our ability to raise capital. 
+
+13 
+
+Risks
+relating to our common stock 
+
+There
+is a limited trading market for our common stock. 
+
+Our common stock is not listed on any national securities exchange.
+Accordingly, investors may find it more difficult to buy and sell our shares than if our common stock was traded on an exchange. Although
+our common stock is quoted on the OTCQB , it is an unorganized, inter-dealer, over-the-counter market which provides significantly less
+liquidity than the Nasdaq Capital Market or other national securities exchange. Further, there is limited trading in our common stock.
+These factors may have an adverse impact on the trading and price of our common stock. 
+
+Our
+common stock could be subject to extreme volatility. 
+
+The
+trading price of our common stock may be affected by a number of factors, including events described in the risk factors set forth in
+this report, as well as our operating results, financial condition and other events or factors. In addition to the uncertainties relating
+to future operating performance and the profitability of operations, factors such as variations in interim financial results or various,
+as yet unpredictable, factors, many of which are beyond our control, may have a negative effect on the market price of our common stock.
+In recent years, broad stock market indices, in general, and smaller capitalization companies, in particular, have experienced substantial
+price fluctuations. In a volatile market, we may experience wide fluctuations in the market price of our common stock and wide bid-ask
+spreads. These fluctuations may have a negative effect on the market price of our common stock. In addition, the securities market has,
+from time to time, experienced significant price and volume fluctuations that are not related to the operating performance of particular
+companies. These market fluctuations may also materially and adversely affect the market price of our common stock. 
+
+We
+anticipate that our issuance of common stock upon conversion of Series C Preferred Shares will result in dilution to our
+stockholders. 
+
+As of June 30, 2023, we have outstanding shares of redeemable Series
+C Preferred Stock with an aggregate stated value of 1,095,100 that are convertible into common stock at a fixed conversion price of 0.00095
+(see Note 3 to the financial statements included in this report). We anticipate that our issuance of common stock upon conversion of outstanding
+preferred shares will result in dilution to holders of our common stock, which may have a negative effect on the price of our common stock.
+In addition, as of June 30, 2023, we have outstanding warrants to purchase 86,495,239 shares of common stock and options to purchase 163,894,499
+shares of common stock, and our issuance of shares of common stock upon exercise of outstanding warrants or options may result in additional
+dilution to our stockholders. 
+
+We
+have never paid common stock dividends and have no plans to pay dividends in the future, as a result our common stock may be less valuable
+because a return on an investor s investment will only occur if our stock price appreciates. 
+
+Holders
+of shares of our common stock are entitled to receive such dividends as may be declared by our Board of Directors. To date, we have paid
+no cash dividends on our shares of common stock and we do not expect to pay cash dividends on our common stock in the foreseeable future.
+We intend to retain future earnings, if any, to provide funds for operations of our business. Therefore, any return investors in our
+common stock will be in the form of appreciation in the market value of our shares of common stock, which may not occur. 
+
+Our
+common stock is subject to the SEC s penny stock rules. 
+
+Unless
+our common stock is listed on a national securities exchange, including the Nasdaq Capital Market, or we have stockholders equity
+of 5,000,000 or less and our common stock has a market price per share of less than 5.00, transactions in our common stock will be
+subject to the SEC s penny stock rules. If our common stock remains subject to the penny stock rules
+promulgated under the Securities Exchange Act of 1934, broker-dealers may find it difficult to effectuate customer transactions and trading
+activity in our securities may be adversely affected. 
+
+14 
+
+In
+accordance with these rules, broker-dealers participating in transactions in low-priced securities must first deliver a risk disclosure
+document that describes the risks associated with such stocks, the broker-dealer s duties in selling the stock, the customer s
+rights and remedies and certain market and other information. Furthermore, the broker-dealer must make a suitability determination approving
+the customer for low-priced stock transactions based on the customer s financial situation, investment experience and objectives.
+Broker-dealers must also disclose these restrictions in writing to the customer, obtain specific written consent from the customer, and
+provide monthly account statements to the customer. The effect of these restrictions will probably decrease the willingness of broker-dealers
+to make a market in our common stock, decrease liquidity of our common stock and increase transaction costs for sales and purchases of
+our common stock as compared to other securities. Our management is aware of the abuses that have occurred historically in the penny
+stock market. 
+
+This
+may make it more difficult for investors to dispose of our common stock and cause a decline in the market value of our stock. 
+
+Our
+articles of incorporation allow for our board to create new series of preferred stock without further approval by our stockholders, which
+could adversely affect the rights of the holders of our common stock. 
+
+Our
+board of directors has the authority to fix and determine the relative rights and preferences of preferred stock. Our board of directors
+has the authority to issue up to 5,000,000 shares of our preferred stock without further stockholder approval. As a result, our board
+of directors could authorize the issuance of a series of preferred stock that would grant to holders of preferred stock the right to
+our assets upon liquidation, or the right to receive dividend payments before dividends are distributed to the holders of common stock.
+In addition, our board of directors could authorize the issuance of a series of preferred stock that has greater voting power than our
+common stock or that is convertible into our common stock, which could decrease the relative voting power of our common stock or result
+in dilution to our existing stockholders. 
+
+Additional
+stock offerings in the future may dilute then-existing shareholders percentage ownership of the Company. 
+
+Given
+our plans and expectations that we will need additional capital, we anticipate that we will need to issue additional shares of common
+stock or securities convertible or exercisable for shares of common stock, including convertible preferred stock, convertible notes,
+stock options or warrants. We anticipate that our issuance of additional common stock or securities convertible into or exercisable into
+common stock in the future will dilute the percentage ownership of then current stockholders. 
+
+Item 1B. Unresolved Staff Comments. 
+
+None. 
+
+Item 1C. Cybersecurity. 
+
+Not applicable. 
+
+Item
+2. Properties. 
+
+Our
+principal office address and independent laboratories are located at the BioVentures Center at 2500 Crosspark Rd., Coralville, IA 52241. 
+
+Item
+3. Legal Proceedings. 
+
+We
+are not currently a party to, nor is any of our property currently the subject of, any material legal proceedings. 
+
+Item
+4. Mine Safety Disclosures. 
+
+Not
+Applicable. 
+
+15 
+
+PART
+II 
+
+Item
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Our
+common stock is quoted on the OTCQB under the symbol HYSR 
+
+Common
+Stock 
+
+Our
+Articles of Incorporation, as amended, authorizes the issuance of 10,000,000,000 shares of common stock, 0.001 par value per share and
+5,000,000 shares of preferred stock, par value 0.001 per share. 
+
+All
+outstanding shares of common stock are of the same class and have equal rights and attributes. The holders of our common stock are
+entitled to one vote per share on all matters submitted to a vote of our stockholders. All stockholders are entitled to share equally
+in dividends, if any, as may be declared from time to time by the Board of Directors out of funds legally available. In the event of
+liquidation, the holders of our common stock are entitled to share ratably in all assets remaining after payment of all liabilities.
+The stockholders do not have cumulative or preemptive rights. 
+
+As
+of September 22, 2023 our common stock was held by approximately 194 stockholders of record. 
+
+Dividend
+Policy 
+
+We
+have never declared or paid any cash dividends on our common stock. We do not anticipate paying any cash dividends to stockholders in
+the foreseeable future. In addition, any future determination to pay cash dividends will be at the discretion of the Board of Directors
+and will be dependent upon our financial condition, results of operations, capital requirements, and such other factors as the Board
+of Directors deem relevant. There are no restrictions in our articles of incorporation or bylaws that restrict us from declaring dividends. 
+
+Recent
+Sales of Unregistered Securities 
+
+None 
+
+16 
+
+Issuer
+Purchases of Equity Securities 
+
+None. 
+
+Item
+6. [Reserved.] 
+
+Item
+7. Management s Discussion and Analysis of Financial Conditions and Results of Operations. 
+
+Certain
+statements in Management s Discussion and Analysis of Financial Condition and Results of Operations below, and elsewhere
+in this annual report, are not related to historical results, and are forward-looking statements. 
+
+Forward-looking
+statements present our expectations or forecasts of future events. You can identify these statements by the fact that they do not relate
+strictly to historical or current facts. These statements involve known and unknown risks, uncertainties and other factors that may cause
+our actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity,
+performance or achievements expressed or implied by such forward-looking statements. Forward-looking statements frequently are accompanied
+by such words such as may, will, should, could, expects, plans, 
+ intends, anticipates, believes, estimates, predicts, potential 
+or continue, or the negative of such terms or other words and terms of similar meaning. Although we believe that the expectations
+reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, achievements,
+or timeliness of such results. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of
+such forward-looking statements. We disclaim any obligation to publicly update these statements, or disclose any difference between actual
+results and those reflected in these statements, except as may be required under applicable law 
+
+Subsequent
+written and oral forward looking statements attributable to us or to persons acting in our behalf are expressly qualified in their entirety
+by the cautionary statements and risk factors set forth below and elsewhere in this annual report, and in other reports filed by us with
+the SEC. 
+
+You
+should read the following description of our financial condition and results of operations in conjunction with the financial statements
+and accompanying notes included in this Annual Report beginning on page F-1. 
+
+Overview 
+
+SunHydrogen
+is developing breakthrough technologies to make, store and use green hydrogen in a market that Goldman Sachs estimates to be worth 12
+trillion by 2050. Our patented SunHydrogen Panel technology, currently in development, uses sunlight and any source of water to produce
+low-cost green hydrogen. Similar to solar panels that produce electricity, our SunHydrogen Panels will produce green hydrogen. Our vision
+is to become a major technology supplier in the new hydrogen economy. By developing, acquiring and partnering with other critical technologies,
+we intend to enable a future of emission-free vehicles, ships, data centers, aircrafts and more. 
+
+Results
+of Operations for the Year Ended June 30, 2023 compared to the Year Ended June 30, 2022 
+
+Operating
+Expenses 
+
+For
+the year ended June 30, 2023, operating expenses were 9,267,147, compared to 4,475,225 for the year ended June 30, 2022. Operating
+expenses consist primarily of research and development expenses and general and administrative expenses incurred in connection with the
+operation of our business. The net increase of 4,791,922 in operating expenses was a result of an increase in salaries of 2,706,923,
+an increase in research and development of 1,647,649, an increase in professional fees of 174,427, with a decrease in marketing of
+ 240,859, an increase in non-cash stock compensation of 331,547, and an overall increase of 171,735. 
+
+Other
+Income/(Expenses) 
+
+Other
+income and (expenses) for the year ended June 30, 2023, were 10,242,126 compared to 94,506,158 for the year ended June 30, 2022. The
+majority of the decrease of 84,264,033 in other income was the result of the increase in net change in derivatives of 86,796,839, a
+decrease in loss on redemption of marketable securities of 76,792, an increase in dividend expense of 19,075, an increase in investment
+income of 909,906, an increase in realized loss on sale of investment of 3,735, a decrease in loss on settlement of debt of 1,793,
+an increase in unrealized gain on investments in affiliate of 655,601, with a decrease in interest expense of 466,391. 
+
+17 
+
+Net
+Income (Loss) 
+
+For
+the year ended June 30, 2023, our net income was 974,979, compared to a net income of 90,030,933, for the year ended June 30, 2022.
+The majority of the decrease in net income of 89,055,954, was related primarily to the net change in derivative estimates each year.
+These estimates were based on the exchange of the convertible notes to Series C Preferred Shares, the market price of our stock,
+interest rates, our stock price, volatility, variable conversion prices based on market prices defined in the respective agreements and
+probabilities of certain outcomes based on managements estimates. These inputs are subject to significant changes from period
+to period, therefore, the estimated fair value of the derivative liabilities were removed during the period due to the exchange for preferred
+shares. The Company has not generated any revenues. 
+
+Liquidity
+and Capital Resources 
+
+Liquidity
+is the ability of a company to generate funds to support its current and future operations, satisfy its obligations, and otherwise operate
+on an ongoing basis. Significant factors in the management of liquidity are funds generated by operations, levels of accounts receivable
+and accounts payable and capital expenditures. 
+
+As of June 30, 2023, we had
+a working capital surplus of 47,689,381, compared to a working capital surplus of 24,865,577 as of June 30, 2022. This increase in working
+capital surplus of 22,823,804 was primarily due to the increase in cash received through sales of our common stock, investments, as well
+as the non-cash removal of the derivative liability. 
+
+During the year ended June
+30, 2023, we raised an aggregate of 2,733,494 from sales of our common stock in a registered direct offering. During the year ended June
+30, 2022, we raised an aggregate of 960,000 from sales of our common stock in registered direct offerings. 
+
+Cash
+flow used in operating activities was 4,262,085 for the year ended June 30, 2023, compared to 3,435,038 for the year ended June 30,
+2022. The increase of 826,047 in cash used by operating activities was primarily due to a decrease in convertible debt for the exchange
+to preferred shares, non-cash stock compensation expense, and the removal of non-cash derivative liabilities. The Company has had no
+revenues. 
+
+Cash
+provided by investing activities for the year ended June 30, 2023 was 11,101,386, and cash used by investing activities as of the prior
+period ended June 30, 2022 was 24,400,032. The increase of 35,501,418 in cash provided by investing activities was a result of the
+net redemption and purchase of marketable securities of 45,535,232, and the purchase of investment in affiliate of 7,000,000 and the
+purchase of long term convertible note, affiliate of 3,000,000, and the purchase of equipment in the amount of 33,814. 
+
+Cash provided by financing
+activities during the year ended June 30, 2023 was 2,665,203, compared to cash used by financing of (490,000) for the year ended June
+30, 2022. The increase in cash provided by financing activities was due to an increase in cash provided through sales of our common stock. 
+
+We
+have historically obtained funding from investors, through private placements and registered offerings of equity and debt securities.
+Management believes that the Company will be able to continue to raise funds through the sale of its securities to its existing shareholders
+and prospective new investors which will provide the additional cash needed to meet the Company s obligations as they become due
+and will allow the Company to continue to develop its core business. There can be no assurance that we will be able to continue raising
+the required capital for our operations on terms and conditions that are acceptable to us, or at all. If we are unable to obtain sufficient
+funds, we may be forced to curtail and/or cease our operation. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+do not have any off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition,
+revenues or expenses, result of operations, liquidity or capital expenditures. 
+
+18 
+
+Critical
+Accounting Policies 
+
+Our
+discussion and analysis of our financial condition and results of operations are based upon our financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial
+statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses,
+and related disclosures of contingent assets and liabilities. On an ongoing basis, we evaluate our estimates, including those related
+to impairment of property, plant and equipment, intangible assets, deferred tax assets and fair value computation using the Binomial
+lattice valuation pricing model. We base our estimates on historical experience and on various other assumptions, such as the trading
+value of our common stock and estimated future undiscounted cash flows, that we believe to be reasonable under the circumstances, the
+results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent
+from other sources. Actual results may differ from these estimates under different assumptions or conditions; however, we believe that
+our estimates, including those for the above-described items, are reasonable. 
+
+Use
+of Estimates 
+
+In
+accordance with accounting principles generally accepted in the United States, management utilizes estimates and assumptions that affect
+the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements
+as well as the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+These estimates and assumptions relate to recording, useful lives and impairment of tangible and intangible assets, derivatives, accruals,
+income taxes, stock-based compensation expense, binomial model inputs and other factors. Management believes it has exercised reasonable
+judgment in deriving these estimates. Consequently, a change in conditions could affect these estimates. 
+
+Fair
+Value of Financial Instruments 
+
+Fair
+value of financial instruments, requires disclosure of the fair value information, whether or not recognized in the balance sheet, where
+it is practicable to estimate that value. As of June 30, 2023 and 2022, the amounts reported for cash, accrued interest and other expenses,
+notes payables, and derivative liability approximate the fair value because of their short maturities. 
+
+Recently
+Adopted Accounting Pronouncements 
+
+Management
+adopted recently issued accounting pronouncements during the year ended June 30, 2023, as disclosed in the Notes to the financial statements
+included in this report. 
+
+Item
+7A. Quantitative and Qualitative Disclosure About Market Risk. 
+
+Not
+required for a smaller reporting company. 
+
+Item
+8. Financial Statements. 
+
+All
+financial information required by this Item is attached hereto at the end of this report beginning on page F-1 and is hereby incorporated
+by reference. 
+
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+None. 
+
+19 
+
+Item
+9A. Controls and Procedures. 
+
+Evaluation
+of Disclosure Controls and Procedures . 
+
+Our
+management, with the participation of our CEO and our Acting CFO, evaluated the effectiveness of our disclosure controls and procedures
+(as defined in Rule 13a-15(e) and Rule 15d-15(e) of the Exchange Act) as of the end of the period covered by this report. Based on that
+evaluation, our CEO and our Acting CFO concluded that our disclosure controls and procedures as of the end of the period covered by this
+report were effective to ensure that information required to be disclosed is made known to management and others, as appropriate,
+to allow timely decision regarding required disclosure and that the information required to be disclosed by us in reports that we file
+or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the Commission s
+rules and forms and (ii) accumulated and communicated to our management, including our CEO and Acting CFO, or persons performing similar
+functions, as appropriate to allow timely decisions regarding required disclosure. A controls system cannot provide absolute assurance,
+however, that the objectives of the controls system are met, and no evaluation of controls can provide absolute assurance that all control
+issues and instances of fraud, if any, within a company have been detected. 
+
+Management s
+Annual Report on Internal Control over Financial Reporting. 
+
+We
+are responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange
+Act Rule 13a-15(f). The Company s internal control over financial reporting is a process designed to provide reasonable assurance
+to our management and board of directors regarding the reliability of financial reporting and the preparation of the financial statements
+for external purposes in accordance with accounting principles generally accepted in the United States of America. 
+
+Our
+internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that,
+in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable
+assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with accounting principles
+generally accepted in the United States of America, and that receipts and expenditures of the Company are being made only in accordance
+with authorizations of management and directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use, or disposition of the Company s assets that could have a material effect on the financial
+statements. 
+
+Our
+management conducted an evaluation of the effectiveness of our internal control over financial reporting as of June 30, 2023 based on
+the criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (2013). Based on this evaluation, management concluded that our internal control over financial reporting was effective as
+of June 30, 2023, based on those criteria. 
+
+A
+control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of
+the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute
+assurance that all control issues and instances of fraud, if any, within the Company have been detected. 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to the rules
+of the Securities and Exchange Commission that permanently exempt smaller reporting companies. 
+
+Changes
+in Internal Controls 
+
+There
+has been no change in our internal control over financial reporting that occurred during the year ended June 30, 2023 that has materially
+affected or is reasonably likely to materially affect our internal control over financial reporting. 
+
+Item
+9B. Other Information. 
+
+None. 
+
+Item
+9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+
+Not
+applicable. 
+
+20 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers and Corporate Governance. 
+
+The
+following table sets forth information about our executive officers and directors: 
+
+Name 
+ Age 
+ Position 
+ 
+ Timothy Young 
+ 58 
+ President, CEO, Acting CFO and Chairman of the Board of Directors 
+ 
+ Mark J. Richardson 
+ 70 
+ Director 
+ 
+ Woosuk Kim 
+ 58 
+ Chief Operating Officer and Director 
+
+Timothy
+Young President, CEO, Acting CFO and Chairman of the Board of Directors 
+
+Tim
+Young is an accomplished executive with over fifteen years of management experience in media and Internet technology companies. Mr. Young
+was appointed President, CEO and Chairman of the Company in August 2009. Mr. Young was appointed Acting CFO in 2010. 
+
+Through
+his outreach to the public and to leaders in the renewable energy field, Mr. Young has bolstered the company s visibility as a
+key player in the developing green hydrogen market and rallied a strong investor base. Mr. Young s proven fundraising ability,
+along with his leadership and direction of SunHydrogen s long-term and short-term goals and strategies, has enabled the company
+to engage international industrial partners, attract top industry scientists, and most importantly continue to hit milestones toward
+commercializing its nanoparticle-based green hydrogen technology. 
+
+Prior
+to founding SunHydrogen, Mr. Young demonstrated a track record of success in management and leadership positions bringing new products
+to the market in the digital, cable and broadcast media industries. Mr. Young was the President
+of Rovion, a digital advertising company, where he increased revenues through a channel sales strategy that included companies such as
+Clear Channel, Disney, CBS, and Fox Television and bolstered the company s technical capabilities through strategic acquisitions. 
+
+Prior
+to Rovion, Mr. Young enjoyed a decade-long career at Time Warner Inc. where he served as Vice President and Regional Vice President of
+various divisions including America Online and Time Warner Cable. During his tenure, Mr. Young built some of the highest performing sales
+organizations at Time Warner with responsibilities ranging from product development and marketing to staff training and leadership development.
+He led the California and Hawaii sales teams which accounted for over 200 million in revenues with 250 sales and marketing personnel. 
+
+Mr.
+Young s track record of success and over fifteen years of management and leadership experience bringing new products to the market
+qualifies him to be a board member of the Company. 
+
+Mark
+J. Richardson Director 
+
+Mr.
+Richardson was appointed as a director in June 2018. Mr. Richardson has been a securities lawyer since he graduated from the University
+of Michigan Law School in 1978. He practiced as an associate and partner in large law firms until 1993, when he established his own practice
+under the name Richardson Associates. He has been the principal securities counsel on a variety of equity and debt placements for
+corporations, partnerships, and real estate companies. His practice includes public and private offerings, venture capital placements,
+debt restructuring, compliance with federal and state securities laws, representation of publicly traded companies, Nasdaq filings, corporate
+law, partnerships, joint ventures, mergers, asset acquisitions, and stock purchase agreements. As a partner in a major international
+law firm in the 1980 s, Mr. Richardson participated in the leveraged buyout and recapitalization of a well-known producer of animated
+programming for children, financed by Prudential Insurance and Bear Stearns, Inc. He was also instrumental in restructuring the public
+debentures of a real estate company without resorting to a bankruptcy proceeding. From 1986 to 1993 Mr. Richardson was a contributing
+author to State Limited Partnerships Laws California Practice Guide, Prentice Hall Law and Business. Prior to receiving his Juris
+Doctor degree cum laude from the University of Michigan Law School in 1978, Mr. Richardson received a Bachelor of Science degree summa
+cum laude in Resource Economics from the University of Michigan School of Natural Resources in 1975, where he earned the Bankstrom Prize
+for academic excellence and achieved Phi Beta Kappa honors. Mr. Richardson is an active member of the Los Angeles County and California
+State Bar Associations, including the Section on Corporations, Business and Finance and the Section on Real Estate. 
+
+The
+Board has determined that Mr. Richardson is qualified to serve as a director because of his extensive experience as a practicing attorney
+representing small companies. 
+
+21 
+
+Woosuk
+Kim Chief Operating Officer and Director 
+
+Woosuk
+Kim has served as our chief operating officer and director since April 1, 2021. From May 2011 to December 2019, Mr. Kim was senior vice
+president, head of M A group at SK Innovation in Seoul, South Korea, responsible for expanding core businesses and developing new
+business opportunities in the renewable energy sector through cross border acquisitions and joint venture transactions. From August 2009
+to May 2011 Mr. Kim was vice president, corporate development at SK Telekom. From August 2006 to March 2008, Mr. Kim was chief financial
+officer at Axon Financial Services in New York. From July 1998 to August 2006, Mr. Kim was executive director at Morgan Stanley in New
+York, responsible for developing and operating multi-billion dollar asset-backed securities funding platforms, investor marketing, and
+the corporate treasury function for Discover Card. He received an MBA from Cornell University and a BA from the University of Chicago. 
+
+Mr.
+Kim s financial industry knowledge and experience qualify him to serve on our board of directors. 
+
+Directors
+are elected at our annual meeting of shareholders and serve for one year until the next annual meeting of shareholders or until their
+successors are elected and qualified. 
+
+Family
+Relationships 
+
+There
+are no family relationships among our executive officers and directors. 
+
+Board
+Leadership Structure and Role in Risk Oversight 
+
+Although
+we have not adopted a formal policy on whether the Chairman and Chief Executive Officer positions should be separate or combined, we
+have traditionally determined that it is in the best interests of the Company and its shareholders to combine these roles. Currently,
+our Chief Executive Officer also serves as Chairman of the Board. Due to the small size and early stage of the Company, we believe it
+is currently most effective to have the Chairman and Chief Executive Officer positions combined. 
+
+Involvement
+in Certain Legal Proceedings 
+
+During
+the past ten years, none of our directors, executive officers, promoters, control persons, or nominees has been: 
+
+the
+ subject of any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer
+ either at the time of the bankruptcy or within two years prior to that time; 
+
+convicted
+ in a criminal proceeding or is subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+
+subject
+ to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or any
+ Federal or State authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any
+ type of business, securities or banking activities; 
+
+found
+ by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have violated
+ a federal or state securities or commodities law. 
+
+the
+ subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently
+ reversed, suspended or vacated, relating to an alleged violation of (a) any Federal or State securities or commodities law or regulation;
+ (b) any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or
+ permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order,
+ or removal or prohibition order; or (c) any law or regulation prohibiting mail or wire fraud or fraud in connection with any business
+ entity; or 
+
+the
+ subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization
+ (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29)
+ of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary
+ authority over its members or persons associated with a member. 
+
+22 
+
+Committees
+of the Board 
+
+Due
+to the small size of the Company and its Board of Directors, we currently have no audit committee, compensation committee or nominations
+and governance committee of our board of directors. We do not have an audit committee financial expert. 
+
+Code
+of Ethics 
+
+We
+have adopted a Code of Ethics that applies to all of our directors, officers and employees. A copy of the Code of Ethics can be obtained
+without charge upon request to Timothy Young, CEO and President, BioVentures Center, 2500 Crosspark Road, Coralville, IA 52241 and is
+also being incorporated by reference herein. Any waiver of the provisions of the Code of Ethics for executive officers and directors
+may be made only by the Board of Directors. Any such waivers will be promptly disclosed to our shareholders. 
+
+Changes
+in Nominating Procedures 
+
+None. 
+
+Item
+11. Executive Compensation 
+
+The
+table below sets forth the compensation earned by our named executive officers during the last two fiscal years. 
+
+Name
+ Principal Position 
+ Year 
+ Salary
+ ) 
+ Bonus
+ ) 
+ Stock
+ Awards ) 
+ Option
+ Awards ) 
+ Non
+ Equity Incentive Plan Compensation ) 
+ Non-Qualified
+ Deferred Compensation Earnings 
+ ) 
+ All
+ Other Compensation ) 
+ Total 
+ ) 
+ 
+ Timothy
+ Young, 
+ 2023 
+ 354,000 
+ 354,000 
+ 2,700,000 (1) 
+ - 
+ - 
+ - 
+ - 
+ 3,408,000 
+ 
+ CEO
+ and Acting CFO 
+ 2022 
+ 340,385 
+ 354,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 694,385 
+
+Woosuk
+ Kim 
+ 2023 
+ 275,000 
+ 206,250 
+ 1,350,000 (1) 
+ - 
+ - 
+ - 
+ - 
+ 1,831,250 
+ 
+ COO 
+ 2022 
+ 264,423 
+ 206,250 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 470,673 
+
+(1) Mr.
+Young and Mr. Kim were awarded restricted stock on November 8, 2022. 
+
+23 
+
+Outstanding
+Equity Awards at Fiscal Year-End 
+
+The
+following table discloses information regarding outstanding equity awards granted or accrued as of June 30, 2023, for our named executive
+officers. 
+
+Outstanding Equity Awards 
+
+Option Awards 
+ Stock Awards 
+ 
+ Name 
+ Number of Securities Underlying Unexercised (#) Exercisable 
+ Number of Securities Underlying Unexercised Options (#) Unexercisable 
+ Option Exercise Price ) 
+ Option Expiration Date 
+ Number
+ of Shares or Units of Stock that have not Vested (#) 
+ Market 
+ Value of Shares or Units of Stock that have not Vested ) 
+ 
+ Timothy Young 
+ 125,812,947 
+ - 
+ .0099 
+ 1/23/2026 
+ - 
+ - 
+ 
+ Woosuk Kim 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Director
+Compensation 
+
+The
+following table sets forth compensation information regarding the Company s non-employee directors in fiscal 2023: 
+
+Name 
+ Fees earned or paid in cash 
+ Stock Award ) 
+ Option Awards ) 
+ Non-equity incentive plan compensation 
+ Nonqualified deferred compensation earnings 
+ Non-Equity Incentive Plan Compensation ) 
+ Non-Qualified Deferred Compensation Earnings ) 
+ All Other Compensation ) 
+ Total 
+ ) 
+ 
+ Mark R. Richardson 
+ 42,000 
+ 75,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 117,000 
+
+24 
+
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters. 
+
+The following table sets forth
+certain information, as of September 28, 2023, concerning the number of shares of our common stock owned by: (i) each of our directors;
+(ii) each of our named executive officers; and (iii) each person or group known by us to beneficially own more than 5 of our outstanding
+shares of common stock. 
+
+We believe that all persons
+named in the table have sole voting and investment power with respect to all shares of common stock beneficially owned by them. 
+
+A person is deemed to be the
+beneficial owner of securities that can be acquired by him within 60 days of September 28, 2023, upon the exercise or conversion of options,
+warrants or convertible securities. Each beneficial owner s percentage ownership is determined by assuming that options, warrants
+or convertible securities that are held by him, but not those held by any other person, and which are exercisable within 60 days of September
+30, 2023 or have been exercised and converted. 
+
+Shares 
+ Held 
+ Unexercised 
+ Stock 
+ Options 
+ Total 
+ Percentage of 
+Common Stock 
+ 
+ Timothy A. Young 
+ 70,500,000 
+ 125,812,947 
+ 193,312,947 
+ 3.9 
+ 
+ Mark R. Richardson 
+ 3,000,000 
+ 3,081,552 
+ 6,081,552 
+
+Woosuk Kim 
+ 24,950,000 
+ - 
+ 24,950,000 
+
+All officers and directors as a group (3 persons) 
+ 90,450,000 
+ 128,894,499 
+ 227,344,499 
+
+Less than 1 
+
+(1) 
+ Based upon 5,061,034,972 shares issued and outstanding as of September 28,
+2023. 
+
+(2) 
+ The address for each of the officers and directors is c/o SunHydrogen, Inc. BioVentures Center, 2500 Crosspark Road, Coralville, IA 52241 
+
+Securities authorized for issuance under equity
+compensation plans 
+
+On January 23, 2019, our Board
+adopted the Company s 2019 Equity Incentive Plan (the 2019 Plan ). The stated purpose of the 2019 Plan is to promote
+the success of the Company and to increase stockholder value by providing an additional means through the grant of awards to attract,
+motivate, retain and reward selected employees and other eligible persons. The maximum number of shares of the Company s common
+stock that can be issued under the Plan is 300,000,000. The Plan has been approved by stockholders. 
+
+On
+January 27, 2022, our Board adopted the Company s 2022 Equity Incentive Plan (the 2022 Plan ). The stated purpose of
+the 2022 Plan is to attract and retain the types of employees, consultants, and directors who will contribute to the Company s long-range
+success. The maximum number of shares of the Company s common stock that can be issued under the 2022 Plan is initially 400,000,000.
+ The number of shares will automatically be increased on the first day of the Company s fiscal year beginning in 2023
+so that the total number of shares issuable will at all times equal fifteen percent (15 of the Company s fully diluted capitalization
+on the first day of the Company s fiscal year, unless the Board adopts a resolution providing that the number of shares issuable
+under the 2022 Plan shall not be so increased. 
+
+The following table sets forth information
+about our equity compensation plans as of June 30, 2023. 
+
+Plan Category 
+ Number of securities to be issued upon exercise of outstanding options, warrants and rights 
+ Weighted- average exercise prices of outstanding options, warrants and rights 
+ Number of securities remaining available for future issuance under the equity compensation plans (excluding securities reflected in column (a)) 
+
+(a) 
+ (b) 
+
+2019 Equity compensation plan approved by security holders 
+ 286,770,561 
+ 0.0099- 0.016 
+ 13,229,439 
+ 
+ 2022 Equity compensation plan approved by security holders 
+ 120,600,000 
+ 0.025- 0.035 
+ 279,600,000 
+ 
+ Total 
+ 407,370,561 
+ 
+ 292,829,439 
+
+25 
+
+Item 13. Certain Relationships and Related
+Transactions, and Director Independence. 
+
+Certain Relationships and Related Transactions 
+
+As of June 30, 2023, the Company
+owed 143,459 to Timothy Young for a loan payable for the payment of operating expenses in prior periods. 
+
+Director Independence 
+
+The Board has determined that
+Mr. Richardson is an independent director within the meaning of NASDAQ Rule 5605(a)(2). 
+
+Item 14. Principal Accountant Fees and Services. 
+
+Audit Fees 
+
+The aggregate fees billable
+to us by our principal accounting firm during the years ended June 30, 2023 and 2022 for the audit of our annual financial statements
+and review of financial statements included in our Form 10-Qs or services that are normally provided by the accountant in connection with
+statutory and regulatory filings or engagements for those fiscal years, were approximately 32,000 and 32,000, respectively. 
+
+Audit-Related Fees 
+
+We incurred fees of 0 and
+ 0 for the years ended June 30, 2023 and 2022, respectively, to our principal accountant for assurance and related services that are reasonably
+related to the performance of the audit or review of our financial statements and are not reported under Audit Fees above. 
+
+Tax Fees 
+
+We did not incur fees for
+services rendered to us for tax compliance, tax advice, or tax planning by our principal accountant for the fiscal years ended June 30,
+2023 and 2022. 
+
+All Other Fees 
+
+Our current policy is to not
+engage M K CPAS, PLLC to provide, among other things, bookkeeping services, appraisal or valuation services, or international audit
+services. The policy provides that we engage M K CPAS, PLLC to provide audit, and other assurance services, such as review of SEC
+reports or filings. 
+
+26 
+
+PART IV 
+
+Item 15. Exhibits and Financial Statement Schedules. 
+
+(1) Financial statements. 
+
+The SunHydrogen, Inc. financial statements are
+included in Item 8. Financial Statements and Supplementary Data. 
+
+(2) Financial statement schedules: None. 
+
+(3) Exhibits 
+
+Exhibit 
+ 
+ Description 
+
+3.1 
+ 
+ Articles of Incorporation of filed with the Nevada Secretary of State on February 18, 2009 (incorporated by reference to S-1 filed on February 5, 2010). 
+
+3.2 
+ 
+ Articles of Amendment of Articles of Incorporation filed with the Nevada Secretary of State on September 11, 2009 (incorporated by reference to S-1 filed February 5, 2010). 
+
+3.3 
+ 
+ Articles of Amendment of Articles of Incorporation of filed with the Nevada Secretary of State on November 21, 2013 (incorporated by reference 8-K filed on November 21, 2013). 
+
+3.4 
+ 
+ Articles of Amendment of Articles of Incorporation filed with the Nevada Secretary of State on September 13, 2018. (incorporated by reference to 10-K filed on September 25, 2018). 
+
+3.5 
+ 
+ Certificate of Designation of Series A Preferred Stock (incorporated by reference to the Company s Form 8-K filed February 2, 2022) 
+
+3.6 
+ 
+ Certificate of Designation of Series B Preferred Stock (incorporated by reference to the Company s Form 8-K filed November 26, 2019) 
+
+3.7 
+ 
+ Certificate of Designation of Series C Preferred Stock (incorporated by reference to the Company s Form 8-K filed December 17, 2021) 
+
+3.8 
+ 
+ Certificate of Amendment to Articles of Incorporation (incorporated by reference to 8-K filed January 3, 2020) 
+
+3.9 
+ 
+ Articles of Merger (incorporated by reference to 8-K filed June 15, 2020) 
+
+3.10 
+ 
+ Certificate of Amendment to Articles of Incorporation (incorporated by reference to 10-Q filed May 16, 2022) 
+
+3.11 
+ 
+ Amended and Restated Bylaws (incorporated by reference to 8-K filed February 2, 2022) 
+
+4.1 
+ 
+ Description of Registrant s Securities 
+
+10.1 
+ 
+ 2019 Equity Incentive Plan (incorporated by reference to Form S-8 on December 19, 2018) 
+
+27 
+
+10.2 
+ 
+ Form of Placement Agent Warrant (incorporated by reference to 8-K filed December 3, 2020) 
+
+10.3 
+ 
+ Form of Warrant (incorporated by reference to 8-K filed February 26, 2021) 
+
+10.4 
+ 
+ Form of Placement Agent Warrant (incorporated by reference to 8-K filed February 26, 2021) 
+
+10.5 
+ 
+ Employment Agreement between the Company and Timothy Young (incorporated by reference to 8-K filed March 1, 2021) 
+
+10.6 
+ 
+ Employment Agreement between the Company and Woosuk Kim (incorporated by reference to 8-K filed April 7, 2021) 
+
+10.7 
+ 
+ Contract, dated October 1, 2022, between the Company and The University
+of Iowa, Iowa City (incorporated by reference to Form 10-K filed October 7, 2022) 
+
+10.8 
+ 
+ Research Agreement Amendment No. 1 between the Company and Regents
+of the University of Michigan (incorporated by reference to Form 10-K filed October 7, 2022) 
+
+10.9 
+ 
+ Research Agreement Amendment No. 1 between the Company and Regents
+of the University of Michigan (incorporated by reference to Form 10-K filed October 7, 2022) 
+
+10.10 
+ 
+ SunHydrogen,
+Inc. 2022 Stock Incentive Plan (incorporated by reference to Form 10-K filed October 7, 2022) 
+
+14.1 
+ 
+ Code of Ethics (incorporated by reference to 10-K filed on September 28, 2012). 
+
+23.1 
+ 
+ Consent of M K CPAS, LLC 
+
+31.1 
+ 
+ Certification by Chief Executive Officer and Acting Chief Financial Officer pursuant to Sarbanes-Oxley Section 302 
+
+32.1 
+ 
+ Certification by Chief Executive Officer and Acting Chief Financial Officer pursuant to 18 U.S.C. Section 1350 
+
+101 
+ 
+ Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, Financial Statements and Supplementary Data of this Annual Report on Form 10-K. 
+
+104 
+ 
+ Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set. 
+
+Filed herewith. 
+
+Furnished herewith. 
+
+Indicates management contract or compensatory plan or arrangement. 
+
+Item 16. Form 10-K Summary. 
+
+None. 
+
+28 
+
+SIGNATURES 
+
+Pursuant to the requirements
+of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+SUNHYDROGEN, INC. 
+
+Date: September 29, 2023 
+ By: 
+ /s/ Timothy Young 
+
+Timothy Young 
+ Chief Executive Officer, 
+ Acting Chief Financial Officer, and Chairman 
+ (principal executive, financial and accounting officer) 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in
+the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Timothy Young 
+ 
+ Chief Executive Officer, President 
+ 
+ September 29, 2023 
+ 
+ Timothy Young 
+
+(Principal Executive Officer) Acting Chief Financial Officer 
+ (Principal Financial and Accounting Officer), and Chairman 
+
+/s/ Mark R. Richardson 
+ 
+ Director 
+ 
+ September 29, 2023 
+ 
+ Mark R. Richardson 
+
+/ s/ Woosuk Kim 
+ 
+ Director 
+ 
+ September 29, 2023 
+ 
+ Woosuk Kim 
+
+29 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM (PCAOB ID No. 
+
+To the Board of Directors and Stockholders 
+
+SunHydrogen, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance
+sheets of SunHydrogen, Inc. (the Company) as of June 30, 2023 and 2022, and the related statements of operations, shareholders 
+equity (deficit), and cash flows for each of the years in the two-year period ended June 30, 2023, and the related notes (collectively
+referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects,
+the financial position of the Company as of June 30, 2023 and 2022, and the results of its operations and its cash flows for each of the
+years in the two-year period ended June 30, 2023 in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance
+with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether
+the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were
+we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an
+understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the
+Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures
+to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that
+respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements. Our audits also included evaluating the accounting principles used and the significant estimates made by management, as well
+as evaluating the overall presentation of the financial statements. We believe our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated
+below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated
+to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved
+our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our
+opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate
+opinions on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Capital Stock and Other Equity Accounts
+
+As discussed in Note 3, the Company issued
+preferred stock to third parties in exchange for convertible note principal and accrued interest. Auditing management s calculation
+of the fair value of the preferred shares issued can be a significant judgment due to the need of a specialist to evaluate the fair value
+of the preferred shares issued and the auditor has to test the inputs and estimates used. 
+
+Auditing management s calculation
+of the fair value of the preferred shares issued can be a significant judgment given the fact that the Company uses management estimates
+on various inputs to the calculations. 
+
+We
+evaluated management s conclusions regarding their fair values and reviewed support for the significant inputs used in the valuation
+model, as well as assessing the model for reasonableness. In addition, we evaluated the Company s disclosure in relation to this
+matter included in Notes 3 to the financial statements. 
+
+/s/ 
+
+M K CPAS, PLLC 
+
+We have served as the Company s auditor since 2020 
+
+September 29, 2023 
+
+F- 1 
+
+SUNHYDROGEN,
+INC. 
+BALANCE SHEETS 
+
+June 30, 2023 
+ June 30, 2022 
+ 
+ ASSETS 
+
+CURRENT ASSETS 
+
+Cash and cash equivalent 
+
+Marketable securities at cost 
+
+Short term investment at fair value, related party 
+ 
+ -
+
+Prepaid expense 
+ -
+
+Other receivable 
+ -
+
+TOTAL CURRENT ASSETS 
+
+OTHER ASSETS 
+
+BOND RECEIVABLE 
+
+Bond receivable, related party 
+ 
+ -
+
+TOTAL BOND RECEIVABLE 
+ 
+ -
+
+PROPERTY EQUIPMENT 
+
+Machinery and equipment 
+ 
+ -
+
+Computers and peripherals 
+
+Vehicle 
+
+Less: accumulated depreciation 
+
+NET PROPERTY AND EQUIPMENT 
+
+INTANGIBLE ASSETS 
+
+Domain, net of amortization of and , respectively 
+
+Trademark, net of amortization of and , respectively 
+
+Patents, net of amortization of and , respectively 
+
+TOTAL INTANGIBLE ASSETS 
+
+TOTAL OTHER ASSETS 
+
+TOTAL ASSETS 
+
+LIABILITIES, PREFERRED STOCK SUBJECT TO REDEMPTION AND SHAREHOLDERS DEFICIT 
+
+CURRENT LIABILITIES 
+
+Accounts payable and other payables 
+
+Accrued expenses 
+
+Accrued expenses, related party 
+ -
+
+Accrued interest on convertible notes 
+ -
+
+Derivative liabilities 
+ -
+
+Loan payable, related party 
+ 
+ -
+
+Convertible promissory notes 
+ -
+
+TOTAL CURRENT LIABILITIES 
+
+LONG TERM LIABILITIES 
+
+Loan payable, related party 
+ 
+ -
+
+Convertible promissory notes 
+ -
+
+TOTAL LONG TERM LIABILITIES 
+
+TOTAL LIABILITIES 
+
+COMMIMENTS AND CONTINGENCIES (SEE NOTE 9) 
+
+Series C Preferred Stock, and shares issued and outstanding, redeemable value of and , respectively 
+
+SHAREHOLDERS EQUITY 
+
+Preferred Stock, par value; authorized preferred shares outstanding 
+ -
+ 
+ -
+
+Common Stock, par value; authorized common shares and shares issued and outstanding, respectively 
+
+Additional Paid in Capital 
+
+Accumulated deficit 
+
+TOTAL SHAREHOLDERS EQUITY 
+
+TOTAL LIABILITIES, PREFERRED STOCK SUBJECT TO REDEEMPTION AND SHAREHOLDERS EQUITY 
+
+The accompanying notes are an integral part of
+these financial statements 
+
+F- 2 
+
+SUNHYDROGEN, INC. 
+STATEMENTS OF OPERATIONS 
+FOR THE YEARS ENDED JUNE 30, 2023 AND 2022 
+
+Years Ended 
+
+June 30, 
+ 2023 
+ June 30, 
+ 2022 
+
+REVENUE 
+ -
+ 
+ -
+
+OPERATING EXPENSES 
+
+Selling and Marketing 
+
+General and administrative expenses 
+
+Research and development cost 
+
+Depreciation and amortization 
+
+TOTAL OPERATING EXPENSES 
+
+LOSS FROM OPERATIONS BEFORE OTHER INCOME (EXPENSES) 
+
+OTHER INCOME/(EXPENSES) 
+
+Investment income 
+
+Dividend expense 
+
+Unrealized Gain(loss) on investments, related party 
+ 
+ -
+
+Realized gain(loss) 
+ 
+ -
+
+Loss on settlement of debt 
+
+Loss on redemption of marketable securities 
+ -
+
+Gain(Loss) on settlement of derivative liability 
+
+Gain on change in derivative liability 
+
+Interest expense 
+
+TOTAL OTHER INCOME (EXPENSES) 
+
+NET INCOME 
+
+BASIC EARNINGS (LOSS) PER SHARE 
+
+DILUTED EARNINGS (LOSS) PER SHARE 
+
+WEIGHTED-AVERAGE COMMON SHARES OUTSTANDING 
+
+BASIC 
+
+DILUTED 
+
+The accompanying notes are an integral part of
+these audited financial statements 
+
+F- 3 
+
+SUNHYDROGEN, INC. 
+STATEMENTS OF SHAREHOLDERS EQUITY/(DEFICIT) 
+FOR THE YEARS ENDED JUNE 30, 2023 AND 2022 
+
+YEARS ENDED JUNE 30, 2023 AND 2022 
+
+Additional 
+
+Preferred stock 
+
+Common stock 
+
+Paid-in 
+
+Accumulated 
+
+Shares 
+
+Amount 
+
+Mezzanine 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Total 
+
+Balance at June 30, 2021 
+
+- 
+
+- 
+
+- 
+
+() 
+
+() 
+ 
+ Issuance of common stock for cash 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Issuance of common stock for conversion of debt and accrued interest 
+
+- 
+
+- 
+
+- 
+
+() 
+
+- 
+
+Issuance of Series C preferred stock in exchange for fair value of convertible note 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Redemption of related parties stock options 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+() 
+
+- 
+
+() 
+ 
+ Stock compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net Income 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance at June 30, 2022 
+
+- 
+
+- 
+
+() 
+
+Issuance of common stock for conversion of debt and accrued interest 
+
+- 
+
+- 
+
+- 
+
+() 
+
+- 
+
+Issuance of common stock through a purchase agreement for cash 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Issuance of common stock for theconversion of stock options 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Issuance of common stock for restricted stock awards 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Issuance of common stock for conversion of restricted stock awards 
+
+- 
+
+- 
+
+- 
+
+() 
+
+- 
+
+- 
+
+Issuance of Series C preferred stock in exchange for fair value of convertible notes 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock compensation expense for conversion of restricted stock awards 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock compensation expense 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net income 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance at June 30, 2023 
+
+- 
+
+- 
+
+() 
+
+The accompanying notes are an integral part of
+these audited financial statements 
+
+F- 4 
+
+SUNHYDROGEN, INC. 
+STATEMENTS OF CASH FLOWS 
+FOR THE YEARS ENDED JUNE 30, 2023 AND 2022 
+
+Years Ended 
+
+June 30, 2023 
+ June 30, 2022 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net Income 
+
+Adjustment to reconcile net income (loss) to net cash (used in) provided by operating activities 
+
+Depreciation amortization expense 
+
+Stock based compensation expense for services 
+
+Conversion of stock options for services 
+ 
+ -
+
+Net stock compensation expense for restricted stock awards 
+ 
+ -
+
+Loss on redemption of marketable securities 
+ -
+
+Loss on settlement of convertible note 
+
+Loss on settlement of debt and derivative 
+
+Net (Gain) Loss on change in derivative liability 
+
+Unrealized gain on change in fair value of investment, related party 
+ 
+ -
+
+Amortization of debt discount recorded as interest expense 
+ -
+
+Change in assets and liabilities : 
+
+Prepaid expense 
+
+Other receivable 
+
+Accounts payable 
+
+Accrued expenses 
+
+Accrued interest on convertible notes 
+
+NET CASH USED IN OPERATING ACTIVITIES 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Marketable securities purchased 
+
+Marketable securities redeemed 
+ 
+ -
+
+Purchase of investment in affiliate 
+ 
+ -
+
+Purchase of long term convertible note, affiliate 
+ 
+ -
+
+Purchase of tangible assets 
+ 
+ -
+
+NET CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES: 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Net proceeds from purchase agreements 
+
+Repayment of related party note payable 
+ 
+ -
+
+Redemption of related parties stock options 
+ -
+
+NET CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES 
+
+NET INCREASE (DECREASE) IN CASH 
+
+CASH, BEGINNING OF PERIOD 
+
+CASH, END OF PERIOD 
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION 
+
+Interest paid 
+ 
+ -
+
+Taxes paid 
+
+-
+
+SUPPLEMENTAL DISCLOSURES OF NON CASH TRANSACTIONS 
+
+Fair value of common stock upon conversion of convertible notes , and accrued interest 
+
+Fair value of preferred stock in exchange for convertible note 
+
+Fair value of derivative liability removed 
+
+Reclassification of related party accrued salary to loan payable 
+ 
+ -
+
+Preferred stock issued upon exchange of convertible notes 
+ -
+
+The accompanying notes are an integral part of
+these audited financial statements 
+
+F- 5 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS AUDITED 
+
+JUNE 30, 2023 AND 2022 
+
+. The Company has not experienced any losses in such accounts and believes it is not exposed to any significant
+credit risk in these accounts. 
+
+F- 6 
+
+2. 
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+Years 
+ 
+ Vehicle 
+ Years 
+
+and for the years ended June 30, 2023 and 2022, respectively. 
+
+years 
+
+Less accumulated amortization 
+
+Domain-net 
+
+Trademark-gross 
+ years 
+
+Less accumulated amortization 
+
+Domain-net 
+
+Patents-gross 
+ years 
+
+Less accumulated amortization 
+
+Patents-net 
+
+and for the years ended June 30, 2023 and 2022, respectively. 
+
+outstanding stock options, common stock purchase warrant, and shares of Series C Preferred shares,
+which are convertible into shares of common stock. The warrants and stock options, and preferred shares,
+were included because their impact is dilutive, and stock options were not included, because their impact on income per share
+is antidilutive. 
+
+outstanding stock options, common stock purchase warrants, and the convertible debt and accrued interest
+of , which is convertible into shares of common stock. 
+
+Basic weighted average number of common shares outstanding (Denominator) 
+
+Diluted weighted average number of common shares outstanding (Denominator) 
+
+F- 7 
+
+2. 
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+. The number of shares will automatically be increased on the first day of the Company s fiscal year
+beginning in 2023 so that the total number of shares issuable will at all times equal fifteen percent of the Company s fully
+diluted capitalization on the first day of the Company s fiscal year, unless the Board adopts a resolution providing that the
+number of shares issuable under the 2022 Plan shall not be so increased. During the year ended June 30, 2023, the Company granted restricted
+stock in the amount of shares of which vested in the period. Ten Million shares will vest on January 1, 2024.
+As of June 30, 2023 there were 279,400,00 in the reserve. As of July 1, 2023, the plan increased to shares. 
+
+shares reserved for issuance pursuant to
+the Plan. The purpose of the Plan is to promote the success of the Company and to increase stockholder value by providing an additional
+means through the grant of awards to attract, motivate, retain and reward selected employees and other eligible persons. The awards are
+performance-based compensation that are granted under the Plan as incentive stock options (ISO) or nonqualified stock options. The per
+share exercise price for each option shall not be less than of the fair market value of a share of common stock on the date of grant
+of the option. The Company periodically issues stock options and warrants to employees and non-employees in non-capital raising transactions
+for services and for financing cost. The Company accounts for stock option grants issued and vesting to employees and non-employees in
+accordance with the authoritative guidance of the Financial Accounting Standards Board whereas the value of the stock compensation is
+based upon the measurement date as determined at either a) the date at which a performance commitment is reached, or b) at the date at
+which the necessary performance to earn the equity instruments is complete. Non-employee stock-based compensation charges generally are
+amortized over the vesting period on a straight-line basis. In certain circumstances where there are no future performance requirements
+by the non-employee, option grants are immediately vested, and the total stock-based compensation charge is recorded in the period of
+the measurement date. As of September 2020, the Company issued shares of common stock for consulting services. The Company
+granted options to purchase shares of common stock options on January 23, 2019. On July 29, 2022, the Company granted restricted
+stock awards of shares to an employee for services, which vested on March 30, 2023. On June 1, 2023, the Company granted 
+non-statutory stock options to employees for services, which one-third (1/3) vested immediately, and the remainder shall vest one-twenty
+fourth (1/24) per month from months thirteen (13) through thirty-six (36) after the date of this option. As of June 30, 2023, the Company
+had redemptions of shares of stock, which were added back to the total reserve. 
+
+stock options and shares issued, and a reserve of . 
+
+F- 8 
+
+2. 
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+-
+ 
+ -
+
+Marketable securities measured at fair value June 30, 2023 
+ 
+ -
+
+-
+
+-
+
+Cash and cash equivalents at June 30, 2022 
+
+-
+ 
+ -
+
+Marketable
+ securities measured at fair value June 30, 2022 
+ 
+ - 
+ 
+ - 
+
+-
+
+Liabilities: 
+
+Derivative liabilities measured at fair value June 30, 2023 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Derivative liabilities measured at fair value June 30, 2022 
+ 
+ -
+ 
+ -
+
+Fair value of derivative liability removed 
+
+Gain on change in derivative liability 
+
+Balance as of June 30, 2023 
+ -
+
+. 
+
+F- 9 
+
+2. 
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+and for the years ended June 30, 2023 and
+2022, respectively. 
+
+shares of preferred
+stock as Series C Preferred Stock. Each share of Series C Preferred Stock has a stated value of and is convertible into shares of
+common stock of the Company at a conversion price equal to . The Series C Preferred Stockholders are entitled to receive out of
+any funds and assets of the Company legally available prior and in preference to any declaration or payment of any dividend on the common
+stock of the Company, cumulative dividends, at an annual rate of of the stated value, payable in cash or shares of common stock. In
+the event the Company declares or pays a dividend on its shares of common stock (other than dividend payable in shares of common stock),
+the holders of Series C Preferred Stock will also be entitled to receive payment of such dividend on an as-if-converted basis. The Series
+C Preferred Stock confers no voting rights on holders, except with respect to matters that materially and adversely affect the voting
+powers, rights or preferences of the Series C Preferred Stock or as otherwise required by applicable law. 
+
+On December 15, 2021, the Company entered
+into a securities purchase agreement with an accredited investor for an exchange of convertible debt to equity. 
+
+F- 10 
+
+3. 
+ CAPITAL STOCK (Continued) 
+
+of principal outstanding under the Note issued to the investor
+by the Company on August 10, 2018, plus of accrued interest, representing a total aggregate note balance of . Pursuant
+to the Purchase Agreement, the Company issued and sold to the investor shares of the Company s Series C Preferred Stock for
+a total purchase price of , and a gain on settlement of debt of . The investor tendered the Note to the Company for cancellation
+and agreed to forego all future accrued interest under the Note, as the total purchase price for the shares. 
+
+As of June 30, 2023, the Company had
+a total of shares of Series C Preferred Stock outstanding with a fair value of , and a stated face value of one hundred
+dollars ( share value per share, convertible into shares of common stock of the Company. Upon liquidation, dissolution
+and winding up of the Company, the holder of each outstanding share of Series C Preferred Stock shall be entitled to receive, out of the
+assets of the Company available for distribution to its shareholders upon such liquidation, before any payments shall be made or any assets
+distributed to the holders of the common stock, the stated value of the Series C Preferred Shares plus any declared but unpaid dividends.
+No other current or future equity holders of the Company shall have higher priority of liquidation preference than holders of Series C
+Preferred Stock. The holder has the right, at any time, at its election, to convert shares of Series C Preferred Stock into common stock
+at a conversion price of per share. 
+
+During the year ended June 30, 2023,
+the Company entered into a purchase agreement with investors for an exchange of convertible debt into equity. The investors exchanged
+convertible notes in the amount of , plus interest in the amount of , and an aggregate loss of for an aggregate
+total of in exchange for shares of the Company s Series C Preferred Stock. The extinguishment of the convertible
+debt and derivative was recognized in the Company s financial statement as a loss on settlement of convertible notes and derivative
+liability in the amount of . A valuation was prepared based on a stock price of as of April 15, 2023 and as of
+June 19, 2023, with a volatility of , as of April 15, 2023 and as of June 19, 2023 based on an estimated term of years. 
+
+Stated value of debt and interest 
+
+Calculated fair value of preferred shares 
+
+Fair value of derivative liability removed 
+
+Loss on settlement of debt and derivatives 
+
+The Company recognized a loss on settlement
+of for the extinguishment of convertible debt, plus derivative liability for the year ended June 30, 2023. 
+
+Common Stock 
+
+On January 27, 2022, the holder of the majority of the voting power
+of the shareholders of the Company, and the Company s chief executive officer, approved by written consent (i) an amendment to the
+Company s articles of incorporation to increase the Company s authorized shares of common stock from to ,
+(ii) an amendment to the Company s articles of incorporation to effect a reverse stock split of the Company s common stock
+by a ratio of not less than 1-for-100 and not more than 1-for-500 at any time prior to the one year anniversary of filing the definitive
+information statement with respect to the reverse split, with the board of directors having the discretion as to whether or not the reverse
+split is to be effected, and with the exact ratio of any reverse split to be set at a whole number within the above range as determined
+by the board in its discretion, and (iii) the adoption of the Company s 2022 Equity Incentive Plan. Shareholder approval for such
+actions became effective 20 days after the definitive information statement relating to such actions was mailed to shareholders. 
+
+Year ended June 30, 2023 
+
+During the year ended June 30, 2023,
+the Company issued shares of common stock upon conversion of convertible notes in the amount of of principal, plus
+accrued interest of based upon a conversion price of per share. The notes were converted per the terms of their respective
+agreements and therefore no gain or loss on the conversion was recorded. 
+
+F- 11 
+
+3. 
+ CAPITAL STOCK (Continued) 
+
+to purchase shares of common stock. During the year ended June 30,
+2023, the Company issued shares of common stock for under a purchase agreement at prices of - ,
+pursuant to the purchase notices received from the investor. The finance cost of was deducted from the gross proceeds converted. 
+
+During the year ended June 30, 2023,
+a consultant exercised nonqualified stock options with an exercise price of and a market price of per share. Upon
+exercise of the stock options, the Company issued shares of common stock through a cashless exercise at the price of 
+per share for compensation expense of . 
+
+During the year ended June 30, 2023,
+two employees were granted restricted stock awards for services, which vested immediately. The Company withheld shares
+at a price of to pay for the taxes owed by the employees in the amount of , and the remaining shares
+priced at per share in the amount of in stock compensation was reported in the financial statements. 
+
+Year ended June 30, 2022 
+
+During the year ended June 30, 2022,
+the Company issued shares of common stock upon conversion of convertible notes in the amount of of
+principal, plus accrued interest of based upon a conversion price of per share. The notes were converted per
+the terms of their respective agreements and therefore no gain or loss on the conversion was recorded. 
+
+During the year ended June 30, 2022,
+the Company issued shares of common stock pursuant to a purchase agreement for cash at a price of per
+share for aggregate net proceeds of . 
+
+shares of restricted stock awards, which vested on March 30, 2023.
+Under the 2019 Equity Incentive Plan, an employee was granted restricted stock awards at a price of per share
+for services, which vested on March 30, 2023. During the year ended June 30, 2023, the Company issued shares of common stock
+and recorded stock compensation expense of , which was reported in the financial statements. 
+
+On November 8, 2022 and December 20,
+2022, the Board of Directors determined that in the best interest of the Company and the Shareholders, to grant certain employees, a director
+and a consultant restricted stock awards in consideration of services to be rendered to the Company. The Board granted shares
+of restricted stock awards, whereby, shares vested on January 1, 2023 and shares will vest on January 1, 2024. Under
+the 2022 Equity Incentive Plan, an employee, a director and consultant were granted restricted stock awards at a price of 
+per share for services, whereby shares vested on January 1, 2023 and will vest on January 1, 2024. During the year
+ended June 30, 2023, the Company issued shares of common stock, and recorded stock compensation expense of , which
+was reported in the financial statements. 
+
+OPTIONS 
+
+On October 2, 2017, the Company granted
+non-qualified options to purchase shares of common stock. Each option expires on the date specified in the option agreement,
+which date is not later than the fifth (5 th anniversary from the grant date of the options. As of June 30, 2022, the consultant had redeemed
+ options, leaving a balance of options. The remaining options of were fully exercised during the year ended
+June 30, 2023. 
+
+F- 12 
+
+4. 
+ OPTIONS AND WARRANTS (Continued) 
+
+stock options. One-third of the options vested immediately, and the remainder vest 1/24 per month over the first twenty-four
+months following the option grant. The options expire years from the initial grant date. The options fully vested by January 23, 2022. 
+
+On January 31, 2019, the Company issued
+ stock options, of which two-third (2/3) vested immediately, and the remaining amount shall vest one-twelfth (1/12) per month
+from after the date of the option grant. The options expire years from the initial grant date. The options fully vested on January
+31, 2020. 
+
+On July 22, 2019, the Company issued
+ stock options, of which one-third (1/3) vested immediately, and the remaining shall vest one-twenty fourth (1/24) per month
+from after the date of the option grant. The options expire years from the initial grant date. The options fully vested on July 22,
+2020. 
+
+Granted 
+
+-
+ 
+ -
+
+Exercised 
+ -
+
+-
+ 
+ -
+
+Redemption of options 
+ 
+ -
+ 
+ -
+ 
+ -
+
+Outstanding, end of period 
+
+Exercisable at the end of period 
+
+Year ended June 30, 2023 
+
+During the year ended June 30, 2023,
+a consultant redeemed nonqualified stock options through a cashless exercise for options, and used the remaining 
+options for the cost of the cashless exercise. The options were fully vested and previously expensed accordingly. 
+
+Under the 2019 Equity Incentive Plan,
+employees were granted shares of options at a price per share of , which vest on June 1, 2026. The Company recorded stock
+compensation expense of , which was reported in the financial statements. 
+
+Year ended June 30, 2022 
+
+During the year ended June 30, 2022,
+the Company redeemed a total of shares of the Company s stock options from related parties for a total of ,
+leaving a balance of stock options outstanding. 
+
+-
+ 
+ -
+ 
+ -
+ 
+ -
+
+F- 13 
+
+4. 
+ OPTIONS AND WARRANTS (Continued) 
+
+common stock purchase warrants outstanding, with exercise prices ranging from - per share.
+The warrants were estimated at fair value on the date of issuance as calculated using the Black-Scholes valuation model. The derivative
+liability calculated on all warrants outstanding as of the year ended June 30, 2023, was removed with the exchange of the convertible
+notes and accrued interest for preferred shares. (See Note 6). The warrants can be exercised over periods of three ) to five ) years. 
+
+Granted 
+ -
+ 
+ -
+
+Exercised 
+ -
+ 
+ -
+
+Forfeited/Expired 
+
+Outstanding, end of period 
+
+Exercisable at the end of period 
+
+At June 30, 2023, the aggregate intrinsic
+value of the warrants outstanding was . 
+
+convertible
+promissory note on November 9, 2017 (the Nov 2017 Note in the aggregate principal amount of up to . The Company
+received tranches for an aggregate principal total of . The Nov 2017 Note had a maturity date of November 9, 2018, with an automatic
+extension of sixty (60) months from the effective date of the note. The Nov 2017 Note is convertible into shares of common stock of the
+Company at a price equal to a variable conversion price of the lesser of per share or fifty percent of the lowest trading
+price since the original effective date of the note or the lowest effective price per share granted to any person or entity after the
+effective date to acquire common stock. If the Company fails to deliver shares in accordance with the timeframe of three (3) business
+days of the receipt of a notice of conversion, the lender, at any time prior to selling all of those shares, may rescind any portion,
+in whole or in part of that particular conversion attributable to the unsold shares and have the rescinded conversion amount returned
+to the principal sum with the rescinded conversion shares returned to the Company. In no event shall the lender be entitled to convert
+any portion of the Nov 2017 Note to the extent such conversion would result in beneficial ownership by the lender and its affiliates of
+more than of the outstanding shares of common stock of the Company. In addition, for each conversion in the event that shares are
+not delivered by the fourth business day (inclusive of the day of conversion), a penalty of per day shall be assessed for each
+day after the third business day (inclusive of the day of the conversion) until the shares are delivered. During the year ended June 30,
+2023, the Company issued shares of common stock upon the conversion of principal in the amount of , plus accrued interest
+of . As of June 30, 2023, the balance remaining was . 
+
+F- 14 
+
+5. 
+ CONVERTIBLE PROMISSORY NOTES (Continued) 
+
+convertible
+promissory note on June 27, 2018 (the Jun 2018 Note in the aggregate principal amount of up to . The Company received
+tranches for an aggregate principal total of . The Jun 2018 Note matured on June 27, 2019, which was automatically extended for
+sixty (60) months from the effective date of the note. The Jun 2018 Note is convertible into shares of common stock of the Company at
+a price equal to a variable conversion price of the lesser of per share or fifty percent of the lowest trading price since
+the original effective date of the note or the lowest effective price per share granted to any person or entity after the effective date
+to acquire common stock. If the Company fails to deliver shares in accordance with the timeframe of three (3) business days of the receipt
+of a notice of conversion, the lender, at any time prior to selling all of those shares, may rescind any portion, in whole or in part
+of that particular conversion attributable to the unsold shares and have the rescinded conversion amount returned to the principal sum
+with the rescinded conversion shares returned to the Company. In no event shall the lender be entitled to convert any portion of the Jun
+2018 Note to the extent such conversion would result in beneficial ownership by the lender and its affiliates of more than of the
+outstanding shares of common stock of the Company. In addition, for each conversion, in the event, that shares are not delivered by the
+fourth business day (inclusive of the day of conversion), a penalty of per day shall be assessed for each day after the third business
+day (inclusive of the day of the conversion) until the shares are delivered. The balance of the Jun 2018 Note of , plus interest
+was exchanged for Series C Preferred Shares, leaving a remaining balance at June 30, 2023 of . 
+
+The Company issued a convertible
+promissory note on August 10, 2018 (the Aug 2018 Note in the aggregate principal amount of up to . The Aug 2018 Note may be converted into shares of the Company s common stock at a conversion price of the lesser
+of a) per share or b) sixty-one percent of the lowest trading price per common stock recorded on any trade day after the
+effective date. The conversion feature of the Aug 2018 Note was considered a derivative in accordance with current accounting guidelines
+because of the reset conversion features of the Note. The balance of the Aug 2018 Note of , plus interest was exchanged for Series
+C Preferred Shares, leaving a remaining balance at June 30, 2023 of . 
+
+On April 15, 2020, the Company issued
+a convertible promissory note (the Apr 2020 Note to an investor in the aggregate principal amount of . The Company
+received tranches for an aggregate principal total of . The Apr 2020 Note matures twelve (12) months from the effective dates of
+each respective tranche, such that the Apr 2020 Note matures on April 15, 2021, with an automatic extension of sixty (60) months from
+the effective date of each tranche. The Apr Note is convertible into shares of common stock of the Company at a variable conversion price
+of the lesser of per share or fifty percent of the lowest trading price of the common stock recorded on any trade day after
+the effective date, or (c) the lowest effective price per share granted to any person or entity after the effective date to acquire common
+stock. If the Company fails to deliver shares in accordance with the timeframe of four (4) business days of the receipt of a notice of
+conversion, the lender, at any time prior to selling all of those shares, may rescind any portion, in whole or in part of that particular
+conversion attributable to the unsold shares and have the rescinded conversion amount returned to the principal sum with the rescinded
+conversion shares returned to the Company. In no event shall the lender be entitled to convert any portion of the Apr 2020 Note to the
+extent such conversion would result in beneficial ownership by the lender and its affiliates of more than of the outstanding shares
+of common stock of the Company. In addition, for each conversion, in the event that shares are not delivered by the fourth business day
+(inclusive of the day of conversion), a penalty of per day shall be assessed for each day after the fourth business day (inclusive
+of the day of the conversion) until the shares are delivered. The conversion feature of the April 2020 Note was considered a derivative
+in accordance with current accounting guidelines because of the reset conversion features of the Apr 2020 Note. The balance of the Apr
+2020 Note of , plus interest was exchanged for Series C Preferred Shares, leaving a remaining balance as of June 30, 2023 of . 
+
+F- 15 
+
+6. 
+ 
+ DERIVATIVE LIABILITIES (Continued) 
+
+in the statement of operations, due to the removal of the derivatives
+for the warrants and the convertible notes, for the exchange of the convertible notes and accrued interest for Series C Preferred Shares. 
+
+Derivative liability, warrants 
+ -
+
+Total 
+ -
+
+-
+ 
+ -
+ 
+ -
+
+-
+
+Subtotal 
+ 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Level 1 
+
+U.S. Treasury bills and Obligations 
+ 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Subtotal 
+ 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Level 2 
+
+Corporate securities 
+ 
+ -
+
+-
+
+Investment, related party 
+
+-
+
+-
+
+Subtotal 
+
+-
+
+Total 
+
+The Company has invested in corporate
+securities, which mature from July 15, 2023 through August 16, 2023, and are held to maturity. The current trading prices or fair market
+value of the securities vary, and we believe any decline in fair value is temporary. All securities are current and not in default. 
+
+F- 16 
+
+7. 
+ CASH, CASH EQUIVALENTS,
+ MARKETABLE SECURITIES, AND INVESTMENT IN AFFILIATE (Continued) 
+
+BBB 
+
+Corporate Securities 
+
+Total 
+
+During the year ended June 30, 2023,
+the Company recognized interest income pertaining to the investments of in the financial statements, which is recorded as part
+of investment income in the statement of operations. 
+
+shares of TECO stock for an aggregate consideration
+of million in USD, at an exchange rate of NOK . The stocks purchased are adjusted to fair value based on unrealized gain or
+loss at the end of each period. Sunhydrogen, Inc. has reported TECO as a related party, due to having an interest as a shareholder. 
+
+The Company purchased a bond receivable
+of TECO for a subscription amount of million in USD. The issuance of the bond receivable is through a Tap Issue Addendum to TECO s
+secured convertible notes agreement dated June 1, 2022, pursuant to which Nordic Trustee AS is acting as the security agent on behalf
+of the note holders. The bond receivable mature on , and bears interest at the rate of per annum paid quarterly in arrears
+and are convertible into shares of TECO at a rate of NOK per share. For the year ended June 30, 2023, the Company recognized interest
+income of in the financial statements. All interest income has been paid timely each quarter. 
+
+During the year ended June 30, 2023,
+the Company recognized an unrealized gain of in the financial statements. 
+
+from the Company in four equal installments of . The agreement can
+be terminated by either party upon sixty (60) days prior written notice to the other. As of June 30, 2023, there remains a balance of
+ per the agreement due in the quarter ending September 30, 2023. 
+
+Effective October 1, 2022, the Company
+extended its research agreement with the University of Michigan through September 30, 2023. As consideration under the research agreement,
+the University of Michigan will receive a maximum of , from the Company in four equal installments of . In the event of
+early termination by the Sponsor, the Sponsor will pay all costs accrued by the University as of the date of termination, including non-cancellable
+obligations. As of June 30, 2023, there remains a balance of per the agreement due in the quarter ending September 30, 2023. 
+
+Effective December 2021, the Company
+entered into a marketing media campaign in the amount of , during the year ended June 30, 2022. The Company paid , and
+the remaining balance of was paid on July 11, 2022 leaving a balance as of June 30, 2023. 
+
+F- 17 
+
+9. 
+ COMMITMENTS AND
+ CONTINGENCIES (Continued) 
+
+, plus an additional for the rental of a lab on a month-to-month
+basis and is cancelable with a thirty (30) day notice. On July 1, 2022, the Company increased the space needed for its lab work
+for a monthly rental of per month. Due to the rental being month-to-month, ASC 842 lease accounting is not applicable. 
+
+In the normal course of business, the Company
+may be involved in legal proceedings, claims and assessments arising in the ordinary course of business. Such matters are subject
+to many uncertainties, and outcomes are not predictable with assurance. In the opinion of management, the ultimate
+disposition of these matters will not have a material adverse effect on the Company s financial position or
+results of operation. 
+
+for the current year, which is recorded
+in related party accrued expenses. The Company began accruing the salary in 2011 and used the funds for operating expenses. During the
+period ended December 31, 2022, the accrued salary was reclassified as a loan from the CEO, with an interest rate of five percent ).
+The loan will be repaid with monthly payments of , including interest and principal over a two-year period. As of June 30, 2023,
+the principal balance remaining on the loan was , and interest paid during the year was . 
+
+Under the 2019 Equity Incentive Plan,
+an employee was granted restricted stock awards at a price of per share for services, which vested on March
+30, 2023. During the year ended June 30, 2023, the Company issued shares of common stock and recorded stock compensation expense
+of reported in the financial statements. 
+
+Under the 2022 Equity Incentive Plan,
+an employee, a director and consultant were granted restricted stock awards at a price of per share for services, whereby
+ shares vest on January 1, 2023 and the remaining will vest on January 1,2024. During the year ended, the Company
+issued shares of common stock and recorded stock compensation expense of , as reported in the financial statements. 
+
+Under the 2022 Equity Incentive Plan,
+two employees were granted restricted stock awards for services, which vested immediately. 
+
+During the year ended June 30, 2023,
+a consultant exercised nonqualified stock options through a cashless exercise for in stock compensation expense reported
+in the financial statements. 
+
+On November 11, 2022, the Company SunHydrogen entered into a subscription agreement with TECO a public limited company incorporated in Norway. Pursuant to the subscription agreement,
+the Company purchased shares of TECO stock for an aggregate consideration of million in USD, at an exchange rate of NOK
+ . 
+
+The stocks purchased are adjusted to fair value at the end of each period. 
+
+The Company purchased a convertible
+note of TECO for a subscription amount of million in USD. The issuance of the convertible note receivable is through a Tap Issue Addendum
+to TECO s secured convertible notes agreement dated June 1, 2022, pursuant to which Nordic Trustee AS is acting as the security
+agent on behalf of the note holders. The convertible note matures on , and bears interest at the rate of per annum paid
+quarterly in arrears and are convertible into shares of TECO at a rate of NOK per share. During the year ended June 30, 2023,
+the Company recognized interest income of in the financial statements. 
+
+Sunhydrogen, Inc. has reported TECO
+as a related party, due to having an interest as a shareholder. 
+
+F- 18 
+
+11 . 
+ DEFERRED TAX BENEFIT (Continued) 
+
+, which expires in future years. No tax benefit
+has been reported in the June 30, 2023 and 2022 financial statements, since the potential tax benefit is offset by a valuation allowance
+of the same amount. 
+
+Non-deductible expenses 
+
+Depreciation and amortization 
+
+Valuation Allowance 
+
+Income tax expense 
+ -
+ 
+ -
+
+Deferred taxes are provided on a liability
+method, whereby deferred tax assets are recognized for deductible differences and operating loss and tax credit carry-forward and deferred
+tax liabilities are recognized for taxable temporary differences. Temporary differences are the difference between the reported amounts
+of assets and liabilities and their tax bases. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management,
+it is more likely than not that some portion or all the deferred tax assets will not be realized. Deferred tax assets and liabilities
+are adjusted for the effects of changes in tax laws and rates on the date of enactment. 
+
+Deferred tax assets are reduced by a
+valuation allowance when, in the opinion of management, it is more likely than not that some portion or all the deferred tax assets will
+not be realized. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment. 
+
+Research and development 
+
+Related party accrual 
+
+Deferred tax liabilities: 
+
+Depreciation and amortization 
+
+Less Valuation Allowance 
+
+Income tax expense 
+ -
+ 
+ -
+
+Due to the change in ownership provisions
+of the Tax Reform Act of 1986, net operating loss carry-forward for Federal income tax reporting purposes are subject to annual limitations.
+Should a change in ownership occur, net operating loss carry-forward may be limited as to use in future years. 
+
+The Company s
+tax returns for the previous three years remain open for audit by the respective tax jurisdictions. 
+
+shares of common stock upon the conversion of shares of Series C preferred stock with a face value of at a
+conversion price of . 
+
+On September 21, 2023, the
+Company issued shares of common stock per the purchase notice at a price of per share in the amount of 250,0000 ,
+according to the purchase agreement. 
+
+F-19 
+
+<EX-23.1>
+ 2
+ f10k2023ex23-1_sunhydrogen.htm
+ CONSENT OF M&K CPAS, LLC
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+We consent to the incorporation by reference in
+the Registration Statement on Form S-3 (File No. 333-252523) and Registration Statements on Form S-8 (File Nos. 333-228900 and 333-268887)
+of our report, dated September 29, 2023, relating to the financial statements of SunHydrogen, Inc. (the Company for the
+year ended June 30, 2023, which appears in this Form 10-K. 
+
+/s/ M K CPAS, PLLC 
+
+Houston, Texas 
+
+ September 29, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ f10k2023ex31-1_sunhydrogen.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+I, Timothy Young, certify that: 
+
+1. 
+ I have reviewed this annual report on Form 10-K of SunHydrogen, Inc. for the fiscal year ended June 30, 2023; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d 15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: September 29, 2023 
+
+By: 
+ /s/ Timothy Young 
+
+Timothy Young 
+
+Chief Executive Officer 
+Acting Chief Financial Officer 
+(Principal Executive Officer and 
+Principal Financial Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 4
+ f10k2023ex32-1_sunhydrogen.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 USC, SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+In connection with the Annual
+Report of SunHydrogen, Inc. (the Company on Form 10-K for the fiscal year ended June 30, 2023, as filed with the Securities
+and Exchange Commission on the date hereof (the Report ), I, Timothy Young, Chief Executive Officer Acting Chief Financial
+Officer of the Company, certify, pursuant to 18 U.S.C. Sec. 1350, as adopted pursuant to Sec. 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The Report fully complies with the requirements of Sections 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ Information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: September 29, 2023 
+ /s/ Timothy Young 
+
+By: Timothy Young 
+
+Its: Chief Executive Officer 
+Acting Chief Financial Officer 
+
+(Principal Executive Officer and 
+Principal Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 6
+ hysr-20230630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ hysr-20230630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ hysr-20230630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ hysr-20230630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ hysr-20230630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

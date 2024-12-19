@@ -1,0 +1,1597 @@
+<Header>
+<FileStats>
+    <FileName>20230223_10-K_edgar_data_97134_0000097134-23-000019.txt</FileName>
+    <GrossFileSize>15664527</GrossFileSize>
+    <NetFileSize>193651</NetFileSize>
+    <NonText_DocumentType_Chars>2566221</NonText_DocumentType_Chars>
+    <HTML_Chars>5450155</HTML_Chars>
+    <XBRL_Chars>3808062</XBRL_Chars>
+    <XML_Chars>3379944</XML_Chars>
+    <N_Exhibits>13</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000097134-23-000019.hdr.sgml : 20230223
+<ACCEPTANCE-DATETIME>20230223155910
+ACCESSION NUMBER:		0000097134-23-000019
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		132
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230223
+DATE AS OF CHANGE:		20230223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TENNANT CO
+		CENTRAL INDEX KEY:			0000097134
+		STANDARD INDUSTRIAL CLASSIFICATION:	REFRIGERATION & SERVICE INDUSTRY MACHINERY [3580]
+		IRS NUMBER:				410572550
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16191
+		FILM NUMBER:		23659466
+
+	BUSINESS ADDRESS:	
+		STREET 1:		104000 CLEAN STREET
+		CITY:			EDEN PRAIRIE
+		STATE:			MN
+		ZIP:			55344
+		BUSINESS PHONE:		7635401200
+
+	MAIL ADDRESS:	
+		STREET 1:		104000 CLEAN STREET
+		CITY:			EDEN PRAIRIE
+		STATE:			MN
+		ZIP:			55344
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TENNANT G H CO
+		DATE OF NAME CHANGE:	19700515
+
+</SEC-Header>
+</Header>
+
+ 0000097134-23-000019.txt : 20230223
+
+10-K
+ 1
+ tnc-20221231.htm
+ FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2022
+
+tnc-20221231 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended , 2022 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from __________ to __________. 
+ Commission File Number 
+ 
+ MPANY 
+ (Exact name of registrant as specified in its charter) 
+ State or other jurisdiction of (I.R.S. Employer incorporation or organization Identification No.) 
+ 
+ , 
+ (Address of principal executive offices) 
+ (Zip Code) 
+ - 
+ (Registrant's telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of exchange on which registered 
+ Securities registered pursuant to Section 12(g) of the Act: None 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined by Rule 405 of the Securities Act. No Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See definitions of large accelerated filer, "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. Accelerated filer o Non-accelerated filer o Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act by the registered public accounting firm that prepared or issued its audit report. If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. o Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers during the relevant recovery period pursuant to 240.10D-1(b). o Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+ The aggregate market value of the voting and non-voting common equity held by non-affiliates as of June 30, 2022, was . 
+ As of January 31, 2023, there were shares of common stock outstanding. 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+ 
+ 1 
+
+Table of Contents 
+
+ Tennant Company 
+ Form 10 K 
+ Table of Contents 
+ PART I 
+ Page Item 1 
+ Business 
+ 3 
+ Item 1A 
+ Risk Factors 
+ 7 
+ Item 1B 
+ Unresolved Staff Comments 
+ 12 
+ Item 2 
+ Properties 
+ 12 
+ Item 3 
+ Legal Proceedings 
+ 12 
+ Item 4 
+ Mine Safety Disclosures 
+ 12 
+ PART II 
+ Item 5 
+ Market for Registrant's Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 
+ 13 
+ Item 6 
+ [Reserved] 
+ 14 
+ Item 7 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 15 
+ Item 7A 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 22 
+ Item 8 
+ Financial Statements and Supplementary Data 
+ 24 
+ Report of Independent Registered Public Accounting Firm 
+ 24 
+ Consolidated Financial Statements 
+ 27 
+ Consolidated Statements of Income 
+ 27 
+ Consolidated Statements of Comprehensive Income 
+ 28 
+ Consolidated Balance Sheets 
+ 29 
+ Consolidated Statements of Cash Flows 
+ 30 
+ Consolidated Statements of Equity 
+ 31 
+ Notes to the Consolidated Financial Statements 
+ 32 
+ 1 
+ Summary of Significant Accounting Policies 
+ 32 
+ 2 
+ Newly Adopted Accounting Pronouncements 
+ 37 
+ 3 
+ Revenue 
+ 38 
+ 4 
+ Management Actions 
+ 40 
+ 5 
+ Acquisitions and Divestitures 
+ 41 
+ 6 
+ Inventories 
+ 41 
+ 7 
+ Property, Plant and Equipment 
+ 42 
+ 8 
+ Goodwill and Intangible Assets 
+ 42 
+ 9 
+ Debt 
+ 43 
+ 10 
+ Other Current Liabilities 
+ 46 
+ 11 
+ Derivatives 
+ 46 
+ 12 
+ Fair Value Measurements 
+ 50 
+ 13 
+ Retirement Benefit Plans 
+ 51 
+ 14 
+ Shareholders' Equity 
+ 57 
+ 15 
+ Leases 
+ 57 
+ 16 
+ Commitments and Contingencies 
+ 59 
+ 17 
+ Income Taxes 
+ 59 
+ 18 
+ Share-Based Compensation 
+ 62 
+ 19 
+ Income Attributable to Tennant Company Per Share 
+ 65 
+ 20 
+ Segment Reporting 
+ 66 
+ Item 9 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 67 
+ Item 9A 
+ Controls and Procedures 
+ 67 
+ Item 9B 
+ Other Information 
+ 68 
+ Item 9C 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 68 
+ PART III 
+ Item 10 
+ Directors, Executive Officers and Corporate Governance 
+ 69 
+ Item 11 
+ Executive Compensation 
+ 69 
+ Item 12 
+ Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 
+ 69 
+ Item 13 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 69 
+ Item 14 
+ Principal Accountant Fees and Services 
+ 69 
+ PART IV 
+ Item 15 
+ Exhibits and Financial Statement Schedules 
+ 70 
+ Item 16 
+ Form 10-K Summary 
+ 74 
+ Signatures 
+ 75 
+ 
+ 2 
+
+Table of Contents 
+
+ TENNANT COMPANY 
+ 2022 
+ ANNUAL REPORT 
+ Form 10 K 
+ PART I 
+ 
+ ITEM 1 Business 
+ General Development of Business 
+ Founded in 1870 by George H. Tennant, Tennant Company ("the Company, we, us, or our"), headquartered in Eden Prairie, Minnesota, is a world leader in designing, manufacturing and marketing of solutions that help create a cleaner, safer and healthier world. Tennant was incorporated as a Minnesota corporation in 1909 and began as a one-man woodworking business, eventually evolving into a successful wood flooring and wood products company, and finally into a manufacturer of floor cleaning equipment. Throughout its history, the Company has remained focused on advancing our industry by aggressively pursuing new technologies and creating a culture that celebrates innovation. 
+ Today, the Company has 11 global manufacturing locations and operates in three geographic areas including the Americas, Europe, Middle East and Africa (EMEA) and Asia Pacific (APAC). We aggregate our operating segments into one reportable segment that consists of the design, manufacture, sale and servicing of products used primarily in the maintenance of nonresidential surfaces. The Company is committed to developing innovative and sustainable solutions that help our customers clean spaces more effectively with high-performance solutions that minimize waste, reduce costs, improve safety and further sustainability goals. 
+ Principal Products, Markets and Distribution 
+ The Company offers products and solutions consisting of mechanized cleaning equipment for both industrial and commercial use, detergent-free and other sustainable cleaning technologies, aftermarket parts and consumables, equipment maintenance and repair services, and business solutions such as financing, rental and leasing programs, and machine-to-machine asset management solutions. The Company is committed to developing cleaning technologies, including autonomous solutions, which increase cleaning productivity. We have strong brand presence in the global markets we serve, offering both premium and mid-tier products for each region to meet customer needs. 
+ The Company's products are used in many types of environments including: factories and warehouses, distribution centers, office buildings, public venues such as arenas and stadiums, office buildings, schools and universities, hospitals and clinics, and more. The Company markets its offerings under the following brands: Tennant , Nobles , Alfa Uma Empresa Tennant , IRIS , VLX , IPC brands, Gaomei and Rongen brands as well as private-label brands. The Company's more than 40,000 customers include contract cleaners to whom organizations outsource facilities maintenance, as well as businesses that perform facilities maintenance themselves. The Company reaches these customers through the industry's largest direct sales and service organization and through a strong and well-supported network of authorized distributors worldwide. 
+ The Company's has an extensive global field service network. We sell products directly in 15 countries and through distributors in more than 100 countries. 
+ 3 
+
+Table of Contents 
+
+ Raw Materials and Component Parts 
+ Steel, metal alloys and resin are the primary raw materials used to manufacture our mechanized cleaning equipment. We purchase various component parts, electronics and services used in production, logistics and product development processes from third parties. The Company has experienced cost inflation and constrained supply of certain raw materials and component parts. The Company continues work to minimize the impact of cost inflation and market supply challenges by employing local-for-local and region-for-region manufacturing and sourcing to allow us to manufacture our products closer to our customers. At the same time, our engineering teams are evaluating platform design to allow for available parts and to increase our sourcing flexibility. We expect cost inflation and market supply challenges to continue into 2023 which may negatively impact our financial results. 
+ Intellectual Property 
+ The Company owns a broad range of intellectual property rights in both the United States and a number of foreign countries. Our patents, proprietary technologies and trade secrets, customer relationships, licenses, trademarks, trade names and brand names in the aggregate constitute a valuable asset, but we do not regard our business as being materially dependent upon any single item or category of intellectual property. We take appropriate measures to protect our intellectual property to the extent such intellectual property can be protected. 
+ Research and Development 
+ Research and development expenses include scientific research costs such as salaries, prototypes, shop supplies, testing, technical information technology and administrative expenditures as well as an allocation of corporate costs. We conduct research and development activities to develop new products and to enhance the functionality, effectiveness, ease of use and reliability of our existing products. We believe that our research and development efforts have been, and continue to be, key drivers of our success in the marketplace. 
+ Seasonality 
+ Although the Company s business is not seasonal in the traditional sense, the percentage of revenues in each quarter typically ranges from 22 to 28 of the total year. The first quarter tends to be at the low end of the range reflecting customers initial slow ramp up of capital purchases and the Company s efforts to close out orders at the end of each year. The second and fourth quarters tend to be toward the high end of the range and the third quarter is typically in the middle of the range. 
+ Major Customers 
+ The Company sells a wide range of products to a diversified base of customers around the world and has no material concentration of credit risk or significant payment terms extended to customers. 
+ Competition 
+ Public industry data concerning global market share is limited; however, through an assessment of validated third-party sources and sponsored third-party market studies, the Company is confident in its position as a world-leading manufacturer of floor maintenance and cleaning equipment. Several global competitors compete with the Company in virtually every geography of the world. However, small regional competitors are also significant competitors who vary by country, vertical market, product category or channel. The Company competes primarily on the basis of offering a broad line of high-quality, innovative products supported by an extensive sales and service network in major markets. 
+ 
+ 4 
+
+Table of Contents 
+
+ Human Capital 
+ Tennant Company has a commitment to our employees to foster a culture of integrity and stewardship as we manage our business. This holds us accountable to our colleagues to care for one another and work together to bring to market sustainable cleaning innovations that empower others to create a cleaner, safer, and healthier world. The following are key human capital measures and objectives that the Company currently focuses on: 
+ 
+ Ethics and Employee Safety 
+ 
+ Tennant conducts annual training and other engagement activities around our Code of Conduct. In 2022, we provided anti-bribery and data privacy training to all employees. Tennant Company has multiple avenues, including an ethics hotline, for employees to report concerns. 
+ 
+ We prioritize the health and safety of all employees. We operate under our established safety programs and employ a team of employee health and safety specialists. In 2022, we continued enhancing our safety culture in our corporate, manufacturing and distribution facilities, and in our sales and service organizations through continuous improvement initiatives. In addition to our established safety programs, our teams have continued to execute our enhanced COVID-19 safety protocols in our manufacturing, distribution and office facilities. We continue to meet or exceed our safety goals and initiatives. 
+ Diversity, Equity, and Inclusion 
+ 
+ Tennant is proud to be an equal opportunity employer where we foster and maintain an ethical work environment free of discrimination. Employment decisions are made on the basis of individual skill, ability, reliability, productivity, and other factors important to performance. In 2022, we formally activated our enterprise-wide Diversity, Equity Inclusion (DE I) strategic initiative which is governed under our enterprise strategy office. This initiative is primarily focused on DE I education, maturing our governance and growing our Employee Resources Group (ERG), which provides avenues for employee input around our strategy. 
+ Diversity in Governance 
+ As of December 31, 2022, women represented 67 of our executive management team and 33 of our Board of Directors. 
+ Gender Equitable Pay 
+ 
+ Tennant Company annually performs a gender wage gap for its United States employees that controls for title, grade and work location, which are legitimate and non-discretionary reasons for pay differences. The most recent assessment found that the median total income for females was 100.5 of the median total income for males, suggesting there is no evidence of a gender pay gap in the United States at Tennant Company. 
+ The following table represents employees by gender and region as of December 31, 2022: 
+ Female Male Total Americas 414 1,784 2,198 Europe, Middle East, Africa 431 1,208 1,639 Asia Pacific 147 315 462 Total 992 3,307 4,299 
+ Talent 
+ Attraction, development, engagement and retention of talent is key to achieving our organizational objectives. We focus on creating a high-performance culture through our annual performance management process, which aligns with our employee and leadership competency framework. We engage in annual talent conversations to identify, develop and deploy talent to achieve our objectives and address talent risks. 
+ 
+ 5 
+
+Table of Contents 
+
+ Total Rewards 
+ 
+ Tennant Company s philosophy is to reward employees competitively for the work they perform consistent with position, skill level, experience, knowledge and geographic location. We evaluate the competitiveness of our pay levels annually against relevant labor markets and adjust our programs as appropriate. We offer a comprehensive total rewards package to our employees that includes pay, benefits, recognition and well-being programs which are tailored by geographic location, statutory requirements and competitive practice as appropriate. 
+ Available Information 
+ The Company's internet address is www.tennantco.com. The Company makes available free of charge, through the Investor Relations website at investors.tennantco.com, its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable when such material is filed electronically with, or furnished to, the Securities and Exchange Commission SEC ). The SEC also maintains an internet site that contains reports, proxy and information statements, and other information, which can be accessed at sec.gov. 
+ Information About Our Executive Officers 
+ The list below identifies those persons designated as executive officers of the Company, including their age, positions held with the Company and their business experience during the past five or more years. 
+ Barb Balinski, Senior Vice President, Innovation and Technology 
+ Barb Balinski (59) joined the Company in 2018 as Vice President of Engineering and in March 2021, she was named Senior Vice President, Innovation and Technology, leading Research Development (R D), Marketing, and Information Technology (IT) functions for Tennant Company. Prior to joining Tennant, Barb held leadership positions of increasing responsibility with the engineering team for the Integrated Business Units at Whirlpool Corporation, a multinational manufacturer of home appliances, from 2005 to 2017, most recently as Director, Product Development, from 2013 to 2017. Prior to Whirlpool Corporation, she spent eleven years with Saturn Corporation, a subsidiary of General Motors. 
+ David W. Huml, President and Chief Executive Officer 
+ David W. Huml (54) has served as the Company's President and Chief Executive Officer since March 2021, after serving as Chief Operating Officer from March 2020 to March 2021. Mr. Huml joined the Company in November 2014 as Senior Vice President, Global Marketing and was named President and Chief Executive Officer March 1, 2021. In January 2016, he also assumed oversight for the Company's APAC business unit, and in January 2017, he assumed oversight for the Company's EMEA business. From 2006 to October 2014, he held various positions with Pentair plc, a global manufacturer of water and fluid solutions, valves and controls, equipment protection and thermal management products, most recently as Vice President, Applied Water Platform. From 1992 to 2006, he held various positions with Graco Inc., a designer, manufacturer and marketer of systems and equipment to move, measure, control, dispense and spray fluid and coating materials, including Worldwide Director of Marketing, Contractor Equipment Division. 
+ Carol E. McKnight, Senior Vice President, Chief Administrative Officer 
+ Carol E. McKnight (55) joined the Company in June 2014 as Senior Vice President of Global Human Resources. In 2017, she was named Senior Vice President and Chief Administrative Officer. Prior to joining the Company, she was Vice President of Human Resources at Alliant Techsystems (ATK) where she held divisional and corporate leadership positions in the areas of compensation, talent management, talent acquisition and general human resource management from 2002 to 2014. Prior to ATK, she was with New Jersey-based NRG Energy, Inc. 
+ 6 
+
+Table of Contents 
+
+ Kristin A. Erickson, Senior Vice President, General Counsel and Corporate Secretary 
+ Kristin A. Erickson (50) has served as the Company's Senior Vice President, General Counsel and Corporate Secretary since December 2020. Ms. Erickson joined the Company's legal department in April 2008, serving in roles of increasing responsibility, including as Vice President, Deputy General Counsel and Chief Compliance Officer from 2019 to 2020, and as Interim General Counsel and Corporate Secretary in 2020. Prior to joining Tennant in 2008, she served as Senior Counsel and Assistant Secretary for MoneyGram International, Inc., from 2004 to 2008. She started her career as a corporate attorney for Lindquist Vennum, PLLP (n/k/a Ballard Spahr LLP). 
+ Fay West, Senior Vice President, Chief Financial Officer 
+ Fay West (53) joined the Company in April 2021 as Senior Vice President and Chief Financial Officer. Prior to joining Tennant, she was Senior Vice President and Chief Financial Officer of SunCoke Energy, Inc., a raw material processing and handling company, from 2014 to 2021. Before joining SunCoke Energy, Inc., in 2011, as Vice President and Controller, she was Assistant Controller at United Continental Holdings, Inc. Prior to that role, she served in several leadership roles at PepsiAmericas, Inc., including Vice President of Accounting and Financial Reporting, and Director of Financial Reporting. Prior to joining PepsiAmericas, Inc., she was Vice President and Controller of GATX Rail Company. 
+ Richard H. Zay, Senior Vice President, Chief Commercial Officer 
+ Richard H. Zay (52) has served as the Company's Senior Vice President, Chief Commercial Officer since March 2021. Mr. Zay joined the Company in June 2010 as Vice President, Global Marketing and was named Senior Vice President, Global Marketing in October 2013 and Senior Vice President of the Americas business unit for the Company in 2014. In 2018, he assumed responsibility for Tennant Research and Development as well. From 2006 to June 2010, he held various positions with Whirlpool Corporation, most recently as General Manager, KitchenAid Brand. From 1993 to 2006, he held various positions with Maytag Corporation, including Vice President, Jenn-Air Brand, Director of Marketing, Maytag Brand, and Director of Cooking Category Management. 
+ 
+ ITEM 1A Risk Factors 
+ The following are risk factors known to us that could materially adversely affect our business, financial condition or operating results. 
+ Macroeconomic Risks 
+ We may encounter financial difficulties if the United States or other global economies experience an additional or continued long-term economic downturn, decreasing the demand for our products and negatively affecting our sales growth. 
+ Our product sales are sensitive to declines in capital spending by our customers. Decreased demand for our products could result in decreased revenues, profitability and cash flows and may impair our ability to maintain our operations and fund our obligations to others. In the event of a continued long-term economic downturn in the U.S. or other global economies, our revenues could decline to the point that we may have to take cost-saving measures, such as restructuring actions. In addition, other fixed costs would have to be reduced to a level that is in line with a lower level of sales. A long-term economic downturn that puts downward pressure on sales could also negatively affect investor perception relative to our publicly stated profit targets. 
+ Uncertainty surrounding the impacts and duration of the COVID-19 pandemic. 
+ The coronavirus ("COVID-19") pandemic continues to have a significant disruptive impact on global economies, supply chains and industrial production. We have effectively managed our global operations throughout the pandemic, implementing rigorous protocols focused on the health and safety of our employees and ensuring business continuity across our supplier, manufacturing and distribution networks. However, the impact of COVID-19, or any variant thereof, on our business and financial performance depends on evolving factors that we cannot accurately predict, including labor shortages, supply chain constraints, additional government mandated lockdowns or similar restrictions, and the pace of economic recovery stemming from the COVID-19 pandemic. 
+ 7 
+
+Table of Contents 
+
+ Our global operations are subject to laws and regulations that impose significant compliance costs and create reputational and legal risk. 
+ Due to the international scope of our operations, we are subject to a complex system of commercial, tax and trade regulations around the world. Recent years have seen an increase in the development and enforcement of laws regarding trade, tax compliance, data-privacy, labor and safety and anti-corruption, including the U.S. Foreign Corrupt Practices Act, and similar laws from other countries. Our numerous foreign subsidiaries and affiliates are governed by laws, rules and business practices that differ from those of the U.S., but because we are a U.S.-based company, oftentimes they are also subject to U.S. laws which can create a conflict. Despite our due diligence, there is a risk that we do not have adequate resources or comprehensive processes to stay current on changes in laws or regulations applicable to us worldwide and maintain compliance with those changes. Increased compliance requirements may lead to increased costs and erosion of desired profit margin. As a result, it is possible that the activities of these entities may not comply with U.S. laws or business practices or our Business Ethics Guide. Violations of the U.S. or local laws may result in severe criminal or civil sanctions, could disrupt our business, and result in an adverse effect on our reputation, business and results of operations or financial condition. We cannot predict the nature, scope or effect of future regulatory requirements to which our operations might be subject or the manner in which existing laws might be administered or interpreted. 
+ Industry Risks 
+ We may be unable to take advantage of product pricing due to the competitive marketplace and increased price sensitivity. 
+ Simplification of our customer product pricing is a key initiative to reduce the complexity in which we operate. The current competitive landscape, coupled with macroeconomic factors such as inflation, could impact our ability to achieve our pricing targets and influence demand. These pressures, along with internal constraints, may limit our ability to sell our products at our expected prices and may result in a change to the mix of product offerings that affect gross margin rates. Increasing our prices in this competitive market, where customers are very price sensitive, could have an adverse effect on our financial condition or operating results. 
+ We are subject to competitive risks associated with developing innovative products and technologies, including, but not limited to, our inability to expand as rapidly or aggressively in the global market as our competitors, our customers ceasing to pay for innovation and competitive challenges to our products, technology and the underlying intellectual property. 
+ Our products are sold in competitive markets throughout the world. Competition is based on product features and design, brand recognition, reliability, durability, technology, breadth of product offerings, price, customer relationships and after-sale service. Although we believe that the performance and price of our products will produce competitive solutions for our customers needs, certain products are priced higher than our competitors products. This is due to our dedication to innovation and continued investments in research and development. We believe that customers will pay for the innovations and quality in our products. However, it may be difficult for us to compete with lower priced products offered by our competitors and there can be no assurance that our customers will continue to choose our products over products offered by our competitors. If our products, markets and services are not competitive, we may experience a decline in sales volume, an increase in price discounting and a loss of market share, which would adversely impact our revenues, margin and the success of our operations. 
+ Third parties may also initiate litigation to challenge the validity of our patents or claims, allege that we infringe upon their patents, violate our patents or they may use their resources to design comparable products that avoid infringing our patents. Regardless of whether such litigation is successful, such litigation could significantly increase our costs and divert management s attention from the operation of our business, which could adversely affect our results of operations and financial condition. 
+ 8 
+
+Table of Contents 
+
+ Disruption in the availability of, quality, or increases in the cost of, raw materials and components that we purchase or labor required to manufacture our products could negatively impact our operating results or financial condition. 
+ Our sales growth and expanding geographical footprint, coupled with suppliers potential credit issues, could lead to an increased risk of a breakdown in our supply chain. Our use of sole-source vendors creates a concentration risk. There is an increased risk of defects due to the highly configured nature of our purchased component parts that could result in quality issues, returns or production slowdowns. In addition, modularization may lead to more sole-sourced products, and as we seek to outsource the design of certain key components, we risk loss of proprietary control and becoming more reliant on a sole source. There is also a risk that the vendors we choose to supply our parts and equipment fail to comply with our quality expectations, thus damaging our reputation for quality and negatively impacting sales. 
+ Global supplier production for various component parts is limited. We have experienced significant disruption of the supply of key component parts. We expect cost inflation and market supply challenges to continue which may negatively impact our financial results. 
+ We have and may continue to experience higher than normal wage inflation due to skilled labor shortages. The labor shortages have unfavorably impacted our gross profit margins and could continue to do so if actions we are taking are not effective at offsetting these rising costs. Changes and uncertainties related to government fiscal and tax policies, including increased duties, tariffs, or other restrictions, could adversely affect demand for our products, the cost of the products we manufacture or our ability to cost-effectively source raw materials, all of which could have a negative impact on our financial results. 
+ Increasing cost pressures could negatively impact our ability to achieve our strategic objectives and affect our financial results. 
+ We are dependent on key suppliers to make certain materials available at a contracted price. Labor, overhead, and material costs have increased and we may not be able to offset these increased manufacturing costs with a higher finished product price. We also may not be able to push those direct cost increases onto our customers in a timely manner given the competitive environment. A decline in demand for our products may have a direct impact on our ability to achieve better pricing through volume discounts. 
+ We are subject to product liability claims and product quality issues that could adversely affect our operating results or financial condition. 
+ Our business exposes us to potential product liability risks that are inherent in the design, manufacturing and distribution of our products. If products are used incorrectly by our customers, injury may result leading to product liability claims against us. Some of our products or product improvements may have defects or risks that we have not yet identified that may give rise to product quality issues, liability and warranty claims. Quality issues may also arise due to changes in parts or specifications with suppliers and/or changes in suppliers. If product liability claims are brought against us for damages that are in excess of our insurance coverage or for uninsured liabilities and it is determined we are liable, our business could be adversely impacted. Any losses we suffer from any liability claims, and the effect that any product liability litigation may have upon the reputation and marketability of our products, may have a negative impact on our business and operating results. We could experience a material design or manufacturing failure in our products, a quality system failure, other safety issues, or heightened regulatory scrutiny that could warrant a recall of some of our products. Any unforeseen product quality problems could result in loss of market share, reduced sales and higher warranty expense. 
+ 9 
+
+Table of Contents 
+
+ Operational Risks 
+ Our ability to effectively operate our Company could be adversely affected if we are unable to attract and retain key personnel and other highly skilled employees, provide employee development opportunities and create effective succession planning strategies. 
+ Our growth strategy, expanding global footprint, changing workforce demographics and increased improvements in technology and business processes designed to enhance the customer experience are putting increased pressure on human capital strategies designed to attract, retain and develop top talent. 
+ Our continued success will depend on, among other things, the skills and services of our executive officers and other key personnel. Our ability to attract and retain highly qualified managerial, technical, manufacturing, research, sales and marketing personnel also impacts our ability to effectively operate our business. As companies grow and increase their hiring activities, there is an inherent risk of increased employee turnover and the loss of valuable employees in key positions, especially in emerging markets. We believe the increased loss of key personnel within a concentrated region could adversely affect our sales performance. 
+ We may not be able to develop or manage strategic planning and growth processes or the related operational plans to deliver on our strategies and establish a broad organization alignment, thereby impairing our ability to achieve future performance expectations. 
+ We are continuing to refine our global company strategy to guide our next phase of performance as our structure has become more complex. We continue to consolidate and reallocate resources as part of our ongoing efforts to optimize our cost structure and to drive synergies. Our operating results may be negatively impacted if we are unable to implement new processes and manage organizational changes, which include changes to our go-to-market strategy, systems and processes; simultaneous focus on expense control and growth; and introduction of alternative cleaning methods. In addition, if we do not effectively realize and sustain the benefits that these transformations are designed to produce, we may not fully realize the anticipated savings of these actions or they may negatively impact our ability to serve our customers or meet our strategic objectives. 
+ We may not be able to upgrade and evolve our information technology systems as quickly as we wish and we may encounter difficulties as we upgrade and evolve these systems to support our growth strategy and business operations, which could adversely impact our abilities to accomplish anticipated future cost savings and better serve our customers. 
+ We have many information technology systems that are important to the operation of our business and are in need of upgrading in order to effectively implement our enterprise strategy. Given our greater emphasis on customer-facing technologies, we may not have adequate resources to upgrade our systems at the pace which the current business environment demands. Additionally, significantly upgrading and evolving the capabilities of our existing systems could lead to inefficient or ineffective use of our technology due to lack of training or expertise in these evolving technology systems. These factors, among other things, could lead to significant expenses, adversely impacting our results of operations and hindering our ability to offer better technology solutions to our customers. 
+ We may encounter risks to our IT infrastructure, such as access and security, that may not be adequately designed to protect critical data and systems from theft, corruption, unauthorized usage, viruses, sabotage or unintentional misuse. 
+ 
+ Global cybersecurity threats and incidents can range from uncoordinated individual attempts to gain unauthorized access to IT systems to sophisticated and targeted measures known as advanced persistent threats, directed at the Company, its products and its customers. We experience cybersecurity threats and incidents from time to time; however, to date, none have been material. We seek to deploy comprehensive measures to deter, prevent, detect, react to and mitigate these threats, including identity and access controls, data protection, vulnerability assessments, continuous monitoring of our IT networks and systems and maintenance of backup and protective systems. 
+ 10 
+
+Table of Contents 
+
+ Despite these efforts, cybersecurity incidents, depending on their nature and scope, could potentially result in the misappropriation, destruction, corruption or unavailability of critical data and confidential or proprietary information (our own or that of third parties) and the disruption of business operations. The potential consequences of a material cybersecurity incident include financial loss, reputational damage, litigation with third parties, theft of intellectual property, diminution in the value of our investment in research, development and engineering, and increased cybersecurity protection and remediation costs due to the increasing sophistication and proliferation of threats, which in turn could adversely affect our competitiveness and results of operations. 
+ We may be unable to conduct business if we experience a significant business interruption in our computer systems, manufacturing plants or distribution facilities for a significant period of time. 
+ We rely on our computer systems, manufacturing plants and distribution facilities to efficiently operate our business. If we experience an interruption in the functionality in any of these items for a significant period of time for any reason, we may not have adequate business continuity planning contingencies in place to allow us to continue our normal business operations on a long-term basis. In addition, the increase in customer-facing technology raises the risk of a lapse in business operations. Therefore, significant long-term interruption in our business could cause a decline in sales, an increase in expenses and could adversely impact our financial results. 
+ Our ability to manage the health and safety of our global workforce may lead to increased business disruption and financial penalties. 
+ We remain focused on the health and safety measures that impact our business from a manufacturing perspective. The Company had to adjust quickly to new working conditions as a result of the COVID-19 pandemic, including making enhancements as new health information was received. In the future, the Company may not adapt to new health crises quickly enough, resulting in a decrease in resource capacity and overall health and wellness of our workforce that could cause fines, reputational damage, or business disruptions. Also, there may be further enhancements and costs to the Company related to any new health guidelines and protocols. Our manufacturing teams monitor the effectiveness of our wellness and safety programs, while the Company continues to implement more tailored health initiatives for those working from home. Managing additional health guidelines and protocols for the health and safety of our employees may adversely affect our business, financial conditions or operating results. 
+ We may consider acquisitions of suitable candidates to accomplish our growth objectives. We may not be able to successfully integrate the businesses we acquire to achieve operational efficiencies, including synergistic and other benefits of acquisition. 
+ We may consider, as part of our growth strategy, supplementing our organic growth through acquisitions of complementary businesses or products. We have engaged in acquisitions in the past and we may determine that future acquisitions may provide meaningful opportunities to grow our business and improve profitability. Acquisitions allow us to enhance the breadth of our product offerings and expand the market and geographic participation of our products and services. 
+ However, our success in growing by acquisition is dependent upon identifying businesses to acquire, integrating the newly acquired businesses with our existing businesses and complying with the terms of our credit facilities. We may incur difficulties in the realignment and integration of business activities when assimilating the operations and products of an acquired business or in realizing projected efficiencies, cost savings, revenue synergies and profit margins. Acquired businesses may not achieve the levels of revenue, profit, productivity or otherwise perform as expected. We are also subject to incurring unanticipated liabilities and contingencies associated with an acquired entity that are not identified or fully understood in the due diligence process. Current or future acquisitions may not be successful or accretive to earnings if the acquired businesses do not achieve expected financial results. 
+ In addition, we may record significant goodwill or other intangible assets in connection with an acquisition. We are required to perform impairment tests at least annually and whenever events indicate that the carrying value may not be recoverable from future cash flows. If we determine that any intangible asset values need to be written down to their fair values, this could result in a charge that may be material to our operating results and financial condition. 
+ 11 
+
+Table of Contents 
+
+ Inadequate funding or insufficient innovation of new technologies may result in an inability to develop and commercialize new innovative products and services. 
+ We strive to develop new and innovative products and services to differentiate ourselves in the marketplace. New product development relies heavily on our financial and resource investments in both the short-term and long-term. If we fail to adequately fund product development projects or fund a project which ultimately does not gain the market acceptance we anticipated, we risk not meeting our customers' expectations, which could result in decreased revenues, declines in margin and loss of market share. 
+ 
+ ITEM 1B Unresolved Staff Comments 
+ None. 
+ 
+ ITEM 2 Properties 
+ The Company s corporate offices are owned by the Company and are located in the Minneapolis, Minnesota, metropolitan area. Manufacturing facilities located in Minneapolis, Minnesota; Holland, Michigan; Uden, The Netherlands; and the Italian cities of Venice, Cremona and Reggio Emilia and in the Province of Padua are owned by the Company. Manufacturing facilities located in Louisville, Kentucky; S o Paulo, Brazil; Hefei, China; and another facility in the Province of Padua are leased to the Company. In addition, IPC Group (IPC) uses a dedicated, third-party plant in Germany that specially manufactures heavy duty stainless steel scrubbers and sweepers to IPC designs. IPC also owns a minor tools and supplies assembly operation in China to service local customers. The facilities are in good operating condition, suitable for their respective uses and adequate for current needs. 
+ Sales offices, warehouse and storage facilities are leased in various locations in the United States, Canada, Mexico, Brazil, Portugal, Spain, Italy, Germany, France, The Netherlands, Belgium, Norway, the United Kingdom, Japan, China, India, Australia, and New Zealand. The Company s facilities are in good operating condition, suitable for their respective uses and adequate for current needs. 
+ Further information regarding the Company s property and lease commitments is included in Note 15 to the consolidated financial statements. 
+ 
+ ITEM 3 Legal Proceedings 
+ There are no material pending legal proceedings other than ordinary litigation incidental to the Company s business. 
+ 
+ ITEM 4 Mine Safety Disclosures 
+ Not applicable. 
+ 12 
+
+Table of Contents 
+
+ PART II 
+ 
+ ITEM 5 Market for Registrant s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 
+ MARKET INFORMATION Tennant's common stock is traded on the New York Stock Exchange, under the ticker symbol TNC. As of February 10, 2023, there were 269 shareholders of record. 
+ DIVIDEND INFORMATION Cash dividends on Tennant s common stock have been paid for 78 consecutive years. Tennant s annual cash dividend payout increased for the 51 st consecutive year to 1.015 per share in 2022, an increase of 0.075 per share over 2021. Dividends are generally declared each quarter. On February 14, 2023, the Company announced a quarterly cash dividend of 0.265 per share payable March 15, 2023, to shareholders of record on March 3, 2023. 
+ DIVIDEND REINVESTMENT OR DIRECT DEPOSIT OPTIONS Shareholders have the option of reinvesting quarterly dividends in additional shares of Company stock or having dividends deposited directly to a bank account. The Transfer Agent should be contacted for additional information. 
+ TRANSFER AGENT AND REGISTRAR Shareholders with a change of address or questions about their account may contact: 
+ Equiniti Trust Company 
+ Shareowner Services 
+ P.O. Box 64874 
+ St. Paul, MN 55164-0854 
+ (800) 468-9716 
+ SHARE REPURCHASES Share repurchases are made from time to time in the open market or through privately negotiated transactions. During the twelve months ended December 31, 2022, the Company paid 5.0 million to repurchase 79,756 shares of its common stock. The most recent share repurchase program approved by the Board of Directors on October 31, 2016 authorized the repurchase of 1,000,000 shares of our common stock. This is in addition to the 112,333 shares that remain authorized under the prior program that was authorized by the Board of Directors on June 22, 2015. 
+ For the Quarter Ended December 31, 2022 Total Number of Shares 
+ Purchased (a) 
+ Average Price Paid Per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Maximum Number of Shares that May Yet Be Purchased Under the Plans or Programs October 1 31, 2022 18 56.56 0 1,192,089 November 1 30, 2022 50,067 62.80 49,907 1,142,182 December 1 31, 2022 29,849 62.46 29,849 1,112,333 Total 79,934 62.67 79,756 1,112,333 
+ (a) Includes 178 shares delivered or attested to in satisfaction of the exercise price and/or tax withholding obligations by employees who exercised stock options or restricted stock under employee share-based compensation plans. 
+
+13 
+
+Table of Contents 
+
+ STOCK PERFORMANCE GRAPH The following graph compares the cumulative total shareholder return on Tennant s common stock to two indices: S P SmallCap 600 and S P 500 Industrials (Sector). The graph below compares the performance for the last five fiscal years, assuming an investment of 100 on December 31, 2017, including the reinvestment of all dividends. 
+ 
+ 2017 2018 2019 2020 2021 2022 Tennant Company 100 73 110 100 117 91 S P SmallCap 600 100 92 112 125 159 133 S P 500 Industrials (Sector) (TR) 100 87 112 125 151 143 
+ Source: Zacks Investment Research, Inc. 
+ 
+ ITEM 6 [Reserved] 
+ 14 
+
+Table of Contents 
+
+ ITEM 7 Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following Management's Discussion and Analysis of Financial Condition and Results of Operations (MD A) provides a comparison of the Company's results of operations, as well as liquidity and capital resources for the years ended December 31, 2022 and 2021. The MD A should be read in conjunction with the Company's consolidated financial statements and notes included in Item 8 of this Annual Report. Throughout this MD A, the Company refers to measures used by management to evaluate performance, including financial measures that are not defined under generally accepted accounting principles (GAAP) in the U.S. Net sales excluding foreign currency translation (i.e. organic sales) is not a measure of financial performance under GAAP; however, the Company believes it is useful in understanding its financial results and provides comparable measures for understanding the operating results of the Company between different periods. 
+ 
+ The year-over-year comparisons in this MD A are as of and for the years ended December 31, 2022 and December 31, 2021, unless stated otherwise. The discussion of 2020 results and related year-over-year comparisons as of and for the years ended December 31, 2021 and December 31, 2020 are found in Part II, Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations," of our Form 10-K for the year ended December 31, 2021. 
+ Overview 
+ Tennant Company is a world leader in designing, manufacturing and marketing solutions that empower customers to achieve quality cleaning performance, reduce environmental impact and help create a cleaner, safer, healthier world. The Company is committed to creating and commercializing breakthrough, sustainable cleaning innovations to enhance its broad suite of products, including floor maintenance and cleaning equipment, detergent-free and other sustainable cleaning technologies, aftermarket parts and consumables, equipment maintenance and repair service, and asset management solutions. Our products are used in many types of environments, including factories and warehouses, distribution centers, office buildings, public venues such as arenas and stadiums, schools and universities, hospitals and clinics, and more. Customers include contract cleaners to whom organizations outsource facilities maintenance as well as businesses that perform facilities maintenance themselves. The Company reaches these customers through the industry's largest direct sales and service organization and through a strong and well-supported network of authorized distributors worldwide. 
+ 
+ Macroeconomic Events 
+ We continue to actively manage our business to respond to the COVID-19 pandemic and related impacts. Governments across the world have taken actions, including stay-at-home orders, to limit the spread of COVID-19. These actions, specifically in China, have and may continue to reduce operating activities and negatively impact financial results. 
+ We continue to experience disruption in the supply of key component parts, as well as inflation and inefficiencies as a result of supply chain issues. We have established frequent communications with suppliers to review, track and prioritize high-risk components. We have also identified and activated alternative suppliers, materials and components as needed. We continue to work closely with our suppliers to achieve a deeper integration into our suppliers' supply chains, including the procurement of sub-component parts. The Company continues work to minimize the impact of inflation on inputs and market supply challenges by employing local-for-local and region-for-region manufacturing and sourcing to allow us to manufacture our products closer to our customers. At the same time, our engineering teams are evaluating platform design to increase our sourcing flexibility. 
+ In February 2022, the United States announced targeted economic sanctions on Russia in response to the military conflict in Ukraine. While we do not have any direct operations or employees in Russia or Ukraine and have suspended sales to Russia and Belarus, our operating results have been and may continue to be negatively impacted by supply chain constraints and inflationary pressures stemming from this conflict. In addition to fully adhering to all sanctions, we will continue to monitor developments in the region, including the impact of rising commodity and energy prices. 
+ 15 
+
+Table of Contents 
+
+ Due to the global nature of our operations, we are subject to exposures resulting from foreign currency exchange fluctuations in the normal course of business. The direct financial impact of foreign currency exchange includes the effect of translating profits from local currencies to U.S. dollars, the impact of currency fluctuations on the transfer of goods between our operations in the United States and our international operations and transaction gains and losses. Volatility in the foreign exchange market has and may continue to negatively impact the financial results of our international operations. 
+ As described in Part I, Item 1A - Risk Factors, we may encounter financial difficulties if the United States or other global economies experience an additional or continued long-term economic downturn as our product sales are sensitive to declines in capital spending by our customers. Any sustained adverse impacts to our business, the industries in which we operate, market demand for our products, and/or certain suppliers or customers may also affect our future results of operations, financial position, or cash flows. We are actively monitoring the macroeconomic environment, especially the potential impact of global supply chain constraints on cost inflation, and the potential decreased demand for our products. 
+ Outlook 
+ Global economic conditions continue to be highly volatile and uncertainty remains regarding the timing of a full recovery from supply chain challenges and inflationary trends. We continue to monitor costs in the current inflationary environment and will take pricing actions and manage costs accordingly. We anticipate that we will need to remain agile as we continue to manage evolving challenges. We remain confident in the long-term growth trends for all our products and services in the markets we serve. 
+ 
+ Historical Results 
+ The following table compares the historical results of operations for the years ended December 31, 2022, and 2021 in dollars and as a percentage of net sales (in millions, except per share amounts and percentages): 
+ 2022 2021 Net sales 1,092.2 100.0 1,090.8 100.0 Cost of sales 671.3 61.5 652.8 59.8 Gross profit 420.9 38.5 438.0 40.2 Selling and administrative expense 306.3 28.0 321.9 29.5 Research and development expense 31.1 2.8 32.2 3.0 Gain on sale of assets (3.7) (0.3) (9.8) (0.9) Operating income 87.2 8.0 93.7 8.6 Interest expense, net (7.1) (0.7) (7.3) (0.7) Net foreign currency transaction loss (1.2) (0.1) (0.7) (0.1) Loss on extinguishment of debt (11.3) (1.0) Other income (expense), net 0.6 0.1 (0.3) Income before income taxes 79.5 7.3 74.1 6.8 Income tax expense 13.2 1.2 9.2 0.8 Net income 66.3 6.1 64.9 5.9 Net income per share - diluted 3.55 3.44 
+ 
+ Net Sales 
+ Consolidated net sales in 2022 totaled 1,092.2 million, a 0.1 increase as compared to consolidated net sales of 1,090.8 million in 2021. 
+ The 0.1 increase in consolidated net sales was driven by: 
+ Organic sales increase of approximately 4.2 primarily due to the impact of higher selling prices across all regions partially offset by volume declines due mostly to supply chain constraints impacting the availability of key component parts; 
+ 16 
+
+Table of Contents 
+
+ A net unfavorable impact from foreign currency exchange across all business units of approximately 4.0 ; and 
+ An unfavorable impact from the divestiture of our Coatings business in 2021 of 0.1 . 
+ The following table sets forth annual net sales by geographic area and the related percentage change from the prior year (in millions, except percentages): 
+ 2022 2021 Americas 705.9 7.2 658.3 Europe, Middle East and Africa (EMEA) 301.6 (9.1) 331.9 Asia Pacific (APAC) 84.7 (15.8) 100.6 Total 1,092.2 0.1 1,090.8 
+ Americas 
+ Net sales in the Americas were 705.9 million in 2022, an increase of 7.2 from 2021. Organic sales grew 7.4 , mainly due to higher selling prices in all categories across the region and volume increases in Latin America. Diminished parts availability on certain component parts due to supply chain constraints limited the Company s ability to increase production and address elevated backlog levels in the region. The divestiture of the Coatings business resulted in a decline in net sales of approximately 0.2 in 2022. 
+ Europe, Middle East and Africa ("EMEA") 
+ EMEA net sales were 301.6 million in 2022, a decrease of 9.1 from 2021. Foreign currency exchange within EMEA unfavorably impacted net sales by approximately 11.6 . Organic sales grew 2.5 in EMEA, primarily driven by higher selling prices in equipment and parts and consumables across the region, partially offset by volume declines due to supply chain constraints and softening demand in the region. 
+ Asia Pacific ("APAC") 
+ APAC net sales were 84.7 million in 2022, a decrease of 15.8 from 2021. Organic sales declined 11.4 in APAC, primarily due to volume declines in China as government shutdowns related to COVID-19 unfavorably impacted demand. This was partly offset by volume growth in Australian markets. Foreign currency exchange within APAC unfavorably impacted net sales by approximately 4.4 in 2022. 
+ 
+ Gross Profit 
+ Gross profit margin of 38.5 was 170 basis points lower in 2022 compared to 2021. The margin rate decrease was primarily attributable to the broad effects of inflation on materials, labor, and freight costs, partly offset by higher selling prices and favorable sales mix. 
+ 
+ Operating Expenses 
+ Selling and Administrative Expense 
+ Selling and Administrative expense ("S A expense") was 306.3 million in 2022, a decrease of 15.6 million compared to 2021. As a percentage of net sales, S A expense in 2022 decreased 150 basis points to 28.0 from 29.5 in 2021. The S A expense decrease was driven by lower variable employee compensation expenses partially offset by increased costs related to incremental consulting costs to address parts shortages. 
+ Research and Development Expense 
+ Research and Development ("R D") expense was 31.1 million, or 2.8 of net sales, in 2022, nearly flat as a percentage of net sales compared to 2021. 
+ We conduct research and development activities to develop new products and to enhance the functionality, effectiveness, ease of use and reliability of our existing products. We believe that our research and development efforts have been, and continue to be, key drivers of our success in the marketplace. 
+ 17 
+
+Table of Contents 
+
+ Total Other Expense, Net 
+ Interest Expense, Net 
+ Interest expense, net was 7.1 million in 2022, a decrease of 0.2 million compared to 2021. The decrease reflected lower average outstanding debt in 2022, partially offset by higher interest rates. 
+ Our debt portfolio as of December 31, 2022 was comprised of debt predominately in U.S. dollars. The Company manages its floating rate debt exposure using fixed rate interest rate swaps to reduce the Company's risk of the possibility of increased interest costs. On December 1, 2022, the Company entered into an aggregate 120 million notional amount of interest rate swaps that exchange a variable rate of interest for a fixed rate of interest of 4.076 over the term of the agreements. 
+ Foreign Currency Transaction Loss 
+ Net foreign currency transaction loss was 1.2 million in 2022, compared to 0.7 million in 2021. The unfavorable impact was primarily due to strengthening of the U.S. dollar relative to the Brazilian real on foreign denominated liabilities. 
+ 
+ Income Taxes 
+ 
+ The effective tax rate for 2022 was 16.6 compared to 12.5 in 2021. The increase in the effective tax rate was primarily driven by certain nonrecurring tax items. The 2022 tax rate includes benefits related to a reduction to a deferred tax liability on undistributed foreign earnings. The 2021 tax rate included benefits from a foreign tax basis step-up election and a valuation allowance related to net operating loss carryovers. These nonrecurring events had a one-time impact of (7.2 in 2022 and (11.5 in 2021. 
+ In general, it is our practice and intention to permanently reinvest the earnings of our foreign subsidiaries and repatriate earnings only when the tax impact is zero or immaterial. No deferred taxes have been provided for withholding taxes or other taxes that would result in repatriation of our foreign investments to the U.S. 
+ 
+ Backlog 
+ Backlog is one of the many indicators of business conditions in the Company's markets. Our order backlog was approximately 326.4 million at December 31, 2022 compared to 169.7 million at December 31, 2021. The increase in our order backlog is primarily due to higher order rates coupled with persistent supply chain challenges that impacted our ability to obtain key component parts and increase production. We expect this level of backlog to continue in 2023. Backlog includes orders that can be cancelled or postponed at the option of the customer at any time without penalty. 
+ 
+ Liquidity and Capital Resources 
+ Liquidity 
+ Our primary liquidity needs are to fund working capital, fund investments, service our debt, maintain cash reserves and invest in capital expenditures. Our sources of liquidity include cash generated from operations, borrowings under our revolving credit facility and from time to time, debt and equity offerings. We believe our current resources are sufficient to meet our working capital requirements for our current business for at least the next 12 months and thereafter for the foreseeable future. 
+ Cash, cash equivalents and restricted cash totaled 77.4 million at December 31, 2022, as compared to 123.6 million as of December 31, 2021. Wherever possible, cash management is centralized and intercompany financing is used to provide working capital to subsidiaries as needed. Our current ratio was 2.2 as of December 31, 2022 and 1.8 as of December 31, 2021. Our primary working capital, which is comprised of accounts receivable, inventories and accounts payable was 332.0 million as of December 31, 2022 and 250.5 million as of December 31, 2021. Our debt-to-capital ratio was 40.9 as of December 31, 2022, compared to 38.1 as of December 31, 2021. 
+ The Company's Board of Directors authorized a quarterly cash dividend of 0.265 per share payable on March 15, 2023, to shareholders of record at the close of business on March 3, 2023. 
+ 18 
+
+Table of Contents 
+
+ Cash Flow from Operating Activities 
+ Net cash used in operating activities in 2022 was 25.1 million compared to net cash provided by operating activities of 69.4 million in 2021. The increase in cash used was primarily driven by an increase in working capital attributable to investments in inventory required to support an anticipated ramp in production; higher accounts receivables due to increased sales to customers with extended payment terms; and increased cash payments for employee compensation and benefits and income taxes. 
+ Cash Flow from Investing Activities 
+ Net cash used in investing activities in 2022 was 24.5 million compared to net cash provided by investing activities of 1.7 million in 2021. In 2022, we used 25.0 million for capital expenditures compared to 19.4 million in 2021. The prior year period included 24.7 million of cash proceeds from sale of assets, net of cash divested in 2021 compared to 4.1 million of cash proceeds from sale of asset, net of cash divested in 2022. 
+ Cash Flow from Financing Activities 
+ Net cash provided by financing activities in 2022 was 8.1 million compared to net cash used in financing activities of 84.5 million in 2021. The increase in cash provided was primarily due to a decrease in repayments of borrowing and share repurchases in 2022, partly offset by increased dividend payments. 
+ 
+ Cash Requirements 
+ The company believes the liquidity available from the combination of expected cash generated by operating activities, existing cash and available credit under existing credit facilities will be sufficient to meet its short-term and long-term cash requirements. Significant contractual obligations include principal and interest payments on long-term debt (Note 9) and operating lease commitments (Note 15). We also have contractual purchase obligations of approximately 113 million for 2023. 
+ 
+ Newly Issued Accounting Guidance 
+ See Note 2 to the consolidated financial statements for information on new accounting pronouncements. 
+ No other new accounting pronouncements issued but not yet effective have had, or are expected to have, a material impact on our results of operations or financial position. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our consolidated financial statements are based on the selection and application of accounting principles generally accepted in the United States of America, which require us to make estimates and assumptions about future events that affect the amounts reported in our consolidated financial statements and the accompanying notes. Our significant accounting policies are described in Note 1 to the consolidated financial statements. Future events and their effects cannot be determined with absolute certainty. Therefore, the determination of estimates requires the exercise of judgment. Actual results could differ from those estimates, and any such differences may be material to the consolidated financial statements. We believe that the following policies may involve a higher degree of judgment and complexity in their application and represent the critical accounting policies used in the preparation of our consolidated financial statements. If different assumptions or conditions were to prevail, the results could be materially different from our reported results. 
+ Goodwill Goodwill represents the excess of cost over the fair value of net assets of businesses acquired and is allocated to our reporting units at the time of the acquisition. We analyze goodwill on an annual basis and when an event occurs or circumstances change that may reduce the fair value of a reporting unit below its carrying amount. We have the option of first analyzing qualitative factors to determine whether it is more likely than not that the fair value of any reporting unit is less than its carrying amount. However, we may elect to perform a quantitative goodwill impairment test in lieu of the qualitative test. An entity must recognize an impairment charge for the amount by which the carrying amount exceeds the reporting unit s fair value. Subsequent reversal of goodwill impairment charges is not permitted. 
+ 19 
+
+Table of Contents 
+
+ When we perform a qualitative goodwill test, we analyze qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform the quantitative goodwill impairment test. If the qualitative test indicates there may be an impairment, we perform the quantitative test, which measures the amount of the goodwill impairment, if any. To perform the quantitative test, we calculate the fair value of each reporting unit, primarily utilizing the income approach. The income approach is based on discounted cash flow models that use reporting unit estimates for forecasted future financial performance, including revenues, margins, operating expenses, capital expenditures, depreciation, amortization, tax and discount rates. These estimates are developed as part of our planning process based on assumed growth rates, along with historical data and various internal estimates. Projected future cash flows are then discounted to a present value employing a discount rate that properly accounts for the estimated risk-adjusted weighted-average cost of capital relevant to each reporting unit. 
+ We perform our annual goodwill impairment analysis as of October 1 and when an event occurs or circumstances change that may reduce the fair value of a reporting unit below its carrying amount. In 2020, we changed the goodwill impairment assessment date from December 31 to October 1 to better align with the timing of our annual planning process. The change did not result in any adjustments to our consolidated financial statements. 
+ In 2022, we elected to perform the quantitative goodwill test in lieu of the qualitative test on all reporting units. Our tests indicated the fair value in each reporting unit was substantially in excess of its carrying value. There was no goodwill impairment in any of our reporting units as of our annual assessment date. 
+ We had goodwill of 182.0 million and 193.1 million at December 31, 2022 and 2021, respectively. 
+ Income Taxes We are required to estimate our income taxes in each of the jurisdictions in which we operate. This process involves estimating our actual current tax obligations based on expected income, statutory tax rates and tax planning opportunities in the various jurisdictions. We also establish reserves for uncertain tax matters that are complex in nature and uncertain as to the ultimate outcome. Although we believe that our tax return positions are fully supportable, we consider our ability to ultimately prevail in defending these matters when establishing these reserves. We adjust our reserves in light of changing facts and circumstances, such as the closing of a tax audit. We believe that our current reserves are adequate. However, the ultimate outcome may differ from our estimates and assumptions and could impact the income tax expense reflected in our consolidated statements of income. 
+ Tax law requires certain items to be included in our tax return at different times than the items are reflected in our results of operations. Some of these differences are permanent, such as expenses that are not deductible in our tax returns, and some differences will reverse over time, such as depreciation expense on property, plant and equipment. These temporary differences result in deferred tax assets and liabilities, which are included within our consolidated balance sheets. Deferred tax assets generally represent items that can be used as a tax deduction or credit in our tax returns in future years but have already been recorded as an expense in our consolidated statements of income. We assess the likelihood that our deferred tax assets will be recovered from future taxable income, and, based on management s judgment, to the extent we believe that recovery is not more likely than not, we establish a valuation allowance against those deferred tax assets. The deferred tax asset valuation allowance could be materially different from actual results because of changes in the mix of future taxable income, the relationship between book and taxable income and our tax planning strategies. As of December 31, 2022, a valuation allowance of 3.3 million was recorded against foreign and state tax credit carryforwards. 
+ 20 
+
+Table of Contents 
+
+ Cautionary Factors Relevant to Forward-Looking Information 
+ This Annual Report on Form 10-K, including Management s Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7, contains certain statements that are considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements generally can be identified by the use of forward-looking terminology such as may, will, expect, intend, estimate, anticipate, believe, project, or continue or similar words or the negative thereof. These statements do not relate to strictly historical or current facts and provide current expectations of forecasts of future events. Any such expectations or forecasts of future events are subject to a variety of factors. Particular risks and uncertainties presently facing us include: 
+ Geopolitical and economic uncertainty throughout the world. 
+ Uncertainty surrounding the COVID-19 pandemic. 
+ Ability to comply with global laws and regulations. 
+ Ability to adapt to price sensitivity. 
+ Competition in our business. 
+ Fluctuations in the cost, quality or availability of raw materials and purchased components. 
+ Ability to adjust pricing to respond to cost pressures. 
+ Unforeseen product liability claims or product quality issues. 
+ Ability to attract, retain and develop key personnel and create effective succession planning strategies. 
+ Ability to effectively manage strategic plan or growth processes. 
+ Ability to successfully upgrade and evolve our information technology systems. 
+ Ability to successfully protect our information technology systems from cybersecurity risks. 
+ Occurrence of a significant business interruption. 
+ Ability to maintain the health and safety of our workforce. 
+ Ability to complete and integrate acquisitions. 
+ Ability to develop and commercialize new innovative products and services. 
+ We caution that forward-looking statements must be considered carefully and that actual results may differ in material ways due to risks and uncertainties both known and unknown. Information about factors that could materially affect our results can be found in Part I, Item 1A "Risk Factors" of this Form 10-K. Shareholders, potential investors and other readers are urged to consider these factors in evaluating forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. 
+ We undertake no obligation to update or revise any forward-looking statement, whether as a result of new information, future events or otherwise, except as required by law. Investors are advised to consult any further disclosures by us in our filings with the SEC and in other written statements on related subjects. It is not possible to anticipate or foresee all risk factors, and investors should not consider any list of such factors to be an exhaustive or complete list of all risks or uncertainties. 
+ 21 
+
+Table of Contents 
+
+ ITEM 7A Quantitative and Qualitative Disclosures About Market Risk 
+ Commodity Risk We are subject to exposures resulting from potential cost increases related to our purchase of raw materials or other product components. We do not use derivative commodity instruments to manage our exposures to changes in commodity prices such as steel, oil, gas, lead and other commodities. 
+ Various factors beyond our control affect the price of oil and gas, including, but not limited to, worldwide and domestic supplies of oil and gas, political instability or armed conflict in oil-producing regions, the price and level of foreign imports, the level of consumer demand, the price and availability of alternative fuels, domestic and foreign governmental regulation, weather-related factors and the overall economic environment. We purchase petroleum-related component parts for use in our manufacturing operations. In addition, our freight costs associated with shipping and receiving product and sales and service vehicle fuel costs are impacted by fluctuations in the cost of oil and gas. 
+ We continue to focus on mitigating the risk of future raw material or other product component cost increases through supplier negotiations, ongoing optimization of our supply chain, the continuation of cost-reduction actions and product pricing. The success of these efforts will depend upon our ability to leverage our commodity spend in the current global economic environment. If the commodity prices increase significantly and we are not able to offset the increases with higher selling prices, our results may be unfavorably impacted in the future. 
+ Interest Rate Risk Our debt portfolio as of December 31, 2022, was comprised of debt predominately denominated in U.S. dollars. We are exposed to changes in interest rates as a result of borrowing activities with variable interest rates that impact interest incurred. The Company manages its floating rate debt exposure using interest rate swaps. Fixed rate swaps are used to reduce the Company's risk of the possibility of increased interest costs. 
+ As of December 31, 2022, the Company's financial liabilities subject to changes in interest rates are 205.0 million of our revolving credit facility borrowings and 95.0 million of our term loan facility. The Company entered into an aggregate 120 million notional amount of interest rate swaps effective December 1, 2022 that exchange a variable rate of interest for a fixed rate of interest of 4.076 over the term of the agreements, which mature on December 1, 2026. Assuming a hypothetical 50 basis point increase in short-term interest rates, with all other variables remaining constant, interest expense, net would have increased by approximately 1.4 million in 2022. 
+ Foreign Currency Exchange Rate Risk Due to the global nature of our operations, we are subject to exposures resulting from foreign currency exchange fluctuations in the normal course of business. Our primary exchange rate exposures are with the Euro, Australian and Canadian dollars, British pound, Japanese yen, Chinese renminbi, Brazilian real and Mexican peso against the U.S. dollar. The direct financial impact of foreign currency exchange includes the effect of translating profits from local currencies to U.S. dollars, the impact of currency fluctuations on the transfer of goods between our operations in the United States and our international operations and transaction gains and losses. In addition to the direct financial impact, foreign currency exchange has an indirect financial impact on our results, including the effect on sales volume within local economies and the impact of pricing actions taken as a result of foreign exchange rate fluctuations. 
+ In the normal course of business, we actively manage the exposure of our foreign currency exchange rate market risk by entering into various hedging instruments with counterparties that are highly rated financial institutions. We may use foreign exchange purchased options or forward contracts to hedge our foreign currency denominated forecasted revenues or forecasted sales to wholly-owned foreign subsidiaries. Additionally, we hedge our net recognized foreign currency assets and liabilities with foreign exchange forward contracts. We hedge these exposures to reduce the risk that our net earnings and cash flows will be adversely affected by changes in foreign exchange rates. We do not enter into any of these instruments for speculative or trading purposes to generate revenue. 
+ These contracts are carried at fair value and have maturities between one and 12 months. The gains and losses on these contracts generally approximate changes in the value of the related assets, liabilities or forecasted transactions. Some of the derivative instruments we enter into do not meet the criteria for cash flow hedge accounting treatment; therefore, changes in fair value are recorded in foreign currency transaction losses on our consolidated statements of income. 
+ 22 
+
+Table of Contents 
+
+ We use foreign currency exchange rate derivatives to hedge our exposure to fluctuations in exchange rates for anticipated intercompany cash transactions between the Company and its subsidiaries. 
+ On April 5, 2022, we entered into Euro to U.S. dollar foreign exchange cross-currency swaps associated with an intercompany loan from a wholly owned European subsidiary. We enter into these foreign exchange cross-currency swaps to hedge the foreign currency risk associated with this intercompany loan, and accordingly, they are not speculative in nature. These cross-currency swaps are designated as fair value hedges. As of December 31, 2022 these cross-currency swaps included 84.8 million of total notional value. As of December 31, 2022, the aggregated scheduled interest payments over the course of the loan and related swaps amounted to 9.8 million. The scheduled maturity and principal payment of the loan and related swaps of 75.0 million are due in April 2027. Based on the fair value hedges outstanding as of December 31, 2022, a 10 appreciation of the U.S. dollar compared to the Euro would result in a net gain of 8.0 million in the fair value of these contracts. 
+ On April 5, 2022, we entered into Euro to U.S. dollar foreign exchange cross-currency swaps to hedge our exposure to adverse foreign currency exchange rate movements between Tennant Company and a wholly owned European subsidiary. We enter into these fixed-to-fixed cross-currency swap agreements to protect a designated monetary amount of the Company s net investment in its Euro functional currency subsidiary against the risk of changes in the Euro to U.S. dollar foreign exchange rate. These cross-currency swaps are designated as net investment hedges. As of December 31, 2022, the cross-currency swaps included 75.0 million of total notional values. These swaps are scheduled to mature in April 2027. Based on the net investment hedges outstanding as of December 31, 2022, a 10 appreciation of the U.S. dollar compared to the Euro, would result in a net gain of 8.0 million in the fair value of these contracts. 
+ For further information regarding our foreign currency derivatives and hedging programs, see Note 11 to the consolidated financial statements. 
+ For details of the estimated effects of currency translation on the operations of our operating segments, see Part II, Item 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations." 
+ Other Matters Management regularly reviews our business operations with the objective of improving and maximizing our financial performance. As a result of this ongoing process to improve financial performance, we may incur additional restructuring charges in the future which, if taken, could be material to our financial results. 
+ 23 
+
+Table of Contents 
+
+ ITEM 8 Financial Statements and Supplementary Data 
+ 
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the shareholders and the Board of Directors of Tennant Company 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheet of Tennant Company and subsidiaries (the "Company") as of December 31, 2022 and 2021, the related consolidated statements of income, comprehensive income, cash flows, and equity, for each of the three years in period ended December 31, 2022, and the related notes and the schedule listed in the Index at Item 15 (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2022, in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated February 23, 2023, expressed an unqualified opinion on the Company's internal control over financial reporting. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ Critical Audit Matter 
+ 
+ The critical audit matter communicated below is a matter arising from the current-period audit of the financial statements that was communicated or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+ 
+ Goodwill EMEA Reporting Unit - Refer to Notes 1 and 8 of the consolidated financial statements 
+ 
+ Critical Audit Matter Description 
+ 
+ The Company s annual evaluation of goodwill for impairment involved the comparison of the EMEA reporting unit s fair value to its carrying value. The Company determined the fair value of the reporting unit using the combination of an income and a market approach. The income approach utilizes a discounted cash flow model which requires management to make significant estimates and assumptions related to forecasts of future 
+ 24 
+
+Table of Contents 
+
+ revenues, profit margins, and discount rates. The determination of the fair value using the market approach requires management to make significant assumptions related to earnings before interest, taxes, depreciation, and amortization (EBITDA) multiples. 
+ 
+ The EMEA goodwill balance was 145.8 million as of December 31, 2022. The fair value of the EMEA reporting unit exceeded its carrying value as of the measurement date and, therefore, no impairment was recognized. Changes in these estimates and related assumptions could have a significant impact on either the fair value, the amount of any goodwill impairment charge, or both. 
+ 
+ Given the significant judgments made by management to estimate the fair value of the EMEA reporting unit and the differences between its fair value and carrying value, performing audit procedures to evaluate the reasonableness of management s estimates and assumptions related to forecasts of future revenues, profit margins, discount rates, and EBITDA multiples, required a high degree of auditor judgment and an increased extent of effort, including the need to involve our fair value specialists. 
+ 
+ How the Critical Audit Matter Was Addressed in the Audit 
+ 
+ Our audit procedures related to forecasts of future revenues, reporting unit profit margins, selection of discount rates, and EBITDA multiples for the EMEA reporting unit included the following, among others: 
+ 
+ We tested the effectiveness of controls over goodwill, including the underlying assumptions to forecast future revenue and profit margins, and the selection of the discount rate and EBITDA multiples. 
+ 
+ We evaluated management s ability to accurately forecast future revenues and profit margins by comparing actual results to management s historical forecasts. 
+ 
+ We evaluated the reasonableness of management s forecasted revenue and profit margins by comparing the forecasts to (1) historical results, (2) internal communications between management and the Board of Directors, and (3) information included in Company press releases as well as in analyst and industry reports of the Company and companies in its peer group. 
+ 
+ With the assistance of our fair value specialists, we evaluated the discount rate, including testing the underlying source information and the mathematical accuracy of the calculations, and developing a range of independent estimates and comparing those to the discount rate selected by management. 
+ 
+ With the assistance of our fair value specialists, we evaluated the EBITDA multiples, including testing the underlying source information and mathematical accuracy of the calculations, and comparing the multiples selected by management to its guideline companies. 
+ /s/ 
+ 
+ February 23, 2023 
+ We have served as the Company's auditor since 2019. 
+ 25 
+
+Table of Contents 
+
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the shareholders and the Board of Directors of Tennant Company. 
+ 
+ Opinion on Internal Control over Financial Reporting 
+ 
+ We have audited the internal control over financial reporting of Tennant Company and subsidiaries (the Company as of December 31, 2022, based on criteria established in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control Integrated Framework (2013) issued by COSO. 
+ 
+ We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended December 31, 2022, of the Company and our report dated February 23, 2023, expressed an unqualified opinion on those financial statements. 
+ 
+ Basis for Opinion 
+ 
+ The Company s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+ 
+ Definition and Limitations of Internal Control over Financial Reporting 
+ 
+ A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+ 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ /s/ Deloitte Touche LLP 
+ 
+ February 23, 2023 
+ 26 
+
+Table of Contents 
+
+Consolidated Statements of Income 
+ TENNANT COMPANY AND SUBSIDIARIES 
+ (In millions, except shares and per share data) 
+ Years ended December 31 2022 2021 2020 Net sales Cost of sales Gross profit Selling and administrative expense Research and development expense Gain on sale of assets ) ) Operating income Interest expense, net ) ) ) Net foreign currency transaction loss ) ) ) Loss on extinguishment of debt ) Other income (expense), net ) Income before income taxes Income tax expense Net income Net income per share Basic Diluted Weighted average shares outstanding: Basic Diluted 
+ See accompanying notes to consolidated financial statements. 
+ 27 
+
+Table of Contents 
+
+ Consolidated Statements of Comprehensive Income 
+ TENNANT COMPANY AND SUBSIDIARIES 
+ (In millions) 
+ Years ended December 31 2022 2021 2020 Net income Other comprehensive (loss) income: Foreign currency translation adjustments (net of related tax (expense) benefit of ), , and , respectively) 
+ ) ) Pension and postretirement medical benefits (net of related tax (expense) benefit of ), , and , respectively) 
+ ) ) Derivative financial instruments (net of tax (expense) benefit of ), , and ), respectively) 
+ ) Total other comprehensive (loss) income, net of tax ) ) Comprehensive income 
+ See accompanying notes to consolidated financial statements. 
+ 28 
+
+Table of Contents 
+
+ Consolidated Balance Sheets 
+ TENNANT COMPANY AND SUBSIDIARIES 
+ (In millions, except shares and per share data) 
+ December 31 2022 2021 ASSETS Cash, cash equivalents, and restricted cash Receivables, less allowances of and , respectively 
+ Inventories Prepaid and other current assets Total current assets Property, plant and equipment, less accumulated depreciation of and , respectively 
+ Operating lease assets Goodwill Intangible assets, net Other assets Total assets LIABILITIES AND TOTAL EQUITY Current portion of long-term debt Accounts payable Employee compensation and benefits Other current liabilities Total current liabilities Long-term debt Long-term operating lease liabilities Employee-related benefits Deferred income taxes Other liabilities Total long-term liabilities Total liabilities Commitments and contingencies (Note 16) Common stock, par value per share, shares authorized; and issued and outstanding, respectively 
+ Additional paid-in capital Retained earnings Accumulated other comprehensive loss ) ) Total Tennant Company shareholders' equity Noncontrolling interest Total equity Total liabilities and total equity 
+ See accompanying notes to consolidated financial statements 
+ 29 
+
+Table of Contents 
+
+ Consolidated Statements of Cash Flows 
+ TENNANT COMPANY AND SUBSIDIARIES 
+ (In millions) Years ended December 31 2022 2021 2020 OPERATING ACTIVITIES Net income Adjustments to reconcile net income to net cash (used in) provided by operating activities: Depreciation expense Amortization expense Deferred income tax benefit ) ) ) Share-based compensation expense Bad debt and returns expense Gain on sale of assets ) ) Acquisition contingent consideration adjustment ) Debt extinguishment cost Other, net Changes in operating assets and liabilities: Receivables ) ) Inventories ) ) Accounts payable Employee compensation and benefits ) ) Other assets and liabilities ) ) Net cash (used in) provided by operating activities ) INVESTING ACTIVITIES Purchases of property, plant and equipment ) ) ) Proceeds from disposals of property, plant and equipment Purchase of intangible asset ) ) Proceeds from sale of assets, net of cash divested Investment in leased assets ) ) Cash received from leased assets Net cash (used in) provided by investing activities ) ) FINANCING ACTIVITIES Proceeds from borrowings Repayments of borrowings ) ) ) Debt extinguishment payment ) Contingent consideration payments ) Change in finance lease obligations ) (Repurchases) proceeds from exercise of stock options, net of employee tax withholdings obligations ) Purchase of noncontrolling owner interest ) Dividends paid ) ) ) Repurchases of common stock ) ) Net cash provided by (used in) financing activities ) ) Effect of exchange rate changes on cash, cash equivalents and restricted cash ) ) Net (decrease) increase in cash, cash equivalents and restricted cash ) ) Cash, cash equivalents and restricted cash at beginning of year Cash, cash equivalents and restricted cash at end of year 
+ 
+ SUPPLEMENTAL CASH FLOW INFORMATION Years ended December 31 2022 2021 2020 Cash paid for income taxes Cash paid for interest Supplemental non-cash investing and financing activities: Capital expenditures in accounts payable 
+ See accompanying notes to consolidated financial statements. 
+ 30 
+
+Table of Contents 
+
+ Consolidated Statements of Equity 
+ TENNANT COMPANY AND SUBSIDIARIES 
+ (In millions, except shares and per share data) Common Shares Common Stock Additional Paid-in Capital Retained Earnings Accumulated Other Comprehensive Loss Tennant Company Shareholders' Equity Noncontrolling Interest Total Equity Balance, December 31, 2019 ) Net income Other comprehensive income Issue stock for directors, employee benefit and stock plans, net of related tax withholdings of shares 
+ Share-based compensation Dividends paid per common share 
+ ) ) ) Purchase of noncontrolling interests ) ) ) Other ) ) ) ) Balance, December 31, 2020 ) Net income Other comprehensive loss ) ) ) Issue stock for directors, employee benefit and stock plans, net of related tax withholdings of shares 
+ Share-based compensation Dividends paid per common share 
+ ) ) ) Repurchases of common stock ) ) ) ) Other ) ) ) Balance, December 31, 2021 ) Net income Other comprehensive loss ) ) ) Issue stock for directors, employee benefit and stock plans, net of related tax withholdings of shares 
+ ) ) ) Share-based compensation Dividends paid per common share 
+ ) ) ) Repurchases of common stock ) ) ) ) Balance, December 31, 2022 ) 
+ See accompanying notes to consolidated financial statements. 
+ 31 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+1. 
+ 
+ million, million and million, respectively. The majority of translation adjustments are not adjusted for income taxes as substantially all translation adjustments relate to permanent investments in non-U.S. subsidiaries. Net foreign currency transaction losses are included in income before income taxes on the consolidated statements of income. 
+
+million and million as of December 31, 2022 and 2021 that serves as collateral backing certain bank guarantees and is therefore restricted. This money is invested in time deposits. Restricted cash is recorded in cash, cash equivalents and restricted cash on the consolidated balance sheets. 
+ 
+ 32 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+years. Other property, plant and equipment are generally depreciated using the straight-line method based on lives of years to years. 
+ goodwill impairment in any of our reporting units as of our annual assessment date. 
+ 
+ 33 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ shares of our common stock. Upon repurchase, the par value is charged to common stock and the remaining purchase price is charged to additional paid-in capital. If the amount of the remaining purchase price causes the additional paid-in capital account to be in a negative position, this amount is then reclassified to retained earnings. Common stock repurchased is included in shares authorized but is not included in shares outstanding. 
+ . Warranty costs are recorded as a component of selling and administrative expense in the consolidated statements of income. 
+
+34 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+35 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Advertising costs are expensed as incurred. In 2022, 2021 and 2020, such activities amounted to million, million and million, respectively. 
+
+36 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ 2. 
+ 37 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ 3. 
+ Europe, Middle East and Africa (EMEA) Asia Pacific (APAC) Total 
+ Net sales are attributed to each geographic area based on the end user country and are net of intercompany sales. 
+ Net sales by groups of similar products and services 
+ 2022 2021 2020 Equipment Parts and consumables Specialty surface coatings (a) 
+ Service and other Total 
+ (a) On February 1, 2021, we sold our Coatings business. Further details regarding the sale are discussed in Note 5. 
+ Net sales by sales channel 
+ 2022 2021 2020 Sales direct to consumer Sales to distributors Total 
+ 38 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Additions to sales incentive accrual Contract payments ) ) Foreign currency fluctuations ) ) Ending balance 
+ Deferred Revenue 
+ We sell separately priced prepaid contracts to our customers where we receive payment at the inception of the contract and defer recognition of the consideration received because we have to satisfy future performance obligations. Our deferred revenue balance is primarily attributed to prepaid maintenance contracts on our machines ranging from months to months. In circumstances where prepaid contracts are sold simultaneously with machines, we use an observable price to determine stand-alone selling price for separate performance obligations. 
+ Increase in deferred revenue representing our obligation to satisfy future performance obligations Decrease in deferred revenue for amounts recognized in net sales for satisfied performance obligations ) ) Foreign currency fluctuations ) ) Ending balance 
+ 39 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ million and million of deferred revenue was reported in other current liabilities and other liabilities, respectively, on our consolidated balance sheets. 
+ 2024 2025 2026 2027 Thereafter Total 
+ As of December 31, 2021, million and million of deferred revenue was reported in other current liabilities and other liabilities, respectively, on our consolidated balance sheets. 
+ 
+ 4. 
+ 
+ Severance-related costs - Cost of sales Other costs - Selling and administrative expense (a) 
+ Other costs - Cost of sales (a) 
+ Total pre-tax restructuring costs 
+ (a) Includes facility exit costs associated with facility moves. 
+ The charges in 2022 impacted all operating segments. The charges in 2021 primarily impacted the EMEA and APAC operating segments. Our restructuring actions represent the continued execution of a multi-year enterprise strategy to drive increased productivity throughout our operations. 
+ New charges Cash payments ) ) Foreign currency adjustments ) ) Adjustment to accrual ) ) Ending balance 
+ Other Actions 
+ In 2019, we made the decision to exit certain product lines to reflect our estimate of inventory that would not be sold. During the year ended December 31, 2020, we recorded an additional million in cost of sales in 
+ 40 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+5. 
+ million and is reflected within gain on sale of assets in the consolidated statements of income. Proceeds from sale of assets was million. 
+ Sale of Coatings business 
+ During the first quarter of 2021, we sold the Coatings business. The resulting pre-tax gain was million and is reflected within gain on sale of business in the consolidated statements of income. Proceeds from sale of business, net of cash divested was million. 
+ Acquisition of Gaomei 
+ On January 4, 2019, we completed the acquisition of Hefei Gaomei Cleaning Machines Co., Ltd. and Anhui Rongen Environmental Protection Technology Co., Ltd. (collectively "Gaomei"), privately held designers and manufacturers of commercial cleaning solutions based in China. The financial results for Gaomei have been included in the consolidated financial results since the date of closing. The total purchase price included million of payments and related adjustments paid in 2019 and contingent consideration payments totaling million paid in 2021. 
+ 
+ 6. 
+ Raw materials and work-in-process Excess of FIFO over LIFO cost (b) 
+ ) ) Total LIFO inventories Inventories carried at FIFO: Finished goods (a) 
+ Raw materials and work-in-process Total FIFO inventories Total inventories 
+ (a) Finished goods include machines, parts and consumables and component parts that are used in our products. 
+ (b) The difference between replacement cost and the stated LIFO inventory value is not materially different from the reserve for the LIFO valuation method. 
+ 
+ Our LIFO charge for the twelve months ended December 31, 2022 was million compared to million for the twelve months ended December 31, 2021. The increase in each period was attributable to the broad effects of inflation. 
+ 41 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ 7. 
+ Buildings and improvements Machinery and manufacturing equipment Office equipment Construction in progress Total property, plant and equipment Less: accumulated depreciation ) ) Property, plant and equipment, net 
+ Depreciation expense was million in 2022, million in 2021 and million in 2020. 
+ 
+ 8. 
+ impairment of goodwill as of December 31, 2022 and 2021. 
+ ) Foreign currency fluctuations ) ) Balance as of December 31, 2021 ) Divestiture ) ) Foreign currency fluctuations ) ) Balance as of December 31, 2020 ) 
+ 42 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Accumulated amortization ) ) ) ) Carrying amount Weighted-average original life (in years) Balance as of December 31, 2021 Original cost Accumulated amortization ) ) ) ) Carrying amount Weighted-average original life (in years) 
+ In 2021, we divested identified intangible assets, excluding goodwill, with a carrying value of million and million in the categories of customer lists and trade names, respectively, as a result of the sale of the Coatings business discussed in Note 5. 
+ Amortization expense of intangible assets was million, million and million for the years ended December 31, 2022, 2021 and 2020, respectively. 
+ 2024 2025 2026 2027 Thereafter Total 
+ 
+ 9. 
+ million and a revolving facility in an amount up to million with an option to expand the credit facility by up to million, with the consent of the lenders willing to provide additional borrowings in the form of increases to their revolving facility commitment or funding of incremental term loans. Borrowings may be denominated in U.S. dollars or certain other currencies. The fee for committed funds under the revolving facility of the 2021 Credit Agreement ranges from an annual rate of to , depending on our leverage ratio. 
+ On November 10, 2022, Tennant Company further amended the 2021 Credit Agreement (the "Amendment") to update the benchmark provisions to replace LIBOR with Term SOFR (as defined in the Amendment) as the reference rate for purposes of calculating interest under the 2021 Credit Agreement. Pursuant to the 
+ 43 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ per annum, but in any case, not less than , plus an additional spread of to , depending on the Company s leverage ratio, or (b) the Alternate Base Rate (as defined in the Amendement), which is the greatest of (i) the prime rate, (ii) the federal funds rate plus and (iii) the adjusted Term SOFR Rate for a one month period, but in any case, not less than , plus, in any such case, , plus an additional spread of to , depending on the Company s leverage ratio. All other material terms included in the 2021 Credit Agreement remain unchanged as a result of the Amendment. 
+ In connection with the 2021 Credit Agreement, we reaffirmed our security interest in favor of the lenders in substantially all our personal property and pledged the stock of our domestic subsidiaries and of the stock of our first-tier foreign subsidiaries. The obligations under the 2021 Credit Agreement are also guaranteed by certain of our first-tier domestic subsidiaries, and those subsidiaries also provided a security interest in their similar personal property. 
+ Our 2021 Credit Agreement restricts the payment of dividends or repurchasing of stock requiring that, after giving effect to such payments, no default exists or would result from such payment. Additionally, cash dividends are restricted to million per quarter and approved levels of other restricted payments range from million to unlimited based on our net leverage ratio (not taking into account any acquisition holiday) after giving effect to such payment. 
+ The 2021 Credit Agreement contains customary representations, warranties and covenants, including but not limited to covenants restricting our ability to incur indebtedness and liens and merge or consolidate with another entity. Further, the 2021 Credit Agreement contains the following covenants: 
+ a covenant requiring us to maintain an indebtedness to EBITDA ratio, determined as of the end of each of our fiscal quarters, of no greater than to 1.00, with certain alternative requirements for permitted acquisitions greater than million; 
+ 
+ a covenant requiring us to maintain an EBITDA to interest expense ratio for a period of four consecutive fiscal quarters as of the end of each quarter of no less than 3.00 to 1; and 
+ a covenant restricting us from paying dividends or repurchasing stock if, after giving effect to such payments and assuming no default exists or would result from such payment, our leverage ratio is greater than to 1, in such case limiting such payments to million during any fiscal year. 
+ 
+ Redemption of Senior Notes 
+ In the second quarter of 2021, the Company redeemed million principal amount outstanding of its Senior Notes due 2025 ("Senior Notes"). We used the proceeds from the borrowings under the 2021 Credit Agreement to retire our Senior Notes and pay the million call premium due upon redemption in the second quarter of 2021. In addition, we wrote off million of unamortized debt issuance costs in the second quarter of 2021. 
+ 44 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Term loan facility borrowings Secured borrowings Finance lease liabilities Total debt Less: current portion of long-term debt (a) 
+ ) ) Long-term debt 
+ (a) 
+ As of December 31, 2022, the Company is required to repay million in outstanding credit facility borrowings and million of current maturities of secured borrowings over the next 12 months. 
+ 
+ As of December 31, 2022, we had outstanding borrowings of million and million under our term loan facility and revolving facility, respectively. We had letters of credit and bank guarantees outstanding in the amount of million, leaving approximately million of unused borrowing capacity on our revolving facility. Commitment fees on unused lines of credit for the year ended December 31, 2022 were million. The overall weighted average cost of debt is approximately and net of a related cross-currency swap instrument is approximately . Further details regarding the cross-currency swap instrument are discussed in Note 11. 
+ 2024 2025 2026 2027 Thereafter Total aggregate maturities 
+ 45 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ 10. 
+ Warranty Deferred revenue Customer sales incentives Freight Restructuring Operating leases Cash flow hedge liabilities Miscellaneous accrued expenses Total other current liabilities 
+ 
+ 11. 
+ million and million, respectively. 
+ Cash Flow Hedges 
+ We use foreign currency exchange rate derivatives to hedge our exposure to fluctuations in exchange rates for anticipated intercompany cash transactions between Tennant Company and its subsidiaries. We enter into these foreign exchange cross-currency swaps to hedge the foreign currency denominated cash flows 
+ 46 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ million of total notional values. The loan and related swaps matured in April 2022. 
+ The Company manages its floating rate debt exposure using interest rate swaps. Fixed rate swaps are used to reduce the Company's risk of the possibility of increased interest costs. The Company entered into an aggregate million notional amount of interest rate swaps effective December 1, 2022 that exchange a variable rate of interest for a fixed rate of interest of . These interest rate swaps are designated as cash flow hedges. These swaps are scheduled to mature on December 1, 2026. 
+ Fair Value Hedges 
+ On April 5, 2022, we entered into Euro to U.S. dollar foreign exchange cross-currency swaps associated with an intercompany loan from a wholly owned European subsidiary. We enter into these foreign exchange cross-currency swaps to hedge the foreign currency risk associated with this intercompany loan, and accordingly, they are not speculative in nature. These cross-currency swaps are designated as fair value hedges. As of December 31, 2022, these cross-currency swaps included million of total notional value. As of December 31, 2022, the aggregated scheduled interest payments over the course of the loan and related swaps amounted to million. The scheduled maturity and principal payment of the loan and related swaps of million are due in April 2027. 
+ Net Investment Hedges 
+ On April 5, 2022, we entered into Euro to U.S. dollar foreign exchange cross-currency swaps to hedge our exposure to adverse foreign currency exchange rate movements between Tennant Company and a wholly owned European subsidiary. We enter into these fixed-to-fixed cross-currency swap agreements to protect a designated monetary amount of the Company s net investment in its Euro functional currency subsidiary against the risk of changes in the Euro to U.S. dollar foreign exchange rate. These cross-currency swaps are designated as net investment hedges. As of December 31, 2022, the cross-currency swaps included million of total notional values. These swaps are scheduled to mature in April 2027. 
+ 47 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Other current liabilities Interest rate swaps Other current assets Other current liabilities Interest rate swaps Other assets Other liabilities Derivatives designated as fair value hedges: Cross-currency swaps Other current assets Other current liabilities Cross-currency swaps Other assets Other liabilities Derivatives designated as net investment hedges: Cross-currency swaps Other current assets Other current liabilities Cross-currency swaps Other assets Other liabilities Derivatives not designated as hedging instruments: Foreign currency forward contracts (a) 
+ Other current assets Other current liabilities 
+ (a) Contracts that mature within the next 12 months are included in other current assets and other current liabilities for asset derivatives and liabilities derivatives, respectively, on our consolidated balance sheets. Contracts with maturities greater than 12 months are included in other assets and other liabilities for asset derivatives and liability derivatives, respectively, in our consolidated balance sheets. Amounts included in our consolidated balance sheets are recorded net where a right of offset exists with the same derivative counterparty. 
+ As of December 31, 2022, we anticipate reclassifying approximately million of gains from accumulated other comprehensive loss to net income during the next 12 months. 
+ 48 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ ) Interest expense, net ) ) Net foreign currency transaction loss ) ) Derivatives designated as fair value hedges: Interest expense, net ) ) Net foreign currency transaction loss ) ) Derivatives designated as net investment hedges Interest expense, net ) ) 
+ The effect of derivative instruments designated as hedges and derivative instruments not designated as hedges in our consolidated statements of income for the three years ended December 31 were as follows: 
+ 2022 2021 2020 Derivatives designated as cash flow hedges: Net gain (loss) recognized in other comprehensive (loss) income, net of tax (a) 
+ ) Net loss reclassified from accumulated other comprehensive loss into income, net of tax, effective portion to net sales ) ) Net gain reclassified from accumulated other comprehensive loss into income, net of tax, effective portion to interest income Net gain (loss) reclassified from accumulated other comprehensive loss into income, net of tax, effective portion to net foreign currency transaction losses ) Derivatives designated as fair value hedges: Net gain recognized in other comprehensive loss, net of tax Net gain reclassified from accumulated other comprehensive loss into income, net of tax, effective portion to interest expense, net Derivatives designated as net investment hedges: Net gain recognized in other comprehensive loss, net of tax Net gain reclassified from accumulated other comprehensive loss into income, net of tax, effective portion to interest expense, net Derivatives not designated as hedging instruments: Net gain (loss) recognized in income (b) 
+ ) 
+ (a) Net change in the fair value of the effective portion classified in other comprehensive (loss) income. 
+ (b) Classified in net foreign currency transaction losses. 
+ 49 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ 12. 
+ Cross-currency swaps Interest rate swaps Total assets Liabilities: Foreign currency forward exchange contracts Interest rate swaps Total liabilities 
+ Our population of assets and liabilities subject to fair value measurements as of December 31, 2021 were as follows: 
+ Fair Value Level 1 Level 2 Level 3 Assets: Foreign currency forward exchange contracts Total assets Liabilities: Foreign currency forward exchange contracts Total liabilities 
+ Our foreign currency forward exchange contracts, cross-currency swaps and interest rate swaps are valued using observable Level 2 market expectations at the measurement date and standard valuation techniques to convert future amounts to a single present value amount. Further details regarding our foreign currency forward exchange and option contracts are discussed in Note 11. 
+ Contingent consideration is valued using a probability-weighted analysis of projected gross profit and integration milestones. Contingent consideration payments totaling million were paid in 2021. 
+ 50 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+million and million, respectively, as of December 31, 2022. The fair value was calculated based on the borrowing rates currently available to us for bank loans with similar terms and remaining maturities, which is a Level 2 in the fair value hierarchy. 
+ 
+ 13. 
+ million, million and million in 2022, 2021 and 2020, respectively. 
+ We had a qualified, funded defined benefit retirement plan (the U.S. Pension Plan covering certain current and retired employees in the U.S. During 2015, the plan was amended to freeze benefits for all participants effective January 31, 2017. On February 15, 2017, the Board of Directors approved the termination of the U.S. Pension Plan, effective May 15, 2017. Participants who elected an immediate lump sum distribution were paid out in December 2017. Assets for participants who elected or are currently receiving annuity payments and those who have elected to defer their benefits were transferred to the annuity company, Pacific Life, in December 2017. Excess assets were transferred from the Tennant Company Pension Trust to the Tennant Company Retirement Savings Plan to deliver future discretionary benefits to plan participants. During 2021, all remaining excess assets were utilized, and remained outstanding as of December 31, 2021. 
+ We have a U.S. postretirement medical benefit plan (the U.S. Retiree Plan to provide certain healthcare benefits for U.S. employees hired before January 1, 1999. Eligibility for those benefits is based upon a combination of years of service with us and age upon retirement. 
+ Our defined contribution savings plan 401(k) plan covers substantially all U.S. employees. Under this plan, we match up to of the employee s annual compensation in cash to be invested per their election. We also make a profit sharing contribution to the 401(k) plan for employees with more than of service in accordance with our Profit Sharing Plan. This contribution is based upon our financial performance and can be funded in the form of Tennant stock, cash or a combination of both. Expenses for the 401(k) plan were million, million and million during 2022, 2021 and 2020, respectively. 
+ We have a U.S. nonqualified supplemental benefit plan (the U.S. Nonqualified Plan to provide additional retirement benefits for certain employees whose benefits under our 401(k) plan or U.S. Pension Plan are limited by either the Employee Retirement Income Security Act or the Internal Revenue Code. 
+ We also have defined benefit pension plans in the United Kingdom, Germany, France and Italy (the U.K. Pension Plan , the German Pension Plan, "French Pension Plan" and the "Italian Pension Plan"). The U.K. Pension Plan, French Pension Plan, German Pension Plan and Italian Pension Plan cover certain current and retired employees and all plans are closed to new participants. In December 2019, the U.K. Pension Plan was amended to close all future accrual of benefits to existing active members, resulting in a curtailment gain of million relating to past service benefits. The Italian Plan is an employee termination indemnity mandated by Italian law to all employees employed prior to 2008. Benefits are paid out when employees covered under the plan are terminated for any reason. Due to changes in Italian law, such termination indemnities are no longer available to new participants. Prior year Non-U.S. Pension Benefits disclosures have been updated to include the Italian Pension Plan. 
+ We expect to contribute approximately million to our U.S. Nonqualified Plan and million to our U.S. Retiree Plan in 2023. We expect contributions to our U.K. Pension Plan, German Pension Plan, French Pension Plan and Italian Pension Plans to be million in 2023. 
+ 51 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Total 
+ (a) This category is comprised of investments in insurance contracts. 
+ Weighted-average asset allocations by asset category of the U.K. Pension Plan as of December 31, 2021 is as follows: 
+ Quoted Prices in Active Markets for Identical Assets Significant Observable Inputs Significant Unobservable Inputs Asset category Fair Value (Level 1) (Level 2) (Level 3) Investment account held by pension plan (a) 
+ Total 
+ (a) This category is comprised of investments in insurance contracts. 
+ Estimates of the fair value of the U.K. Pension Plan and the Tennant Company Retirement Savings Plan assets are based on the framework established in the accounting guidance for fair value measurements. A brief description of the three levels can be found in Note 12. The Investment Account held by the U.K. Pension Plan invests in insurance contracts for purposes of funding the U.K. Pension Plan and is classified as Level 3. The fair value of the Investment Account is the cash surrender values as determined by the provider which are the amounts the plan would receive if the contracts were cashed out at year-end. The underlying assets held by these contracts are primarily invested in assets traded in active markets. 
+ Purchases, sales, issuances and settlements, net ) Net (loss) gain ) Foreign currency ) ) Fair value at end of year 
+ The primary objective of our U.K. Pension Plan is to meet retirement income commitments to plan participants at a reasonable cost to us and to maintain a sound actuarially funded status. This objective is accomplished through growth of capital and safety of funds invested. Assets are invested in securities to achieve growth of capital over inflation through appreciation and accumulation and reinvestment of dividend and interest income. Investments are diversified to control risk. The U.K. Pension Plan is invested in insurance 
+ 52 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Rate of compensation increase 
+ Weighted-average assumptions used to determine net periodic benefit costs as of December 31 are as follows: 
+ U.S. Nonqualified Plan Non-U.S. Pension Benefits Postretirement Medical Benefits 2022 2021 2020 2022 2021 2020 2022 2021 2020 Discount rate Expected long-term rate of return on plan assets Rate of compensation increase 
+ The discount rate is used to discount future benefit obligations back to today s dollars. Our discount rates were determined based on high-quality fixed income investments. The resulting discount rates are consistent with the duration of plan liabilities. The Mercer Above Mean Yield Curve for high-quality corporate bonds is used in determining the discount rate for the U.S. Nonqualified Plan in 2022. The Mercer Yield Curve is used in determining the discount rate for the Non-U.S. Plans in 2022. Before 2020, the FTSE (formerly known as Citigroup) Above Median Spot rates for high-quality corporate bonds were used in determining the discount rate for the U.S. Plans. Before 2022, the iBoxx Corporates AA 7-10 and iBoxx Corporates AA 10+ Benchmark was used to determine the discount rate for the Italian Pension Plan. The expected return on assets assumption on the investment portfolios for the pension plans is based on the long-term expected returns for the investment mix of assets currently in the portfolio. Management uses historic return trends of the asset portfolio combined with recent market conditions to estimate the future rate of return. 
+ U.K. Pension Plan German Pension Plan French Pension Plan Italian Pension Plan 
+ Fair value of plan assets 
+ 53 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Fair value of plan assets 
+ As of December 31, 2022 and 2021, the U.S. Nonqualified, the German Pension, the French Pension and the Italian Pension Plans had a projected benefit obligation in excess of plan assets. 
+ Healthcare cost trend rate assumption for the next year Post-65 Rate to which the cost trend rate is assumed to decline (the ultimate trend rate) Year that the rate reaches the ultimate trend rate 
+ 54 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Plan combinations Service cost Interest cost Actuarial (gain) loss ) ) ) ) Foreign exchange ) ) Settlement ) Benefits paid ) ) ) ) ) ) Benefit obligation at end of year Change in fair value of plan assets and net accrued liabilities: Fair value of plan assets at beginning of year Actual return on plan assets ) Employer contributions Foreign exchange ) ) Settlement ) Benefits paid ) ) ) ) ) ) Fair value of plan assets at end of year Funded status at end of year ) ) ) ) ) Amounts recognized in the consolidated balance sheets consist of: Noncurrent other assets Current liabilities ) ) ) ) ) ) Long-term liabilities ) ) ) ) ) ) Net accrued liability ) ) ) ) ) Amounts recognized in accumulated other comprehensive loss consist of: Prior service cost ) ) Net actuarial (loss) gain ) ) ) Accumulated other comprehensive (loss) income ) ) ) 
+ 55 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Interest cost Expected return on plan assets ) ) ) Amortization of net actuarial loss Net periodic benefit cost (credit) ) ) 
+ Net actuarial (gain) loss ) ) ) ) Amortization of net actuarial (loss) gain ) ) ) Total recognized in other comprehensive (income) loss ) ) ) ) ) Total recognized in net benefit (credit) cost and other comprehensive (income) loss ) ) ) 
+ 2024 2025 2026 2027 2027 to 2030 Total 
+ 56 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ 14. 
+ shares, all of which are designated as Common Stock having a par value of per share. The Board of Directors is authorized to establish one or more series of preferred stock, setting forth the designation of each such series, and fixing the relative rights and preferences of each such series. 
+ Accumulated Other Comprehensive Loss) ) ) Other comprehensive (loss) income before reclassifications ) ) ) Amounts reclassified from accumulated other comprehensive loss ) ) Net current period other comprehensive (loss) income ) ) ) ) December 31, 2021 ) ) ) Other comprehensive (loss) income before reclassifications ) ) Amounts reclassified from accumulated other comprehensive loss ) ) ) Net current period other comprehensive (loss) income ) ) December 31, 2022 ) ) 
+ Accumulated other comprehensive loss associated with pension and postretirement benefits and cash flow hedges is included in Notes 13 and 11, respectively. 
+ Repurchase of Common Stock 
+ The Board of Directors has authorized the repurchase of of our common stock. During the year ended December 31, 2022, the Company paid million to repurchase shares of its common stock at an average price of per share. As of December 31, 2022, shares were available to be repurchased. The Company paid million to repurchase share repurchases during the year ended December 31, 2021. 
+ 
+ 15. 
+ million, of which we have guaranteed million. 
+ 57 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Finance lease assets Property, plant and equipment (a) 
+ Total leased assets Liabilities Current: Operating Other current liabilities Finance Current portion of long-term debt Noncurrent: Operating Long-term operating lease liabilities Finance Long-term debt Total lease liabilities 
+ (a) 
+ Finance lease assets are recorded net of accumulated amortization of less than million as of December 31, 2022 and December 31, 2021. 
+ 
+ Finance lease cost (b) 
+ Total lease cost 
+ (a) 
+ Includes short-term lease costs of million and million and variable lease costs of million and million for the years ended December 31, 2022 and December 31, 2021, respectively. 
+ 
+ (b) 
+ Includes amortization of leased assets and interest on lease liabilities. 
+ 2024 2025 2026 2027 Thereafter Total lease payments Less: Interest ) ) Present value of lease liabilities 
+ 58 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Finance leases Weighted-average discount rate: Operating leases Finance leases 
+ Other information related to cash paid related to lease liabilities and lease assets obtained for the years ended December 31 was as follows: 
+ Other Information 2022 2021 Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows from operating leases Financing cash flows from finance leases Lease assets obtained in exchange for new finance lease liabilities Lease assets obtained in exchange for new operating lease liabilities 
+ 
+ 16. 
+
+17. 
+ Foreign operations ) Total 
+ 59 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Foreign State Total current Deferred: Federal ) Foreign ) ) ) State ) ) Total deferred ) ) ) Total: Federal Foreign ) ) ) State Total income tax expense 
+ In general, it is our practice and intention to permanently reinvest the earnings of our foreign subsidiaries and repatriate earnings only when the tax impact is zero or immaterial. Accordingly, no deferred taxes have been provided for withholding taxes or other taxes that would result upon repatriation of our approximately million of undistributed earnings from foreign subsidiaries to the United States as those earnings continue to be permanently reinvested. 
+ Increases (decreases) in the tax rate from: State and local taxes, net of federal benefit Effect of foreign operations ) ) ) Effect of changes in valuation allowances ) ) Excess tax benefits on share-based compensation Share-based payments ) ) ) Research and development credit ) ) ) Other, net ) Effective income tax rate 
+ 60 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Compensation and employee benefits Warranty reserves Allowance for doubtful accounts and deferred revenue Operating lease liabilities Tax loss carryforwards Tax credit carryforwards Capitalized research and development costs Other ) Gross deferred tax assets Less: valuation allowance ) ) Total net deferred tax assets Deferred tax liabilities: Operating lease assets Fixed assets Goodwill and intangible assets Total deferred tax liabilities Net deferred tax assets (liabilities) ) 
+ Tax credit carryforwards consist of million of U.S. federal and state tax credits and million of Netherlands tax credits. We have non-U.S. cumulative tax losses of million in various countries. Cumulative losses can be used to offset the income tax liabilities on future income in these countries. million of these losses have unlimited carryforward periods. Less than million of these losses have a limited carryforward period. 
+ The valuation allowance as of December 31, 2022 principally applies to tax credit carryforwards in the Netherlands and certain U.S. states which, in the opinion of management, are more likely than not to expire unutilized. However, to the extent that tax benefits related to these carryforwards are realized in the future, the reduction in the valuation allowance will reduce income tax expense. As of December 31, 2022, we believe it is more likely than not that the remainder of our deferred tax assets are realizable. We recorded a net valuation allowance release in 2022 of million on the basis of management s reassessment of the amount of its deferred tax assets that are more likely than not to be realized. The net decrease in the valuation allowance was primarily driven by a change in judgment regarding the expected utilization of tax credit carryovers in the U.S. and the Netherlands. 
+ (Decreases) increases as a result of tax positions taken during a prior period ) ) Increases as a result of tax positions taken during the current year Decreases relating to settlement with tax authorities Decreases as a result of a lapse of the applicable statute of limitations ) ) Decreases as a result of foreign currency fluctuations ) Ending balance 
+ 61 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ million and million, respectively, that if recognized, would affect the effective tax rate. 
+ We recognize potential accrued interest and penalties related to unrecognized tax benefits as a component of income tax expense. In addition to the liability of million and million for unrecognized tax benefits as of December 31, 2022 and 2021, there was approximately million and million, respectively, for accrued interest and penalties. To the extent interest and penalties are not assessed with respect to uncertain tax positions, the amounts accrued will be revised and reflected as an adjustment to income tax expense. 
+ We and our subsidiaries are subject to U.S. federal income tax as well as income tax of numerous state and foreign jurisdictions. We are generally no longer subject to U.S. federal tax examinations for taxable years before 2018. The number of years which remain open for audit for U.S. state or foreign tax purposes varies by jurisdiction but generally ranges from - years. We are currently undergoing income tax examinations in various foreign jurisdictions. Although the final outcome of these examinations cannot be currently determined, we believe that we have adequate reserves with respect to these examinations. 
+ 
+ 18. 
+ plans under which we have awarded share-based compensation grants: The 1997 Non-Employee Directors Option Plan ("1997 Plan"), which provided for stock option grants to our non-employee Directors, the 2007 Stock Incentive Plan 2007 Plan ), the Amended and Restated 2010 Stock Incentive Plan, as Amended 2010 Plan ), the 2017 Stock Incentive Plan ("2017 Plan") and the 2020 Stock Incentive Plan ("2020 Plan"). 
+ As of December 31, 2022, there were shares reserved for issuance under the 2007 Plan, the 2010 Plan and the 2017 Plan for outstanding compensation awards. There were shares available for issuance under the 2020 Plan for current and future equity awards as of December 31, 2022. The Compensation Committee of the Board of Directors determines the number of shares awarded and the grant date, subject to the terms of our equity award policy. 
+ We recognized total share-based compensation expense of million, million and million, respectively, during the years ended 2022, 2021 and 2020. The total excess tax benefit recognized for share-based compensation arrangements during the years ended 2022, 2021 and 2020 was million, million and million, respectively. 
+ Stock Option Awards 
+ We determined the fair value of our stock option awards using the Black-Scholes valuation model that uses the assumptions noted in the table below. The expected term selected for stock options granted during the year represents the period of time that the stock options are expected to be outstanding based on historical data of stock option holder exercise and termination behavior of similar grants. The risk-free interest rate for periods within the contractual life of the stock option is based on the U.S. Treasury rate over the expected life at the time of grant. Expected volatilities are based upon historical volatility of our stock over a period equal to the expected life of each stock option grant. Dividend yield is estimated over the expected life based on our dividend policy and historical dividends paid. To determine the amount of compensation cost to be recognized in each period, we account for forfeitures as they occur. 
+ 62 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ - 
+ - 
+ Weighted-average expected volatility Expected dividend yield - 
+ - 
+ Weighted-average expected dividend yield Expected term, in years Risk-free interest rate - 
+ - 
+ - 
+ 
+ New stock option awards granted vest one-third each year over a period and have a contractual term. Compensation expense equal to the grant date fair value is recognized for these awards on a straight-line basis over the awards' vesting period. Stock options granted to employees are subject to accelerated expensing if the option holder meets the retirement definition set forth in the 2020, 2017 and 2010 Plans. 
+ Granted Exercised ) Forfeited ) Expired ) Outstanding at end of year Exercisable at end of year 
+ The weighted-average grant date fair value of stock options granted during the years ended December 31, 2022, 2021 and 2020 was , and , respectively. The total intrinsic value of stock options exercised during the years ended December 31, 2022, 2021 and 2020 was million, million and million, respectively. The aggregate intrinsic value of options outstanding and exercisable at December 31, 2022 was million and million, respectively. The weighted-average remaining contractual life for options outstanding and exercisable as of December 31, 2022 was years and years, respectively. As of December 31, 2022, there was unrecognized compensation cost for nonvested options of million, which is expected to be recognized over a weighted-average period of years. 
+ Restricted Share Awards 
+ Restricted share awards for employees generally have a vesting period from the effective date of the grant. Restricted share awards to non-employee directors vest upon a change of control or upon termination of service as a director occurring at least after grant date of the award so long as termination is for one of the following reasons: death; disability; retirement in accordance with Tennant policy (e.g., age, term limits, etc.); resignation at request of Board (other than for gross misconduct); resignation following at least advance notice; failure to be renominated (unless due to unwillingness to serve) or reelected by shareholders; or removal by shareholders. We use the closing share price the day before the grant date to determine the fair value of our restricted share awards. Expenses on these awards are recognized over the vesting period. 
+ 63 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Granted Vested ) Forfeited ) Nonvested at end of year 
+ The total fair value of restricted shares vested during the years ended December 31, 2022, 2021 and 2020 was million, million and million, respectively. As of December 31, 2022, there was million of total unrecognized compensation cost related to nonvested restricted shares which is expected to be recognized over a weighted-average period of years. 
+ Performance Share Awards 
+ We grant performance share awards to key employees as a part of our long-term management compensation program. These awards are earned based upon achievement of certain financial performance targets over a period. The number of shares of common stock a participant receives will be increased (up to percent of target levels) or reduced (down to based on the level of achievement of the financial performance targets. We use the closing share price the day before the grant date to determine the fair value of our performance share awards. Expenses on these awards are recognized over a three year performance period. Performance shares are granted in restricted stock units. They are payable in stock and vest solely upon achievement of certain financial performance targets during this three year period. 
+ Granted Vested ) Forfeited ) Nonvested at end of year 
+ During the year ended December 31, 2021, performance shares vested. performance shares vested during the year ended December 31, 2020. As of December 31, 2022, we expect to recognize million of total compensation costs over a weighted-average period of years. 
+ Restricted Stock Units 
+ We grant restricted stock units to employees and non-employee directors, which generally vest within from the date of the grant. Vested restricted stock units are paid out in stock. We use the closing share price the day before the grant date to determine the fair value of our restricted stock units. Expenses on these awards are recognized on a straight-line basis over the vesting period of the award. 
+ 64 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ Granted Vested ) Forfeited ) Nonvested at end of year 
+ The total fair value of shares vested during the years ended December 31, 2022, 2021 and 2020 was million, million and million, respectively. As of December 31, 2022, there was million of total unrecognized compensation cost related to nonvested shares which is expected to be recognized over a weighted-average period of years. 
+ Share-Based Liabilities 
+ As of December 31, 2022 and 2021, we had million and million in total share-based liabilities recorded on our consolidated balance sheets, respectively. 
+ 
+ 19. 
+ Denominator: Basic - weighted average shares outstanding Effect of dilutive securities Diluted - weighted average shares outstanding Basic earnings per share Diluted earnings per share 
+ Excluded from the dilutive securities shown above were options to purchase and shares to be paid out under share-based compensation plans of , and shares of common stock during 2022, 2021 and 2020, respectively. These exclusions were made if the exercise prices of these options are greater than the average market price of our common stock for the period, if the number of shares we can repurchase under the treasury stock method exceeds the weighted shares outstanding in the options or if we have a net loss, as these effects are anti-dilutive. 
+ 65 
+
+Table of Contents 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Tables in millions, except shares and per share data) 
+
+ 20. 
+ operating segments: North America; Latin America; Europe, Middle East, Africa; and Asia Pacific. We combine our North America and Latin America operating segments into the "Americas" for reporting net sales by geographic area. In accordance with the objective and basic principles of the applicable accounting guidance, we aggregate our operating segments into reportable segment that consists of the design, manufacture and sale of products used primarily in the maintenance of nonresidential surfaces. 
+ Other Americas Americas Europe, Middle East, Africa Asia Pacific Total 
+ Accounting policies of the operations in various operating segments are the same as those described in Note 1. Net sales are attributed to each operating segment based on the end user country and are net of intercompany sales. Apart from the United States shown in the table above, there were no individual foreign locations which had net sales which represented more than 10 of our consolidated net sales. No single customer represents more than 10 of our consolidated net sales. 
+ The following table presents long-lived assets by geographic area as of December 31: 
+ 2022 2021 2020 Long-lived assets: United States Other Americas Americas Italy Other Europe, Middle East, Africa Europe, Middle East, Africa Asia Pacific Total 
+ Long-lived assets consist of property, plant and equipment, goodwill, intangible assets and certain other assets. Apart from the United States and Italy shown in the table above, there are no other individual foreign locations which have long-lived assets which represent more than 10 of our consolidated long-lived assets. 
+ 66 
+
+Table of Contents 
+
+ ITEM 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ None. 
+ 
+ ITEM 9A Controls and Procedures 
+ Disclosure Controls and Procedures 
+ Our management, including our Chief Executive Officer and Chief Financial Officer and Principal Accounting Officer, have conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)) as of December 31, 2022. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer and Principal Accounting Officer concluded that, as of December 31, 2022, our disclosure controls and procedures were effective. 
+ For purposes of Rule 13a-15(e), the term disclosure controls and procedures means controls and other procedures of an issuer that are designed to ensure that information required to be disclosed by the issuer in the reports that it files or submits under the Exchange Act (15 U.S.C. 78a et seq.) is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer s management, including its Chief Executive Officer and Chief Financial Officer and Principal Accounting Officer, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+ Management s Report on Internal Control over Financial Reporting 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f) under the Exchange Act. 
+ The Company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that: 
+ (i) Pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; 
+ (ii) Provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and 
+ (iii) Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the company s assets that could have a material effect on the financial statements. 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. 
+ Under the supervision of the Audit Committee of the Board of Directors and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer and Principal Accounting Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting using the criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring 
+ 67 
+
+Table of Contents 
+
+ Organizations of the Treadway Commission (COSO). Based on our assessment and those criteria, our Chief Executive Officer and Chief Financial Officer and Principal Accounting Officer concluded that our internal control over financial reporting was effective as of December 31, 2022. 
+ Deloitte Touche LLP, our independent registered public accounting firm, has audited the effectiveness of the Company's internal control over financial reporting as of December 31, 2022 and has issued a report which is included in Item 8 of this Annual Report on Form 10-K. 
+ Changes in Internal Control Over Financial Reporting 
+ There were no significant changes in the Company's internal control over financial reporting during the quarter ended December 31, 2022 that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting. 
+ 
+ ITEM 9B Other Information 
+ None. 
+ 
+ ITEM 9C Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ None. 
+ 68 
+
+Table of Contents 
+
+ PART III 
+ 
+ ITEM 10 Directors, Executive Officers and Corporate Governance 
+ Information required under this item with respect to directors is contained in the sections entitled Board of Directors as part of our 2023 Proxy Statement and is incorporated herein by reference. See also Item 1, Information About Our Executive Officers in Part I hereof. 
+ Business Ethics Guide 
+ We have adopted the Tennant Company Business Ethics Guide, which applies to all of our employees, directors, consultants, agents and anyone else acting on our behalf. The Business Ethics Guide includes particular provisions applicable to our senior financial management, which includes our Chief Executive Officer, Chief Financial Officer, Chief Accounting Officer and other employees performing similar functions. A copy of our Business Ethics Guide is available on the Investor Relations website at investors.tennantco.com. We intend to post on our website any amendment to, or waiver from, a provision of our Business Ethics Guide that applies to our Principal Executive Officer, Principal Financial Officer, Principal Accounting Officer, Chief Accounting Officer and other persons performing similar functions promptly following the date of such amendment or waiver. In addition, we have also posted copies of our Corporate Governance Principles and the Charters for our Audit, Compensation, Governance and Executive Committees on our website. 
+ 
+ ITEM 11 Executive Compensation 
+ Information required under this item is contained in the sections entitled Director Compensation," Executive Compensation Information and "Pay Ratio" as part of our 2023 Proxy Statement and is incorporated herein by reference. 
+ 
+ ITEM 12 Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 
+ Information required under this item is contained in the sections entitled Security Ownership of Certain Beneficial Owners and Management and "Equity Compensation Plan Information" as part of our 2023 Proxy Statement and are incorporated herein by reference. 
+ 
+ ITEM 13 Certain Relationships and Related Transactions, and Director Independence 
+ Information required under this item is contained in the sections entitled Director Independence and Related-Person Transaction Approval Policy as part of our 2023 Proxy Statement and is incorporated herein by reference. 
+ 
+ ITEM 14 Principal Accountant Fees and Services 
+ Information required under this item is contained in the section entitled Fees Paid to Independent Registered Public Accounting Firm as part of our 2023 Proxy Statement and is incorporated herein by reference. 
+ 69 
+
+Table of Contents 
+
+ PART IV 
+ 
+ ITEM 15 Exhibits and Financial Statement Schedules 
+ A. The following documents are filed as a part of this report: 
+ 1. Financial Statements 
+ Consolidated financial statements and related notes, together with the reports of Deloitte Touche LLP, Independent Registered Public Accounting Firm (PCAOB ID No. ), appear in Part II Item 8. Financial Statements and Supplementary Data of this Form 10-K. 
+ 2. Financial Statement Schedule 
+ Charged to costs and expenses Reclassification Charged to other accounts (a) 
+ Deductions (b) 
+ ) ) ) Balance at end of year Sales returns reserve: Balance at beginning of year Charged to costs and expenses Deductions (b) 
+ ) ) ) Balance at end of year Allowance for excess and obsolete inventories: Balance at beginning of year Charged to costs and expenses Charged to other accounts (a) 
+ ) Deductions (c) 
+ ) ) ) Balance at end of year Valuation allowance for deferred tax assets: Balance at beginning of year Charged to costs and expenses ) ) Charged to other accounts (a) 
+ ) ) Balance at end of year Warranty reserve: Balance at beginning of year Charged to costs and expenses Charged to other accounts (a) 
+ ) ) Deductions (d) 
+ ) ) ) Balance at end of year 
+ 
+ (a) Primarily includes impact from foreign currency fluctuations. 
+ 70 
+
+Table of Contents 
+
+ All other schedules are omitted because they are not applicable or the required information is shown in the consolidated financial statements or notes thereto. 
+ 3. Exhibits 
+ Item # Description Method of Filing 3.1 Restated Articles of Incorporation 
+ Incorporated by reference to Exhibit 3i to the Company s Form 10-Q for the quarter ended June 30, 2006. 3.2 Amended and Restated By-Laws 
+ Incorporated by reference to Exhibit 3.2 to the Company s Current Report on Form 8-K dated January 13, 2023. 3.3 Articles of Amendment of Restated Articles of Incorporation of Tennant Company 
+ Incorporated by reference to Exhibit 3iii to the Company's Form 10-Q for the quarter ended March 31, 2018. 4.1 Description of Securities 
+ Filed herewith electronically. 10.1 Tennant Company Executive Nonqualified Deferred Compensation Plan, as restated effective January 1, 2009, as amended 
+ Incorporated by reference to Exhibit 10.1 to the Company s Form 10-Q for the quarter ended September 30, 2012. 10.2 Form of Amended and Restated Management Agreement and Executive Employment Agreement 
+ Incorporated by reference to Exhibit 10.3 to the Company's Form 10-K for the year ended December 31, 2011. 10.3 Schedule of parties to Management and Executive Employment Agreement 
+ Filed herewith electronically. 10.4 Tennant Company Non-Employee Director Stock Option Plan (as amended and restated effective May 6, 2004) 
+ Incorporated by reference to Exhibit 10.6 to the Company s Form 10-Q for the quarter ended June 30, 2004. 10.5 Tennant Company Amended and Restated 1999 Stock Incentive Plan 
+ Incorporated by reference to Appendix A to the Company s Proxy Statement for the 2006 Annual Meeting of Shareholders filed on March 15, 2006. 10.6 Tennant Company 2007 Stock Incentive Plan 
+ Incorporated by reference to Appendix A to the Company s Proxy Statement for the 2007 Annual Meeting of Shareholders filed on March 15, 2007. 10.7 Amended and Restated 2010 Stock Incentive Plan, as Amended 
+ Incorporated by reference to Appendix A to the Company's Proxy Statement for the 2013 Annual Meeting of Shareholders filed on March 11, 2013. 10.8 2017 Stock Incentive Plan 
+ Incorporated by reference to Appendix A on the Company's Proxy Statement for the 2017 Annual Meeting of Shareholders filed March 15, 2017. 10.9 Form of Tennant Company 2017 Stock Incentive Plan Non-Statutory Stock Option Agreement 
+ Incorporated by reference to Exhibit 10.3 to the Company's Form 10-Q for the quarter ended June 30, 2017. 10.10 Form of Tennant Company 2017 Stock Incentive Plan Restricted Stock Agreement 
+ Incorporated by reference to Exhibit 10.4 to the Company's Form 10-Q for the quarter ended June 30, 2017. 10.11 Form of Tennant Company 2017 Stock Incentive Plan Non-Employee Director Restricted Stock Agreement 
+ Incorporated by reference to Exhibit 10.5 to the Company's Form 10-Q for the quarter ended June 30, 2017. 10.12 Form of Tennant Company 2017 Stock Incentive Plan Restricted Stock Unit Agreement 
+ Incorporated by reference to Exhibit 10.6 to the Company's Form 10-Q for the quarter ended June 30, 2017. 10.13 Form of Tennant Company 2017 Stock Incentive Plan Non-Employee Director Restricted Stock Unit Agreement 
+ Incorporated by reference to Exhibit 10.1 to the Company's Form 10-Q for the quarter ended June 30, 2018. 
+ 71 
+
+Table of Contents 
+
+ 10.14 Tennant Company Executive Officer Cash Incentive Plan 
+ Incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed August 20, 2018. 10.15 Tennant Company Executive Officer Severance Plan and Summary Plan Description 
+ Incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed October 10, 2018. 10.16 Tennant Company 2020 Stock Incentive Plan 
+ Incorporated by reference to Exhibit 10.3 to the Company s Form 10-Q for the quarter ended June 30, 2020. 10.17 Form of Tennant Company 2020 Stock Incentive Plan Non-Statutory Stock Option Agreement 
+ Incorporated by reference to Exhibit 10.4 to the Company s Form 10-Q for the quarter ended June 30, 2020. 10.18 Form of Tennant Company 2020 Stock Incentive Plan Restricted Stock Agreement 
+ Incorporated by reference to Exhibit 10.5 to the Company s Form 10-Q for the quarter ended June 30, 2020. 10.19 Form of Tennant Company 2020 Stock Incentive Plan Restricted Stock Unit Agreement 
+ Incorporated by reference to Exhibit 10.6 to the Company s Form 10-Q for the quarter ended June 30, 2020. 10.20 Form of Tennant Company 2020 Stock Incentive Plan Non-Employee Director Restricted Stock Unit Agreement 
+ Incorporated by reference to Exhibit 10.7 to the Company s Form 10-Q for the quarter ended June 30, 2020. 10.21 Form of Tennant Company 2020 Stock Incentive Plan Performance Restricted Stock Unit Agreement 
+ Incorporated by reference to Exhibit 10.8 to the Company s Form 10-Q for the quarter ended June 30, 2020. 10.22 Form of Tennant Company 2020 Stock Incentive Plan Special Performance Restricted Stock Unit Agreement 
+ Incorporated by reference to Exhibit 10.9 to the Company s Form 10-Q for the quarter ended June 30, 2020. 10.23 Amendment to Employment Agreement with David Huml 
+ Incorporated by reference to Exhibit 10.2 to the Company s Form 10-Q for the quarter ended March 31, 2021. 10.24 Non-Statutory Stock Option Agreement (Inducement Grant), between Fay West and Tennant Company, dated May 7, 2021 
+ Incorporated by reference to Exhibit 99.1 to the Company s Registration Statement on Form S-8 filed on May 10, 2021. 10.25 Restricted Stock Agreement (Inducement Grant), between Fay West and Tennant Company, dated May 7, 2021 
+ Incorporated by reference to Exhibit 99.2 to the Company s Registration Statement on Form S-8 filed on May 10, 2021. 10.26 Restricted Stock Unit Agreement (Performance Based Inducement Grant), between Fay West and Tennant Company, dated May 7, 2021 
+ Incorporated by reference to Exhibit 99.3 to the Company s Registration Statement on Form S-8 filed on May 10, 2021. 10.27 Restricted Stock Unit Agreement (Inducement Grant), between Fay West and Tennant Company, dated May 7, 2021 
+ Incorporated by reference to Exhibit 99.4 to the Company s Registration Statement on Form S-8 filed on May 10, 2021. 10.28 Credit Agreement, dated April 5, 2021 
+ Incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on April 7, 2021. 10.29 Offer Letter with Fay West commencing April 15, 2021 
+ Incorporated by reference to Exhibit 10.2 to the Company s Form 10-Q for the quarter ended June 30, 2021. 10.30 Amendment No. 1 to Credit Agreement, dated as of November 10, 2022 Incorporated by reference to Exhibit 10.01 to the Company's Current Report on Form 8-K filed on November 17, 2022. 21 Subsidiaries of the Registrant 
+ Filed herewith electronically. 23.1 Consent of Deloitte Touche LLP , Independent Registered Public Accounting Firm 
+ Filed herewith electronically. 24.1 Powers of Attorney Included on signature page. 31.1 Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer 
+ Filed herewith electronically. 31.2 Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer 
+ Filed herewith electronically. 
+ 72 
+
+Table of Contents 
+
+ 32.1 Section 1350 Certification of Chief Executive Officer 
+ Filed herewith electronically. 32.2 Section 1350 Certification of Chief Financial Officer 
+ Filed herewith electronically. 101 The following financial information from Tennant Company s annual report on Form 10-K for the period ended December 31, 2022, filed with the SEC on February 23, 2023, formatted in Inline Extensible Business Reporting Language (iXBRL): (i) the Consolidated Statements of Income for the years ended December 31, 2022, 2021, and 2020, (ii) the Consolidated Statements of Comprehensive Income for the years ended December 31, 2022, 2021, and 2020, (iii) the Consolidated Balance Sheets as of December 31, 2022 and 2021, (iv) the Consolidated Statements of Cash Flows for the years ended December 31, 2022, 2021, and 2020, (v) the Consolidated Statements of Equity for the years ended December 31, 2022, 2021, and 2020, and (vi) Notes to the Consolidated Financial Statements. Filed herewith electronically. 104 Inline Extensible Business Reporting language (iXBRL) for the cover page of this Annual Report on Form 10-K, included in Exhibit 101 Filed herewith electronically. 
+ Management contract or compensatory plan or arrangement required to be filed as an exhibit to this annual report on Form 10-K. 
+ 73 
+
+Table of Contents 
+
+ ITEM 16 Form 10-K Summary 
+ None. 
+ 74 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ TENNANT COMPANY By /s/ David W. Huml David W. Huml President, CEO and Board of Directors Date February 23, 2023 
+ Each of the undersigned hereby appoints David W. Huml and Kristin A. Erickson, and each of them (with full power to act alone), as attorneys and agents for the undersigned, with full power of substitution, for and in the name, place and stead of the undersigned, to sign and file with the Securities and Exchange Commission under the Securities Exchange Act of 1934, any and all amendments and exhibits to this annual report on Form 10-K and any and all applications, instruments, and other documents to be filed with the Securities and Exchange Commission pertaining to this annual report on Form 10-K or any amendments thereto, with full power and authority to do and perform any and all acts and things whatsoever requisite and necessary or desirable. 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. 
+ By /s/ David W. Huml By /s/ Timothy R. Morse David W. Huml Timothy R. Morse President, CEO and Board of Directors Board of Directors Date February 23, 2023 Date February 23, 2023 By /s/ Fay West By /s/ Donal L. Mulligan Fay West Donal L. Mulligan Chief Financial Officer and Principal Accounting Officer Board of Directors Date February 23, 2023 Date February 23, 2023 By /s/ Azita Arvani By /s/ Steven A. Sonnenberg Azita Arvani Steven A. Sonnenberg Board of Directors Board of Directors Date February 23, 2023 Date February 23, 2023 By /s/ Andrew P. Hider By /s/ Maria C. Green Andrew P. Hider Maria C. Green Board of Directors Board of Directors Date February 23, 2023 Date February 23, 2023 By /s/ Carol S. Eicher By /s/ David Windley Carol S. Eicher David Windley Board of Directors Board of Directors Date February 23, 2023 Date February 23, 2023 
+ 75 
+
+Table of Contents 
+
+ HIDDEN IXBRL 
+
+76 
+
+<EX-4.1>
+ 2
+ tnc-20221231xexx41.htm
+ DESCRIPTION OF SECURITIES
+
+Document 
+ Exhibit 4.1 
+
+ DESCRIPTION OF CAPITAL STOCK 
+ 
+ The following summary description sets forth some of the general terms and provisions of our capital stock. This summary is not complete. For a more detailed description of our capital stock, you should refer to the provisions of our Restated Articles of Incorporation, as amended Articles ), and our Amended and Restated By-Laws Bylaws ), both of which are filed as exhibits to this Annual Report on Form 10-K, and to the Minnesota Business Corporation Act MBCA ). Our common stock is our only class of securities registered under Section 12 of the Securities Exchange Act of 1934, as amended. 
+ 
+ General 
+ Authorized Shares. Our authorized capital stock consists of 60,000,000 shares of common stock, par value 0.375 per share, and 1,000,000 shares of preferred stock, par value 0.02 per share. 
+ 
+ Dividends. Subject to the prior rights of holders of preferred stock, the holders of common stock are entitled to receive dividends when and as declared by our board of directors out of funds legally available for dividends. 
+ 
+ Voting Rights. Holders of common stock are entitled to one vote per share on all matters to be voted upon by our shareholders. All shares of common stock rank equally as to voting and all other matters. Shares of common stock are not entitled to cumulative voting rights. This means that a holder of a single share of common stock cannot cast more than one vote for each position to be filled on our board of directors. 
+ 
+ Other Rights. Upon a liquidation of our company, creditors and holders of preferred stock with preferential liquidation rights will be paid before any distribution to holders of common stock. The holders of common stock would be entitled to receive a pro rata distribution per share of any excess amount. The shares of common stock have no preemptive or conversion rights and have no redemption or sinking fund provisions. Since the holders of our common stock have no preemptive rights, this means that, as holders of common stock, they have no right to buy any portion of securities we may issue in the future. 
+ 
+ Fully Paid. The outstanding shares of common stock are fully paid and nonassessable. This means the full purchase price for the outstanding shares of common stock has been paid and the holders of such shares will not be assessed any additional amounts for such shares. 
+ 
+ Listing. Our outstanding shares of common stock are listed on the New York Stock Exchange under the symbol TNC. 
+ 
+ Anti-takeover Provisions Contained in our Articles and Bylaws and the MBCA 
+ 
+ Certain provisions of our Articles and Bylaws and of Minnesota law described below could have an anti-takeover effect. These provisions are intended to provide management flexibility to enhance the likelihood of continuity and stability in the composition of our board of directors and in the policies formulated by our board and to discourage an unsolicited takeover of our company, if our board determines that such a takeover is not in the best interests of our company and our shareholders. However, these provisions could have the effect of discouraging attempts to acquire us, which could deprive our shareholders of opportunities to sell their shares of common stock at prices higher than prevailing market prices. 
+ 
+ Preferred Stock. Our Articles empower our board of directors to issue the undesignated preferred stock from time to time in one or more series. Our board of directors may also fix the designation and relative rights and preferences of each such series. Terms selected could decrease the amount of earnings and assets available for distribution to holders of common stock or adversely affect the rights and powers, including voting rights, of the holders of the common stock without any further action by our shareholders. The rights of holders of common stock will be subject to, and may be adversely affected by, the rights of the holders of any preferred stock that may be issued in the future. The issuance of new preferred stock could have the effect of 
+
+Exhibit 4.1 
+
+ delaying or preventing a change in control of our company or make removal of our management more difficult. Additionally, the issuance of new preferred stock may have the effect of decreasing the market price of the common stock and may adversely affect the voting and other rights of the holders of the common stock. Any issuance of new preferred stock could have the effect of making it more difficult for a third party to acquire a majority of our outstanding voting stock. 
+ 
+ Related Person Business Transactions. Under our Articles, Related Person Business Transactions subject to specified exceptions, require the approval of two-thirds of the voting power of our outstanding shares. A Related Person Business Transaction includes certain mergers or share exchanges involving us and a shareholder that, together with its affiliates and associates, beneficially owns at least 20 of our voting shares, the sale or other disposition by us of substantial assets to a 20 shareholder, the sale or other disposition by a 20 shareholder of substantial assets to us, certain issuances of securities by us to a 20 shareholder and certain recapitalizations or reclassifications or the adoption by us of a plan of liquidation or dissolution while we have a 20 shareholder. The two-thirds voting requirement does not apply if the transaction is pre-approved by at least two-thirds of our directors who were board members before the 20 shareholder became a 20 shareholder (excluding the 20 shareholder or its affiliates or associates). A merger or share exchange is also excepted from the two-thirds voting requirement if the per-share consideration received by our shareholders in the transaction equals or exceeds the highest per-share consideration paid by the 20 shareholder in acquiring any of our common stock. Any amendment to this provision of our Articles requires the approval of two-thirds of the voting power of our outstanding shares. 
+ 
+ Statutory Provisions. Section 302A.671 of the MBCA applies, with certain exceptions, to any acquisitions of our voting stock from a person other than us, and other than in connection with certain mergers and exchanges to which we are a party and certain tender offers or exchange offers approved in advance by a disinterested board committee, resulting in the beneficial ownership of 20 or more of the voting power of our then-outstanding stock. 
+ 
+ Section 302A.671 requires approval of the granting of voting rights for the shares received pursuant to any such acquisitions by a vote of our shareholders holding a majority of the voting power of our outstanding shares and a majority of the voting power of our outstanding shares that are not held by the acquiring person, our officers or those non-officer employees, if any, who are also our directors. Similar voting requirements are imposed for acquisitions resulting in beneficial ownership of 33-1 3 or more or a majority of the voting power of our then-outstanding stock. In general, shares acquired without this approval are denied voting rights in excess of the 20 , 33-1 3 or 50 thresholds and, to that extent, can be called for redemption at their then fair market value by us within 30 days after the acquiring person has failed to deliver a timely information statement to us or the date our shareholders voted not to grant voting rights to the acquiring person s shares. 
+ 
+ Section 302A.673 of the MBCA generally prohibits any business combination by us, or any subsidiary of ours, with any shareholder that beneficially owns 10 or more of the voting power of our outstanding shares (an interested shareholder within four years following the time the interested shareholder crosses the 10 stock ownership threshold, unless the business combination is approved by a committee of disinterested members of our board of directors before the time the interested shareholder crosses the 10 stock-ownership threshold. 
+ 
+ Section 302A.675 of the MBCA generally prohibits an offeror from acquiring our shares within two years following the offeror s last purchase of our shares pursuant to a takeover offer with respect to that class, unless our shareholders are able to sell their shares to the offeror upon substantially equivalent terms as those provided in the earlier takeover offer. This statute will not apply if the acquisition of shares is approved by a committee of disinterested members of our board of directors before the purchase of any shares by the offeror pursuant to the earlier takeover offer. 
+ 
+ Classified Board Removal of Directors Number of Directors. Under our Articles, our board of directors is classified into three classes of directors. This means that only approximately one-third of our directors are elected at each annual meeting of shareholders and that it would take two years to replace a majority of the directors unless they are removed. Directors 
+
+Exhibit 4.1 
+
+ may be removed by shareholders only by a vote of holders of at least 75 of the voting power of the outstanding shares. Our Articles also require a vote of holders of at least 75 of the voting power in order for the shareholders to change the number of directors, unless such change shall have been approved by a majority of our board of directors, in which case such change need be approved only by holders of a majority of the voting power of the shares present and entitled to vote at the shareholders meeting. Any amendment to these provisions of our Articles requires the approval of 75 of the voting power of our outstanding shares. 
+ 
+ Nomination Procedures. Our Articles establish advance-notice procedures with regard to the nomination by shareholders of candidates for election as directors. A shareholder of record must provide a written request of its candidate to our secretary not less than 75 days prior to the date fixed for the annual or special meeting of shareholders, which notice must include the written consent of such candidate to serve as a director. Our Bylaws specify certain information and representations regarding the shareholder and any nominee that must be included in the notice. Any amendment to this provision of our Articles requires the approval of 75 of the voting power of our outstanding shares. 
+ 
+ Proposal Procedures. Our Bylaws establish procedures, including advance-notice procedures, with regard to shareholder proposals to be considered at an annual meeting of shareholders. In general, a shareholder must submit a written notice of the proposal to our secretary at least 90 days before the first anniversary date of the preceding year s annual meeting of shareholders, which notice must include certain information and representations regarding the shareholder and the proposal. 
+ 
+ Special Meetings of Shareholders Shareholder Action by Written Consent. Section 302A.433 of the MBCA and our Bylaws provide that special meetings of the Company s shareholders may be called by the Company s chief executive officer, chief financial officer, two or more directors, or shareholders holding 10 or more of the voting power of all shares entitled to vote, except that a special meeting called by shareholders for the purpose of considering any action to directly or indirectly facilitate or effect a business combination, including any action to change or otherwise affect the composition of our board of directors for that purpose, must be called by 25 or more of the voting power of all shares entitled to vote. Section 302A.441 of the MBCA also provides that action may be taken by shareholders without a meeting only by unanimous written consent. 
+ 
+ Amendment of Bylaws. Our board of directors can adopt, amend or repeal our Bylaws, subject to limitations under the MBCA. Under the MBCA, our shareholders also have the power to change or repeal our Bylaws. 
+
+</EX-4.1>
+
+<EX-10.3>
+ 3
+ tnc-20221231xexx103.htm
+ SCHEDULE OF PARTIES TO MANAGEMENT AND EXECUTIVE EMPLOYMENT AGREEMENT
+
+Document 
+ Exhibit 10.3 
+
+ SCHEDULE OF PARTIES TO 
+ 
+ MANAGEMENT AND EXECUTIVE EMPLOYMENT AGREEMENT 
+ 
+ Parties to current form of amended and restated management agreement 
+
+Name Title David W. Huml President and Chief Executive Officer Carol E. McKnight Senior Vice President, Chief Administrative Officer Richard H. Zay Senior Vice President, Chief Commercial Officer 
+
+</EX-10.3>
+
+<EX-21>
+ 4
+ tnc-20221231xexx21.htm
+ SUBISIDIARIES OF THE REGISTRANT
+
+Document 
+ Exhibit 21 
+
+ Subsidiaries of the Registrant 
+ 
+ Listed below are subsidiaries of Tennant Company as of December 31, 2022 
+ 
+ Subsidiary Jurisdiction of Organization Anhui Rongen Environmental Protection Technology Co., Ltd. People s Republic of China Applied Kehrmaschinen GmbH Federal Republic of Germany Applied Sweepers Holdings. Limited United Kingdom CT Corporation Ltd. People s Republic of China Foma Norge AS Kingdom of Norway Hefei Gaomei Cleaning Machines Co., Ltd. People s Republic of China Hofmans Machinefabriek en Constructiebedrijf B.V. Netherlands IP Cleaning Espana S.L. Kingdom of Spain IP Cleaning India Pvt. Ltd. Republic of India IP Cleaning S.r.l. Italian Republic IP Cleaning Sverige AB Kingdom of Sweden IPC Eagle Corporation Minnesota IPC Euromop Iberica S.L. Kingdom of Spain IPC Industria e Commercio Ltda. Federative Republic of Brazil IPC Tools S.p.A. Italian Republic Sociedade Alfa Ltda. Federative Republic of Brazil Soteco Benelux B.V.B.A. Belgium TCO C.V. Netherlands Tennant Asia Pacific Holdings Pte Ltd. Republic of Singapore Tennant Australia Pty Limited Australia Tennant CAD Holdings LLC Minnesota Tennant Cleaning Solutions Ireland Limited Ireland Tennant Cleaning Systems and Equipment (Shanghai) Co., Ltd. People s Republic of China Tennant Company Far East Headquarters Pte Ltd. Republic of Singapore Tennant Company (Thailand) Ltd. Thailand Tennant Company Japan, Ltd. Japan Tennant Europe B.V. Netherlands Tennant Europe N.V. Belgium Tennant GmbH & Co. KG Federal Republic of Germany Tennant Holding B.V. Netherlands Tennant Holding (US), Inc. Minnesota Tennant International Holding B.V. Netherlands Tennant International Holding LLC Minnesota Tennant NL B.V. Netherlands Tennant N.V. Netherlands Tennant Netherland Holding B.V. Netherlands Tennant New Zealand Ltd. New Zealand Tennant Portugal E. de L., S.U., L. da Portuguese Republic 
+
+Exhibit 21 
+
+ Tennant S.A. French Republic Tennant SA Holdings LLC Minnesota Tennant Sales & Service Canada ULC British Columbia, Canada Tennant Sales and Service Company Minnesota Tennant Sales and Service Spain, S.A. Kingdom of Spain Tennant Scotland Limited United Kingdom Tennant Sverige AB Kingdom of Sweden Tennant UK Cleaning Solutions Ltd. United Kingdom Tennant Ventas & Servicios de Mexico United Mexican States Tennant Verwaltungs-gesellschaft GmbH Federal Republic of Germany Vaclensa Ltd. United Kingdom Water Star, Inc. Ohio Joint Ventures I-Team North America B.V. Netherlands 
+
+</EX-21>
+
+<EX-23.1>
+ 5
+ tnc-20221231xexx231.htm
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Document 
+ Exhibit 23.1 
+
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ We consent to the incorporation by reference in Registration Statement No. 333-238160, 333-219833, 333-188151, 333-166342, 333-142581, and 333-255979 on Form S-8 of our reports dated February 23, 2023, relating to the financial statements of Tennant Company and the effectiveness of Tennant Company s internal control over financial reporting appearing in this Annual Report on Form 10-K for the year ended December 31, 2022. 
+ 
+ s Deloitte & Touche LLP 
+ 
+ Minneapolis, Minnesota 
+ February 23, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 6
+ tnc-20221231xexx311.htm
+ CERTIFICATION OF CEO PURSUANT TO SECTION 302
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATIONS 
+ I, David W. Huml, certify that 
+ 1. I have reviewed this annual report on Form 10-K of Tennant Company 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date 
+ February 23, 2023 s David W. Huml 
+ David W. Huml 
+ President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 7
+ tnc-20221231xexx312.htm
+ CERTIFICATION OF CFO PURSUANT TO SECTION 302
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATIONS 
+ I, Fay West, certify that 
+ 1. I have reviewed this annual report on Form 10-K of Tennant Company 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date February 23, 2023 s Fay West Fay West Senior Vice President and Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 8
+ tnc-20221231xexx321.htm
+ CERTIFICATION OF CEO PURSUANT TO SECTION 906
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the annual report of Tennant Company (the Company on Form 10-K for the period ended December 31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, David W. Huml, President and Chief Executive Officer, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in this periodic report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date February 23, 2023 s David W. Huml David W. Huml President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 9
+ tnc-20221231xexx322.htm
+ CERTIFICATION OF CFO PURSUANT TO SECTION 906
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the annual report of Tennant Company (the Company on Form 10-K for the period ended December 31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Fay West, Senior Vice President and Chief Financial Officer, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in this periodic report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date February 23, 2023 s Fay West Fay West Senior Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 10
+ tnc-20221231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 11
+ tnc-20221231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ tnc-20221231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 13
+ tnc-20221231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 14
+ tnc-20221231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

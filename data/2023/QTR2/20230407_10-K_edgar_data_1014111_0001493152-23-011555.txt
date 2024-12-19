@@ -1,0 +1,4493 @@
+<Header>
+<FileStats>
+    <FileName>20230407_10-K_edgar_data_1014111_0001493152-23-011555.txt</FileName>
+    <GrossFileSize>5690568</GrossFileSize>
+    <NetFileSize>155699</NetFileSize>
+    <NonText_DocumentType_Chars>974509</NonText_DocumentType_Chars>
+    <HTML_Chars>2004183</HTML_Chars>
+    <XBRL_Chars>1061168</XBRL_Chars>
+    <XML_Chars>1326696</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-011555.hdr.sgml : 20230407
+<ACCEPTANCE-DATETIME>20230407160024
+ACCESSION NUMBER:		0001493152-23-011555
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		78
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230407
+DATE AS OF CHANGE:		20230407
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GlassBridge Enterprises, Inc.
+		CENTRAL INDEX KEY:			0001014111
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				411838504
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14310
+		FILM NUMBER:		23808763
+
+	BUSINESS ADDRESS:	
+		STREET 1:		18 EAST 50TH STREET FL7TH
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-220-3300
+
+	MAIL ADDRESS:	
+		STREET 1:		18 EAST 50TH STREET FL7TH
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IMATION CORP
+		DATE OF NAME CHANGE:	19960619
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	3M INFORMATION PROCESSING INC
+		DATE OF NAME CHANGE:	19960619
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-011555.txt : 20230407
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+SECURITIES
+AND EXCHANGE COMMISSION 
+
+Washington,
+D.C. 20549 
+
+Form
+
+(Mark
+ One) 
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+ the fiscal year ended , 
+ 
+ or 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+ the transition period from to 
+
+Commission
+file number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ 
+ incorporation
+ or organization) 
+ 
+ (I.R.S.
+ Employer 
+ 
+ Identification
+ No.) 
+
+,
+
+, 
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+(Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None 
+
+Securities
+registered pursuant to Section 12(g) of the Act: 
+
+Common
+Stock, par value 0.01 per share 
+
+Preferred
+Stock Purchase Rights 
+
+(Title
+of class) 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or Section 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+ No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act (check one). 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+Aggregate
+market value of voting and non-voting stock of the registrant held by non-affiliates of the registrant, based on the average bid and
+asked price of 10.00 as reported on OTC Markets on June 30, 2022 (the last business day of the registrant s most recently completed
+second fiscal quarter), was million. 
+
+The
+number of shares outstanding of the registrant s common stock on March 29, 2023 was . 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+. 
+
+GLASSBRIDGE
+ENTERPRISES, INC. 
+
+FORM
+10-K 
+
+FOR
+THE YEAR ENDED DECEMBER 31, 2022 
+
+TABLE
+OF CONTENTS 
+
+Page 
+ 
+ PART
+ I 
+
+ITEM
+ 1 
+ BUSINESS 
+ 3 
+ 
+ ITEM
+ 1A 
+ RISK
+ FACTORS 
+ 6 
+ 
+ ITEM
+ 1B 
+ UNRESOLVED
+ STAFF COMMENTS 
+ 6 
+ 
+ ITEM
+ 2 
+ PROPERTIES 
+ 6 
+ 
+ ITEM
+ 3 
+ LEGAL
+ PROCEEDINGS 
+ 6 
+ 
+ ITEM
+ 4 
+ MINE
+ SAFETY DISCLOSURES 
+ 6 
+
+PART
+ II 
+
+ITEM
+ 5 
+ MARKET
+ FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 7 
+ 
+ ITEM
+ 6 
+ RESERVED 
+ 7 
+ 
+ ITEM
+ 7 
+ MANAGEMENT S
+ DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 8 
+ 
+ ITEM
+ 7A 
+ QUANTITATIVE
+ AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 16 
+ 
+ ITEM
+ 8 
+ FINANCIAL
+ STATEMENTS AND SUPPLEMENTARY DATA 
+ 16 
+ 
+ ITEM
+ 9 
+ CHANGES
+ IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 38 
+ 
+ ITEM
+ 9A 
+ CONTROLS
+ AND PROCEDURES 
+ 38 
+ 
+ ITEM
+ 9B 
+ OTHER
+ INFORMATION 
+ 38 
+ 
+ ITEM
+ 9C 
+ DISCLOSURE
+ REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+ 38 
+
+PART
+ III 
+
+ITEM
+ 10 
+ DIRECTORS,
+ EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 39 
+ 
+ ITEM
+ 11 
+ EXECUTIVE
+ COMPENSATION 
+ 41 
+ 
+ ITEM
+ 12 
+ SECURITY
+ OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 43 
+ 
+ ITEM
+ 13 
+ CERTAIN
+ RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 43 
+ 
+ ITEM
+ 14 
+ PRINCIPAL
+ ACCOUNTANT FEES AND SERVICES 
+ 45 
+
+PART
+ IV 
+
+ITEM
+ 15 
+ EXHIBITS
+ AND FINANCIAL STATEMENT SCHEDULES 
+ 46 
+ 
+ ITEM
+ 16 
+ FORM
+ 10-K SUMMARY 
+ 47 
+
+SIGNATURES 
+ 48 
+
+1 
+
+Cautionary
+Statements Regarding Forward-Looking Statements 
+
+We
+may from time to time make written or oral forward-looking statements with respect to our future goals, including statements contained
+in this Form 10-K, in our other filings with the U.S. Securities and Exchange Commission SEC and in our reports to stockholders. 
+
+Certain
+information which does not relate to historical financial information may be deemed to constitute forward-looking statements within the
+meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements include information concerning the launch
+of our asset management business and related investment vehicles, strategic initiatives and potential acquisitions, the results of operations
+of our existing business lines, the impact of legal or regulatory matters on our business, as well as other actions, strategies and expectations,
+and are identifiable by use of the words believes, expects, intends, anticipates, 
+ plans, seeks, estimates, projects, may, will, could, 
+ might, or continues or similar expressions. Such statements are subject to a wide range of risks and uncertainties
+that could cause our actual results in the future to differ materially from our historical results and those presently anticipated or
+projected. We wish to caution investors not to place undue reliance on any such forward-looking statements. Any forward-looking statements
+speak only as of the date on which such statements are made, and we undertake no obligation to update such statements to reflect events
+or circumstances arising after such date. Risk factors include various factors set forth from time to time in our filings with the SEC
+including the following: the negative impacts of our delisting from the OTCQB, including reduced liquidity and market price of our common
+stock and the number of investors willing to hold or acquire our common stock; significant costs relating to pending and future litigation;
+our ability to attract and retain talented personnel; the structure or success of our participation in any joint investments; risks associated
+with any future acquisition or business opportunities; our need to consume resources in researching acquisitions, business opportunities
+or financings and capital market transactions; our ability to integrate additional businesses or technologies; the market price volatility
+of our common stock; our need to incur asset impairment charges for intangible assets and goodwill; our reliance on aging information
+systems and our ability to protect those systems against security breaches; changes in tax guidance and related interpretations and inspections
+by tax authorities; our ability to raise capital from third party investors for our asset management business; our ability to comply
+with extensive regulations relating to the launch and operation of our asset management business; our ability to compete in the intensely
+competitive asset management business; the performance of any investment funds we sponsor or accounts we manage; difficult market and
+economic conditions, including changes in interest rates and volatile equity and credit markets; our ability to achieve steady earnings
+growth on a quarterly basis in our asset management business; the significant demands placed on our resources and employees, and associated
+increases in expenses, risks and regulatory oversight, resulting from the potential growth of our asset management business; our ability
+to establish a favorable reputation for our asset management business; the lack of operating history of our asset manager subsidiary
+and any funds that we may sponsor; foreign currency fluctuations and negative or uncertain global or regional economic conditions as
+well as various factors set forth from time to time in Item 1A of this Form 10-K and from time to time in our filings with the SEC. 
+
+2 
+
+PART
+I 
+
+Item
+1. Business. 
+
+General
+
+GlassBridge
+Enterprises, Inc. owns and operates an asset management business through various subsidiaries. 
+
+As
+used in this document, the terms GlassBridge , the Company , we , us , and our 
+mean GlassBridge Enterprises, Inc. and its subsidiaries unless the context indicates otherwise. 
+
+Asset
+Management Business 
+
+The
+Company operates its private asset management business through a number of subsidiaries. We expect our
+asset management business to earn revenues primarily by providing investment advisory services to third party investors through managed
+funds, as well as separate managed accounts. 
+
+Our
+employees each support one or more of the subsidiaries, which provide to our clients what we consider unique and cutting-edge investment
+strategies. Since the end of 2019, we have added or augmented a number of strategies and continue to seek and create additional ones.
+We may also look to acquire other asset managers to complement or supplement our business. 
+
+We
+have established a full internal support infrastructure for our asset management business that can support additional strategies and
+assets growth. 
+
+Our
+asset management business s success will depend in large part on our ability to create attractive investment products and raise
+capital from third party investors. If we are unable to raise capital from third party investors, we would be unable to collect management
+fees or deploy capital into investments and potentially collect performance fees, which would adversely affect our ability to generate
+revenue and cash flow from this business. 
+
+The
+investment advisory industry is intensely competitive. We compete with many domestic and global competitors that may provide investment
+products with similar features and objectives to those we offer. These institutions range from small boutique firms to large financial
+institutions. 
+
+Poor
+performance of any investment funds we sponsor or accounts we manage would adversely affect our ability to generate revenue, income and
+cash flow, and could adversely affect our ability to raise capital for future investment funds and accounts. 
+
+Difficult
+market and economic conditions, including, without limitation, changes in interest rates and volatile equity and credit markets, can
+adversely affect our asset management business in many ways, including by reducing the value or performance of the investments made by
+any investment funds we sponsor or accounts we manage and reducing our ability to raise or deploy capital, each of which could adversely
+affect our revenue, earnings and cash flow and adversely affect our financial prospects and condition. 
+
+Any
+revenue, earnings, net income and cash flow attributable to our asset management business is likely to be highly variable, which may
+make it difficult for us to achieve steady earnings growth on a quarterly basis and may cause the price of shares of our common stock
+to decline and be volatile. 
+
+Company
+History 
+
+GlassBridge
+was incorporated as Imation Corp. in Delaware in 1996, from the spin-off of substantially all of 3M Company s data storage and
+imaging systems businesses. We changed our name to GlassBridge Enterprises, Inc. in 2017. 
+
+GlassBridge
+has, during recent periods, undergone significant changes. Until 2015, we primarily provided data storage and security solutions through
+our two legacy business segments. On August 16, 2018, the Company sold its Nexsan business. During 2019, the Company sold its international
+subsidiaries and acquired a controlling interest in SportBLX. On December 30, 2021, the Company sold its interest in SportBLX. 
+
+3 
+
+In
+July 2020, the Company and certain of its subsidiaries completed a series of transactions that resulted, among other things, in the Company s
+reacquiring shares of Adara Enterprises, Corp. Adara or AEC sold in October 2019; disposing of obligations
+incurred in connection with the sale; and entering into a Loan and Security Agreement (the ESW Loan Agreement ). 
+
+In
+January 2021, Adara received notice from ESW Holdings, Inc. ESW that Adara had defaulted on its obligation to pay at
+maturity, i.e., on January 20, 2021, 11,000,000 in principal and all other amounts due to ESW under the ESW Loan Agreement.
+Pursuant to the ESW Loan Agreement, AEC gave to ESW a security interest in all of AEC s assets, and GlassBridge pledged to ESW
+all of GlassBridge s AEC stock and 30 of GlassBridge s SportBLX stock. The Loan Agreement provided that, upon
+AEC s default, AEC may elect to cooperate with ESW to effect a prearranged reorganization of AEC in bankruptcy, pursuant to
+which ESW would acquire all equity in AEC, as reorganized, and indirectly certain of AEC s assets, most notably, property and
+equipment consisting of quantitative trading software, as well as deferred tax assets resulting from AEC s net operating
+losses. In the loan agreement, ESW agreed to provide 8.5 million to the bankruptcy estate to cover costs of administering the AEC
+bankruptcy case and to satisfy the claims of valid creditors, with any residual funds to be paid to GlassBridge. The 8.5 million
+was to be paid upon the effectiveness of AEC s Chapter 11 plan (less any amounts advanced to AEC in the form of a DIP loan)
+and maintained awaiting outside creditor claims. 
+
+AEC s
+prepackaged Chapter 11 plan of reorganization was confirmed at a hearing on June 9, 2021 and became effective on June 15, 2021 (the Effective
+Date ). Upon the occurrence of the Effective Date, ESW deposited 8.5 million, less 325,000 that ESW had previously funded in
+the form of a post-petition debtor-in-possession loan, into a distribution trust established pursuant to AEC s Chapter 11 plan
+to fund the costs of administration associated with AEC s bankruptcy case and to satisfy valid creditor claims. Also on the Effective
+Date, by order of the Bankruptcy Court, GlassBridge shares of AEC were canceled, and shares in reorganized AEC were issued to ESW and
+an affiliate. Finally, on the Effective Date, GlassBridge received a release of its guaranty obligations to ESW. 
+
+The
+Company received distributions from the bankruptcy estate totaling 6,594,703 in 2021 and received additional distributions of 17,909
+during the year ended December 31, 2022. As of December 31, 2022, there are no funds remaining in the bankruptcy estate. 
+
+Adara
+has historically been one of the subsidiaries through which the Company has operated its asset management business. The Company, however,
+remains committed to its asset management business and holds various investments and assets, including Arrive LLC Arrive ),
+in other subsidiaries. 
+
+At
+December 31, 2022, the Company employed 5 people. 
+
+Executive
+Officers 
+
+As
+of April 7, 2023, the Company has two executive officers. 
+
+Daniel
+A. Strauss, age 38, is our Chief Executive Officer and principal executive officer. Mr. Strauss served as our Chief Operating Officer
+from March 2017 through December 2019. Mr. Strauss was a Portfolio Manager at Clinton Group Inc. Clinton ), a hedge fund,
+from 2010 until 2019. Mr. Strauss was formerly a member of the board of directors of SportBLX, the Chief Executive Officer of Adara,
+and a member of the board of directors of Adara through June 2021. Mr. Strauss has over ten years of experience in corporate finance
+as a portfolio manager and investment analyst in private and public equity, through which he has developed a deep understanding of corporate
+finance and strategic planning activities. At Clinton, Mr. Strauss was responsible for evaluating and executing private equity transactions
+across a range of industries. Post-investment, Mr. Strauss was responsible for the ongoing management and oversight of Clinton s
+portfolio investments. From 2008 to 2010, he worked for Angelo, Gordon Co. as a member of the firm s private equity and special
+situations area. Mr. Strauss was previously with Houlihan Lokey, where he focused on mergers and acquisitions, from 2006 to 2008. Mr.
+Strauss has served on the boards of directors of Pacific Mercantile Bancorp (NASDAQ: PMBC), from August 2011 until December 2015, and
+Community Financial Shares, Inc. (OTC: CFIS) from December 2012 until its sale to Wintrust Financial Corporation in July 2015. Mr. Strauss
+received a Bachelor of Science in Finance and International Business from the Stern School of Business at New York University. 
+
+Francis
+Ruchalski, CPA, age 59, is our Chief Financial Officer. Mr. Ruchalski is on the Clinton board of directors and was formerly the Chief
+Financial Officer of Clinton from February 1997 to December 2019. In addition, Mr. Ruchalski was formerly the Chief Financial Officer
+of SportBLX, a member of its board of directors and a member of the board of directors for Adara. Prior to joining Clinton, Mr. Ruchalski
+was an audit manager with Anchin, Block Anchin, LLP, a certified public accounting firm, from 1986 to 1997. Mr. Ruchalski s
+responsibilities while with Anchin, Block Anchin LLP included client auditing and financial and taxation planning. Mr. Ruchalski
+holds a bachelor of science in accounting from St. John s University. 
+
+4 
+
+Availability
+of SEC Reports 
+
+Our
+SEC filings are available to the public from the SEC s internet site at www.sec.gov. Our annual reports on Form 10-K, quarterly
+reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d)
+of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and our proxy statements are available on the SEC s
+internet site. These reports are available through the SEC s internet site as soon as they are published by the SEC, after we electronically
+file the material with, or furnish it to, the SEC. You may read and copy any document we file at the SEC s public reference room
+located at 100 F Street, N.E., Washington, D.C. 20549. Please call the SEC at 1-800-SEC-0330 for further information on the public reference
+room. The foregoing reports are available free of charge on our internet site, www.glassbridge.com, and we make electronic or
+paper copies available on request. 
+
+A
+copy of the GlassBridge code of ethics and charters for the committees of our Board may be obtained, free of charge, by sending a written
+request to Corporate Secretary, GlassBridge Enterprises, Inc., 411 East 57 th Street, Suite 1-A, New York, New York 10022.
+Our code of ethics is part of our broader Business Conduct Policy, which may be obtained by written request to the Corporate Secretary,
+as above. If we make any amendments to our code of ethics other than technical, administrative or other non-substantive amendments, or
+grant any waiver, including any implicit waiver, from a provision of the code of ethics applicable to our principal executive officer,
+principal financial officer, principal accounting officer or controller or persons performing similar functions requiring disclosure
+under applicable SEC rules, we intend to disclose the nature of such amendment or waiver via current report on Form 8-K and/or a separate
+release, as necessary. Our website address is www.glassbridge.com. No information furnished via any website is incorporated by
+reference into this Annual Report on Form 10-K. 
+
+5 
+
+Item
+1A. Risk
+ Factors 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information under this
+item. 
+
+Item
+1B. Unresolved
+ Staff Comments. 
+
+None. 
+
+Item
+2. Properties. 
+
+Our
+worldwide headquarters is in New York City. Our headquarters facility is in good operating condition, suitable for our use, and is adequate
+for our current needs. 
+
+Facility;
+ how held 
+ 
+ Function 
+ 
+ Segment(s)
+
+Using
+ Space 
+
+New
+ York, New York; leased 
+ 
+ Corporate
+ Headquarters, Administrative 
+ 
+ Corporate,
+ Asset Management 
+
+Item
+3. Legal
+ Proceedings. 
+
+Plaintiff
+Cypress Holdings, III L.P. Cypress filed an action against GlassBridge Enterprises, Inc. in New York Supreme Court,
+which was removed to the United States District Court, Southern District of New York, on February 14, 2022, captioned Cypress
+Holdings, III L.P. v. Sport-BLX, Inc. et al., 1:22-cv-01243-LGS (S.D.N.Y.). In its Second Amended Complaint, Cypress purports to assert
+claims against SportBLX, Mr. Hall, and Mr. De Perio for securities fraud and related issues and seeks compensatory damages, punitive
+damages and attorneys fees, in connection with solicitations of investments in SportBLX. Cypress also purports to allege
+that GlassBridge Enterprises, Inc. is liable for unjust enrichment, tortious interference with contract, aiding and abetting a breach of fiduciary duty and minority shareholder oppression. Cypress also purports to
+assert claims against Messrs. Strauss and Ruchalski for breach of fiduciary duty and corporate waste, as well as
+additional claims against Clinton Group Inc., Cesar Baez, Christopher Johnson, and Sport-BLX Securities, Inc. arising from solicitations
+of investments in SportBLX. 
+
+Item
+ 4. Mine
+ Safety Disclosures. 
+
+Not
+Applicable. 
+
+6 
+
+PART
+II 
+
+Item
+ 5. Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of
+ Equity Securities. 
+
+As
+of March 29, 2023, there were 25,170 shares of our common stock, 0.01 par value, outstanding and held by 36 stockholders of record. 
+
+Until
+May 21, 2021, our common stock traded on the OTCQB under the symbol GLAE . On May 21, 2021, OTC Markets moved the Company s
+common stock from the OTCQB market to Pink because we had not yet filed Form 10-K for 2020. 
+
+Over-the
+counter quotations reported by OTC Markets reflect inter-dealer prices, without retail mark-up, mark-down or commission, and may not represent
+actual transactions. 
+
+No
+dividends were declared or paid during 2022 or 2021. Any future dividend payments will depend on our earnings, capital requirements,
+financial condition and other factors considered relevant by our Board. 
+
+Unregistered
+Sales of Equity Securities and Use of Proceeds 
+
+Not
+applicable. 
+
+Issuer
+Purchases of Equity Securities 
+
+Not
+applicable. 
+
+Securities
+Authorized for Issuance Under Equity Compensation Plans 
+
+See
+Note 9 Stock Based Compensation of Notes to Consolidated Financial Statements. 
+
+Item
+ 6. [Reserved]. 
+
+7 
+
+Item
+ 7. Management s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+
+GlassBridge
+Enterprises, Inc. owns and operates an asset management business through various subsidiaries. 
+
+The
+following discussion is intended to be read in conjunction with Item 1. Business and our Consolidated Financial Statements and
+related Notes that appear elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements that involve
+risks and uncertainties. GlassBridge s actual results could differ materially from those anticipated due to various factors discussed
+under Cautionary Statements Regarding Forward-Looking Statements and in Item 1A. Risk Factors of this Annual Report
+on Form 10-K. 
+
+The
+financial statements in this Annual Report on Form 10-K are presented on a consolidated basis and include the accounts of the Company
+and our subsidiaries. See, Notes to Consolidated Financial Statements Note 2 - Summary of Significant Accounting Policies, for
+further information regarding consolidation. References to GlassBridge, the Company, we, us 
+and our are to GlassBridge Enterprises Inc., and its subsidiaries and consolidated entities unless the context indicates
+otherwise. Our Consolidated Financial Statements are prepared in conformity with accounting principles generally accepted in the United
+States of America GAAP ). 
+
+Introduction
+
+GlassBridge
+has, during recent periods, undergone significant changes. Until 2015, we primarily provided data storage and security solutions through
+our two legacy business segments. On August 16, 2018, the Company sold its Nexsan business. During 2019, the Company sold its international
+subsidiaries and acquired a controlling interest in SportBLX. On December 30, 2021, the Company sold its interest in SportBLX. 
+
+As
+a result of these transactions, the Company now operates a single segment, an asset management business. 
+
+In
+January 2021, Adara received notice from ESW that Adara had defaulted on its obligation to pay at maturity, i.e., on January 20, 2021,
+ 11,000,000 in principal and all other amounts due to ESW under the ESW Loan Agreement. Pursuant to the ESW Loan Agreement, AEC gave
+to ESW a security interest in all of AEC s assets, and GlassBridge pledged to ESW all of GlassBridge s AEC stock and 30 
+of GlassBridge s SportBLX stock. The Loan Agreement provided that, upon AEC s default, AEC may elect to cooperate with ESW
+to effect a prearranged reorganization of AEC in bankruptcy, pursuant to which ESW acquires from GlassBridge all equity in AEC and certain
+of its assets, most notably property and equipment consisting of quantitative trading software, as well as deferred tax assets resulting
+from net operating losses, for consideration of 8,500,000, which amount would be used to satisfy the claims of all valid creditors and
+certain administrative expenses associated with the bankruptcy case, with all residual funds to be paid to GlassBridge. On April 22,
+2021, AEC filed a voluntary petition for relief under chapter 11 of the United States Bankruptcy Code in the Bankruptcy Court for the
+District of Delaware. AEC s prepackaged chapter 11 plan of reorganization was confirmed at a hearing on June 9, 2021 and became
+effective on June 15, 2021. On the effective date, ESW paid 8.5 million, less 325,000 that ESW had previously funded in the form of
+a postpetition debtor-in-possession loan to fund the costs of administration associated with AEC s bankruptcy case. Also on the
+effective date, all shares in reorganized AEC were issued to ESW and an affiliate. In addition, GlassBridge received a release of its
+guaranty obligations to ESW. 
+
+The
+Company received distributions from the bankruptcy estate totaling 6,594,703 in 2021 and received additional distributions of 17,909
+during the year ended December 31, 2022. As of December 31, 2022, there are no funds remaining in the bankruptcy estate. 
+
+Adara
+has historically been one of the subsidiaries through which the Company has operated its asset management business. The Company, however,
+remains committed to its asset management business and holds various investments and assets, including Arrive, in other subsidiaries. 
+
+Executive
+Summary 
+
+Consolidated
+Results of Continuing Operations for the Year Ended December 31, 2022 
+
+Revenue
+ of 0.1 million in 2022, compared with revenue of 0.1 million in 2021. 
+
+Selling,
+ general and administrative expense was 3.1 million in 2022, down 2.9 million compared with 6.0 million in 2021. The decrease is
+ primarily due to consulting fees paid to GHI LLC and the Chapter 11 reorganization of Adara in the prior year. 
+
+Operating
+ loss from continuing operations was 3.0 million in 2022, compared to an operating loss of 6.2 million in 2021. The decrease is
+ primarily due to the same reasons as the decrease in selling, general and administrative expenses. 
+
+8 
+
+Other
+ income was 0.0 million in 2022, compared with other income of 19.2 million in 2021. Other income in 2021 primarily related to the
+ gain on Chapter 11 reorganization of Adara. 
+
+Basic
+and diluted loss per share from continuing operations was 113.64 for 2022 compared with income per share of 511.81 for 2021 due to
+items mentioned above. 
+
+Consolidated
+Cash Flow/Financial Condition for the Year Ended December 31, 2022 
+
+Cash
+ and cash equivalents totaled 1.2 million as of December 31, 2022, compared with 4.1 million cash and cash equivalents at December
+ 31, 2021. 
+
+Cash
+ used in operating activities was 2.7 million in 2022 compared with cash used in operating activities of 6.6 million in 2021. Cash
+ used in operating activities in 2022 was primarily related to ordinary operating expenses. Cash used in operating activities in 2021
+ was primarily related to a consulting agreement signed with GHI LLC and ordinary operating expenses. 
+
+Cash
+ used in investing activities was 0.2 million in 2022 compared with cash provided by investing activities of 8.6 million in 2021.
+ Cash used in investing activities for the year ended December 31, 2022, included a 0.2 million contribution to the Arrive investment.
+ Cash provided by investing activities in 2021 included the sale of unsecured claims, the collection of notes receivable from related
+ parties pursuant to the Chapter 11 reorganization and proceeds from the assignment of related party notes receivable, accrued interest
+ receivable and the distribution of funds from the bankruptcy trust. 
+
+Cash
+ provided by financing activities was 0.0 million in 2022, compared with 0.3 million in 2021. Cash provided by financing activities
+ in 2021 was primarily related to a debtor-in-possession note payable, the GHI note payable and payments related to the Stock Purchase
+ Agreement notes payable. 
+
+See
+Analysis of Cash Flows section below for further information. 
+
+Results
+of Operations 
+
+Net
+Revenue 
+
+Years
+ Ended December 31, 
+ Percent
+ Change 
+
+2022 
+ 2021 
+ 2022
+ vs. 2021 
+
+(In millions) 
+
+Net revenue 
+ 0.1 
+ 0.1 
+ 0.0 
+
+NM 
+ - Indicates the Percent Change is not meaningful 
+
+Net
+revenue was 0.1 million for the year ended December 31, 2022, and 0.1 million for the year ended December 31, 2021. 
+
+Selling,
+General and Administrative (SG A) 
+
+Years
+ Ended December 31, 
+ Percent
+ Change 
+
+2022 
+ 2021 
+ 2022
+ vs. 2021 
+
+(In millions) 
+
+Selling, general
+ and administrative 
+ 3.1 
+ 6.0 
+ (48.3 
+ 
+ As a percent of revenue 
+ NM 
+ NM 
+
+SG A
+expense decreased in 2022 compared with 2021 by 2.9 million (or 48.3 primarily due to consulting fees paid to GHI LLC and the Chapter
+11 reorganization of Adara in the prior year. 
+
+9 
+
+Restructuring 
+
+Years
+ Ended December 31, 
+ Percent
+ Change 
+
+2022 
+ 2021 
+ 2022
+ vs. 2021 
+
+(In millions) 
+
+Restructuring 
+ 
+ 0.3 
+ (100.0 
+ 
+ As a percent of revenue 
+ NM 
+ 300.0 
+
+Total
+restructuring expense was 0.0 million and 0.3 million, for the years ended December 31, 2022 and 2021, respectively. Restructuring
+expense of 0.3 million for the year ended December 31, 2021 was attributable to post petition fees in connection with the bankruptcy. 
+
+Operating
+Loss From Continuing Operations 
+
+Years
+ Ended December 31, 
+ Percent
+ Change 
+
+2022 
+ 2021 
+ 2022
+ vs. 2021 
+
+(In millions) 
+
+Operating loss 
+ (3.0 
+ (6.2 
+ (51.6 
+ 
+ As a percent of revenue 
+ (3,000 
+ (6,200.0 
+
+Operating
+loss from continuing operations of 3.0 million decreased in 2022 by 3.2 million, compared with an operating loss of 6.2 million in
+2021. 
+
+Other
+Income and (Expense) 
+
+Years
+ Ended December 31, 
+ Percent
+ Change 
+
+2022 
+ 2021 
+ 2022
+ vs. 2021 
+
+(In millions) 
+
+Interest expense 
+ (0.3 
+ (2.0 
+ (85.0 
+ 
+ Gain on Chapter 11 reorganization 
+ 
+ 20.4 
+ (100.0 
+ 
+ Bank Loan forgiveness 
+ 
+ 0.4 
+ (100.0 
+ 
+ Other
+ income (expense), net 
+ 0.3 
+ 0.4 
+ (25.0 
+ 
+ Total
+ other income (expense) 
+ 
+ 19.2 
+ (100.0 
+ 
+ As a percent of revenue 
+ NM 
+ 19,200.0 
+
+NM
+ - Not meaningful 
+
+Total
+other expense was 0.0 million in 2022, compared to other income of 19.2 million in 2021. Other expense in 2022 primarily related to
+interest in connection with the GHI Loan Agreement. Other income in 2021 primarily related to the gain on Chapter 11 reorganization of
+Adara and forgiveness of a note payable issued under the Paycheck Protection Program (the Bank Loan ). 
+
+Income
+Tax Benefit (Provision) 
+
+Years
+ Ended December 31, 
+
+2022 
+ 2021 
+
+(In millions) 
+ 
+ Income tax benefit
+ (provision) 
+
+Effective tax rate 
+ NM 
+ NM 
+
+NM
+ - Not meaningful 
+
+10 
+
+The
+income tax provision was 0.0 million in 2022 and 2021. Because we maintain a valuation allowance related to our U.S. deferred tax assets,
+the tax provision generally represents discrete tax events that may occur from time to time. 
+
+As
+of December 31, 2022 and 2021, we had valuation allowances of 148.1 million and 157.2 million, respectively, to account for deferred
+tax assets we have concluded are not considered to be more-likely-than-not to be realized in the future due to our cumulative losses
+in recent years. The deferred tax assets subject to valuation allowance include certain operating loss carryforwards, deferred tax deductions,
+capital loss carryforwards and tax credit carryforwards. 
+
+Income
+(loss) from discontinued operations 
+
+For
+ the Years Ended December 31, 
+
+2022 
+ 2021 
+
+(In
+ millions) 
+ 
+ Net
+ revenue 
+
+Operating expenses: 
+
+Selling, general
+ and administrative 
+ 
+ 1.1 
+ 
+ Impairment of goodwill 
+
+Restructuring
+ and other 
+ 
+ (0.6 
+ 
+ Total operating expenses 
+ 
+ 0.5 
+ 
+ Operating loss from discontinued
+ operations 
+ 
+ (0.5 
+ 
+ Other expense: 
+
+Interest
+ expense 
+ 
+ (0.2 
+ 
+ Total
+ other expense 
+ 
+ (0.2 
+ 
+ Loss from discontinued operations,
+ before income taxes 
+ 
+ (0.7 
+ 
+ Gain
+ on sale and deconsolidation of discontinued business 
+ 
+ 16.7 
+ 
+ Income tax 
+
+Income
+ (loss) from discontinued operations, net of income taxes 
+ 
+ 16.0 
+
+Discontinued
+operations represent the results of operations from our Sports Technology Platform. 
+
+Restructuring
+and other includes the net loss attributable to noncontrolling interest of 0.6 million for the year ended December 31, 2021. This amount
+was reclassified to discontinued operations due to the sale of the Sports Technology Platform in the period ending December 31, 2021. 
+
+On
+December 30, 2021, in a series of transactions, the Company completed the disposition of its entire interest in SportBLX. As a result
+of these transactions, the Company recorded a net gain on the sale and deconsolidation of SportBLX of 16.7 million for the year ended
+December 31, 2021. 
+
+See
+Note 4 - Discontinued Operations in our Notes to Consolidated Financial Statements for more information. 
+
+Segment
+Results 
+
+With
+the sale of the Sport Technology Platform business on December 30, 2021, the asset management business is our only reportable segment
+as of December 31, 2022. Results from the Sports Technology Platform were reported within discontinued operations. 
+
+We
+evaluate segment performance based on revenue and operating loss. The operating loss reported in our segments excludes corporate and
+other unallocated amounts. Although such amounts are excluded from the business segment results, they are included in reported consolidated
+results. Corporate and unallocated amounts include costs which are not allocated to the business segments in management s evaluation
+of segment performance such as litigation settlement expense, corporate expense and other expenses. 
+
+11 
+
+Information
+related to our segments is as follows: 
+
+Asset
+Management Business 
+
+Years
+ Ended December 31, 
+ Percent
+ Change 
+
+2022 
+ 2021 
+ 2022
+ vs. 2021 
+
+(In millions) 
+
+Net revenue 
+ 0.1 
+ 0.1 
+ (100.0 
+ 
+ Operating loss 
+ (1.3 
+ (2.0 
+ (35.0 
+
+As a percent of revenue 
+ (1,300.0 
+ (2,000.0 
+
+NM
+ - Not meaningful 
+
+Revenue
+from our asset management business primarily consists of management and performance fees paid by the funds under our management. 
+
+Corporate
+and Unallocated 
+
+Years
+ Ended December 31, 
+ Percent
+ Change 
+
+2022 
+ 2021 
+ 2022
+ vs. 2021 
+
+(In
+ millions) 
+
+Corporate
+ and unallocated operating loss 
+ (1.7 
+ (4.2 
+ (59.5 
+ 
+ Restructuring
+ and other 
+
+Total 
+ (1.7 
+ (4.2 
+ (59.5 
+
+For
+the year ended December 31, 2022, the corporate and unallocated operating loss decreased by 2.5 million compared to 2021. For the year
+ended December 31, 2021, the 0.3 million of restructuring expense presented on the Consolidated Statements of Operations was allocated
+to the Asset Management Business. 
+
+Financial
+Position 
+
+Our
+cash and cash equivalents balance, as of December 31, 2022, was 1.2 million, compared to cash of 4.1 million, as of December 31, 2021.
+See the Analysis of Cash Flows section below for more information. 
+
+Our
+accounts payable balance, as of December 31, 2022, was 1.2 million, an increase of 0.1 million from 1.1 million, as of December 31,
+2021. 
+
+Our
+other current liabilities balance, as of December 31, 2022 and 2021, was 0.4 million. 
+
+Liquidity
+and Capital Resources 
+
+Our
+primary sources of liquidity include our cash and cash equivalents. Our primary operating liquidity needs relate to our working capital
+and funding our operations. 
+
+We
+had 1.2 million cash on hand as of December 31, 2022. 
+
+Our
+liquidity needs for the next 12 months include the following: corporate expenses of approximately 2.8 million and any cash shortfall
+associated with our businesses. 
+
+We
+expect that our cash, in addition to asset monetization, will provide liquidity sufficient to meet our needs for our operations and our
+obligations. We also plan to raise additional capital if necessary, although no assurance can be made that we will be able to secure
+such financing, if needed, on favorable terms or at all. 
+
+Cash
+and Cash Equivalents 
+
+Cash
+equivalents consist of highly liquid investments purchased with original maturities of three months or less. Restricted cash is related
+to contractual obligations or restricted by management and is included in other current assets on our Consolidated Balance Sheets depending
+on the timing of the restrictions. The restricted cash balance in other current assets as of December 31, 2022 and 2021 was 0.0 million. 
+
+12 
+
+Analysis
+of Cash Flows 
+
+Cash
+Flows Used in Operating Activities: 
+
+Years
+ Ended December 31, 
+
+2022 
+ 2021 
+
+(In millions) 
+ 
+ Net income (loss) 
+ (3.0 
+ 29.0 
+ 
+ Adjustments to reconcile
+ net income (loss) to net cash used in operating activities 
+ 0.3 
+ (37.8 
+ 
+ Changes
+ in operating assets and liabilities 
+ 
+ 2.2 
+ 
+ Net
+ cash used in operating activities 
+ (2.7 
+ (6.6 
+
+Cash
+flows from operating activities can fluctuate from period to period as many items can impact cash flows. Cash used in operating activities
+for 2022 and 2021 was primarily driven by corporate expenditures. 
+
+Cash
+Flows Provided by (Used in) Investing Activities: 
+
+Years
+ Ended December 31, 
+
+2022 
+ 2021 
+
+(In millions) 
+ 
+ Purchase of
+ investments 
+ (0.2 
+
+Proceeds from sale of unsecured
+ claims from related party pursuant to Chapter 11 reorganization 
+ 
+ 0.5 
+ 
+ Proceeds from sale of platform
+ code to a related party 
+ 
+ 0.2 
+ 
+ Proceeds from sale of SportBLX
+ to a related party 
+ 
+ 0.2 
+ 
+ Collection of notes receivable
+ from related party pursuant to Chapter 11 reorganization 
+ 
+ 0.7 
+ 
+ Proceeds from bankruptcy
+ trust pursuant to Chapter 11 reorganization 
+ 
+ 6.6 
+ 
+ Proceeds
+ received for the assignment of related party notes receivable and accrued interest to FDC 
+ 
+ 0.4 
+ 
+ Net
+ cash provided by (used in) investing activities 
+ (0.2 
+ 8.6 
+
+Cash
+used in investing activities in 2022 included a 0.2 million contribution to the Arrive investment. Cash provided by investing activities
+in 2021 included proceeds distributed from the bankruptcy trust of 6.6 million and proceeds from related party transactions in connection
+with the disposition of SportBLX. See Note 7 Debt and Note 14 - Related Party Transactions for more information. 
+
+Cash
+Flows Provided by Financing Activities: 
+
+Years
+ Ended December 31, 
+
+2022 
+ 2021 
+
+(In millions) 
+ 
+ Proceeds from
+ ESW debtor-in-possession note payable 
+ 
+ 0.3 
+ 
+ Proceeds from GHI LLC note
+ payable 
+ 
+ 3.3 
+ 
+ Payment to satisfy in full
+ the Stock Purchase Agreement notes payable 
+ 
+ (3.4 
+ 
+ Payment to satisfy 1,500,000
+ of related party debt 
+ 
+ (0.1 
+ 
+ Proceeds
+ from sale of warrants 
+ 
+ 0.2 
+ 
+ Net
+ cash provided by financing activities 
+ 
+ 0.3 
+
+Cash
+provided by financing activities in 2022 was 0.0 million. Cash provided by financing activities of 0.3 million in 2021 relates to a
+debtor-in-possession note payable, the GHI note payable and payments related to the stock purchase agreement notes payable. See Note
+7 Debt and Note 14 Related Party Transactions for more information. 
+
+No
+dividends were declared or paid during 2022 or 2021. Any future dividends are at the discretion of and subject to the approval of our
+Board. 
+
+13 
+
+Related
+Party Transactions 
+
+See
+Note 14 - Related Party Transactions in our Notes to Consolidated Financial Statements for information on related party transactions
+between the Company and GlassBridge s Board of Directors and Executive Officers. 
+
+Off-Balance
+Sheet Arrangements 
+
+Other
+than the operating lease commitments discussed in Note 13 - Litigation, Commitments and Contingencies in the Notes to Consolidated
+Financial Statements, we are not using off-balance sheet arrangements, including special purpose entities. 
+
+Critical
+Accounting Policies and Estimates 
+
+The
+discussion and analysis of our financial condition and results of operations is based upon our Consolidated Financial Statements,
+which have been prepared in accordance with accounting principles generally accepted in the United States of America. The
+preparation of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts
+of assets, liabilities, revenue, expenses and related disclosures of contingent assets and liabilities. On an on-going basis, we
+evaluate our estimates to ensure they are consistent with historical experience and the various assumptions that are believed to be
+reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and
+liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different
+assumptions or conditions and could materially impact our results of operations. 
+
+We
+believe the following critical accounting policies are affected by significant judgments and estimates used in the preparation of our
+Consolidated Financial Statements: 
+
+Uncertain
+Tax Positions. Our income tax returns are subject to review by various taxing authorities. As such, we record accruals for items
+that we believe may be challenged by these taxing authorities. The threshold for recognizing the benefit of a tax return position in
+the consolidated financial statements is that the position must more-likely-than-not be sustained by the taxing authorities based
+solely on the technical merits of the position. If the recognition threshold is met, the tax benefit is measured and recognized as
+the largest amount of tax benefit that, in our judgment, is greater than 50 percent likely to be realized. At December 31, 2021 and
+2022, our accrual related to uncertain tax positions and unrecognized tax benefits was 0.0 million. 
+
+Our
+U.S. federal income tax returns for 2019 through 2021 are subject to examination by the Internal Revenue Service. With few exceptions,
+we are no longer subject to examination by foreign tax jurisdictions or state and local tax jurisdictions for years before 2016. 
+
+The
+ultimate outcome of tax matters may differ from our estimates and assumptions. Unfavorable settlement of any particular issue may require
+the use of cash and could result in increased income tax expense. Favorable resolution could result in reduced income tax expense. It
+is reasonably possible that our unrecognized tax benefits could increase or decrease significantly during the next twelve months due
+to the resolution of certain U.S. and international tax uncertainties; however, it is not possible to estimate the potential change at
+this time. 
+
+Intangibles.
+ We record all assets and liabilities acquired in purchase transactions, including intangibles, at estimated fair value. Intangible
+assets with a definite life are amortized based on a pattern in which the economic benefits of the assets are consumed, typically with
+useful lives ranging from one to 30 years. The initial recognition of intangible assets, the determination of useful lives and, if necessary,
+subsequent impairment analysis require management to make subjective judgments concerning estimates of how the acquired assets will perform
+in the future using certain valuation methods including discounted cash flow analysis. We evaluate assets on our balance sheet, including
+such intangible assets, whenever events or changes in circumstances indicate that their carrying value may not be recoverable. Factors
+such as unfavorable variances from forecasted cash flows, established business plans or volatility inherent to external markets and industries
+may indicate a possible impairment that would require an impairment test. The test for impairment requires a comparison of the carrying
+value of the asset or asset group with their estimated undiscounted future cash flows. If the carrying value of the asset or asset group
+is considered impaired, an impairment charge is recorded for the amount by which the carrying value of the asset or asset group exceeds
+its fair value. 
+
+Goodwill.
+ We record all assets and liabilities acquired in purchase acquisitions, including goodwill, at fair value. The initial recognition
+of goodwill and subsequent impairment analysis require management to make subjective judgments concerning estimates of how the acquired
+assets will perform in the future using valuation methods including discounted cash flow analysis. Goodwill is the excess of the cost
+of an acquired entity over the amounts assigned to assets acquired and liabilities assumed in a business combination. Goodwill is not
+amortized. We test the carrying amount of a reporting unit s goodwill for impairment on an annual basis during the fourth quarter
+of each year or if an event occurs or circumstances change that would warrant impairment testing during an interim period. 
+
+14 
+
+Goodwill
+is considered impaired when its carrying amount exceeds its implied fair value. The Company may assess qualitative factors to determine
+whether it is more likely than not that the fair value of the reporting unit is less than its carrying amount, including goodwill. If
+we determine in this assessment that the fair value of the reporting unit is more than its carrying amount, we may conclude that there
+is no need to perform Step 1 of the impairment test. We have an unconditional option to bypass the qualitative assessment for any reporting
+unit in any period and proceed directly to performing Step 2 of the goodwill impairment test. 
+
+Step
+1 of the impairment test involves comparing the fair value of the reporting unit to which goodwill was assigned to its carrying amount.
+If fair value is deemed to be less than carrying value, Step 2 of the impairment test compares the implied fair value of the reporting
+unit s goodwill with the carrying amount of the reporting unit s goodwill. If the carrying amount of the reporting unit s
+goodwill is greater than the implied fair value of the reporting unit s goodwill, an impairment loss must be recognized for the
+excess. This involves measuring the fair value of the reporting unit s assets and liabilities (both recognized and unrecognized)
+at the time of the impairment test. The difference between the reporting unit s fair value and the fair values assigned to the
+reporting unit s individual assets and liabilities is the implied fair value of the reporting unit s goodwill. 
+
+Claims
+and Litigation. We record a liability when a loss from a pending or threatened claim or litigation is known or considered probable
+and the amount can be reasonably estimated. 
+
+Recently
+Issued Accounting Standards 
+
+See
+Note 2 Summary of Significant Accounting Policies in our Notes to Consolidated Financial Statements for disclosure related
+to recently issued accounting standards. 
+
+Item
+ 7A. Quantitative
+ and Qualitative Disclosures About Market Risk. 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information required
+under this item. 
+
+15 
+
+Item
+ 8. Financial
+ Statements and Supplementary Data. 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Stockholders and Board of Directors of GlassBridge Enterprises, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of GlassBridge Enterprises, Inc. (the Company at December 31,
+2022 and 2021 and the related consolidated statements of operations, shareholders equity (deficit),
+and cash flows for each of the two years in the period ended December 31, 2022 and the related notes (collectively referred to as the
+ financial statements ). In our opinion, the financial statements present fairly, in all material respects, the financial
+position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for the years then ended,
+in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provides a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Critical
+Audit Matter Description 
+
+As
+described in Note 5 to the consolidated financial statements, the Company maintains a significant investment in a private company. For
+investments in equity securities that do not to have a readily determinable fair value, the Company made the election to measure the
+securities it holds at amortized cost in accordance with ASC 321-10-35. The Company performed a qualitative assessment to determine whether
+its investment should be impaired due to any decline in fair value below cost. 
+
+The
+determination of the fair value for these securities requires significant judgment and subjective evaluation of qualitative factors.
+In addition, the Company prepared a valuation model to support its determination, and the valuation process involves significant assumptions
+and estimates. 
+
+16 
+
+How
+the Critical Matter Was Addressed in the Audit 
+
+Our
+principal audit procedures performed to address this critical audit matter included the following: 
+
+- 
+ Reviewed
+ and assessed management s evaluation of qualitative factors and relevant events and circumstances to determine whether the
+ fair value of these securities was less than the amortized cost. 
+
+- 
+ Corroborated
+ that analysis with examination of internally prepared valuation model and evaluated management s assumptions and forecasts. 
+
+/s/
+ . 
+
+We
+have served as the Company s auditor since 2018. 
+
+April 7, 2023 
+
+17 
+
+GLASSBRIDGE
+ENTERPRISES, INC. 
+
+CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+2022 
+ 2021 
+
+For
+ the Years Ended December 31, 
+
+2022 
+ 2021 
+
+(In
+ millions, except share 
+
+ and
+ per share amounts) 
+ 
+ Net revenue 
+
+Operating expenses: 
+
+Selling, general
+ and administrative 
+
+Restructuring and
+ other 
+
+Total operating
+ expenses 
+
+Operating loss from continuing
+ operations 
+
+Other income (expense): 
+
+Interest expense 
+
+Gain on Chapter
+ 11 reorganization 
+
+Bank Loan forgiveness 
+
+Other income,
+ net 
+
+Total other income 
+
+Income (loss) from continuing
+ operations before income taxes 
+
+Income tax 
+
+Income (loss) from continuing
+ operations 
+
+Discontinued operations: 
+
+Loss from discontinued
+ operations, net of income taxes 
+
+Gain on sale and
+ deconsolidation of discontinued business, net of income taxes 
+
+Loss from discontinued
+ operations, net of income taxes 
+
+Net income (loss) 
+
+Income (loss) per common share
+ basic and diluted: 
+
+Continuing operations 
+
+Discontinued operations 
+
+Net income (loss) 
+
+Weighted average common shares outstanding: 
+
+Basic and diluted
+ (in thousands) 
+
+The
+accompanying notes are an integral part of these Consolidated Financial Statements. 
+
+18 
+
+GLASSBRIDGE
+ENTERPRISES, INC. 
+
+CONSOLIDATED
+BALANCE SHEETS 
+
+2022 
+ 2021 
+
+December
+ 31, 
+
+2022 
+ 2021 
+
+(In
+ millions, except share and per 
+
+share
+ amounts) 
+ 
+ ASSETS 
+
+Current assets: 
+
+Cash
+ and cash equivalents 
+
+Accounts receivable,
+ net 
+
+Total current assets 
+
+Investment in
+ Arrive, cost (See Note 6 Arrive Investment 
+
+Other assets and other
+ investments (See Note 6 Arrive Investment) 
+
+Total assets 
+
+LIABILITIES
+ AND SHAREHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+Other current liabilities 
+
+Total current liabilities 
+
+GHI LLC note payable 
+
+Deferred tax liabilities 
+
+Total liabilities 
+
+See Note 13
+ Litigation, Commitments and Contingencies 
+ - 
+ - 
+ 
+ Shareholders equity: 
+
+Preferred stock,
+ par value, authorized shares, issued and outstanding 
+
+Common stock, par value, authorized
+ shares 
+
+2022 shares
+ issued: , outstanding: 
+
+2021 shares
+ issued: , outstanding: 
+
+Additional paid-in
+ capital 
+
+Accumulated deficit 
+
+Treasury stock, at
+ cost 
+ shares at December 31, 2022; 
+ shares at December 31, 2021 
+
+Total shareholders 
+ equity 
+
+Total liabilities
+ and shareholders equity 
+
+The
+accompanying notes are an integral part of these Consolidated Financial Statements. 
+
+19 
+
+GLASSBRIDGE
+ENTERPRISES, INC. 
+
+CONSOLIDATED
+STATEMENTS OF SHAREHOLDERS EQUITY (DEFICIT) 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ 
+ Shares 
+ Amount 
+ Interest 
+ Equity (Deficit) 
+
+Common
+ Stock 
+ Additional
+ Paid-in 
+ Accumulated 
+ 
+ Treasury
+ Stock 
+ Non-controlling 
+ Total Shareholders 
+ Equity 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ 
+ Shares 
+ Amount 
+ Interest 
+ (Deficit) 
+ 
+ Balance
+ as of December 31, 2020 
+
+Net income (loss) 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Deconsolidation of subsidiary 
+
+Sale of warrants 
+
+Extinguishment of Stock
+ Purchase Agreement Notes Payable, related party 
+
+Extinguishment
+ of related party debt 
+
+Balance as of December
+ 31, 2021 
+
+Balance 
+
+Net loss 
+ - 
+ - 
+ - 
+
+- 
+ - 
+ - 
+
+Net income (loss) 
+ - 
+ - 
+ - 
+
+- 
+ - 
+ - 
+
+Balance as of December
+ 31, 2022 
+
+Balance 
+
+The
+accompanying notes are an integral part of these Consolidated Financial Statements. 
+
+20 
+
+GLASSBRIDGE
+ENTERPRISES, INC. 
+
+CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+2022 
+ 2021 
+
+For
+ the Years Ended December 31, 
+
+2022 
+ 2021 
+
+(In
+ millions) 
+ 
+ Cash Flows
+ from Operating Activities: 
+
+Net
+ income (loss) 
+
+Adjustments to reconcile net
+ income (loss) to net cash used in operating activities: 
+
+Depreciation
+ and amortization 
+
+Payment-in-Kind
+ interest 
+
+Gain
+ on Chapter 11 reorganization 
+
+Gain
+ on sale and deconsolidation of SportBLX 
+
+Bank
+ Loan forgiveness 
+
+Change
+ in non-controlling interest 
+
+Changes
+ in operating assets and liabilities: 
+
+Other
+ current assets 
+
+Other
+ assets 
+
+Accounts
+ payable 
+
+Other liabilities 
+
+Net cash used in
+ operating activities 
+
+Cash Flows
+ from Investing Activities: 
+
+Purchase of investments 
+
+Proceeds from sale
+ of unsecured claims from related party pursuant to Chapter 11 reorganization 
+
+Proceeds from sale
+ of platform code to a related party 
+
+Proceeds from sale
+ of SportBLX to a related party 
+
+Collection of notes
+ receivable from related party pursuant to Chapter 11 reorganization 
+
+Proceeds from bankruptcy
+ trust pursuant to Chapter 11 reorganization 
+
+Proceeds received
+ for the assignment of related party notes receivable and accrued interest to Fintech Debt Corp 
+
+Net cash provided
+ by (used in) investing activities 
+
+Cash Flows
+ from Financing Activities: 
+
+Proceeds from ESW
+ debtor-in-possession note payable 
+
+Proceeds from GHI
+ LLC note payable 
+
+Payment to satisfy
+ in full the Stock Purchase Agreement notes payable 
+
+Payment to satisfy
+ of related party debt 
+
+Proceeds from sale
+ of warrants 
+
+Net cash provided
+ by financing activities 
+
+Net change in cash and cash equivalents 
+
+Cash and cash equivalents beginning of year 
+
+Cash and cash equivalents end of year (a) 
+
+Supplemental disclosures of cash
+ paid during the year: 
+
+Income taxes (net
+ of refunds received) 
+
+Interest expense 
+
+Non-cash investing and financing
+ activities during the period: 
+
+Extinguishment of
+ ESW note payable in Chapter 11 reorganization 
+
+Extinguishment of
+ debtor-in-possession loan in Chapter 11 reorganization 
+
+Forgiveness of Bank
+ Loan 
+
+Extinguishment of
+ Stock Purchase Agreement Notes Payable 
+
+Recognition of related
+ party debt and accrued interest payable to Fintech Debt Corp. 
+
+Extinguishment of
+ related party debt and accrued interest payable to Fintech Debt Corp. 
+
+Total non-cash
+ investing and financing activities during the period 
+
+(a) The following table provides
+ a reconciliation of cash and cash equivalents to amounts reported within the Consolidated Balance
+ Sheets 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Total cash
+ and cash equivalents 
+
+The
+accompanying notes are an integral part of these Consolidated Financial Statements. 
+
+21 
+
+GLASSBRIDGE
+ENTERPRISES, INC. 
+
+NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+in principal and all other amounts due to ESW under the ESW Loan Agreement. Pursuant to the ESW Loan Agreement, AEC had given to ESW
+a security interest in all of AEC s assets, and GlassBridge pledged to ESW all of GlassBridge s AEC stock and 
+of GlassBridge s Sport-BLX, Inc. SportBLX stock. The Loan Agreement provided that, upon AEC s default,
+AEC may elect to cooperate with ESW to effect a prearranged reorganization of AEC in bankruptcy, pursuant to which ESW would acquire
+from GlassBridge all equity in AEC, as reorganized, and certain of its assets, most notably property and equipment consisting of
+quantitative trading software, as well as deferred tax assets resulting from net operating losses, for consideration of ,
+which amount would be used to satisfy the claims of all valid creditors and certain administrative expenses associated with the
+bankruptcy case, with all residual funds to be paid to GlassBridge. On April 22, 2021, AEC filed a voluntary petition for relief
+under chapter 11 of the United States Bankruptcy Code in the Bankruptcy Court for the District of Delaware. AEC s prepackaged
+chapter 11 plan of reorganization was confirmed at a hearing on June 9, 2021 and became effective on June 15, 2021 (the
+ Effective Date ). Upon the occurrence of the Effective Date, ESW paid 
+million in consideration, less 
+that ESW had previously funded in the form of a post-petition debtor-in-possession loan to AEC to fund the costs of administration
+associated with AEC s bankruptcy case and to satisfy valid creditor claims Also on the Effective Date, by order of the
+Bankruptcy Court, GlassBridge shares of AEC were canceled, and shares in reorganized AEC were issued to ESW and an affiliate. In
+addition, on the Effective Date, GlassBridge received a release of its guaranty obligations to ESW. 
+
+The
+Company received distributions from the bankruptcy estate totaling in 2021 and received additional distributions of 
+during the year ended December 31, 2022. As of December 31, 2022, there are funds remaining in the bankruptcy estate. 
+
+Adara
+has historically been one of the subsidiaries through which the Company has operated its asset management business. The Company, however,
+remains committed to its asset management business and holds various investments and assets, including Arrive LLC Arrive ),
+in other subsidiaries. 
+
+On
+December 30, 2021 the Company completed the disposition of its entire interest in SportBLX, selling all of its shares to Fintech Debt
+Corp. FDC for . FDC is controlled by George E. Hall and Joseph A. De Perio, who are beneficial owners of the
+Company. 
+
+Basis
+of Presentation 
+
+The
+financial statements are presented on a consolidated basis and include the accounts of the Company, its wholly-owned subsidiaries, and
+entities in which the Company owns or controls fifty percent or more of the voting shares and has the right to control. The results of
+entities disposed of are included in the Consolidated Financial Statements up to the date of the disposal and, where appropriate, these
+operations have been reflected as discontinued operations. Our Consolidated Financial Statements are prepared in conformity with accounting
+principles generally accepted in the United States of America GAAP ). All inter-company balances and transactions have
+been eliminated in consolidation and, in the opinion of management, all normal recurring adjustments necessary for a fair presentation
+have been included in the results reported. 
+
+The
+operating results of the Sports Technology Platform, are presented in our Consolidated Statements of Operations as discontinued operations
+for all periods presented. Our continuing operations in each period presented represents our Asset Management Business 
+as well as corporate expenses and activities not directly attributable to the Sports Technology Platform. Assets and liabilities directly
+associated with the Sports Technology Platform that are not part of our ongoing operations have been separately presented on the face
+of our Consolidated Balance Sheets for all periods presented. See Note 4 - Discontinued Operations for further information. 
+
+t have any restricted cash included in other current assets. 
+
+Our
+income tax returns are subject to review by various taxing authorities. As such, we record accruals for items that we believe may be
+challenged by these taxing authorities. The threshold for recognizing the benefit of a tax return position in the consolidated
+financial statements is that the position must be more-likely-than-not to be sustained by the taxing authorities based solely on the
+technical merits of the position. If the recognition threshold is met, the tax benefit is measured and recognized as the largest
+amount of tax benefit that, in our judgment, is greater than 50 percent likely to be realized. 
+
+Loss from discontinued
+ operations, net of income taxes 
+
+Gain
+ on sale and deconsolidation of discontinued business, net of income taxes 
+
+Net income (loss) 
+
+Denominator: 
+
+Weighted
+ average number of shares outstanding during the period - basic and dilutive (in thousands) 
+
+Income (loss) per common share basic
+ and diluted: 
+
+Continuing operations 
+
+Discontinued
+ operations 
+
+Net
+ income (loss) 
+
+The
+Company has shares of outstanding and exercisable stock options that have been excluded because they would be anti-dilutive. See
+Note 9 Stock-Based Compensation for additional information on the stock options. 
+
+. 
+
+On
+ December 24, 2021, SportBLX repurchased of its debt from FDC, a related party,
+ for . FDC is controlled by George E. Hall and Joseph A. De Perio, who are beneficial
+ owners of the Company. 
+
+Finally,
+ on December 30, 2021, the Company completed the disposition of its entire interest in SportBLX,
+ selling all of its shares to FDC for . 
+
+Gain on repurchase of SportBLX debt from FDC 
+
+Sale of SportBLX to FDC 
+
+Proceeds 
+
+Basis in SportBLX 
+
+Goodwill 
+
+Non-controlling
+ interest 
+
+Net gain on the sale
+ and deconsolidation of SportBLX 
+
+Results
+of Discontinued Operations 
+
+The
+operating results for the Sports Technology Platform are presented in our Consolidated Statements of Operations as discontinued operations
+for all periods presented and reflect revenues and expenses that are directly attributable to these businesses that were eliminated from
+our ongoing operations. 
+
+Restructuring
+ and other 
+
+Total operating expenses 
+
+Operating loss from discontinued operations 
+
+Other expense: 
+
+Interest
+ expense 
+
+Total other expense 
+
+Loss from discontinued operations, before income
+ taxes 
+
+Gain on sale and deconsolidation
+ of discontinued business 
+
+Income tax 
+
+Income (loss) from discontinued
+ operations, net of income taxes 
+
+Restructuring
+and other includes the net loss attributable to the noncontrolling interest of million for the year ended December 31, 2021. This
+amount was reclassified to discontinued operations due to the sale of the Sports Technology Platform during the year ended December 31,
+2021. 
+
+The
+income tax benefit related to discontinued operations was million for the years ended December 31, 2022 and 2021. See Note 10 - Income
+Taxes for additional information. 
+
+million as of December 31, 2022 and 2021. 
+
+Other current liabilities 
+
+Total
+ other current liabilities 
+
+Other
+current liabilities, as of December 31, 2022 and 2021, include insurance and corporate liability accruals. 
+
+million
+ as of December 31, 2022 and 2021 represents an investment in the Arrive operating company, Arrive I LLC. The Company s investment entitles the Company to appoint one of five Arrive Board members and gives the Company
+priority for distributions of current income and investment proceeds. In addition, 
+
+Other assets of million and million as of December 31, 2022 and 2021, respectively,
+ represent an investment in the Arrive Opportunities Fund I, LP, managed by an affiliate of Arrive I LLC. 
+
+The Company did not record any unrealized gains or losses during the years ended December 31, 2022 or 2021 related
+to these investments. The Company is not required to contribute additional capital to either of the investments. 
+
+Historically,
+the Company accounted for such investments under the cost method of accounting. The adoption of ASU No. 2016-01 in the first quarter
+of 2018 effectively eliminated the cost method of accounting, and the carrying value of this investment is written down, or impaired,
+to fair value when a decline in value is considered to be other-than-temporary. Our strategic investment in equity securities does not
+have a readily determinable fair value; therefore, the new guidance was adopted prospectively. As of December 31, 2022, there were no
+indicators of impairment for this investment. The Company will assess the investment for potential impairment, quarterly. 
+
+Other liabilities 
+
+Total long term debt 
+
+The
+Company entered into a Term Loan and Security Agreement GHI Loan Agreement with Gazellek Holdings I, LLC GHI
+LLC ), pursuant to which GHI LLC lent to the Company on August 6, 2021. The loan bears in-kind interest at the annual
+rate of and interest is compounded with, and added to the outstanding amount quarterly. The loan is secured by substantially all of
+the Company s assets and those of all of its subsidiaries, which are required to guarantee the loan, and matures . 
+
+The
+Company is required to prepay the loan upon receiving proceeds from future indebtedness exceeding (other than indebtedness
+that is junior to the loan), or if the Company issues any capital stock (provided that the Company is allowed to retain up to 20 of
+the proceeds from such issuance). The GHI Loan Agreement contains customary representations and warranties, covenants and events of default.
+
+2025 
+
+2026 
+
+2027 
+
+2028
+ and thereafter 
+
+Total 
+
+million and million for the years ended December 31, 2022 and 2021, respectively. Restructuring expense
+of million for the year ended December 31, 2021, was attributable to post petition fees in connection with the bankruptcy and was
+allocated to the asset management business. 
+
+The
+2011 Incentive Plan was approved and adopted by our stockholders on May 4, 2011 and became effective immediately. The 2011 Incentive
+Plan was amended and approved by our stockholders on May 8, 2013. The 2011 Incentive Plan permits the grant of stock options, stock appreciation
+rights, restricted stock, restricted stock units, dividend equivalents, performance awards, stock awards and other stock-based awards.
+The number of shares available for awards, as well as the terms of outstanding awards, is subject to adjustments as provided in the 2011
+Incentive Plan for stock splits, stock dividends, recapitalization and other similar events. Awards were able to be granted under the
+2011 Incentive Plan until the earlier to occur of May 3, 2021 or the date on which all shares available for awards under the 2011 Incentive
+Plan have been granted; provided, however, that incentive stock options may not be granted after February 10, 2021. Prior to its expiration,
+the aggregate number of shares of our common stock issuable under all stock-based awards made under the 2011 Incentive Plan was . 
+
+Stock-based
+compensation awards issued under the 2011 Incentive Plan generally have a term of ten years and, for employees, vest over a three-year
+period. Exercise prices of awards issued under these plans are equal to the fair value of the Company s stock on the date of grant. 
+
+As
+of December 31, 2022, there were outstanding stock-based compensation awards under the 2011 Incentive Plan. As of December 31,
+2022, there were shares available for grant under our 2011 Incentive Plan. 
+
+Stock
+Options 
+
+Outstanding December 31, 2021 
+
+Outstanding December 31, 2022 
+
+Exercisable as of December 31, 2022 
+
+The
+Company did t
+grant any options during the years ended December 31, 2022 and 2021. There were options exercised in 2021 or 2022. As of December
+31, 2022 there are 
+ shares outstanding and exercisable.
+The aggregate intrinsic value of all outstanding stock options was 
+ million
+as of December 31, 2022. 
+
+Total
+stock-based compensation expense associated with stock options related to continuing operations recognized in our Consolidated
+Statements of Operations for the years ended December 31, 2022 and 2021 was 
+million. As of December 31, 2022, there is no unrecognized compensation expense related to outstanding stock options. 
+
+No
+related stock-based compensation was capitalized as part of an asset for the years ended December 31, 2022 or 2021. 
+
+International 
+
+Total 
+
+State income taxes, net of federal benefit 
+
+Net effect of subsidiary deconsolidations 
+ Adara reorganization and SportBLX sale 
+
+Valuation allowances 
+
+Adjustment prior year
+ tax loss carryover 
+
+Income tax (provision)
+ benefit 
+
+The
+2020 tax law change that had the most significant impact was in the CARES Act, which accelerated the refund schedule for alternative
+minimum tax credit carryovers. The Company had recorded a tax benefit of million in 2017-2018 which was originally scheduled to
+be received as cash refunds in 2019 through 2022. The CARES Act allowed the Company to file a refund claim for the entire remaining balance
+of million which was received (with interest) in February 2021. 
+
+Tax
+laws require certain items to be included in our tax returns at different times than the items are reflected in our results of operations.
+Some of these items are temporary differences that will reverse over time. We record the tax effect of temporary differences as deferred
+tax assets and deferred tax liabilities in our Consolidated Balance Sheets. 
+
+In
+2022 and 2021 the net cash paid for income taxes, relating to both continuing and discontinued operations, was million. 
+
+Net operating loss carryforwards 
+
+Intangible assets and investments 
+
+Capital losses 
+
+Other, net 
+
+Total deferred tax assets 
+
+Valuation allowance 
+
+Net deferred tax assets 
+
+Unremitted earnings
+ of foreign subsidiaries 
+
+Total deferred tax liabilities 
+
+Valuation allowance 
+
+Total deferred tax liabilities 
+
+Net deferred tax liabilities 
+
+We
+regularly assess the likelihood that our deferred tax assets will be recovered in the future. A valuation allowance is recorded to the
+extent we conclude a deferred tax asset is not considered more-likely-than-not to be realized. We consider all positive and negative
+evidence related to the realization of the deferred tax assets in assessing the need for a valuation allowance. 
+
+Our
+accounting for deferred tax consequences represents our best estimate of future events. A valuation allowance established or revised
+as a result of our assessment is recorded through income tax provision in our Consolidated Statements of Operations. Changes in our current
+estimates due to unanticipated events, or other factors, could have a material effect on our financial condition and results of operations. 
+
+We
+maintain a valuation allowance related to our deferred tax assets. The valuation allowance was million and million as of
+December 31, 2022 and 2021, respectively. The deferred tax asset changes and corresponding valuation allowance changes in 2022 compared
+to 2021 were due primarily to a reduction in the 2021 tax loss calculation related to the Chapter 11 reorganization of Adara. 
+
+The
+net deferred tax liability not offset by valuation allowance of million relates to foreign tax withholding on unremitted foreign
+earnings. 
+
+Total 
+
+Federal
+net operating loss carryforwards totaling million will begin expiring in . This net operating loss includes a million
+worthless stock deduction for the 2021 Adara Chapter 11 reorganization. 
+
+The
+Company performed an analysis to confirm that none of the federal net operating loss carryovers should be limited by Section 382. 
+No such ownership shift has occurred through December 31, 2022. 
+
+We
+have federal capital losses of million that will expire between 2024 and 2026. General business credits totaling million
+will expire between 2024 and 2032. Various state income tax losses and tax credits are also available to offset future profits in six
+states. 
+
+Our
+income tax returns are subject to review by various U.S. and foreign taxing authorities. As such, we record accruals for items that
+we believe may be challenged by these taxing authorities. The threshold for recognizing the benefit of a tax return position in the
+consolidated financial statements is that the position must be more-likely-than-not to be sustained by the taxing authorities based
+solely on the technical merits of the position. If the recognition threshold is met, the tax benefit is measured and recognized as
+the largest amount of tax benefit that, in our judgment, is greater than 50 percent likely to be realized. 
+
+Additions: 
+
+Additions for tax positions
+ of current years 
+
+Additions for tax positions
+ of prior years 
+
+Reductions: 
+
+Reductions for tax positions
+ of prior years 
+
+Settlements with taxing
+ authorities 
+
+Reductions
+ due to lapse of statute of limitations 
+
+Total 
+
+Our
+federal income tax returns for 2019 through 2021 are subject to examination by the Internal Revenue Service. For state purposes, the
+statutes of limitation vary by jurisdiction. With few exceptions, we are no longer subject to examination for years before 2016. 
+
+shares of our outstanding
+shares of common stock. Under the share repurchase program, we may repurchase shares from time to time using a variety of methods, which
+may include open market transactions and privately negotiated transactions. 
+
+Since
+the inception of the November 14, 2016 authorization, we have repurchased 
+shares of common stock for 
+million and, as of December 31, 2021, we had authorization to repurchase 
+ additional shares. The remaining common stock included in treasury shares relates to restricted stock forfeitures and
+prior share repurchase programs. 
+
+During
+the years ended December 31, 2022 and 2021, the Company did not purchase any treasury shares. The treasury stock held as of December
+31, 2022 was acquired at an average price of per share. The following is a summary of treasury share activity: 
+
+Purchases 
+
+Forfeitures
+ and other 
+
+Balance
+ as of December 31, 2021 
+
+Purchases 
+
+Forfeitures
+ and other 
+
+Balance
+ as of December 31, 2022 
+
+382
+Rights Agreement 
+
+On
+November 30, 2021, the Board of Directors adopted a rights plan intended to avoid an ownership change within the meaning
+of Section 382 of the Code, and thereby preserve the current ability of the Company to utilize certain net operating loss carryforwards
+and other tax benefits of the Company and its subsidiaries (the Tax Benefits ). If the Company experiences an ownership
+change, as defined in Section 382 of Code, the Company s ability to fully utilize the Tax Benefits on an annual basis will
+be substantially limited, and the timing of the usage of the Tax Benefits and such other benefits could be substantially delayed, which
+could therefore significantly impair the value of those assets. The rights plan is intended to act as a deterrent to any person or group
+acquiring beneficial ownership of or more of the Company s outstanding shares of common stock, without the approval
+of the Board. The description and terms of the Rights (as defined below) applicable to the rights plan are set forth in the 382 Rights
+Agreement, dated as of December 1, 2021 (the Rights Agreement ), by and between the Company and Equiniti Trust Company,
+as Rights Agent. 
+
+As
+part of the Rights Agreement, the Board authorized and declared a dividend distribution of one right (a Right) for each outstanding share
+of the Company s common stock, to stockholders of record at the close of business on December 1, 2021. Each Right entitles the
+holder to purchase from the Company a unit consisting of one one-hundredth of a share (a Unit of Series A Participating
+Preferred Stock, par value per share, of the Company (the Preferred Stock at a purchase price of per Unit,
+subject to adjustment (the Purchase Price ). Until a Right is exercised, the holder thereof, as such, will have no separate
+rights as a stockholder of the Company, including the right to vote or to receive dividends in respect of Rights. 
+
+Under
+the Rights Agreement, an Acquiring Person is any person or group of affiliated or associated persons (a Person who is
+or becomes the beneficial owner of or more of the outstanding shares of the Company s common stock other than as a result
+of repurchases of stock by the Company, dividends or distribution by the Company, stock issued under certain benefit plans or certain
+inadvertent actions by stockholders. For purposes of calculating percentage ownership under the Rights Agreement, outstanding shares
+of the Company s common stock include all of the shares of common stock actually issued and outstanding. Beneficial ownership is
+determined as provided in the Rights Agreement and generally includes, without limitation, any ownership of securities a Person would
+be deemed to actually or constructively own for purposes of Section 382 of the Code or the Treasury Regulations promulgated thereunder.
+The Rights Agreement provides that the following shall not be deemed an Acquiring Person for purposes of the Rights Agreement: (i) the
+Company or any subsidiary of the Company and any employee benefit plan of the Company, or of any subsidiary of the Company, or any Person
+or entity organized, appointed or established by the Company for or pursuant to the terms of any such plan or (ii) any Person that, as
+of December 1, 2021, is the beneficial owner of or more of the shares of Common Stock outstanding (such Person, an Existing
+Holder unless and until such Existing Holder acquires beneficial ownership of additional shares of common stock (other than pursuant
+to a dividend or distribution paid or made by the Company on the outstanding shares of common stock or pursuant to a split or subdivision
+of the outstanding shares of common stock) in an amount in excess of of the outstanding shares of common stock. 
+
+The
+Rights Agreement provides that a Person shall not become an Acquiring Person for purpose of the Rights Agreement in a transaction that
+the Board determines is exempt from the Rights Agreement, which determination shall be made in the sole and absolute discretion of the
+Board, upon request by any Person prior to the date upon which such Person would otherwise become an Acquiring Person, including, without
+limitation, if the Board determines that (i) neither the beneficial ownership of shares of common stock by such Person, directly or indirectly,
+as a result of such transaction nor any other aspect of such transaction would jeopardize or endanger the availability to the Company
+of the Tax Benefits or (ii) such transaction is otherwise in the best interests of the Company. 
+
+Initially,
+the Rights will not be exercisable and will be attached to all common stock representing shares then outstanding, and no separate Rights
+certificates will be distributed. Subject to certain exceptions specified in the Rights Agreement, the Rights will separate from the
+common stock and become exercisable and a distribution date (a Distribution Date will occur upon the earlier of (i) 10
+business days (or such later date as the Board shall determine) following a public announcement that a Person has become an Acquiring
+Person or (ii) 10 business days (or such later date as the Board shall determine) following the commencement of a tender offer, exchange
+offer or other transaction that, upon consummation thereof, would result in a Person becoming an Acquiring Person. 
+
+Until
+the Distribution Date, common stock held in book-entry form, or in the case of certificated shares, common stock certificates, will evidence
+the Rights and will contain a notation to that effect. Any transfer of shares of common stock prior to the Distribution Date will constitute
+a transfer of the associated Rights. After the Distribution Date, the Rights may be transferred on the books and records of the Rights
+Agent as provided in the Rights Agreement. 
+
+If
+on or after the Distribution Date, a Person is or becomes an Acquiring Person, each holder of a Right, other than certain Rights including
+those beneficially owned by the Acquiring Person (which will have become void), will have the right to receive upon exercise common stock
+(or, in certain circumstances, cash, property or other securities of the Company) having a value equal to two times the Purchase Price. 
+
+In
+the event that, at any time following the first date of a public announcement that a Person has become an Acquiring Person or that discloses
+information which reveals the existence of an Acquiring Person or such earlier date as a majority of the Board becomes aware of the existence
+of an Acquiring Person (any such date, the Stock Acquisition Date), (i) the Company engages in a merger or other business combination
+transaction in which the Company is not the surviving corporation, (ii) the Company engages in a merger or other business combination
+transaction in which the Company is the surviving corporation and the common stock of the Company is changed or exchanged or (iii) 
+or more of the Company s assets, cash flow or earning power is sold or transferred, each holder of a Right (except Rights which
+have previously been voided as set forth above) shall thereafter have the right to receive, upon exercise, common stock of the acquiring
+company having a value equal to two times the Purchase Price. 
+
+At
+any time following the Stock Acquisition Date and prior to an Acquiring Person obtaining shares that would lead to a more than change
+in the outstanding common stock, the Board may exchange the Rights (other than Rights owned by such Person which have become void), in
+whole or in part, for common stock or Preferred Stock at an exchange ratio of one share of common stock, or one one-hundredth of a share
+of Preferred Stock (or of a share of a class or series of the Company s preferred stock having equivalent rights, preferences and
+privileges), per Right, subject to adjustment. 
+
+The
+Rights and the Rights Agreement will expire on the earliest of (i) 5:00 P.M. New York City time on December 1, 2024, (ii) the time at
+which the Rights are redeemed or exchanged pursuant to the Rights Agreement, (iii) the date on which the Board determines that the Rights
+Agreement is no longer necessary for the preservation of material valuable Tax Benefits or is no longer in the best interest of the Company
+and its stockholders, and (iv) the beginning of a taxable year to which the Board determines that no Tax Benefits may be carried forward. 
+
+At
+any time until the earlier of the Distribution Date or the expiration date of the Rights, the Company may redeem the Rights in whole,
+but not in part, at a price of per Right. Immediately upon the action of the Board ordering redemption of the Rights, the Rights
+will terminate and the only right of the holders of Rights will be to receive the redemption price. 
+
+million associated with the Adara bankruptcy were allocated to the asset management business. 
+
+Total segment operating loss 
+
+Corporate and unallocated 
+
+Total operating loss 
+
+Interest expense 
+
+Gain on Chapter 11 reorganization 
+
+Bank Loan forgiveness 
+
+Other income (expense),
+ net 
+
+Income
+ (loss) from continuing operations before income taxes 
+
+December 31, 
+ December 31, 
+
+2022 
+ 2021 
+
+(In millions) 
+ 
+ Assets 
+
+Asset
+ management business 
+
+Total segment assets 
+
+Corporate and unallocated 
+
+Total
+ consolidated assets 
+
+and , respectively, from the Company in satisfaction of
+its obligations to them in the amounts of and , respectively. The obligations were due and bore
+interest at a annual rate. Accordingly, GLAE s obligations in the amounts of and have been paid in full. 
+
+Also
+on July 31, 2021, as part of the settlement of the Stock Purchase Agreement, the Company assigned obligations owed to it from SportBLX,
+totaling , to FDC, of which Mr. Hall and Mr. De Perio are controlling stockholders, for . 
+
+The
+net gain on the settlement of the Stock Purchase Agreement and the assignment of obligations to FDC are related party gains, and, as
+such, were recorded as equity transactions in the Consolidated Balance Sheets, rather than recognized as income in the Consolidated Statements of Operations. 
+
+On
+December 30, 2021, the Company completed a series of transactions for the purpose of disposing of its interest in SportBLX, described
+below: 
+
+On
+ December 21, 2021, SportBLX sold proprietary code to S-BLX Securities, a related party, for
+ . 
+
+On
+ December 24, 2021, SportBLX repurchased of its debt from FDC, a related party,
+ for . FDC is controlled by George E. Hall and Joseph A. De Perio, who are beneficial
+ owners of the Company. 
+
+Finally,
+ on December 30, 2021, the Company completed the disposition of its entire interest in SportBLX,
+ selling all of its shares to FDC for . 
+
+The
+compensation for the Board of Directors of GlassBridge for their board services totaled and for the years ended December
+31, 2022 and 2021, respectively. 
+
+There
+was no non-wage compensation for the officers of GlassBridge for the years ended December 31, 2022 and 2021, respectively. 
+
+37 
+
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+Not
+applicable. 
+
+Item
+9A. Controls and Procedures. 
+
+Evaluation
+of Disclosure Controls and Procedures. Based on an evaluation of our disclosure controls and procedures (as defined in Rule 13a-15(e)
+under the Exchange Act) as of December 31, 2022, the end of the period covered by this Annual Report on Form 10-K, our Chief Executive
+Officer, Daniel Strauss, and Chief Financial Officer, Francis Ruchalski, have concluded that the disclosure controls and procedures were
+effective. 
+
+Changes
+in Internal Controls. During the quarter ended December 31, 2022, there was no change in our internal control over financial reporting
+(as defined in Rule 13a-15(f) under the Exchange Act) that has materially affected, or is reasonably likely to materially affect, our
+internal control over financial reporting. 
+
+Management s
+Report on Internal Control over Financial Reporting. Management of GlassBridge is responsible for establishing and maintaining
+adequate internal control over financial reporting. GlassBridge s internal control system is a process designed to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for
+external purposes in accordance with generally accepted accounting principles. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+GlassBridge
+management assessed the effectiveness of GlassBridge s internal control over financial reporting as of December 31, 2022. In making
+this assessment, we used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal
+Control Integrated Framework version 2013 . Based on our assessment, we concluded that, as of December 31, 2022, GlassBridge s
+internal control over financial reporting was effective, based on those criteria. 
+
+Item
+9B . Other Information. 
+
+None. 
+
+Item
+9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+
+Not
+applicable. 
+
+38 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers and Corporate Governance. 
+
+Board
+of Directors 
+
+Our
+Board of Directors is currently composed of four directors divided into three classes with one Class I director serving until the 2025
+Annual Meeting of Stockholders Annual Meeting ), two Class II directors serving until the 2025 Annual Meeting, and one
+Class III director serving until the 2023 Annual Meeting. The members of each class are generally elected to serve three-year terms with
+the term of office of each class ending in successive years. 
+
+Class
+I Board Member 
+
+Joseph
+ A. De Perio 
+ Joseph
+ A. De Perio, age 44, joined our Board in 2015. Mr. De Perio served as Chairman of the Board and as the Company s principal
+ executive officer between 2017 and 2020. Previously, Mr. De Perio served as the Board s Non-Executive Chairman. Mr. De Perio
+ is the Chairman of the Board and CEO of I Got It Holdings Corporation, dba Metabilia, a corporate entity involved in sports memorabilia
+ and digital collectibles. Previously, Mr. De Perio was a co-founder and executive of Sport-BLX, Inc. SportBLX from
+ January 2019 to September 2021. Prior to that, Mr. De Perio served as a Senior Portfolio Manager of Clinton Group Inc. Clinton from October 2010 to January 2019. Mr. De Perio also served on the Board of directors of Viking Systems, Inc., a leading worldwide
+ developer, manufacturer, and marketer of 3D and 2D visualization solutions for complex minimally invasive surgery, from June 2011
+ until its sale to Conmed Corporation in October 2012, and Overland Storage, Inc. (f/k/a Overland Data, Inc.), a provider of data
+ protection appliances, from April 2011 until its sale to Sphere 3D Corporation in December 2014. Mr. De Perio received a B.A. in
+ business economics and organizational behavior management with honors from Brown University. 
+
+Class
+II Board Members 
+
+Robert
+ Searing 
+ Robert
+ Searing, age 73, joined our Board in 2015. Mr. Searing has been the Chief Operating Officer and the Chief Financial Officer of BH
+ Asset Management, LLC, a Registered Investment Advisory firm, since January 2010. From 2003 to 2009, he was the Chief Operating Officer
+ of Schottenfeld Group, LLC, an investment advisory and broker dealer firm. Mr. Searing is also a Certified Public Accountant. Mr.
+ Searing brings to our Board his experience as a financial leader with significant depth and breadth of knowledge in dealing with
+ complex financial and accounting matters as well as broad managerial expertise. 
+
+Alex
+ Spiro 
+ Alex
+ Spiro, age 40, joined our Board in 2015. He was appointed Chairman of the Board in 2020. Mr. Spiro has been a partner at Quinn Emanuel
+ Urquhart Sullivan LLP since October 2017. Prior to that, Mr. Spiro had been an attorney at Brafman and Associates in New York
+ City since July 2013. In that position, Mr. Spiro has handled an array of complex litigation and investigations. Prior to his joining
+ Brafman and Associates, from September 2008 to July 2013, Mr. Spiro worked as a Manhattan prosecutor. Mr. Spiro formerly was the
+ director of an autism children s program at McLean Hospital, Harvard s psychiatric hospital. Mr. Spiro is a graduate
+ of the Harvard Law School where he remains on the adjunct faculty. Mr. Spiro serves on the board of Arrive, the venture capital arm
+ of Roc Nation. He has lectured and written on a variety of subjects related to psychology and the law. Mr. Spiro brings to our Board
+ his significant analytical and overall business leadership skills. 
+
+Term was set to expire at the Annual Meeting of Stockholders held in 2021 but no Annual Meeting was held in 2021 or 2022. Accordingly
+the Class I members remain in office until their successors are elected and qualified at the next Annual Meeting of Stockholders at which
+elections of directors will be held. It is anticipated that an Annual Meeting of Stockholders will be held in 2023. 
+
+Term was set to expire at the Annual Meeting of Stockholders held in 2022 but no Annual Meeting was held in 2022. Accordingly the Class
+II members remain in office until their successors are elected and qualified at the next Annual Meeting of Stockholders at which elections
+of directors will be held. It is anticipated that an Annual Meeting of Stockholders will be held in 2023. 
+
+39 
+
+Class
+III Board Member, term ending 2023 
+
+Robert
+ G. Torricelli 
+ Robert
+ G. Torricelli, age 71, joined our Board in 2017. Mr. Torricelli served in the U.S. House of Representatives from the Ninth District
+ of New Jersey from 1982 until his election to the U.S. Senate in 1996, where he served until 2003. During his tenure in the Senate,
+ Mr. Torricelli was a member of the Senate Finance, Governmental Affairs, Foreign Relations, Judiciary and Rules Committees and also
+ served as Chair of the Democratic Senatorial Campaign Committee. Upon retiring from the Senate, Mr. Torricelli established a national
+ and international business strategy firm, Rosemont Associates LLC, and created a real estate development business, Woodrose Properties
+ LLC. Mr. Torricelli brings to our board extensive leadership and strategic business experience. 
+
+Executive
+Officers 
+
+The
+following table provides information regarding our executive officers as of April 7, 2023. 
+
+Officer 
+ 
+ Age 
+
+Position 
+ 
+ Daniel
+ A. Strauss 
+ 
+ 38 
+
+Chief
+ Executive Officer 
+ 
+ Francis
+ Ruchalski 
+ 
+ 59 
+
+Chief
+ Financial Officer 
+
+Daniel
+A. Strauss has served as our Chief Executive Officer since March 2019. Mr. Strauss served as our Chief Operating Officer from March 2017
+through December 2019. Mr. Strauss was a Portfolio Manager at Clinton, a hedge fund, from 2010 until 2019. In addition, Mr. Strauss is
+a member of the board of directors for SportBLX and was formerly the Chief Executive Officer of Adara Enterprises, Corp. Adara and a member of its board of directors through June 2021. Mr. Strauss also serves on the Board of Arrive, the venture capital arm of
+Roc Nation. Mr. Strauss has over ten years of experience in corporate finance as a portfolio manager and investment analyst in private
+and public equity. At Clinton, Mr. Strauss was responsible for evaluating and executing private equity transactions across a range of
+industries. Post-investment, Mr. Strauss was responsible for the ongoing management and oversight of Clinton s portfolio investments.
+From 2008 to 2010, he worked for Angelo, Gordon Co., as a member of the firm s private equity and special situations area.
+Mr. Strauss was previously with Houlihan Lokey, where he focused on mergers and acquisitions from 2006 to 2008. Mr. Strauss has served
+on the boards of directors of Pacific Mercantile Bancorp (NASDAQ: PMBC) from August 2011 until December 2015 and Community Financial
+Shares, Inc. (OTC: CFIS) from December 2012 until its sale to Wintrust Financial Corporation in July 2015. Mr. Strauss received a Bachelor
+of Science in Finance and International Business from the Stern School of Business at New York University. 
+
+Francis
+Ruchalski is our Chief Financial Officer. Mr. Ruchalski is on the Clinton board of directors and was formerly the Chief Financial Officer
+of Clinton from February 1997 to December 2019. In addition, Mr. Ruchalski was formerly the Chief Financial Officer of SportBLX, a member
+of its board of directors, and was a member of the board of directors of Adara through June 2021. Prior to joining Clinton, Mr. Ruchalski
+was an audit manager with Anchin, Block Anchin, LLP, a certified public accounting firm, from 1986 to 1997. Mr. Ruchalski s
+responsibilities while with Anchin, Block Anchin LLP included client auditing and financial and taxation planning. Mr. Ruchalski
+holds a bachelor of science in accounting from St. John s University. 
+
+Delinquent
+Section 16(a) Reports 
+
+Section
+16(a) of the Exchange Act requires our directors and executive officers to file reports of ownership and changes in ownership of our
+common stock with the SEC. We are required to identify any of those individuals who did not file such reports on a timely basis. We believe
+that during 2022 all of our directors and executive officers complied with their Section 16(a) filing requirements, timely. 
+
+Code
+of Ethics 
+
+We
+adopted a code of ethics that applies to our principal executive officer, principal financial officer, principal accounting officer or
+controller, or persons performing similar functions, and all of our other employees. If we make any amendments to our code of ethics
+other than technical, administrative or other non-substantive amendments, or grant any waiver, including any implicit waiver, from a
+provision of the code of ethics applicable to our principal executive officer, principal financial officer, principal accounting officer,
+or controller or persons performing similar functions requiring disclosure under applicable U.S. Securities and Exchange Commission SEC rules, we intend to disclose the nature of such amendment or waiver on Form 8-K, Item 5.05. You may request a copy of the code of ethics,
+which will be provided at no cost to you by contacting GlassBridge Enterprises, Inc., c/o Corporate Secretary, 18 East 50th Street, FL7,
+New York NY 10022. 
+
+40 
+
+Item
+11. Executive Compensation. 
+
+Compensation
+of Named Executive Officers 
+
+We
+are a smaller reporting company as such term is defined in Rule 405 of the Securities Act of 1933, as amended (the Securities
+Act ), and Item 10 of Regulation S-K. Accordingly, and in accordance with relevant SEC rules and guidance, we have elected, with
+respect to the disclosures required by Item 402 of Regulation S-K, to comply with the disclosure requirements applicable to smaller reporting
+companies. 
+
+Summary
+Compensation Table 
+
+Name
+ and principal position 
+ 
+ Year 
+ 
+ Salary
+ ) 
+ 
+ Bonus
+ ) 
+ 
+ Option
+ Awards ) 
+ 
+ Stock
+ Awards ) 
+ 
+ Change
+ in Pension Value and Non-Qualified Deferred Compensation Earnings ) 
+ 
+ All
+ Other Compen-sation 
+ 
+ Total 
+ 
+ Daniel
+ Strauss (1) 
+ 
+ 2022 
+ 
+ 400,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 400,000 
+ 
+ (Chief
+ Executive Officer and Former Chief Operating Officer) 
+ 
+ 2021 
+ 
+ 400,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 32,500 
+ 
+ 432,500 
+ 
+ Francis
+ Ruchalski (2) 
+ 
+ 2022 
+ 
+ 350,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 350,000 
+ 
+ (Chief
+ Financial Officer) 
+ 
+ 2021 
+ 
+ 350,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 32,500 
+ 
+ 382,500 
+
+(1) 2021
+ All Other Compensation consists of director fees for Adara. Mr. Strauss serves as our Chief
+ Executive Officer pursuant to the terms of an employment agreement with the Company dated
+ December 18, 2019. On August 1, 2021, Mr. Strauss amended his employment agreement with the
+ Company, to provide for at-will employment at a salary of 400,000 per year. 
+ 
+ (2) 2021
+ All Other Compensation consists of director fees for Adara. Mr. Ruchalski was named the Company s
+ Chief Financial Officer effective March 29, 2019.. 
+
+On
+August 1, 2021, Mr. Strauss entered into an amended employment agreement with the Company as the Company s Chief Executive. 
+
+The
+material terms of the employment agreement with the Company: 
+
+Mr.
+ Strauss is an at-will employee with an annual salary of 400,000; and 
+ 
+ Mr.
+ Strauss is eligible to participate in the compensation and benefit programs generally available
+ to the Company s executive officers. 
+
+Equity
+Awards Outstanding at 2022 Year-End 
+
+The
+following table summarizes the total outstanding equity awards as of December 31, 2022, for each of the named executive officers in the
+Summary Compensation Table. 
+
+Option
+ Awards 
+ 
+ Stock Awards 
+
+Name 
+ 
+ Number
+ of 
+ securities 
+ underlying
+ unexercised options 
+ (#) 
+ exercisable 
+ 
+ Number
+ of 
+ securities 
+ underlying
+ unexercised options 
+ (#) 
+ un-exercisable 
+
+Option
+ exercise price ) 
+
+Option
+ expiration date 
+
+Daniel
+ Strauss (1) 
+ 
+ 760 
+ 
+ 0 
+ 
+ 106 
+ 
+ 09/06/2029 
+ 
+ 0 
+ 
+ Francis
+ Ruchalski 
+ 
+ 0 
+ 
+ 0 
+
+0 
+
+(1) One-half
+ of Mr. Strauss s stock options vested on the date of grant, and the remainder vested
+ in 24 quarterly installments beginning October 1, 2019. 
+
+41 
+
+Director
+Compensation for 2022 
+
+The
+table below provides information relating to compensation of our directors for 2022. 
+
+Name 
+ 
+ Fees
+ Earned or Paid in Cash ) 
+
+Stock 
+ Awards
+ ) 
+
+Option 
+ Awards
+ ) (1) 
+
+All
+ Other Compensation ) 
+ 
+ Total
+ ) 
+ 
+ Joseph
+ A. De Perio 
+ 
+ 30,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 30,000 
+ 
+ Robert
+ Searing 
+ 
+ 60,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 60,000 
+ 
+ Alex
+ Spiro 
+ 
+ 60,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 60,000 
+ 
+ Robert
+ Torricelli 
+ 
+ 60,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 60,000 
+
+(1) The
+ aggregate number of outstanding stock option awards to each director as of December 31, 2022
+ are as follows: Mr. De Perio, 165; Mr. Searing, 145; Mr. Spiro, 145; Mr. Torricelli, 145. 
+
+Pay
+Versus Performance 
+
+The
+table below provides information relating to pay versus performance. 
+
+Summary
+ Compensation Table Total for PEO 
+ 
+ Compensation
+ Actually Paid to PEO 
+
+Average
+ Summary Compensation Table Total for Non-PEO NEOs 
+
+Average
+ Compensation Actually Paid to Non-PEO NEOs 
+
+Value
+ of Initial Fixed 100 Investment Based On Total Shareholder Return 
+ 
+ Net
+ Income (loss) in millions 
+
+2022 
+ 
+ 400,000 
+ 
+ 400,000 
+ 
+ 350,000 
+ 
+ 350,000 
+ 
+ 844.69 
+ 
+ (3.0) 
+
+2021 
+ 
+ 432,500 
+ 
+ 400,000 
+ 
+ 382,500 
+ 
+ 350,000 
+ 
+ 7.34 
+ 
+ 29.0 
+
+Daniel
+Strauss is the Company s principal executive officer PEO ). Non-PEO named executive officers NEOs include Francis Ruchalski, the Company s Chief Financial Officer. 
+
+There
+is no relationship between financial performance measures included in the table and compensation actually payed to its PEO or NEOs. 
+
+The
+value of a hypothetical initial fixed 100 investment in the Company s stock is based on the Company s share price on the
+OTCQB as of December 31 of the prior year, measured to December 31 of the reporting year. Over the counter quotations reported by OTC Markets
+reflect inter-dealer prices, without retail mark-up, mark-down or commission, and may not represent actual transactions. No dividends
+were declared or paid during any of the measurement periods. 
+
+Indemnification
+Agreements 
+
+It
+is our policy to indemnify directors and officers against any costs, expenses and other liabilities to which they may become subject
+by reason of their service to us and to insure our directors and officers against such liabilities to the extent permitted by applicable
+law. Our bylaws provide for indemnification of our directors, officers and employees against those costs, expenses and other liabilities
+as long as the director, officer or employee acted in good faith and in a manner he or she reasonably believed to be in, or not opposed
+to, our best interests. We also enter into indemnity agreements with each of our directors pursuant to which we agree to indemnify each
+director to the full extent provided by applicable law and our bylaws as currently in effect. 
+
+Non-employee
+directors are compensated for Board service in accordance with the following: 
+
+Annual
+ Retainer: 30,000 
+
+Committee
+ Chairman Fee: 30,000 (in addition to the Annual Retainer received by all Directors) 
+
+The
+Nominating and Governance Committee reviews Board compensation every year. 
+
+In
+lieu of cash, non-employee directors may elect to receive all or part of their Annual Retainer, Non-Executive Chairman fee, Committee
+Chairman fee and meeting fees in shares of common stock or in restricted stock units equivalent to shares of common stock. 
+
+42 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+table below shows the number of shares of our outstanding common stock, as of April 7, 2023, held by each person that we know owns beneficially
+(as defined by the SEC for proxy statement purposes) more than 5 of any class of our voting stock. The beneficial ownership percentages
+listed below are based on 25,170 shares of common stock outstanding as of April 7, 2023. 
+
+Name
+ of Beneficial Owner 
+ 
+ Amount
+ and Nature of Beneficial Ownership 
+ 
+ Percent
+ of 
+ Class 
+ 
+ George
+ Hall 
+ 80
+ West River Road 
+ Rumson
+ NJ 07760 
+ 
+ 7,578 
+ 
+ 30.1 
+ 
+ Allspring
+ Global Investments Holdings, LLC (1) 
+ 525
+ Market St, 10 th F1 
+ San
+ Francisco CA 94105 
+ 
+ 2,515 
+ 
+ 10.0 
+
+(1) The
+ beneficial owner has sole voting power and investment power as to 2,223 shares, shared voting
+ power as to zero shares, and shared investment power as to 2,515 shares, including beneficial
+ ownership by Allspring Funds Management, LLC, Allspring Global Investments, LLC, and Allspring
+ Global Investment Holdings, LLC. Information relating to this beneficial owner is taken from
+ Schedule 13G, filed January 18, 2022. 
+
+The
+table below shows the number of shares of our common stock beneficially owned, as of April 7, 2023, by each director, each nominated
+director, each current executive officer named in the Summary Compensation Table in this proxy statement, and all directors and executive
+officers as a group. Except as otherwise indicated, the named person has sole voting and investment power with respect to the shares
+held by that person, and the shares are not subject to any pledge. The beneficial ownership percentages listed below are based on 25,170
+shares of common stock outstanding as of April 7, 2023. 
+
+Name
+ of Beneficial Owner 
+ 
+ Amount
+ and Nature of Beneficial Ownership 
+ 
+ Percent
+ of Class 
+ 
+ Daniel
+ Strauss (Chief Executive Officer) 
+ 
+ 760
+ (1) 
+ 
+ 3.0 
+ 
+ Francis
+ Ruchalski (Chief Financial Officer) 
+ 
+ 0 
+ 
+ - 
+ 
+ Joseph
+ De Perio (Former Chairman and Principal Executive Officer) 
+ 
+ 788
+ (2) 
+ 
+ 3.1 
+ 
+ Robert
+ Searing Director 
+ 
+ 346
+ (3) 
+ 
+ 1.4 
+ 
+ Alex
+ Spiro Director 
+ 
+ 502
+ (3) 
+ 
+ 2.0 
+ 
+ Robert
+ G. Torricelli Director 
+ 
+ 225
+ (3) 
+ 
+ 0.9 
+ 
+ All
+ Directors and Executive Officers as a Group (6 Persons) 
+ 
+ 2,621
+ (4) 
+ 
+ 10.4 
+
+(1) Includes
+ 760 shares issuable pursuant to a currently exercisable option. 
+ 
+ (2) Includes
+ 165 shares issuable pursuant to a currently exercisable option. 
+ 
+ (3) Includes
+ 145 shares issuable pursuant to a currently exercisable option. 
+ 
+ (4) Includes
+ 1,360 shares issuable pursuant to currently exercisable options. 
+
+Item
+13. Certain Relationships and Related Transactions and Director Independence. 
+
+Related
+Party Transactions 
+
+On
+July 31, 2021, Mr. Hall and Mr. De Perio agreed to accept 2,354,736 and 1,060,264, respectively, from the Company in satisfaction of
+its obligations to them in the amounts of 12,116,718 and 5,455,782, respectively. The obligations were due December 12, 2022 and bore
+interest at a 5 annual rate. Accordingly, GLAE s obligations in the amounts of 12,116,718 and 5,455,782 have been paid in full. 
+
+Also
+on July 31, 2021, as part of the settlement of the Stock Purchase Agreement, the Company assigned obligations owed to it from Sport-BLX,
+totaling 4,176,102, to FDC, of which Mr. Hall and Mr. De Perio are controlling stockholders, for 400,000. 
+
+The
+net gain on the settlement of the Stock Purchase Agreement and the assignment of obligations to FDC are related party gains, and, as
+such, were recorded as equity transactions in the Consolidated Balance Sheets, rather than recognized as income in the Consolidated Statements of Operations. 
+
+On
+December 30, 2021, the Company completed a series of transactions for the purpose of disposing of its interest in SportBLX, described
+below: 
+
+On
+ December 21, 2021, SportBLX sold proprietary code to S-BLX Securities, a related party, for
+ 225,000. 
+
+On
+ December 24, 2021, SportBLX repurchased 1,500,000 of its debt from FDC, a related party,
+ for 126,000. FDC is controlled by George E. Hall and Joseph A. De Perio, who are beneficial
+ owners of the Company. 
+
+Finally,
+ on December 30, 2021, the Company completed the disposition of its entire interest in SportBLX,
+ selling all of its shares to FDC for 137,038. 
+
+43 
+
+Related
+Person Transaction Policy 
+
+In
+accordance with our policy regarding transactions with related persons, our Chief Financial Officer and the Audit and Finance Committee
+are responsible for the review and approval of all transactions with related persons that are required to be disclosed under the rules
+of the SEC. Under the policy, a related person includes any of our directors or executive officers, certain of our stockholders
+and any of their respective immediate family members. The policy applies to transactions in which the Company is a participant, the amount
+involved exceeds 120,000, and a related person has a direct or indirect material interest. A related person s material interest
+in a transaction is to be determined based on the significance of the information to investors in light of all the circumstances. Under
+the policy, key management meets quarterly to review the list of related parties and to discuss related party transactions. The Audit
+and Finance Committee also reviews each new, existing or proposed related party transaction, including the terms of the transaction,
+the business purpose of the transaction, and the benefits to GlassBridge and to the relevant related party. In determining whether to
+approve a related party transaction, the Audit and Finance Committee will consider the factors it deems relevant to the related party
+transaction, including, among other things, whether the terms of the related party transaction are fair to the Company on the same basis
+as would apply if the transaction did not involve a related party. 
+
+Director
+Independence 
+
+Our
+Board of Directors has reviewed whether our directors and nominees are independent. Our Board considers to not be independent
+any person having a relationship that would interfere with the exercise of independent judgment in carrying out the person s responsibilities
+as a director. The following persons will be considered not independent: 
+
+a
+ director who is, or at any time during the past three years was, an executive officer or
+ employee of the Company; 
+
+a
+ director who accepted or has a family member who accepted any compensation from the Company
+ exceeding 120,000 during any year within the three years preceding the determination of
+ independence, other than compensation for Board or Board committee service; compensation
+ paid to a family member who is an employee (other than an executive officer) of the Company;
+ or benefits under a tax-qualified retirement plan or nondiscretionary compensation; or 
+
+a
+ director who is a family member of a person who is, or at any time during the past three
+ years was, employed by the Company as an executive officer. 
+
+Family
+member means a person s spouse, parents, children, and siblings, whether by birth, marriage, or adoption, or anyone residing
+in that person s home. 
+
+None
+of the directors or nominees, except Mr. De Perio, had a relationship with the Company that the Board considers would interfere with
+the director s or nominee s independence or would not be independent under the enumerated criteria. Therefore, the Board
+determined that each of the directors and nominees, except Mr. De Perio, is independent. 
+
+In
+2022, the Board also reviewed whether the Audit and Finance Committee had an audit committee financial expert as defined in the SEC rules
+and the OTCQB rules. The Board reviewed the skills and experience required under the rules and determined that Mr. Searing qualifies
+as an audit committee financial expert as defined under those rules. 
+
+44 
+
+Item
+14. Principal Accountant Fees and Services. 
+
+Audit
+and Other Fees 
+
+Below
+is a listing of the services provided by type and amount charged to us by our independent registered public accounting firm for 2022
+and 2021. 
+
+2022 
+ 2021 
+ 
+ Audit
+ Fees: GAAP
+ and statutory audits 
+ 56,613 
+ 51,147 
+ 
+ Audit-Related
+ Fees: 
+ Services
+ related to business transactions 
+ 0 
+ 0 
+ 
+ Total Audit-Related Fees 
+ 56,613 
+ 51,147 
+ 
+ Tax Fees (tax preparation,
+ advice and consulting) 
+ 0 
+ 0 
+ 
+ All
+ Other Fees: Other
+ Business Consulting Fees 
+ 0 
+ 0 
+
+Audit
+and Finance Committee Pre-Approval Policy of Audit and Permissible Non-Audit Services 
+
+All
+the services provided by our independent registered public accounting firm are subject to pre-approval by the Audit and Finance Committee.
+The Audit and Finance Committee has authorized the Chairman of the Audit and Finance Committee to approve services by our independent
+registered public accounting firm in the event there is a need for approval prior to the next full Audit and Finance Committee meeting.
+The Chairman reports any pre-approval decisions to the Audit and Finance Committee at its next scheduled meeting. 
+
+With
+respect to each proposed pre-approved service, our independent registered public accounting firm provides back-up documentation as requested,
+including estimated fees regarding the specific services to be provided. The Audit and Finance Committee (or its Chairman, as applicable)
+reviews the services and the estimated fees and considers whether approval of the proposed services will have a detrimental impact on
+our independent registered public accounting firm s independence prior to approving any service. At least annually, a member of
+our management reports to the Audit and Finance Committee all audit and non-audit services performed during the previous twelve months
+and all fees billed by our independent registered public accounting firm for those services. 
+
+In
+2022 and 2021, all audit services, audit-related services, tax services and those items described above under all other fees were pre-approved
+by the Audit and Finance Committee or its Chairman. 
+
+45 
+
+PART
+IV 
+
+Item
+15 . Exhibits and Financial Statement Schedules. 
+
+List
+of Documents Filed as Part of this Report 
+
+1.
+ Financial Statements 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm PCAOB ID 
+ 16 
+ 
+ Consolidated Statements of Operations for the Years Ended December 31, 2022 and 2021 
+ 18 
+ 
+ Consolidated Balance Sheets as of December 31, 2022 and 2021 
+ 19 
+ 
+ Consolidated Statements of Shareholders Equity (Deficit) Years Ended December 31, 2022 and 2021 
+ 20 
+ 
+ Consolidated Statements of Cash Flows for the Years Ended December 31, 2022 and 2021 
+ 21 
+ 
+ Notes to Consolidated Financial Statements 
+ 22 
+
+2.
+ Financial Statement Schedules 
+
+All
+financial statement schedules are omitted because of the absence of the conditions under which they are required or because the required
+information is included in the Consolidated Financial Statements or the notes thereto. 
+
+3.
+ Exhibits 
+
+The
+following exhibits are filed as part of this report: 
+
+Incorporated
+ by Reference to: 
+ 
+ Exhibit
+ No. 
+ 
+ Description 
+ 
+ Document 
+ 
+ Exh. No. 
+ 
+ 3.1 
+ 
+ Amended and Restated Certificate of Incorporation 
+ 
+ [1] 
+ 
+ 3.1 
+ 
+ 3.2 
+ 
+ Amendment to Restated Certificate of Incorporation 
+ 
+ [1] 
+ 
+ 3.2 
+ 
+ 3.3 
+ 
+ Certificate of Correction 
+ 
+ [1] 
+ 
+ 3.3 
+ 
+ 3.4 
+ 
+ Certificate of Designation of Series A Participating Preferred Stock 
+ 
+ [1] 
+ 
+ 3.4 
+ 
+ 3.5 
+ 
+ Amended and Restated Bylaws 
+ 
+ [2] 
+ 
+ 3.1 
+ 
+ 4.1 
+ 
+ Rights Agreement, dated as of December 1, 2021, by and between the Company and Equiniti Trust Company, as Rights Agent 
+ 
+ [1] 
+ 
+ 4.1 
+ 
+ 4.2 
+ 
+ Description of securities registered pursuant to Exchange Act Sec. 12 
+
+10.1 
+ 
+ Unsecured Demand Note, dated December 27, 2019, issued by Sport-BLX, Inc. to the Company 
+ 
+ [3] 
+ 
+ 10.1 
+ 
+ 10.2 
+ 
+ Stock Purchase Agreement, dated December 12, 2019, between Joseph A. De Perio and the Company 
+ 
+ [3] 
+ 
+ 10.2 
+ 
+ 10.3 
+ 
+ Unsecured Demand Note, dated December 6, 2019 and effective October 1, 2019, issued by Sport-BLX, Inc. to the Company 
+ 
+ [3] 
+ 
+ 10.3 
+ 
+ 10.4 
+ 
+ Promissory Note, dated September 30, 2019, issued by the Company to Imation Enterprises Corp. 
+ 
+ [4] 
+ 
+ 10.1 
+ 
+ 10.5 
+ 
+ Promissory Note, dated September 30, 2019, issued by the Company to Imation Enterprises Corp. 
+ 
+ [4] 
+ 
+ 10.2 
+ 
+ 10.6 
+ 
+ Assignment of Claims Agreement, dated September 30, 2019, by and among the Company and Imation Enterprises Corp. 
+ 
+ [4] 
+ 
+ 10.6 
+ 
+ 10.7 
+ 
+ Equity Assignment Agreement, dated September 30, 2019, by and among the Company, Imation Enterprises Corp and Sport-BLX, Inc. with respect to Sections 5, 6, 8, 9, 10, 11, 12, and 13 
+ 
+ [4] 
+ 
+ 10.7 
+ 
+ 10.8 
+ 
+ Litigation Finance Management Agreement, dated as of May 21, 2018 and effective as of May 1, 2018, by and between Imation Europe B.V. and Mach 5 B.V. 
+ 
+ [5] 
+ 
+ 10.1 
+ 
+ 10.9 
+ 
+ Settlement Agreement, dated as of December 21, 2018, by and among Zentralstelle f r private berspielungsrechte (ZP Gesellschaft des b rgerlichen Rechts, and its members; and TME GmbH, Imation Europe B.V. and GlassBridge Enterprises, Inc. (formerly: Imation, Corp.) 
+ 
+ [6] 
+ 
+ 10.1 
+ 
+ 10.10 
+ 
+ Loan and Security Agreement, dated July 21, 2020, among ESW Holdings, LLC, Adara Enterprises Corp., and the Company 
+ 
+ [7] 
+ 
+ 10.5 
+
+46 
+
+10.11 
+ 
+ Stock Purchase Agreement, dated December 30, 2021, between registrant and Fintech Debt Corp. 
+ 
+ [8] 
+ 
+ 10.11 
+ 
+ 10.12 
+ 
+ Agreement, dated July 31, 2021, among George E. Hall, Joseph A. DePerio, and the registrant 
+ 
+ [9] 
+ 
+ 10.1 
+ 
+ 10.13 
+ 
+ Demand Note Assignment, dated July 31, 2021, among the registrant, Fintech Debt Corp., and Sport-BLX, Inc. 
+ 
+ [9] 
+ 
+ 10.2 
+ 
+ 10.14 
+ 
+ Term Loan and Security Agreement, dated August 2, 2021, among the registrant, the Guarantors, and Gazellek Holdings I, LLC 
+ 
+ [9] 
+ 
+ 10.3 
+ 
+ 10.15 
+ 
+ Consulting Agreement between Gazellek Holdings I, LLC and the registrant, dated August 2, 2021 
+ 
+ [9] 
+ 
+ 10.4 
+ 
+ 10.16 
+ 
+ Common Stock Purchase Warrant, dated August 2, 2021, issued to Gazellek Holdings I, LLC 
+ 
+ [9] 
+ 
+ 10.5 
+ 
+ 10.17 
+ 
+ Common Stock Purchase Warrant, dated August 2, 2021, issued to Gazellek Holdings I, LLC 
+ 
+ [9] 
+ 
+ 10.6 
+ 
+ 10.18 
+ 
+ Amended and Restated Employment Agreement, dated August 1, 2021, between the registrant and Daniel Strauss 
+ 
+ [9] 
+ 
+ 10.7 
+ 
+ 21.1 
+ 
+ Subsidiaries of GlassBridge Enterprises, Inc. 
+
+24.1 
+ 
+ Power of Attorney (included on signature page) 
+
+31.1 
+ 
+ Certification of Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of Principal Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of Principal Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+32.2 
+ 
+ Certification of Principal Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+Filed herewith 
+
+ [1]
+Registrant s Current Report on Form 8-K, filed 12/1/2021 
+
+ [2]
+Registrant s Current Report on Form 8-K, filed 1/29/2021 
+
+ [3]
+Registrant s Annual Report on Form 10-K f/y/e/ 12/31/2019 
+
+ [4]
+Registrant s Quarterly Report on Form 10-Q, f/q/e 9/30/2019 
+
+ [5]
+Registrant s Current Report on Form 8-K, filed 5/23/2018 
+
+ [6]
+Registrant s Current Report on Form 8-K, filed 12/28/2018 
+
+ [7]
+Registrant s Quarterly Report on Form 10-Q, f/q/e 9/30/2020 
+
+ [8]
+Registrant s Annual Report on Form 10-K f/y/e/ 12/31/2021 
+
+ [9]
+Registrant s Quarterly Report on Form 10-Q, f/q/e 6/30/2021 
+
+Item
+16 . Form 10-K Summary. 
+
+None. 
+
+47 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+GlassBridge
+ Enterprises, Inc. 
+
+By: 
+ /s/
+ Daniel Strauss 
+
+Daniel
+ Strauss 
+
+Chief
+ Executive Officer 
+
+Date:
+April 7, 2023 
+
+48 
+
+POWER
+OF ATTORNEY 
+
+Each
+person whose signature appears below constitutes and appoints Joseph De Perio and Daniel Strauss his or her true and lawful attorney-in-fact
+and agent, with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all
+capacities, to sign any or all amendments to this Annual Report on Form 10-K, and to file the same, with all, exhibits thereto and other
+documents in connection therewith, with the U.S. Securities and Exchange Commission, granting unto said attorney-in-fact and agent full
+power and authority to do and perform each, and every act and thing requisite and necessary to be done in and about the premises, as
+fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorney-in-fact
+and agent, or the substitute of any or all of them, may lawfully do or cause to be done by virtue hereof. 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Alex Spiro 
+ 
+ Chairman 
+ 
+ April 7, 2023 
+ 
+ Alex
+ Spiro 
+
+/s/
+ Daniel Strauss 
+ 
+ Chief
+ Executive Officer 
+ 
+ April 7, 2023 
+ 
+ Daniel
+ Strauss 
+
+/s/
+ Francis Ruchalski 
+ 
+ Chief
+ Financial Officer 
+ 
+ April 7, 2023 
+ 
+ Francis
+ Ruchalski 
+
+/s/
+ Robert Searing 
+ 
+ Director 
+ 
+ April 7, 2023 
+ 
+ Robert
+ Searing 
+
+/s/
+ Joseph De Perio 
+ 
+ Director 
+ 
+ April 7, 2023 
+ 
+ Joseph
+ De Perio 
+
+/s/
+ Robert G. Torricelli 
+ 
+ Director 
+ 
+ April 7, 2023 
+ 
+ Robert
+ G. Torricelli 
+
+49 
+
+<EX-4.2>
+ 2
+ ex4-2.htm
+
+Exhibit
+4.2 
+
+DESCRIPTION
+OF REGISTRANT S SECURITIES REGISTERED PURSUANT TO SECTION 12 OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+References
+to Glassbridge and the Company herein are, unless the context otherwise indicates, only to Glassbridge Enterprises
+, Inc. and not to any of its subsidiaries. As of December 31, 2022, the end of the period covered by this Annual Report on Form 10-K,
+Glassbridge has two classes of securities registered under Section 12 of the Securities Exchange Act of 1934, as amended (the Exchange
+Act ), the Company s Preferred Stock Purchase Rights and Common Stock. 
+
+The
+following description of the Company s capital stock and provisions of the Company s Amended and Restated Certificate of
+Incorporation, Amendment to the Amended and Restated Certificate of Incorporation, Certificate of Correction, Amended and Restated Bylaws
+and the Delaware General Corporation Law are summaries and are qualified in their entirety by reference to the Company s Amended
+and Restated Certificate of Incorporation, Amendment to the Amended and Restated Certificate of Incorporation, Certificate of Correction
+and Company s Amended and Restated Bylaws. Copies of these documents have been filed with the SEC as exhibits to the Annual Report
+on Form 10-K to which this description has been filed as an exhibit. Pursuant to the Company s Amended and Restated Certificate
+of Incorporation and Amendment to the Amended and Restated Certificate of Incorporation, as corrected by the Certificate of Correction
+dated May 21, 2020, the Company s authorized capital stock is 250,000, consisting of 50,000 shares of common stock, par value of
+ 0.01 per share (referred to as the Company s common stock), and 200,000 shares of preferred stock, par value 0.01 per share (referred
+to as the Company s preferred stock), to be designated from time to time by the Company s board of directors. 
+
+Common
+Stock 
+
+Holders
+of common stock are entitled to one vote per share on any matter to be voted upon by stockholders. All shares rank equally as to voting
+and all other matters. The shares of common stock have no preemptive or conversion rights, no redemption or sinking fund provisions,
+are not liable for further call or assessment and are not entitled to cumulative voting rights. For as long as such stock is outstanding,
+the holders of common stock are entitled to receive ratably any dividends when and as declared from time to time by Company s board
+of directors out of funds legally available for dividends. Upon a liquidation or dissolution of the Company, whether voluntary or involuntary,
+creditors will be paid before any distribution to holders of common stock. After such distribution, holders of common stock are entitled
+to receive a pro rata distribution per share of any excess amount. As of April 7, 2023, there were 25,170 shares of common stock outstanding. 
+
+Preferred
+Stock Purchase Right 
+
+In
+November 2021, the Company s board of directors adopted a rights plan intended to avoid an ownership change within
+the meaning of Section 382 of the Code, and thereby preserve the current ability of the Company to utilize certain net operating loss
+carryforwards and other tax benefits of the Company and its subsidiaries (the Tax Benefits ). If the Company experiences
+an ownership change, as defined in Section 382 of Code, the Company s ability to fully utilize the Tax Benefits on
+an annual basis will be substantially limited, and the timing of the usage of the Tax Benefits and such other benefits could be substantially
+delayed, which could therefore significantly impair the value of those assets. The rights plan is intended to act as a deterrent to any
+person or group acquiring beneficial ownership of 4.9 or more of the Company s outstanding shares of common stock,
+without the approval of the board. The description and terms of the Rights (as defined below) applicable to the rights plan are set forth
+in the 382 Rights Agreement, dated as of December 1, 2021 (the Rights Agreement ), by and between the Company and Equiniti
+Trust Company, as Rights Agent. 
+
+As
+part of the Rights Agreement, the board authorized and declared a dividend distribution of one right (a Right for each
+outstanding share of the Company s common stock, to stockholders of record at the close of business on December 1, 2021. Each Right
+entitles the holder to purchase from the Company a unit consisting of one one-hundredth of a share (a Unit of Series A
+Participating Preferred Stock, par value 0.01 per share, of the Company (the Preferred Stock at a purchase price of 
+1,000.00 per Unit, subject to adjustment (the Purchase Price ). Until a Right is exercised, the holder thereof, as such,
+will have no separate rights as a stockholder of the Company, including the right to vote or to receive dividends in respect of Rights. 
+
+Under
+the Rights Agreement, an Acquiring Person is any person or group of affiliated or associated persons (a Person who is or becomes the beneficial owner of 4.9 or more of the outstanding shares of the Company s common stock other than as a
+result of repurchases of stock by the Company, dividends or distribution by the Company, stock issued under certain benefit plans or
+certain inadvertent actions by stockholders. For purposes of calculating percentage ownership under the Rights Agreement, outstanding
+shares of the Company s common stock include all of the shares of common stock actually issued and outstanding. Beneficial ownership
+is determined as provided in the Rights Agreement and generally includes, without limitation, any ownership of securities a Person would
+be deemed to actually or constructively own for purposes of Section 382 of the Code or the Treasury Regulations promulgated thereunder.
+The Rights Agreement provides that the following shall not be deemed an Acquiring Person for purposes of the Rights Agreement: (i) the
+Company or any subsidiary of the Company and any employee benefit plan of the Company, or of any subsidiary of the Company, or any Person
+or entity organized, appointed or established by the Company for or pursuant to the terms of any such plan or (ii) any Person that, as
+of December 1, 2021, is the beneficial owner of 4.9 or more of the shares of Common Stock outstanding (such Person, an Existing
+Holder unless and until such Existing Holder acquires beneficial ownership of additional shares of common stock (other than pursuant
+to a dividend or distribution paid or made by the Company on the outstanding shares of common stock or pursuant to a split or subdivision
+of the outstanding shares of common stock) in an amount in excess of 0.5 of the outstanding shares of common stock. 
+
+The
+Rights Agreement provides that a Person shall not become an Acquiring Person for purpose of the Rights Agreement in a transaction that
+the board determines is exempt from the Rights Agreement, which determination shall be made in the sole and absolute discretion of the
+board, upon request by any Person prior to the date upon which such Person would otherwise become an Acquiring Person, including, without
+limitation, if the board determines that (i) neither the beneficial ownership of shares of common stock by such Person, directly or indirectly,
+as a result of such transaction nor any other aspect of such transaction would jeopardize or endanger the availability to the Company
+of the Tax Benefits or (ii) such transaction is otherwise in the best interests of the Company. 
+
+Initially,
+the Rights will not be exercisable and will be attached to all common stock representing shares then outstanding, and no separate Rights
+certificates will be distributed. Subject to certain exceptions specified in the Rights Agreement, the Rights will separate from the
+common stock and become exercisable and a distribution date (a Distribution Date will occur upon the earlier of (i) 10
+business days (or such later date as the board shall determine) following a public announcement that a Person has become an Acquiring
+Person or (ii) 10 business days (or such later date as the board shall determine) following the commencement of a tender offer, exchange
+offer or other transaction that, upon consummation thereof, would result in a Person becoming an Acquiring Person. 
+
+Until
+the Distribution Date, common stock held in book-entry form, or in the case of certificated shares, common stock certificates, will evidence
+the Rights and will contain a notation to that effect. Any transfer of shares of common stock prior to the Distribution Date will constitute
+a transfer of the associated Rights. After the Distribution Date, the Rights may be transferred on the books and records of the Rights
+Agent as provided in the Rights Agreement. 
+
+If
+on or after the Distribution Date, a Person is or becomes an Acquiring Person, each holder of a Right, other than certain Rights including
+those beneficially owned by the Acquiring Person (which will have become void), will have the right to receive upon exercise common stock
+(or, in certain circumstances, cash, property or other securities of the Company) having a value equal to two times the Purchase Price. 
+
+In
+the event that, at any time following the first date of a public announcement that a Person has become an Acquiring Person or that discloses
+information which reveals the existence of an Acquiring Person or such earlier date as a majority of the board becomes aware of the existence
+of an Acquiring Person (any such date, the Stock Acquisition Date ), (i) the Company engages in a merger or other business
+combination transaction in which the Company is not the surviving corporation, (ii) the Company engages in a merger or other business
+combination transaction in which the Company is the surviving corporation and the common stock of the Company is changed or exchanged
+or (iii) 50 or more of the Company s assets, cash flow or earning power is sold or transferred, each holder of a Right (except
+Rights which have previously been voided as set forth above) shall thereafter have the right to receive, upon exercise, common stock
+of the acquiring company having a value equal to two times the Purchase Price. 
+
+At
+any time following the Stock Acquisition Date and prior to the acquisition by the Acquiring Person of 50 or more of the outstanding
+common stock, the board may exchange the Rights (other than Rights owned by such Person which have become void), in whole or in part,
+for common stock or Preferred Stock at an exchange ratio of one share of common stock, or one one-hundredth of a share of Preferred Stock
+(or of a share of a class or series of the Company s preferred stock having equivalent rights, preferences and privileges), per
+Right, subject to adjustment. 
+
+The
+Rights and the Rights Agreement will expire on the earliest of (i) 5:00 P.M. New York City time on December 1, 2024, (ii) the time at
+which the Rights are redeemed or exchanged pursuant to the Rights Agreement, (iii) the date on which the board determines that the Rights
+Agreement is no longer necessary for the preservation of material valuable Tax Benefits or is no longer in the best interest of the Company
+and its stockholders, (iv) the beginning of a taxable year to which the board determines that no Tax Benefits may be carried forward. 
+
+At
+any time until the earlier of the Distribution Date or the expiration date of the Rights, the Company may redeem the Rights in whole,
+but not in part, at a price of 0.001 per Right. Immediately upon the action of the board ordering redemption of the Rights, the Rights
+will terminate and the only right of the holders of Rights will be to receive the 0.001 redemption price. 
+
+Preferred
+Stock 
+
+Under
+the Company s Amended and Restated Certificate of Incorporation, the Company s board of directors has authority to issue
+up to 200,000 shares of preferred stock without stockholder approval. The Company s board of directors may also determine or alter
+for each class of preferred stock the voting powers, designations, preferences, and special rights, qualifications, limitations, or restrictions
+as permitted by law. The Company s board of directors may authorize the issuance of preferred stock with voting or conversion rights
+that could adversely affect the voting power or other rights of the holders of the common stock. Issuing preferred stock provides flexibility
+in connection with possible acquisitions and other corporate purposes, but could also, among other things, have the effect of delaying,
+deferring or preventing a change in control of Glassbridge and may adversely affect the market price of the Company s common stock
+and the voting and other rights of the holders of common stock. 
+
+The
+Company s board of directors will fix the rights, preferences, privileges, qualifications and restrictions of the preferred stock
+of each series that Glassbridge issues in the certificate of designation relating to that series. This will include: 
+
+the title and
+ stated value; 
+
+the number of shares being
+ authorized; 
+
+the liquidation preference
+ per share; 
+
+the purchase price per
+ share; 
+
+the currency for which
+ the shares may be purchased; 
+
+the dividend rate per share,
+ dividend period and payment dates and method of calculation for dividends; 
+
+whether dividends will
+ be cumulative or non-cumulative and, if cumulative, the date from which dividends will accumulate; 
+
+the Company s
+ right, if any, to defer payment of dividends and the maximum length of any such deferral period; 
+
+the procedures for any
+ auction and remarketing, if any; 
+
+the provisions
+ for a sinking fund, if any; 
+
+the provisions for redemption
+ or repurchase, if applicable, and any restrictions on the Company s ability to exercise those redemption and repurchase rights; 
+
+any listing of the preferred
+ stock on any securities exchange or market; 
+
+whether the preferred stock
+ will be convertible into the Company s common stock or other securities of the Company, and, if applicable, the conversion
+ period, the conversion price, or how it will be calculated, and under what circumstances it may be adjusted; 
+
+voting rights, if any,
+ of the preferred stock; 
+
+restrictions on transfer,
+ sale or other assignment, if any; 
+
+the relative ranking and
+ preferences of the preferred stock as to dividend rights and rights if the Company liquidates, dissolves or winds up its affairs; 
+
+any limitations on issuances
+ of any class or series of preferred stock ranking senior to or on a parity with the series of preferred stock being issued as to
+ dividend rights and rights if the Company liquidates, dissolves or winds up its affairs; and 
+
+any other specific terms,
+ rights, preferences, privileges, qualifications or restrictions of the preferred stock. 
+
+As
+of April 7, 2023 , there were no shares of preferred stock outstanding. 
+
+Certain
+Anti-Takeover Effects of Delaware Law and Provisions of Glassbridge s Amended and Restated Certificate of Incorporation and Bylaws 
+
+The
+Company s Amended and Restated Certificate of Incorporation and Amended and Restated Bylaws include a number of provisions that
+may have the effect of encouraging persons considering unsolicited tender offers or other unilateral takeover proposals to negotiate
+with the Company s board of directors rather than pursue non-negotiated takeover attempts. These provisions include: 
+
+No
+ written consent of stockholders . The Company s Amended and Restated Certificate of Incorporation provides that all stockholder
+ actions are required to be taken by a vote of the stockholders at an annual or special meeting, and that stockholders may not take
+ any action by written consent in lieu of a meeting. 
+
+Meetings
+ of stockholders and the board . A majority of the total number of authorized directors shall constitute a quorum at any meeting
+ of the board of directors. The Company s Amended and Restated Bylaws limit the business that may be conducted at an annual
+ meeting of stockholders to those matters properly brought before the meeting. At any meeting of stockholders (at which a quorum was
+ present to organize the meeting), all matters, except as otherwise provided by law or by the Certificate of Incorporation or the
+ Bylaws, shall be decided by a majority of the votes cast for and against such matter at such meeting by the holders of shares present
+ in person or represented by proxy and entitled to vote thereon, regardless whether a quorum is present when the vote is taken. For
+ clarity, abstentions are not votes cast. 
+
+Advance
+ notice requirements . The Company s Amended and Restated Bylaws establish advance notice procedures with regard to stockholder
+ proposals relating to the nomination of candidates for election as directors or new business to be brought before meetings of stockholders.
+ These procedures provide that notice of stockholder proposals must be timely given in writing to Glassbridge s corporate secretary
+ prior to the meeting at which the action is to be taken. Generally, to be timely, notice must be received at the Company s
+ principal executive offices not later than the close of business on the 90th day, prior to the first anniversary date of the annual
+ meeting for the preceding year; provided, however, that in the event that the annual meeting is called for a date that is not within
+ thirty (30) days before or after such anniversary date, notice by the stockholder in order to be timely must be so received before
+ the later (a) of the close of business on the twenty-first (21st) day following the day on which such notice of the date of the annual
+ meeting was mailed or the day on which public disclosure of the date of the annual meeting was made, whichever first occurs and (b)
+ the close of business on the day which is ninety (90) days prior to the date of the annual meeting. The notice must contain certain
+ information specified in the Amended and Restated Bylaws. 
+
+Amendment
+ to bylaws and certificate of incorporation . As required by the Delaware General Corporation Law, any amendment of the Company s
+ Amended and Restated Certificate of Incorporation must first be approved by a majority of the Company s board of directors
+ and 80 percent of the voting power of all of the shares of capital stock issued and outstanding and entitled to vote generally in
+ any election of directors, voting together as a single class. The Company s Amended and Restated Bylaws may be amended by the
+ affirmative vote of a majority vote of the directors then in officeor by the affirmative vote of at least 80 percent of the voting
+ power of all of the shares of capital stock issued and outstanding and entitled to vote generally in any election of directors, voting
+ together as a single class. 
+
+Blank check preferred
+ stock . As described above, the Company s Amended and Restated Certificate of Incorporation authorizes 200,000 shares of
+ preferred stock. The existence of authorized but unissued shares of preferred stock may enable Glassbridge s board of directors
+ to render more difficult or to discourage an attempt to obtain control of Glassbridge by means of a merger, tender offer, proxy contest,
+ or otherwise. For example, if in the due exercise of its fiduciary obligations, the Company s board of directors were to determine
+ that a takeover proposal is not in the best interests of the Company or its stockholders, the board of directors could cause shares
+ of preferred stock to be issued without stockholder approval in one or more private offerings or other transactions that might dilute
+ the voting or other rights of the proposed acquirer or insurgent stockholder or stockholder group. In this regard, the Company s
+ Amended and Restated Certificate of Incorporation grants the board of directors broad power to establish the rights and preferences
+ of authorized and unissued shares of preferred stock. The issuance of shares of preferred stock could decrease the amount of earnings
+ and assets available for distribution to holders of shares. The issuance may also adversely affect the rights and powers, including
+ voting rights, of these holders and may have the effect of delaying, deterring, or preventing a change in control of Glassbridge. 
+
+In
+addition, Glassbridge is subject to the provisions of Section 203 of the Delaware General Corporation Law. In general, Section 203 prohibits
+a publicly held Delaware corporation from engaging in a business combination with an interested stockholder 
+for a three-year period following the time that this stockholder becomes an interested stockholder, unless the business combination is
+approved in a prescribed manner. A business combination includes, among other things, a merger, asset or stock sale, or
+other transaction resulting in a financial benefit to the interested stockholder. An interested stockholder is a person
+who, together with affiliates and associates, owns, or did own within three years prior to the determination of interested stockholder
+status, 15 or more of the corporation s voting stock. 
+
+Because
+of these provisions, persons considering unsolicited tender offers or other unilateral takeover proposals may be more likely to negotiate
+with the Company s board of directors rather than pursue non-negotiated takeover attempts. As a result, these provisions may make
+it more difficult for stockholders to benefit from transactions that are opposed by an incumbent board of directors. 
+
+</EX-4.2>
+
+<EX-21.1>
+ 3
+ ex21-1.htm
+
+Exhibit
+21.1 
+
+Subsidiaries of the Company as of April 7, 2023 
+
+Subsidiary 
+ 
+ Jurisdiction
+ of Organization 
+ 
+ GlassBridge
+ Arrive Investor, LLC 
+ 
+ Delaware 
+ 
+ GlassBridge
+ Athlete, LLC 
+ 
+ Delaware 
+ 
+ GlassBridge
+ Capital, LLC 
+ 
+ Delaware 
+ 
+ GlassBridge
+ Investment Management, LLC 
+ 
+ Delaware 
+ 
+ Memorex
+ Products Inc. 
+ 
+ Delaware 
+ 
+ NXSN
+ Acquisition Corp. 
+ 
+ Delaware 
+
+Certain
+subsidiaries listed are indirectly and/or partially-owned. 
+
+</EX-21.1>
+
+<EX-31.1>
+ 4
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+Certification
+Pursuant to Section 302 
+
+ of
+the Sarbanes-Oxley Act of 2002 
+
+I,
+Daniel Strauss, certify that: 
+
+1. I
+ have reviewed this annual report on Form 10-K of GlassBridge Enterprises, Inc.; 
+
+2. Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or
+ omit to state a material fact necessary to make the statements made, in light of the circumstances
+ under which such statements were made, not misleading with respect to the period covered
+ by this report; 
+
+3. Based
+ on my knowledge, the financial statements, and other financial information included in this
+ report, fairly present in all material respects the financial condition, results of operations
+ and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The
+ registrant s other certifying officer and I are responsible for establishing and maintaining
+ disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+ and internal control over financial reporting (as defined in Exchange Act Rules 13a - 15(f)
+ and 15d - 15(f)) for the registrant and have: 
+
+(a) Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures
+ to be designed under our supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to us by others within
+ those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+ such internal control over financial reporting, or caused such internal control over financial
+ reporting to be designed under our supervision, to provide reasonable assurance regarding
+ the reliability of financial reporting and the preparation of financial statements for external
+ purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented
+ in this report our conclusions about the effectiveness of the disclosure controls and procedures,
+ as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed
+ in this report any change in the registrant s internal control over financial reporting
+ that occurred during the registrant s most recent fiscal quarter (the registrant s
+ fourth fiscal quarter in the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant s internal control over financial
+ reporting; and 
+
+5. The
+ registrant s other certifying officer and I have disclosed, based on our most recent
+ evaluation of internal control over financial reporting, to the registrant s auditors
+ and the audit committee of the registrant s board of directors (or persons performing
+ the equivalent functions): 
+
+(a) All
+ significant deficiencies and material weaknesses in the design or operation of internal control
+ over financial reporting which are reasonably likely to adversely affect the registrant s
+ ability to record, process, summarize and report financial information; and 
+
+(b) Any
+ fraud, whether or not material, that involves management or other employees who have a significant
+ role in the registrant s internal control over financial reporting. 
+
+April
+7, 2023 
+
+By: 
+ /s/
+ Daniel Strauss 
+
+Daniel
+ Strauss, 
+
+Chief
+ Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+Certification
+Pursuant to Section 302 
+
+ of
+the Sarbanes-Oxley Act of 2002 
+
+I,
+Francis Ruchalski, certify that: 
+
+1. I
+ have reviewed this annual report on Form 10-K of GlassBridge Enterprises, Inc.; 
+
+2. Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or
+ omit to state a material fact necessary to make the statements made, in light of the circumstances
+ under which such statements were made, not misleading with respect to the period covered
+ by this report; 
+
+3. Based
+ on my knowledge, the financial statements, and other financial information included in this
+ report, fairly present in all material respects the financial condition, results of operations
+ and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The
+ registrant s other certifying officer and I are responsible for establishing and maintaining
+ disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+ and internal control over financial reporting (as defined in Exchange Act Rules 13a - 15(f)
+ and 15d - 15(f)) for the registrant and have: 
+
+(a) Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures
+ to be designed under our supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to us by others within
+ those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+ such internal control over financial reporting, or caused such internal control over financial
+ reporting to be designed under our supervision, to provide reasonable assurance regarding
+ the reliability of financial reporting and the preparation of financial statements for external
+ purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented
+ in this report our conclusions about the effectiveness of the disclosure controls and procedures,
+ as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed
+ in this report any change in the registrant s internal control over financial reporting
+ that occurred during the registrant s most recent fiscal quarter (the registrant s
+ fourth fiscal quarter in the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant s internal control over financial
+ reporting; and 
+
+5. The
+ registrant s other certifying officer and I have disclosed, based on our most recent
+ evaluation of internal control over financial reporting, to the registrant s auditors
+ and the audit committee of the registrant s board of directors (or persons performing
+ the equivalent functions): 
+
+(a) All
+ significant deficiencies and material weaknesses in the design or operation of internal control
+ over financial reporting which are reasonably likely to adversely affect the registrant s
+ ability to record, process, summarize and report financial information; and 
+
+(b) Any
+ fraud, whether or not material, that involves management or other employees who have a significant
+ role in the registrant s internal control over financial reporting. 
+
+April
+7, 2023 
+
+By: 
+ /s/
+ Francis Ruchalski 
+
+Francis
+ Ruchalski, 
+
+Chief
+ Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+Certification
+Pursuant to 
+
+ Section
+906 of the Sarbanes-Oxley Act of 2002 
+
+In
+connection with the Annual Report of GlassBridge Enterprises, Inc. (the Company on Form 10-K for the period ended December
+31, 2022, as filed with the Securities and Exchange Commission (the Report ), I, Daniel Strauss, Chief Executive Officer
+of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The
+ Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange
+ Act of 1934; and 
+
+(2) The
+ information contained in the Report fairly presents, in all material respects, the financial
+ condition and results of operations of the Company. 
+
+April
+7, 2023 
+
+/s/
+ Daniel Strauss 
+
+Daniel
+ Strauss, 
+
+Chief
+ Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ ex32-2.htm
+
+Exhibit
+32.2 
+
+Certification
+Pursuant to 
+
+ Section
+906 of the Sarbanes-Oxley Act of 2002 
+
+In
+connection with the Annual Report of GlassBridge Enterprises, Inc. (the Company on Form 10-K for the period ended December
+31, 2022, as filed with the Securities and Exchange Commission (the Report ), I, Francis Ruchalski, Chief Financial Officer
+of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The
+ Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange
+ Act of 1934; and 
+
+(2) The
+ information contained in the Report fairly presents, in all material respects, the financial
+ condition and results of operations of the Company. 
+
+April
+7, 2023 
+
+/s/
+ Francis Ruchalski 
+
+Francis
+ Ruchalski, 
+
+Chief
+ Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ glae-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ glae-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ glae-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ glae-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

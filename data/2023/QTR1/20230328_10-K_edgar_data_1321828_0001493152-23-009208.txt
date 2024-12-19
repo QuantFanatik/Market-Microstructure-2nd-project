@@ -1,0 +1,2525 @@
+<Header>
+<FileStats>
+    <FileName>20230328_10-K_edgar_data_1321828_0001493152-23-009208.txt</FileName>
+    <GrossFileSize>3072586</GrossFileSize>
+    <NetFileSize>101007</NetFileSize>
+    <NonText_DocumentType_Chars>651860</NonText_DocumentType_Chars>
+    <HTML_Chars>794558</HTML_Chars>
+    <XBRL_Chars>683373</XBRL_Chars>
+    <XML_Chars>777033</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-009208.hdr.sgml : 20230328
+<ACCEPTANCE-DATETIME>20230328090048
+ACCESSION NUMBER:		0001493152-23-009208
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		49
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230328
+DATE AS OF CHANGE:		20230328
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Data Call Technologies
+		CENTRAL INDEX KEY:			0001321828
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				300062823
+		STATE OF INCORPORATION:			CA
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54696
+		FILM NUMBER:		23766378
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 SOUTH FRIENDSWOOD DRIVE
+		STREET 2:		SUITE E
+		CITY:			FRIENDSWOOD
+		STATE:			TX
+		ZIP:			77546
+		BUSINESS PHONE:		866-219-2025
+
+	MAIL ADDRESS:	
+		STREET 1:		700 SOUTH FRIENDSWOOD DRIVE
+		STREET 2:		SUITE E
+		CITY:			FRIENDSWOOD
+		STATE:			TX
+		ZIP:			77546
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-009208.txt : 20230328
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+FORM
+
+ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIESEXCHANGE ACT OF 1934 
+
+For
+the year ended , 
+
+Commission
+file number 
+
+(Exact
+Name Of Registrant As Specified In Its Charter) 
+
+(State
+ of Incorporation) 
+ 
+ (I.R.S.
+ Employer Identification No.) 
+
+, , , 
+
+(Address
+ of Principal Executive Offices) 
+ 
+ (ZIP
+ Code) 
+
+Registrant s
+Telephone Number, Including Area Code: 
+
+Securities
+Registered Pursuant to Section 12(g) of The Act: Common Stock, 0.001 
+
+Indicate
+if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Act. Yes 
+
+Indicate
+if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate
+by check mark whether the Registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding
+12 months. No 
+
+Indicate
+by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act of 1934
+during the preceding 12 months, and (2) has been subject to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of the registrant s knowledge, in the definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K. 
+
+On
+June 30, 2022, the aggregate market value of the 109,136,655 shares of common stock held by non-affiliates was approximately 
+based on the closing price on June 30, 2022. On March 27, 2023, the Registrant had shares of common stock outstanding. 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer (as defined in Rule
+12b-2 of the Exchange Act) or a smaller reporting company. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+ 
+ Smaller
+ reporting company 
+
+Emerging growth company 
+
+Indicate
+whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+TABLE
+OF CONTENTS 
+
+Item 
+ 
+ Description 
+ 
+ Page 
+
+PART I 
+
+ITEM
+ 1. 
+ 
+ DESCRIPTION OF BUSINESS 
+ 
+ 3 
+ 
+ ITEM
+ 1A. 
+ 
+ RISK FACTORS 
+ 
+ 7 
+ 
+ ITEM
+ 1B. 
+ 
+ UNRESOLVED STAFF COMMENTS 
+ 
+ 13 
+ 
+ ITEM
+ 2. 
+ 
+ DESCRIPTION OF PROPERTY 
+ 
+ 13 
+ 
+ ITEM
+ 3. 
+ 
+ LEGAL PROCEEDINGS 
+ 
+ 13 
+ 
+ ITEM
+ 4. 
+ 
+ MINE SAFETY DISCLOSURE 
+ 
+ 13 
+
+PART II 
+
+ITEM
+ 5. 
+ 
+ MARKET FOR REGISTRANT S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS 
+ 
+ 14 
+ 
+ ITEM
+ 6. 
+ 
+ SELECTED FINANCIAL DATA 
+ 
+ 14 
+ 
+ ITEM
+ 7. 
+ 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONS AND RESULTS OF OPERATIONS 
+ 
+ 14 
+ 
+ ITEM
+ 7A. 
+ 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK 
+ 
+ 15 
+ 
+ ITEM
+ 8. 
+ 
+ FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 
+ 16 
+ 
+ ITEM
+ 9. 
+ 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 
+ 28 
+ 
+ ITEM
+ 9A. 
+ 
+ CONTROLS AND PROCEDURES 
+ 
+ 28 
+ 
+ ITEM
+ 9B. 
+ 
+ OTHER INFORMATION 
+ 
+ 30 
+
+PART III 
+
+ITEM
+ 10. 
+ 
+ DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT AND CORPORATE GOVERNANCE 
+ 
+ 30 
+ 
+ ITEM
+ 11. 
+ 
+ EXECUTIVE COMPENSATION 
+ 
+ 31 
+ 
+ ITEM
+ 12. 
+ 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED SHAREHOLDER MATTERS 
+ 
+ 32 
+ 
+ ITEM
+ 13. 
+ 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+ 
+ 32 
+ 
+ ITEM
+ 14. 
+ 
+ PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 
+ 32 
+ 
+ ITEM
+ 15. 
+ 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+ 
+ 33 
+
+2 
+
+PART
+I 
+
+Cautionary
+Statement regarding Forward-Looking Statements 
+
+This
+Annual Report on Form 10-K of Data Call Technologies, Inc. (hereinafter the Company , the Registrant , we ,
+ us , or Data Call includes forward-looking statements within the meaning of Section 27A of the Securities
+Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. The Registrant has based these forward-looking
+statements on its current expectations and projections about future events. These forward-looking statements are subject to known and
+unknown risks, uncertainties and assumptions about the Registrant that may cause its actual results, levels of activity, performance
+or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied
+by such forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as may, 
+ will, should, could, would, expect, plan, anticipate, 
+ believe, estimate, continue, or the negative of such terms or other similar expressions. Factors
+that might cause or contribute to such a discrepancy include, but are not limited to, those described in this Annual Report on Form 10-K/A
+and in the Registrant s other Securities and Exchange Commission filings. Should one or more of these risks or uncertainties materialize,
+or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in the forward-looking
+statements. For a more detailed discussion of the foregoing risks and uncertainties, see Risk Factors . 
+
+ITEM
+1. DESCRIPTION OF BUSINESS. Table of Contents 
+
+Data
+Call Technologies, Inc. was incorporated under the laws of the State of Nevada as Data Call Wireless, Inc. on April 4, 2002, and is sometimes
+referred to herein as we , us , our , Data Call or the Company. On
+March 1, 2006, we changed our name to Data Call Technologies, Inc. Since our inception, we have been engaged in the business of offering
+real-time information/content via digital signage and kiosk networks to our clients, who we consider to be our partners rather than simply
+as customers. 
+
+Our
+mission is to continue to exponentially grow our offering of our proprietary subscription services by integrating cutting-edge information/content
+delivery solutions to and within the control of retail and commercial resellers CMS manufacturers and end-users. Our Company s
+services put its clients in control of real-time news, sports, weather and other dynamic content, displayed within one or multiple locations,
+spanning from local, regional to global end points, through Digital Signage and Kiosk networks. 
+
+Our
+business plan continues to focus on growing our client base by effectively offering this real-time and licensed information/content displayed
+through Digital Signage and Kiosk networks, seeking to improve the delivery, security, and variety of information/content services to
+the growing Digital Signage and Kiosk community. 
+
+Overview
+- What Is Digital Signage? 
+
+You ve
+seen Digital Signage, it s everywhere. Whether you re shopping, trying to find your way through the airport, in a taxi, or
+even along the highway on your way home, it s there. LED and LCD displays are continually replacing printed marketing materials
+such as signs and placards, as well as the old-school whiteboard, for product and corporate branding, marketing and assisted selling.
+The appeal of instantly updating product videos and promotional messages on one or thousands of remotely located displays is driving
+the adoption of this growing marketing platform. Digital Signage presentations are typically comprised of repeating loops (playlists)
+of information used to brand, market or sell the owner s products and services or corporate messaging. But once viewed, this information
+becomes repetitive and the viewer tunes it out, resulting in low retention of the client s message. As digital signage has matured,
+the characteristics of the digital signage presentations have taken center-stage requiring fresh, relevant and dynamic content mixed
+within the marketing messages. Dynamic Content is key. 
+
+Digital
+Signage Matures 
+
+We
+are experiencing the Digital Signage Industry (back then called connected signage) steadily maturing and Data Call, through its multiple
+industry specific relationships, continues its engagement and influence in the direction of the Digital Signage industry. Data Call has
+been performing in this space for well over a decade. Our company has staked claim in assisting the industry s birth and maintains
+its prime position to enjoy and benefit from this industry s growth. 
+
+3 
+
+Early
+on, a business desiring to achieve commercial benefits from the use of digital signage was often confronted by a plethora of hardware
+and software solutions, all offering their own standard of what digital signage should be. Typical customers for digital
+signage were most-often offered expensive hardware to present digital signage with a very minimalistic content management solution (CMS),
+lacking the full package of content with which to build and tailor their systems for their target customer base. 
+
+Those
+early adopters of digital signage, often had to realize that their digital signage hardware vendors lacked the acumen to fully provide
+best practice of content strategy. The tools to manage content were provided, but not the content. From our inception, Data Call recognized
+that early signage providers and their typical customers lacked that key component - the offering of a comprehensive content package. 
+
+As
+the cost of platforms supporting infrastructure and digital displays has fallen significantly, digital signage has become more accessible
+to a wider range of potential users. Companies in our industry have come to understand, as we have preached since our inception, that
+the cost of Data Call s integrated, content-flexible subscription service is extremely cost effective - and licensed for redistribution
+over their networks. The benefit that Data Call continues to provide our client base, in the form of ongoing content development, is
+expected to continue to provide our customers with desirable user-friendly content and content services. 
+
+The
+Need for Speed - Active Content 
+
+Active
+and dynamic content is the integral part of digital signage presentations that must be constantly updated with timely and relevant information
+to attract and retain target viewers to the products, services, or messaging offered by typical Digital Signage clients. For instance,
+a typical presentation may contain ten 15-second loops that provide the primary message of the presentation, but the active dynamic content,
+such as that provided by Data Call, is updated with new information constantly throughout the day. Those seeking to add active and dynamic
+content to their digital signage presentations are educated and advised to subscribe to Data Call s dynamic content rather than
+attempting to illegally cut and paste or scrape broadcast content or RSS Feeds not for commercial
+use of others into their digital signage presentation. 
+
+By
+integrating Data Call s content as a meaningful component of digital signage presentations, our clients can legally provide the
+entertainment and information content necessary to enhance the target customer s information retention without disrupting the core
+message of the presentation. Some of the Infotainment categories provided by Data Call include news, sports, weather, financial data,
+the latest traffic alerts, among many others. With such a broad range of offerings, our clients have access to this active and dynamic
+content they need, regardless of the target customers and market they are addressing. 
+
+Our
+Business Opportunities 
+
+Our
+many opportunities for client development in the digital signage industry are growing exponentially. While many companies in our industry
+have traditionally outsourced all or part of their content creation, Data Call serves as a provider of dynamic active content to clients
+on a tailored basis. Whether a client desires general entertainment information for customers, such as news, sports, stock market quotes,
+etc. or location-specific content, such as local weather, traffic, etc., our research and experience has validated our long-held mantra
+that dynamic content draws and retains our clients target viewers to their digital signage and keeps viewers engaged throughout
+the client presentation. 
+
+Since
+our inception, management has developed and maintains strong relationships working with the leaders and associations of the digital signage
+industry. Collaborative efforts have successfully created, now industry standard, data formats and methods to facilitate the delivery
+of our dynamic content more easily and efficiently for integration into most hardware and software products. 
+
+4 
+
+Partners,
+Not Customers 
+
+Data
+Call s enduring approach to our clients is to build long-lasting partnerships by creating client relationships that we believe
+are unique in the digital signage industry. We understand that each client has their own content requirements. In developing dynamic
+content for individual digital signage clients, we have identified three content-related factors: (i) reliability; (ii) objectivity;
+and (iii) ease of implementation. To address the reliability requirement, we are engaged in multiple license arrangements with the leading
+providers of news, weather, sports and financial information, among other client-desired content rather than either: (i) downloading
+and repackaging content sourced from the Internet (which may be illegal); or (ii) Scraping RSS feeds from news organizations (which may
+come and go at the provider s whim - not to mention this practice is also illegal). 
+
+Licensing
+data from these premier providers has also served us by satisfying the second criteria, objectivity. Because it is commonly recognized
+that Internet content may often be unreliable, unverifiable and biased, early on, we determined that we could not simply use unfiltered
+Internet content for delivery to our clients. Our proper licensing of data facilitates the standard of delivery and implementation by
+our client/partners. Data Call does the heavy lifting by taking care of not just the licensing, but the proper formatting of that data
+for consumption by the industry utilizing our multiple formats offered. Data Call has understood that it s Digital Signage and
+Kiosk clients needed a more complete service than to endeavor the sourcing of active content from multiple vendors. As a result, our
+flexible content plans permit our clients to do one stop shopping for all dynamic content requirements by licensing subscriptions
+through us. 
+
+We
+empower our clients to receive customized dynamic content subscriptions to be displayed in a multitude of ways (banners, tickers, scrolls
+or visualizations integrated with the overall presentations). We have created Playlist Ready offerings and produced and
+distribute multiple sets of common data layouts in the industry-standard formats such as XML (extensible markup language), JSON (JavaScript
+Object Notation), JPEG (Joint Photographic Experts Group), RSS (Rich Site Summary, often called Really Simple Syndication),
+ MRSS (Media RSS) and MPEG (Moving Pictures Expert Group). With the advent of HTML5 (5 th version of Hypertext
+Markup Language), even more delivery methods have been made available to our clients, many of whom have found any one or a combination
+of these formats to be easily integrated into their products. Nevertheless, we have also produced customized data formats and visualizations
+to the exact and specific requirements of our clients/partners, which, we believe ensures a higher level of reliability and ease of implementation. 
+
+Market
+demand, opportunity and technology converge at a single point in time, and Data Call continues hold its position. Our integrity persistently
+builds our business. Digital signage platforms steadily evolve to meet mass market requirements, costs for hardware and software are
+falling to the point of becoming commodities and the markets for digital signage are clarifying through historical trial and error. 
+
+Business
+Operations 
+
+March
+of 2017, we released our Direct Lynk Manager (DLManager) customer portal at the Digital Signage Expo in Las Vegas. The DLManager incorporates
+In the Direct Lynk Media platform with major enhancements and options that enable the client to self-serve in a webstore environment.
+This is a moderated space that allows proper white glove treatment by our staff that our clients have come to expect and
+appreciate. Once the client is comfortable with navigation of the portal, they may then set up multiple groups and displays within their
+account for testing results in a demo fashion free of charge. Upon completion of their content selections and distribution points, the
+client may purchase the proper number of licenses needed to support their sections through various plans offered within the portal. 
+
+5 
+
+Some
+of the current types of data and information, for which a client may subscribe to through the Direct Lynk System, in multiple formats
+include: 
+
+Headline
+ News - top world and national news headlines; 
+
+Business
+ News - top business headlines; 
+
+Financial
+ Highlights - world-based financial indicators; 
+
+Entertainment
+ News - top entertainment headlines; 
+
+Health/Science
+ News - top science/health headlines; 
+
+Strange
+ News- latest off-beat news headlines; 
+
+Sports
+ Headlines - top sports headlines; 
+
+AP
+ News Minute Video 
+
+AP
+ This Day In History Videos 
+
+AP
+ Entertainment Minute Videos 
+
+Latest
+ Sports Lines - latest sports odds for NFL, NBA, NHL, NCAA Football and NCAA Basketball; 
+
+National
+ Football League - latest game schedule, and in-game updates; 
+
+National
+ Basketball Association - latest game schedule, and in-game updates; 
+
+Major
+ league soccer - latest game schedule, and in-game updates; 
+
+National
+ Hockey League - latest game schedule, and in-game updates; 
+
+NCAA
+ Football - latest game schedule, and in-game updates; 
+
+NCAA
+ Men s Basketball - latest game schedule, and in-game updates; 
+
+Professional
+ Golf Association top 10 leaders continuously updated throughout the four-day tournament; 
+
+NASCAR
+ top 10 race positions updated every 20 laps throughout the race; 
+
+Traffic
+ Mapping; 
+
+Animated
+ Doppler Radar and Forecast Maps; 
+
+Listings
+ of the day s horoscopes; 
+
+Listings
+ of the birthdays of famous persons born on each day; 
+
+Health
+ and Wellness; 
+
+Listings
+ of historical events which occurred on each day in history; and 
+
+Localized
+ Traffic and Weather Forecasts. 
+
+We
+continually add different types of content per client requests. We provide our DLM services to our clients and other potential customers
+through the Internet. All DLM Services are real-time information services providing a wide range of up-to-date information for display.
+These services are designed to work concurrently with customers existing digital signage systems. The Direct Lynk Messenger product
+has been retired, with DLMedia being sunset this year. The DLManager portal is taking the fore front and has been well received by existing
+and new clients. 
+
+Since
+our inception in 2002, we have come to deeply understand that this industry provides an exciting platform for advertisers, including
+our clients, to promote, inform, educate, and entertain their customers and employees regarding their business products, services, and
+corporate communications. Through Digital Signage, and Digital Out of Home (DOOH) businesses can use a single display or a complex, networked
+series of displays and video walls to market their products and services directly at their facilities and elsewhere to their customers
+and employees in real time. Additionally, because the core of Digital Signage advertising takes place in real time, businesses can change
+their marketing and messaging efforts literally from moment to moment and over the course of a day or such other period as they may determine. 
+
+We
+believe that the ability of our clients to display in real-time, the information and content we deliver, better allows our clients to
+tailor their products, services, advertising and messaging to individual and target-group customers, thereby advertising and offering,
+for example, inventory and sales discounts that may be designed to appeal to those individual customers and target customer groups, increasing
+sales and revenues. We believe that the benefits of on-site, real-time Digital Signage displays compared to regular print or video advertising
+are substantial and include, among other advantages, being able to immediately change digitally-displayed images/advertisements depending
+on our client s customers own situation, not simply being restricted by in-store print circulars produced days, weeks or even months
+in advance, which may become stale or obsolete prior to or shortly after publication and dissemination. 
+
+We
+specialize in enabling our clients to create their own Digital Signage content feeds which are delivered online directly to their chosen,
+electronic digital display devices at their various facilities. The only requirements our clients must have are: (i) a supported, third-party
+Digital Signage or Kiosk equipment solution - through a CMS or a standalone player, or similar device, which receives the data from our
+servers online; and (ii) an Internet connection. Our DLM System is supported by various, readily available third-party systems, varying
+in costs from inexpensive monthly cloud-based licenses to much more extensive and expensive content management/playback systems. Our
+Systems allow customers to select from their pre-determined data and information subscriptions offered. We enable our clients to also
+select location specific content they wish to receive based on how and where their Digital Signage network is configured. 
+
+6 
+
+In
+December of 2017 the company completed the arduous task of reconstructing our back-end systems architecture. This task was initialized
+to exploit the latest technology advances within our space, utilizing our data center efficiencies to further streamline our processes.
+One of the greater culminations of this effort yielded the Data Call API (Application Programming Interface) allowing our enterprise
+channel partners to embed our products within their offerings to further widen our reach. 
+
+Data
+Call continues to grow its client base through relationships that are gained through industry events such as seminars and trade shows.
+Our company has become a leader in syndicated content and custom content development for Digital Signage. Our licensed content is utilized
+on thousands of screens in hundreds of deployments. We are truly excited of our continued growth through our resellers, CMS manufacturers
+and end users. 
+
+We were dependent upon two major customers, who accounted for approximately
+77 our revenues. 
+
+At
+December 31, 2022, we had customer/subscribers for our DL Manager, which customers are relatively small, paying cumulatively an average
+monthly fee to Data Call. We also have several larger new potential partner/clients that are using our DL Manager products, and we expect
+that some or all of them may be expected to become significant clients in the near future. During the year ended December 31, 2021, we
+were dependent upon two major customers, who accounted for approximately 77 our revenues. During the year ended December 31, 2022, we
+were dependent upon two major customers, who accounted for approximately 76 of our revenues. 
+
+Notwithstanding
+the forgoing, based upon recent communications with several potential clients who are volume users and/or wholesale distributors of digital
+signage content and content management systems, we believe that during 2022, several new clients will contribute significant revenue
+which should materially reduce our reliance on our two major customers to less than 76 . As a result, we believe that that we should
+become far less reliant on a few business clients for our source of revenue. However, there can be no assurance that our belief will
+prove to be justified or, if justified, that such trend will continue for any future period, if at all. 
+
+Employees 
+
+At
+December 31, 2022, we had 2 full-time employees, including our two executive officers. Depending upon our level of our growth, if any,
+we expect that we may or will be required to hire additional personnel in the areas of sales and marketing, software design, research
+and development and otherwise, during 2022 and continuing into 2022. However, we will be dependent upon revenue growth and profitability,
+of which there can be no assurance, to fund any increase in staff. None of our employees are covered by a selective bargaining agreement 
+
+Estimate
+Of The Amount Spent On Research And Development Activities 
+
+Since
+our inception in April 2002, the majority of our expenditures have been on research and development to create our Direct Lynk Messenger
+Systems, including software and hardware development and testing costs. The amount spent on this research and development from inception
+through December 31, 2022 is approximately 3,000,000. 
+
+ITEM
+1A. RISK FACTORS. Table of Contents 
+
+Investing
+in our common stock, while providing investors with an equity ownership interest, involves a high degree of risk, including the potential
+loss of all or a significant portion of their investment. Shareholders will be subject to risks inherent in our business relative to,
+among other things, general economic and industry conditions, market conditions and competition. The value of the investment may increase
+or decrease and could result in a loss, the size and extent of which cannot be predicted. An investor should carefully consider the following
+factors as well as other information contained in this annual report on Form 10-K for our year-ended December 31, 2022. 
+
+7 
+
+This
+annual report on Form 10-K also contains forward-looking statements that involve risks and uncertainties. Our actual results could differ
+materially from those anticipated in the forward-looking statements because of many factors, including the risk factors described below
+and the other factors described elsewhere in this Form 10-K. 
+
+Since
+our inception, we have had a history of generating operating losses. However, in the past two calendar years, we have reversed that trend
+and have been able to generate positive cash flow from operations. We anticipate being profitable in the near future. We currently expect
+to significantly increase our revenues by increasing our client base and/or generating additional revenue streams by offering new and
+enhanced products and services. However, there can be no assurance that our plan will be successful, either in whole or in part. If we
+fail to grow our revenues, our ability to achieve and fulfill our business plan may be delayed, which could adversely impact our results
+of operations. 
+
+Unforeseen
+events. 
+
+There
+can be no assurance that unforeseen events, such as: (i) the length of time necessary to generate increasing market acceptance of our
+DL Manager; (ii) any unexpected material increased development costs; (iii), the general economy in the markets where we offer our DL
+Manager. 
+
+We
+have competition. 
+
+There
+are many different sectors in the Digital Signage industry, including but not limited to (i) content Management providers, (ii) content
+Creation services, (III) hardware manufacturers, (iv) network management providers and (v) installation service providers. These sectors
+are extremely vas and well capitalized. We are in the content sector within a more specific niche of providing subscriptions of dynamic
+content. We provide subscription service of a wide variety of dynamic infotainment to the industry. As the leader in our subsector of
+the industry, other companies have attempted to duplicate us and we expect competition to increase in the future. To be competitive,
+we must continue to invest significant resources in research and development, sales and marketing and customer support. Few have sufficient
+resources to make these investments or are unable to make the technological advances necessary to continue to remain the leader, our
+competitive position may suffer. Increased competition could result in price reductions, fewer customer orders, reduced margins and loss
+of market share. Our failure to compete successfully against current or future competitors could adversely affect our business and financial
+condition. 
+
+We
+rely on key management personnel. 
+
+We
+are highly dependent upon the services and efforts of key persons, as follows: Tim Vance, our founder and full-time CEO and Chief Operating
+Officer. Our ability to operate and implement our business plan is heavily dependent upon the continued services of Mr. Vance to grow
+as anticipated, our ability to attract, retain and motivate qualified, newly hired, full and part-time personnel. The loss of Mr. Vance,
+in particular, and our inability, in the future to hire and retain qualified sales and marketing, software engineers and additional management
+personnel, as needed, could have a material adverse effect on our business and operations. We do not have key man life
+insurance on Mr. Vance. 
+
+We
+are highly dependent upon our ability to successfully market DL Manager to subscribers. 
+
+We
+are dependent on the abilities of our sales and marketing activities to generate new clients for subscriptions to our DL Manager and
+to broaden our customer base. While the number of paying subscribers for our DL Manager decreased during December 31, 2022, compared
+to December 31, 2021, there can be no assurance that our sales and marketing efforts will be able to market acceptance for our DL Manager
+and increase our customer base to a level that will permit continued profitable operations. If our sales and marketing cannot continue
+to achieve market acceptance for our DL Manager and increase our customer base to a level that will permit profitable operations. If
+our sales and marketing efforts are unable to continue to generate new customers, we may not be able to generate sufficient revenues
+to continue with planned research and development on new products and improve our current products. 
+
+8 
+
+Difficult
+and volatile conditions in the capital, credit and commodities markets and general economic uncertainty have prompted companies to cut
+capital spending worldwide and could continue to affect our business materially adversely. 
+
+Disruptions
+in the economy and constraints in the capital markets have caused companies to reduce or delay capital investment. Some of our prospective
+customers may cancel or delay spending on the development or roll-out of technology projects with us due to continuing economic uncertainty.
+Our financial position, results of operations and cash flow could continue to be materially adversely affected by continuing difficult
+economic conditions and significant volatility in the capital. The continuing impact that these factors might have on us, and our business
+is uncertain and cannot be predicted at this time. Such economic conditions have accentuated each of the risks we face and magnified
+their potential effect on us and our business. The difficult conditions in these markets and the overall economy affect our business
+in several ways. For example: 
+
+Market volatility has exerted downward pressure on our stock price, which may make it more difficult for us to raise additional capital
+in the future. Economic conditions could continue to result in our customers experiencing financial difficulties or electing to limit
+spending because of the declining economy, which may result in decreased revenue for us. 
+
+Difficult economic conditions have adversely affected certain industries, including the automotive and restaurant industries, in which
+we have major customers. We could also experience lower than anticipated order levels from current customers, cancellations of existing
+but unfulfilled orders, and extended payment terms. Economic conditions could materially impact us through insolvency of our suppliers
+or current customers. 
+
+Economic conditions combined with the weakness in the credit markets could continue to lead to increased price competition for our products,
+and higher overhead costs as a percentage of revenue. 
+
+If
+the markets in which we participate experience further economic downturns or slow recovery, this could continue to negatively impact
+our revenue generation, margins and operating expenses, and consequently have a material adverse effect on our business, financial condition
+and results of operations. If customer demand were to decline further, we might be unable to adjust expense levels rapidly enough in
+response to falling demand or without changing the way in which we operate. If revenue were to decrease further and we were unable to
+adequately reduce expense levels, we might incur significant losses that could adversely affect our overall financial performance and
+the market price of our common stock. 
+
+Potential
+future government regulation of the Internet may adversely affect our business. 
+
+We
+are dependent upon the Internet in connection with our business operations and the delivery of content for our Direct Lynk Systems. The
+United States Federal Communications Commission (the FCC does not currently regulate companies that provide services over
+the Internet, as it does common carriers or tele-communications service providers. Notwithstanding the current state of the FCC s
+rules and regulations, the potential jurisdiction of the FCC over the Internet is broad and if the FCC should determine in the future
+to regulate the Internet, our operations, as well as those of other Internet service providers, could be adversely. Compliance with future
+government regulation of the Internet could result in increased costs and because of our limited resources; it would have a material
+adverse effect on our business operations and operating results and financial condition. 
+
+9 
+
+We
+are dependent on the security of the Internet to serve our customers; any security breaches or other Internet difficulties could adversely
+affect our business. 
+
+We
+offer most of our services through, the secure transmission of confidential information over public networks are a critical element of
+our operations. A party who can circumvent security measures (hacker) could misappropriate proprietary information or cause interruptions
+in our operations. If we are unable to prevent unauthorized access to our users information and transactions, our customer relationships
+could be irreparably harmed. Although we currently have in place security measures that we feel are adequate to protect our business
+and those of our customers, these measures may not prevent future security breaches. Nature s events placed on our systems could
+cause our systems to fail or cause our systems to operate at speeds unacceptable to our users, in which event we could lose customers
+and experience a material impact on our financial condition. 
+
+We
+must rely on other companies to maintain the Internet infrastructure if we hope to be successful. 
+
+Our
+future success depends, in large part, on other companies maintaining the Internet system infrastructure, including maintaining a reliable
+network backbone that provides adequate speed, data capacity and security. If the Internet continues to experience anticipated significant
+growth in the number of users, frequency of use and amount of data transmitted, as well as the number of malicious viruses and worms
+introduced onto the Internet by hackers and others, the infrastructure of the Internet may be unable to support the demands placed on
+it at any particular time or from time-to-time. Because we rely heavily on the Internet and our limited capital, any disruption of the
+Internet could adversely affect us to a greater degree than our competitors and other users of the Internet. 
+
+Our
+website and systems are hosted by a third party, and we are vulnerable to disruptions or other events that are beyond our control. 
+
+Our
+website and systems are hosted by a third party. We are dependent on our systems ability to distribute information over the Internet
+to customers. If our systems fail, it will harm our reputation, resulting in a loss of current and potential future customers and could
+cause us to breach existing agreements. Our success depends, in part, on the performance, reliability and availability of our services,
+which in turn are dependent on our third-party provider. Our systems and operations could be damaged or interrupted by fire, flood, power
+loss, telecommunications failure, Internet breakdown, break-in, earthquake and similar events. We would face significant damage because
+of these events. As a result, we may be unable to develop or successfully manage the infrastructure necessary to meet current or future
+demands for reliability and scalability of our systems, which would have a negative impact on our business and financial conditions. 
+
+Our
+Direct Lynk Systems use sophisticated software which could be found to contain bugs or could be compromised by viruses. While we have
+not experienced any material bugs and viruses to date, if such event could occur, it could be costly for us to identify and repair, and
+until such bugs or viruses, if any, are fixed, they could cause interruptions in our service, which could cause our reputation to decline
+and/or cause us to lose clients. 
+
+Risk
+Factors Related to Our Common Stock 
+
+We
+are subject to financial reporting and other requirements for which our accounting, other management systems and resources may not be
+adequately prepared. 
+
+As
+a public company, we incur significant legal, accounting and other expenses, including costs associated with reporting requirements and
+corporate governance requirements, including requirements under the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010,
+the Sarbanes-Oxley Act of 2002, and rules implemented by the SEC. 
+
+If
+we identify significant deficiencies or material weaknesses in our internal control over financial reporting that we cannot remediate
+in a timely manner, investors and others may lose confidence in the reliability of our financial statements, and the trading price of
+our common stock and ability to obtain any necessary equity or debt financing could suffer. In addition, if our independent registered
+public accounting firm is unable to rely on our internal control over financial reporting in connection with its audit of our financial
+statements, and if it is unable to devise alternative procedures in order to satisfy itself as to the material accuracy of our financial
+statements and related disclosures, it is possible that we would be unable to file our annual report with the SEC, which could also adversely
+affect the trading price of our common stock and our ability to secure any necessary additional financing. 
+
+10 
+
+In
+addition, the foregoing regulatory requirements could make it difficult or costly for us to obtain certain types of insurance, including
+directors and officers liability insurance, and we may be forced to accept reduced policy limits and coverage or incur
+substantially higher costs to obtain the same or similar coverage. The impact of these events could also make it more difficult for us
+to attract and retain qualified persons to serve on our board of directors, on board committees or as executive officers. 
+
+Market
+prices of our equity securities can fluctuate significantly. 
+
+The
+market prices of our common stock may change significantly in response to various factors and events beyond our control, including the
+following: 
+
+the
+ other risk factors described in this Form 10-K; 
+
+changing
+ demand for our products and services and ability to develop and generate sufficient revenues; 
+
+any
+ delay in our ability to generate operating revenue or net income; 
+
+general
+ conditions in markets we operate in; 
+
+issuance
+ of a significant number of shares, whether for compensation under employee stock options, conversion of debt, potential acquisitions,
+ additional financing or otherwise. 
+
+There
+is only a limited trading market for our common stock. 
+
+Our
+Common Stock is subject to quotation on the OTC market. There has only been limited trading activity in our common stock. There can be
+no assurance that a more active trading market will commence in our securities as a result of the increasing operations of Data Call.
+Further, in the event that an active trading market commences, there can be no assurance as to the level of any market price of our shares
+of common stock, whether any trading market will provide liquidity to investors, or whether any trading market will be sustained. 
+
+State
+blue sky registration; potential limitations on resale of our securities. 
+
+Our
+common stock, the class of the Company s securities that is registered under the Exchange Act, has not been registered for resale
+under the Securities Act of 1933 or the blue sky laws of any state. The holders of such shares and persons, who desire
+to purchase them in any trading market that might develop in the future, should be aware that there may be significant state blue-sky
+law restrictions upon the ability of investors to resell our securities. Accordingly, investors should consider the secondary market
+for the Company s securities to be a limited one. 
+
+It
+is the intention of the management to seek coverage and publication of information regarding the Company in an accepted publication which
+permits a manual exemption. This manual exemption permits a security to be distributed in a particular state without being registered
+if the Company issuing the security has a listing for that security in a securities manual recognized by the state. However, it is not
+enough for the security to be listed in a recognized manual. The listing entry must contain (1) the names of issuers, officers, and directors,
+(2) an issuer s balance sheet, and (3) a profit and loss statement for either the fiscal year preceding the balance sheet or for
+the most recent fiscal year of operations. Furthermore, the manual exemption is a nonissuer exemption restricted to secondary trading
+transactions, making it unavailable for issuers selling newly issued securities. 
+
+Most
+of the accepted manuals are those published in Standard and Poor s, Moody s Investor Service, Fitch s Investment Service,
+and Best s Insurance Reports, and many states expressly recognize these manuals. A smaller number of states declare that they recognize
+securities manuals but do not specify the recognized manuals. The following states do not have any provisions and therefore do
+not expressly recognize the manual exemption: Alabama, Georgia, Illinois, Kentucky, Louisiana, Montana, South Dakota, Tennessee, Vermont,
+and Wisconsin. 
+
+11 
+
+Dividends
+unlikely on our common stock. 
+
+We
+do not expect to pay dividends for the foreseeable future. The payment of dividends, if any, will be contingent upon our future revenues
+and earnings, capital requirements and general financial condition. The payment of any dividends will be within the discretion of our
+board of directors. It is our intention to retain all earnings for use in our business operations and accordingly, we do not anticipate
+that the Company will declare any dividends in the foreseeable future. 
+
+Compliance
+with Penny Stock Rules. 
+
+Our
+securities will initially be considered a penny stock as defined in the Exchange Act and the rules there under, since the
+price of our shares of common stock is less than 5. Unless our common stock is otherwise excluded from the definition of penny
+stock, the penny stock rules apply with respect to that particular security. The penny stock rules require a broker-dealer prior
+to a transaction in penny stock not otherwise exempt from the rules, to deliver a standardized risk disclosure document prepared by the
+SEC that provides information about penny stocks and the nature and level of risks in the penny stock market. The broker-dealer also
+must provide the customer with current bid and offer quotations for the penny stock, the compensation of the broker-dealer and its salesperson
+in the transaction, and monthly account statements showing the market value of each penny stock held in the customer s account.
+In addition, the penny stock rules require that the broker-dealer, not otherwise exempt from such rules, must make a special written
+determination that the penny stock is suitable for the purchaser and receive the purchaser s written agreement to the transaction.
+These disclosure rules have the effect of reducing the level of trading activity in the secondary market for a stock that becomes subject
+to the penny stock rules. So long as the common stock is subject to the penny stock rules, it may become more difficult to sell such
+securities. Such requirements, if applicable, could additionally limit the level of trading activity for our common stock and could make
+it more difficult for investors to sell our common stock. 
+
+Shares
+eligible for future sale. 
+
+As
+of December 31, 2022, the Registrant had 157,998,515 shares of common stock issued and outstanding of which 46,861,850 shares are restricted 
+as that term is defined under the Securities Act, and in the future may be sold in compliance with Rule 144 under the Securities Act.
+Rule 144 generally provides that a person holding restricted securities for a period of six months may sell every three months in brokerage
+transactions and/or market-maker transactions an amount equal to the greater of one (1 percent of (a) the Company s issued and
+outstanding common stock or (b) the average weekly trading volume of the common stock during the four calendar weeks prior to such sale.
+Rule 144 also permits, under certain circumstances, the sale of shares without any quantity limitation by a person who has not been an
+affiliate of the Company during the three months preceding the sale and who has satisfied a six-month holding period. However, all of
+the current shareholders of the Company owning 5 or more of the issued and outstanding common stock are subject to Rule 144 limitations
+on selling. 
+
+The
+Nevada Revised Statutes and our articles of incorporation authorize to issue additional shares of common stock and shares of preferred
+stock, which preferred stock having such rights, preferences and privileges as our board of directors shall determine. 
+
+Pursuant
+to our Articles of Incorporation, as amended and restated, we have authorized capital stock of 490,000,000 shares of common stock and
+10,000,000 shares of preferred stock. As of the December 31, 2022, we have 157,998,515 shares of common stock issued and outstanding
+and 800,000 shares of preferred A stock issued and outstanding and 10,000 shares of preferred B stock issued and outstanding. Our Board
+of Directors has the ability, without shareholder approval; to issue a significant number of additional shares of common stock without
+shareholder approval, which if issued would cause substantial dilution to our then common shareholders. Additionally, shares of preferred
+stock may be issued by our Board of Directors at their sole discretion and without shareholder approval, in such classes and series,
+having such rights, including voting rights and super-majority voting rights, and such preferences and relative, participating, optional
+or other special rights, powers and privileges as determined by our Board of Directors from time-to-time. If shares of preferred stock
+are issued by our Board of Directors having super-majority voting rights or having conversion rights to convert their preferred stock
+into a number of shares of common stock at a ratio of greater that one-for-one, holders of our common stock would be subject to dilution
+that may be significant. 
+
+12 
+
+During
+the quarter ended September 30, 2014, the Company amended its Articles of Incorporation to authorize 1,000,000 shares of Series B Preferred
+Stock, par value 0.001 (the Series B Stock ), 10,000 shares of which were issued to our CEO, Tim Vance. The Series B Stock,
+which may be issued in one or more series by the terms of which may be and may include preferences as to dividends and liquidation, conversion,
+redemption rights and sinking fund provisions, has the right to vote, in the aggregate, on all shareholder matters, equal to 51 of the
+total shareholder vote on all shareholder matters. The Series B Stock is entitled to this super-majority, 51 voting right no matter
+how many shares of common stock or other voting stock of Data Call stock is issued and outstanding in the future. The voting rights of
+the Series B Stock make a change in control without the approval of Timothy Vance, our CEO, impossible. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS. Table of Contents 
+
+None. 
+
+ITEM
+2. DESCRIPTION OF PROPERTY. Table of Contents 
+
+Berkenmeir
+Properties, LLC., The property changed ownership on February 1, 2014 and the Company and the new owner, Berkenmeier Properties, LLC mutually
+agreed to extend the lease for additional years at the same monthly rent of 1,400. The Company still occupies the 700 square feet located
+at 700 S. Friendswood Drive, Suite E, Friendswood, TX 77546. We believe that these facilities are sufficient for our present level of
+operations including the growth we anticipate during the next twelve months. In the event that we need additional space, we believe that
+it will be available in the same property at comparable rates. 
+
+ITEM
+3. LEGAL PROCEEDINGS. Table of Contents 
+
+None. 
+
+ITEM
+4. MINE SAFETY DISCLOSURE. Table of Contents 
+
+None. 
+
+13 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS. Table of Contents 
+
+Market
+Information 
+
+Our
+common stock is currently quoted on the OTCQB under the symbol DCLT. Quotation of the Company s securities on the OTCQB limits
+the liquidity and price of the Company s common stock more than if the Company s shares of common stock were listed on The
+Nasdaq Stock Market or a national exchange. For the periods indicated, the following table sets forth the high and low bid prices per
+share of common stock. The below prices represent inter-dealer quotations without retail markup, markdown, or commission and may not
+necessarily represent actual transactions. 
+
+Fiscal 2022 
+ Fiscal 2021 
+ Fiscal 2020 
+
+High 
+ Low 
+ High 
+ Low 
+ High 
+ Low 
+ 
+ First Quarter ended March 31 
+ 0.0049 
+ 0.0049 
+ 0.0112 
+ 0.0104 
+ 0.0112 
+ 0.0104 
+ 
+ Second Quarter ended June 30 
+ 0.0066 
+ 0.0063 
+ 0.0120 
+ 0.0104 
+ 0.0120 
+ 0.0104 
+ 
+ Third Quarter ended September 30 
+ 0.0048 
+ 0.0048 
+ 0.0110 
+ 0.0100 
+ 0.0110 
+ 0.0100 
+ 
+ Fourth Quarter ended December 31 
+ 0.0042 
+ 0.0042 
+ 0.0070 
+ 0.0050 
+ 0.0070 
+ 0.0050 
+
+As
+of December 31, 2022, our shares of common stock were held by approximately 191 stockholders of record. 
+
+Dividends 
+
+The
+holders of our Preferred Stock, Series A, are entitled to a dividend of 12 percent annually, subject to conversion into common stock.
+The undeclared dividends of this stock are calculated, but have not been recorded. 
+
+Holders
+of common stock are entitled to dividends when, as, and if declared by the Board of Directors, out of funds legally available therefore.
+We have never declared cash dividends on its common stock and our Board of Directors does not anticipate paying cash dividends in the
+foreseeable future as it intends to retain future earnings to finance the growth of our businesses. There are no restrictions in our
+articles of incorporation or bylaws that restrict us from declaring dividends. 
+
+Securities
+Authorized for Issuance Under Equity Compensation Plans 
+
+On
+December 26, 2014, the board of directors approved the Company s 2015 Employee Incentive Plan (the Plan pursuant
+to which the Company s board of director or a committee is authorized to issue 25,000,000 shares. 
+
+The
+board of director or committee shall determine at any time and from time to time after the effective date of this Plan: 
+
+(i)
+the Eligible Participants; 
+
+ (ii)
+the number of shares of Common Stock issuable directly or to be granted pursuant to an Option; 
+
+ (iii)
+the price per share at which each Option may be exercised or the value per share if a direct issue of stock pursuant to a Stock Award;
+and 
+
+ (iv)
+the terms on which each Option may be granted. 
+
+Such
+determination, as may from time to time be amended or altered at the sole discretion of the board of director or committee. 
+
+ITEM
+6. SELECTED FINANCIAL DATA. Table of Contents 
+
+N.A. 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONS AND RESULTS OF OPERATION. Table of Contents 
+
+Results
+of Operations during the year ended December 31, 2022, as compared to the year ended December 31, 2021 
+
+We
+had 553,846 of sales revenue for the year ended December 31, 2022, compared to sales revenue of 580,226 for the year ended December
+31, 2021, a decrease in sales revenue of 26,380 or approximately a 4.55 decrease from the prior year. We generate revenues through
+subscription fees received in connection with our DL Manager and Info Services. Many of our customers discontinued our service because
+of the pandemic. Many of our customers provide services to the public. 
+
+We
+had total costs of sales for the year ended December 31, 2022 of 188,651 compared to total costs of sales of 216,279 for the year ended
+December 31, 2021, or a decrease of 27,628 or about 12.8 of which resulted in a gross margin of 365,195 for the year ended December
+31, 2022 or 65.9 , compared to a gross margin of 363,947 or 62.7 for the year ended December 31, 2021, an increase in gross margin
+of 1,248 from the prior year. Our decrease in gross margin was due a combination of our efforts to decreased costs. 
+
+14 
+
+Cost
+of sales as a percentage of sales was 34.1 for the year ended December 31, 2022, compared to 37.3 for the year ended December 31,
+2021. As we gain more customers and enter into more service agreements, we anticipate our cost of sales will decrease as we expect to
+take advantage of applicable economies of scale. Our operating expenses decreased to 360,416 for the year ended December 31, 2022, compared
+to operating expenses of 367,166 for the year ended December 31, 2021, a decrease in expenses of 6,750 from the prior period. The decrease
+in expenses for the year of 2022 was due to the Company s ongoing efforts to expand its operations in the most cost effective and
+efficient means while reducing costs and the cost of stock issued. We had net income of 4,782. The net income was the due to the Company s
+efforts to reduce its long-term debt which was accomplished in 2022. The effect of this effort allowed the Company to reclassify its
+accrued interest to the net income statement. 
+
+Liquidity
+and Capital Resources 
+
+We
+had current assets of 87,330 as of December 31, 2022, which consisted of 20,727 in cash, accounts receivable of 65,203 and prepaid
+expenses of 1,400. In comparison to December 31, 2021 we had current assets of 81,093 which consisted of 13,817 in cash and 67, 276
+in accounts receivables. 
+
+We
+had total assets of 92,120 as of December 31, 2022, compared to 86,864 as of December 31, 2021 or an increase of 3,856, which consisted
+of current assets of 87,330, total property and equipment (net of accumulated depreciation) of 3,990, which included high end flat
+screen televisions, computers and software equipment responsible for running our DL Manager Info Call Services and our Image Library
+which are stored in our Friendswood office and other off site locations; and other assets of 800, which included our deposit on our
+Friendswood office space. 
+
+We
+had total liabilities of 18,845 as of December 31, 2022, compared to 26,367 as of December 31, 2021, a decrease of 7,522 primarily
+consisting of accounts payable of 16,710, accounts payable related party of 1,774, and accrued salaries of 361. We had positive working
+capital of 68,485 and an accumulated deficit of 9,966,935 as of December 31, 2022. 
+
+Operating
+activities provided 7,041 of cash for the year ended December 31, 2022, which was mainly due to net income of 4,782, common stock and
+options expense of 7,996, decrease in depreciation expense of 981, an increase in accounts receivables of 2,073, a decrease in accounts
+payable of 7,403 and a decrease in prepaid expenses of 1,400. We had investing activities for the year ended December 31, 2022, of
+ 0. 
+
+We
+had financing activities of 131 primarily for the pay down of borrowings from related party during 2022 as compared to 2021. 
+
+Off-Balance
+Sheet Arrangements 
+
+As
+of December 31, 2022 and 2021, we did not have any off-balance sheet arrangements as defined in Item 303(a) (4) (ii) of Regulation
+S-K promulgated under the Securities Act of 1934. 
+
+Contractual
+Obligations and Commitments 
+
+As
+of December 31, 2022 and 2021, we did not have any contractual obligations. 
+
+Critical
+Accounting Policies 
+
+Our
+significant accounting policies are described in the notes to our financial statements for the years ended December 31, 2022 and 2021,
+and are included elsewhere in this annual report. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK. Table of Contents 
+
+We
+have not entered, and do not expect to enter, financial instruments for trading or hedging purposes. 
+
+15 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Table of Contents 
+
+Report
+ of Independent Registered Public Accounting Firm PCAOB ID No.: 
+ 17 
+ 
+ Balance Sheets - December 31, 2022 and 2021 
+ 18 
+ 
+ Statements of Operations -Years ended December 31, 2022 and 2021 
+ 19 
+ 
+ Statement of Stockholders Equity - Years ended December 31, 2022 and 2021 
+ 20 
+ 
+ Statements of Cash Flows - Years ended December 31, 2022 and 2021 
+ 21 
+ 
+ Notes to Financial Statements 
+ 22 
+
+16 
+
+Report
+of Independent Registered Public Accounting Firm 
+
+ Table of Contents 
+
+To
+the Board of Directors and 
+
+ Shareholders
+of Data Call Technologies, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Data Call Technologies, Inc. (the Company) as of December 31, 2022 and 2021, and the
+related statements of operations, stockholders equity, and cash flows for each of the years in the two-year period ended December
+31, 2022, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present
+fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021 and the results of its operations
+and its cash flows for each of the years in the two-year period ended December 31, 2022, in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+The
+risk of Going Concern was determined to be a critical audit matter due to the Company s past negative cash flows from operations.
+As such, the Company evaluated the need for a going concern. 
+
+To
+evaluate the appropriateness of the lack of going concern, we examined and evaluated the financial information that was the initial cause
+along with management s plans to mitigate the going concern and managements lack of disclosure on going concern. 
+
+/s/
+
+We
+have served as the Company s auditor since 2013. 
+
+March
+28, 2023 
+
+17 
+
+Data
+Call Technologies, Inc. 
+
+ Balance
+Sheets 
+
+ December
+31, 2022 and 2021 
+
+ Table of Contents 
+
+2022 
+ 2021 
+ 
+ Assets 
+
+Current assets: 
+
+Cash 
+
+Accounts receivable 
+
+Prepaid Rent 
+ 
+ - 
+ 
+ Total current assets 
+
+Property and equipment 
+
+Less accumulated depreciation and amortization 
+
+Net property and equipment 
+
+Other assets 
+
+Total assets 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accounts payable - related party 
+
+Accrued salaries - related party 
+
+Total current liabilities 
+
+Total liabilities 
+
+Stockholders equity: 
+
+Preferred stock, par value. Authorized shares: Series A 
+ Convertible - shares issued and outstanding at December 31, 2022 and 2021 
+
+Preferred stock, par value. Authorized shares: Series B - 
+ shares issued and outstanding at December 31, 2022 and 2021 
+
+Preferred stock value 
+
+Common stock, par value. Authorized shares: and
+ shares issued and outstanding at December 31, 2022 and 2021, respectively. 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders equity 
+
+Total liabilities and stockholders equity 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+18 
+
+Data
+Call Technologies, Inc. 
+
+ Statements
+of Operations 
+
+ Years
+ended December 31, 2022 and 2021 
+
+ Table of Contents 
+
+2022 
+ 2021 
+
+Revenues: 
+
+Sales 
+
+Cost of sales 
+
+Gross margin 
+
+Selling, general and administrative expenses 
+
+Depreciation and amortization expense 
+
+Total operating expenses 
+
+Other (income) expenses: 
+
+Interest income 
+
+Gain from the settlement of accrued interest 
+ - 
+
+Total expenses 
+
+Net Income (loss) before income taxes 
+
+Provision for income taxes 
+ - 
+ - 
+ 
+ Net Income (loss) 
+
+Net Income(loss) per common share basic and diluted: 
+
+Net Income(loss) applicable to common shareholders 
+
+Weighted average common shares: 
+
+Basic 
+
+Diluted 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+19 
+
+Data
+Call Technologies, Inc. 
+
+ Statement
+of Stockholders Equity 
+
+ Years
+ended December 31, 2022 and 2021 
+
+ Table of Contents 
+
+Shares 
+ amount 
+ shares 
+ amount 
+ shares 
+ amount 
+ capital 
+ deficit 
+ (deficit) 
+
+Preferred Stock A 
+ Preferred Stock B 
+ Common Stock 
+ Additional paid-in 
+ Accumulated 
+ Stockholders equity 
+
+Shares 
+ amount 
+ shares 
+ amount 
+ shares 
+ amount 
+ capital 
+ deficit 
+ (deficit) 
+ 
+ Balance year ended December 31, 2020 
+
+Shares issued for services 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+Net Income 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance year ended December 31, 2021 
+
+Balance 
+
+Shares issued for services 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+Net Income 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance year ended December 31, 2022 
+
+Balance 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+20 
+
+Data
+Call Technologies, Inc. 
+
+ Statements
+of Cash Flows 
+
+ Years
+ended December 31, 2022 and 2021 
+
+ Table of Contents 
+
+2022 
+ 2021 
+ 
+ Cash flows from operating activities: 
+
+Net income (loss) 
+
+Adjustments to reconcile net income(loss) to net cash provided by operating activities: 
+
+Shares issued for services 
+
+Depreciation and amortization of property and equipment 
+
+(Increase) decrease in operating assets: 
+
+Accounts receivable 
+
+Prepaid expenses 
+ 
+ - 
+ 
+ Increase (decrease) in operating liabilities: 
+
+Accounts payable 
+
+Accounts payable - related party 
+ - 
+
+Accrued expenses - related party 
+
+Accrued interest-related party 
+ - 
+
+Gain from settlement of accrued interest 
+ - 
+
+Net cash provided by operating activities 
+
+Cash flows from investing activities 
+
+Capital expenditure for equipment 
+ - 
+ - 
+ 
+ Net cash (used in) investing activities 
+ - 
+ - 
+
+Cash flows from financing activities: 
+
+Principal payment on debt - related party 
+
+Net cash (used in) financing activities 
+
+Net increase (decrease) in cash 
+
+Cash at beginning of year 
+
+Cash at end of year 
+
+Supplemental Cash Flow Information: 
+
+Cash paid for interest 
+ - 
+
+Cash paid for taxes 
+ - 
+ - 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+21 
+
+Data
+Call Technologies, Inc. 
+Notes to Financial Statements 
+December 31, 2022 
+ Table of Contents 
+
+cash equivalents as of December 31, 2022, or 2021 
+
+as of December
+31, 2022 and 2021 as we believe all of our receivables are fully collectable. 
+
+- years) using the straight-line method
+for financial reporting purposes and accelerated methods for income tax purposes. Maintenance and repairs are charged to operations as
+incurred. 
+
+Net (loss) per common share: 
+
+Basic 
+
+Diluted 
+
+Weighted average number of common shares outstanding: 
+
+Basic 
+
+Diluted 
+
+shares of Series A Preferred Stock, par value per share, of which are
+outstanding as of December 31, 2022 and 2021. The Preferred Stock may be issued in one or more series, the terms of which may be determined
+at the time of issuance by the Board of Directors, without further action by stockholders, and may include voting rights (including the
+right to vote as a series on particular matters), preferences as to dividends and liquidation, conversion, redemption rights and sinking
+fund provisions. 
+
+Each
+share of Series A Preferred Stock shall bear a preferential dividend of twelve percent per year and is convertible into a number
+shares of the Company s common stock, par value per share Common Stock based upon Fifty percent of
+the average closing bid price of the Common Stock During the ten (10) day period prior to the conversion. The Company has not declared
+or accrued any dividends as of December 31, 2022, or 2021. Unaccrued and undeclared dividends were as of December 31, 2022, and
+2021, respectively. 
+
+Level
+1: Quoted prices in active markets for identical assets or liabilities. 
+
+Level
+2: Quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar instruments in markets that
+are not active; and model-derived valuations in which all significant inputs are observable in active markets. 
+
+Level
+3: Valuations derived from valuation techniques in which one or more significant inputs are unobservable. 
+
+2021 
+
+restricted shares to Tim Vance, the Company s
+CEO, in connection with the execution of a new -year employment agreement; and restricted shares to Gary Woerz, the Company s
+CFO, in connection with the execution of a new -year employment agreement. The restricted shares were valued at per share using
+the closing price of the stock on the date of grant. Total expense associated with the issuances is calculated at to be recognized
+over the -year term of the agreements. The expense recognized in the year ended December 31, 2022, was (2021: ). , annual compensation of per year for services as
+CEO, annual compensation of per year for services as CFO. 
+
+As
+of December 31, 2022, and December 31, 2021, the total due to management for past accrued salaries is and , respectively. 
+
+As
+of December 31, 2022, and December 31, 2021, the total due to management included in accounts payable is and respectively. 
+
+. As of December 31, 2021, the Company had prepaid expenses of 0 . 
+
+- 
+
+Office furniture 
+
+Leasehold improvements 
+
+Property and equipment, gross 
+
+Less accumulated depreciation and amortization 
+
+Net property and equipment 
+
+Tax effect (benefit) of operating loss carryforwards 
+
+Tax expense/(benefit) for continuing operations 
+ - 
+ - 
+
+The
+Company has current net operating loss carryforwards more than as of December 31, 2022, to offset future taxable income, which
+expire beginning 2029. 
+
+Valuation allowance 
+
+Net deferred asset 
+ - 
+ - 
+
+At
+December 31, 2022, the Company provided a valuation allowance for the deferred tax asset because it could not be determined whether
+it was more likely than not that the deferred tax asset/(liability) would be realized. 
+
+restricted shares to Tim Vance, the Company s
+CEO, in connection with the execution of a new -year employment agreement; and restricted shares to Gary Woerz, the Company s
+CFO, in connection with the execution of a new -year employment agreement. The restricted shares were valued at per share using
+the closing price of the stock on the date of grant. Total expense associated with the issuances is calculated at to be recognized
+over the -year term of the agreements. The expense recognized in the year ended December 31, 2022, was (2021: ). , annual compensation of per year for services as
+CEO, annual compensation of per year for services as CFO. 
+
+The
+Company is authorized to issue up to shares of Series A Preferred Stock, par value per share, of which are
+outstanding as of December 31, 2022 and 2021. The Preferred Stock may be issued in one or more series, the terms of which may be determined
+at the time of issuance by the Board of Directors, without further action by stockholders, and may include voting rights (including the
+right to vote as a series on particular matters), preferences as to dividends and liquidation, conversion, redemption rights and sinking
+fund provisions. 
+
+Each
+share of Series A Preferred Stock shall bear a preferential dividend of twelve percent per year and is convertible into a number
+shares of the Company s common stock, par value per share Common Stock based upon Fifty percent of
+the average closing bid price of the Common Stock During the ten (10) day period prior to the conversion. The Company has not declared
+or accrued any dividends as of December 31, 2022, or 2021. Unaccrued and undeclared dividends were as of December 31, 2022, and
+2021, respectively. 
+
+During
+the year ended December 31, 2021, the Company granted shares of common stock to a consultant for services provided. The stock
+was value using the grant date closing price for the Company s stock for a total compensation expense of of which 
+was expensed during the year ended December 31, 2022 (2021: ). 
+
+and , respectively. The Company recently agreed
+to a rental increase of per month. 
+
+From
+time to time, we may be involved in routine legal proceedings, as well as demands, claims and threatened litigation that arise in the
+normal course of our business. The ultimate amount of liability, if any, for any claims of any type (either alone or in the aggregate)
+may materially and adversely affect our financial condition, results of operations and liquidity. In addition, the ultimate outcome of
+any litigation is uncertain. Any outcome, whether favorable or unfavorable, may materially and adversely affect us due to legal costs
+and expenses, diversion of management attention and other factors. We expense legal costs in the period incurred. We cannot assure you
+that additional contingencies of a legal nature or contingencies having legal aspects will not be asserted against us in the future,
+and these matters could relate to prior, current or future transactions or events. As of December 31, 2022, there were no pending or
+threatened litigation against the Company. 
+
+of its accounts
+receivable. As of December 31, 2021, the Company s trade accounts receivables from one customers represented approximately 
+of its accounts receivable. 
+
+For
+the year ended December 31, 2021, the Company received approximately of its revenue from two customers. The specific concentrations
+were Customer A, , and Customer B, . For the year ended December 31, 2021 the Company received approximately of its revenue
+from two customers. 
+
+Concentration
+of Supplier Risk 
+
+The
+Company had 4 vendors that accounted for approximately of purchases during the year ended December 31, 2022, related to operations.
+Specific concentrations were Vendor A , Vendor B , and Vendor C and vender D .. For the year ended December 31, 2021 the
+Company had 3 vendors that accounted for approximately of purchases. 
+
+27 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. Table of Contents 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES. Table of Contents 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Our
+management, with the participation of our Principal Executive Officer and our Principal Financial Officer, evaluated the effectiveness
+of our disclosure controls and procedures as of December 31, 2022 (the Evaluation Date ). The term disclosure controls
+and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company
+that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the
+Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure
+controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed
+by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company s management,
+including its principal executive and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure.
+Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance
+of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible
+controls and procedures. Based on the evaluation of our disclosure controls and procedures as of December 31, 2022, our Principal Executive
+Officer and Principal Financial Officer concluded that, as of such date, our disclosure controls and procedures were not effective at
+the reasonable assurance level. 
+
+28 
+
+Management s
+Annual Report on Internal Control Over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rules 13a-15(f) and
+15d-15(f) of the Exchange Act. Internal control over financial reporting is a process designed to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements in accordance with GAAP. Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to
+future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate. 
+
+Management
+has conducted, with the participation of our Principal Executive Officer and our Principal Accounting Officer, an assessment, including
+testing of the effectiveness, of our internal control over financial reporting as of Evaluation Date. Management s assessment of
+internal control over financial reporting was conducted using the criteria set forth by the Committee of Sponsoring Organizations of
+the Treadway Commission (COSO) in Internal Control - Integrated Framework (2013 Framework). 
+
+A
+material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is
+a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected
+on a timely basis. In connection with our management s assessment of our internal control over financial reporting as required
+under Section 404 of the Sarbanes-Oxley Act of 2002, we have concluded that our internal control over financial reporting had material
+weaknesses including lack of sufficient internal accounting personnel in order to ensure complete documentation of complex transactions
+and adequate financial reporting during the year ended December 31, 2022. Based on this assessment, Management identified the following
+material weaknesses that have caused management to conclude that, as of December 31, 2022, our disclosure controls and procedures, and
+our internal control over financial reporting, were not effective at the reasonable assurance level: 
+
+1.
+We do not have written documentation of our internal control policies and procedures. Written documentation of key internal controls
+over financial reporting is a requirement of Section 404 of the Sarbanes-Oxley Act. Management evaluated the impact of our failure to
+have written documentation of our internal controls and procedures on our assessment of our disclosure controls and procedures and has
+concluded that the control deficiency that resulted represented a material weakness. 
+
+2.
+We do not have sufficient segregation of duties within accounting functions, which is a basic internal control. Due to our size and nature,
+segregation of all conflicting duties may not always be possible and may not be economically feasible. However, to the extent possible,
+the initiation of transactions, the custody of assets and the recording of transactions should be performed by separate individuals.
+Management evaluated the impact of our failure to have segregation of duties on our assessment of our disclosure controls and procedures
+and has concluded that the control deficiency that resulted represented a material weakness. 
+
+3.
+We do not have written documentation of formal procedures for the identification and approval of related party transactions. 
+
+To
+address these material weaknesses, management performed additional analyses and other procedures to ensure that the financial statements
+included herein fairly present, in all material respects, our financial position, results of operations and cash flows for the periods
+presented. Accordingly, we believe that the financial statements included in this report fairly present, in all material respects, our
+financial condition, results of operations and cash flows for the periods presented. 
+
+This
+Annual Report does not include an attestation report of our independent registered public accounting firm regarding internal control
+over financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant
+to the rules of the Securities and Exchange Commission that permit us to provide only our management s report in this Annual Report. 
+
+29 
+
+Remediation
+of Material Weaknesses 
+
+To
+remediate the material weakness in our documentation, evaluation and testing of internal controls we plan to engage a third-party firm
+to assist us in remedying this material weakness once resources become available. 
+
+We
+also intend to remedy our material weakness with regard to insufficient segregation of duties by hiring additional employees in order
+to segregate duties in a manner that establishes effective internal controls once resources become available. 
+
+Management
+has identified corrective actions for the weakness and has begun implementation during the first quarter of 2022. 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to an exemption
+for smaller reporting companies under Section 989G of the Dodd-Frank Wall Street Reform and Consumer Protection Act. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+have been no significant changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under
+the Exchange Act) or in other factors that occurred during the period of our evaluation that have significantly affected, or are reasonably
+likely to significantly affect, our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION. Table of Contents 
+
+None. 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS AND CORPORATE GOVERNANCE. Table of Contents 
+
+The
+following table sets forth the name, age and position of each of our Directors and executive officers. Our officers and Directors are
+as follows: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Timothy
+ Vance 
+ 
+ 56 
+ 
+ Chief
+ Executive Officer, Chief Operating Officer and Director 
+ 
+ Gary
+ D. Woerz 
+ 
+ 76 
+ 
+ Chief
+ Financial Officer and Director 
+ 
+ John
+ Schafer 
+ 
+ 48 
+ 
+ Director 
+
+Timothy
+Vance - Chief Executive Officer, Chief Operating Officer and Director 
+
+Timothy
+Vance, a founder and an intricate element in the fabric of the Company, has served as one of our Directors since June 2003, as our Chief
+Operating Officer since January 2007 and as our Chief Executive Officer since July 2008. Mr. Vance has been part of the Data Call management
+team since the Company s inception. Prior to founding Data Call, Mr. Vance was employed at QVS Wireless Corporation. Prior to QVS
+Wireless, Mr. Vance was employed for 17 years by World Ship Supply, a global maritime supply company. He was the General Manager of the
+Houston branch for several years before following his entrepreneurial vision. 
+
+Gary
+D. Woerz - Chief Financial Officer and Director 
+
+From
+March 2009 to January 2012, Gary Woerz provided financial consulting services to private and public companies. From September 2007 to
+January 2008, Mr. Woerz was CFO and COO of Larrea Biosciences, a public company. From July 2006 to July 2007, Mr. Woerz was the CFO of
+Virexx Medical Corp., a public company organized under the laws of the Province of Alberta, Canada. From April 2004 to May 2007, Mr.
+Woerz served as CFO of American International Industries, Inc., a public reporting company. 
+
+30 
+
+John
+Schafer - Director 
+
+Mr.
+Schafer has been a member of Data Call s Board of Directors since his appointment in May 2013. From March 2005 through the present,
+Mr. Schafer has served as Vice President of Operations of Waterfront Ventures LLC, a private company engaged in real estate development
+and operations, specializing in the hospitality and public service industry. Mr. Schafer s duties at Waterfront Ventures include
+strategic and financial planning and chief of operations. In addition, from 2004 through the present, Mr. Schafer has been President
+and principal of JLS Holdings LLC, a private company engaged in the business of marketing, business development, financial planning and
+promotion, primarily for the real estate and hospitality industry, among others. 
+
+Employment
+Agreements 
+
+Effective
+February, 2018, the Company entered into a five-year employment agreement with Tim Vance, to as Chief Executive Officer and Chief Operating
+Officer at a base compensation of 98,000 per year. The agreement also provided for the issuance of 500,000 restricted shares of the
+Company s common stock which vest at the rate of 500,000 shares per year. Also effective on February 2018, the Company entered
+into a five-year employment agreement with Gary D. Woerz to serve as Chief Financial Officer at a base compensation of 57,200 per year.
+The agreement also provided for the issuance of 400,000 restricted shares of the Company s common stock. 
+
+ITEM
+11. EXECUTIVE COMPENSATION. Table of Contents 
+
+The
+following table sets forth information concerning the total compensation during the fiscal years ending December 31, 2022, 2021 and 2019. 
+
+Summary Compensation Table 
+
+Long Term 
+
+Annual Compensation 
+ Compensation Awards 
+
+Other 
+ Restricted 
+ Securities 
+
+Annual 
+ Stock 
+ Underlying 
+ Total 
+ 
+ Name and Principal 
+ 
+ Salary 
+ Bonus 
+ Compensation 
+ Award(s) 
+ Options 
+ Compensation 
+ 
+ Position 
+ Year 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+
+Timothy Vance, CEO, COO, Director (1) 
+ 2022 
+ 98,000 
+ 
+ 2,000 
+
+100,000 
+
+2021 
+ 98,000 
+ 
+ 5,000 
+
+103,000 
+
+2019 
+ 98,000 
+ 
+ 1,500 
+
+99,500 
+
+Garry D. Woerz, CFO, Director (2) 
+ 2022 
+ 57,000 
+ 
+ 1,000 
+
+58,200 
+
+2021 
+ 57,200 
+ 
+ 2,500 
+
+59,700 
+
+2019 
+ 57,200 
+ 
+ 0 
+
+57,200 
+
+(1)
+In June 2008, Timothy E. Vance was appointed CEO of the Registrant. 
+
+ (2)
+In January 2013, Gary D. Woerz was appointed CFO of the Registrant. 
+
+31 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTRS. Table of Contents 
+
+The
+following table sets forth information regarding the beneficial ownership of our common stock as of March 27, 2023. The information in
+this table provides the ownership information for: each person known by us to be the beneficial owner of more than 5 of our common stock;
+each of our directors; each of our executive officers; and our executive officers and directors as a group. Beneficial ownership has
+been determined in accordance with the rules and regulations of the SEC and includes voting or investment power with respect to the shares.
+Unless otherwise indicated, the persons named in the table below have sole voting and investment power with respect to the number of
+shares indicated as beneficially owned by them. 
+
+Name of Beneficial Owner 
+ Common Stock 
+ Beneficially Owned 
+ Percentage of 
+ Common Stock 
+ Owned (1) 
+ 
+ Timothy E. Vance, CEO, COO and Director 
+ 20,190,000 
+ 12.80 
+ 
+ 700 South Friendswood Drive, Suite E 
+
+Friendswood, TX 77546 
+
+Gary D. Woerz, CFO and Director 
+ 17,700,000 
+ 11.23 
+ 
+ 700 South Friendswood Drive, Suite E 
+
+Friendswood, TX 77546 
+
+John Schafer, Director 
+ 1,000,000 
+ 0.63 
+ 
+ 700 South Friendswood Drive, Suite E 
+
+Friendswood, TX 77546 
+
+Director and Officer (3 people) 
+ 38,890.010 
+ 24.80 
+
+(1)
+Applicable percentage ownership is based on 156,998,515 shares of common stock outstanding as of March 27, 2023. Beneficial ownership
+is determined in accordance with the rules of the Securities and Exchange Commission and generally includes voting or investment power
+with respect to securities. Shares of common stock that are currently exercisable or exercisable within 60 days of March 27, 2023 are
+deemed to be beneficially owned by the person holding such securities for the purpose of computing the percentage of ownership of such
+person, but are not treated as outstanding for the purpose of computing the percentage ownership of any other person. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE. Table of Contents 
+
+None. 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. Table of Contents 
+
+Independent
+Public Accountants 
+
+Our
+auditor, M K CPAS, PLLC. has served as the Company s independent registered public accountants for the fiscal years 2022 and
+2021. 
+
+Principal
+Accounting Fees 
+
+The
+following table presents the fees for professional audit services rendered by M K CPAS, PLLC for the audits of the Registrant s
+annual financial statements for the years ended December 31, 2022 and 2021, and fees billed for other services rendered by M K CPAS,
+PLLC during those periods. 
+
+Year Ended 
+ Year Ended 
+
+December 31, 2022 
+ December 31, 2021 
+ 
+ Audit fees (1) 
+ 25,000 
+ 25,000 
+ 
+ Audit-related fees (2) 
+
+Tax fees (3) 
+ 1,100 
+ 1,100 
+ 
+ All other fees 
+
+(1) Audit fees consist of audit and review services, consents and review of documents filed with the SEC. 
+
+ (2) Audit-related fees consist of assistance and discussion concerning financial accounting and reporting standards and other accounting issues. 
+
+ (3) Tax fees consist of preparation of federal and state tax returns, review of quarterly estimated tax payments, and consultation concerning tax compliance issues. 
+
+32 
+
+ITEM
+15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES. Table of Contents 
+
+(a)
+The exhibits listed below are filed as part of this annual report. 
+
+3.1 
+ Articles of Incorporation, attached to the Company s Form S-1 as filed with the SEC on February 21, 2006. 
+ 
+ 3.2 
+ Certificate of Amendment to Articles of Incorporation, attached to the Company s Form S-1 as filed with the SEC on February 21, 2006. 
+ 
+ 3.3.1 
+ Amended and Restated Articles of Incorporation, attached to the Company s Form S-1/A as filed with the SEC on June 29, 2006. 
+ 
+ 3.4 
+ Amended Bylaws, attached to the Company s Form S-1 as filed with the SEC on February 21, 2006. 
+ 
+ 4.1 
+ Certificate of Designation of Series B Preferred Stock dated August 30, 2013, attached to the Company s Form 10-K as filed with the SEC on March 30, 2015. 
+ 
+ 10.16 
+ Employment Agreement between the Company and Timothy E. Vance, as amended, attached to the Company s Form 10-K as filed with the SEC on March 30, 2015. 
+ 
+ 10.17 
+ Employment Agreement between the Company and Gary Woerz, as amended, attached to the Company s Form 10-K as filed with the SEC on March 30, 2015. 
+ 
+ 31.1 
+ Certificate of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, filed herewith 
+ 
+ 31.2 
+ Certificate of the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, filed herewith 
+ 
+ 32.1 
+ Certificate of the Chief Executive Officer to Section 906 of the Sarbanes-Oxley Act of 2002, filed herewith 
+ 
+ 32.2 
+ Certificate of the Chief Financial Officer to Section 906 of the Sarbanes-Oxley Act of 2002, filed herewith 
+ 
+ 101.INS 
+ Inline XBRL Instance Document 
+ 
+ 101.SCH 
+ Inline XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ Inline XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 104 
+ Cover Page Interactive Data File (embedded within the Inline XBRL document) 
+
+33 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned. 
+
+DATA
+CALL TECHNOLOGIES INC. 
+
+By: 
+ /s/
+ Timothy E. Vance 
+
+Timothy
+ E. Vance 
+
+Chief
+ Executive Officer and Chairman 
+
+(Principal
+ Executive Officer) 
+
+Date:
+ 
+ March
+ 28, 2023 
+
+By: 
+ /s/
+ Gary D. Woerz 
+
+Gary
+ D. Woerz 
+
+Chief
+ Financial Officer 
+
+(Principal
+ Financial and Principal Accounting Officer) 
+
+Date:
+ 
+ March
+ 28, 2023 
+
+Pursuant
+to the requirements of the Securities Act of 1934, this report has been signed by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated. 
+
+By: 
+ /s/
+ Timothy E. Vance 
+
+Timothy
+ E. Vance 
+
+Chairman 
+
+Date:
+ 
+ March
+ 28, 2023 
+
+By: 
+ /s/
+ Gary D. Woerz 
+
+Gary
+ D. Woerz 
+
+Director 
+
+Date:
+ 
+ March
+ 28, 2023 
+
+34 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+CERTIFICATION 
+
+I,
+Timothy E. Vance, certify that: 
+
+1.
+I have reviewed this annual report of Data Call Technologies, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the issuer as of, and for, the periods presented in this report; 
+
+4.
+The issuer s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as 4efined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the issuer and have: 
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the issuer, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared; 
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+(c)
+Evaluated the effectiveness of the issuer s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the issuer s internal control over financial reporting that occurred during the issuer s
+most recent fiscal quarter (the issuer s fourth fiscal quarter in the case of an annual report) that has materially affected, or
+is reasonably likely to materially affect, the issuer s internal control over financial reporting; and 
+
+5.
+The issuer s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the issuer s auditors and the audit committee of the issuer s board of directors (or persons performing the
+equivalent functions): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the issuer s ability to record, process, summarize and report financial information; and 
+
+(b)
+Any fraud, whether not material, that involves management or other employees who have a significant role in the issuer s internal
+control over financial reporting. 
+
+Date:
+ March
+ 28, 2023 
+
+/s/
+Timothy E. Vance 
+
+CEO 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+CERTIFICATION 
+
+I,
+Gary D. Woerz, certify that: 
+
+1.
+I have reviewed this annual report of Data Call Technologies, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the issuer as of, and for, the periods presented in this report; 
+
+4.
+The issuer s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as 4efined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the issuer and have: 
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the issuer, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared; 
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+(c)
+Evaluated the effectiveness of the issuer s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the issuer s internal control over financial reporting that occurred during the issuer s
+most recent fiscal quarter (the issuer s fourth fiscal quarter in the case of an annual report) that has materially affected, or
+is reasonably likely to materially affect, the issuer s internal control over financial reporting; and 
+
+5.
+The issuer s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the issuer s auditors and the audit committee of the issuer s board of directors (or persons performing the
+equivalent functions): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the issuer s ability to record, process, summarize and report financial information; and 
+
+(b)
+Any fraud, whether not material, that involves management or other employees who have a significant role in the issuer s internal
+control over financial reporting. 
+
+Date:
+ March
+ 28, 2023 
+
+/s/ Gary D. Woerz 
+
+CFO 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO SECTION 906 
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the annual report of Data Call Technologies, Inc. (the Company on Form 10-K for the year ended December
+31, 2022 (the Report ), as filed with the Securities and Exchange Commission on the date hereof, I, Timothy E. Vance, CEO
+of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1.
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+2.
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Company. 
+
+/s/
+ Timothy E. Vance 
+
+Timothy E. Vance 
+
+CEO 
+
+Dated: March
+ 28, 2023 
+
+A
+signed original of this written statement required by Section 906 has been provided to Data Call Technologies, Inc. and will be retained
+by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+Exhibit
+32.2 
+
+CERTIFICATION
+PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO SECTION 906 
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the annual report of Data Call Technologies, Inc. (the Company on Form 10-K for the year ended December
+31, 2022 (the Report ), as filed with the Securities and Exchange Commission on the date hereof, I, Gary Woerz, CFO and
+Director of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that: 
+
+1.
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+2.
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Company. 
+
+/s/
+Gary D. Woerz 
+
+Gary
+D. Woerz 
+
+CFO 
+
+Dated:
+ March
+ 28, 2023 
+
+A
+signed original of this written statement required by Section 906 has been provided to Data Call Technologies, Inc. and will be retained
+by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ dclt-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ dclt-20221231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ dclt-20221231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ dclt-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

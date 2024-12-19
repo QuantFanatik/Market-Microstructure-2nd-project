@@ -1,0 +1,3859 @@
+<Header>
+<FileStats>
+    <FileName>20230331_10-K_edgar_data_1853825_0001493152-23-009881.txt</FileName>
+    <GrossFileSize>4551073</GrossFileSize>
+    <NetFileSize>165514</NetFileSize>
+    <NonText_DocumentType_Chars>2034454</NonText_DocumentType_Chars>
+    <HTML_Chars>935712</HTML_Chars>
+    <XBRL_Chars>625651</XBRL_Chars>
+    <XML_Chars>716025</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-009881.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331061122
+ACCESSION NUMBER:		0001493152-23-009881
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		50
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			THUMZUP MEDIA Corp
+		CENTRAL INDEX KEY:			0001853825
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				863651036
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-255624
+		FILM NUMBER:		23783044
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11845 W OLYMPIC BLVD
+		STREET 2:		SUITE 1100W #13
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90064
+		BUSINESS PHONE:		310-237-2887
+
+	MAIL ADDRESS:	
+		STREET 1:		11845 W OLYMPIC BLVD
+		STREET 2:		SUITE 1100W #13
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90064
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-009881.txt : 20230331
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended , 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from __________ to __________ 
+
+Commission
+File Number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ incorporation or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification No.) 
+
+, , , 
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+(Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+
+Common Stock, 0.001 per share 
+
+Securities
+registered pursuant to Section 12(g) of the Act: None 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding
+12 months (or for such shorter period that the registrant was required to submit and post such files). No 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of the registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III
+of this Form 10-K or any amendment to this Form 10-K. 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company,
+or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+If securities are registered
+pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing
+reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether
+any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the
+registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+The
+aggregate market value of voting and non-voting common equity held by non-affiliates of the Registrant was as of June 30,
+2022. 
+
+As
+of March 29, 2023, there were shares of the registrant s common stock outstanding. 
+
+THUMZUP 
+MEDIA CORPORATION 
+
+ FORM
+10-K 
+
+ FOR
+THE FISCAL YEAR ENDED DECEMBER 31, 2022 
+
+INDEX 
+
+Page 
+ 
+ PART
+ I 
+
+Item
+ 1. 
+ Business 
+ 6 
+ 
+ Item
+ 1A. 
+ Risk Factors 
+ 17 
+ 
+ Item
+ 1B. 
+ Unresolved Staff Comments 
+ 27 
+ 
+ Item
+ 2. 
+ Properties 
+ 27 
+ 
+ Item
+ 3. 
+ Legal Proceedings 
+ 27 
+ 
+ Item
+ 4. 
+ Mine Safety Disclosure 
+ 28 
+
+PART
+ II 
+
+Item
+ 5. 
+ Market for the Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 28 
+ 
+ Item
+ 6. 
+ [RESERVED] 
+ 28 
+ 
+ Item
+ 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 29 
+ 
+ Item
+ 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 32 
+ 
+ Item
+ 8. 
+ Financial Statements and Supplementary Data 
+ 32 
+ 
+ Item
+ 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 32 
+ 
+ Item
+ 9A. 
+ Controls and Procedures 
+ 32 
+ 
+ Item
+ 9B. 
+ Other Information 
+ 32 
+
+PART
+ III 
+
+Item
+ 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 33 
+ 
+ Item
+ 11. 
+ Executive Compensation 
+ 34 
+ 
+ Item
+ 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 35 
+ 
+ Item
+ 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 36 
+ 
+ Item
+ 14. 
+ Principal Accountant Fees and Services 
+ 38 
+
+PART
+ IV 
+
+Item
+ 15. 
+ Exhibits, Financial Statement Schedules 
+ 38 
+
+Index to Financial Statements 
+ 38 
+ 
+ Item
+ 16. 
+ Form 10K Summary 
+ 39 
+
+Signatures 
+ 40 
+
+2 
+
+PART
+I 
+
+In
+this Annual Report on Form 10-K, we, our, us, Thumzup , and the
+Company refer to Thumzup Media Corporation, unless the context requires otherwise. 
+
+Forward-Looking
+and Cautionary Statements 
+
+This
+Annual Report contains forward-looking statements that involve risks, uncertainties and assumptions that, if they never materialize or
+prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. The
+statements contained in this Annual Report that are not purely historical are forward-looking statements within the meaning of Section
+27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 2IE of the Securities Exchange Act of 1934,
+as amended (the Exchange Act ). Forward-looking statements are often identified by the use of words such as, but not limited
+to, anticipate, believe, can, continue, could, estimate, 
+ expect, intend, may, might, plan, project, seek, 
+ should, target, would and similar expressions or variations intended to identify forward-looking statements.
+Examples of forward-looking statements include, among others, statements we make regarding: 
+
+future
+ financial position; 
+
+business
+ strategy; 
+
+budgets,
+ projected costs, and plans; 
+
+future
+ industry growth; 
+
+financing
+ sources; 
+
+the
+ impact of litigation, government inquiries and investigations; and 
+
+all
+ other statements regarding our intent, plans, beliefs, or expectations or those of our directors or officers. 
+
+These
+statements are based on the beliefs and assumptions of our management, which are in turn based on information currently available to
+management. Such forward-looking statements are subject to risks, uncertainties and other important factors that could cause actual results
+and the timing of certain events to differ materially from future results expressed or implied by such forward-looking statements. Factors
+that could cause or contribute to such differences include, but are not limited to, those discussed in the section entitled Risk
+Factors included under Part I, Item 1A below. Furthermore, such forward-looking statements speak only as of the date of this report.
+Except as required by law, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after
+the date of such statements. 
+
+Incorporation
+by Reference 
+
+The
+Commission allows us to incorporate by reference the information we file with it. This means that we can disclose information to you
+by referring you to those documents. The documents that have been incorporated by reference are an important part of this annual report,
+and you should review that information in order to understand the nature of any investment by you in our common shares. 
+
+3 
+
+RISK
+FACTOR SUMMARY 
+
+Our
+business operations are subject to numerous risks and uncertainties, including the risks described in the section titled Risk
+Factors included under Part I, Item 1A of this Annual Report on Form 10-K, that could cause our business, financial condition
+or operating results to be harmed, including risks regarding the following: 
+
+Risks
+Relating to Our Business 
+
+The
+Company is a recently formed company with an unproven business plan, has not yet established profitable operations and has generated
+minimal revenue. 
+
+The
+Company was formed in October 2020 and has not yet established profitable operations and has generated nominal revenue. 
+
+The
+Company expects to continue to incur losses from operations and negative cash flows, which raise substantial doubt about its ability
+to continue as a going concern. 
+
+The Company s independent registered public accounting firm s reports have raised substantial doubt as to its ability to
+continue as a going concern. 
+
+The
+continuing COVID-19 pandemic may have a significant negative impact on the Company s business, sales, results of operations and
+financial condition. 
+
+The Company may not generate sufficient cash flows to cover its operating expenses. 
+
+Security breaches and other disruptions could compromise the Company s information and expose it to liability, which would cause
+its business and reputation to suffer. 
+
+The Company is dependent on third parties to, among other things, maintain its servers, provide the bandwidth necessary to transmit content,
+and utilize the content derived therefrom for the potential generation of revenues. 
+
+Because
+the Company does not intend to pay any cash dividends on its shares of common stock in the near future, shareholders will not be able
+to receive a return on their shares unless and until they sell them. 
+
+The Company is dependent on key personnel. 
+
+The
+Company may not be able to successfully execute the business plan. 
+
+The
+Company is a new company with a brief operating history, no revenue and an untested business plan which may not be accepted in the markets
+in which it intends to operate. 
+
+The
+Company has not yet established brand identity and customer loyalty. 
+
+The
+Company cannot assure investors that the Thumzup App will be accepted. 
+
+A
+better financed competitor may enter the marketplace, cause the Company s market share or acceptance rates to plummet and adversely
+affect its ability to sustain viable operations. 
+
+Although
+the Company may own various intellectual property rights, these rights may not provide it with any competitive advantage. 
+
+The
+Company s future financial results are uncertain and its operating results may fluctuate, due to, among other things, consumer
+trends, the impact of COVID on advertising budgets and App user activity, competition, and changing social media behaviors. 
+
+4 
+
+The
+Company s ability to succeed will depend on the ability of its management to control costs . 
+
+Key
+personnel of the Company do not devote full time to the affairs of the Company and could allocate their time and attention to other business
+ventures which may not benefit the Company. 
+
+The
+Company s Officers, Directors, and employees are entitled to receive compensation, payments and reimbursements, regardless of whether
+it operates at a profit or a loss. 
+
+Combination
+or layering of multiple risk factors may significantly increase the risk of loss on shares of the Company s common
+stock . 
+
+Our
+business is sensitive to consumer spending, inflation and economic conditions. 
+
+Russia s
+Invasion of Ukraine may negatively impact our business. 
+
+Several
+of our outsourced developers are based in Pakistan and our product development could be impacted by conflict in the Middle East. 
+
+We
+rely on third-party internal and outsourced software to run our critical development and information systems. As a result, any sudden
+loss, disruption or unexpected costs to maintain these systems could significantly increase our operational expense and disrupt the management
+of our business operations. 
+
+Cyber
+security breaches of our systems and information technology could adversely impact our ability to operate. 
+
+Risks
+Related to our Common Stock 
+
+There
+can be no assurance that our Common Stock will ever be approved for listing on a national securities exchange. Failure
+to develop or maintain an active trading market could negatively affect the value of our common stock and make it difficult or impossible
+for investors to sell their shares in a timely manner. 
+
+The
+Company is controlled by its Chairman/Board of Directors, Chief Executive Officer, President, and additional Officers of the Company. 
+
+The
+Company s common stock price may be volatile, which could result in substantial losses to investors and litigation. 
+
+The
+sale or availability for sale of substantial amounts of the Company s common stock could adversely affect the market price of the
+common stock. 
+
+The
+Company is controlled by a small group of existing shareholders, whose interests may differ from other shareholders. The Company s
+Officers and Directors will significantly influence its activities, and their interests may differ from an investor s interests
+as a shareholder. 
+
+The
+Company is an emerging growth company under the JOBS Act and it cannot be certain if the reduced disclosure requirements
+applicable to emerging growth companies will make the Company s common stock less attractive to investors. 
+
+The
+Company s disclosure controls and procedures may not prevent or detect all errors or acts of fraud. 
+
+If
+equity research analysts do not publish research or reports about the Company, or if they issue unfavorable commentary or downgrade its
+common stock, the market price of its common stock will likely decline. 
+
+5 
+
+ITEM
+1. BUSINESS. 
+
+Overview 
+
+General 
+
+As
+used herein, we, us, our, the Company, Thumzup , means Thumzup 
+Media Corporation unless otherwise indicated. Thumzup operates in a single business segment which is social media marketing. Thumzup 
+has a mobile iPhone and Android applications called Thumzup that connects brands and people who use and love these
+brands. For the advertiser, Thumzup incentivizes real people to become content creators and post authentic valuable posts on social
+media about the advertiser and its products. 
+
+The
+Company was incorporated on October 27, 2020, under the laws of the State of Nevada. Its headquarters are located in Los Angeles, CA.
+The Company has never been the subject of any bankruptcy or receivership. The Company has never engaged in any material reclassification,
+merger, or consolidation of the Company. The Company has not acquired or disposed of any material amount of assets except in the normal
+course of business. 
+
+In
+February 2022, the Company was admitted to the Over-The-Counter Venture Market quotation system (OTCQB) under the symbol TZUP. 
+
+Thumzup 
+Products and Services 
+
+The
+Company operates in a single business segment which is social media marketing. The Thumzup App works on both iPhone and Android
+mobile operating systems and connects brands and people who use and love these brands. For the Advertiser, Thumzup incentivizes
+real people to become content Creators and post authentic valuable posts on social media about the Advertiser and its products. 
+
+The
+Company seeks to capitalize on industry-wide gig economy and business democratization trends. Immense value and opportunity have been
+created through the democratization of ride sharing, hospitality, finance and other industries. The Thumzup tools are designed to
+facilitate this democratization trend for the consumer and the Advertiser within the online advertising space. 
+
+The
+Company has built the technology to support an influencer and gig economy community around its Thumzup App. This technology
+and community are designed to generate scalable authentic product posts and recommendations for Advertisers on social media. It is designed
+to connect Advertisers with individuals who are willing to tell their friends about the Advertisers products online and offline. 
+
+Social
+Media Marketing Software Technology 
+
+The
+Thumzup mobile App enables Creators, to select from brands advertising on the App and get paid to post about the Advertiser on social
+media. Once the Thumzup Creator selects the brand and takes a photo using the Thumzup App, the Thumzup App posts the photo
+and a caption to the Creator s social media accounts. The Advertiser then reviews and approves the post for payment and the Creator
+can cash out whenever they choose through popular digital payment systems. For the Advertiser, the Thumzup system enables brands
+to get real people to promote their products to their friends, rather than displaying banner ads that people are tuning out. 
+
+A
+recent Nielsen report found more than 80 of consumers believe friends and family are the most reliable sources of information about
+products. According to a Pixlee article, 64 of millennials recommend a product at least once a month, and according to a
+2019 Morning Consult survey, 86 of Gen Z and millennials would post content for monetary compensation. 
+
+The
+average American adult is expected to spend 8 hours and 11 minutes per day using digital media in 2022 according to Insider Intelligence.
+The amount of daily usage has increased significantly over the past several years, again according to Insider Intelligence ,
+and the Company believes such usage will continue to accelerate. The Company empowers businesses that want to interact with these Creators
+and provides tools and data so they can increase consumer awareness and expand their customer bases. 
+
+6 
+
+In
+the past decade, social media platforms like Instagram, Facebook, Twitter, Pinterest, and TikTok have achieved mass worldwide consumer
+acceptance and created hundreds of billions of dollars in shareholder value. This worldwide viral growth demonstrates that compelling
+new social media platforms which present the right combination of experience and value, will attract Creators who will invest significant
+amounts of time on the platforms. 
+
+The
+Company is an early-stage entity building a new real-time platform to support the gig economy. The Company believes that acceptance of
+its App and revenue growth can be driven by empowering everyday people to make money by posting about what they find to be enjoyable
+or attractive on social media. The Company believes that the Thumzup App is a conduit for Advertisers to connect directly with consumers.
+The Company will need to secure enough Advertisers to make the App an attractive platform for adoption and scalability, and to ensure
+that the platform is interesting enough for the Creators to return to on a regular basis. No assurance can be given that the Company
+will be able to achieve these results. 
+
+The
+Industry Online Advertising 
+
+The
+Company believes that it is developing a new form of social media marketing that does not currently exist, therefore existing descriptions
+of market size and penetration are not directly applicable. As Thumzup matures, the Company believes there will be other competitors
+in this new market of paying non-professional advocates to tell their friends about products they love on social media at the point-of-sale.
+The closest existing market that is similar to Thumzup s market is the rapidly growing subset of online advertising called influencer
+marketing. As social media influencers become more plentiful and proven, advertising spending has increased in this space. Brands
+are estimated to spend up to 4.62 billion on influencer marketing in 2023 according to a 2021 Insider Intelligence forecast [7] .
+ We believe major brands recognize that having their happy customers post on social media is valuable. 
+
+Most
+existing paid influencer marketing platforms were designed for professional and semi-professional online personalities. Some of these
+platforms have expanded to accommodate micro-influencers people with 5,000 to 30,000 social media followers. In
+the Company s opinion, none of these influencer platforms has entered the public consciousness and found mass adoption. 
+
+Recent
+research conducted by TapInfluence has found that influencer marketing content delivers 11 times higher return on investment than traditional
+forms of digital marketing , and approximately 66 of marketing firms now deploy influencer marketing according to a 2018 Association
+of National Advertisers survey. A recent Nielsen report found more than 80 of consumers believe friends and family are the most reliable
+sources of information about products. According to Simplilearn, nano-influencers have an average engagement rate of 8 , more than 4
+times that of accounts with more than 1,000,000 followers and further, as an account s audience grows, its engagement rate tends
+to decrease. There thus appears to be, in the Company s view, a clear downward correlation between follower sizes and post likes.
+Around 66 of marketers now use influencers and nearly half of U.S. marketers plan to increase their influencer budgets according to
+a according to a 2018 Association of National Advertisers survey. According to a Pixlee article, 64 of millennials recommend a product
+at least once a month , and according to a 2019 Morning Consult survey, 86 of Gen Z and millennials would post content for
+monetary compensation. 
+
+The
+Company has designed Thumzup from the ground up to make it easy for brands and service providers to activate people
+who are not professional influencers but who are passionate about the products, services, or establishments they enjoy or frequent and
+then are willing to relate those experiences to their friends and other social media followers. The Company has designed the Thumzup
+App and Advertiser dashboard with Apple-style simplicity and intuitive features to make participation by all individuals seamless with
+their existing use of social media. 
+
+7 
+
+The
+Company s first product Thumzup App 
+
+The
+Company operates in a single business segment, which is social media marketing. The Company s mobile iPhone and Android applications
+called Thumzup connects brands, products, and services to the people who use and love these brands, products, and
+services. For Advertisers, Thumzup activates real people to post real product reviews and testimonials on social media with the
+intention of enhancing brand awareness and reaching targeted consumers more directly and effectively while driving profitable traffic
+to the Advertisers products and services. 
+
+The
+Company is building an influencer and gig economy community around the Thumzup mobile App that will generate scalable authentic
+product posts and recommendations for Advertisers on social media and create a technology platform making person-to-person advertising
+easy, cost-effective, and scalable. The App and Advertiser dashboard are designed to connect Advertisers with individuals who are willing
+to promote their products and services online and offline. 
+
+Social
+Media Marketing Software Technology 
+
+The
+Company s Services 
+
+The
+Thumzup mobile App enables Creators to select from brands advertising on the App and get paid to post about the Advertiser on social
+media. Once the Thumzup Creator selects the brand and takes a photo using the Thumzup App, the Thumzup App posts the photo
+and a caption to the Creator s social media accounts. The Advertiser then reviews and approves the post for payment and the Creator
+can cash out whenever they choose through popular digital payment systems. For the Advertiser, the Thumzup system enables brands
+to get real people to promote their products and services to their friends, rather than displaying banner ads that social media users
+are tuning out. 
+
+With
+the Thumzup App, the Company is targeting and seeking to sign up everyday people and gig economy workers who like specific brands
+and present them with opportunities to be paid for posting about the brands on social media. The Company believes that its management
+team has the sales relationships, legal, and technology expertise for its current level of development. The Company will need to add
+additional staff to rapidly grow the business. All source code, development work, and intellectual property performed under independent
+development or employment contracts paid for by the Company are assigned to and owned by Thumzup . 
+
+Intellectual
+Property 
+
+The
+Company owns the copyrights to the source code for the Thumzup App on the iPhone iOS and Android operating mobile operating systems
+as used on the majority of mobile phone and tablet devices. The Company also owns the copyrighted source code for the backend 
+system that administrates the Thumzup App, tracks payments and advertising campaigns. 
+
+The
+Thumzup thumb logo is a registered trademark owned by Thumzup Media Corporation, Reg. No. 6,842,424, registered Sep. 13, 2022.
+On April 13, 2021, the Company filed a trademark application ser. No. 90642789 with the U.S. Patent and Trademark Office USPTO for the word mark THUMZUP, which was granted registration on June 21, 2022, resulting in reg. no. 6764158. Also on April 13, 2021, the
+Company filed a trademark application ser. No. 90642848 for the Thumzup logo, featuring a stylized hand with an upwardly extended
+thumb. Meta Platforms, Inc. (which owns and operates Facebook and Instagram) initially filed opposition to the logo on June 30, 2022.
+Thumzup agreed to not use the logo as a reaction to a post and Meta Platforms, Inc. subsequently withdrew their opposition on August
+5, 2022 and it was dismissed without prejudice. 
+
+8 
+
+Business
+Model 
+
+Advertisers
+purchase a campaign on the Thumzup website. Once the Advertiser approves a post for payment, the platform facilitates the payment
+to Creators a monetary amount per screened post which may range from 1.00 to 1,000.00. The Thumzup platform enables the Advertiser
+to screen posts so that the Advertiser only pays for posts that are commercially valuable and rewards Creators for posts that have images
+and text that represent the Advertiser in a positive manner. 
+
+Per
+Post Fee . Thumzup Advertisers are charged a Per Post Fee. By way of illustration, an Advertiser that buys 100,000
+posts from Thumzup , to pay out 10 per post to Thumzup Creators, would purchase the posts for 13.00 each or 1,300,000. The
+Creators in this illustration would receive a total of 1,000,000 and Thumzup would retain 300,000 for its services. The Thumzup 
+platform would facilitate 100,000 posts for the Advertiser from Thumzup Creators sharing with their friends about their endorsed
+products on social media. 
+
+Value
+Proposition 
+
+The
+Thumzup App is designed to generate scalable social media authentic social media content for Advertisers. It is designed to connect
+Advertisers with individuals who are willing to authentically promote their products online. The Company envisions that many gig economy
+workers will be ideal candidates to become Creators posting on Thumzup . Imagine a gig economy driver waiting for their next fare
+who takes a moment to post about the good experience they had at their lunch spot where they are waiting. Imagine a gig economy worker
+on a laptop at a coffee shop doing a graphic design project from a gig economy site who takes a moment to post about the coffee shop
+where they are working on Thumzup . The Company believes that Thumzup can readily provide extra income for this existing pool
+of gig economy workers. The Company believes these gig economy workers will be able to provide quality Thumzup posts on social media
+for which Advertisers will be willing to pay. 
+
+Regulatory
+Compliance 
+
+The
+Federal Trade Commission regulates and requires certain disclosures by social media influencers, specifying when disclosure is required,
+and how the disclosure should be presented. These rules are codified in the Code of Federal Regulations, 16 CFR Part 255. Specifically,
+the FTC requires that influencers disclose any financial, employment, personal, or family relationship with a brand. Influencers must
+disclose financial relationships and consideration paid including any money, discounted products or other benefits paid to the influencer.
+Creators on the Thumzup platform are being paid to post about Thumzup advertisers. Thumzup puts #ad in each post made on its platform
+to disclose that the creator has been paid to make the post. 
+
+The
+Company does not believe its compliance with existing FTC regulations will have a material effect on capital expenditures, earnings and
+competitive position of the Company and its subsidiaries, for the current fiscal year and any other material future period. 
+
+9 
+
+Thumzup App Workflow 
+
+For
+ direct-to-consumer DTC brands, a customer might get a postcard in the box upon receiving a purchase in the mail.
+ A postcard would inform the customer about the opportunity to get cashback by sharing a picture of the purchase with friends on social
+ media. If the Creator takes a picture of the postcard, a link to download the Thumzup App will appear on the customer s
+ phone. The illustration to the left and those below are intended as examples only and will not necessarily correlate to a final version
+ or an amount. Actual wording and amounts will depend on agreements with Advertisers, products or brands seeking recommendations and
+ other market factors as may be assessed by management. 
+
+For
+ physical stores and restaurants, the Company offers signage to make patrons aware that they can be paid to tell their friends about
+ their positive experience in the store or restaurant. 
+ 
+ When
+ Creators open the Thumzup App on their phones, they will reach a welcome screen which establishes the idea that they can get
+ paid to post about brands, services and places they like with the App. 
+
+10 
+
+The
+ main screen appears after a Creator enters the unique code the Company sent. The main screen enables each Creator to easily select
+ brands, nearby restaurants, and stores that will pay the Thumzup Creator to post to friends and other followers about products and
+ places recommended by the Creator on social media. 
+ 
+ The
+ main screen has seven main areas where the Creator can take action. There is a hamburger menu in the upper left to
+ access administrative functions and there is a balance due to the Creator displayed on the upper right. Next, going down the screen
+ there is a search bar, a map tool, a left to the right slider to select brands that will pay for posts, and an up and down slider
+ to select locations nearby that will pay to post. The hamburger menu in the upper left gives the Creator access to
+ change bank or payment information, to link to social media, and to invite friends. The balance due to the Creator number in the
+ upper right has the total of monies pending and monies due but not yet transferred to the Creator. 
+
+11 
+
+When
+ Creators select a brand or location tile from the main menu, the App enables them to take pictures of their enjoying the product
+ or experience. The App then enables them to customize the caption that will be posted to social media. Once Creators submit the pictures
+ and captions, they get uploaded and displayed on the social media account of those Creators. 
+
+12 
+
+Thumzup 
+ inserts the tag required to disclose that the post is a paid promotion. If the Advertiser, in this case at left, a fictional brand
+ called Wearclick has chosen to offer a discount code to the Thumzup Creator s friends on social media, that discount
+ code gets embedded in the post along with the offer. 
+ 
+ When
+ the Creator makes a new post, the post is reviewed by Thumzup on behalf of the Advertiser to assure that it meets community standards,
+ does not include sexually explicit images or text, and that the post reflects the Advertiser in a commercially favorable light. For
+ instance, if images are poorly lit or irrelevant to the brand, Creators may be sent text messages to the Creators giving them this
+ feedback and explaining that the post is not due for payment. 
+ 
+ When
+ Creators want to receive the money they have earned they tap on the PayMe! selection on the App menu. The App then pays the Creator
+ via online payment systems, such as Venmo or PayPal, the amount due from all screened posts made by that Creator. 
+ 
+ The
+ App enables the Creator to search for brands they like that will pay them to post. This is useful so that Thumzup Creators can
+ easily discover brands they like to post about. The App pays Creators to post about brands. 
+
+13 
+
+In
+ the Company s opinion, paid posts from happy customers about how much they like an Advertiser s goods or services offer
+ attractive, compelling values to both Advertisers and Creators compared to traditional online advertising because those posts should
+ yield higher response rates. 
+
+The
+Thumzup system provides Advertisers with quality control by enabling the Advertiser to review posts to make sure that the posts
+meet community standards and are commercially useful to the Advertiser. This helps reduce the number of people who may try to game the
+system to otherwise not use it properly. Thumzup Creators can opt-in to receive text message from brands. This opt-in opportunity
+is valuable to Advertiser brands because text messages have higher visibility to potential customers than emails. 
+
+The
+Thumzup system enables campaign spend to be limited by a total dollar amount as determined by the Advertiser. Once
+the posts that the Advertiser has paid for have been posted and approved for payment, the campaign expires and the Advertiser incurs
+no additional cost until it chooses to increase the amount. It also enables the Advertiser to limit the number of posts made by an individual
+Creator by day, week, and month. The Company believes that this feature enables more efficient budgetary control while reducing unintended
+cost overruns. This feature may eliminate abuse or saturation by Creators who post more than what may be commercially valuable to Advertisers. 
+
+14 
+
+Financing
+Plan 
+
+In
+November 2020, the Company raised an aggregate of 215,000 through issuance of senior secured convertible promissory notes to four holders,
+which have since been converted and exchanged 
+
+into shares of Common and Preferred Stock, respectively, and are now retired. From January
+1, 2021 through December 31, 2022, the Company has raised an additional 1,880,412 and 1,260,000 through the sale of its Common and
+Preferred Stock, respectively, to Accredited Investors in private placements pursuant to section 4(a)(2) of the Securities Act of 1933.
+These funds have been used to build and beta test the Thumzup App and to cover operating costs, including other administrative costs
+and expenses. 
+
+During
+the year 2021 the Company was pre-revenue and transitioned into beta testing. The Company has generated minimal revenue in 2022 from
+a limited soft launch in Santa Monica and Venice, CA. The Thumzup App commercial launch began in late 2022 in a geographic region
+around the West Side of Los Angeles with expansion into other geographic regions planned for 2023 and beyond. 
+
+The
+Company is currently conducting an offering under Regulation A+, pursuant
+to an Offering Statement on Form 1-A/A filed on December 23, 2022 and qualified on January 9, 2023, through which the Company is offering
+up to 2 million shares of common stock at a purchase price of 4.50 per share. The Company currently has subscriptions for 64,894 shares
+for an aggregate subscription amount of 292,023 in escrow as fully described in the Company s Form 1-A/A filed on December 23,
+2022. 
+
+Competition 
+
+The
+Company has competitors in influencer marketing software companies as GRIN, #paid, CreatorIQ, Mavrck, Popular Pays, Tribe Dynamics, AspireIQ,
+Influenster, Traackr, and Hivency. All of the above-named competitor influencer marketing software is focused on influencers who see
+themselves as professional influencers. To the best of the Company s knowledge, these competitors are not building platforms designed
+to turn social media creators into micro-influencers in the manner that the Company seeks to accomplish. Rep is also an app that connects
+brands with influencers who are interesting in promoting brands. Rep s app is different from Thumzup because it is targeting
+people who consider themselves influencers. 
+
+The
+Company does not currently know of another business that is seeking to build a community of everyday people and empowering them to post
+about brands that they love. 
+
+Nevertheless,
+the influencer marketing industry segments are rapidly evolving and competitive and the Company expects competition to intensify in the
+future with the emergence of new technologies and market entrants. The Company s competitors may enjoy competitive advantages,
+such as greater name recognition, longer operating histories, substantially greater market share, established marketing relationships
+with, and access to, large existing advertisers and user bases, and substantially greater financial, technical and other resources. These
+competitors may use these advantages to offer apps or other products similar to the Company s at a lower price, develop different
+products to compete with the Company s current solutions and respond more quickly and effectively than the Company does to new
+or changing opportunities, technologies, standards or client requirements particularly across different cities and geographical regions.
+Certain competitors could also use strong or dominant positions in one or more markets to gain competitive advantage against the Company
+in markets in which it operates in the future. The Company believes its ability to compete successfully for users, content, and advertising
+and other customers depends upon many factors both within and beyond the Company s control, including: 
+
+the
+ popularity, usefulness, ease of use, performance and reliability of the Thumzup App and services compared to those of competitors; 
+
+the
+ ability, in and of itself as well as in comparison to the ability of competitors, to develop new apps, other products and services
+ and enhancements to then existing apps, products and services; 
+
+15 
+
+the
+ Company s ad targeting and measurement capabilities, and those of its competitors; 
+
+the
+ size, composition and level of engagement of the Thumzup App user communities relative to those of the Company s competitors; 
+
+the
+ Company s marketing and selling efforts, and those of its competitors; 
+
+the
+ pricing of the Thumzup Apps and services relative to those of its competitors; 
+
+the
+ actual or perceived return the Company s customers receive from the deployment of the Thumzup Apps within the user communities
+ relative to returns from the Company s competitors; and 
+
+the
+ Company s reputation and brand strength relative to its competitors. 
+
+Problems
+in the market that Thumzup solves 
+
+According
+to Inc. Magazine, in 2019, JetBlue Airways did a promotion where it offered free travel to people in exchange for posting about JetBlue
+on social media. The promotion was deemed not to be a success because many of the people reportedly deleted the posts after claiming
+the reward. JetBlue had no platform for tracking the influencers and holding them accountable. The Thumzup Platform allows Advertisers
+to limit and or cap their advertising spend, as well as allowing the Advertiser to approve individual posts prior to the Creator being
+paid. 
+
+Employees 
+
+As
+of December 31, 2022, The Company has four (4) full-time employees, as well as sixteen (16) marketing, sales, and finance
+independent contractors. The Company also utilizes the services of approximately seven (7) part-time software developers. All of
+these software developers are third-party contractors and are located outside the United States. 
+
+Legal
+Proceedings 
+
+From
+time to time, the Company may become involved in litigation or other legal proceedings. The Company is not currently a party to any litigation
+or legal proceedings. Regardless of outcome, litigation can have an adverse impact on the Company because of defense and settlement costs,
+diversion of management resources and other factors. 
+
+Available
+Information: 
+
+Thumzup 
+is located at 11845 W. Olympic Blvd, Ste 1100W #13, Los Angeles, CA 90064. Our telephone number is (800) 403-6150 and our Internet website
+address is www.ThumzupMedia.com. 
+
+We
+file or furnish electronically with the U.S. Securities and Exchange Commission SEC annual reports on Form 10-K, quarterly
+reports on Form 10- Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d)
+of the Exchange Act. We make copies of these reports available free of charge through our investor relations website as soon as reasonably
+practicable after we file or furnish them with the SEC. These reports are also accessible through the SEC website at www.sec.gov. Information
+contained on or accessible through our website www.thumzupmedia.com is not incorporated into, and does not form a part of, this Annual
+Report or any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references
+only. 
+
+16 
+
+Item
+1A. Risk Factors. 
+
+An
+investment in our in our common stock involves a high degree of risk. The risks described below include the principal material risks
+to our company or to investors that are known to our company. You should carefully consider the risks described below together with the
+other information contained in this Form 10-K. If any of the following risks actually occur, our business, financial condition and results
+of operations could be materially harmed. As a result, should a trading market develop, as to which no assurance can be given, the trading
+price of our common stock could decline, and investors might lose all or part of their investment. 
+
+Risks
+Relating to Our Business 
+
+In
+addition to the other information in this Annual Report, you should carefully consider the following factors in evaluating us and our
+business. This Annual Report on Form 10-K contains, in addition to historical information, forward-looking statements that involve risks
+and uncertainties, some of which are beyond our control. Should one or more of these risks and uncertainties materialize or should underlying
+assumptions prove incorrect, our actual results could differ materially. Factors that could cause or contribute to such differences include,
+but are not limited to, those discussed below, as well as those discussed elsewhere in this Form 10-K, including the documents incorporated
+by reference. 
+
+There
+are risks associated with investing in companies such as ours who are primarily engaged in research and development. In addition to risks
+which could apply to any company or business, you should also consider the business we are in and the following: 
+
+The
+Company is a recently formed company with an unproven business plan, has not yet established profitable operations and has generated
+minimal revenue. 
+
+The
+Company has principally funded its operations through the sale of equity and equity instruments, including senior secured convertible
+promissory notes in the aggregate principal amount of 215,000 (the entirety of which have been converted into either common or preferred
+stock), the sale of Common Stock yielding gross proceeds of approximately 1,853,500, and the sale of 28,004 shares of Series A Preferred
+for aggregate proceeds of approximately 1,259,995. As the Company moves forward in developing its technology and commercializing the
+Thumzup mobile application (the Thumzup App or App ), or as it responds to potential opportunities and/or
+adverse events, the Company s working capital needs may change. Pending its ability to generate adequate cash flow, as to which
+no assurance can be given, the Company likely will continue to incur significant losses in the foreseeable future for various reasons,
+including unforeseen expenses, difficulties, complications, and delays, and other unknown events. As a result, the Company will require
+additional funding to sustain its ongoing operations and to continue its research and development activities. The Company cannot assure
+that its available funds will be sufficient to meet its anticipated needs for working capital and capital expenditures through any period
+of twelve months. 
+
+The
+Company s ability to generate positive cash flow will be dependent upon its ability to recruit and retain Advertisers and Creators.
+The Company can give no assurances it will generate sufficient cash flows in the future to satisfy its liquidity requirements or sustain
+continuing operations, or that additional funding, if required, will be available when needed or, if available, on favorable terms. 
+
+The
+Company was formed in October 2020 and has not yet established profitable operations and has generated nominal revenue. 
+
+For
+the year ended December 31, 2022, we incurred a net loss available to shareholders of 1,221,765, primarily due to software research and
+development expenses of 567,408, marketing expenses of 224,088, and general and administrative expenses of 418,940. For the year ended
+December 31, 2021, the Company incurred 857,255 in net losses primarily due to 716,524 in software research and development expenses,
+ 102,698 in general and administrative expenses, and 17,486 in interest expense. 
+
+The
+Company expects to continue to incur losses from operations and negative cash flows, which raise substantial doubt about its ability
+to continue as a going concern. 
+
+The
+Company anticipates incurring additional losses until such time, if ever, it can obtain adequate Advertiser support and acceptance by
+Creators. Substantial additional financing will be needed to fund the Company s development, marketing and sales activities and
+generally to commercialize its technology and develop brand support and Creator acceptance. These factors raise substantial doubt about
+the Company s ability to continue as a going concern. 
+
+17 
+
+The
+Company will seek to obtain additional capital through the issuance of debt or equity financings or other arrangements to fund operations;
+however, there can be no assurance it will be able to raise needed capital under acceptable terms, if at all. The sale of additional
+equity may dilute existing shareholders and newly issued shares may contain senior rights and preferences compared to currently outstanding
+shares of Common Stock. Should the Company choose to issue debt in the future, such debt securities may contain covenants and limit the
+Company s ability to pay dividends or make other distributions to shareholders. If the Company is unable to obtain such additional
+financing, future operations would need to be scaled back or discontinued. Due to the uncertainty in the Company s ability to raise
+capital, the Company believes that there is substantial doubt as to its ability to continue as a going concern. 
+
+The
+Company s independent registered public accounting firm s reports have raised substantial doubt as to its ability to continue
+as a going concern. 
+
+The
+Company s independent registered public accounting firm indicated in its reports on the audited financial statements for the years
+ended December 31, 2022 and 2021 that there is substantial doubt about the Company s ability to continue as a going concern. A
+ going concern opinion indicates that the financial statements have been prepared assuming the business will continue as
+a going concern and do not include any adjustments to reflect the possible future effects on the recoverability and classification of
+assets, or the amounts and classification of liabilities that may result if the Company does not continue as a going concern. Therefore,
+prospective Investors should not rely on the Company balance sheet as an indication of the amount of proceeds that would be available
+to satisfy claims of creditors, and potentially be available for distribution to shareholders, in the event of liquidation. The presence
+of the going concern note to the Company s financial statements may have an adverse impact on the relationships the Company is
+developing and plan to develop with third parties as it continues the commercialization of its products and could make it challenging
+and difficult for the Company to raise additional financing, all of which could have a material adverse impact on the business and prospects
+and result in a significant or complete loss of an investment. 
+
+There
+is no assurance that the Company will ever be profitable or that debt or equity financing will be available to it in the amounts, on
+terms, and at times deemed acceptable to the Company, if at all. The issuance of additional equity securities by the Company would result
+in a significant dilution in the equity interests of its Shareholders. Obtaining commercial loans, assuming those loans would be available,
+would increase the Company s liabilities and future cash commitments. If the Company is unable to obtain financing in the amounts
+and on terms deemed acceptable to it, the Company may be unable to continue the business, as planned, and as a result may be required
+to scale back or cease operations, the results of which would be that shareholders would lose some or all of their investment. The financial
+statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or
+the amounts and classifications of liabilities that may result should the Company be unable to continue as a going concern. 
+
+The
+continuing COVID-19 pandemic may have a significant negative impact on the Company s business, sales, results of operations and
+financial condition. 
+
+The
+COVID-19 pandemic continues to adversely affect the United States of America and the world, including in the primary regions in which
+the Company plans to operate. Additionally, the Company s liquidity could be negatively impacted if these conditions continue for
+a significant period of time. Capital and credit markets have been disrupted by the crisis and the Company s ability to obtain
+any required financing is not guaranteed and largely dependent upon evolving market conditions and other factors. Depending on the continued
+impact of the crisis, further actions may be required to improve the Company s cash position and capital structure. 
+
+The
+extent to which the COVID-19 outbreak could ultimately impact the Company s business, sales, results of operations and financial
+condition, will depend on future developments, which are highly uncertain and cannot be predicted, including, but not limited to, the
+duration and spread of the outbreak, its severity, the actions to contain the virus or treat its impact, and how quickly and to what
+extent normal economic and operating conditions can resume. Even after the COVID-19 outbreak has fully subsided, the Company may continue
+to experience significant impacts to its business as a result of its global economic impact, including any economic downturn or recession
+that has occurred or may occur in the future. 
+
+18 
+
+The
+Company may not generate sufficient cash flows to cover its operating expenses. 
+
+As
+noted previously, the Company has incurred operating losses since inception and expects to continue to incur losses as a result of expenses
+related to research and continued development of its technology, marketing expense, corporate general and administrative expenses and
+interest on the senior secured convertible promissory notes. The Company has principally funded its operations to date through the sale
+of senior secured convertible promissory notes in the aggregate principal amount of 215,000 (the entirety of which have been converted
+into either common or preferred stock), the sale of Common Stock yielding gross proceeds of approximately 1,886,500, and the sale of
+28,004 shares of Series A Preferred Convertible Voting Stock for aggregate proceeds of 1,259,995. 
+
+As
+of December 31, 2022, the Company had total Shareholders equity of 1,069,440, an accumulated deficit of 2,084,707, and cash
+and cash equivalents of approximately 1,155,343. Although the Company had cash on hand of 1,155,343 as of December 31, 2022, there
+is no assurance that these funds will prove adequate beyond twelve months. 
+
+In
+the event that the Company is unable to generate sufficient cash from its operating activities or raise additional funds, it may be required
+to delay, reduce or severely curtail its operations or otherwise impede the Company s on-going business efforts, which could have
+a material adverse effect on its business, operating results, financial condition and long-term prospects. 
+
+Security
+breaches and other disruptions could compromise the Company s information and expose it to liability, which would cause its business
+and reputation to suffer. 
+
+In
+the ordinary course of the Company s business, it may collect and store sensitive data, including intellectual property, proprietary
+business information, proprietary business information of its customers, including, credit card and payment information, and personally
+identifiable information of customers and employees. The secure processing, maintenance, and transmission of this information is critical
+to the Company s operations and business strategy. As such, the Company is subject to federal, state, provincial and foreign laws
+regarding privacy and protection of data. Some jurisdictions have enacted laws requiring companies to notify individuals of data security
+breaches involving certain types of personal data and the Company s agreements with certain customers require it to notify them
+in the event of a security incident. Evolving regulations regarding personal data and personal information, in the European Union and
+elsewhere, including, but not limited to, the General Data Protection Regulation (GDPR), and the California Consumer Privacy Act of 2018,
+especially relating to classification of IP addresses, machine identification, location data and other information, may limit or inhibit
+the Company s ability to operate or expand its business. Such laws and regulations require or may require the Company or its customers
+to implement privacy and security policies, permit consumers to access, correct or delete personal information stored or maintained by
+the Company or its customers, inform individuals of security incidents that affect their personal information, and, in some cases, obtain
+consent to use personal information for specified purposes. 
+
+The
+Company intends to take reasonable steps to protect the security, integrity and confidentiality of the information it collects, uses,
+stores, and discloses, and it takes steps to strengthen its security protocols and infrastructure, however, the Company s information
+technology and infrastructure may be vulnerable to attacks by hackers or breached due to employee error, malfeasance, or other disruptions.
+The Company also could be negatively impacted by software bugs or other technical malfunctions, as well as employee error or malfeasance.
+Advanced cyber-attacks can be multi-staged, unfold over time, and utilize a range of attack vectors with military-grade cyber weapons
+and proven techniques, such as spear phishing and social engineering, leaving organizations and users at high risk of being compromised.
+Any such access, disclosure, or other loss of information could result in legal claims or proceedings, liability under laws that protect
+the privacy of personal information, regulatory penalties, a disruption of the Company s operations, damage to its reputation,
+a loss of confidence in the Company s business, early termination of its contracts and other business losses, indemnification of
+its customers, liability for stolen assets or information, increased cybersecurity protection and insurance costs, financial penalties,
+litigation, regulatory investigations and other significant liabilities, any of which could materially harm and adversely affect the
+Company s business, revenues, and competitive position. 
+
+19 
+
+The
+Company is dependent on third parties to, among other things, maintain its servers, provide the bandwidth necessary to transmit content,
+and utilize the content derived therefrom for the potential generation of revenues. 
+
+The
+Company depends on third-party service providers, suppliers, and licensors to supply some of the services, hardware, software, and operational
+support necessary to provide some of its products and services. Some of these third parties do not have a long operating history or may
+not be able to continue to supply the equipment and services the Company desires in the future. If demand exceeds these vendors 
+capacity, or if these vendors experience operating or financial difficulties or are otherwise unable to provide the equipment or services
+the Company needs in a timely manner, at its specifications and at reasonable prices, the Company s ability to provide some products
+and services might be materially adversely affected, or the need to procure or develop alternative sources of the affected materials
+or services might delay its ability to serve its users. These events could materially and adversely affect the Company s ability
+to retain and attract users, and have a material negative impact on its operations, business, financial results, and financial condition. 
+
+Because
+the Company does not intend to pay any cash dividends on its shares of common stock in the near future, shareholders will not be able
+to receive a return on their shares unless and until they sell them. 
+
+The
+Company intends to retain a significant portion of any future earnings to finance the development, operation and expansion of its business.
+The Company does not anticipate paying any cash dividends on its Common Stock in the near future. The declaration, payment, and amount
+of any future dividends will be made at the discretion of the Company Board of Directors, and will depend upon, among other things, the
+results of operations, cash flows, and financial condition, operating and capital requirements, and other factors as its Board of Directors
+considers relevant. There is no assurance that future dividends will be paid, and, if dividends are paid, there is no assurance with
+respect to the amount of any such dividend. Unless the Board of Directors determines to pay dividends, Shareholders will be required
+to look to appreciation of the Company s Common Stock to realize a gain on their investment. There can be no assurance that this
+appreciation will occur. 
+
+The
+Company is dependent on key personnel. 
+
+The
+Company s continued success will depend, to a significant extent, on the services of its Directors, executive management team,
+and key personnel. If one or more of these individuals were to leave, there is no guarantee the Company could replace them with qualified
+individuals in a timely or economically satisfactory manner or at all. The loss or unavailability of any or all of these individuals
+could harm the Company s ability to execute its business plan, maintain important business relationships and complete certain product
+development initiatives, which would have a material adverse effect on its business, results of operations and financial conditions. 
+
+The
+Company may not be able to successfully execute the business plan. 
+
+The
+Company is raising significant amounts of capital in order to scale its operations. This will allow the Company to expand its operations
+and continue to build out its business model. There is no guarantee that the Company will be able to achieve or sustain the foregoing
+within the anticipated timeframe, or at all even though the Company s Directors and Officers are industry professionals.
+The Company may exceed the budget, encounter obstacles in development activities, or be hindered or delayed in implementing the Company s
+plans, any of which could imperil the Company s ability to execute its business plan. 
+
+The
+Company is a new company with a brief operating history, no revenue and an untested business plan which may not be accepted in the markets
+in which it intends to operate. 
+
+The
+Company was formed in Nevada in October 2020 and will encounter difficulties, including unforeseen difficulties as an early-stage, pre-revenue
+company in establishing the credibility of its brand and service. 
+
+The
+Company will incur net losses in the foreseeable future if it is unable to anticipate market trends and match its service offerings to
+market patterns. The Company s business strategy is unproven, and it may not be successful in addressing early-stage challenges,
+such as establishing the Company s position in the market and developing effective marketing of its Thumzup App. To implement
+its business plan, the Company will be required to obtain additional financing but cannot guaranty that such additional financing will
+be available. 
+
+20 
+
+The
+Company s prospects must be considered highly speculative, considering the risks, expenses, and difficulties frequently encountered
+in the establishment of a new business with an unproven business plan, specifically the risks inherent in developmental stage companies
+seeking to have mobile app users with limited number social media followers endorse products or services at a level that Advertisers
+will seek to fund and support. The Company expects to continue to incur significant operating and capital expenditures and, as a result,
+it expects significant net losses in the future. The Company cannot assure that it will be able to achieve positive cash flow operations
+or, if achieved, that positive cash can be maintained for any significant period, or at all. 
+
+Although
+the Company believes that its business strategy addresses an underserved but significant niche of market segment utilizing important
+Creators or consumers whom it defines as micro-influencers, the Company may not be successful in the implementation of
+its business strategy or its business strategy may not be successful, either of which will impede the Company s development and
+growth. The Company s business strategy involves attracting a large number of Creators who are active in social media and who are
+willing to make recommendations over the Thumzup App with Advertisers who find the Company s service cost effective in generating
+sales and market support. The Company s ability to implement this business strategy is dependent on its ability to: 
+
+predict
+ concerns of Advertisers; 
+
+identify
+ and engage Advertisers; 
+
+convince
+ a large number of end users to adopt the Thumzup App; 
+
+establish
+ brand recognition and customer loyalty; and 
+
+manage
+growth in administrative overhead costs during the initiation of the Company s business efforts. 
+
+The
+Company does not know whether it will be able to successfully implement its business strategy or whether the Company s business
+strategy will ultimately be successful. In assessing the Company s ability to meet these challenges, a potential Investor should
+consider the Company s lack of operating history and brand recognition, its focus on nano-influencer Creators, management s
+relative inexperience, the competitive conditions existing in its industry and general economic conditions and consumer discretionary
+spending habits. The Company s growth is largely dependent on its ability to successfully implement its business strategy. The
+Company s revenue may be adversely affected if it fails to implement its business strategy or if the Company diverts resources
+to a business strategy that ultimately proves unsuccessful. 
+
+The
+Company has not yet established brand identity and customer loyalty . 
+
+The
+Company believes that establishing and maintaining brand identity and brand loyalty is critical to attracting and retaining active users
+to the Thumzup App program. In order to attract Thumzup App Creators to the Company s program quarter over quarter, the
+Company may need to spend substantial funds to create and maintain brand recognition among Thumzup App users. If the Company s
+branding efforts are not successful, its ability to earn revenues and sustain its operations will be materially impaired. 
+
+Promotion
+and enhancement of the Thumzup App will also depend on the Company s success in consistently providing high-quality, ease-of-use,
+fun-to-share products or recommended services to the Company s App users. Since the Company relies on technology partners to provide
+portions of the service to its customers, if the Company s suppliers do not send accurate and timely data, or if its customers
+do not perceive the products it offers as attractive or superior, the value of the Thumzup brand could be harmed. Any brand impairment
+or dilution could decrease the attractiveness of Thumzup to one or more of these groups, which could harm the Company s business,
+results of operations and financial condition. 
+
+The
+Company cannot assure investors that the Thumzup App will be accepted. 
+
+Anticipation
+of demand and market acceptance of service offerings are subject to a high level of uncertainty and challenges to implementation. The
+success of the Company s service offerings primarily depends on the interest of Creators joining its service, as to which it cannot
+assure to prospective Investors. In general, achieving market acceptance for the Company s services will require substantial marketing
+efforts and the expenditure of significant funds, the availability of which the Company cannot be assured, to create awareness and demand
+among customers. The Company has limited financial, personnel and other resources to undertake extensive marketing activities. Accordingly,
+no assurance can be given as to the acceptance of the Thumzup App services or the Company s ability to generate the revenues
+necessary to remain in business. 
+
+21 
+
+A
+better financed competitor may enter the marketplace, cause the Company s market share or acceptance rates to plummet and adversely
+affect its ability to sustain viable operations. 
+
+While
+platforms are in operation for professional or large-scale influencers, to the Company s knowledge no other company is currently
+offering Advertisers a scalable platform to activate everyday end-user micro-influencers who do not possess a large legion of followers.
+The success of the Company s service offerings primarily depends on the interest of Creators and Advertisers joining its service,
+as opposed to a similar service offered by a competitor catering to celebrities or other large-scale influencers. If a direct competitor
+having greater human and cash resources enters the market targeting micro-influencers, the Company s achieving market acceptance
+for the Thumzup App may require additional marketing efforts and the expenditure of significant funds to create awareness and demand
+among customers. The Company has limited financial, personnel and other resources to undertake additional marketing activities. Accordingly,
+the Company may be unable to compete, its operations may suffer, and it may suffer greater losses. 
+
+Although
+the Company may own various intellectual property rights, these rights may not provide it with any competitive advantage . 
+
+The
+Company uses Thumzup as a brand name, however it cannot assure prospective Investors that the services it sells, or
+that its brand name will not infringe on the intellectual property rights of others, or that the Company s assertions of intellectual
+property rights will be enforceable or provide protection against competitive products or otherwise be commercially valuable. Moreover,
+enforcement of intellectual property rights typically requires time-consuming and costly litigation, and the Company cannot assure that
+others will not independently develop substantially similar products. 
+
+The
+Company s future financial results are uncertain and its operating results may fluctuate, due to, among other things, consumer
+trends, the impact of COVID on advertising budgets and App user activity, competition, and changing social media behaviors. 
+
+As
+a result of the Company s lack of operating history, it is unable to forecast market penetration or anticipated revenue and it
+has little historical financial data upon which to base planned operating expenses. The Company bases its current and future expense
+levels on its operating plans and estimates of future expenses. The Company s expenses are dependent in large part upon expenses
+associated with its proposed marketing expenditures and related overhead expenses, and the costs of hiring and maintaining qualified
+personnel to carry out its respective services. Sales and operating results are difficult to forecast because they will depend on the
+growth of the Company s customer base, changes in customer demands based on consumer trends, the degree of utilization of its advertising
+services as well as the mix of products and services sold by its Advertisers. 
+
+As
+a result, the Company may be unable to make accurate financial forecasts and adjust its spending in a timely manner to compensate for
+any unexpected revenue shortfall. This inability could cause the Company s net losses in a given quarter to be greater than expected
+and could further cause continuing greater losses quarter over quarter. 
+
+The
+Company s ability to succeed will depend on the ability of its management to control costs . 
+
+The
+Company has used reasonable commercial efforts to assess and predict costs and expenses based on the and restricted cash experience of
+its management. However, the Company has a limited operating history upon which to base predictions. Implementing its business plan may
+require more employees, equipment, supplies or other expenditure items than the Company has predicted. Similarly, the cost of compensating
+additional management, employees and consultants or other operating costs may be more than its estimates, which could result in sustained
+losses. 
+
+22 
+
+Key
+personnel of the Company do not devote full time to the affairs of the Company and could allocate their time and attention to other business
+ventures which may not benefit the Company. 
+
+The
+Company s Officers and Directors may engage in other activities. Although there are none known to the Company, the potential for
+conflicts of interest exists among the Officers, Directors, and affiliated persons for future business opportunities that may not be
+presented to the Company. The Company s Officers and Directors may have conflicts of interests in allocating time, services, and
+functions between the other business ventures in which those persons may be or become involved. The Company s Officers and Directors
+however believe that the business will have sufficient staff, consultants, employees, agents, contractors, and managers to adequately
+conduct its business. 
+
+The
+Company s Officers, Directors, and employees are entitled to receive compensation, payments and reimbursements, regardless of whether
+it operates at a profit or a loss. 
+
+Any
+compensation received by the Officers, management personnel, and Directors, and for the Company s founders will be determined from
+time to time by the Board of Directors. The Company s Officers, Directors and management personnel will be reimbursed for any out-of-pocket
+expenses incurred on their behalf. 
+
+Combination
+or layering of multiple risk factors may significantly increase the risk of loss on share of the Company s common
+stock . 
+
+Although
+the various risks discussed in this Offering Circular are generally described separately, investors should consider the potential effects
+of the interplay of multiple risk factors. Where more than one significant risk factor is present, the risk of loss to an investor may
+be significantly increased. In considering the potential effects of layered risks, an Investor should carefully review the descriptions
+of the shares. 
+
+Our
+business is sensitive to consumer spending, inflation and economic conditions. 
+
+Consumer
+purchases of discretionary retail items and restaurants may be adversely affected by national and regional economic, market and other
+conditions such as employment levels, salary and wage levels, the availability of consumer credit, inflation, high interest rates, high
+tax rates, high fuel prices, the threat of a pandemic or other health crisis (such as COVID-19) and consumer confidence with respect
+to current and future economic, market and other conditions. Consumer purchases may decline during recessionary periods or at other times
+when unemployment is higher or disposable income is lower. These risks may be exacerbated for retailers such as our Advertisers. Consumer
+willingness to make discretionary purchases may decline, may stall or may be slow to increase due to national and regional economic conditions.
+Our financial performance is particularly susceptible to economic and other conditions in regions or states where we have a significant
+presence. There remains considerable uncertainty and volatility in the national and global economy. Further or future slowdowns or disruptions
+in the economy, market and other conditions could adversely affect mall traffic and new mall and shopping center development and could
+materially and adversely affect us and our business strategy. We may not be able to sustain or increase our current net sales if there
+is a decline in consumer spending. 
+
+A
+deterioration of economic conditions and future recessionary periods may exacerbate the other risks faced by our business, including
+those risks we encounter as we attempt to execute our business plans. Such risks could be exacerbated individually or collectively. 
+
+Russia s
+Invasion of Ukraine may negatively impact our business. 
+
+On
+February 24, 2022, Russia launched an invasion of Ukraine which has resulted in increased volatility in various financial markets and
+across various sectors. The United States and other countries, along with certain international organizations, have imposed economic
+sanctions on Russia and certain Russian individuals, banking entities and corporations as a response to the invasion. The extent and
+duration of the military action, resulting sanctions and future market disruptions in the region are impossible to predict. Moreover,
+the ongoing effects of the hostilities and sanctions may not be limited to Russia and Russian companies and may spill over to and negatively
+impact other regional and global economic markets of the world, including Europe and the United States. The ongoing military action along
+with the potential for a wider or nuclear conflict could further increase financial market volatility and cause negative effects on regional
+and global economic markets, industries, and companies. It is not currently possible to determine the severity of any potential adverse
+impact of this event on the financial condition of any of the Company s securities, or more broadly, upon the global economy. 
+
+23 
+
+Several
+of our outsourced developers are based in Pakistan and our product development could be impacted by conflict in the Middle East. 
+
+Pakistan s
+economy is heavily dependent on exports and subject to high interest rates, economic volatility, inflation, currency devaluations, high
+unemployment rates and high level of debt and public spending. There is also the possibility of nationalization, expropriation or confiscatory
+taxation, security market restrictions, political changes, government regulation, a conflict with India, or diplomatic developments (including
+war or terrorist attacks), which could affect adversely the economy of Pakistan or the ability of the Company to continue developing
+its platform. As an emerging country, Pakistan s economy is susceptible to economic, political and social instability; unanticipated
+economic, political or social developments could impact economic growth. Pakistan is also subject to natural disaster risk. In addition,
+recent political instability and protests in the Middle East have caused significant disruptions to many industries. Pakistan has recently
+seen elevated levels of ethnic and religious conflict, in some cases resulting in violence or acts of terrorism. Continued political
+and social unrest in these areas may negatively affect the Company. 
+
+We
+rely on third-party internal and outsourced software to run our critical development and information systems. As a result, any sudden
+loss, disruption or unexpected costs to maintain these systems could significantly increase our operational expense and disrupt the management
+of our business operations. 
+
+We
+rely on third-party software to run our critical development and information systems. We also depend on our software vendors to provide
+long-term software maintenance support for our information systems. Software vendors may decide to discontinue further development, integration
+or long-term software maintenance support for our information systems, in which case we may need to abandon one or more of our current
+information systems and migrate some or all of our development and information systems, thus increasing our operational expense as well
+as disrupting the management of our business operations. 
+
+Cyber
+security breaches of our systems and information technology could adversely impact our ability to operate. 
+
+We
+need to protect our own internal trade secrets, work product for our clients, and other business confidential information from disclosure.
+We face the threat to our computer systems of unauthorized access, computer hackers, computer viruses, malicious code, organized cyber-attacks
+and other security problems and system disruptions, including possible unauthorized access to our and our clients proprietary
+or classified information. 
+
+We
+rely on industry-accepted security measures and technology to maintain securely all confidential and proprietary information on our information
+systems. We have devoted and will continue to devote significant resources to the security of our computer systems, but they are still
+vulnerable to these threats. A user who circumvents security measures can misappropriate confidential or proprietary information, including
+information regarding us, our personnel and/or our clients, or cause interruptions or malfunctions in operations. Our industry has not
+been immune from organized cyber-attacks from persons seeking a ransom as a condition of releasing access to the firm s computer
+systems. As a result, we can be required to expend significant resources to protect against the threat of these system disruptions and
+security breaches or to alleviate problems caused by these disruptions and breaches. Any of these events can damage our reputation and
+have a material adverse effect on our business, financial condition, results of operations and cash flows. 
+
+Risks
+Related to the Common Stock 
+
+There
+can be no assurance that our Common Stock will ever be approved for listing on a national securities exchange. Failure
+to develop or maintain an active trading market could negatively affect the value of our Common Stock and make it difficult or impossible
+for investors to sell their shares in a timely manner. 
+
+There
+is currently very limited trading of our Common Stock, and an active trading market may never develop. Our Common Stock is quoted on
+the OTCQB tier of the OTC Markets. The OTCQB tier of the OTC Markets is a thinly traded market and lacks the liquidity of certain other
+public markets with which some investors may have more experience. While
+we remain determined to work towards getting our securities listed on a national exchange, there can be no assurance that this will occur.
+As a result, we may never develop an active trading market for our securities which may limit our investors ability to liquidate
+their investments. 
+
+24 
+
+The
+Company is controlled by its Chairman/Board of Directors, Chief Executive Officer, President, and additional Officers of the Company. 
+
+The
+Company is reliant on the Directors and Officers for key operations. Officers and Directors currently own a majority of common shares
+outstanding. The Board, therefore, has complete control as to the direction of the Company. There is a disproportionate reliance on the
+Directors and Officers for the operation of the Company, and therefore a risk that the direction of the Company may change if the Board
+or Officers are unable to perform their duties as Directors and Officers. 
+
+The
+Company s common stock price may be volatile, which could result in substantial losses to investors and litigation. 
+
+In
+addition to changes to market prices based on the Company s results of operations and the factors discussed elsewhere in this Risk
+Factors section, the market price of and trading volume for the common stock may change for a variety of other reasons, not necessarily
+related to the Company s actual operating performance. The capital markets have experienced extreme volatility that has often been
+unrelated to the operating performance of particular companies. These broad market fluctuations may adversely affect the trading price
+of the Company s common stock. In addition, the average daily trading volume of the securities of small companies can be very low,
+which may contribute to future volatility. Factors that could cause the market price of the Common Stock to fluctuate significantly include: 
+
+the
+ results of operating and financial performance and prospects of other companies in the same industry; 
+
+strategic
+ actions by the Company or its competitors, such as acquisitions or restructurings; 
+
+announcements
+ of innovations, increased service capabilities, new or terminated customers or new, amended or terminated contracts by competitors; 
+
+the
+ public s reaction to Company press releases, other public announcements, and filings with the Securities and Exchange Commission; 
+
+lack
+ of securities analyst coverage or speculation in the press or investment community about the Company or market opportunities in the
+ social media marketing industry; 
+
+changes
+ in government policies in the United States and, as the Company s international business increases, in other foreign countries; 
+
+changes
+ in earnings estimates or recommendations by securities or research analysts who track the Company s Common Stock or failure
+ of the Company s actual results of operations to meet those expectations; 
+
+market
+ and industry perception of the Company s success, or lack thereof, in pursuing its growth strategy; 
+
+changes
+ in accounting standards, policies, guidance, interpretations or principles; 
+
+any
+ lawsuit involving the Company, its services or its products; 
+
+arrival
+ and departure of key personnel; 
+
+sales
+ of common stock by the Company, its investors or members of its management team; and 
+
+changes
+ in general market, economic and political conditions in the United States and global economies or financial markets, including those
+ resulting from natural or man-made disasters. 
+
+Any
+of these factors, as well as broader market and industry factors, may result in large and sudden changes in the trading volume of the
+Company s common stock and could seriously harm the market price of the common stock, regardless of the Company s operating
+performance. This may prevent an Investor from being able to sell its shares at or above the price the investor paid for its shares of
+common stock, if at all. In addition, following periods of volatility in the market price of a company s securities, shareholders
+often institute securities class action litigation against that company. The Company s involvement in any class action suit or
+other legal proceeding could divert its senior management s attention and could adversely affect the Company s business,
+financial condition, results of operations and prospects. 
+
+25 
+
+The
+sale or availability for sale of substantial amounts of the Company s common stock could adversely affect the market price of the
+common stock. 
+
+Sales
+of substantial amounts of shares of the Company s common stock, or the perception that these sales could occur, could adversely
+affect the market price of the common stock and could impair the Company s future ability to raise capital through common stock
+offerings. The Company s Officers and Directors still beneficially own, collectively, a substantial percentage of the outstanding
+common stock. If one or more of them were to sell a substantial portion of the shares they hold, it could cause the Company s stock
+price to decline. 
+
+The
+Company is controlled by a small group of existing shareholders, whose interests may differ from other shareholders. The Company s
+Officers and Directors will significantly influence its activities, and their interests may differ from an investor s interests
+as a shareholder. 
+
+The
+Company s Officers and Directors still beneficially own, collectively, a substantial percentage of the outstanding common stock.
+Accordingly, these shareholders have had, and will continue to have, significant influence in determining the outcome of any corporate
+transaction or any other matter submitted for approval to the Company s shareholders, including mergers, consolidations and the
+sale of assets, Director elections and other significant corporate actions. They will also have significant influence in preventing or
+causing a change in control of the Company. In addition, without the consent of these shareholders, the Company could be prevented from
+entering into transactions that could be beneficial to it. The interests of these shareholders may differ from an Investor s interests
+as a shareholder, and they may act in a manner that advances their best interests and not necessarily those of other shareholders. 
+
+The
+Company is an emerging growth company under the JOBS Act and it cannot be certain if the reduced disclosure requirements
+applicable to emerging growth companies will make the Company s common stock less attractive to investors. 
+
+The
+Company is an emerging growth company, as defined in the JOBS Act, and it expects to take advantage of certain exemptions
+from various reporting requirements that are applicable to other public companies that are not emerging growth companies 
+including, but not limited to, (i) being required to present only two years of audited financial statements and related financial disclosure,
+(ii) not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act, (iii) extended
+transition periods for complying with new or revised accounting standards, (iv) reduced disclosure obligations regarding executive compensation
+in periodic reports and proxy statements and (v) exemptions from the requirements of holding a nonbinding advisory vote on executive
+compensation and stockholder approval of any golden parachute payments not previously approved. The Company has taken, and in the future
+may take, advantage of these exemptions until such time that it is no longer an emerging growth company. As a result, the Company s
+financial statements may not be comparable to companies that comply with public company effective dates. The Company cannot predict if
+investors will find its Common Stock less attractive because it relies on these exemptions. If some investors find the Company s
+Common Stock less attractive as a result, there may be a less active trading market for the Common Stock and the price of the Common
+Stock may be more volatile. 
+
+The
+Company will remain an emerging growth company for up to five years, although it will lose that status sooner if its annual
+revenues exceed 1.07 billion, if it issues more than 1 billion in non-convertible debt in a three-year period, or if the market value
+of the Common Stock that is held by non-affiliates exceeds 700 million as of any June 30. 
+
+26 
+
+The
+Company s disclosure controls and procedures may not prevent or detect all errors or acts of fraud. 
+
+The
+Company is subject to the periodic reporting requirements of the Exchange Act, and will be required to maintain disclosure controls and
+procedures that are designed to reasonably assure that information required to be disclosed by the Company in reports it files or submits
+under the Exchange Act is recorded, processed, summarized and reported within the time periods specified by the rules and forms of the
+SEC, and that such information is accumulated and communicated to management to allow timely decisions regarding required disclosure. 
+
+As
+a public company, the Company is also required to maintain internal control over financial reporting and to report any material weaknesses
+in those internal controls. Such internal controls are designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is
+a reasonable possibility that a material misstatement of a company s annual or interim financial statements will not be prevented
+or detected on a timely basis. 
+
+If
+the material weaknesses in the Company s internal controls are not fully remediated or if additional material weaknesses are identified,
+those material weaknesses could cause the Company to fail to meet its future reporting obligations, reduce the market s confidence
+in its financial statements, harm the stock price and subject the Company to sanctions or investigations by the SEC or other regulatory
+authorities. In addition, the Company s common stock may not be able to remain quoted on OTCQB or any other securities quotation
+service or exchange. 
+
+For
+as long as the Company is an emerging growth company, as defined in the JOBS Act, or a non-accelerated filer, as defined
+in Rule 12b-2 under the Exchange Act, the Company s auditors will not be required to attest as to its internal control over financial
+reporting. If the Company continues to identify material weaknesses in its internal control over financial reporting, are unable to comply
+with the requirements of Section 404 in a timely manner, are unable to assert that its internal control over financial reporting is effective
+or, once required, the Company s independent registered public accounting firm is unable to attest that its internal control over
+financial reporting is effective, investors may lose confidence in the accuracy and completeness of its financial reports and the market
+price of the Company s common stock could decrease. The Company could also become subject to stockholder or other third-party litigation
+as well as investigations by the securities exchange on which the Company s securities are listed, the SEC or other regulatory
+authorities, which could require additional financial and management resources and could result in fines, trading suspensions or other
+remedies. 
+
+If
+equity research analysts do not publish research or reports about the company, or if they issue unfavorable commentary or downgrade its
+common stock, the market price of its common stock will likely decline. 
+
+The
+trading market for the Company s common stock will rely in part on the research and reports that equity research analysts, over
+whom it has no control, publish about the Company and its business. The Company may never obtain research coverage by securities and
+industry analysts. If no securities or industry analysts commence coverage of the Company, the market price for its common stock could
+decline. In the event the Company obtains securities or industry analyst coverage, the market price of the common stock could decline
+if one or more equity analysts downgrade the common stock or if those analysts issue unfavorable commentary, even if it is inaccurate,
+or cease publishing reports about the Company or its business. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS. 
+
+None. 
+
+ITEM
+2. PROPERTIES. 
+
+We do not own or lease any real property. We run a virtual office model and our business mailing address is 11845 W. Olympic Blvd, Ste
+1100W #13, Los Angeles, CA 90064. 
+
+ITEM
+3. LEGAL PROCEEDINGS. 
+
+None. 
+
+27 
+
+ITEM
+4. MINE SAFETY DISCLOSURES. 
+
+Not
+applicable. 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market
+Information 
+
+The
+Company s common stock is not traded on a national exchange. As of the date of this filing, Company s common stock is quoted
+on the OTCQB tier of OTC Markets Group with a trading symbol of TZUP. 
+
+As
+of March 29, 2023, there were 7,126,336 shares of the registrant s common stock outstanding, 
+
+Holders
+of Record 
+
+As
+of March 29, 2023 there were 77 stockholders of record. The number of record holders was determined from the records of our transfer
+agent and does not include beneficial owners of Common Stock whose shares are held in the names of various security brokers, dealers,
+and registered clearing agencies. The transfer agent of our Common Stock is Securitize (Pacific Stock Transfer), located at 6725 Via
+Austi Pkwy Suite 300, Las Vegas, NV 89119. 
+
+The
+Company s authorized capital stock consists of 250,000,000 shares of Common Stock, par value 0.001 per share, 25,000,000 shares
+of blank check preferred stock, par value 0.001 per share, of which 1,000,000 have been designated as Series A Preferred Convertible
+Voting stock. As of March 26, 2023, 7,126,336 shares of Common Stock and 128,312 shares of Series A Preferred Convertible Voting stock
+were issued and outstanding. All outstanding shares of the Company s Common Stock and Series A Preferred Convertible Voting Stock
+are duly authorized, validly issued, fully-paid and non-assessable. As of the date of this Annual Report on Form 10-K, only shares of
+Common Stock and Series A Preferred Convertible Voting Stock are outstanding. 
+
+Dividend
+Policy 
+
+We
+have not declared or paid any cash dividends on our common stock during the fiscal year and do not currently anticipate paying cash dividends
+in the foreseeable future. 
+
+Recent
+Sales of Unregistered Securities 
+
+During
+the year ended December 31, 2022, the Company sold 286,834 shares of common stock for cash proceeds of 04,000. From September 21, 2022
+to December 29, 2022, the Company sold 28,004 shares of Series A Preferred Convertible Voting Stock for aggregate proceeds of 1,259,995. The Company incurred 149,137 in offering costs. The offers and sales were made in reliance on the exemption
+from registration provided by Section 4(a)(2). Each beneficial note holder was an accredited investor and/or sophisticated
+investor pursuant to Rule 501(a) of Regulation D under the Securities Act, who provided the Company with representations, warranties
+and information concerning their respective qualifications as an sophisticated investor and/or accredited investor. 
+The Company provided and made available to each purchaser full information regarding its business and operations. There was no general
+solicitation in connection with the offer or sale of the restricted securities. The purchasers acquired the restricted common stock for
+their own account, for investment purposes and not with a view to public resale or distribution thereof. The Company s use of proceeds
+was for corporate and products development and general working capital. 
+
+ITEM
+6. [RESERVED] 
+
+28 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+Sections
+of this Form 10-K, including the Management s Discussion and Analysis or Plan of Operation, contain forward-looking statements .
+These forward-looking statements are subject to risks and uncertainties and other factors that may cause our actual results, performance
+or achievements to be materially different from the results, performance or achievements expressed or implied by the forward-looking
+statements. You should not unduly rely on these statements. Forward-looking statements involve assumptions and describe our plans, strategies,
+and expectations. You can generally identify a forward-looking statement by words such as may, will, should, 
+ would, could, plans, goal, potential, expect, anticipate, 
+ estimate, believe, intent, project, and similar words and variations thereof. 
+
+INTRODUCTION 
+
+The
+Company was incorporated on October 27, 2020, under the laws of the State of Nevada. Its headquarters are located in Los Angeles, CA.
+The Company has never been the subject of any bankruptcy or receivership. The Company has never engaged in any material reclassification,
+merger, or consolidation of the Company. The Company has not acquired or disposed of any material amount of assets except in the normal
+course of business. 
+
+In
+February 2022, the Company was admitted to the Over-The-Counter Venture Market quotation system (OTCQB) under the symbol TZUP. 
+
+Thumzup 
+Products and Services 
+
+The
+Company operates in a single business segment which is social media marketing. The Thumzup App works on both iPhone and Android
+mobile operating systems and connects brands and people who use and love these brands. For the Advertiser, Thumzup incentivizes
+real people to become content Creators and post authentic valuable posts on social media about the Advertiser and its products. 
+
+The
+Company seeks to capitalize on industry-wide gig economy and business democratization trends. Immense value and opportunity have been
+created through the democratization of ride sharing, hospitality, finance and other industries. The Thumzup tools are designed to
+facilitate this democratization trend for the consumer and the Advertiser within the online advertising space. 
+
+The
+Company has built the technology to support an influencer and gig economy community around its Thumzup App. This technology
+and community are designed to generate scalable authentic product posts and recommendations for Advertisers on social media. It is designed
+to connect Advertisers with individuals who are willing to tell their friends about the Advertisers products online and offline. 
+
+Emerging
+Growth Company 
+
+We
+are an emerging growth company under the JOBS Act. We shall continue to be deemed an emerging growth company until the earliest of: 
+
+(a) the
+ last day of the fiscal year of the issuer during which it had total annual gross revenues
+ of 1.07 billion (as such amount is indexed for inflation every five years by the Commission
+ to reflect the change in the Consumer Price Index for All Urban Consumers published by the
+ Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) or more; 
+ 
+ (b) the
+ last day of the fiscal year of the issuer following the fifth anniversary of the date of
+ the first sale of common equity securities of the issuer pursuant to an effective IPO registration
+ statement; 
+ 
+ (c) the
+ date on which such issuer has, during the previous three-year period, issued more than 1.0
+ billion in nonconvertible debt; or 
+ 
+ (d) the
+ date on which such issuer is deemed to be a large accelerated filer , as defined
+ in section 240.12b-2 of title 17, Code of Federal Regulations, or any successor thereto. 
+
+The
+Section 107 of the JOBS Act provides that we may elect to utilize the extended transition period for complying with new or revised accounting
+standards and such election is irrevocable if made. As such, we have made the election to use the extended transition period for complying
+with new or revised accounting standards under Section 102(b)(1) of the JOBS Act. 
+
+29 
+
+We
+have elected to use the extended transition period for complying with new or revised accounting standards under Section 102(b)(2) of
+the JOBS Act, that allows us to delay the adoption of new or revised accounting standards that have different effective dates for public
+and private companies until those standards apply to private companies. As a result of this election, our financial statements may not
+be comparable to companies that comply with public company effective dates. 
+
+OVERVIEW 
+
+We
+were formed in October 2020 and have not yet established profitable operations. For the year ended December 31, 2022, we incurred a net
+loss of 1,221,765, primarily due to software research and development expenses of 567,408, marketing expenses of 224,088, and general
+and administrative expenses of 418,940. For the year ended December 31, 2021, we incurred 857,255 in net losses primarily due to 716,524
+in software research and development expenses, 21,257 in marketing expenses, 102,698 in general and administrative expenses, 17,486
+in interest expense and 1,736 in depreciation expense. 
+
+GOING
+CONCERN 
+
+The
+accompanying financial statements have been prepared in conformity with accounting principles generally accepted in the United States
+of America, which contemplate continuation of the Company as a going concern. However, the Company was only recently formed, has not
+yet established profitable operations and has incurred losses since inception. These factors raise substantial doubt about the ability
+of the Company to continue as a going concern. In this regard, management is proposing to raise additional funds not provided by operations
+through loans or through sales of its common stock. There is no assurance that the Company will be successful in raising this additional
+capital or in achieving profitable operations. The accompanying financial statements do not include any adjustments that might result
+from the outcome of these uncertainties. 
+
+The
+Company is a software and services company that relies primarily on equity funding for its operations. The Company generated its first
+revenues during December 2021. As of December 31, 2022 and 2021, the Company had a cash balance of 1,155,343 and 424,445, respectively.
+The Company used 1,083,960 and 813,211 in cash for operating activities during years ending December 31, 2022 and 2021, respectively.
+The Company expects that it will need to raise additional funding and manage expenses in order to continue as a going concern. No assurances
+can be given that it will be able to raise funds on acceptable terms or at all. 
+
+RESULTS
+OF OPERATIONS 
+
+FOR
+THE YEARS ENDED DECEMBER 31, 2022 and 2021 
+
+For the Fiscal Year ended 
+
+31-Dec-22 
+ 31-Dec-21 
+ Change 
+ Change 
+ 
+ Revenues 
+ 2,421 
+ 2,446 
+ (25 
+ (0.99 
+
+Operating Expenses 
+ 1,213,035 
+ 842,215 
+ 370,820 
+ 44.03 
+
+Loss from Operations 
+ (1,210,614 
+ (839,769 
+ (370,845 
+ 44.15 
+
+Other Income (Expense) 
+ (11,151 
+ (17,486 
+ 6,335 
+ (36.23 
+
+Net Income (Loss) Applicable to Common Stockholders 
+ (1,221,765 
+ (857,255 
+ (364,510 
+ 42.52 
+
+30 
+
+Revenues 
+
+The
+Company generated revenues of 2,421 and 2,446 for the years ended December 31, 2022 and 2021, respectively, a decrease of 25. The
+Company updated its revenue recognition policy for the year ended December 31, 2022, resulting in the Company reporting net revenue,
+which caused revenue to remain materially the same despite a significant increase in advertiser activity during fiscal year 2022. 
+
+Operating
+expenses 
+
+For
+the years ended December 31, 2022 and 2021, the Company incurred operating expenses of 1,213,035 and 842,215, respectively, an increase
+of 370,820. The increase in operating expenses was caused by costs of revenues increasing by 439 from 0 during the year ended December
+31, 2021 to 439 during the year ended December 31, 2022, marketing expenses increasing 202,831 from 21,257 during the year ended December
+31, 2021 to 224,088 during the year ended December 31, 2022, general and administrative expenses increasing 316,242 from 102,698 during
+the year ended December 31, 2021 to 418,940 during the year ended December 31, 2022, depreciation expenses increasing
+ 424 from 1,736 during the year ended December 31, 2021 to 2,160 during the year ended December 31, 2022, offset by a decrease
+in software research development expenses of 149,116 from 716,524 during the year ended December 31, 2021 to 567,408 during the year
+ended December 31, 2022. The decline in software research and development expenses is attributable to the Company focusing on gaining adoption, while the increases in the remaining operating expenses was caused by the Company expanding operations in fiscal year
+2022 to accelerate the platform s growth. 
+
+Net
+Loss from operations 
+
+The
+Company realized a net loss from operations of 1,210,614 and 839,769 for the years ended December 31, 2022 and 2021, respectively, an
+increase of 370,845 for the reasons stated above. 
+
+Other
+expenses 
+
+For
+the years ended December 31, 2022 and 2021, the Company had 11,151 and 17,486 in interest expense, respectively, related to debt notes. 
+
+Net
+Loss applicable to common shareholders 
+
+The
+Company realized a net loss applicable to shareholders of 1,221,765 and 857,255 for the years ended December 31, 2022 and 2021, respectively,
+an increase of 364,510 for the reasons stated above. 
+
+Liquidity
+and capital resources 
+
+As
+of December 31, 2022 and 2021, the Company had cash in the amount of 1,155,343 and 424,445, respectively. As of December 31, 2022 and
+2021, the Company had stockholders equity of 1,069,440 and 179,845, respectively. 
+
+The
+Company s accumulated deficit was 2,084,707 and 862,942 as of December 31, 2022 and 2021, respectively. 
+
+The
+Company used net cash in operations of 1,083,960 and 813,211 for the years ending December 31, 2022 and 2021, respectively. 
+
+Net
+cash used in investing activities for years ending December 31, 2022 and 2021 was 0 and 6,449, respectively, used to purchase computer equipment. 
+
+Net
+cash provided by financing activities was 1,814,858 for the year ended December 31, 2022, comprised of proceeds from the sale of
+common and preferred stock of approximately 737,000 and 1,260,000, respectively, offset by costs incurred for equity sales of
+ 149,137 and subscriptions receivable of 33,000. Net cash provided by financing activities was 1,042,788 net of offering costs of 106,713 for the year ended December
+31, 2021. 
+
+31 
+
+Inflation 
+
+The
+Company s results of operations have not been affected by inflation and management cannot predict the impact, if any, inflation
+might have on its operations in the future. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Pursuant
+to Item 305(e) of Regulation S-K 229.305(e)), the Company is not required to provide the information required by this Item as
+it is a smaller reporting company, as defined by Rule 229.10(f)(1). 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+The
+financial statements and supplementary data required by this item are included after Part IV of this Annual Report on Form 10-K beginning
+on page F-1. 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+We
+have not had any disagreements with our accountants or auditors that would need to be disclosed pursuant to Item 304 of Regulation S-K
+promulgated under the Securities Act of 1933. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES. 
+
+(a)
+Evaluation of Disclosure Controls and Procedures 
+
+Pursuant
+to Rule 13a-15(b) under the Exchange Act, the Company carried out an evaluation, with the participation of the Company s management,
+including the Company s Principal Executive Officer PEO and Principal Financial Officer PFO ), of
+the effectiveness of the Company s disclosure controls and procedures (as defined under Rule 13a-15(e) under the Exchange Act)
+as of the end of the period covered by this report. Based upon that evaluation, the Company s PEO and PFO concluded that the Company s
+disclosure controls and procedures were not effective to ensure that information required to be disclosed by the Company in the reports
+that the Company files or submits under the Exchange Act, is recorded, processed, summarized and reported, within the time periods specified
+in the SEC s rules and forms, and that such information is accumulated and communicated to the Company s management, including
+the Company s PEO and PFO, as appropriate, to allow timely decisions regarding required disclosure. 
+
+(b)
+Changes in Internal Control over Financial Reporting 
+
+There
+were no changes in our internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act,
+during our most recently completed fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal
+control over financial reporting. 
+
+The
+Company is committed to improving financial organization. As part of this commitment, management and the Board perform reviews of the
+Company s policies and procedures as they relate to financial reporting in an effort to mitigate future risks of potential misstatements.
+The Company will continue to focus on developing and documenting internal controls and procedures surrounding the financial reporting
+process, primarily through the use of account reconciliations, and supervision. 
+
+Management s
+Annual Report on Internal Control Over Financial Reporting 
+
+This
+annual report on Form 10-K does not include a report of management s assessment regarding internal control over financial reporting
+or an attestation report of our independent registered public accounting firm due to a transition period established by rules of the
+SEC for newly public companies. 
+
+Changes
+ in Internal Control Over Financial Reporting 
+
+There
+were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act)
+that occurred during the year ended December 31, 2022 which have materially affected, or are reasonably likely to materially affect,
+our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION. 
+
+None. 
+
+32 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+Management 
+
+The
+name and age of our Directors and Executive Officers are set forth below. All Directors are elected annually by the stockholders to serve
+until the next annual meeting of the stockholders and until their successors are duly elected and qualified. The officers are elected
+by our Board of Directors (the Board ). 
+
+Name 
+ 
+ Age 
+ 
+ Title 
+
+Robert
+ Steele 
+ 
+ 56 
+ 
+ Chairman
+ of the Board of Directors and Chief Executive Officer 
+ 
+ Robert
+ Haag 
+ 
+ 57 
+ 
+ Director 
+
+All
+directors serve for one year and until their successors are elected and qualified. All officers serve at the pleasure of the Board of
+Directors. There are no family relationships among any of our officers and directors. The Bylaws provide that the Company shall be managed
+by a Board of at least one (1) and up to five (5) Directors. As of the date of this Annual Report on Form 10-K, we have two (2) sitting
+directors. 
+
+Information
+concerning our executive officers and directors is set forth below. 
+
+Executive
+Officers 
+
+Robert
+Steele: Chief Executive Officer, President, Secretary, Treasurer, Director 
+
+Mr.
+Steele is the Chief Executive Officer and a director of Thumzup Media Corporation. From October 2019 until present Mr. Steele has operated
+a consulting business that has provided investor relations, financial, sales and marketing consulting services to various clients. Mr.
+Steele was the Director of Client Positioning at IRTH Communications, LLC from January 2017 to September 2019. From May 2016 through
+December 2016 Mr. Steele was an independent consultant rendering sales, marketing and investor relations services. From January 2010
+to May 2016 Mr. Steele was the President of Rightscorp, Inc. While at Rightscorp, Mr. Steele designed and deployed patented intellectual
+property software as a service (SaaS) tools that were used by major brands like Warner Bros. to protect their intellectual property.
+As President of Rightscorp, Mr. Steele led the design of the software used by clients like Sony/ATV and BMG. BMG successfully used Mr.
+Steele s technology to win a landmark 25 million judgment against Cox Communications for copyright infringement. Mr. Steele holds
+a BS in Electronic and Computer Engineering from George Mason University. 
+
+33 
+
+Directors 
+
+Robert
+Haag: Director 
+
+Robert
+Haag is the Managing Member and sole owner of Westside Strategic Partners LLC, which is an investor in the Company. Since 2012, Mr. Haag
+has been a Managing Director of IRTH Communications, LLC, which provides financial communications
+services, and strategic consulting to its clients . He was previously employed in the brokerage, investment banking industries
+from about 1993 2001 and formerly held the Series 7, 24 and 63 licenses. 
+
+Based
+in Asia from 2008-2012, he held senior positions with an investment fund and also an investment bank based in Saigon, Vietnam in 2008.
+From 2009-2012 he served as Managing Director of Asia for IRTH Communications, LLC and was based out of Shanghai, China. From approximately
+2002 -2007 he was Director of Speculative Investments at KMVI, a family office / holding company which invested in restaurants, oil,
+private equity, publicly traded companies, real estate and a wide array of other industries. While at KMVI, he was also President and
+CEO of Utopia Optics (majority owned by KMVI), an eyewear and apparel company focused on consumers in the action sports markets. Mr.
+Haag graduated from Hamilton College with a Bachelor of Arts in History in 1988. 
+
+ITEM
+11. EXECUTIVE COMPENSATION. 
+
+Summary
+Compensation Table 
+
+The
+following table sets forth information regarding compensation earned during fiscal 2022 and 2021 by our principal executive officer and
+our other most highly compensated executive officers, or the named executive officers, as of the end of the 2022 fiscal year. 
+
+Name
+ and Principal Position 
+ 
+ Fiscal 
+ Year 
+ 
+ Salary 
+
+Bonus 
+
+Other 
+ Compensation 
+
+Options 
+
+Restricted 
+ Stock
+ Awards 
+
+Total 
+
+Robert Steele 
+ 
+ 2022 
+
+15,000 
+
+1,653 
+
+- 
+
+- 
+
+- 
+
+16,653 
+
+Chief
+ Executive Officer 
+ 
+ 2021 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Robert
+Steele, CEO, President, Secretary, and Treasurer is compensated 5,000 per month for his services as Chief Executive Officer of the Company,
+commencing on October 1, 2022. Mr. Steele is not compensated for his services as a director of the Company. Mr. Steele received a bonus
+of 1,653 during the year ended December 31, 2022. 
+
+Director
+Compensation 
+
+The
+following table presents the total compensation for the non-employee director of our Board during the fiscal year ended December 31,
+2022. Other than as set forth in the table and described more fully below, we did not pay any compensation, reimburse any expense of,
+make any equity awards or non-equity awards to, or pay any other compensation to any of the other members of our Board in such period. 
+
+Name 
+ Fees Earned or Paid in Cash ) 
+ Stock Awards ) 
+ Option Awards ) 
+ All Other Compensation ) 
+ Total ) 
+ 
+ Robert Haag 
+ 2,000 
+ - 
+ - 
+ - 
+ 2,000 
+
+Mr.
+Haag is compensated 1,000 per quarter for his services as a director, which commenced on July 1, 2022. As of December 31, 2022, 1,000
+is owed to Mr. Haag for his services as a director. 
+
+34 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The
+following table sets forth certain information regarding the beneficial ownership of our Common Stock, and Series A Preferred Convertible
+Voting Stock by (i) each person who, to our knowledge, owns more than 5 of our Common Stock or Series A Preferred Convertible Voting
+Stock Series A Preferred ), (ii) our current directors and the named executive officers identified under the heading Executive
+Compensation and (iii) all of our current directors and executive officers as a group. We have determined beneficial ownership
+in accordance with applicable rules of the SEC, and the information reflected in the table below is not necessarily indicative of beneficial
+ownership for any other purpose. Under applicable SEC rules, beneficial ownership includes any shares as to which a person has sole or
+shared voting power or investment power and any shares which the person has the right to acquire within 60 days after March 29, 2023
+through the exercise of any option, warrant or right or through the conversion of any convertible security. Unless otherwise indicated
+in the footnotes to the table below and subject to community property laws where applicable, we believe, based on the information furnished
+to us that each of the persons named in this table has sole voting and investment power with respect to the shares indicated as beneficially
+owned. 
+
+The
+Certificate of Designation of the Series A Preferred contains a blocker which prohibits the conversion of the Series A Preferred into
+shares of common stock if the number of shares of common stock to be issued pursuant to such conversion would exceed, when aggregated
+with all other shares of common stock owned by the holder at such time, the number of shares of Common Stock that would result in the
+holder beneficially owning (as determined in accordance with Section 13(d) of the 1934 Act and the rules thereunder) more than 4.99 
+of all of the common stock outstanding at such time (the 4.99 Beneficial Ownership Limitation provided, however, that,
+upon the holder providing the Company with sixty-one (61) days advance notice (the 4.99 Waiver Notice that the
+holder would like to waive Section 4(f) of the Certificate of Designations with regard to any or all shares of common stock issuable
+upon conversion of the Series A Preferred, Section 4(f) will be of no force or effect with regard to all or a portion of the Series A
+Preferred referenced in the 4.99 Waiver Notice but shall in no event waive the 9.99 Beneficial Ownership Limitation (the 9.99 
+Beneficial Ownership Limitation ). The paragraph forgoing constituting the Series A Blocker ). 
+
+The
+information set forth in the table below is based on 7,126,336 shares of our Common Stock and 128,312 shares of Series A Preferred issued
+and outstanding on March 29, 2023. In computing the number of shares of Common Stock beneficially owned by a person and the percentage
+ownership of that person, we deemed to be outstanding all shares of Common Stock subject to options, warrants, rights or other convertible
+securities held by that person that are currently exercisable or will be exercisable within 60 days after March 29, 2023. We did not
+deem these shares outstanding, however, for the purpose of computing the percentage ownership of any other person. Unless otherwise indicated,
+the principal address of each of the Stockholders below is in care of Thumzup Media Corporation, 11845 W. Olympic Blvd, Ste 1100W
+#13, Los Angeles, CA 90064. 
+
+Number of Shares of Common Stock Beneficially Owned 
+ Percentage of Common Stock Beneficially Owned 
+ Number of Shares of Series A Preferred Owned 
+ Percentage of Series A Preferred Beneficially Owned 
+ of Total Voting Power 
+ 
+ Directors and Named Executive Officers 
+
+Robert Steele 
+ 3,400,000 
+ 47.71 
+ - 
+ - 
+ 47.71 
+ 
+ Robert Haag (1) 
+ 355,604 (2) 
+ 4.99 
+ 27,307 (3) 
+ 21.28 
+ 4.99 
+ 
+ All directors and named executive officers as a group (2 people) 
+ 3,755,754 
+ 52.70 
+ 27,307 
+ 21.28 
+ 52.70 
+ 
+ Other 5 Stockholder 
+
+Daniel Lupinelli 
+ 1,500,000 (4) 
+ 21.05 
+ - 
+ - 
+ 21.05 
+ 
+ Joe Thomas (5) 
+ 446,794 (6) 
+ 6.27 
+ 47,730 (7) 
+ 37.20 
+ 6.27 
+ 
+ Andrew Haag (8) 
+ 421,689 (9) 
+ 5.92 
+ 48,076 (10) 
+ 37.47 
+ 5.92 
+
+(1)
+Robert Haag, a Director of the Company, is the Managing Member and sole owner of Westside Strategic Partners, LLC. Robert Haag has voting
+control and investment discretion over securities held by Westside Strategic Partners, LLC. As such, Robert Haag may be deemed to be
+the beneficial owner (as determined under Section 13(d) of the Exchange Act) of the securities held by Westside Strategic Partners, LLC. 
+
+(2)
+Consists of (i) 244,645 shares of common stock held by Westside Strategic
+Partners, LLC, (ii) 125 shares of common stock held by Robert Haag, and (iii) 110,735 shares of common stock underlying 27,307 shares
+of Series A Preferred held by Westside Strategic Partners, LLC. Excludes (i) 299,163 shares of common stock underlying 27,307 shares of
+Series A Preferred held by Westside Strategic Partners, LLC as such conversion is prohibited by the Series A Blocker and (ii) 11,150 shares
+of common stock for which Westside Strategic Partners, LLC has subscribed under the Company s qualified offering under Regulation
+A+ as the subscription proceeds and agreement are being held in escrow until such time that the Company chooses to conduct the first closing
+of the offering. As the Company may elect to never conduct a closing under its qualified offering under Regulation A+, the Company has
+determined these shares are not under the control of Mr. Haag as of March 29, 2023. 
+
+35 
+
+(3)
+Consists of 27,307 shares of Series A Preferred held by Westside Strategic Partners, LLC. 
+
+(4)
+Consists of 1,500,000 shares of common stock held by Mr. Lupinelli. Excludes 223 shares of common stock for which Mr. Lupinelli has
+subscribed under the Company s qualified offering under Regulation A+ as the subscription proceeds and agreement are being
+held in escrow until such time that the Company chooses to conduct the first closing of the offering. As the Company may elect to
+never conduct a closing under its qualified offering under Regulation A+, the Company has determined these shares are not under the
+control of Mr. Lupinelli as of March 29, 2023. 
+
+(5)
+Joe Thomas is the Managing Member of SLS Group, LLC and Optimum Holdings, Inc. Joe Thomas has voting control and investment discretion
+over securities held by SLS Group, LLC and Optimum Holdings, LLC. As such, Joe Thomas may be deemed to be the beneficial owner (as determined
+under Section 13(d) of the Exchange Act) of the securities held by SLS Group, LLC and Optimum Holdings, Inc. The address of Mr. Thomas
+is 4580 S Thousand Oaks Drive Salt Lake City, UT 84124. 
+
+(6)
+Consists of (i) 92,088 shares of common stock held by SLS Group, LLC and (ii) 354,706 shares of common stock held by Optimum
+Holdings, Inc. Excludes (i) 715,953 shares of common stock underlying 47,730 shares of Series A Preferred held by Optimum Holdings,
+Inc. as such conversion is prohibited by the Series A Blocker and (ii) 22,245 shares of common stock for which SLS Group, LLC has subscribed under the
+Company s qualified offering under Regulation A+ as the subscription proceeds and agreement are being held in escrow until such
+time that the Company chooses to conduct the first closing of the offering. As the Company may elect to never conduct a closing under
+its qualified offering under Regulation A+, the Company has determined these shares are not under the control of Mr. Thomas as of March
+29, 2023. 
+
+(7)
+Consists of 47,730 shares of Series A Preferred held by Optimum Holdings, Inc. 
+
+(8)
+Andrew Haag is the Managing Member of Hampton Growth Resources, LLC. Andrew Haag has voting control and investment discretion over securities
+held by Hampton Growth Resources, LLC. As such, Andrew Haag may be deemed to be the beneficial owner (as determined under Section 13(d)
+of the Exchange Act) of the securities held by Hampton Growth Resources, LLC. The address of Mr. Haag is 1688 Meridian Ave, Ste 700 Miami Beach, FL 33139. 
+
+(9)
+Consists of 411,418 shares of common stock held by Hampton Growth Resources, LLC. Excludes (i) 721,144 shares of common stock
+underlying 48,076 shares of Series A Preferred held by Hampton Growth Resources, LLC as such conversion is prohibited by the Series
+A Blocker and (ii) 22,444 shares of common stock
+for which Hampton Growth Resources, LLC has subscribed under the Company s qualified offering under Regulation A+ as the subscription
+proceeds and agreement are being held in escrow until such time that the Company chooses to conduct the first closing of the offering.
+As the Company may elect to never conduct a closing under its qualified offering under Regulation A+, the Company has determined these
+shares are not under the control of Mr. Haag as of March 29, 2023. 
+
+(10)
+Consists of 48,076 shares of Series A Preferred held by Hampton Growth Resources, LLC. 
+
+Lockup
+Agreements 
+
+On
+September 21, 2022, Robert Steele, and Danny Lupinelli entered into Lockup Agreements (the Lockup Agreement with holders
+of the Series A Preferred Convertible Stock over the ownership of their securities. Other than with respect to certain issuances, without
+the prior consent of 51 of the holders of the Series A Preferred Convertible Stock of the Company, will not (i) offer, pledge, sell,
+contract to sell, sell any option or contract to purchase, purchase any option or contract to sell, grant any option, right or warrant
+to purchase, lend, or otherwise transfer or dispose of, directly or indirectly, any shares of stock of the Company or any securities
+convertible into or exercisable or exchangeable for shares of capital stock of the Company; (ii) file or cause to be filed any registration
+statement with the Securities and Exchange Commission relating to the offering of any shares of capital stock of the Company or any securities
+convertible into or exercisable or exchangeable for shares of capital stock of the Company. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS. 
+
+We
+have not been a party to any transaction or arrangement in which the amount involved in the transaction exceeded 1 of the average of
+our total assets at December 31, 2022 and 2021 and in which any of our directors, executive officers or, to our knowledge, beneficial
+owners of more than 5 of any class of our voting securities or any member of the immediate family of any of the foregoing persons had
+or will have a direct or indirect material interest. 
+
+On
+November 19, 2020, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+purchased a convertible note in the principal amount of 50,000 convertible for 50,000 in consideration. The convertible note was converted
+into common stock and preferred shares on September 28, 2022 and the note is now retired. 
+
+36 
+
+On
+March 16, 2021, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+acquired 25,000 shares of Common Stock at 1.00 per share for a subscription in the amount of 25,000. 
+
+On
+January 7, 2022, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+acquired 33,334 shares of Common Stock at 1.50 per share for a subscription in the amount of 50,000. 
+
+On
+July 7, 2022, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner, acquired
+16,667 shares of Common Stock at 3.00 per share for a subscription in the amount of 50,000. 
+
+On
+September 27, 2022, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+acquired 2,223 shares of our Series A Preferred Stock at 45 per share for a subscription in the amount of 100,000. 
+
+On
+September 28, 2022, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+exchanged convertible debt in the amount of 37,887.16 in principal and accrued interest for 22,962 shares of Series A Preferred Stock. 
+
+On
+September 28, 2022, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+acquired 169,644 shares of Common Stock for the conversion of debt in the amount of 18,660.88 in principal and accrued interest. 
+
+On
+June 29, 2022, Robert Steele, our Chief Executive Officer and a Director, sold 100,000 shares of Common Stock for 30,000.00 in a private
+transaction to an accredited investor. 
+
+On
+November 18, 2022, the Company entered into a Media Relations Services Agreement (the Media Relations Services Agreement with Elev8 New Media, LLC Elev8 ), of which one of our directors, Robert Haag, is a member and one of our investors Andrew
+Haag is also a member. Under the terms of the agreement, the Company will pay Elev8 6,500 per month for six months and the Media Relations
+Services Agreement will automatically renew into consecutive monthly periods unless either party provides 30 days written notice of cancellation.
+This price is a discounted rate off Elev8 s normal monthly price of 9,500 per month. 
+
+On
+December 15, 2022, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+received a dividend of 490 shares of Series A Preferred Stock, per the terms of its Certificate of Designation. 
+
+On
+December 30, 2022, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+acquired 1,111 shares of our Series A Preferred Stock at 45 per share for a subscription in the amount of 50,000. 
+
+On
+February 22, 2023, Daniel Lupinelli, a 10 + shareholder of the Company, subscribed to purchase 223 shares of common stock at 4.50 per
+share for a subscription amount of 1,003.50 under the Company s qualified offering under Regulation A+. The subscription is currently in escrow. 
+
+On
+February 28, 2023, Westside Strategic Partners, LLC, of which one of our
+Directors, Robert Haag, is the Managing Member and sole owner, subscribed to purchase 11,150 shares of common stock at 4.50 per share
+for a subscription amount of 50,175 under the Company s qualified offering under Regulation A+. Westside Strategic Partners, LLC
+will receive 1,115 shares of common stock as bonus shares under the terms of the qualified offering under Regulation A+. The subscription
+is currently in escrow. 
+
+On
+March 15, 2023, Westside Strategic Partners, LLC, of which one of our Directors, Robert Haag, is the Managing Member and sole owner,
+received a dividend of 521 shares of Series A Preferred Stock, per the terms of its Certificate of Designation. 
+
+37 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+
+Our
+independent registered public accounting firm is Haynie Company LLP, Auditor Firm ID 457. Set forth below are approximate fees
+for services rendered by Haynie Company for the fiscal years ended December 31, 2022 and December 31, 2021. 
+
+Haynie Company 
+
+2022 
+ 2021 
+ 
+ Audit Fees 
+ 30,500 
+ 25,000 
+ 
+ Audit-Related Fees 
+ - 
+ - 
+ 
+ Tax Fees 
+ - 
+ 1,050 
+ 
+ Other Fees 
+ 30,500 
+ - 
+ 
+ Totals 
+ 30,500 
+ 26,050 
+
+Audit
+Fees 
+
+The
+aggregate fees billed for each of the last two fiscal years for professional services rendered by Haynie Company for the audit
+of the Company s annual financial statements and review of financial statements included in the Company s annual report on
+Form 10-K and in the Company s quarterly reports on Form 10-Q, or services that are normally provided by the independent registered
+public accounting firm in connection with statutory and regulatory filings or engagements for the fiscal years ending December 31, 2022
+and 2021 were 30,500 and 25,000, respectively. 
+
+Audit-Related
+Fees 
+
+The
+aggregate fees billed in either of the last two fiscal years for assurance and related services by Haynie Company that are reasonably
+related to the performance of the audit or review of the registrant s financial statements and are not reported under Audit
+Fees for the fiscal years ending December 31, 2022 and 2021 were 0 and 0, respectively. 
+
+Tax
+Fees 
+
+The
+aggregate fees were billed for professional services rendered by the principal accountant for tax compliance, tax advice, and tax planning
+for the fiscal years ending December 31, 2022 and 2021 was 0 and 1,050, respectively, for Haynie Company. 
+
+All
+Other Fees 
+
+Other
+fees billed for professional services provided by the principal accountant, other than the services reported above, for the fiscal years
+ending December 31, 2022 and 2021 were 0 and 0, respectively, for Haynie Company. 
+
+The
+Company s Board of Directors approves all auditing services and the terms thereof and non-audit services (other than non-audit
+services published under Section 10A(g) of the Exchange Act or the applicable rules of the SEC or the Pubic Company Accounting Oversight
+Board) to be provided to the Company by the independent auditor; provided, however, the pre-approval requirement is waived with respect
+to the provisions of non-audit services for the Company if the de minimis provisions of Section 10A(i)(1)(B) of the Exchange
+Act are satisfied. 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+
+(a)
+Documents filed as part of this Annual Report: 
+
+(1)
+Financial Statements. 
+
+The
+following documents are included on pages F-1 through F-6 attached hereto and are filed as part of this Annual Report on Form 10-K. 
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 
+ F-1 
+ 
+ Balance Sheets as of December 31, 2022 and 2021 
+ F-2 
+ 
+ Statements of Operations for the Years Ended December 31, 2022 and 2021 
+ F-3 
+ 
+ Statements of Stockholders Deficit for the Years Ended December 31, 2022 and 2021 
+ F-4 
+ 
+ Statements of Cash Flows for the Years Ended December 31, 2022 and 2021 
+ F-5 
+ 
+ Notes to Financial Statements 
+ F-6 
+
+38 
+
+(2)
+Financial Statement Schedules. 
+
+No
+financial statement schedules have been submitted because they are not required or are not applicable or because the information required
+is included in the financial statements or the notes thereto. 
+
+(3)
+Exhibits. 
+
+Incorporated
+ by Reference 
+ 
+ No. 
+ 
+ Description 
+ 
+ Form 
+ 
+ File
+ No. 
+ 
+ Exhibit 
+ 
+ Filing
+ Date 
+ 
+ 3.1 
+ 
+ Articles of Incorporation 
+ 
+ S-1/A 
+ 
+ 333-255624 
+ 
+ 3.1 
+ 
+ June
+ 23, 2021 
+ 
+ 3.2 
+ 
+ Certificate of Amendment to the Articles of Incorporation filed November 4, 2022 
+ 
+ 1-A/A 
+ 
+ 024-12067 
+ 
+ 3.2 
+ 
+ December
+ 9, 2022 
+ 
+ 3.3 
+ 
+ Amended and Restated Bylaws 
+ 
+ 1-A/A 
+ 
+ 024-12067 
+ 
+ 3.3 
+ 
+ December
+ 9, 2022 
+ 
+ 3.4 
+ 
+ Form of Amended and Restated Certificate of Designation of Rights, Powers, Preferences, Privileges and Restrictions of Series A Preferred Convertible Voting Stock 
+ 
+ 8-K 
+ 
+ 333-255624 
+ 
+ 3.1 
+ 
+ September
+ 27, 2022 
+ 
+ 4.1 
+ 
+ Form of Common Stock Certificate 
+ 
+ S-1/A 
+ 
+ 333-196735 
+ 
+ 4.1 
+ 
+ June
+ 23, 2021 
+
+10.1 
+ 
+ Form of Stock Purchase Agreement 
+ 
+ 10-K 
+ 
+ 333-255624 
+ 
+ 10.1 
+ 
+ March
+ 17, 2022 
+ 
+ 10.2 
+ 
+ Form of Common Stock Financing Term Sheet 
+ 
+ 10-K 
+ 
+ 333-255624 
+ 
+ 10.2 
+ 
+ March
+ 17, 2022 
+ 
+ 10.3 
+ 
+ Form of Registration Rights Agreement 
+ 
+ 10-K 
+ 
+ 333-255624 
+ 
+ 10.3 
+ 
+ March
+ 17, 2022 
+ 
+ 10.4 
+ 
+ Form of Securities Purchase Agreement 
+ 
+ 8-K 
+ 
+ 333-255624 
+ 
+ 10.1 
+ 
+ September
+ 27, 2022 
+ 
+ 10.5 
+ 
+ Form of Escrow Agreement 
+ 
+ 1-A/A 
+ 
+ 024-12067
+
+10.5 
+ 
+ December
+ 9, 2022 
+ 
+ 10.6 
+ 
+ Form of Subscription Agreement 
+ 
+ 1-A/A 
+ 
+ 024-12067 
+ 
+ 10.6 
+ 
+ December
+ 9, 2022 
+ 
+ 10.7 
+ +
+ 
+ Employment Agreement by and between the Company and Robert Steele dated October 18, 2022 
+ 
+ 1-A/A 
+ 
+ 024-12067 
+ 
+ 10.7 
+ 
+ December
+ 9, 2022 
+
+31.1 
+ 
+ Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) of the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) of the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of the Chief Executive Officer pursuant to Rule 13a-14(b) of the Exchange Act and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+32.2 
+ 
+ Certification of the Chief Financial Officer pursuant to Rule 13a-14(b) of the Exchange Act and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+
+101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+ 
+ Inline
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+filed
+ herewith. 
+
++ 
+ Denotes
+ a management contract or compensatory plan. 
+
+ITEM
+16. FORM 10-K Summary 
+
+None. 
+
+39 
+
+SIGNATURES 
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized on March 31, 2023. 
+
+Thumzup
+Media Corporation 
+
+By:
+ 
+ /s/
+ Robert Steele 
+
+Robert
+ Steele 
+
+Chief
+ Executive Officer 
+
+(Principal
+ Executive Officer) 
+
+By:
+ 
+ /s/
+ Robert Steele 
+
+Robert
+ Steele 
+
+Chief
+ Financial Officer 
+
+(Principal
+ Financial/Accounting Officer) 
+
+In
+accordance with the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant
+and in the capacities and on the dates indicated. 
+
+/s/
+ Robert Steele 
+ 
+ Chief
+ Executive Officer (Principal Executive Officer) and 
+ 
+ March
+ 31, 2023 
+ 
+ Robert
+ Steele 
+ 
+ Chairman
+ of the Board of Directors 
+
+/s/
+ Robert Steele 
+ 
+ Chief
+ Financial Officer 
+ 
+ March
+ 31, 2023 
+ 
+ Robert
+ Steele 
+ 
+ (Principal
+ Financial and Accounting Officer) 
+
+/s/
+ Robert Haag 
+ 
+ Director
+
+March
+ 31, 2023 
+ 
+ Robert
+ Haag 
+
+40 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and 
+Stockholders of Thumzup Media Corporation 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Thumzup Media Corporation (the Company) as of December 31, 2022 and 2020, and the related
+statements of operations,, stockholders deficit, and cash flows for each of the years in the years ended December 31, 2022 and
+2021, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present
+fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations
+and its cash flows for each of the years ended December 31, 2022, in conformity with accounting principles generally accepted in the
+United States of America. 
+
+Consideration
+of the Company s Ability to Continue as a Going Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As more fully described
+in Note 3 to the financial statements, the Company has yet to generate significant revenue, has incurred net losses and has an accumulated
+deficit. These factors raise substantial doubt about the Company s ability to continue as a going concern. Management s plans
+regarding these matters are also described in Note 3 to the financial statements. The financial statements do not include any adjustments
+that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+/S/
+
+March 30, 2023 
+
+We
+have served as the Company s auditor since 2021 
+
+F- 1 
+
+THUMZUP MEDIA CORPORATION 
+
+ BALANCE SHEETS 
+
+December
+ 31, 
+
+2022 
+ 2021 
+
+ASSETS 
+
+Current
+ assets: 
+
+Cash 
+
+Prepaid
+ expenses 
+ 
+ - 
+ 
+ Total
+ current assets 
+
+Property
+ and equipment, net 
+
+Total
+ assets 
+
+LIABILITIES
+ AND STOCKHOLDERS EQUITY 
+
+Current
+ liabilities: 
+
+Accounts
+ payable and accrued expenses 
+
+Senior
+ secured convertible promissory notes 
+ - 
+
+Total
+ current liabilities 
+
+Total
+ liabilities 
+
+Commitments
+ and contingencies 
+ - 
+ - 
+
+Stockholders 
+ equity: 
+
+Preferred
+ stock - shares
+ authorized: 
+ - 
+ - 
+ 
+ Preferred
+ stock - Series A, 
+ par value, 
+ stated value, 
+ shares authorized; 
+ shares issued and outstanding 
+ 
+ - 
+ 
+ Preferred
+ stock, value 
+ - 
+ - 
+ 
+ Common
+ stock, par
+ value, shares
+ authorized; and
+ shares
+ issued and outstanding, respectively 
+
+Additional
+ paid in capital 
+
+Subscription receivable 
+ 
+ - 
+ 
+ Accumulated
+ deficit 
+
+Total
+ stockholders equity 
+
+Total
+ liabilities and stockholders equity 
+
+The accompanying notes are an integral part of these financial
+statements. 
+
+F- 2 
+
+THUMZUP MEDIA CORPORATION 
+
+ STATEMENTS OF OPERATIONS 
+
+For
+ the Years Ended December 31, 
+
+2022 
+ 2021 
+
+Revenues 
+
+Operating
+ Expenses: 
+
+Cost
+ of revenues 
+ 
+ - 
+ 
+ Sales
+ and marketing 
+
+Research
+ and development 
+
+General
+ and administrative 
+
+Depreciation
+ and amortization 
+
+Total
+ Operating Expenses 
+
+Loss
+ From Operations 
+
+Other
+ Income (Expense): 
+
+Interest
+ expense 
+
+Total
+ Other Income (Expense) 
+
+Net
+ Loss Before Income Taxes 
+
+Provision
+ for Income Taxes (Benefit) 
+ - 
+ - 
+
+Net
+ Loss 
+
+Net
+ Income (Loss) Available to Common Stockholders 
+
+Net
+ Income (Loss) Per Common Share: 
+
+Basic 
+
+Diluted 
+
+Weighted
+ Average Common Shares Outstanding: 
+
+Basic 
+
+Diluted 
+
+The accompanying notes are an integral part of these
+financial statements. 
+
+F- 3 
+
+THUMZUP
+MEDIA CORPORATION 
+
+ STATEMENTS
+OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ FOR
+THE YEARS ENDED DECEMBER 31, 2022 AND 2021 
+
+Preferred Stock 
+ 
+ Additional 
+
+Series A 
+ Common Stock 
+ Paid 
+ Subscription 
+
+Accumulated 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ In Capital 
+ Receivable 
+
+Deficit 
+ Total 
+
+Balance at December 31, 2020 
+ - 
+ - 
+
+- 
+
+Beginning balance, value 
+ - 
+ - 
+
+Common stock issued for advisory 
+ - 
+ - 
+
+- 
+
+- 
+ - 
+ 
+ Common Stock issued for investment 
+ - 
+ - 
+
+- 
+
+- 
+
+Offering costs 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Balance at December 31, 2021 
+ - 
+ - 
+
+Beginning balance, value 
+ - 
+ - 
+
+Preferred Series A issued for cash 
+
+- 
+ - 
+
+- 
+
+- 
+
+Preferred Series A issued for exchange of notes and interest 
+
+- 
+ - 
+
+- 
+
+- 
+
+Preferred Series A issued for dividends 
+
+- 
+ - 
+
+- 
+
+- 
+
+Common Stock issued for cash 
+ - 
+ - 
+
+() 
+ 
+ - 
+
+Common Stock issued for services 
+ - 
+ - 
+
+- 
+
+- 
+
+Common Stock issued for conversion of notes 
+ - 
+ - 
+
+- 
+
+- 
+
+Stock issuance costs 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Rounding 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+- 
+
+Balance at December 31, 2022 
+
+() 
+
+Ending balance, value 
+
+) 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 4 
+
+THUMZUP
+MEDIA CORPORATION 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+For the Year Ended December 31, 
+
+2022 
+ 2021 
+
+Cash flows from operating activities: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation and amortization expense 
+
+Stock issued for services 
+ 
+ - 
+ 
+ Preferred stock dividend paid with stock 
+ 
+ - 
+ 
+ Interest expense paid with stock on conversion 
+ 
+ - 
+ 
+ Changes in operating assets and liabilities: 
+
+Prepaid expenses 
+
+Accounts payable and accrued expenses 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities: 
+
+Purchases of property and equipment 
+ - 
+
+Net cash used in investing activities 
+ - 
+
+Cash flows from financing activities: 
+
+Proceeds from sale of common stock 
+
+Proceeds from sale of preferred stock 
+ 
+ - 
+ 
+ Subscription receivable 
+ 
+ - 
+ 
+ Costs incurred for equity sales 
+ 
+ - 
+ 
+ Net cash provided by financing activities 
+
+Net (decrease) increase in cash 
+
+Cash, beginning of year 
+
+Cash, end of year 
+
+Supplemental disclosures of cash flow information: 
+
+Cash paid during period for interest 
+ - 
+ - 
+ 
+ Cash paid during period for taxes 
+ - 
+ - 
+
+Supplemental disclosure of non-cash investing and financing activities: 
+
+Preferred Series A issued for exchange of convertible notes and accrued interest 
+ 
+ - 
+ 
+ Common shares issued upon conversion of convertible notes and accrued interest 
+ 
+ - 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 5 
+
+Thumzup 
+Media Corporation 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2022 
+
+and ,
+respectively. The Company maintains its cash in banks insured by the Federal Deposit Insurance
+Corporation in accounts that at times may be in excess of the federally insured limit of per bank. The Company minimizes
+this risk by placing its cash deposits with major financial institutions. At December 31, 2022 and 2021, the uninsured balances
+amounted to 
+and ,
+respectively. There is a risk the Company may lose uninsured balances over the FDIC insurance limit. 
+
+and 0 in prepaid expenses, respectively. The Company s prepaid
+expenses as of December 2022 consisted primarily of fees paid to a consultant for business development services which were rendered in
+January 2023. 
+
+and , respectively. 
+
+We
+derive our revenue principally from service fees paid by the client for the use of our platform in connection with our advertising technology
+platform which incentivizes users to leave reviews of our clients. Our sole performance obligation in the transaction is to connect clients
+with end-users to facilitate the completion of a successful review on the user s social media accounts. 
+
+Judgment
+is required in evaluating the presentation of revenue on a gross versus net basis based on whether we control the service provided to
+the end-user and are the principal in the transaction (gross), or we arrange for other parties to provide the service to the end-user
+and are the agent in the transaction (net). We have concluded that we are the agent in our current transactions as we arrange for users
+to provide the service to the clients and the users post reviews on social media accounts controlled by the users. The assessment of
+whether we are considered the principal or the agent in a transaction could impact the accounting for these transactions and change the
+timing and amount of revenue recognized. The percentage fee the Company charges is not variable. 
+
+Cost
+of Goods Sold 
+
+The
+Company classifies its credit card transaction fees as cost of goods sold. 
+
+Client
+Deposits 
+
+Thumzup s
+clients generally prepay to utilize the Company s technology platform. All client deposits for services are recorded as a client
+deposit liability upon receipt. Upon a user leaving a qualified review for the client, as defined in Thumzup s Mobile Terms and
+Conditions, the Company transfers the fee payable to the user to a user account balances liability account and realizes the fees payable
+to the Company as revenue. The Company holds all client deposits and user account balances in cash or cash-equivalents, including money
+market accounts. 
+
+The
+computation of basic and diluted income (loss) per share, for the year ended December 31, 2022 and 2021 excludes potentially dilutive
+securities when their inclusion would be anti-dilutive, or if their exercise prices were greater than the average market price of the
+common stock during the period. 
+
+Common shares issuable upon conversion of preferred stock 
+ 
+ - 
+ 
+ Total potentially dilutive shares 
+
+and ,
+and the Company used 
+ and 
+ to fund operating activities for the years ending
+December 31, 2022 and 2021, respectively. For the year ended December 31, 2022 the Company raised approximately 
+ from the sale of 
+ shares of its common stock and approximately
+ 
+ from the sale of 
+ shares of Preferred Series A stock and incurred
+offering costs of .
+The Company raised approximately 
+ in capital contributions (net of offering costs of during 2021. The Company may need to raise additional funding and manage expenses in order to continue as a going concern. 
+
+in Senior Secured Convertible Promissory Notes Senior Notes ). The Senior
+Notes originally matured on and accrued interest at eight per annum. Accrued interest maybe paid quarterly or
+converted in to shares of common stock. The note holders issued an extension of the due date on these notes to November 19, 2022. During
+September 2022, the Company issued shares of its common stock upon conversion of the Senior Notes and the associated accrued
+interest payable of and issued shares of its Series A Preferred upon exchange of
+the remaining principal balance and accrued interest of the Senior Notes of . The balance of the Senior Notes payable
+at December 31, 2022 and December 31, 2021 was and , respectively. 
+
+At
+any time while the Senior Notes were outstanding, and at the sole option of the note holder, the Senior Notes were convertible into shares of
+the Company s common stock, par value, or any shares of capital stock or other securities of the Company into which such
+common stock could have been changed or reclassified. 
+
+A
+holder was not entitled to convert any portion of the Senior Note in excess of that portion of the Senior Note upon conversion of which
+the sum of (1) the number of shares of common stock beneficially owned by the Holder and its affiliates and (2) the number of conversion
+shares issuable upon the conversion would have resulted in beneficial ownership by a Holder and its affiliates of more than of
+the then outstanding shares of common stock. 
+
+The
+per share conversion price into which principal and interest outstanding of the Senior Notes were convertible into shares of common stock
+was equal to cents per share. The Senior Notes contained a protection feature whereupon any issuance by the Company of common stock,
+or a security that was convertible into common stock, at a price lower than a net receipt to the Company of per share, would result
+in the conversion price being adjusted to equal the lower price per share. The Company had classified this protection as a contingent
+beneficial feature and would have recorded it as a benefit to a holder in the event a conversion price adjustment occurred. The conversion
+price adjustment for the Senior Notes never occurred. 
+
+In
+September 2022, the Company entered into separate exchange agreements with the Holders of the Senior Secured Promissory Notes to allow
+the conversion of their notes and accrued interest into shares of preferred stock. In September 2022 the Holders of the Senior Secured
+Promissory Notes exercised their option to convert their notes and accrued interest of into shares of
+common stock, and of notes and accrued interest were converted into shares of Preferred Series A stock.
+The balance of the Senior Secured Promissory Notes and the associated accrued interest payable at December 31, 2022 was . 
+
+shares of preferred stock, par value per share. On September 26, 2022, the Company amended
+a Certificate of Designation to the Secretary of State of Nevada designating shares of preferred stock as Series A Preferred
+which was originally submitted on September 21, 2022 Series A COD ). Each shareholder shall have the right, at any time
+and from time to time, at the shareholder s option to convert any or all of such holder s shares of Series A Preferred into
+the number of shares of Common Stock. Each share of Series A Preferred initially converts into shares of Common Stock at a reference
+rate of per share of Common Stock subject to adjustments. 
+
+The
+holders of Series A Preferred shall be entitled to receive dividends, in cash or in-kind at Company s election, in an amount equal
+to per share. If paid in kind, the dividend shall be in shares of Series A Preferred (the Dividend Shares valued
+at the per share of Series A Preferred (the Purchase Price unless the closing price of the common stock on the
+trading day prior to the issuance of the dividend is below the reference rate, in which case the dividend shares shall be valued at the
+purchase price adjusted pursuant to the formula set forth in Section 3 of the Certificate of Designations. 
+
+For
+the year ended December 31, 2022 the Company entered into a Securities Purchase Agreement with accredited investors. Pursuant to the
+Securities Purchase Agreements, the company sold Shares of its Series A Preferred at per preferred share and received gross
+proceeds of approximately . The Company issued shares of its Series A Preferred for the exchange of the Senior Notes
+and the associated accrued interest payable of . 
+
+On
+December 30, 2022, the Company issued shares of Series A Preferred as Dividend Shares per the Series A COD. 
+
+As
+of December 31, 2022, there were shares of Series A Preferred outstanding. 
+
+Common
+Stock 
+
+The
+Company is authorized to issue million shares of common stock, par value per share. As of December 31, 2022 and 2021,
+the Company had and shares issued and outstanding, respectively. 
+
+During
+the year ended December 31, 2021, the Company issued 
+shares of common stock at par value of for services rendered. 
+
+During
+the year ended December 31, 2021, the Company issued shares of common stock for investment of , net offering costs
+of . 
+
+During
+the year ended December 31, 2022, the Company issued 
+shares valued at based on the market value of per share on the date of the stock grant for services
+rendered. 
+
+During
+the year ended December 31, 2022, the Company issued 
+ shares of common stock for investment of ,
+net offering expenses of . 
+
+During
+the year ended December 31, 2022, the Company issued shares of common stock for the conversion of convertible debt and accrued
+interest of . 
+
+, which is available
+to reduce future taxable income, for federal and state income taxes, respectively. The NOL is scheduled to expire in 2037. At the current
+federal tax rate of 21 and including book to tax differences result in the current NOL of at December 31, 2022. The Company
+has no income tax effect due to the recognition of a full valuation allowance on the expected tax benefits of future loss carry forwards
+based on uncertainty surrounding realization of such assets. During the year ended December 31, 2022, the Company has increased
+the valuation allowance from to . 
+
+Total deferred tax assets 
+
+Valuation allowance 
+
+() 
+ 
+ Deferred tax asset, net of allowance 
+
+- 
+
+Book to tax differences 
+
+() 
+ 
+ Valuation allowance 
+
+() 
+ 
+ Effective tax rate 
+
+Series A Preferred Convertible Voting Shares Series A Preferred for a dividend per the terms of the Series A Preferred Certificate of Designation. 
+
+The
+Company is currently conducting an offering under Regulation A+, pursuant to an Offering Statement on Form 1-A/A filed on December
+23, 2022 and qualified on January 9, 2023, through which the Company is offering up to million
+shares of common stock at a purchase price of per
+share. The Company currently has subscriptions for shares for an aggregate subscription amount of in escrow as fully
+described in the Company s Form 1-A/A filed on December 23, 2022. 
+
+F- 11 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION
+OF CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT
+TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Robert Steele, certify that: 
+
+1. 
+ I
+ have reviewed this Annual Report on Form 10-K of Thumzup Media Corporation; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ The
+ registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The
+ registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+ reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing
+ the equivalent function): 
+
+a. 
+ all
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Dated:
+ March 31, 2023 
+ By: 
+ /s/
+ Robert Steele 
+
+Robert
+ Steele 
+
+Chief
+ Executive Officer 
+ Principal
+ Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+EXHIBIT
+31.2 
+
+CERTIFICATION
+OF CHIEF FINANCIAL OFFICER 
+
+ PURSUANT
+TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Robert Steele, certify that: 
+
+1. 
+ I
+ have reviewed this Annual Report on Form 10-K of Thumzup Media Corporation; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ The
+ registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The
+ registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+ reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing
+ the equivalent function): 
+
+a. 
+ all
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Dated:
+ March 31, 2023 
+ By: 
+ /s/
+ Robert Steele 
+
+Robert
+ Steele 
+
+Chief
+ Financial Officer 
+ Principal
+ Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+OF CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT
+TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Robert Steele, in my capacity as Chief Executive Officer of Thumzup Media Corporation, certify, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 10-K of Thumzup Media Corporation for
+the year ended December 31, 2022 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934
+and that information contained in such report fairly presents, in all material respects, the financial condition and results of operations
+of Thumzup Media Corporation. 
+
+Dated:
+ March 31, 2023 
+ By: 
+ /s/
+ Robert Steele 
+
+Robert
+ Steele 
+
+Chief
+ Executive Officer 
+ Principal
+ Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+EXHIBIT
+32.2 
+
+CERTIFICATION
+OF CHIEF FINANCIAL OFFICER 
+
+ PURSUANT
+TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Robert Steele, in my capacity as Chief Financial Officer of Thumzup Media Corporation, certify, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 10-K of Thumzup Media Corporation for
+the year ended December 31, 2022 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934
+and that information contained in such report fairly presents, in all material respects, the financial condition and results of operations
+of Thumzup Media Corporation. 
+
+Dated:
+ March 31, 2023 
+ By: 
+ /s/
+ Robert Steele 
+
+Robert
+ Steele 
+
+Chief
+ Financial Officer 
+ Principal
+ Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 14
+ tmc-20221231.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 16
+ tmc-20221231_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 17
+ tmc-20221231_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 18
+ tmc-20221231_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

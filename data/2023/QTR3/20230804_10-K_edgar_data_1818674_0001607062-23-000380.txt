@@ -1,0 +1,3237 @@
+<Header>
+<FileStats>
+    <FileName>20230804_10-K_edgar_data_1818674_0001607062-23-000380.txt</FileName>
+    <GrossFileSize>2735520</GrossFileSize>
+    <NetFileSize>123257</NetFileSize>
+    <NonText_DocumentType_Chars>546668</NonText_DocumentType_Chars>
+    <HTML_Chars>853005</HTML_Chars>
+    <XBRL_Chars>537607</XBRL_Chars>
+    <XML_Chars>617458</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001607062-23-000380.hdr.sgml : 20230804
+<ACCEPTANCE-DATETIME>20230804100437
+ACCESSION NUMBER:		0001607062-23-000380
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		49
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230804
+DATE AS OF CHANGE:		20230804
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYBLEU Inc
+		CENTRAL INDEX KEY:			0001818674
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				851412307
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-248059
+		FILM NUMBER:		231142498
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1034 THROGGS NECK EXPRESSWAY
+		CITY:			BRONX
+		STATE:			NY
+		ZIP:			10465
+		BUSINESS PHONE:		718-795-7790
+
+	MAIL ADDRESS:	
+		STREET 1:		1034 THROGGS NECK EXPRESSWAY
+		CITY:			BRONX
+		STATE:			NY
+		ZIP:			10465
+
+</SEC-Header>
+</Header>
+
+ 0001607062-23-000380.txt : 20230804
+
+10-K
+ 1
+ sybleu063023form10k.htm
+ 10-K
+
+UNITED
+STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+ _________________ 
+
+ FORM 
+
+ _________________ 
+
+ (Mark
+One) 
+
+ ANNUAL
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ending: ,
+2023 . 
+
+ TRANSITION
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from 
+
+ Commission
+File Number: 
+
+ _____________________ 
+
+(Exact
+name of registrant as specified in its charter) 
+
+ _____________________ 
+
+(State
+ or other jurisdiction of incorporation or organization) 
+ 
+ (I.R.S.
+ Employer Identification No.) 
+
+,
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+(Issuers s
+telephone number) 
+
+N/A 
+
+ (Former
+name or former address and former fiscal year, if changed since last report) 
+
+ _________________ 
+
+ Securities
+registered pursuant to Section 12(b) of the Exchange Act : None 
+
+ Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. 
+
+ No 
+
+ Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). 
+
+ No 
+
+ Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer , accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+
+Smaller reporting company 
+ 
+ Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+ Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). 
+
+ Yes 
+
+ APPLICABLE
+ONLY TO CORPORATE ISSUERS 
+
+ State the aggregate market value of the voting
+and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the
+average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second
+fiscal quarter: N/A 0 
+
+As of
+July 30, 2023 SYBLEU INC. had common
+shares outstanding. 
+
+1 
+
+In
+this annual report, the terms Sybleu Inc... , Sybleu , Company , we , or our ,
+unless the context otherwise requires, mean Sybleu Inc.., a Wyoming corporation. 
+
+ CAUTIONARY
+STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+
+ This
+annual report on Form 10-K and other reports that we file with the SEC contain statements that are considered forward-looking statements. Forward-looking
+statements give the Company s current expectations, plans, objectives, assumptions or forecasts of future events. All statements
+other than statements of current or historical fact contained in this annual report, including statements regarding the Company s
+future financial position, business strategy, budgets, projected costs and plans and objectives of management for future operations,
+are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as anticipate, 
+ estimate, plans, potential, projects, ongoing, expects, 
+ management believes, we believe, we intend, and similar expressions. These statements are based
+on the Company s current plans and are subject to risks and uncertainties, and as such the Company s actual future activities
+and results of operations may be materially different from those set forth in the forward looking statements. Any or all of the forward-looking
+statements in this annual report may turn out to be inaccurate and as such, you should not place undue reliance on these forward-looking
+statements. The Company has based these forward-looking statements largely on its current expectations and projections about
+future events and financial trends that it believes may affect its financial condition, results of operations, business strategy and
+financial needs. The forward-looking statements can be affected by inaccurate assumptions or by known or unknown risks, uncertainties
+and assumptions due to a number of factors, including: 
+
+dependence
+ on key personnel; 
+
+competitive
+ factors; 
+
+degree
+ of success of research and development programs 
+
+the
+ operation of our business; and 
+
+general
+ economic conditions 
+
+These
+forward-looking statements speak only as of the date on which they are made, and except to the extent required by federal securities
+laws, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date on which
+the statement is made or to reflect the occurrence of unanticipated events. In addition, we cannot assess the impact of each factor on
+our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained
+in any forward-looking statements. All subsequent written and oral forward-looking statements attributable to the Company or persons
+acting on its behalf are expressly qualified in their entirety by the cautionary statements contained in this annual report. 
+
+2 
+
+PART
+I 
+
+ Item
+1. Business 
+
+ We
+were incorporated June 12, 2020 under the laws of the State of Wyoming. We intend to develop therapies for human and animal health, medical
+devices, and clinical diagnostics. The Company intends to engage in the acquisition, licensing and development of medical and veterinary
+applications up to the point of successful completion of Phase I and or Phase II clinical trials after which the Company would either
+attempt to sell or license those developed applications or, alternatively, advance the application further to Phase III clinical trials.
+The primary factor to be considered by us in arriving at a decision to advance an application further to Phase III clinical trials would
+be a greater than anticipated indication of efficacy seen in Phase I trials. 
+
+ We
+are currently focused on acquiring intellectual property and forging strategic partnerships to advance technologies to market. 
+
+ Acquired
+Intellectual Property 
+
+ On
+July 14, 2020 we were assigned all right, title, and interest to intellectual property related to methods, devices, and techniques useful
+for enhancing function of a cellular graft through photoceutical the use of low level light therapeutics) manipulation Cell
+Transplant IP ). 
+
+ On
+December 2, 2020 Sybleu Inc.. (the Company was assigned all right, title, and interest to intellectual property related
+to intratumoral administration of a combination of a chemotherapeutic agent and an immunomodulatory agent for cancer therapy Cancer
+Therapy IP ). 
+
+ On
+June 30, 2023 Sybleu Inc. (the Company entered into an agreement Agreement whereby the Company purchased
+from Zander Biologics, Inc. Zander a 50 interest in 
+
+ (a)the
+invention disclosed in US Patent US11377442B2 (Small molecule agonists and antagonists of NR2F6 activity), all patent rights to the invention
+described in US Patent US11377442B2 as well as all trade secrets, trademarks and associated good will to the invention described in US
+Patent US11377442B2 and 
+
+ (b)
+the invention disclosed in US Patent US US10472351B2 (Small molecule agonists and antagonists of NR2F6 activity in animals), all patent
+rights to the invention described in US Patent US10472351B2 as well as all trade secrets, trademarks and associated good will to the
+invention described in US Patent US10472351B2. 
+
+ IP
+Rights ). 
+
+ The
+IP rights are to patent protected small molecule compounds which compounds have been found to modulate the immune system. 
+
+ Pursuant
+to the Agreement the Company issued to Zander a promissory note in the principal amount of 300,000 bearing simple interest at 10 per
+annum as consideration for 50 interest in the IP rights. The promissory note and all accrued interest are due and payable June 30, 2025. 
+
+ In
+the event that on or prior to July 31, 2023 Zander causes to be filed with the United States Patent and Trademark Office any and all
+documentation which may be required in order to record the transfer of the 50 Interest to the Company Zander shall receive additional
+consideration consisting of 1,000,000 common shares of the Company. 
+
+3 
+
+The
+Company and Zander (The Parties agree to jointly develop and commercialize the IP Rights for veterinary use upon mutually
+acceptable terms and conditions. Each Party shall be entitled to 50 of any and all revenues derived from development and commercialization
+..Each Party shall be responsible for 50 of all any and all expenses incurred in connection with development and commercialization. 
+
+Neither
+Party shall transfer right, title and interest in and to including, but not limited to, the copyrights, trade secrets, trademarks and
+associated good will and patent rights to the IP Rights in whole or in part without the written consent of the other Party. Neither Party
+shall grant any rights or license to the IP Rights to any entity without the written consent of the other Party. 
+
+ Licenses
+Granted by the Company 
+
+ On
+February 24, 2021 Sybleu Inc. the Company and Oncology Pharma, Inc. Licensee entered into an agreement
+whereby the Company granted the Licensee an exclusive worldwide right and license for the development and commercialization of certain
+intellectual property controlled by the Company Agreement ). 
+
+ This
+intellectual property relates to intratumoral administration of a combination of a chemotherapeutic agent and an immunomodulatory agent
+for cancer therapy Cancer Therapy IP ). The concept of the Cancer Therapy IP is the simultaneous intratumoral injection
+of a chemotherapeutic agents in combination with immunomodulatory agents in sustained release formulations. The chemotherapeutic agent
+is for the purpose of directly killing the tumor cells for the release of antigens while the immunomodulatory protein or factor is to
+stimulate the antigenic response of the host to the antigens. 
+
+ The
+term of the Agreement is fifteen years from the Effective Date. 
+
+ Pursuant
+to the Agreement: 
+
+(a) Licensee
+ shall pay to the Company a non-refundable, upfront payment of six thousand five hundred shares
+ of Oncology Pharma, Inc. common stock as a license initiation fee which must be paid within
+ 10 days of the Effective Date of the Agreement 
+
+(b) royalties
+ equal to five percent (5 of the Net Sales of any Licensed Products in a quarter. 
+
+Net
+Sales are defined in the Agreement as the gross invoiced amount, and/or the monetary equivalent of any other consideration actually received
+by Licensee and/or its sublicensees, for the transfer of a Licensed Product, less any of the following items that are itemized on the
+relevant invoice or which Licensee can demonstrate have been actually paid or credited with respect to such transfer. 
+
+ Licensed
+Product is defined in the Agreement as (a) any method, procedure, service or process that incorporates, uses, used, is covered by, infringes
+or would infringe any of the licensed intellectual property in the U.S. or foreign jurisdictions; and (b) any apparatus, material, equipment,
+machine or other product that incorporates, uses, used, is covered by, infringes or would infringe any of the licensed intellectual property
+in the U.S. or foreign jurisdictions but for the rights granted pursuant to this Agreement. 
+
+ Oncology
+Pharma Inc. is a publicly traded company whose common shares trade on the OTC Pink market under the symbol ONPH. 
+
+4 
+
+Licenses
+Granted to the Company 
+
+ On
+June 26, 2023 Sybleu Inc. the Company was granted an exclusive worldwide license by DYO Biotechnologies, Pty, Ltd DYO to (a) to make, have made, use, offer for sale, sell, perform, have performed export and import Licensed Products and Licensed Services;
+(b) to practice Licensed Methods; and (c) to use Technology, all in the Field, within the Territory and during the Term (the License ). 
+
+ Technology 
+is defined in the License as Artificial intelligence/machine learning engine designed to utilize existing chemical library structures
+in an integrated model to predict highly specific and sensitive novel chemical structures for molecular targets. 
+
+ Licensed
+Products are defined in the License as any product, kit, composition, or part thereof: (a) that incorporates, uses, or
+is enabled or derived from the use of the Technology; or (b) that is produced or enabled by a Licensed Method. 
+
+ Licensed
+Services are defined in the License as any service performed by Company or Sublicensee for the benefit of a third party
+that, in whole or in part, (a) uses Technology; (b) uses Licensed Product(s); or (c) that practices or is enabled by a Licensed Method. 
+
+ Licensed
+Method is defined in the License as any method or process that uses Technology 
+
+ Field 
+is defined in the License as small molecule drug development and commercialization for human and/or animal health. 
+
+ Territory 
+is defined in the License as worldwide . 
+
+ The
+Term of the License is the period of time beginning on the effective date of this Agreement which shall be June 26, 2023 and terminating
+on the last to expire Royalty Term . 
+
+ Royalty
+Term is defined in the License as that period of time beginning on the first commercial sale of a Licensed Product in a given
+country and, expires on a country-by-country basis with respect to each Licensed Product, upon the later of: (a) the expiration, abandonment,
+or invalidation of the last to expire, abandoned or invalidated Valid Claim of the Patent Rights in such country; (b) the expiration
+of any granted statutory period of marketing exclusivity within a country; and (c) 12 years from of the date of the first commercial
+sale of such Licensed Product in such country. 
+
+ Pursuant
+to the terms and conditions of the License the Company shall raise 2,000,000 US through either debt or equity financing within 2 years
+of execution of this Agreement Funding ). The Company shall enter into a research collaboration agreement with DYO upon
+mutually acceptable terms and conditions within 30 days of Funding Research Agreement). 
+
+ Substantially
+all of the Funding shall be utilized to enable the Technology for the benefit of developing Company s existing and future small
+molecule drug intellectual property. It is anticipated that this research agreement will utilize substantially all of these funds over
+two years. It is agreed that the Company shall exclusively possess all right, title and interest in and to including, but not limited
+to, the copyrights, trade secrets, trademarks and associated good will and patent rights to any and all inventions, discoveries, intellectual
+property and chemical structures resulting from this Research Agreement. 
+
+5 
+
+Pursuant
+to the terms and conditions of the License the Company shall pay to DYO a Royalty equal to five percent (5 of the Net Sales as such
+term is defined in the License) of any Licensed Method, Service or Product per annum. The License also imposes an obligation upon the
+Company to make minimum royalty payments to DYO over the course of the Term. 
+
+ Pursuant
+to the terms and conditions of the License the the Company paid to DYO 309,000 common shares of the Company Stock Payment and a 25,000 License Issuance Fee. 
+
+ DYO
+shall not, directly or indirectly, offer, issue, sell, contract to sell (including without limitation short sale), grant any option for
+the sale of, pledge or otherwise dispose of or transfer any or all of the Stock Payment for a period of two years from the date of issuance. 
+
+ Pursuant
+to the terms and conditions of the License Upon the occurrence of each of the following events (each a Milestone )), the
+Company shall make a cash payment Milestone Payment in the amount corresponding to such Milestone within thirty days
+after achievement of each Milestone: 
+
+Milestone 
+ AMOUNT 
+ 
+ 1.
+ Dosing of a first human patient in a Phase I or Phase I/II Clinical Trial for Licensed Product 
+ 150,000
+ US 
+ 
+ 2.
+ Dosing of a first patient in a Phase III Clinical Trial for Licensed Product 
+ 500,000
+ US 
+ 
+ 3.
+ FDA (US) Approval of a Licensed Product 
+ 3,000,000
+ US 
+ 
+ 4.
+ EMA (EU) Approval of a Licensed Product 
+ 1,500,000
+ US 
+ 
+ 5.
+ PMDA (JPN) Approval of a Licensed Product 
+ 1,000,000
+ US 
+ 
+ 6.
+ Cumulative Net Sales of Licensed Products reach 100 Million 
+ 2,000,000
+ US 
+
+This
+License may be terminated by DYO in the event: 
+
+ No
+licensed Method, Service or Product has been granted Patent Protection in at least one jurisdiction after the expiration of four years
+from execution 
+
+ The
+sum of 2,000,000 shall not have been raised within 2 years of execution of the license 
+
+ The
+Research Agreement shall not have been entered into as of thirty days subsequent to the Funding. 
+
+ The
+Company shall not have achieved cumulative Net Sales of Licensed Product, Service and Methods of at least 10,000,000 as of a date that
+is ten years from the execution of the license 
+
+ The
+Company shall fail to pay any consideration required under the license and such failure remains uncured for thirty days. 
+
+6 
+
+This
+License may be terminated by the Company in the event: 
+
+ DYO
+shall be determined to not have exclusive unencumbered Patent Rights to the Technology in whole or in part. 
+
+ Any
+other entity shall be determined to have the right- exercised or not- to utilize the Technology in whole or in part) to develop make,
+use, offer for sale, sell, perform, have performed export and import and sell products, methods and services which can reasonably be
+expected to be similar to or competitive with products, methods and services to be developed by the Company utilizing the rights granted
+by the License. . 
+
+ DYO
+shall have failed to demonstrate during the course of due diligence to the satisfaction of the Company that the Technology can be effectively
+utilized for the purposes intended by this License 
+
+ In
+the event that the Agreement is terminated pursuant to the any of the abovementioned the Stock Payment shall be promptly returned by
+DYO to the Company for cancellation. 
+
+ Dr.
+Harry Lander serves as Chief Scientific Officer of the Company and is a shareholder of the Company. Dr. Harry Lander also serves as Managing
+Director of DYO and is a controlling shareholder of DYO. 
+
+ Distribution
+methods of the products or services: 
+
+ If
+circumstances allow and subject to then current market conditions and available capital, we intend to enter into licensing and/or sublicensing
+agreements with outside entities in order that the Company may, if the Company is successful in securing its intellectual property claims,
+allow it to obtain royalty income on the products and services which it may develop and commercialize. 
+
+ Competitive
+business conditions and the Company s competitive position in the industry and methods of competition 
+
+ We
+are recently formed and have yet to achieve consistent revenues or profits and there can be no assurance that we will generate revenues
+or, if are successful, that we can do so at levels that will allow us to achieve and sustain positive cash flow and profitability and,
+if so, for any period of time.. The industry in which we intend to compete are highly competitive and characterized by rapid technological
+advancement. Many of our competitors have greater resources than we do. 
+
+ We
+intend to be competitive by utilizing the services and advice of individuals that we believe have expertise in their field in order that
+we can concentrate our resources on projects in which products and services in which we have the greatest potential to secure a
+competitive advantage may be developed and commercialized . 
+
+ To
+that effect we have established a Scientific Advisory Board considting of members who we believe have a high level of expertise in their
+professional fields and who have agreed to provide counsel and assistance to us in (a) determining the viability of proposed projects
+(b) obtaining financing for projects and (c) obtaining the resources required to initiate and complete a project in the most cost effective
+and rapid manner. 
+
+ SCIENTIFIC
+ADVISORY BOARD MENBERS 
+
+ Dr.
+Steven E. Hake, M.D. 
+
+ Dr.
+Hake obtained his medical degree from The Chicago Medical School. Dr. Hake has been certified by American Board of Radiology since June
+1992. Dr. Hake s professional affiliations are with the Alpha Omega Alpha Honorary Medical Society and the American College of
+Radiology. 
+
+7 
+
+Dr.
+Jason E. Garber, MD. 
+
+ Dr.
+Garber obtained his medical degree from The University of Texas Health Science Center at San Antonio. Dr. Garber is Board Certified in
+Neurological Surgery by the American Board of Neurological Surgery 
+
+ Dr.
+Garber was awarded a Cloward Fellowship Award in 2001 and has authored the following papers in the following publications: 
+
+ Hassenbusch,
+SJ, Garber, JE: Alternative Intrathecal Agents for Pain, Neuromodulation, Volume 2, Number 2, 1999 89-95. 
+
+ Garber,
+JE, Hassenbusch, SJ: Innovative Intrathecal Analgesics, Pain surgery, Burchiel, K (ed): In Press. 
+
+ Garber,
+JE, Hassenbusch, SJ: Interventional Pain Management: Can Charges be Effectively Minimized without Compromising Quality? 
+Pain Digest: In Press. 
+
+ Garber,
+JE, Hassenbusch, SJ: Neurosurgical Operations on the Spinal Cord. Bonica s Management of Pain, 3rd Edition, Loeser, JD (ed), Medica,
+PA: Williams and Wilkins, 1998: In Press. 
+
+ Garber,
+JE, Hassenbusch, SJ: Spinal Administration of Non-Opiate Analgesics in the Management of Pain, Interventional Pain Management,
+2nd Edition, Waldman, SD (ed), WB Saunders: In Press 
+
+ Nguyen
+H, Garber JE, Hassenbusch SJ: Spinal Analgesics. In: Staats P and Fleisher LA (eds). Anesthesiology Clinics of North America, Saunders:
+Philadelphia, pp. 805-816, 2003. 
+
+ Garber,
+JE, Thalgott JS, Christensen SD: Anterior Lumbar Interbody Fusion via the Anterior Retroperitoneal Approach: Strategic Tactics for Avoiding
+Complications. The NNI Journal, Volume 2, Issue 3, 2006 62-65. 
+
+ Garber,
+JE, Thalgott JS, Fogarty M, Caiazza S: Dynamic Stabilization of the Lumbar Spine: Past, Present, and Future Innovations. The NNI Journal,
+Volume 3, Issue 1, 2007 pp. 84-87. 
+
+ Garber,
+JE, Saxena RC, Malone K: The Identification and Treatment of a Lumbar Plasmacytoma: A Case Report and Topic Review. The NNI Journal,
+Volume 3, Issue 3, 2007 pp. 135-139 
+
+ Garber,
+JE, Malone K: Utilizing a Lateral Extracavitary Approach for Failed Lumbar Spine Fusion Procedures: A Case Study with Imaging Considerations
+in Lumbar Fusions. The NNI Journal, Volume 4, Issue pp. 14-15. 
+
+ Garber,
+JE, Christian G, Serrano S, Malone K: Surgical Treatment of Intradural Extramedullary Spine Tumors. The NNI Journal, Volume 5, Issue
+1, April 2009. 
+
+ Garber,
+JE, Christian G, Serrano S, Malone, K: Nail-Gun Misfire Resulting in Penetrating Intracranial Injury. The NNI Journal, Volume 5, Issue
+1, April 2009. 
+
+ Garber,
+JE, Christian G, Serrano S, Malone, K: Craniocervical Fixation Series and Review of Literature. The NNI Journal, Volume 6, Issue 1, Jan
+2010. 
+
+ Dr. Garber
+has made the following professional presentations: 
+
+ 1.
+1999 Congress of Neurological Surgeons (CNS) Meeting, Boston, MA. Oral Presentation, Section on Pain II: Interventional Pain Management:
+Can Charges Be Effectively Minimized Without Compromising Quality? 
+
+ 2.
+2000 Neurosurgery + Science + Management Symposium, New Orleans, LA. Oral Presentation: Cancer and Non-cancerous Pain Management. 
+
+8 
+
+3.
+2001 Congress of Neurological Surgeons (CNS) Meeting, San Diego, CA. Poster Presentation: Extralaminar Posterior Cervical Dorsal Ramisectomy:
+A Modified Surgical Approach for the Treatment of Cervical Dystonia (Spasmodic Torticollis). 
+
+ 4.
+2005 Medical Education Resources Making Sense of Spine Surgery Seminar, Las Vegas, NV. Oral Presentation: Spinal Disorders: Cervical
+Conditions and Treatment. Demonstration: Cervical Construct Demonstration: Atlantis Vision Cervical Plate. 
+
+ 5.
+Minimally Invasive Spinal Surgery. Sunrise Hospital and Medical Center Grand Rounds, June 1, 2005. 
+
+ 6.
+Oral Presentation: One Neurosurgeon s Experience with STALIF, Newport Beach, CA, November 2007. 
+
+ 7.
+EuroSpine: What is the Role of Mystique plating and Bioresorbable Technology in anterior cervical Fusion Procedures? Bressels, Belgium,
+2007. 
+
+ 8.
+Oral Presentation: Novel Minimally Invasive Spine Techniques, Las Vegas, NV, January 2008. 
+
+ 9.
+International Meeting on Advanced Spine Techniques, Hong Kong, China, July 2008. Poster Presentation: A Comparison of the Surgical Efficacy
+of ALIF and XLIF L4-5 Fusion Procedures with Posterior Fixation. 
+
+ 10.
+Congress of Neurological Surgeon s 2008 Annual Meeting, Orlando, FL, September 2008. Poster Presentation: A Comparison of the Surgical
+Efficacy of ALIF and XLIF L4-5 Fusion Procedures with Posterior Fixation. 
+
+ 11.
+North American Neuromodulation Society (NANS) 13th Annual Meeting, Las Vegas, NV, December 3-6 2009. Paper Presentation: Selective Dermatome
+Activation, Using a Novel Five-Column Spinal Cord Stimulation Paddle Lead: A Case Series. 
+
+ 12.
+International Society for the Advancement of Spine Surgery 2 nd Asia Pacific Conference (2010 APSAS), Sanya, China, January 14-17
+2010. Paper Presentation: Direct Lateral Approach Corpectomy for Severe Kyphotic Deformity Correction. 
+
+ 13.
+The Role of Permanent Vascular Protection in Anterior Spine Instrumentation 39th Annual Symposium, Orlando FL. March 16-19, 2011.
+A Review of Ten Same Lumbar Level Reoperations, Society of Clinical Vascular Surgery. 
+
+ 14.
+International Society for the Advancement of Spine Surgery Annual Meeting (SAS, 2011), Las Vegas. Poster Presentation: A Multi-center
+Retrospective Evaluation of a Cervical Integrated Interbody System. 
+
+ 15.
+Conejo Valley Journal Club, Sherman Oaks, CA. January, 2015. Oral Presentation: Benefits of an Integrated Interbody Device over Spacers
+and Plates. 
+
+ 16.
+Society for Minimally Invasive Spine Surgery Global Forum 15 Las Vegas, NV. November 6, 2015. Minimally Invasive Stabilization:
+A 5 year Level 1 Study of Spinal Stenosis Disease Management. 
+
+ 17.
+International Society for the Advancement of Spine Surgery, Metro Toronto, Canada, April 11-13, 2018. Clinical Experience of Integrated
+Interbody Fusion in Multi-level Cervical Fusion. 
+
+ 18.
+Society for Minimally Invasive Spine Surgeons Annual Forum 18, Las Vegas Nevada. Multi-level Cervical Constructs in Clinical Practice
+using Integrated Interbody Fusion. 
+
+ 19.
+Society for Minimally Invasive Spine Surgeons Annual Forum 18, Las Vegas Nevada. Interspinous Decompression Devices Do
+They Have a Role? 
+
+9 
+
+20.
+Congress of Neurological Surgery s 2018 annual meeting, Houston Texas, October 6-10, 2018. Integrated Interbody Fusion in Multi-level
+Cervical Constructs in Clinical Practice. 
+
+ 21.
+Congress of Neurological Surgery s 2018 annual meeting, Houston Texas, October 6-10, 2018. Swan Neck Deformity Correction with
+Multilevel Anterior Cervical Integrated Cages. 
+
+ 22.
+International Spinal Deformity Symposium 4th Annual, November/December 2018. Multilevel Cervical Constructs in Clinical Practice using
+Integrated Interbody Fusion. 
+
+ 23.
+International Society for the Advancement of Spine Surgery, Anaheim, California, April 3, 2019. Oral poster presentation: Cervical spinal
+deformity correction utilizing an integrated interbody fusion devices from a single anterior approach. 
+
+ 24.
+North American Spine Society 34th annual meeting, Chicago, Illinois, September 25-28, 2019. Poster presentation: Integrated Interbody
+Fusion in Multilevel Cervical Constructs in Clinical Practice. 
+
+ 25.
+American College of Surgeons, San Francisco, California, October 28, 2019. Oral presentation: Integrated Interbody Fusion in Multi-level
+Cervical Constructs in Clinical Prectice. 
+
+ Dr. Garber
+is affiliated with the Las Vegas Neurosurgical Institute in Las Vegas, Nevada. 
+
+ The
+Company is currently continuing to search for other experts to serve on the Company s Scientific Advisory Board. 
+
+ Principal
+Products and Services: 
+
+ The
+Company is currently focused upon: 
+
+(a) developing
+ drugs for treating cancer in companion animals 
+
+(b) examining
+ the role of Artificial Intelligence and Machine Learning in clinical diagnostics and 
+
+(c) development
+ of disposable medical devices 
+
+Sources
+and availability of raw materials and the names of principal suppliers 
+
+ The
+supplies and materials required to conduct our operations are available through a wide variety of sources and may be obtained through
+a wide variety of sources. 
+
+ Patents,
+trademarks, licenses, franchises, concessions, royalty agreements or labor contracts, including duration 
+
+ Patents: 
+
+ The
+Company has purchased a 50 interest in and to inventions granted the following patents by the United States Patent and Trademark Office. 
+
+ US
+Patent US11377442B2 (Small molecule agonists and antagonists of NR2F6 activity) 
+
+ US
+Patent US US10472351B2 (Small molecule agonists and antagonists of NR2F6 activity in animals. 
+
+10 
+
+Royalty
+Agreements: 
+
+ On
+June 26, 2023 Sybleu Inc. the Company was granted an exclusive worldwide license by DYO Biotechnologies, Pty, Ltd DYO to (a) to make, have made, use, offer for sale, sell, perform, have performed export and import Licensed Products and Licensed Services;
+(b) to practice Licensed Methods; and (c) to use Technology, all in the Field, within the Territory and during the Term (the License ). 
+
+ Technology 
+is defined in the License as Artificial intelligence/machine learning engine designed to utilize existing chemical library structures
+in an integrated model to predict highly specific and sensitive novel chemical structures for molecular targets. 
+
+ Licensed
+Products are defined in the License as any product, kit, composition, or part thereof: (a) that incorporates, uses, or
+is enabled or derived from the use of the Technology; or (b) that is produced or enabled by a Licensed Method. 
+
+ Licensed
+Services are defined in the License as any service performed by Company or Sublicensee for the benefit of a third party
+that, in whole or in part, (a) uses Technology; (b) uses Licensed Product(s); or (c) that practices or is enabled by a Licensed Method. 
+
+ Licensed
+Method is defined in the License as any method or process that uses Technology 
+
+ Field 
+is defined in the License as small molecule drug development and commercialization for human and/or animal health. 
+
+ Territory 
+is defined in the License as worldwide . 
+
+ The
+Term of the License is the period of time beginning on the effective date of this Agreement which shall be June 26, 2023 and terminating
+on the last to expire Royalty Term . 
+
+ Royalty
+Term is defined in the License as that period of time beginning on the first commercial sale of a Licensed Product in a given
+country and, expires on a country-by-country basis with respect to each Licensed Product, upon the later of: (a) the expiration, abandonment,
+or invalidation of the last to expire, abandoned or invalidated Valid Claim of the Patent Rights in such country; (b) the expiration
+of any granted statutory period of marketing exclusivity within a country; and (c) 12 years from of the date of the first commercial
+sale of such Licensed Product in such country. 
+
+ Pursuant
+to the terms and conditions of the License the Company shall raise 2,000,000 US through either debt or equity financing within 2 years
+of execution of this Agreement Funding ). The Company shall enter into a research collaboration agreement with DYO upon
+mutually acceptable terms and conditions within 30 days of Funding Research Agreement). 
+
+11 
+
+Substantially
+all of the Funding shall be utilized to enable the Technology for the benefit of developing Company s existing and future small
+molecule drug intellectual property. It is anticipated that this research agreement will utilize substantially all of these funds over
+two years. It is agreed that the Company shall exclusively possess all right, title and interest in and to including, but not limited
+to, the copyrights, trade secrets, trademarks and associated good will and patent rights to any and all inventions, discoveries, intellectual
+property and chemical structures resulting from this Research Agreement 
+
+ Pursuant
+to the terms and conditions of the License the Company shall pay to DYO a Royalty equal to five percent (5 of the Net Sales as such
+term is defined in the License) of any Licensed Method, Service or Product per annum. The License also imposes an obligation upon the
+Company to make minimum royalty payments to DYO over the course of the Term. 
+
+ Pursuant
+to the terms and conditions of the License the l Company paid to DYO 309,000 common shares of the Company Stock Payment ). 
+
+ DYO
+shall not, directly or indirectly, offer, issue, sell, contract to sell (including without limitation short sale), grant any option for
+the sale of, pledge or otherwise dispose of or transfer any or all of the Stock Payment for a period of two years from the date of issuance. 
+
+ Pursuant
+to the terms and conditions of the License Upon the occurrence of each of the following events (each a Milestone )), the
+Company shall make a cash payment Milestone Payment in the amount corresponding to such Milestone within thirty days
+after achievement of each Milestone: 
+
+Milestone 
+ AMOUNT 
+ 
+ 1.
+ Dosing of a first human patient in a Phase I or Phase I/II Clinical Trial for Licensed Product 
+ 150,000
+ US 
+ 
+ 2.
+ Dosing of a first patient in a Phase III Clinical Trial for Licensed Product 
+ 500,000
+ US 
+ 
+ 3.
+ FDA (US) Approval of a Licensed Product 
+ 3,000,000
+ US 
+ 
+ 4.
+ EMA (EU) Approval of a Licensed Product 
+ 1,500,000
+ US 
+ 
+ 5.
+ PMDA (JPN) Approval of a Licensed Product 
+ 1,000,000
+ US 
+ 
+ 6.
+ Cumulative Net Sales of Licensed Products reach 100 Million 
+ 2,000,000
+ US 
+
+This
+License may be terminated by DYO in the event: 
+
+ No
+licensed Method, Service or Product has been granted Patent Protection in at least one jurisdiction after the expiration of four years
+from execution 
+
+ The
+sum of 2,000,000 shall not have been raised within 2 years of execution of the license 
+
+ The
+Research Agreement shall not have been entered into as of thirty days subsequent to the Funding. 
+
+ The
+Company shall not have achieved cumulative Net Sales of Licensed Product, Service and Methods of at least 10,000,000 as of a date that
+is ten years from the execution of the license 
+
+ The
+Company shall fail to pay any consideration required under the license and such failure remains uncured for thirty days. 
+
+12 
+
+This
+License may be terminated by the Company in the event: 
+
+ DYO
+shall be determined to not have exclusive unencumbered Patent Rights to the Technology in whole or in part. 
+
+ Any
+other entity shall be determined to have the right- exercised or not- to utilize the Technology in whole or in part) to develop make,
+use, offer for sale, sell, perform, have performed export and import and sell products, methods and services which can reasonably be
+expected to be similar to or competitive with products, methods and services to be developed by the Company utilizing the rights granted
+by the License. . 
+
+ DYO
+shall have failed to demonstrate during the course of due diligence to the satisfaction of the Company that the Technology can be effectively
+utilized for the purposes intended by this License 
+
+ In
+the event that the Agreement is terminated pursuant to the any of the abovementioned the Stock Payment shall be promptly returned by
+DYO to the Company for cancellation. 
+
+ Dr.
+Harry Lander serves as Chief Scientific Officer of the Company and is a shareholder of the Company. Dr. Harry Lander also serves as Managing
+Director of DYO and is a controlling shareholder of DYO. 
+
+ Need for
+any government approval of principal products or services, effect of existing or probable governmental regulations on the business. 
+
+ The
+US Food and Drug Administration FDA and foreign regulatory authorities will regulate our proposed products as drugs or
+biologics, , depending upon such factors as the use to which the product will be put, the chemical composition, and the interaction of
+the product on the human body. In the United States, products that are intended to be introduced into the body will generally be regulated
+as drugs, while tissues and cells intended for transplant into the human body will be generally be regulated as biologics. 
+
+ Our
+domestic human drug and biological products will be subject to rigorous FDA review and approval procedures. After testing in animals,
+an Investigational New Drug Application IND must be filed with the FDA to obtain authorization for human testing. Extensive
+clinical testing, which is generally done in three phases, must then be undertaken at a hospital or medical center to demonstrate optimal
+use, safety, and efficacy of each product in humans. 
+
+ Phase
+I 
+
+ Phase
+1 trials are designed to assess the safety (pharmacovigilance), tolerability, pharmacokinetics, and pharmacodynamics of a drug. These
+trials are often conducted in an inpatient clinic, where the subject can be observed by full-time staff. The subject who receives the
+drug is usually observed until several half-lives of the drug have passed. Phase I trials normally include dose-ranging, also called
+dose escalation, studies so that the appropriate dose for therapeutic use can be found. The tested range of doses usually are a fraction
+of the dose that causes harm in animal testing and involve a small group of healthy volunteers. However, there are some circumstances
+when real patients are used, such as patients who have end-stage disease and lack other treatment options. 
+
+ Phase
+II 
+
+ Phase
+II trials are designed to assess how well the drug or biologic works, as well as to continue Phase I safety assessments in a larger group
+of volunteers and patients. Phase II trials are performed on larger groups. 
+
+ Phase
+III 
+
+ Phase
+III trials are aimed at being the definitive assessment of how effective the product is in comparison with current best standard treatment
+and to provide an adequate basis for physician labeling. Phase III trials may also be conducted for the purposes of (i) label expansion 
+(to show the product works for additional types of patients/diseases beyond the original use for which the drug was approved for marketing
+or (ii) to obtain additional safety data, or to support marketing claims for the product. 
+
+13 
+
+On
+occasion Phase IV (Post Approval) trials may be required by the FDA. Phase IV trials involve the safety surveillance (pharmacovigilance)
+and ongoing technical support of a drug after it receives permission to be sold. The safety surveillance is designed to detect any rare
+or long-term adverse effects over a much larger patient population and longer time period than was possible during the Phase I-III clinical
+trials. 
+
+ All
+phases, must be undertaken at a hospital or medical center to demonstrate optimal use, safety, and efficacy of each product in humans.
+Each clinical study is conducted under the auspices of an independent Institutional Review Board IRB ). The IRB will consider,
+among other things, ethical factors, the safety of human subjects, and the possible liability of the institution. The time and expense
+required to perform this clinical testing can far exceed the time and expense of the research and development initially required to create
+the product. No action can be taken to market any therapeutic product in the United States until an appropriate New Drug Application NDA or Biologic License Application BLA or has been approved by the FDA. FDA regulations also restrict
+the export of therapeutic products for clinical use prior to NDA or BLA approval. 
+
+ Even
+after initial FDA approval has been obtained, further studies may be required to provide additional data on safety or to gain approval
+for the use of a product as a treatment for clinical indications other than those initially targeted. In addition, use of these products
+during testing and after marketing could reveal side effects that could delay, impede, or prevent FDA marketing approval, resulting in
+FDA-ordered product recall, or in FDA-imposed limitations on permissible use. 
+
+ The
+FDA regulates the manufacturing process of pharmaceutical products, and human tissue and cell products, requiring that they be produced
+in compliance with Current Good Manufacturing Practices cGMP . The FDA also regulates the content of advertisements used
+to market pharmaceutical products. Generally, claims made in advertisements concerning the safety and efficacy of a product, or any advantages
+of a product over another product, must be supported by clinical data filed as part of an NDA or an amendment to an NDA, and statements
+regarding the use of a product must be consistent with the FDA approved labeling and dosage information for that product. 
+
+ Sales
+of drugs and biologics outside the United States are subject to foreign regulatory requirements that vary widely from country to country.
+Even if FDA approval has been obtained, approval of a product by comparable regulatory authorities of foreign countries must be obtained
+prior to the commencement of marketing the product in those countries. The time required to obtain such approval may be longer or shorter
+than that required for FDA approval. 
+
+ The
+Center for Veterinary Medicine CVM at the United States Food and Drug Administration FDA regulates animal
+pharmaceuticals under the Food, Drug and Cosmetics Act. Manufacturers of animal health pharmaceuticals must show their products to be
+safe, effective and produced by a consistent method of manufacture. The new animal drug approval process is complicated. Before a new
+animal drug may receive FDA approval, the sponsor must establish that the new animal drug is safe and effective. Drug sponsors must submit
+a New Animal Drug Application (NADA) along with supporting data, including all adverse effects associated with the drug's use. The NADA
+must also include information on the drug's chemistry; composition and component ingredients; manufacturing methods, facilities, and
+controls; proposed labeling; analytical methods for residue detection and analysis if applicable; an environmental assessment; and other
+information. The sponsor of a new animal drug is responsible for submitting all appropriate data to establish effectiveness and safety.
+If the drug product is intended for use in a food-producing animal, residues in food products must also be established as safe for human
+consumption. FDA review of the NADA submitted by drug sponsors is extremely detailed and comprehensive. The CVM s basis for approving
+a drug application is documented in a Freedom of Information Summary. . We will be required to conduct post-approval monitoring of FDA
+approved pharmaceutical products and to submit reports of product quality defects, adverse events or unexpected results to the CVM s
+Surveillance and Compliance group. No assurance may be given any new animal drug product which the Company may develop will be approved
+by the FDA to be marketed and sold. Regulatory authorities in countries outside of the United States and Europe also have requirements
+for approval of veterinary drug candidates with which we must comply prior to marketing in those countries. Obtaining regulatory approval
+for marketing of a product candidate in one country does not ensure that we will be able to obtain regulatory approval in any other country. 
+
+ Amount
+spent during the fiscal year ended June 30, 2023 on research and development activities. 
+
+14 
+
+During
+the fiscal year ended June 30, 2023 we expended 85,489 on research and development activities. 
+
+ Costs
+and effects of compliance with environmental laws (federal, state and local) 
+
+ SYBLEU
+has not incurred any unusual or significant costs to remain in compliance with any environmental laws and does not expect to incur any
+unusual or significant costs to remain in compliance with any environmental laws in the foreseeable future. 
+
+ Number
+of total employees and number of full-time employees 
+
+ As
+of July 31, 2023 the Company has 2 employees of which each of them is part time. 
+
+ Item
+2. Properties 
+
+ The
+Company utilizes approximately 500 square feet of office space at 1034 Throggs Neck Expressway, Bronx NY 10465 provided to the Company
+by Joseph G. Vaini, the Company s sole officer and director, on a month to month basis free of charge. The property is utilized
+as office space. We believe that the foregoing properties are adequate to meet our current needs for office space. 
+
+ Item
+3. Legal Proceedings 
+
+ There
+are no material pending legal proceedings to which the Company is a party or of which any of the Company s property is the subject. 
+
+ Item
+4. Submission of Matters to a Vote of Security Holders 
+
+ No
+matter was submitted during the fourth quarter of the fiscal year covered by this report to a vote of security holders, through the solicitation
+of proxies or otherwise. 
+
+15 
+
+PART
+II 
+
+ Item
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+ Prior
+to March 2023 no public market existed for our securities. In March 2023 the common shares of the Company began trading over the Pink 
+market operated by OTC Markets Group under the symbol SYBE. 
+
+ The
+Company s common stock is a penny stock, as defined in Rule 3a51-1 under the Exchange Act. The penny stock rules
+require a broker-dealer, prior to a transaction in a penny stock not otherwise exempt from the rules, to deliver a standardized risk
+disclosure document that provides information about penny stocks and the nature and level of risks in the penny stock market. The broker-dealer
+also must provide the customer with current bid and offer quotations for the penny stock, the compensation of the broker-dealer and its
+sales person in the transaction, and monthly account statements showing the market value of each penny stock held in the customer's account.
+In addition, the penny stock rules require that the broker-dealer, not otherwise exempt from such rules, must make a special written
+determination that the penny stock is suitable for the purchaser and receive the purchaser's written agreement to the transaction. These
+disclosure rules have the effect of reducing the level of trading activity in the secondary market for a stock that becomes subject to
+the penny stock rules. So long as the common stock of the Company is subject to the penny stock rules, it may be more difficult to sell
+common stock of the Company. 
+
+ The
+stockholders equity section of the Company contains the following class of capital stock as of July 31, 2023: 
+
+ Common
+stock, 0.0001 par value; 100,000,000 shares authorized: 10,613,492 shares issued and outstanding. 
+
+ With
+respect to each matter submitted to a vote of stockholders of the Corporation, each holder of Common Stock shall be entitled to cast
+that number of votes which is equivalent to the number of shares of Common Stock owned by such holder times one (1). 
+
+ On
+any voluntary or involuntary liquidation, dissolution or winding up of the Corporation, the holders of the Common Stock shall receive,
+out of assets legally available for distribution to the Company s stockholders, a ratable share in the assets of the Company. 
+
+ Below
+is the range of high and low bid information for our common equity for each quarter within the last two fiscal years that a public market
+has existed for our common equity. These quotations reflect inter-dealer prices, without retail mark-up, mark-down or commission and
+may not represent actual transactions. 
+
+July
+ 1, 2022 to June 30, 2023 
+ HIGH 
+ LOW 
+ 
+ Third
+ Quarter 
+ 0.1 
+ 0.1 
+ 
+ Fourth
+ Quarter 
+ 0.2899 
+ 0.02 
+
+As
+of July 31, 2023 there were approximately 245 holders of our Common Stock. 
+
+ Dividends 
+
+ No
+cash dividends were paid during the fiscal year ending June 30, 2023. We do not expect to declare cash dividends in the immediate future. 
+
+ Recent
+Sales of Unregistered Securities 
+
+ On
+December 12, 2022 the Company issued 3,000,000 common shares Shares to Joseph G Vaini pursuant to an agreement whereby
+Joseph G. Vaini agreed to serve as President, Chief Executive Officer, Secretary, Chief Financial Officer and Secretary, Treasurer and
+Principal Accounting Officer of the Company. 
+
+ On
+December 12, 2022 the Company issued 3,000,000 common shares Shares to Harry Lander pursuant to an agreement whereby
+Harry Lander agreed to serve as Chief Scientific Officer of the Company. 
+
+ On
+December 13, 2022 the Company cancelled 6,113,508 common shares owned by David Koos, the Company s previous sole officer and director,
+and a company controlled by David Koos. Effective December 13, 2022 David Koos resigned as a Director of the Company and also resigned
+from any and all other offices he had held of the Company Resignation . In connection with his Resignation Koos has returned
+any and all common shares directly or indirectly held by Koos to the Company for cancellation. Also in connection with his Resignation
+Koos and the Company have entered into an agreement Separation Agreement whereby the Company shall pay Koos the sum
+of 10,000. 
+
+ On
+June 28, 2023 the Company issued 309,000 common shares Shares to DYO Biotechnologies, Pty, Ltd pursuant to the terms
+and conditions of an agreement entered into by and between DYO Biotechnologies, Pty, Ltd and the Company. 
+
+ All
+Shares issued were issued pursuant to Section 4(a) (2) of the Securities Act of 1933, as amended (the Act ). No underwriters
+were retained to serve as placement agents for the sale. The shares were sold directly through our management. No commission or other
+consideration was paid in connection with the sale of the shares. There was no advertisement or general solicitation made in connection
+with this Offer and Sale of Shares. A legend was placed on the certificate that evidences the Shares stating that the Shares have
+not been registered under the Act and setting forth or referring to the restrictions on transferability and sale of the Shares. 
+
+16 
+
+Item
+6. Selected Financial Data 
+
+ As
+we are a smaller reporting company as defined by Rule 229.10(f)(1), we are not required to provide the information
+required by this Item. 
+
+ Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+ As
+of June 30, 2023 we had cash of 3,786 and as of June 30, 2022 we had cash of 66,850. The decrease in cash of 94 is primarily attributable
+to (a) 15,000 paid out to Joanne Vaini whereby Joanne Vaini agreed to provide bookkeeping services for the Company for the period beginning
+January 9, 2023 and ending July 9, 2024 Agreement for total consideration consisting of 15,000 (b) 12,500 paid to Wilson
+Davis and Co., a registered Broker Dealer, for assistance in obtaining DTC eligibility for the Company s common shares. DTC Eligibility
+means that a public company's securities are able to be deposited through Depository Trust and Clearing Corporation and (c) 25,000 paid
+to DYO Biotechnologies, Pty, Ltd pursuant to the terms and conditions of a license granted to the Company by DYO Biotechnologies, Pty,
+Ltd. 
+
+ Joanne
+Vaini is the spouse of the Company s Chief Executive Officer Joseph G. Vaini. Dr. Harry Lander serves as Chief Scientific Officer
+of the Company and is a shareholder of the Company. Dr. Harry Lander also serves as Managing Director of DYO and is a controlling shareholder
+of DYO Biotechnologies, Pty, Ltd. 
+
+ As
+of June 30, 2023 we had Prepaid Expenses of 24,762 and as of June 30, 2022 we had Prepaid Expenses of 0. Prepaid Expenses recognized
+as of June 30, 2023 are attributable to: 
+
+ (a)
+3,000,000 common shares issued to Joseph G Vaini, the Company s Chief Executive Officer, pursuant to an employment agreement to
+be expensed over the life of the agreement 
+
+ (b)
+3,000,000 common shares issued to Dr. Harry Lander, the Company s Chief Scientific Officer, pursuant to an employment agreement
+expensed over the life of the agreement. 
+
+ (c)
+ 15,000 prepaid pursuant to an agreement with Joanne Vaini to be expensed over the life of the agreement. 
+
+ On
+December 9, 2022 an agreement Agreement was entered into by and between Sybleu Inc the Company and Joseph
+G. Vaini Vaini whereby Vaini has agreed to serve as President, Chief Executive Officer, Secretary, Chief Financial Officer
+and Secretary, Treasurer and Principal Accounting Officer of the Company subject to the authority of the Company's Board of Directors
+(the BOD ). Vaini shall perform such duties commensurate with his offices and as directed the BOD. 
+
+ The
+Term of this Agreement shall commence on December 13, 2022 and shall expire on December 13, 2023 unless sooner terminated in accordance
+with specified provisions contained therein. 
+
+ As
+sole compensation for performing his duties pursuant to the Agreement Vaini received 3,000,000 of the Common Shares of the Company Vaini Stock Payment ).Vaini has agreed that for a period of three years from December 9, 2022 Vaini shall not directly or
+indirectly, offer, issue, sell, contract to sell (including, without limitation, any short sale), grant any option for the sale of, pledge,
+or otherwise dispose of or transfer the Vaini stock payment. 
+
+ On
+December 9, 2022 an agreement Agreement was entered into by and between Sybleu Inc. the Company and
+Harry Lander Lander whereby Lander has agreed to serve as Chief Scientific Officer of the Company subject to the authority
+of the Company's Board of Directors (the BOD ). Lander s duties will include: 
+
+ Identifying
+and introducing to the Company Contract Research Organizations. 
+
+ Identifying
+and introducing to the Company potential strategic partners. 
+
+ Identifying
+and introducing to the Company potential members for the Company s Scientific Advisory Board. 
+
+ Assisting
+the Company in patent application and prosecution. 
+
+17 
+
+The
+Term of this Agreement shall commence on December 9, 2022 and shall expire on December 8, 2025 unless sooner terminated in accordance
+with specified provisions contained therein. 
+
+ As
+sole compensation for performing his duties pursuant to the Agreement Lander received 3,000,000 of the Common Shares of the Company Lander
+Stock Payment ).Lander has agreed that for a period of three years from December 9, 2022 Lander shall not directly or indirectly,
+offer, issue, sell, contract to sell (including, without limitation, any short sale), grant any option for the sale of, pledge, or otherwise
+dispose of or transfer the Lander stock payment. 
+
+ On
+January 8, 2023 an agreement was entered into by and between Joanne Vaini and the Company whereby Joanne Vaini shall assist the Company
+with entry and updating of financial records in Quickbooks. The term of this agreement commenced on January 9, 2023 and shall expire
+on July 9, 2024 
+
+ As
+of June 30, 2023 we had Investment Securities of 1,920 and as of June 30, 2022 we had Investment Securities of 9,529. 
+
+ The
+decrease in Investment Securities of approximately 80 is attributable to the revaluation as of June 30, 2023 of 6,500 common shares
+of Oncology Pharma, Inc. at the closing price of the common shares on the OTC Pink market. 
+
+ As
+of June 30, 2023 we had Acquired Intangible Assets net of Amortization) of 300,000 and as of June 30, 2022 we had Acquired Intangible
+Assets net of Amortization) of 0. 
+
+ Acquired
+Intangible Assets net of Amortization) as of June 30, 2023 consists of intellectual property purchased from Zander Biologics, Inc.
+On June 30, 2023 the Company entered into an agreement whereby the Company purchased from Zander Biologics, Inc. a 50 interest in 
+
+ (a)the
+invention disclosed in US Patent US11377442B2 (Small molecule agonists and antagonists of NR2F6 activity), all patent rights to the invention
+described in US Patent US11377442B2 as well as all trade secrets, trademarks and associated good will to the invention described in US
+Patent US11377442B2 and 
+
+ (b)
+the invention disclosed in US Patent US US10472351B2 (Small molecule agonists and antagonists of NR2F6 activity in animals), all patent
+rights to the invention described in US Patent US10472351B2 as well as all trade secrets, trademarks and associated good will to the
+invention described in US Patent US10472351B2. 
+
+ IP
+Rights ). 
+
+ The
+IP rights are to patent protected small molecule compounds which compounds have been found to modulate the immune system. 
+
+ As
+of June 30, 2023 we had Notes Payable of 477,500 and as of June 30, 2022 we had Notes Payable of 140,000. The increase in Notes Payable
+of 241 is primarily attributable to: 
+(a) a 300,000 Promissory Note issued to Zander Biologics as consideration for the purchase of intellectual property 
+
+ (b)
+a 25,000 Promissory Note issued to Bostonia Partners during the quarter ended June 30, 2023 
+
+ (c)
+a 12,500 Promissory Note issued to Zander Therapeutics Inc. during the quarter ended June 30, 2023 
+
+ As
+of June 30, 2023 we had expenses accrued but unpaid of 15,500 and as of June 30, 2022 we had expenses accrued but unpaid of 452. The
+increase is primarily attributable to: 
+
+(a) expenses
+ of 9,221 recognized during the period in connection with an agreement with a third party
+ to provide on demand telephone support to the Company related to any and all hardware and
+ software computer issues 
+
+(b) expenses
+ of 3,000 incurred in connection with the design of the Company s website 
+
+(c) 920
+ in legal/ patent prosecution fees 
+
+(d) 620
+ in Transfer Agent fees 
+
+18 
+
+As
+of June 30, 2023 we had Interest Accrued but Unpaid of 27,476 consisting completely of interest accrued but yet to be paid on Notes
+Payable and as of June 30, 2022 we had Interest Accrued but Unpaid of 13,253 consisting completely of interest accrued but yet to be
+paid on Notes Payable. 
+
+The increase in Interest Accrued but Unpaid of approximately 107 is attributable to 10,352 of interest accrued but not paid on 140,000
+in Notes payable during the nine months ended June 30, 2023 as well as 3,870 interest accrued but not paid on 177,500 in Notes payable
+during the quarter ended June 30, 2023. 
+
+ As
+of June 30, 2023 we recognized Unearned Income of 150,002 and as of June 30, 2022 we recognized Unearned Income of 161,699. Unearned
+income recognized by the Company is completely attributable to 177, 450 in licensing fees paid to the Company during the quarter ended
+June 30, 2021 which are being recognized over the term of the license. The decrease in Unearned Income is attributable to recognition
+of these fees as earned as required pursuant to Accounting Standards Update 2014-09, Revenue from Contracts with Customers (Topic 606). 
+
+ The
+Company recognized revenue of 11,696 during the tear ended June 30, 2023 and revenue of 11,700 for the same period ended 2022. In both
+periods revenue was attributable to 177, 450 in licensing fees paid to the Company during the quarter ended June 30, 2021 which
+are being recognized over the term of the license. 
+
+ Operating
+Loss of 149,180 recognized during the year ended June 30, 2023 was approximately 164 higher than the Operating Loss recognized during
+the same period ended 2022 which was 56,373. The increase in Operating Loss is primarily attributable to substantially higher Research
+and Development and Consulting expenses incurred during the period ended 2023 as compared to the same period ended 2022. 
+
+ Net
+Loss for the year ended June 30, 2023 was 180,304 which is approximately 26 lower than the Net Loss recognized by the Company during
+the same period ended 2022. This decrease is primarily attributable to the recognition of 175,721 of Unrealized Loss on Investment Securities
+during the period ended 2022 . 
+
+ As
+of June 30, 2023 we had 3,786 in cash on hand and current liabilities of 241,411 such liabilities consisting of Income Tax Payable,
+Notes Payable, and Accrued Expenses. We feel we will not be able to satisfy our cash requirements over the next twelve months and shall
+be required to seek additional financing. 
+ 
+Management plans to raise additional funds by obtaining governmental and nongovernmental grants as well as offering securities for cash.
+Management has yet to decide what type of offering the Company will use or how much capital the Company will raise. There is no guarantee
+that the Company will be able to raise any capital through any type of offerings. Management can give no assurance that any governmental
+or nongovernmental grant will be obtained by the Company despite the Company s best efforts. 
+
+ As
+of June 30, 2023 the Company was not party to any binding agreements which would commit SYBLEU to any material capital expenditures. 
+
+ Item
+7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+ As
+we are a smaller reporting company, as defined by Rule 229.10(f)(1), we are not required to provide the information required by this
+Item. 
+
+19 
+
+Item
+8. Financial Statements and Supplementary Data. 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+ To the shareholders and the board of directors
+of SYBLEU INC. 
+
+ Opinion on the Financial Statements 
+
+ We have audited the accompanying balance sheets
+of SYBLEU INC. as of June 30, 2023 and 2022, the related statements of operations, stockholders' equity (deficit), and cash flows for
+the years then ended, and the related notes (collectively referred to as the financial statements ). In our opinion, the financial
+statements present fairly, in all material respects, the financial position of the Company as of June 30, 2023 and 2022, and the results
+of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United
+States. 
+
+ Substantial Doubt about the Company s
+Ability to Continue as a Going Concern 
+
+ The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company has
+suffered recurring losses from operations and has a significant accumulated deficit. In addition, the Company continues to experience
+negative cash flows from operations. These factors raise substantial doubt about the Company's ability to continue as a going concern.
+Management's plans in regard to these matters are also described in Note 3. The financial statements do not include any adjustments that
+might result from the outcome of this uncertainty. 
+
+ Basis for Opinion 
+
+ These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+ We conducted our audit in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+ Critical Audit Matter 
+
+ Critical audit matters are matters arising from the current-period
+audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to
+accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex
+judgments. 
+
+ We determined that there are no critical audit matters. 
+
+ /S/ (PCAOB ID 
+
+ We have served as the Company's auditor since
+2020 
+
+August 4, 2023 
+
+20 
+
+SYBLEU
+ INC. 
+
+BALANCE SHEETS 
+
+As
+ of June 30, 2023 
+ As
+ of June 30, 2022 
+ 
+ ASSETS 
+
+CURRENT
+ ASSETS 
+
+Cash 
+
+Prepaid
+ Expenses 
+
+Total
+ Current Assets 
+
+OTHER
+ ASSETS 
+
+Investment
+ Securities 
+
+Prepaid
+ Expenses (Long Term) 
+
+Acquired Intangible Assets, net of amortization 
+
+Total
+ Other Assets 
+
+TOTAL
+ ASSETS 
+
+LIABILITIES
+ AND STOCKHOLDERS' EQUITY 
+
+Current
+ Liabilities: 
+
+Income
+ Taxes Payable 
+
+Notes
+ Payable 
+
+Notes
+ Payable, Related Party 
+
+Expenses
+ Accrued but Unpaid 
+
+Interest
+ Accrued but Unpaid 
+
+Total
+ Current Liabilities 
+
+Long
+ Term Liabilities: 
+
+Unearned
+ Income 
+
+Note Payable 
+
+Total
+ Liabilities 
+
+STOCKHOLDERS'
+ EQUITY (DEFICIT) 
+
+Common
+ Stock .0001 par value) 
+ shares authorized; par value ; 
+ shares issued and outstanding as of June 30, 2022 and 
+ shares issued and outstanding as of June 30, 2023 
+
+Additional
+ Paid in capital 
+
+Retained
+ Earnings (Deficit 
+
+Total
+ Stockholders' Equity (Deficit) 
+
+TOTAL
+ LIABILITIES STOCKHOLDERS' EQUITY (DEFICIT) 
+
+The
+ Accompanying Notes are an Integral Part of These Financial Statements 
+
+21 
+
+SYBLEU
+ INC. 
+
+STATEMENT
+ OF OPERATIONS 
+
+Year
+ Ended June 30, 2023 
+ Year
+ Ended June 30, 2022 
+ 
+ REVENUES 
+
+License
+ Fees 
+
+TOTAL
+ REVENUES 
+
+COSTS
+ AND EXPENSES 
+
+Research
+ and Development: 
+
+Staff
+ Expenses 
+
+Consulting
+ Costs 
+
+Licensing Expenses 
+
+Patent
+ Application Costs 
+
+Total
+ Research and Development 
+
+General
+ and Administrative: 
+
+Transfer
+ Agency Fees 
+
+Other
+ General and Administrative Exexpenses 
+
+Total
+ General and Administrative 
+
+Consulting,
+ Related Party 
+
+Consulting: 
+
+Legal
+ Fees 
+
+Accounting 
+
+Other
+ Consulting 
+
+Website
+ Development 
+
+Information
+ Technology Consulting 
+
+Securities
+ Depository Consulting 
+
+Total
+ Consulting 
+
+Rent 
+
+Total
+ Costs and Expenses 
+
+OPERATING
+ Income( LOSS) 
+
+OTHER
+ INCOME AND EXPENSES 
+
+Unrealized
+ Gain Loss) on Investment Securities 
+
+Stock
+ Cancellation Expense 
+
+Interest
+ Income( Expense) 
+
+TOTAL
+ OTHER INCOME EXPENSES) 
+
+NET
+ INCOME LOSS) before taxes 
+
+Provision
+ for Income Taxes 
+
+NET
+ INCOME LOSS) 
+
+BASIC
+ AND FULLY DILUTED LOSS PER SHARE 
+
+WEIGHTED
+ AVERAGE NUMBER OF COMMON SHARES OUTSTANDING 
+
+The
+ Accompanying Notes are an Integral Part of These Financial Statements 
+
+22 
+
+SYBLEU
+ INC. 
+
+STATEMENTS
+ OF SHAREHOLDERS EQUITY (DEFICIT) 
+
+For
+ the Year Ended June 30, 2023 
+
+Common 
+
+Shares 
+ Amount 
+ Additional
+ Paid in Capital 
+ Retained
+ Deficit 
+ Total 
+ 
+ Balance
+ June 30, 2022 
+
+Net
+ Loss for the quarter ended September 30, 2022 
+
+Balance
+ September 30, 2022 
+
+Cancellation
+ of shares 12/13/2022 
+
+Issuance
+ of shares for services 12/12/2022 
+
+Net
+ Loss for the quarter ended December 31, 2022 
+
+Balance
+ December 31, 2022 
+
+Net
+ Loss for the quarter ended March 31, 2023 
+
+Balance
+ March 31, 2023 
+
+Issuance
+ of shares as consideration 06/28/2023 
+
+Net
+ Loss for quarter ended June 30, 2023 
+
+Balance
+ June 30, 2023 
+
+For
+ the Year Ended June 30, 2022 
+
+Common 
+
+Shares 
+ Amount 
+ Additional
+ Paid in Capital 
+ Retained
+ Deficit 
+ Total 
+ 
+ Balance
+ June 30, 2021 
+
+Net
+ Loss for the three months ended September 30,2021 
+
+Balance
+ September 30, 2021 
+
+Net
+ Loss for the three months ended December 31,2021 
+
+Balance
+ December 31, 2021 
+
+Net
+ Loss for the three months ended March 31, 2022 
+
+Balance
+ March 31, 2022 
+
+Net
+ Loss for the three months ended June 30, 2022 
+
+Balance
+ June 30, 2022 
+
+The
+ Accompanying Notes are an Integral Part of These Financial Statements 
+
+23 
+
+SYBLEU
+ INC. 
+
+STATEMENT
+ OF CASH FLOWS 
+
+Year
+ Ended June 30, 2023 
+ Year
+ ended June 30, 2022 
+ 
+ CASH
+ FLOWS FROM OPERATING ACTIVITIES 
+
+Net
+ Income (Loss) 
+
+Adjustments
+ to reconcile net Income (loss) to net cash 
+
+Common
+ Stock Issued for payment of expenses 
+
+Changes
+ in Operating Assets and Liabilities 
+
+(Increase)
+ Decrease in Prepaid Expenses 
+
+Increase
+ (Decrease) in Accrued Expenses 
+
+(Increase)
+ Decrease in Securities accepted as Payment 
+
+Increase(
+ Decrease) in Unearned Income 
+
+Increase
+ Decrease) in Income Tax Payable 
+
+Decrease
+ in Common Stock 
+
+Decrease
+ in Additional Paid in Capital 
+
+Unrealized
+ Loss (Gain) in Investment Securities 
+
+Net
+ Cash provided by (used) in Operating Activities 
+
+CASH
+ FLOWS FROM FINANCING ACTIVITIES 
+
+Increase
+ (Decrease) in Notes Payable, Related Parties 
+
+Increase
+ (Decrease) in Notes Payable 
+
+Common
+ Stock issued for Cash 
+
+Net
+ Cash provided by (used) in Financing Activities 
+
+Net
+ Increase (Decrease) in Cash 
+
+Cash
+ at Beginning of Period 
+
+Cash
+ at End of Period 
+
+Supplemental
+ Cash Flow Information: 
+
+Interest
+ Paid 
+
+Income
+ Taxes Paid 
+
+The
+ Accompanying Notes are an Integral Part of These Financial Statements 
+
+24 
+
+SYBLEU
+INC. 
+
+ Notes
+to Condensed Financial Statements 
+
+ As
+of June 30, 2023 
+
+shares of common stock
+were issued as employee compensation. 
+
+ In determining Fair Value for shares issued
+to employees an asset based valuation method was utilized , specifically Enterprise Value (Assets Less Cash and Cash Equivalents
+plus Fair Value of Debt) less Fair Value of Debt. The following inputs were utilized. 
+
+Fair Value of Intellectual Property 
+
+Securities 
+
+Notes Payable 
+
+Accrued Interest 
+
+Taxes Payable 
+
+Less Total Debt 
+
+() 
+ 
+ Portion of Enterprise Value available to shareholders 
+
+Fair Value per share 
+
+Stock
+issued for Non-Employee Services 
+
+ Stock
+Based compensation to non-employees is accounted for in accordance with ASC 505-50. ASC 505-50 requires entities to account for non-employee
+equity transactions based on either the fair value of the services received or the fair value of the equity instrument issued utilizing
+whichever measurement is most reliable 
+
+ During
+the year ended June 30, 2023 stock
+was issued for Non-Employee Services . 
+
+ Pursuant
+to ASC 505-50-30-11505-50-30-11 an issuer shall measure the fair value of the equity instruments in these transactions using the stock
+price and other measurement assumptions as of the earlier of the following dates, referred to as the measurement date: 
+
+i. The
+ date at which a commitment for performance by the counterparty to earn the equity instruments
+ is reached (a performance commitment); and 
+
+ii. The
+ date at which the counterparty s performance is complete. 
+
+uncertain
+tax positions, and will continue to evaluate for uncertain positions in the future. 
+
+ The
+Company generated a deferred tax credit through net operating loss carry forward. However, a valuation allowance of 100 has been
+established. 
+
+ Interest
+and penalties on tax deficiencies recognized in accordance with ACS accounting standards are classified as income taxes in accordance
+with ASC Topic 740-10-50-19. 
+
+In
+June 2018, the FASB issued ASU No. 2018-07, Compensation - Stock Compensation (Topic 718), Improvements to Nonemployee
+Share-Based Payment Accounting. This ASU is intended to simplify aspects of share-based compensation issued to non-employees
+by making the guidance consistent with the accounting for employee share-based compensation. This ASU is effective for annual periods
+beginning after December 15, 2018 and interim periods within those annual periods, with early adoption permitted. This guidance is not
+expected to have a material impact on the Company s financial statements. 
+
+ during
+the period from June 12, 2020 (inception) through June 30, 2023. This condition raises substantial doubt about the Company's ability to
+continue as a going concern. The Company's continuation as a going concern is dependent on its ability to meet its obligations, to
+obtain additional financing as may be required and ultimately to attain profitability. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty. 
+
+ Management
+plans to raise additional funds by offering securities for cash. Management has yet to decide what type of offering the Company will
+use or how much capital the Company will raise. There is no guarantee that the Company will be able to raise any capital through any
+type of offerings. 
+
+ .
+Joanne Vaini is the spouse of Joseph G. Vaini the Company s sole officer and director. 
+
+ On June 26, 2023 the Company was granted an exclusive
+worldwide license by DYO Biotechnologies, Pty, Ltd DYO to (a) to make, have made, use, offer for sale, sell, perform,
+have performed export and import Licensed Products and Licensed Services; (b) to practice Licensed Methods; and (c) to use Technology,
+all in the Field, within the Territory and during the Term (the License ). 
+
+ Technology is defined in the License
+as Artificial intelligence/machine learning engine designed to utilize existing chemical library structures in an integrated model
+to predict highly specific and sensitive novel chemical structures for molecular targets. 
+ 
+ Licensed Products are defined in the License as any product, kit, composition, or part thereof: (a) that incorporates,
+uses, or is enabled or derived from the use of the Technology; or (b) that is produced or enabled by a Licensed Method. 
+
+ Licensed Services are defined in
+the License as any service performed by Company or Sublicensee for the benefit of a third party that, in whole or in part, (a)
+uses Technology; (b) uses Licensed Product(s); or (c) that practices or is enabled by a Licensed Method. 
+
+ Licensed Method is defined in the
+License as any method or process that uses Technology 
+
+ Field is defined in the License
+as small molecule drug development and commercialization for human and/or animal health. 
+
+ Territory is defined in the
+License as worldwide . 
+
+ The Term of the License is the period of time
+beginning on the effective date of this Agreement which shall be June 26, 2023 and terminating on the last to expire Royalty Term . 
+
+ Royalty Term is defined in the License as that
+period of time beginning on the first commercial sale of a Licensed Product in a given country and, expires on a country-by-country basis
+with respect to each Licensed Product, upon the later of: (a) the expiration, abandonment, or invalidation of the last to expire, abandoned
+or invalidated Valid Claim of the Patent Rights in such country; (b) the expiration of any granted statutory period of marketing exclusivity
+within a country; and (c) 12 years from of the date of the first commercial sale of such Licensed Product in such country. 
+
+ Pursuant to the terms and conditions of the License
+the Company shall raise 2,000,000 US through either debt or equity financing within 2 years of execution of this Agreement Funding ).
+The Company shall enter into a research collaboration agreement with DYO upon mutually acceptable terms and conditions within 30 days
+of Funding Research Agreement). 
+
+ Substantially all of the Funding shall be utilized
+to enable the Technology for the benefit of developing Company s existing and future small molecule drug intellectual property.
+It is anticipated that this research agreement will utilize substantially all of these funds over two years. It is agreed that the Company
+shall exclusively possess all right, title and interest in and to including, but not limited to, the copyrights, trade secrets, trademarks
+and associated good will and patent rights to any and all inventions, discoveries, intellectual property and chemical structures resulting
+from this Research Agreement. 
+
+Pursuant to the terms and conditions of the License
+the Company shall pay to DYO a Royalty equal to five percent (5 of the Net Sales as such term is defined in the License) of any Licensed
+Method, Service or Product per annum. The License also imposes an obligation upon the Company to make minimum royalty payments to DYO
+over the course of the Term. 
+
+ Pursuant to the terms and conditions of the License
+the l Company paid to DYO common shares of the Company Stock Payment and also paid a License Issuance
+Fee. 
+
+ DYO shall not, directly or indirectly, offer,
+issue, sell, contract to sell (including without limitation short sale), grant any option for the sale of, pledge or otherwise dispose
+of or transfer any or all of the Stock Payment for a period of two years from the date of issuance. 
+
+ Pursuant to the terms and conditions of the License
+Upon the occurrence of each of the following events (each a Milestone )), the Company shall make a cash payment Milestone
+Payment in the amount corresponding to such Milestone within thirty days after achievement of each Milestone: 
+
+Milestone 
+ AMOUNT 
+
+1. Dosing of a first human patient in a Phase I or Phase I/II Clinical Trial for Licensed Product 
+ 150,000 US 
+
+2. Dosing of a first patient in a Phase III Clinical Trial for Licensed Product 
+ 500,000 US 
+
+3. FDA (US) Approval of a Licensed Product 
+ 3,000,000 US 
+
+4. EMA (EU) Approval of a Licensed Product 
+ 1,500,000 US 
+
+5. PMDA (JPN) Approval of a Licensed Product 
+ 1,000,000 US 
+
+6. Cumulative Net Sales of Licensed Products reach 100 Million 
+ 2,000,000 US 
+
+This License may be terminated by DYO in the event: 
+
+ No licensed Method, Service or Product has been
+granted Patent Protection in at least one jurisdiction after the expiration of four years from execution 
+
+ The sum of 2,000,000 shall not have been raised
+within 2 years of execution of the license 
+
+ The Research Agreement shall not have been entered
+into as of thirty days subsequent to the Funding. 
+
+ The Company shall not have achieved cumulative
+Net Sales of Licensed Product, Service and Methods of at least 10,000,000 as of a date that is ten years from the execution of the license 
+
+ The Company shall fail to pay any consideration
+required under the license and such failure remains uncured for thirty days. 
+
+ This License may be terminated by the Company
+in the event: 
+
+ DYO shall be determined to not have exclusive
+unencumbered Patent Rights to the Technology in whole or in part. 
+
+ Any other entity shall be determined to have the
+right- exercised or not- to utilize the Technology in whole or in part) to develop make, use, offer for sale, sell, perform, have performed
+export and import and sell products, methods and services which can reasonably be expected to be similar to or competitive with products,
+methods and services to be developed by the Company utilizing the rights granted by the License. . 
+
+ DYO shall have failed to demonstrate during the
+course of due diligence to the satisfaction of the Company that the Technology can be effectively utilized for the purposes intended by
+this License 
+
+ In the event that the Agreement is terminated
+pursuant to the any of the abovementioned the Stock Payment shall be promptly returned by DYO to the Company for cancellation. 
+
+ Dr. Harry Lander serves as Chief Scientific Officer
+of the Company and is a shareholder of the Company. Dr. Harry Lander also serves as Managing Director of DYO and is a controlling shareholder
+of DYO. 
+
+ On July 14, 2023 the Company s Chief Executive
+Officer made a capital contribution to the Company. 
+
+Zander Therapeutics Inc. 
+
+Zander Biologics, Inc. 
+
+Notes
+ Payable, as of June 30, 2023 
+
+owed
+by the Company to Bostonia Partners bears simple interest at and
+is due and payable . 
+
+ owed
+by the Company to Bostonia Partners bears simple interest at and
+is due and payable . 
+
+ owed
+by the Company to Bostonia Partners bears simple interest at and
+is due and payable . 
+
+ owed by the Company to Zander Therapeutics,
+Inc bears simple interest at and is due and payable . 
+
+ owed by the Company to Bostonia Partners
+bears simple interest at and is due and payable . 
+
+ owed by the Company to Zander Biologics, Inc bears
+simple interest at and is due and payable . 
+
+common shares of Oncology Pharma, Inc. pursuant to an agreement entered into by and
+between the Company and Oncology Pharma, Inc. whereby the Company granted Oncology Pharma, Inc. an exclusive worldwide right and license
+for the development and commercialization of certain intellectual property controlled by the Company. 
+
+ On
+June 30, 2023 the Company revalued common
+shares of Oncology Pharma, Inc. at the closing price of the common shares on the OTC Pink market. 
+
+ As
+of June 30, 2023: 
+
+par
+value; shares
+authorized: 
+shares issued and outstanding. 
+
+ With
+respect to each matter submitted to a vote of stockholders of the Corporation, each holder of Common Stock shall be entitled to cast
+that number of votes which is equivalent to the number of shares of Common Stock owned by such holder times one (1). 
+
+ On
+any voluntary or involuntary liquidation, dissolution or winding up of the Corporation, the holders of the Common Stock shall receive,
+out of assets legally available for distribution to the Company s stockholders, a ratable share in the assets of the Corporation. 
+
+Other 
+
+Gross
+ deferred tax assets 
+
+Valuation
+ allowance 
+
+Net
+ deferred tax assets 
+
+As
+of June 30, 2023 the Company has a Deferred Tax Asset of completely
+attributable to net operating loss carry forwards of approximately generated
+during the calendar year ending December 31, 2020 and generated during the calendar year ended December
+31, 2021 and generated during the calendar year ended December 31, 2022 (which expire 20 years from the date the loss was
+incurred). 
+
+ Realization
+of deferred tax assets is dependent upon sufficient future taxable income during the period that deductible temporary differences and
+carry forwards are expected to be available to reduce taxable income. The achievement of required future taxable income is uncertain. 
+
+ In
+addition, if as a result of a stock transfer or a reorganization, a corporation undergoes an ownership change, Code Section
+382 limits the corporation s right to use its NOLs each year thereafter to an annual percentage of the fair market value of the
+corporation at the time of the ownership change (the Section 382 Limitation ). 
+
+ A
+corporation is considered to undergo an ownership change if, as a result of changes in the stock ownership by 5-percent
+shareholders or as a result of certain reorganizations, the percentage of the corporation s stock owned by those 5-percent
+shareholders increases by more than 50 percentage points over the lowest percentage of stock owned by those shareholders at any time
+during the prior three-year testing period. Five-percent shareholders are persons who hold 5 or more of the stock of a corporation at
+any time during the testing period as well as certain groups of shareholders (based typically on whether they acquired their shares in
+a single offering or exchange transaction) who are not individually 5-percent shareholders. 
+
+ As
+the Company will require cash infusions in order to implement its business plan, and as it is probable, although not guaranteed, that
+such funding needs may be met through the sale of equity securities to 5-percent shareholders , the Company recognized a
+valuation allowance equal to the deferred Tax Asset and the Company recorded a valuation allowance reducing all deferred tax assets to
+0. 
+
+ Income
+tax is calculated at the 
+Federal Corporate Rate. 
+
+common shares Shares to Joseph G Vaini pursuant to an agreement whereby
+Joseph G. Vaini agreed to serve as President, Chief Executive Officer, Secretary, Chief Financial Officer and Secretary, Treasurer and
+Principal Accounting Officer of the Company. 
+
+ On
+December 12, 2022 the Company issued common shares Shares to Harry Lander pursuant to an agreement whereby
+Harry Lander agreed to serve as Chief Scientific Officer of the Company. 
+
+ On
+December 13, 2022 the Company cancelled common shares owned by David Koos, the Company s previous sole officer and director,
+and a company controlled by David Koos. Effective December 13, 2022 David Koos resigned as a Director of the Company and also resigned
+from any and all other offices he had held of the Company Resignation ). In connection with his Resignation Koos has returned
+any and all common shares directly or indirectly held by Koos to the Company for cancellation. Also in connection with his Resignation
+Koos and the Company have entered into an agreement Separation Agreement whereby the Company shall pay Koos the sum
+of 10,000. 
+
+ On
+June 28, 2023 the Company issued 
+ common shares Shares to DYO Biotechnologies,
+Pty, Ltd pursuant to the terms and conditions of an agreement entered into by and between DYO Biotechnologies, Pty, Ltd and the Company. capital contribution to the Company. 
+
+32 
+
+Item
+9A. Controls and Procedures 
+
+ a)
+Evaluation of disclosure controls and procedures. 
+
+ The
+principal executive officer and principal financial officer have evaluated the Company s disclosure controls and procedures as
+of June 30, 2023. Based on this evaluation, they have concluded that the disclosure controls and procedures were effective to ensure
+that the information required to be disclosed by the Company in the reports that it files or submits under the Securities Exchange Act
+of 1934 is recorded, processed, summarized and reported, within the time periods specified in the Commission s rules and forms
+and to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Securities Exchange
+Act of 1934 is accumulated and communicated to the Company s management, including its principal executive and principal financial
+officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+
+ b)
+Management s annual report on internal control over financial reporting. 
+
+ Management
+of the Company is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule
+13a-15(f) promulgated under the Securities and Exchange Act of 1934. Rule 13a-15(f) defines internal control over financial reporting
+as follows: 
+
+ The
+term internal control over financial reporting is defined as a process designed by, or under the supervision of, the issuer's principal
+executive and principal financial officers, or persons performing similar functions, and effected by the issuer's board of directors,
+management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation
+of financial statements for external purposes in accordance with generally accepted accounting principles and includes those policies
+and procedures that: 
+
+ Pertain
+to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets
+of the issuer; 
+
+ Provide
+reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally
+accepted accounting principles, and that receipts and expenditures of the issuer are being made only in accordance with authorizations
+of management and directors of the issuer; and 
+
+ Provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the issuer's assets
+that could have a material effect on the financial statements. 
+
+ The
+Company s internal control over financial reporting is a process designed under the supervision of the Company s management
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company s financial
+statements for external purposes in accordance with U.S. generally accepted accounting principles. 
+
+ In
+designing and evaluating our disclosure controls and procedures, our management recognized that disclosure controls and procedures, no
+matter how well conceived and operated, can provide only a reasonable, not absolute, assurance that the objectives of the disclosure
+controls and procedures are met. 
+
+ The
+Company s management assessed the effectiveness of its internal control over financial reporting as of June 30, 2023 is based on
+the framework in 2013 Committee of Sponsoring Organizations of the Treadway Commission, or COSO. Based on its assessment, management
+believes that, as of June 30, 2023 the Company s internal control over financial reporting is effective. 
+
+ Management's
+report was not subject to attestation by the Company's registered public accounting firm pursuant to temporary rules of the Securities
+and Exchange Commission that permit the company to provide only management's report in this annual report. This exemption for smaller
+reporting companies provided under the temporary rules referenced above has been made permanent under Section 989G of the Dodd-Frank
+Wall Street Reform and Consumer Protection Act. 
+
+33 
+
+(c) There
+have been no changes during the quarter ended June 30, 2023 in the Company s internal controls over financial reporting that have
+materially affected, or are reasonably likely to materially affect, internal control over financial reporting. 
+
+ Item
+10. Directors, Executive Officers and Corporate Governance 
+
+ Joseph
+G. Vaini 
+
+ Joseph
+G. Vaini, 61, has served as Chief Financial Officer since July21, 2020 and as Chairman and sole Director of the Company since December
+13, 2022. Mr. Vaini was appointed Chief Executive Officer, Chief Financial Officer, President, Secretary, Treasurer and Chief Accounting
+Officer effective December 13, 2022. For the past ten years Mr. Vaini has been a freelance independent consultant assisting microcap
+companies in complying with securities laws and regulation as well as assisting companies in the preparation of GAAP compliant financial
+statements. Over the past five years Mr. Vaini has provided consulting services to Bio- Matrix Scientific Group, Inc., Regen BioPharma,
+Inc., Entest Group, Inc., and Zander Therapeutics, Inc. Mr. Vaini does not possess a college degree. Mr. Vaini worked as a registered
+securities representative holding a Series 7 and Series 63 License between 1989 and 1995 
+
+ Harry
+Lander 
+
+ On
+December 9, 2022 Harry Lander, Ph.D., M.B.A was appointed Chief Scientific Officer of SYBLEU INC. effective December 9,2022. 
+
+ Harry
+Lander, 57, previously served in the following positions: 
+
+Organization: 
+ Title: 
+ Dates: 
+ Primary
+ Business 
+ 
+ Dyo
+ Biotechnologies 
+ Managing
+ Director 
+ January
+ 2019 to the Present 
+ Drug
+ Manufacturing and Laboratory Testing 
+ 
+ Free
+ Solo Therapeutics, Inc. 
+ Chief
+ Executive Officer, Director 
+ May
+ 2021 to the present 
+ Vascular
+ biology organ regeneration company 
+ 
+ Capo
+ Therapeutics, Inc. 
+ Chief
+ Executive Officer, Director 
+ May
+ 2019 to May 2022 
+ Neurodegenerative
+ disease vaccine company 
+ 
+ Regen
+ BioPharma, Inc. 
+ President
+ and Chief Scientific Officer 
+ October
+ 2015 to January 2019 
+ Cancer
+ Therapies 
+ 
+ Zander
+ Therapeutics, Inc. 
+ President
+ and Chief Scientific Officer 
+ October
+ 2017 to January 2019 
+ Veterinary
+ Therapies 
+
+Education: 
+
+ M.B.A.,
+Finance, 2001 
+
+ The Stern
+School of Business, New York, University, New York, NY 
+
+ Ph.D.,
+Biochemistry, 1992 
+
+ Cornell
+University Graduate School of Medical Sciences, New York, NY 
+
+ B.S., Biochemistry
+and B.A., Chemistry, 1987 
+
+ State University
+of New York at Stony Brook, Stony Brook, NY 
+
+ Employment
+Agreements 
+
+ On
+December 9, 2022 an agreement Agreement was entered into by and between the Company and Joseph G. Vaini Vaini whereby Vaini has agreed to serve as President, Chief Executive Officer, Secretary, Chief Financial Officer and Secretary, Treasurer
+and Principal Accounting Officer of the Company subject to the authority of the Company's Board of Directors (the BOD ).
+Vaini shall perform such duties commensurate with his offices and as directed the BOD. 
+
+34 
+
+The
+Term of this Agreement shall commence on December 13, 2022 and shall expire on December 13, 2023 unless sooner terminated in accordance
+with specified provisions contained therein. 
+
+ As
+sole compensation for performing his duties pursuant to the Agreement Vaini shall receive 3,000,000 of the Common Shares of the Company Vaini Stock Payment ).Vaini has agreed that for a period of three years from December 9, 2022 Vaini shall not directly
+or indirectly, offer, issue, sell, contract to sell (including, without limitation, any short sale), grant any option for the sale of,
+pledge, or otherwise dispose of or transfer the Vaini stock payment. 
+
+ On
+December 9, 2022 an agreement Agreement was entered into by and between the Company and Harry Lander Lander whereby Lander has agreed to serve as Chief Scientific Officer of the Company subject to the authority of the Company's Board of Directors
+(the BOD ). Lander s duties will include: 
+
+ Identifying
+and introducing to the Company Contract Research Organizations 
+
+ Identifying
+and introducing to the Company potential strategic partners 
+
+ Identifying
+and introducing to the Company potential members for the Company s Scientific Advisory Board 
+
+ Assisting
+the Company in patent application and prosecution. 
+
+ The
+Term of this Agreement shall commence on December 9, 2022 and shall expire on December 8, 2025 unless sooner terminated in accordance
+with specified provisions contained therein. 
+
+ As
+sole compensation for performing his duties pursuant to the Agreement Lander shall receive 3,000,000 of the Common Shares of the Company Lander Stock Payment ).Lander has agreed that for a period of three years from December 9, 2022 Lander shall not directly
+or indirectly, offer, issue, sell, contract to sell (including, without limitation, any short sale), grant any option for the sale of,
+pledge, or otherwise dispose of or transfer the Lander stock payment. 
+
+ Code
+of Ethics 
+
+ On
+July 20, 2020 we adopted a Code of Ethics pursuant to Section 406 of the Sarbanes-Oxley Act of 2002. 
+
+ Director
+Independence 
+
+ Audit
+Committee and Audit Committee Financial Expert 
+
+ The
+members of the Company s board of Directors may not be considered independent. The Company is not a listed company 
+under Securities and Exchange Commission SEC rules and is therefore not required to have an audit committee comprised
+of independent directors. The Company does not currently have an audit committee, however, for certain purposes of the rules and regulations
+of the SEC and in accordance with the Sarbanes-Oxley Act of 2002, the Company s Board of Directors is deemed to be its audit
+committee and as such functions as an audit committee and performs some of the same functions as an audit committee including: (1) selection
+and oversight of our independent accountant; (2) establishing procedures for the receipt, retention and treatment of complaints regarding
+accounting, internal controls and auditing matters; and (3) engaging outside advisors. The Board of Directors has determined that its
+member is able to read and understand fundamental financial statements and has substantial business experience that results in that member's
+financial sophistication. Accordingly, the Board of Directors believes that its member has the sufficient knowledge and experience
+necessary to fulfill the duties and obligations that an audit committee would have. 
+
+35 
+
+Nominating
+and Compensation Committees 
+
+ The
+Company does not have standing nominating or compensation committees, or committees performing similar functions. The board of directors
+believes that it is not necessary to have a compensation committee at this time because the functions of such committee are adequately
+performed by the board of directors. The board of directors also is of the view that it is appropriate for the Company not to have a
+standing nominating committee because the board of directors has performed and will perform adequately the functions of a nominating
+committee. The Company is not a listed company under SEC rules and is therefore not required to have a compensation committee
+or a nominating committee. 
+
+ Shareholder
+Communications 
+
+ There
+has not been any defined policy or procedure requirements for stockholders to submit recommendations or nomination for directors. There
+are no specific, minimum qualifications that the board of directors believes must be met by a candidate recommended by the board of directors.
+Currently, the entire board of directors decides on nominees, on the recommendation of any member of the board of directors followed
+by the board s review of the candidates resumes and interview of candidates. Based on the information gathered, the board
+of directors then makes a decision on whether to recommend the candidates as nominees for director. The Company does not pay any fee
+to any third party or parties to identify or evaluate or assist in identifying or evaluating potential nominee. 
+
+ Because
+the Chief Executive Officer of the Company is also the Chairman of the Board of Directors of the Company, the Board of Directors has
+determined not to adopt a formal methodology for communications from shareholders on the belief that any communication would be brought
+to the Board of Directors attention by virtue of the co-extensive capacities of the Chairman of the Board of Directors. 
+
+ Executive
+Compensation 
+
+Name
+ and Principal Position 
+ Fiscal
+ Year 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ Stock
+ Awards ) 
+ Restricted
+ Stock Awards ) 
+ Option
+ Awards ) 
+ Non
+ Equity Incentive Plan Compensation ) 
+ Nonqualified
+ Deferred Compensation Earnings ) 
+ All
+ Other Compensation ) 
+ Total 
+ ) 
+ 
+ David
+ Koos, Chairman, President, CEO, CFO (CFO inception to July 20, 2020, Chairman President until December 13, 2022) 
+ 2022 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+Name
+ and Principal Position 
+ Fiscal
+ Year 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ Stock
+ Awards ) 
+ Restricted
+ Stock Awards ) 
+ Option
+ Awards ) 
+ Non
+ Equity Incentive Plan Compensation ) 
+ Nonqualified
+ Deferred Compensation Earnings ) 
+ All
+ Other Compensation ) 
+ Total 
+ ) 
+ 
+ Joseph
+ G. Vaini CFO (since July 21, 2020) 
+ 2022 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+Name
+ and Principal Position 
+ Fiscal
+ Year 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ Stock
+ Awards ) 
+ Restricted
+ Stock Awards ) 
+ Option
+ Awards ) 
+ Non
+ Equity Incentive Plan Compensation ) 
+ Nonqualified
+ Deferred Compensation Earnings ) 
+ All
+ Other Compensation ) 
+ Total 
+ ) 
+ 
+ Joseph
+ G. Vaini CFO (since July 21, 2020) Chairman, President, Treasurer, Chief Executive Officer since December 13, 2022 
+ 2023 
+ 0 
+ 0 
+ 0 
+ 11,400 
+ 0 
+ 0 
+ 0 
+ 0 
+ 11.400 
+
+Name
+ and Principal Position 
+ Fiscal
+ Year 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ Stock
+ Awards ) 
+ Restricted
+ Stock Awards ) 
+ Option
+ Awards ) 
+ Non
+ Equity Incentive Plan Compensation ) 
+ Nonqualified
+ Deferred Compensation Earnings ) 
+ All
+ Other Compensation ) 
+ Total 
+ ) 
+ 
+ Harry
+ Lander Chief Scientific Officer (since December 9, 2022 
+ 2022 
+ 0 
+ 0 
+ 0 
+ 11,400 
+ 0 
+ 0 
+ 0 
+ 0 
+ 11,400 
+
+36 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+ The
+following table sets forth information known to the Company with respect to the beneficial ownership of each class of the Company s
+capital stock for (1) each person known by the Company to beneficially own more than 5 of each class of the Company s voting securities,
+(2) each executive officer, (3) each of the Company s directors and (4) all of the Company s executive officers and directors
+as a group. 
+
+ Based
+on 10,613,492 Common Shares outstanding as of July 31,2023. 
+
+Title
+ of Class 
+ Name
+ and Address of Beneficial Holder 
+ Number
+ of Shares 
+
+Common 
+ Harry
+ Lander 
+
+c/o
+ Sybleu Inc. 
+ 3,309,000 (a) 
+ 31.18 
+ 
+ Common 
+ Joseph
+ G Vaini 
+
+c/o
+ Sybleu Inc. 
+ 3,210,790 
+ 30.25 
+ 
+ Common 
+ Stephen
+ Hake 
+
+290
+ Saddle Run St. Henderson Nv 
+ 1,040,000 (b) 
+ 9.80 
+ 
+ Common 
+ All
+ officers and directors as a group 
+ 4,349,000 (c) 
+ 40.98 
+
+(a)
+Includes 309,000 Common shares held by DYO BIOTECHNOLOGIES PTY LTD. 
+
+ (b)
+Includes 1,000,000 Common Shares held by the The Stephen and Fredna Hake Trust DTD August 6, 2014 for which Dr. Hake serves as a Trustee 
+
+ (c)
+Includes 309,000 Common shares held by DYO BIOTECHNOLOGIES PTY LTD. 
+
+ Item
+13. Certain Relationships and Related Transactions, and Director Independence 
+
+ The
+Company utilizes approximately 500 square feet of office space at 1034 Throggs Neck Expressway, Bronx NY 10465 provided to the Company
+by Joseph G. Vaini, the Company s sole officer and director, on a month to month basis free of charge. The property is utilized
+as office space. We believe that the foregoing properties are adequate to meet our current needs for office space. 
+
+ On
+January 8, 2023 the Company entered into an agreement with Joanne Vaini whereby Joanne Vaini agreed to provide bookkeeping services for
+the Company for the period beginning January 9, 2023 and ending July 9, 2024 Agreement for total consideration consisting
+of 15,000. Joanne Vaini is the spouse of Joseph G. Vaini the Company s sole officer and director. 
+
+ On
+June 26, 2023 the Company was granted an exclusive worldwide license by DYO Biotechnologies, Pty, Ltd DYO to (a) to make,
+have made, use, offer for sale, sell, perform, have performed export and import Licensed Products and Licensed Services; (b) to practice
+Licensed Methods; and (c) to use Technology, all in the Field, within the Territory and during the Term (the License ). 
+
+ Technology 
+is defined in the License as Artificial intelligence/machine learning engine designed to utilize existing chemical library structures
+in an integrated model to predict highly specific and sensitive novel chemical structures for molecular targets. 
+
+37 
+
+Licensed Products are defined in the License as any product, kit, composition, or part thereof: (a) that incorporates,
+uses, or is enabled or derived from the use of the Technology; or (b) that is produced or enabled by a Licensed Method. 
+
+ Licensed
+Services are defined in the License as any service performed by Company or Sublicensee for the benefit of a third party
+that, in whole or in part, (a) uses Technology; (b) uses Licensed Product(s); or (c) that practices or is enabled by a Licensed Method. 
+
+ Licensed
+Method is defined in the License as any method or process that uses Technology 
+
+ Field 
+is defined in the License as small molecule drug development and commercialization for human and/or animal health. 
+
+ Territory is
+defined in the License as worldwide . 
+
+ The
+Term of the License is the period of time beginning on the effective date of this Agreement which shall be June 26, 2023 and terminating
+on the last to expire Royalty Term . 
+
+ Royalty
+Term is defined in the License as that period of time beginning on the first commercial sale of a Licensed Product in a given
+country and, expires on a country-by-country basis with respect to each Licensed Product, upon the later of: (a) the expiration, abandonment,
+or invalidation of the last to expire, abandoned or invalidated Valid Claim of the Patent Rights in such country; (b) the expiration
+of any granted statutory period of marketing exclusivity within a country; and (c) 12 years from of the date of the first commercial
+sale of such Licensed Product in such country. 
+
+ Pursuant
+to the terms and conditions of the License the Company shall raise 2,000,000 US through either debt or equity financing within 2 years
+of execution of this Agreement Funding ). The Company shall enter into a research collaboration agreement with DYO upon
+mutually acceptable terms and conditions within 30 days of Funding Research Agreement). 
+
+ Substantially
+all of the Funding shall be utilized to enable the Technology for the benefit of developing Company s existing and future small
+molecule drug intellectual property. It is anticipated that this research agreement will utilize substantially all of these funds over
+two years. It is agreed that the Company shall exclusively possess all right, title and interest in and to including, but not limited
+to, the copyrights, trade secrets, trademarks and associated good will and patent rights to any and all inventions, discoveries, intellectual
+property and chemical structures resulting from this Research Agreement. 
+
+ Pursuant
+to the terms and conditions of the License the Company shall pay to DYO a Royalty equal to five percent (5 of the Net Sales as such
+term is defined in the License) of any Licensed Method, Service or Product per annum. The License also imposes an obligation upon the
+Company to make minimum royalty payments to DYO over the course of the Term. 
+
+ Pursuant
+to the terms and conditions of the License the Company paid to DYO 309,000 common shares of the Company Stock Payment and also paid a 25,000 License Issuance Fee. 
+
+ DYO
+shall not, directly or indirectly, offer, issue, sell, contract to sell (including without limitation short sale), grant any option for
+the sale of, pledge or otherwise dispose of or transfer any or all of the Stock Payment for a period of two years from the date of issuance. 
+
+38 
+
+Pursuant
+to the terms and conditions of the License Upon the occurrence of each of the following events (each a Milestone )), the
+Company shall make a cash payment Milestone Payment in the amount corresponding to such Milestone within thirty days
+after achievement of each Milestone: 
+
+Milestone 
+ AMOUNT 
+ 
+ 1.
+ Dosing of a first human patient in a Phase I or Phase I/II Clinical Trial for Licensed Product 
+ 150,000
+ US 
+ 
+ 2.
+ Dosing of a first patient in a Phase III Clinical Trial for Licensed Product 
+ 500,000
+ US 
+ 
+ 3.
+ FDA (US) Approval of a Licensed Product 
+ 3,000,000
+ US 
+ 
+ 4.
+ EMA (EU) Approval of a Licensed Product 
+ 1,500,000
+ US 
+ 
+ 5.
+ PMDA (JPN) Approval of a Licensed Product 
+ 1,000,000
+ US 
+ 
+ 6.
+ Cumulative Net Sales of Licensed Products reach 100 Million 
+ 2,000,000
+ US 
+
+This
+License may be terminated by DYO in the event: 
+
+ No
+licensed Method, Service or Product has been granted Patent Protection in at least one jurisdiction after the expiration of four years
+from execution 
+
+ The
+sum of 2,000,000 shall not have been raised within 2 years of execution of the license 
+
+ The
+Research Agreement shall not have been entered into as of thirty days subsequent to the Funding. 
+
+ The
+Company shall not have achieved cumulative Net Sales of Licensed Product, Service and Methods of at least 10,000,000 as of a date that
+is ten years from the execution of the license 
+
+ The
+Company shall fail to pay any consideration required under the license and such failure remains uncured for thirty days. 
+
+ This
+License may be terminated by the Company in the event: 
+
+ DYO
+shall be determined to not have exclusive unencumbered Patent Rights to the Technology in whole or in part. 
+
+ Any other
+entity shall be determined to have the right- exercised or not- to utilize the Technology in whole or in part) to develop make, use,
+offer for sale, sell, perform, have performed export and import and sell products, methods and services which can reasonably be expected
+to be similar to or competitive with products, methods and services to be developed by the Company utilizing the rights granted by the
+License. . 
+
+ DYO
+shall have failed to demonstrate during the course of due diligence to the satisfaction of the Company that the Technology can be effectively
+utilized for the purposes intended by this License 
+
+ In
+the event that the Agreement is terminated pursuant to the any of the abovementioned the Stock Payment shall be promptly returned by
+DYO to the Company for cancellation. 
+
+ Dr.
+Harry Lander serves as Chief Scientific Officer of the Company and is a shareholder of the Company. Dr. Harry Lander also serves as Managing
+Director of DYO and is a controlling shareholder of DYO. 
+
+ On
+July 14, 2023 the Company s Chief Executive Officer made a 3,600 capital contribution to the Company. 
+
+39 
+
+Item
+14. Principal Accounting Fees and Services 
+
+ The
+following table sets forth the aggregate fees billed to us by BF Borgers CPA PC for the period beginning July 1,2022 and ending June
+30, 2023: 
+
+Audit
+ Fees 
+ 11,000 
+ 
+ Audit
+ Related Fees 
+ 16,500 
+ 
+ Tax
+ Fees 
+ 0 
+ 
+ All
+ Other Fees 
+ 0 
+ 
+ Total: 
+ 27,500 
+
+The
+following table sets forth the aggregate fees billed to us by BF Borgers CPA PC for the period beginning July 1,2021 and ending June
+30, 2022: 
+
+Audit
+ Fees 
+ 25,800 
+ 
+ Audit
+ Related Fees 
+ 21,600 
+ 
+ Tax
+ Fees 
+ 0 
+ 
+ All
+ Other Fees 
+ 0 
+ 
+ Total: 
+ 47,400 
+
+Audit
+Fees: Aggregate fees billed for professional services rendered for the audit of the Company's annual financial statements. 
+
+ Audit
+Related Fees: Aggregate fees billed for professional services rendered for assurance and related services that were
+reasonably related to the performance of the audit or review of our financial statements and are not reported under Audit Fees 
+above. These fees were primarily derived from review of financial statements in the Company's Form 10Q Reports. 
+
+ All
+services listed were pre-approved by the Board of Directors, functioning as the Audit Committee in accordance with Section 2(a) 3 of
+the Sarbanes-Oxley Act of 2002. 
+
+40 
+
+EXHIBITS 
+
+Exhibit 
+ No.
+ Description 
+ 
+ 31.1 
+ Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes Oxley Act of 2002 
+ 
+ 31.2 
+ Certification of Chief Financial Officer Pursuant to Section 3026 of the Sarbanes Oxley Act of 2002 
+ 
+ 32.1 
+ Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes Oxley Act of 2002 
+ 
+ 32.2 
+ Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes Oxley Act of 2002 
+ 
+ 3(i) 
+ Articles
+ of Incorporation 
+ 
+ 3(ii) 
+ Bylaws 
+ 
+ 10.1 
+ Agreement
+ with Dr. Stephen Hake 
+ 
+ 10.2 
+ Agreement
+ with Dr. Jason Garber 
+ 
+ 10.21 
+ Assignments 
+ 
+ 10.22 
+ Stock
+ Purchase Agreement 
+ 
+ 10.33 
+ Assignment
+ dated 12/2 
+ 
+ 10.38 
+ License
+ Agreement 
+ 
+ 10.7 
+ Note
+ Payable 20,000 
+ 
+ 10.8 
+ Note
+ Payable 30,000 
+ 
+ 10.9 
+ Note
+ Payable 100,000 
+ 
+ 10.10 
+ Separation
+ Agreement 
+ 
+ 10.11 
+ Employment
+ Agreement Vaini 
+ 
+ 10.12 
+ Employment
+ Agreement Lander 
+ 
+ 10.13 
+ Joanne
+ Vaini Agreement 
+ 
+ 10.14 
+ License
+ Agreement DYO 
+ 
+ 10.15 
+ Zander
+ Biologics IP Purchase Agreement 
+ 
+ 10.16 
+ Note Payable 12,500 
+ 
+ 10.17 
+ Note Payable 25,000 
+
+41 
+
+SIGNATURES 
+
+ Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+SYBLEU
+ INC. 
+
+By: 
+ /s/
+ Joseph G. Vaini 
+
+Name: 
+ Joseph
+ G. Vaini 
+
+Title:
+ Chairman, Chief Executive Officer, Director, Chief Financial Officer, Chief Accounting Officer 
+
+Date: 
+ August 4, 2023 
+
+42 
+
+<EX-101.SCH>
+ 2
+ cik0001818674-20230630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 4
+ cik0001818674-20230630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 5
+ cik0001818674-20230630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 6
+ cik0001818674-20230630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+
+<EX-10.16>
+ 7
+ ex10_16.htm
+ EXHIBIT 10.6
+
+PROMISSORY NOTE NOTE - 10 SIMPLE
+INTEREST 
+
+12,500 
+ September 20, 2021 
+
+For VALUE RECEIVED, SYBLEU INC. Borrower promises to pay to Zander Therapeutics, Inc. Lender the principal sum of Twelve Thousand Five Hundred 12,500) with accrued
+simple interest at the rate of 10 percent per annum on the balance. The said principal and accrued interest shall be payable in lawful
+money of the United States of America on April 4, 2024. This Note may be prepaid in whole or in part at any time without premium or penalty.
+The Borrower hereby waives any notice of the transfer of this Note by the Lender or by any subsequent holder of this Note, agrees to remain
+bound by the terms of this Note subsequent to any transfer, and agrees that the terms of this Note may be fully enforced by any subsequent
+holder of this Note. All terms and conditions of this Note shall be interpreted under the laws of the state of California and venue shall
+be the state of California. 
+
+ SYBLEU INC. 
+
+ By: /s/Joseph G Vaini 
+
+ Its: Chairman and CEO 
+
+Accepted By: 
+
+ Zander Therapeutics, Inc. 
+
+ By:/s/David R. Koos 
+
+ Its: Chairman 
+
+</EX-10.16>
+
+<EX-10.17>
+ 8
+ ex10_17.htm
+ EXHIBIT 10.17
+
+PROMISSORY NOTE NOTE - 10 SIMPLE
+INTEREST 
+
+25,000.00 
+ September 20, 2021 
+
+For VALUE RECEIVED, SYBLEU INC. Borrower promises to pay to Bostonia Partners, Inc. Lender the principal sum of Twenty Five Thousand Dollars 25,000.00] with
+accrued simple interest at the rate of 10 percent per annum on the balance. The said principal and accrued interest shall be payable
+in lawful money of the United States of America on June 29, 2024. This Note may be prepaid in whole or in part at any time without premium
+or penalty. The Borrower hereby waives any notice of the transfer of this Note by the Lender or by any subsequent holder of this Note,
+agrees to remain bound by the terms of this Note subsequent to any transfer, and agrees that the terms of this Note may be fully enforced
+by any subsequent holder of this Note. All terms and conditions of this Note shall be interpreted under the laws of the state of California
+and venue shall be the state of California. 
+
+ SYBLEU INC. 
+
+ By: /s/Joseph G Vaini 
+
+ Its: Chairman and CEO 
+
+Accepted By: 
+
+ Bostonia Partners, Inc. 
+
+ By:/s/Timothy Foat 
+
+ Its: President 
+
+</EX-10.17>
+
+<EX-31.1>
+ 9
+ ex31_1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1
+
+CHIEF
+EXECUTIVE OFFICER CERTIFICATION 
+PURSUANT TO SECTION 302 
+
+ I,
+Joseph G. Vaini, certify that: 
+
+ 1. I
+have reviewed this Annual Report on Form 10-K of Sybleu Inc. (the Registrant ); 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report. 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+
+4. The Registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated the effectiveness of the Registrant s disclosure controls and procedures presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+
+5. The Registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting to the Registrant s auditors and the audit committee of Registrant s board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Date:
+August 04, 2023 
+
+/s/
+Joseph G. Vaini 
+
+ Joseph
+G. Vaini 
+
+ Chief
+Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 10
+ ex31_2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+ CHIEF
+FINANCIAL OFFICER CERTIFICATION 
+PURSUANT TO SECTION 302 
+
+ I,
+Joseph G. Vaini, certify that: 
+
+ 1. I
+have reviewed this Annual Report on Form 10-K of Sybleu Inc. (the Registrant ); 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report. 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+
+4. The Registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated the effectiveness of the Registrant s disclosure controls and procedures presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+
+5. The Registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of Registrant s board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Date: August 04, 2023 
+
+/s/ Joseph G. Vaini 
+
+ Joseph G. Vaini 
+
+ Chief Financial Officer (Principal
+Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 11
+ ex32_1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+ CERTIFICATION
+PURSUANT TO 
+18 U.S.C. SECTION 1350 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ In
+connection with the accompanying Annual Report of Sybleu Inc. (the Company on Form 10-K for the twelve months
+ended June 30, 2023, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I,
+David Koos, Principal Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge, that: 
+
+ (1)
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+ (2)
+The information contained in the Report fully presents, in all material respects, the financial condition and results of operations of
+the Company. 
+
+ Date:
+August 04, 2023 
+
+/s/
+Joseph G. Vaini 
+
+Joseph G. Vaini 
+
+Principal
+ Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 12
+ ex32_2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+ CERTIFICATION
+PURSUANT TO 
+18 U.S.C. SECTION 1350 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ In
+connection with the accompanying Annual Report of Sybleu Inc. (the Company on Form 10-K for the twelve months ended
+June 30, 2023, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Joseph G.
+Vaini, Principal Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge, that: 
+
+ (1)
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+ (2)
+The information contained in the Report fully presents, in all material respects, the financial condition and results of operations of
+the Company. 
+
+ Date:
+August 04, 2023 
+
+/s/
+ Joseph G. Vaini 
+
+Joseph G. Vaini 
+
+Principal
+ Financial Officer 
+
+</EX-32.2>
+

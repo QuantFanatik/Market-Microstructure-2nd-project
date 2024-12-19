@@ -1,0 +1,1256 @@
+<Header>
+<FileStats>
+    <FileName>20230310_10-K_edgar_data_829323_0000829323-23-000010.txt</FileName>
+    <GrossFileSize>6913188</GrossFileSize>
+    <NetFileSize>145905</NetFileSize>
+    <NonText_DocumentType_Chars>1258065</NonText_DocumentType_Chars>
+    <HTML_Chars>1978818</HTML_Chars>
+    <XBRL_Chars>1878382</XBRL_Chars>
+    <XML_Chars>1543837</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000829323-23-000010.hdr.sgml : 20230310
+<ACCEPTANCE-DATETIME>20230309173415
+ACCESSION NUMBER:		0000829323-23-000010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		83
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230310
+DATE AS OF CHANGE:		20230309
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Inuvo, Inc.
+		CENTRAL INDEX KEY:			0000829323
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING [7310]
+		IRS NUMBER:				870450450
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32442
+		FILM NUMBER:		23720841
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 PRESIDENT CLINTON AVE., STE. 300
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72201
+		BUSINESS PHONE:		501-205-8508
+
+	MAIL ADDRESS:	
+		STREET 1:		500 PRESIDENT CLINTON AVE., STE. 300
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INUVO, INC.
+		DATE OF NAME CHANGE:	20090810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KOWABUNGA! INC.
+		DATE OF NAME CHANGE:	20081106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THINK PARTNERSHIP INC
+		DATE OF NAME CHANGE:	20060315
+
+</SEC-Header>
+</Header>
+
+ 0000829323-23-000010.txt : 20230310
+
+10-K
+ 1
+ inuv-20221231.htm
+ 10-K
+
+inuv-20221231 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D. C. 20549 
+ 
+ FORM 
+ (Mark One) 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the fiscal year ended , 2022 
+ 
+ or 
+ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from __________________ to __________________________ 
+ 
+ Commission file number: 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ , , , 
+ (Address of principal executive offices) (Zip Code) 
+ 
+ Registrant's telephone number, including area code ) 
+
+Securities registered pursuant to Section 12(b) of the Act 
+ 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Securities registered under Section 12(g) of the Act: 
+ 
+ None 
+ (Title of class) 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 229.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+ 
+ If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ 
+ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+ 
+ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act) Yes No 
+
+The aggregate market value of the outstanding common stock held by non-affiliates computed by reference to the price at which the common equity was last sold on June 30, 2022 (the last business day of the registrant s most recently completed second quarter), as reported on the NYSE American, was approximately million. 
+ 
+ As of March 3, 2023, there were shares of common stock of the registrant outstanding, including treasury shares but net of shares of common stock held by a subsidiary. 
+ 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+
+TABLE OF CONTENTS 
+ Page No. Part I Item 1. Business. 5 
+ Item 1A. Risk Factors. 8 
+ Item 1B. Unresolved Staff Comments. 13 
+ Item 2. Properties. 13 
+ Item 3. Legal Proceedings. 13 
+ Item 4. Mine Safety Disclosures. 13 
+ Part II Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 13 
+ Item 6. [Reserved] 14 
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 14 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk. 19 
+ Item 8. Financial Statements and Supplementary Data. 19 
+ Item 9. Changes In and Disagreements With Accountants on Accounting and Financial Disclosure. 19 
+ Item 9A. Controls and Procedures. 19 
+ Item 9B. Other Information. 20 
+ Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 20 
+ Part III Item 10. Directors, Executive Officers and Corporate Governance. 21 
+ Item 11. Executive Compensation. 21 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 21 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence. 21 
+ Item 14. Principal Accountants Fees and Services. 21 
+ Part IV Item 15. Exhibits, Financial Statement Schedules. 22 
+ Item 16. Form 10-K Summary 24 
+
+3 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+ 
+ This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). These forward-looking statements are subject to known and unknown risks, uncertainties and other factors which may cause actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as "will," "should," "intend," "expect," "plan," "anticipate," "believe," "estimate," "predict," "potential," or "continue," or the negative of such terms or other comparable terminology. This report includes, among others, statements regarding our risks associated with: 
+ 
+ a decline in general economic conditions; 
+ decreased market demand for our products and services; 
+ customer revenue concentration; 
+ risks associated with customer collections; 
+ seasonality impacts on financial results and cash availability; 
+ dependence on advertising suppliers; 
+ the ability to acquire traffic in a profitable manner; 
+ the ability to attract and retain talented employees; 
+ failure to keep pace with technological changes; 
+ interruptions within our information technology infrastructure; 
+ dependence on key personnel; 
+ regulatory and legal uncertainties; 
+ failure to comply with privacy and data security laws and regulations; 
+ third party infringement claims; 
+ publishers fabricating fraudulent clicks; 
+ the ability to continue to meet the NYSE American listing standards; 
+ the impact of quarterly results on our common stock price; 
+ dilution to our stockholders upon the exercise of outstanding restricted stock unit grants and warrants; 
+ the on-going impact of the COVID-19 pandemic on our Company; and 
+ our ability to identify, finance, complete and successfully integrate future acquisitions. 
+
+These forward-looking statements were based on various factors and were derived utilizing numerous assumptions and other factors that could cause our actual results to differ materially from those in the forward-looking statements. Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk described in connection with any forward-looking statements that may be made herein. Readers are cautioned not to place undue reliance on these forward-looking statements and readers should carefully review this report in its entirety, including the risks described in Item 1A - Risk Factors appearing in this report. 
+ 
+ Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated events. These forward-looking statements speak only as of the date of this report, and you should not rely on these statements without also considering the risks and uncertainties associated with these statements and our business. 
+
+OTHER PERTINENT INFORMATION 
+ 
+ Unless specifically set forth to the contrary, when used in this report the terms "Inuvo," the Company, "we," "us," "our" and similar terms refer to Inuvo, Inc., a Nevada corporation, and its subsidiaries. When used in this report, 2021 means the fiscal year ended December 31, 2021, "2022" means the fiscal year ended December 31, 2022, and 2023 means the fiscal year ending December 31, 2023. The information which appears on our corporate website at www.inuvo.com and our social media platforms is not part of this report. 
+ 
+ 4 
+
+PART I 
+
+ITEM 1. BUSINESS. 
+ 
+ Company Overview 
+ 
+ Inuvo is a technology company that develops and sells information technology solutions for marketing and advertising. These solutions predictively identify and message online audiences for any product, service or brand across devices, formats, and channels including video, mobile, connected TV, linear TV, display, social, search and native. These solutions allow Inuvo s clients to engage with their audiences in a manner that drives responsiveness. Inuvo facilitates the delivery of hundreds of millions of marketing messages to consumers every single month and counts among its clients numerous world-renowned names across industries. 
+ 
+ The Inuvo solution incorporates a proprietary form of artificial intelligence, or AI, branded the IntentKey. This patented machine learning technology uses interactions with Internet content as a source of information from which to predict consumer intent. The AI can identify and advertise to the reasons why consumers are purchasing products and services not to who those consumers are. In this regard, the technology is designed for a privacy conscious future and is focused on the components of the advertising value chain most responsible for return on advertising spend, the intelligence behind the advertising decision. 
+ 
+ Inuvo technology can be consumed both as a managed service and software-as-a-service ("SaaS"). For clients, Inuvo has also developed a collection of proprietary websites collectively branded as Bonfire Publishing where content is created specifically to attract qualified consumer traffic for clients through the publication of information across a wide range of topics including health, finance, travel, careers, auto, education and lifestyle. These sites also provide the means to market test various Inuvo advertising technologies. Further, Inuvo also provides Search and Social advertising services through a proprietary set of technologies branded as CampSight. 
+ 
+ There are many barriers to entry associated with the Inuvo business model, including a proficiency in large scale information processing, predictive software development, marketing data products, analytics, artificial intelligence, integration to the internet of things ("IOT"), and the relationships required to execute within the IOT. Inuvo s intellectual property is protected by 19 issued and eight pending patents. 
+ 
+ Products and Services 
+ The Inuvo platforms use analytics, data and artificial intelligence in a manner that optimizes the purchase and placement of advertising in real time. These platforms are typically sold with services both individually and in combination with each other based on client needs. These products and services include: 
+ 
+ IntentKey : An artificial intelligence-based consumer intent recognition system designed to reach highly targeted mobile and desktop In-Market audiences with precision. The platform can serve multiple creative formats including display, video, audio and native across multiple device types including desktop, mobile, tablet, connected/smart TV and game consoles. The product is sold as both a fully managed service and/or a SaaS solution; and 
+ 
+ CampSight: A marketing and advertising service provided directly to brands and large consolidators of advertising demand where a collection of data, analytics, software and publishing gets used to align merchant advertising messages with anonymous consumers across various websites online. The service includes Think Relevant, a wholly owned marketing agency and Bonfire publishing, a wholly owned collection of websites. Initially, we created ValidClick as a platform with a single purpose - to assist us in our work with Yahoo. Over the years, our business has grown and transformed. We expanded our capabilities to encompass various demand partners, and we integrated with buy-side platforms such as Facebook, TikTok, Twitter, and others. Since our service now provides both campaign management and campaign insights, we have renamed it CampSight. 
+ 
+ Key Relationships 
+ 
+ We maintain long-standing relationships with Sovrn, Yahoo! and Google who provide access to hundreds of thousands of advertisers. When an advertisement is clicked, the CampSight platform effectively sells that click to these partners who then sell it to their advertisers. We maintain multi-year service contracts with these companies. In 2022, these customers accounted for 51.7 of our total revenue and 62.9 in 2021. We also have major contracts with Xandr, Inc. who, in exchange for a fee, provides access to publishers' advertising inventory for the IntentKey. 
+ 
+ In addition to our key customer relationships, we support creative and media agencies. Additionally, we maintain important distribution relationships with owners and publishers of websites and mobile applications. We provide these partners with 
+ 5 
+
+advertisements which they use to monetize their websites and mobile applications. We continuously monitor consumer traffic with a variety of proprietary and patent protected software tools that can determine the quality of the traffic viewing and clicking on Inuvo served advertisements as a part of our service to our biggest clients. 
+ 
+ Strategy 
+ 
+ Our business strategy has been to develop data processing and advertising technologies that can displace intermediaries within the online advertising ecosystem, while cultivating relationships that can provide access to media spend (advertisers) and media inventory (websites). In this regard, we have proprietary demand (media spend) and supply (media inventory) technologies, targeting technologies, on-page or in-app ad-unit technologies, proprietary data and data management technologies, and advertising fraud detection technologies. We have both direct and indirect relationships at some of the largest media buyers and/or consolidators in the industry. For the IntentKey platform, where the focus is programmatic advertising channels, the immediate strategy is to scale through the hiring of additional sales professionals and partnerships, growing existing accounts and expanding our market footprint. In an increasingly privacy conscious world, we are focused on replacing the current technologies used by advertisers with our artificial intelligence solution, which does not rely on the use of consumer data. For the CampSight platform, where the focus is search and social advertising channels, the immediate strategy is to maintain relationships with existing partners and expand the business by supporting IntentKey customers. 
+ 
+ Our business strategy is focused on providing differentiation through the AI analytics and data products we own and protect through patents. For the marketing and advertising industries we serve, this strategy aligns with the components of the value chain that are the principal drivers of value to our clients. As part of our growth strategy, we evaluate acquisition candidates from time to time as opportunities arise with a focus on companies that have either advertisers or advertising relationships we do not possess or publishers or publishing partners who have content we do not possess. 
+ 
+ Sales and Marketing 
+ 
+ We drive general awareness of our brands through various marketing channels including our websites, social media, blogs, public relations, trade shows and conferences. Sales and marketing for our products differs based on whether they are demand or supply facing. 
+ 
+ The demand side of our business includes sales executives who create interest from agencies, trading desks and brands directly. Leveraging our IntentKey and CampSight technology to highlight our differentiation, our sales executives explain how we identify the most relevant audiences so we can, on behalf of our clients, target those audiences at a time when they are most prone to engage / respond / subscribe / tune-in or watch our clients' message. 
+ 
+ The supply side of our business includes relationships with and integrations to platforms that make available for auction, advertising inventory the IntentKey can use to identify advertising placements for Inuvo clients. We pay a fee to the platform for this service. Within CampSight, a series of web properties and content have been developed within the wholly owned Bonfire publishing. Here, unique technology and content experiences can be created in a manner that aligns with the objectives of our advertising clients. 
+ 
+ Competition 
+ 
+ We face significant competition in our industry. Competitors continue to increase their suite of offerings across marketing channels to better compete for total advertising dollars. There are many barriers to entry to Inuvo s business that would require proficiency in large scale data center management, software development, data products, analytics, artificial intelligence, integration to the internet of things, or IOT, the relationships required to execute within the IOT and the ability to process tens of billions of transactions daily. 
+ 
+ We compete, both directly and indirectly with companies who offer demand side platforms, direct marketing platforms, Data Suppliers and Aggregators, Media Planners and various Measurement and Analytics companies. The companies within these categories are defined by LUMA @ https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape. 
+ 
+ Our primary competitive advantages include: patented, proprietary technology for the categorization and storage of consumer intent (data used to discover and match online audiences to product or service); real time visibility of a marketing event (recognizing that there is currently a transaction where a match exists between our advertising clients and an interested party for their product on a website) where our technology is capable of responding to over 200,000 events per second; and patented advertising fraud prevention. Many competitors have greater name recognition and are better capitalized than we are. Our ability to remain competitive in our market segment depends upon our ability to be innovative and to efficiently provide unique 
+ 6 
+
+solutions to our demand and supply customers. There are no assurances we will be able to remain competitive in our markets in the future. 
+ 
+ Technology Platforms 
+ 
+ Our proprietary applications are constructed from established, readily available technologies. Some of the basic elements of our products are built on components from leading software and hardware providers such as Microsoft, Dell, EMC, VMWare, and Cisco, while some components are constructed from leading open-source software projects such as Apache Web Server, Apache Spark, HAProxy, MySQL, Java, Perl, and Linux. By seeking to strike the proper balance between using commercially available software and open-source software, our technology expenditures are directed toward maintaining our technology platforms while minimizing third-party technology supplier costs. 
+ 
+ We strive to build high-performance, availability and reliability into our product offerings. We safeguard against the potential for service interruptions at our third-party technology vendors by engineering controls into our critical components. We deliver our hosted solutions from facilities, geographically disbursed throughout the United States and maintain ready, on-demand services through third-party cloud providers Microsoft Azure and Amazon Web Services to enhance our business continuity. Our applications are monitored 24 hours a day, 365 days a year by specialized monitoring systems that aggregate alarms to a human-staffed network operations center. If a problem occurs, appropriate engineers are notified, and corrective action is taken. 
+ 
+ Intellectual Property Rights 
+ 
+ We own intellectual property (IP) and related IP rights that relate to our products, services and assets. Our IP portfolio includes patents, trade secrets and trademarks. We actively seek to protect our IP rights and to deter unauthorized use of our IP and other assets. While our IP rights are important to our success, our business is not significantly dependent on any single patent, trademark, or other IP right. 
+ 
+ Our trademarks include the U.S. Federal Registration for our consumer facing brand ALOT in the United States. Our intellectual property portfolio includes 19 patents issued by the United States Patent and Trademark Office USPTO and eight pending patent applications. 
+ 
+ To distinguish our products and services from our competitors products, we have obtained trademarks and trade names for our products. We also protect details about our processes, products, and strategies as trade secrets, keeping confidential the information that we believe provides us with a competitive advantage. 
+ 
+ Employees and Human Capital Resources 
+ 
+ As of January 31, 2023, we had 87 full-time employees, none of which are covered by a collective bargaining agreement. 
+ 
+ Human capital management is critical to Inuvo s ongoing business success, which requires investing in our people. Our aim is to create a highly engaged and motivated workforce where employees are inspired by leadership, engaged in purpose-driven, meaningful work and have opportunities for growth and development. We are an equal opportunity employer and we are fundamentally committed to creating and maintaining a work environment in which employees are treated with respect and dignity. All human resources policies, practices and actions related to hiring, promotion, compensation, benefits and termination are administered in accordance with the principles of equal employment opportunity and other legitimate criteria without regard to race, color, religion, sex, sexual orientation, gender expression or identity, ethnicity, national origin, ancestry, age, mental or physical disability, genetic information, any veteran status, any military status or application for military service, or membership in any other category protected under applicable laws. 
+ 
+ An effective approach to human capital management requires that we invest in talent, development, culture and employee engagement. We aim to create an environment where our employees are encouraged to make positive contributions and fulfill their potential. We instill our core values of innovation, encouragement, motivation, and curiosity with our employees to instill culture and create this environment of growth and positivity. 
+ 
+ Our Board of Directors is also actively involved in reviewing and approving executive compensation, selections and succession plans so that we have leadership in place with the requisite skills and experience to deliver results the right way. 
+
+7 
+
+Seasonality 
+ 
+ Our future results of operations may be subject to fluctuation because of seasonality. Historically, the second half of the year is typically stronger than the first half because of the changes in demand for marketing placements leading into the holiday season. If we are not able to appropriately adjust to seasonal or other factors, it could have a material adverse effect on our financial results. 
+ 
+ History 
+ 
+ The Company was incorporated under the laws of the state of Nevada in October 1987 and originally operated within the oil and gas industry. This endeavor was not profitable, and as a result from 1993 to 1997 the Company had essentially no operations. In 1997, the business was reorganized and through 2006 a number of companies were acquired from within the advertising and internet marketing industry. In 2009, following the weakness in the economy, a new team was called in to assess the array of businesses that had been acquired in the preceding years and as a result between 2009 and 2011, that team sold and/or retired eleven businesses as a part of the restructure. 
+ 
+ In March 2012, as part of a longer-term strategy, the Company acquired Vertro, Inc., which owned and operated the ALOT product portfolio. That acquisition included the ALOT brand, as well as a long-standing relationship with Google. In 2013, with a grant funded by the State of Arkansas, the Company moved its headquarters to Arkansas where we have remained. 
+ 
+ In February 2017, the Company entered into an asset purchase agreement with NetSeer, Inc. which advanced the Company's technology strategy while also increasing the number of advertiser and publisher relationships. We exchanged 3,529,000 shares of Inuvo common stock and assumed approximately 6.8 million of specified liabilities in this business combination. 
+ 
+ More Information 
+ 
+ Our website address is www.inuvo.com. We file with, or furnish to, the Securities and Exchange Commission (the "SEC") annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and amendments to those reports, as well as various other information. This information can be found on the SEC website at www.sec.gov. In addition, we make available free of charge through the Investor Relations page of our website our annual reports, quarterly reports, and current reports, and all amendments to any of those reports, as soon as reasonably practicable after providing such reports to the SEC. 
+
+ITEM 1A. RISK FACTORS. 
+ 
+ An investment in our common stock involves a significant degree of risk. Many of the risk factors are, and will continue to be, exacerbated by the COVID-19 pandemic and any worsening of the economic environment. You should not invest in our common stock unless you can afford to lose your entire investment. You should consider carefully the following risk factors and other information in this report before deciding to invest in our common stock. If any of the following risks and uncertainties develops into actual events, our business, financial condition or results of operations could be materially adversely affected and you could lose your entire investment in our Company. 
+ 
+ Business Risks 
+ 
+ We have a history of losses. We cannot anticipate with any degree of certainty what our revenues will be in future periods. While our revenues increased approximately 26.4 in 2022 as compared to 2021, our gross profit margin decreased to 60.0 in 2022 from 73.4 in 2021. We reported an operating loss of approximately 12.6 million in 2022 as compared to an operating loss of approximately 7.8 million in 2021. Though we have a credit facility dependent upon receivables, the negative cash flows generated from operating activities introduces potential risk of an interruption to operating activities. As of December 31, 2022, we have approximately 4.5 million in cash, cash equivalents and short-term marketable securities. Our net working capital was 2.8 million. We have encountered recurring losses and cash outflows from operations, which historically we have funded through equity offerings and debt facilities. In addition, our investment in internally developed software consists primarily of labor costs which are of a fixed nature. Through December 31, 2022, our accumulated deficit was 157.1 million. See Liquidity and Capital Resources under ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS for a more thorough discussion. 
+ 
+ We rely on three customers for a significant portion of our revenues. We are reliant upon three customers for a significant portion of our revenue. During 2022 these customers accounted for 29.1 , 24.1 and 12.9 of our revenues, respectively. In 2021, three separate customers accounted for 14.3 , 15.6 and 33.0 of our revenues, respectively. The amount of revenue 
+ 8 
+
+we receive from these customers is dependent on a number of factors outside of our control, for InDirect customers this includes the amount they charge for advertisements, the depth of advertisements available from them, and their ability to display relevant ads in response to end user queries and for Direct customers this includes changes in advertising budgets resulting from their own business circumstances. In 2021 and throughout 2022 we onboarded several Direct clients that contributed to revenue growth. We have experienced churn in our Direct customer base where some Direct clients that were material to 2021 were not served or only partially served in 2022 and some Direct clients that were material to 2022 are no longer being served. Historically, we have been able to replace lost clients with new clients or by expanding our relationship with existing clients, however, we would likely experience a significant decline in revenue and our business operations could be significantly harmed if we continue to lose material customers or are unable to replace lost clients. The loss of material customers or a material change in the revenue or gross profit they generate would have a material adverse impact on our business, results of operations and financial condition in future periods. 
+ 
+ We are exposed to credit risk on our accounts receivable and this risk is heightened during periods when economic conditions worsen . We sell some of our solutions directly to advertisers and advertising agencies on credit. Our outstanding accounts receivables to advertisers and advertising agencies are not covered by collateral, third-party financing arrangements or credit insurance. Our exposure to credit and collectability risk on our accounts receivables is higher with some customers and our ability to mitigate such risks may be limited. As we continue to add new customers and expand our direct relationships with advertisers and advertising agencies our credit risk increases. Additionally, our credit risk increases during periods when economic conditions worsen. While we have procedures to monitor and limit exposure to credit risk on our accounts receivables there can be no assurance such procedures will effectively limit our credit risk and avoid losses. 
+ 
+ Our success is dependent upon our ability to establish and maintain direct relationships with advertisers and advertising agencies. Some of our solutions generate revenue directly from advertisers and advertising agencies. Accordingly, our ability to generate revenue for our solutions is dependent upon our ability to attract new advertisers, maintain relationships with existing advertisers and fulfill our advertisers orders. Our programs to attract advertisers include direct sales, agency sales, online promotions, referral agreements and participation in tradeshows. We attempt to maintain relationships with our advertisers through providing quality customer service and delivering on campaign goals. Our advertisers and advertising agency clients can generally terminate their contracts with us at any time and with limited or no advance notice. We believe that advertisers and advertising agencies will not continue to do business with us if their investment in advertising with us does not generate sales leads, and ultimately customers, or if we do not deliver their advertisements in an appropriate and effective manner. If we are unable to remain competitive and provide value to our advertisers, they may stop placing ads with us, which would have a material adverse effect on our business, prospects, financial condition and results of operations. 
+ 
+ We are dependent upon relationships with and the success of our supply partners. Our supply partners are very important to our success. We must recruit and maintain partners who are able to drive traffic successfully to their websites and mobile applications, resulting in clicks on advertisements we have delivered. These partners may experience difficulty in attracting and maintaining users for a number of reasons, including competition, rapidly changing markets and technology, industry consolidation and changing consumer preferences. We have experienced a decrease in the number of supply partners and quantity of Internet traffic from supply partners within CampSight beginning in late April 2020. Additionally, we are experiencing turnover in our supply partner network and there can be no assurance traffic levels will increase to prior levels or that we will be able to replace supply partners that have left our network. Further, we may not be able to further develop and maintain relationships with distribution partners. They may be able to make their own deals directly with advertisers, may view us as competitors or may find our competitors offerings more desirable. Any of these potential events could have a material adverse effect on our business, financial position and results of operations. 
+ 
+ The success of our owned sites is dependent on our ability to acquire traffic in a profitable manner. Our ALOT-branded websites are dependent on our ability to attract traffic in a profitable manner. We use a predictive model to calculate the rate of return for marketing campaigns, which includes estimates and assumptions. If these estimates and assumptions are not accurate, we may not be able to effectively manage our marketing decisions and could acquire traffic in an unprofitable manner. In addition, we may not be able to maintain and grow our traffic for a number of reasons, including, but not limited to, acceptance of our websites by consumers, the availability of advertising to promote our websites, competition, and sufficiency of capital to purchase advertising. We advertise on search engine websites to drive traffic to our owned and operated websites. Our keyword advertising is done primarily with Google and Facebook, but also with Yahoo!. If we are unable to maintain and grow traffic to our sites in a profitable manner, it could have a material adverse effect on our business, financial condition, and results of operations. 
+ 
+ Because competition for our target employees is intense, we may not be able to attract and retain the highly skilled employees we need to support our operations and increasing customer base. In the technology industry, there is substantial and continuous competition for engineers with high levels of experience in designing, developing and managing software and Internet-related services, as well as competition for executives and sales and operations personnel. Many of our competitors have substantially more resources than we do and have the ability to compensate highly skilled personnel at higher levels than 
+ 9 
+
+we can. We may not be successful in attracting and retaining qualified highly skilled personnel. We have from time to time experienced, and we expect to continue to experience, difficulty in hiring and retaining highly skilled employees with appropriate qualifications. In addition, job candidates and existing employees often consider the value of the stock awards they receive in connection with their employment. If our stock price performs poorly, it may adversely affect our ability to retain highly skilled employees. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business and future growth prospects could be severely harmed. 
+ 
+ The COVID-19 pandemic could have a material adverse impact on our business, results of operations and financial condition . In December 2019, a novel strain of coronavirus disease COVID-19 was first reported in Wuhan, China. Less than four months later, on March 11, 2020, the World Health Organization declared COVID-19 a pandemic the first pandemic caused by a coronavirus. The outbreak has resulted in the implementation of significant governmental measures, including lockdowns, closures, quarantines and travel bans, intended to control the spread of the virus. The COVID-19 outbreak has already caused severe global disruptions. Beginning in late April 2020, we experienced a significant reduction in demand (marketing budgets) within the CampSight platform and a modest decline in demand within the IntentKey platform, the combination of which resulted in a significant reduction in our revenue run rate. Generally, marketing budgets tend to decline in times of a recession. During 2020, we curtailed expenses, including compensation and travel and issued a work from home policy to protect our employees and their families from virus transmission associated with co-workers and we began to experience interruptions in our daily operations, as a result of these policies. During 2021, we changed our policies and reopened our offices on a limited basis and our revenue has returned to growth on a year over year basis. We maintain long-standing relationships with Yahoo! and Google that provide access to hundreds of thousands of advertisers from which most of our CampSight and digital publishing revenue originates. Any adverse impact on the operations of those companies would have a correspondingly adverse impact on our revenues in future periods. We will continue to assess the impact of the COVID-19 pandemic on our Company, however, at this time we are unable to predict all possible impacts on our Company, operations and revenues. Should revenues turn downwards or fail to return to historical levels on a consistent basis, we may not be able to offset expenses quickly enough which could have a material adverse effect on our business, results of operations, financial condition and cash flows and adversely impact the trading price of our common stock. 
+ 
+ Technological Risks 
+ 
+ Our business must keep pace with rapid technological change to remain competitive. Our business operates in a market characterized by rapidly changing technology, evolving industry standards, frequent new product and service announcements, enhancements, and changing customer demands. We must adapt to rapidly changing technologies and industry standards and continually improve the speed, performance, features, ease of use and reliability of our services. This includes making our products and services compatible and maintaining compatibility with multiple operating systems, desktop and mobile devices, and evolving network infrastructure. If we fail to do this, our results of operations and financial position could be adversely affected. 
+ 
+ Our services may be interrupted if we experience problems with our network infrastructure . The performance of our network infrastructure is critical to our business and reputation. Because our services are delivered solely through the Internet, our network infrastructure could be disrupted by a number of factors, including, but not limited to: 
+ 
+ unexpected increases in usage of our services; 
+ computer viruses and other security issues; 
+ interruption or other loss of connectivity provided by third-party Internet service providers; 
+ natural disasters or other catastrophic events; and 
+ server failures or other hardware problems. 
+ 
+ While we have data centers in multiple, geographically dispersed locations and active back-up and disaster recovery plans, we cannot assure you that serious interruptions will not occur in the future. If our services were to be interrupted, it could cause loss of users, customers and business partners, which could have a material adverse effect on our results of operations and financial position. 
+ 
+ We are subject to risks from publishers who could fabricate clicks either manually or technologically. 
+ Our business involves the establishment of relationships with website owners and publishers. In exchange for their consumer traffic, we provide an advertising placement service and share a portion of the revenue we collect with that website publisher. Although we have click fraud detection software in place, we cannot guarantee that we will identify all fraudulent clicks or be able to recover funds distributed for fabricated clicks. This risk could materially impact our ability to borrow, our cash flow and the stability of our business. 
+ 
+ Regulatory Risks 
+ 
+ 10 
+
+Regulatory and legal uncertainties could harm our business. While there are currently relatively few laws or regulations directly applicable to Internet-based commerce or commercial search activity, there is increasing awareness of such activity and interest from state and federal lawmakers in regulating these services. New regulation of activities in which we are involved or the extension of existing laws and regulations to Internet-based services could have a material adverse effect on our business, results of operations and financial position. 
+ 
+ Failure to comply with federal, state and international privacy and data security laws and regulations, or the expansion of current or the enactment of new privacy and data security laws or regulations, could adversely affect our business. A variety of federal, state and international laws and regulations govern the collection, use, retention, sharing and security of consumer data. In addition, various federal, state and foreign legislative and regulatory bodies may expand current or enact new laws regarding privacy matters. For example, recently there have been Congressional hearings and increased attention to the capture and use of location-based information relating to users of smartphones and other mobile devices, and internationally the European Union s General Data Protection Regulation (GDPR) went into effect in May 2018. Additionally, multiple legislative proposals concerning privacy and the protection of user information are being considered by the U.S. Congress and various U.S. state legislatures. Certain U.S. state legislatures have already enacted privacy legislation, one of the strictest and most comprehensive of which is the California Consumer Privacy Act of 2018, which became effective on January 1, 2020 (the CCPA ). The CCPA provides data privacy rights for California consumers, and restricts the ability to use personal California user. The CCPA also provides consumers with a private right of action for security breaches, as well as provides for statutory damages. We have posted privacy policies and practices concerning the collection, use and disclosure of subscriber data on our websites and applications. The existing and soon to be enacted privacy and data security related laws and regulations are evolving and subject to potentially differing interpretations. Several Internet companies have incurred penalties for failing to abide by the representations made in their privacy policies and practices. In addition, several states have adopted legislation that requires businesses to implement and maintain reasonable security procedures and practices to protect sensitive personal information and to provide notice to consumers in the event of a security breach. Any failure, or perceived failure, by us to comply with our posted privacy policies or with any data-related consent orders, Federal Trade Commission requirements or orders or other federal, state or international privacy or consumer protection-related laws, including the GDPR and CCPA, regulations or industry self-regulatory principles could result in claims, proceedings or actions against us by governmental entities or others or other liabilities, which could adversely affect our business. 
+ 
+ We are subject to the continued listing standards of the NYSE American and our failure to satisfy these criteria may result in delisting of our common stock . Our common stock is listed on the NYSE American. In order to maintain this listing, we must maintain a certain share price, financial and share distribution targets, including maintaining a minimum amount of shareholders equity and a minimum number of public shareholders. In addition to these objective standards, the NYSE American may delist the securities of any issuer (i) if, in its opinion, the issuer s financial condition and/or operating results appear unsatisfactory; (ii) if it appears that the extent of public distribution or the aggregate market value of the security has become so reduced as to make continued listing on the NYSE American inadvisable; (iii) if the issuer sells or disposes of principal operating assets or ceases to be an operating company; (iv) if an issuer fails to comply with the NYSE American s listing requirements; (v) if an issuer s securities sell at what the NYSE American considers a low selling price which the exchange generally considers 0.20 per share and the issuer fails to correct this via a reverse split of shares after notification by the NYSE American; or (vi) if any other event occurs or any condition exists which makes continued listing on the NYSE American, in its opinion, inadvisable. There are no assurances how the market price of our common stock will be impacted in future periods as a result of the general uncertainties in the capital markets and any specific impact on our Company as a result of the coronavirus. If the NYSE American delists our common stock, investors may face material adverse consequences, including, but not limited to, a lack of trading market for our common stock, reduced liquidity, decreased analyst coverage of our common stock, and an inability for us to obtain any additional financing to fund our operations that we may need. 
+ 
+ Failure to comply with the covenants and restrictions in our grant agreement with the State of Arkansas could result in the repayment of a portion of the grant, which we may not be able to repay or finance on favorable terms. In January 2013, we entered into an agreement with the State of Arkansas whereby we were granted 1,750,000 for the relocation of the Company to Arkansas and for the purchase of equipment. The grant was contingent upon us having at least 50 full-time equivalent permanent positions within four years, maintaining at least 50 full-time equivalent permanent positions for the following six years and paying those positions an average total compensation of 90,000 per year. In March 2021, we received an amendment to the agreement that revised the position maintenance requirement for the reporting period of March 31, 2022 to 43 full-time equivalent permanent positions. The agreement also extended the reporting period and position maintenance period an additional year to a total of six years ending on March 31, 2024. As of December 31, 2022, we had 48 full-time employees located in Arkansas. Failure to meet the requirements of the grant after the initial four-year period, may require us to repay a portion of the grant, up to but not to exceed the full amount of the grant. At December 31, 2022, we accrued a contingent liability of 10,000 for the lower than required employment. 
+ 
+ Financial Risks 
+ 
+ 11 
+
+Our business is seasonal and our financial results may vary significantly from period to period. Our future results of operations may vary significantly from quarter to quarter and year to year because of numerous factors, including seasonality. Historically, in the later part of the fourth quarter and the earlier part of the first quarter we experience lower Revenue Per Click RPC due to a decline in demand for inventory on website and app space and the recalibrating of advertiser s marketing budgets after the holiday selling season. If we are not able to appropriately adjust to seasonal or other factors, it could have a material adverse effect on our financial results. 
+ 
+ Our quarterly operating results can be difficult to predict and can fluctuate substantially, which could result in volatility in the price of our common stock. Our quarterly revenues and other operating results have varied in the past and are likely to continue to vary significantly from quarter to quarter. Our agreements with distribution partners and key customers do not require minimum levels of usage or payments, and our revenues therefore fluctuate based on the actual usage of our service each quarter by existing and new distribution partners. In addition to the impact of the COVID-19 pandemic on our revenues, quarterly fluctuations in our operating results also might be due to numerous other factors, including: 
+ 
+ our ability to attract new distribution partners, including the length of our sales cycles, or to sell increased usage of our service to existing distribution partners; 
+ technical difficulties or interruptions in our services; 
+ changes in privacy protection and other governmental regulations applicable to our industry; 
+ changes in our pricing policies or the pricing policies of our competitors; 
+ the financial condition and business success of our distribution partners; 
+ purchasing and budgeting cycles of our distribution partners; 
+ acquisitions of businesses and products by us or our competitors; 
+ competition, including entry into the market by new competitors or new offerings by existing competitors; 
+ discounts offered to advertisers by upstream advertising networks; 
+ our history of litigation; 
+ our ability to hire, train and retain sufficient sales, client management and other personnel; 
+ timing of development, introduction and market acceptance of new services or service enhancements by us or our competitors; 
+ concentration of marketing expenses for activities such as trade shows and advertising campaigns; 
+ expenses related to any new or expanded data centers; and 
+ general economic and financial market conditions. 
+ 
+ Ability to maintain our credit facility could impact our ability to access capital in the future. On March 12, 2020 we closed a Loan and Security Agreement with Hitachi Capital America Corp. ("Hitachi") the terms of which are described in this report which replaced our credit facility with Western Alliance Bank. Under the terms of the Loan and Security Agreement, Hitachi has provided us with a 5,000,000 line of credit commitment which permits us to borrow against eligible accounts receivable and unbilled receivables. The Hitachi Loan and Security Agreement contains certain affirmative and negative covenants to which we are subject. As of December 31, 2022, we were in compliance with these covenants. There are no assurances that we will be able to comply with all the covenants. In the event we violate a covenant, Hitachi may limit or demand all amounts due under the credit facility at any time, including upon an event of default outstanding, if any, to be due and payable. If this occurs and if we have outstanding obligations and are not able to repay, Hitachi could require us to apply all of our available cash to repay the debt amounts and could then proceed against the underlying collateral. Should this occur, we cannot assure you that our assets would be sufficient to repay our debt in full, we would be able to borrow sufficient funds to refinance the debt. In such an event, our ability to conduct our business as it is currently conducted would be in jeopardy. 
+ 
+ Significant dilution will occur when outstanding restricted stock unit grants vest. As of December 31, 2022, we had 4,913,339 restricted stock units outstanding. If the restricted stock units vest, dilution will occur to our stockholders, which may be significant. 
+ 
+ Our financial condition may be adversely affected if we are unable to identify and complete future acquisitions, fail to successfully integrate acquired assets or businesses, or are unable to obtain financing for acquisitions on acceptable terms. The acquisition of assets or businesses that we believe to be complementary to our business is an important component of our strategy. We believe that acquisition opportunities may arise from time to time, and that any such acquisitions could be significant. At any given time, discussions with one or more potential sellers may be at different stages. However, any such discussions may not result in the consummation of an acquisition transaction, and we may not be able to identify or complete any acquisitions. We cannot predict the effect, if any, that any announcement or consummation of an acquisition would have on the trading price of our ordinary shares. Our business is capital intensive and any such transactions could involve the payment by us of a substantial amount of cash and/or equity securities. We may need to raise additional capital through public or private debt or equity financings to execute our growth strategy and to fund acquisitions. Adequate sources of capital may not be available when needed on favorable terms. If we raise additional capital by issuing additional equity securities or use equity securities for acquisitions, existing shareholders may be diluted. If our capital resources are insufficient at any time in the 
+ 12 
+
+future, we may be unable to fund acquisitions, take advantage of business opportunities or respond to competitive pressures, any of which could harm our business. Any usage of capital to fund an acquisition could lead to a decrease in liquidity. 
+ 
+ Any future acquisitions could present a number of risks, including: 
+ 
+ the risk of using management time and resources to pursue acquisitions that are not successfully completed; 
+ the risk of incorrect assumptions regarding the future results of acquired operations; 
+ the risk that the amount and timing of the expected benefits of any acquisition, including potential synergies, are subject to uncertainties; 
+ the risk of unexpected losses of key employees, customers and suppliers of the acquired business; 
+ the risk of increasing the scope, geographic diversity, and complexity of our business; 
+ the risk of unfavorable accounting treatment and unexpected increases in taxes; 
+ the risk of difficulty in conforming standards, controls, procedures, policies, business cultures, and compensation structures; 
+ the risk of failing to integrate the operations or management of any acquired operations or assets successfully and in a timely manner; and 
+ the risk of diversion of management s attention from existing operations or other priorities. 
+ 
+ If we are unsuccessful in completing acquisitions of other operations or assets, our financial condition could be adversely affected and we may be unable to implement an important component of our business strategy successfully. In addition, if we are unsuccessful in integrating our acquisitions in a timely and cost-effective manner, our financial condition and results of operations could be adversely affected. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS. 
+ 
+ Not applicable to a smaller reporting company. 
+
+ITEM 2. PROPERTIES. 
+ 
+ Our corporate headquarters are located in Little Rock, AR where we entered into a five-year agreement to lease office space on October 1, 2015 and amended the lease in July 2020 and in February 2021. In July 2020, the lease was amended and renewed for an additional three years. In February 2021, the lease was amended to expire on January 31, 2024. The amended lease is for 7,831 square feet. We also have office space in San Jose, CA where in June 2017, we entered into a five-year agreement to lease 4,801 square feet of office space. This lease was renegotiated in August 2021 and will expire in August 2023. 
+ 
+ In addition to our office space, we maintain data center operations in third-party collocation facilities in Los Angeles, CA and Secaucus, NJ. 
+
+ITEM 3. LEGAL PROCEEDINGS. 
+ 
+ We may be subject to legal proceedings, investigations and claims incidental to the conduct of our business from time to time. We are not currently a party to any material litigation or other legal proceedings brought against us. We are also not aware of any legal proceeding, investigation or claim, or other legal exposure that has a more than remote possibility of having a material adverse effect on our business, financial condition or results of operations. 
+
+ITEM 4. MINE SAFETY DISCLOSURES. 
+ 
+ Not applicable. 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+ 
+ Market Information 
+ 
+ 13 
+
+Our common stock is listed on the NYSE American LLC under the symbol "INUV. As of March 3, 2023, there were approximately 421 record owners of our common stock. This amount does not reflect persons or entities that hold our common stock in nominee or street name through various brokerage firms. 
+ 
+ Dividends 
+ 
+ We have not declared or paid cash dividends on our common stock since our inception. Under Nevada law, we are prohibited from paying dividends if the distribution would result in our Company not being able to pay its debts as they become due in the normal course of business if our total assets would be less than the sum of our total liabilities plus the amount that would be needed to pay the dividends, or if we were to be dissolved at the time of distribution to satisfy the preferential rights upon dissolution of stockholders whose preferential rights are superior to those receiving the distribution. Our Board of Directors has complete discretion on whether to pay dividends subject to compliance with applicable Nevada law. Even if our Board of Directors decides to pay dividends, the form, the frequency, and the amount will depend upon our future operations and earnings, capital requirements and surplus, general financial condition, contractual restrictions and other factors that the Board of Directors may deem relevant. While our Board of Directors will make any future decisions regarding dividends, as circumstances surrounding us change, it currently does not anticipate that we will pay any cash dividends in the foreseeable future. 
+ 
+ Recent Sales of Unregistered Securities 
+ 
+ None, except as previously reported. 
+ 
+ Repurchases of Equity Securities by the Issuer and Affiliated Purchasers 
+ 
+ None. 
+
+ITEM 6. RESERVED 
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ The following discussion of our financial condition and results of operations for 2022 and 2021 should be read in conjunction with the consolidated financial statements and the notes to those statements that are included elsewhere in this report. Our discussion includes forward-looking statements based upon current expectations that involve risks and uncertainties, such as our plans, objectives, expectations and intentions. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of a number of factors, including those set forth under Cautionary Statements Regarding Forward-Looking Information, Part I. Item 1. Business and Item 1A. Risk Factors. We use words such as "anticipate," "estimate," "plan," "project," "continuing," "ongoing," "expect," "believe," "intend," "may," "will," "should," "could," and similar expressions to identify forward-looking statements. 
+
+Company Overview 
+ 
+ Inuvo is a technology company that develops and sells information technology solutions for marketing and advertising. These solutions predictively identify and message online audiences for any product, service or brand across devices, formats, and channels including video, mobile, connected TV, linear TV, display, social, search and native. These solutions allow Inuvo s clients to engage with their audiences in a manner that drives responsiveness. Inuvo facilitates the delivery of hundreds of millions of marketing messages to consumers every single month and counts among its clients numerous world-renowned names across industries. 
+ 
+ The Inuvo solution incorporates a proprietary form of artificial intelligence, or AI, branded the IntentKey. This patented machine learning technology uses interactions with Internet content as a source of information from which to predict consumer intent. The AI can identify and advertise to the reasons why consumers are purchasing products and services not to who those consumers are. In this regard, the technology is designed for a privacy conscious future and is focused on the components of the advertising value chain most responsible for return on advertising spend, the intelligence behind the advertising decision. 
+ 
+ Inuvo technology can be consumed both as a managed service and SaaS. For clients, Inuvo has also developed a collection of proprietary websites collectively branded as Bonfire Publishing where content is created specifically to attract qualified consumer traffic for clients through the publication of information across a wide range of topics including health, finance, travel, careers, auto, education and lifestyle. These sites also provide the means to market test various Inuvo advertising 
+ 14 
+
+technologies. Further, Inuvo also provides Search and Social advertising services through a proprietary set of technologies branded as CampSight. 
+ 
+ There are many barriers to entry associated with the Inuvo business model, including a proficiency in large scale information processing, predictive software development, marketing data products, analytics, artificial intelligence, integration to the internet of things ("IOT"), and the relationships required to execute within the IOT. Inuvo s intellectual property is protected by 19 issued and eight pending patents. 
+ 
+ Hitachi Credit Agreement 
+ 
+ On March 12, 2020, we closed on the Loan and Security Agreement dated February 28, 2020 with Hitachi. Under the terms of 
+ the Loan and Security Agreement, Hitachi has provided us with a 5,000,000 line of credit commitment. We are permitted to 
+ borrow (i) 90 of the aggregate Eligible Accounts Receivable, plus (ii) the lesser of (A) 75 of the aggregate Unbilled 
+ Accounts Receivable or (B) 50 of the amount available to borrow under (i), up to the maximum credit commitment. The 
+ interest rate under the Hitachi agreement is 2 in excess of the Wall Street Journal Prime Rate, with a minimum rate of 6.75 
+ per annum, on outstanding amounts. The principal and all accrued but unpaid interest are due on demand. In the event of a default under the terms of the Loan and Security Agreement, the interest rate increases to 6 greater than the interest rate in effect from time to time prior to a default. The Loan and Security Agreement contains certain affirmative and negative covenants to which we are also subject. 
+ 
+ We agreed to pay Hitachi a commitment fee of 50,000, with one half due upon the execution of the agreement and the balance 
+ due six months thereafter. We are obligated to pay Hitachi a commitment fee of 15,000 annually. We are also obligated to 
+ pay Hitachi a quarterly service fee of 0.30 on the monthly unused amount of the maximum credit line. In addition to a 2,000 
+ document fee we have paid to Hitachi, if we had exited our relationship with Hitachi before March 1, 2022, we were obligated to pay Hitachi an exit fee of 50,000. On March 12, 2020, we drew 5,000,000 under this agreement, using 2,959,573 of these 
+ proceeds to satisfy all of our obligations under a credit agreement with Western Alliance Bank. The balance was used for working capital and was repaid in 2020. At December 31, 2022 and 2021, there were no outstanding balances due under the Loan and Security Agreement with Hitachi. 
+ 
+ 2022 Overview 
+ We grew revenue, added new clients, and increased awareness in 2022. Year-over-year (YOY) revenue was up 26 . Our strategy of bringing together the capabilities of both platforms to serve joint clients was successfully implemented throughout the year. Consequently, we were able to differentiate ourselves even further in the following ways: 
+ 
+ through the development of data warehousing and reporting that serves multi-channel clients; 
+ by conceiving, building and deploying AI based media-mix predictive technology; 
+ by extending the AI targeting technology to cable television; 
+ by incorporating AI based campaign decisions with CampSight; 
+ through the use of AI for content creation within Bonfire Publishing; 
+ through the development of a GUI that allows clients to visualize the AI targeting signals; 
+ by augmenting the AI brain with new concept understanding; 
+ 
+ Gross margins declined in 2022 compared to 2021. We reported gross margins of 60 in 2022 compared to 73.4 in 2021, primarily due to change in revenue mix. 
+ 
+ The IntentKey and CampSight platforms provide a similar service to clients, where ultimately their purpose is the delivery of high converting consumers to maximize return on advertising spend. The distinction between the platforms is mostly related to the channels each platform serves, programmatic for the IntentKey and social and search for CampSight. As the number of joint clients grows, the need to distinguish between the platforms has diminished. 
+ 
+ 15 
+
+Results of Operations For the Years Ended December 31, 2022 2021 Change Change Net Revenue 75,603,745 59,830,688 15,773,057 26.4 Cost of Revenue 30,244,387 15,925,837 14,318,550 89.9 Gross Profit 45,359,358 43,904,851 1,454,507 3.3 
+ 
+ Net Revenue 
+ 
+ We experienced 26 higher YOY revenue for the year ended December 31, 2022 as compared to the same period in 2021. The amount of business served exceeded the prior year across both platforms. Both platforms benefited from the acquisition of new customers, in part as a result of the 2021 agreement with a business development partner discussed in Note 9 to our Consolidated Financial Statements. During 2022, three material clients accounted for 29.1 , 24.1 and 12.9 of our revenue, respectively. In 2021, three separate material clients accounted for 14.3 , 15.6 and 33.0 of our revenue, respectively. In 2021 and throughout 2022 we onboarded several Direct clients that contributed to revenue growth. We have experienced churn in our Direct client base where some Direct clients that were material to 2021 were not served or only partially served in 2022 and some Direct clients that were material to 2022 are no longer being served. Historically, we have been able to replace lost clients with new clients or by expanding our relationship with existing clients, however, we would likely experience a significant decline in revenue and our business operations could be significantly harmed if we are unable to replace lost clients. 
+ 
+ Cost of Revenue 
+ 
+ Cost of revenue is primarily composed of payments to advertising exchanges that provide access to digital inventory where we serve advertisements using information predicted by the IntentKey platform. To a lesser extent, cost of revenue includes payments to website publishers and app developers that host advertisements we serve through CampSight. 
+ 
+ CampSight cost of revenue is relatively small and therefore generates a higher gross margin. In recent quarters, the components of the cost of revenue have shifted, as the IntentKey platform revenue becomes a greater percentage of Net Revenue. As CampSight revenue declines as a percent of total Net Revenue, one should expect total gross margin to decrease. Cost of revenue increased 90 in 2022 compared to the prior year due to this shift in revenue and to the acquisition of new customers as mentioned in the Net Revenue section above. 
+ 
+ Operating Expenses 
+ For the Year Ended December 31, 2022 2021 Change Change Marketing costs 36,921,139 33,096,000 3,825,139 11.6 Compensation 12,463,095 11,381,279 1,081,816 9.5 General and administrative 8,624,998 7,198,213 1,426,785 19.8 Operating expenses 58,009,232 51,675,492 6,333,740 12.3 
+ 
+ Marketing costs consist mostly of traffic acquisition costs and include those expenses required to attract an audience to owned 
+ and operated web properties. Marketing costs year ended December 31, 2022 compared to the same period in 2021 increased as the result of higher revenue. In June 2022, we identified some of the advertising we purchased from a prominent advertising network during the quarter ended June 30, 2022 appeared, according to our technology and assessment, to be comprised of invalid advertising clicks. As a result, we refunded 1.5 million to our clients that were impacted by the invalid clicks and reversed any revenue that would have been recognized during the quarter ended June 30, 2022 related to this invalid traffic. In addition, we provided evidence to the network from which we bought the media and demanded a refund of the spend. The network in question immediately launched an internal investigation. We have held back approximately 1.4 million in net payments due until such time as a satisfactory resolution is determined and have not reflected any offsetting adjustment to the related marketing expense and payables. As a result, we have entered into a mediation process with the advertising network. For the time being, the amount held back is recorded as a marketing expense and an accounts payable. The fraud that was discovered was atypical, sophisticated and not common within the network in question. As of December 31, 2022, no invalid traffic associated from the fraud was detected and the recompense from the advertising network is still pending. 
+ 
+ 16 
+
+Compensation expense was higher for the year ended December 31, 2022 compared to the same time period in 2021 due primarily to higher salaries and benefits. Our total employment, both full and part-time, was 86 at December 31, 2022 compared to 75 at December 31, 2021. 
+ 
+ General and administrative costs were higher for the year ended December 31, 2022 compared to the same time period in 2021 primarily due to higher reserve for doubtful accounts, professional fees, travel and entertainment expense, IT costs and insurance expense. 
+ 
+ Financing expense, net 
+ 
+ Finance expense, net, for the year ended December 31, 2022 was approximately 21 thousand and was primarily due to financing expenses of approximately 59 thousand offset by interest income, net of fees, on marketable securities of approximately 38 thousand. 
+ 
+ Finance expense, net, was approximately 87 thousand for the year ended December 31, 2021 and was primarily composed of financing expense on finance lease obligations, the Hitachi Loan and Security Agreement and our marketable securities. 
+ Other (expense) income, net 
+ 
+ Other income (expense), net, for the year ended December 31, 2022 was an expense of approximately 436 
+ thousand from net realized and unrealized gains and losses discussed in Note 3 to our Consolidated Financial Statements. 
+ 
+ Other income, net, was approximately 257 thousand for the year ended December 31, 2021 and included the reversal of deferred revenue from the contract cancellation of approximately 415 thousand and reversal of an accrued sales reserve of 50 thousand, partially offset by the unrealized losses on trading securities discussed in Note 3 to our Consolidated Financial Statements. 
+
+Liquidity and Capital Resources 
+ 
+ Our principal sources of liquidity are the sale of our common stock and our credit facility with Hitachi described in Note 7 to our Consolidated Financial Statements. On January 19, 2021, we raised 8 million in gross proceeds, before expenses, through the sale of our common stock, and on January 22, 2021, we raised an additional 6.25 million in gross proceeds, before expenses, through sales of our common stock. 
+ 
+ In March 2021, we contracted with an investment management company to manage our cash in excess of current operating needs. We placed 2 million in cash equivalent accounts and 10 million in an interest-bearing account. At December 31, 2022, our funds with the investment management company were approximately 2 million and were invested in cash equivalent accounts and marketable debt and equity securities. A detail of the activity is described in Note 3 to our Consolidated Financial Statements. 
+ 
+ On May 28, 2021, we entered into a Sales Agreement (the "Sales Agreement") with A.G.P./Alliance Global Partners, as sales agent (the "Sales Agent"), pursuant to which we may offer and sell through or to the Sales Agent shares of our common stock (the "ATM Program") up to an aggregate amount of gross proceeds of 35,000,000. During the year ended December 31, 2022, we did not issue any shares of common stock or receive any aggregate proceeds from the ATM Program, and we did not pay any commissions to the Sales Agent. Any shares of common stock offered and sold in the ATM Program will be issued pursuant to our universal shelf registration statement on Form S-3 (the Shelf Registration Statement ). The ATM Program will terminate upon (a) the election of the Sales Agent upon the occurrence of certain adverse events, (b) 10 days advance notice from one party to the other, or (c) the sale of the balance available under our Shelf Registration Statement. Under the terms of the Sales Agreement, the Sales Agent is entitled to a commission at a fixed rate of 3.0 of the gross proceeds from each sale of shares under the Sales Agreement. 
+ 
+ We have focused our resources behind a plan to grow our AI technology, the IntentKey, where we have a technological advantage and higher margins. If we are successful in implementing our plan, we expect to return to a positive cash flow from operations. However, there is no assurance that we will be able to achieve this objective. 
+ 
+ As of December 31, 2022, we have approximately 4.5 million in cash, cash equivalents and short-term marketable securities. Our net working capital was 2.8 million. We have encountered recurring losses and cash outflows from operations, which historically we have funded through equity offerings and debt facilities. For the year ended December 31, 2022 we had a net loss of 13.1 million and net cash outflows from operations of 5.6 million. In addition, our investment in internally developed 
+ 17 
+
+software consists primarily of labor costs which are of a fixed nature and amounted to approximately 1.7 million for the year ended December 31, 2022. Through December 31, 2022, our accumulated deficit was 157.1 million. 
+ 
+ Management plans to support the Company s future operations and capital expenditures primarily through borrowings from the Hitachi credit facility, until reaching profitability. The credit facility is due upon demand and therefore there can be no assurances that sufficient borrowings will be available to support future operations until profitability is reached.We believe our current cash position and credit facility will be sufficient to sustain operations for at least the next twelve months from the date of this filing. If our plan to grow the IntentKey product is unsuccessful, we may need to fund operations through private or public sales of securities, debt financings or partnering/licensing transactions over the long term. 
+ 
+ Cash Flows 
+ 
+ The table below sets forth a summary of our cash flows for the years ended 2022 and 2021: 
+ 
+ 2022 2021 Net cash used in operating activities 
+ (5,573,991) (5,276,257) Net cash used in investing activities 
+ (1,666,125) (4,597,885) Net cash (used in)/provided by financing activities 
+ (304,433) 12,459,441 
+ 
+ Cash Flows - Operating 
+ 
+ Net cash used in operating activities was 5,573,991 during 2022. We reported a net loss of 13,106,539, which included non-cash expenses; depreciation and amortization of 2,598,957, amortization of right of use assets 103,926 and stock-based compensation of 2,350,314; change in operating assets and liabilities was a net use of cash of 753,111 primarily due to an increase in the accounts receivable balance by 3,119,222, partially offset by an increase in the accounts payable balance of 3,200,086. Our terms are such that we generally collect receivables prior to paying trade payables. However, our Media sales arrangements typically have slower payment terms than the terms of related payables. In recent quarters, we expanded our Direct customer business in part by acquiring new customers (see Note 2). These customers typically require longer credit terms than traditional cents per click ("CPC") based customer, in some cases to 120 days and beyond. 
+ 
+ During 2021, cash used in operating activities was 5,276,257. We reported a net loss of 7,600,649 which included the non-cash expenses of depreciation and amortization of 3,143,168, amortization of right of use assets 322,746 and stock-based compensation expenses of 2,179,254. The change in operating assets and liabilities was a net use of cash of 3,077,525. 
+ 
+ Cash Flows - Investing 
+ 
+ Net cash used in investing activities was 1,666,125 and 4,597,885 for 2022 and 2021, respectively. Cash used in investing activities in 2022 and 2021 consisted of capitalized internal development costs and purchase of marketable securities. 
+ 
+ Cash Flows - Financing 
+ 
+ Net cash used in financing was 304,433 during 2022. 
+ 
+ Net cash provided by financing activities was 12,459,441 in 2021, primarily from proceeds from the sale of common stock. 
+
+Critical Accounting Policies and Estimates 
+ 
+ The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amount of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of revenue and expenses during the reported periods. The following disclosure supplements the descriptions of our accounting policies, which are described in Note 2 to our Consolidated Financial Statements regarding significant areas of judgement. The estimates and assumptions that management makes affect the reported amounts of assets, liabilities, net revenues and expenses and disclosure of contingent assets and liabilities. The estimates and assumptions used are based upon management s regular evaluation of the relevant facts and circumstances as of the date of the consolidated financial statements. Actual results may differ from the estimates and assumptions used in preparing the accompanying consolidated financial 
+ 18 
+
+statements, and such differences could be material. A discussion of some of our more significant accounting policies and estimates follows. 
+ 
+ Revenue recognition - Both of our platforms generate revenue from ad placements and clicks on advertisements on websites, some of which we own. We recognize revenue from ad placements and clicks in the period in which they occur. We also recognize revenue from serving impressions when we complete all or a part of an order from an advertiser. The revenue is recognized in the period that the impression is served. Revenues are recognized net of adjustments based on the traffic generated and is billed monthly. We subsequently settle these transactions with our business partners at which time adjustments for invalid traffic may impact the amount collected. Payments to publishers who display advertisements on our behalf and payments to ad exchanges are recognized as cost of revenue. There have been no material changes to our estimates of revenue for the periods presented within this Annual Report on Form 10-K. 
+ 
+ Accounts receivable - Accounts receivable consists of trade receivables from customers. We record accounts receivable at its net realizable value, recognizing an allowance for doubtful accounts based on our best estimate of probable credit losses on our existing accounts receivable. Balances are written off against the allowance after all means of collection have been exhausted and the possibility of recovery is considered remote. 
+ 
+ Goodwill - Goodwill is recorded as the difference, if any, between the aggregate consideration paid for an acquisition and the fair value of the net tangible and intangible assets acquired. We perform an impairment test annually as of December 31, 2022. As a result, we perform our annual goodwill impairment test by comparing the fair value of our reporting unit with its carrying amount. We generally determine the fair value of our reporting unit using the income approach methodology of valuation that includes the undiscounted cash flow method as well as other generally accepted valuation methodologies. If the carrying amount of a reporting unit exceeds the reporting unit s fair value, the amount it exceeds fair value is equivalent to the amount of impairment loss. 
+ 
+ Intangible Assets - We allocate a portion of the purchase price of acquisitions to identifiable intangible assets and we amortize definite-lived assets over their estimated useful lives. We consider our indefinite-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Trade names are not amortized as they are believed to have an indefinite life. Trade names are reviewed annually for impairment under ASC 350. We also acquire intangible assets outside of acquisitions and record them at their fair value and amortize them over their estimated useful lives. We recorded no impairment of intangible assets during 2022 or 2021. 
+ 
+ Capitalized Software Costs - We capitalize certain costs related to internally developed software and amortize these costs using the straight-line method over the estimated useful life of the software, generally two years. We do not sell internally developed software. Certain development costs not meeting the criteria for capitalization, in accordance with ASC 350-40 Internal-Use Software, are expensed as incurred. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+ 
+ Not applicable to a smaller reporting company. 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+ 
+ Our Consolidated Financial Statements begin on page F-1 at the end of this annual report. 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+ 
+ None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES. 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ We maintain disclosure controls and procedures as such term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934. Disclosure controls and procedures are controls and procedures designed to reasonably assure that information required to be disclosed in our reports filed under the Securities Exchange Act of 1934, such as this report, is recorded, processed, summarized and reported within the time periods prescribed by SEC rules and regulations, and to reasonably assure that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. 
+ 19 
+
+Our management does not expect that our disclosure controls will prevent all errors and fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. In addition, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the control. The design of any systems of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of these inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 
+ As required by Rule 13a-15 under the Securities Exchange Act of 1934, as of December 31, 2022, the end of the period covered by this report, our management concluded their evaluation of the effectiveness of the design and operation of our disclosure controls and procedures. As of the evaluation date, our Chief Executive Officer and Chief Financial Officer concluded that we maintain disclosure controls and procedures that are effective in providing reasonable assurance that information required to be disclosed in our reports under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods prescribed by SEC rules and regulations, and that such information is accumulated and communicated to our management to allow timely decisions regarding required disclosure. 
+ 
+ Management s Report on Internal Control Over Financial Reporting 
+ 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Securities Exchange Act of 1934 Rule 13a-15(f). Our internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Our internal control over financial reporting includes those policies and procedures that: 
+ 
+ pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets; 
+ provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and 
+ provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements. 
+ 
+ Because of the inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+ Our management assessed the effectiveness of our internal control over financial reporting as of December 31, 2022. In making this assessment, our management used the criteria set forth by the Committee of Sponsoring Organizations of the 2013 Treadway Commission COSO in Internal Control-Integrated Framework . Based upon this assessment, our Chief Executive Officer and Chief Financial Officer concluded that as of December 31, 2022 our internal controls over financial reporting were effective. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ There were no changes in our internal controls over financial reporting that occurred during our most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM 9B. OTHER INFORMATION . 
+ 
+ None 
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS. 
+ 20 
+
+N/A 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+ 
+ The information required by this Item will be contained in our proxy statement for our 2023 Annual Meeting of Shareholders to be filed on or prior to April 30, 2023 (the Proxy Statement and is incorporated herein by this reference. 
+
+ITEM 11. EXECUTIVE COMPENSATION. 
+ 
+ The information required by this item will be contained in our Proxy Statement and is incorporated herein by this reference. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+ 
+ The information required by this item will be contained in our Proxy Statement and is incorporated herein by this reference. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+ 
+ The information required by this item will be contained in our Proxy Statement and is incorporated herein by this reference. 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+ 
+ The information required by this item will be contained in our Proxy Statement and is incorporated herein by this reference. 
+ 21 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+ 
+ 1. Financial Statements 
+ 
+ The consolidated financial statements and Report of Independent Registered Accounting Firm are listed in the Index to Financial Statements and Schedules beginning on page F-1 and included on pages F-2 through F-21. 
+ 
+ 2. Financial Statement Schedules 
+ 
+ All schedules for which provision is made in the applicable accounting regulations of the SEC are either not required under the related instructions, are not applicable (and therefore have been omitted), or the required disclosures are contained in the consolidated financial statements herein. 
+ 
+ 3. Exhibits (including those incorporated by reference). 
+ 
+ Portions of this exhibit have been omitted pursuant to a request for confidential treatment filed with the Commission under Rule 24b-2. The omitted material has been filed separately with the Commission. Certain portions of this exhibit have also been redacted pursuant to Item 601(b)(10)(iv) of Regulation S-K. The omitted information is (i) not material and (ii) would likely cause competitive harm to Inuvo if publicly disclosed. The location of the omitted confidential information is indicated in the exhibit with asterisks ). 
+ No. Exhibit Description Form Date Filed Number Filed or Furnished Herewith 2.1 Agreement and Plan of Merger dated June 5, 2009 between Inuvo, Inc. and Kowabunga! Inc. 
+ 8-K 7/24/09 2.4 2.2 Agreement and Plan of Merger dated October 16, 2011 between Inuvo, Inc., Anhinga Merger Subsidiary, Inc. and Vertro, Inc. 
+ 8-K 10/17/11 2.5 3(i).1 Articles of Incorporation, as amended 
+ 10-KSB 3/1/04 4 3(i).2 Amended to Articles of Incorporation filed March 14, 2005 
+ 10-KSB 3/31/06 3.2 3(i).3 Articles of Merger between Inuvo, Inc. and Kowabunga! Inc. 
+ 8-K 7/24/09 3.4 3(i).4 Certificate of Change Filed Pursuant to NRS 78.209 
+ 8-K 12/10/10 3(i).4 3(i).5 Certificate of Merger as filed with the Secretary of State of Nevada on February 29, 2012 
+ 10-K 3/29/12 3(i).5 3(i).6 Articles of Amendment to Amended Articles of Incorporation as filed on February 29, 2012 
+ 10-K 3/29/12 3(i).6 3(i).7 Articles of Amendment to Articles of Incorporation as filed on October 31, 2019 
+ 10-Q 5/15/20 3(i).7 3(i).8 Certificate of Validation of Amendment to Amended Articles of Incorporation as filed October 16, 2020 
+ 10-Q 11/9/20 3(i)8 3(i).9 Articles of Amendment to Articles of Incorporation as filed January 7, 2021 
+ 10-K 2/11/21 3(i).9 3(i).10 Articles of Amendment to Articles of Incorporation as filed on August 19, 2021 
+
+10-Q 11/12/21 3(i).10 3(ii).1 Amended and Restated By-Laws 
+ 10-K 3/31/10 3(ii).4 3(ii).2 Bylaw amendment adopted February 29, 2012 
+ 8-K 3/6/12 3(ii).1 4.1 Description of Securities 
+ 10-K 2/11/21 4.1 10.1 Google Services Agreement effective March 1, 2017 by and between Vertro, Inc. and Google Inc. 
+ 8-K/A 6/7/17 10.27 10.2 Google Services Agreement by and between Vertro, Inc. and Google LLC, dated as of February 24, 2021 and effective as of March 1, 2021 
+ 8-K 3/1/21 10.1 10.3 Amendment Number One to Google Services Agreement effective March 1, 2019 
+
+10-K 3/15/19 10.19 10.4 Yahoo! Publisher Network Contract, dated April 4, 2009, as amended with Amendment No. 1, Amendment No. 2, Amendment No. 3, Amendment No. 4, Amendment No. 5 and Amendment No. 6 
+ 10-Q 5/15/12 10.1 10.5 Yahoo! Publisher Network Contract, dated April 4, 2009, as amended. 
+ 10-Q/A 12/28/12 10.1 10.6 Amendment No. 8 to Yahoo! Publisher Network Contract effective as of September 1, 2013, executed and delivered October 10, 2013 
+ 10-Q/A 1/6/14 10.28 10.7 Amendment #11 to Yahoo! Publisher Network Contract, effective January 15, 2016, executed and delivered January 26, 2015 
+ 10-K 2/12/16 10.24 10.8 Amendment #12 to Yahoo! Publisher Network Contract, effective March 2, 2016 
+ 10-Q 4/27/16 10.25 10.9 Amendment #14 to Yahoo! Publisher Contract dated February 28, 2018 
+ 8-K 3/6/18 10.1 10.10 Amendment #15 to Yahoo! Publisher Contract dated May 9, 2018 
+ 8-K 5/15/18 10.1 10.11 Amendment # 16 dated August 28, 2018 to Yahoo! Publisher Network Contract 
+ 10-Q 11/7/18 10.1 
+ 22 
+
+10.12 Amendment #18 dated January 24, 2019 to Yahoo! Publisher Contract 
+ 10-K 3/15/19 10.6 10.13 Amendment #28 to the Yahoo! Publisher Network Contract #1-19868214, dated as of November 11, 2020 
+ 8-K 11/16/20 10.1 10.14 Form of Indemnification Agreement with Directors of Inuvo, Inc. 
+ 10-Q 11/7/18 10.5 10.15 2017 Equity Compensation Plan 
+ DEF14A 4/28/17 A 10.16 Amendment No. 1 to the 2017 Equity Compensation Plan 
+ DEF14 9/3/19 B 10.17 Amendment No. 2 to the 2017 Equity Compensation Plan 
+ DEF14 5/2/22 A 10.18 2017 Equity Compensation Plan Non-Qualified Stock Option Agreement 
+ 10-Q 8/15/22 10.2 10.19 Quick Action Closing Fund Grant Agreement, dated January 25, 2013, with the Arkansas Economic Development Commission 
+ 10-K 3/13/13 10.23 10.20 Grant Reimbursement Agreement, dated January 25, 2013, with the Arkansas Economic Development Commission.. 
+ 10-K 3/13/13 10.24 10.21 Amendment to Grant Reimbursement Agreement, dated March 2021, with the Arkansas Economic Development Commission. 
+ 10-K 3/17/21 10.21 10.22 Employment Agreement dated March 1, 2012 between Inuvo, Inc. and Richard K. Howe 
+ 8-K 3/6/12 10.2 10.23 Employment Agreement dated March 1, 2012 between Inuvo, Inc. and Wallace D. Ruiz 
+ 8-K 3/6/12 10.4 10.24 Employment Agreement dated March 1, 2012 between Inuvo, Inc. and John B. Pisaris 
+ 8-K 3/6/12 10.5 10.25 Loan and Security Agreement dated February 28, 2020 effective March 12, 2020 by and between Inuvo, Inc. and its subsidiaries and Hitachi Capital America Corp. 
+ 8-K 3/17/20 10.1 10.26 Form of Insider Offering Subscription Agreement 
+ 8-K 3/20/20 10.1 10.27 Form of Subscription Agreement 
+ 8-K 4/01/20 10.1 10.28 2017 Equity Compensation Plan Restricted Stock Unit Agreement 
+ 10-K 2/11/21 10.29 10.29 Sales Agreement, dated May 28, 2021 by and between A.G.P./Alliance Global Partners and Inuvo, Inc. 
+ 8-K 5/28/21 1.1 16.1 Letter of Mayer Hoffman McCann P.C. dated November 23, 2021 
+ 8-K 11/24/21 16.1 21.1 Subsidiaries of the Registrant 
+ 10-K 2/11/21 21.1 23.1 Consent of EisnerAmper LLP , PCAOB FIRM ID 
+ Filed 31.1 Rule 13a-14(a)/15d-14(a) certification of Chief Executive Officer 
+ Filed 31.2 Rule 13a-14(Rule 13a-14(a)/15d-14(a) certification of Chief Financial Officer)/15d-14(a) certification of Chief Financial Officer 
+ Filed 32.1 Section 1350 certification of Chief Executive Officer 
+ Filed 32.2 Section 1350 certification of Chief Financial Officer 
+ Filed 101.INS XBRL Instance Document Filed 101.SCH XBRL Taxonomy Extension Schema Document Filed 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document Filed 101.DEF XBRL Taxonomy Extension Definition Linkbase Document Filed 101.LAB XBRL Taxonomy Extension Label Linkbase Document Filed 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document Filed 104 The cover page for Inuvo, Inc. s Annual Report on Form 10-K for the year ended December 31, 2022, formatted in Inline XBRL (included within Exhibit 101 attachments). Filed The Company has omitted schedules and similar attachments to the subject agreement pursuant to Item 601(b) of Regulation S-K. The Company will furnish a copy of any omitted schedule or similar attachment to the SEC upon request. 
+
+23 
+
+Item 16. Form 10-K Summary 
+ 
+ The Company has elected not to provide this optional information. 
+
+24 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ Inuvo, Inc. March 9, 2023 By: /s/ Wallace D. Ruiz Wallace D. Ruiz, Chief Financial Officer 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+ Signature Title Date /s/ Richard K. Howe Chairman of the Board of Directors, Chief Executive Officer, and principal executive officer March 9, 2023 Richard K. Howe /s/ Wallace D. Ruiz Chief Financial Officer, principal financial and accounting officer March 9, 2023 Wallace D. Ruiz /s/ Jonathon Bond Director March 9, 2023 Jonathon Bond /s/ Gordon J. Cameron Director March 9, 2023 Gordon J. Cameron /s/ Kenneth Lee Director March 9, 2023 Kenneth Lee /s/ Charles D. Morgan Director March 9, 2023 Charles D. Morgan 
+ 
+ 25 
+
+INUVO, INC. 
+ CONSOLIDATED FINANCIAL STATEMENTS 
+ FOR THE YEARS ENDED DECEMBER 31, 2022 AND 2021 
+ INDEX TO AUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+ CONTENTS Report of Independent Registered Public Accounting Firm 1 
+ Consolidated Financial Statements: Consolidated Balance Sheets 4 
+ Consolidated Statements of Operations and Comprehensive Loss 6 
+ Consolidated Statements of Stockholders Equity 7 
+ Consolidated Statements of Cash Flows 8 
+ Notes to Consolidated Financial Statements 9 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ To the Board of Directors and Stockholders of Inuvo, Inc.: 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheets of Inuvo, Inc. (the Company as of December 31, 2022 and 2021, and the related consolidated statements of operations, comprehensive income, stockholders equity, and cash flows for each of the years then ended, and the related notes (collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the each of the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ Critical Audit Matters 
+ 
+ The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matters or on the accounts or disclosures to which it relates. 
+ 
+ Revenue recognition 
+ 
+ As described in Note 2 to the financial statements, the Company recognizes revenue when services are provided to a customer in an amount that reflects the consideration the Company expects to receive in exchange for those services. The Company evaluated the need to perform a reassessment of the consideration it expects to receive from a customer representing approximately 18 million in revenue for the year ended December 31, 2022 and approximately 6.7 million as of December 31, 2022. 
+ 
+ We have identified the Company s evaluation of the need to perform a reassessment of collectability of amounts due from a customer during the performance of services as a critical audit matter. This in turn led to a high degree of auditor judgement, subjectivity and effort in performing procedures for evaluating management s analysis and conclusion of whether or not changes in facts and circumstances of the customer were so significant to require reassessment of collectability. 
+ 
+ Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the financial statements. These procedures included gaining an understanding of the controls relating to revenue 
+ F-1 
+
+recognition and gaining an understanding of management s process for monitoring and evaluating the collectability of amounts under contracts with customers. We also tested management s judgement that a reassessment of collectability was not required by evaluating the results from accounts receivable confirmation procedures, communications between the customer and management, cash receipts received by the company during and subsequent to the customer relationship period, and limited inquiry of the underlying customer financial information. 
+ 
+ Goodwill impairment analysis 
+ 
+ As described in Note 2 to financial statements, the Company performs an impairment test of Goodwill annually by comparing fair value of the Company s reporting unit to its carrying value. Fair value is determined using various accepted valuation methodologies. These valuation methodologies utilize growth rates, market multiples and management projections of financial information, which involved significant assumptions and judgment from management relative to expected performance of the Company. Fair value of the reporting unit was estimated using a market approach that incorporated guideline public company multiples and normalized forecasted operating results for the reporting unit. Management s assumptions in estimating fair value include projected revenues, gross margins, marketing, selling and administrative expenses, capital expenditures, earnings, working capital assumptions, growth rates and market multiples. The gross balance of goodwill was 9.8 million as of December 31, 2022 and no impairments were identified as a result of the Company s impairment analysis. 
+ 
+ We have identified the goodwill impairment analysis as a critical audit matter due to the significant judgment by management when developing the fair value estimate of their reporting unit. This in turn led to a high degree of auditor judgment, subjectivity, and effort in performing procedures for evaluating management s significant assumptions related to projected revenue, gross margins, marketing, selling and administrative expenses, capital expenditures, earnings, working capital assumptions, growth rates and market multiples; and audit effort involved the use of professionals with specialized skill and knowledge. 
+ 
+ Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the financial statements. These procedures included gaining an understanding of the controls relating to management s goodwill impairment analysis, including controls over the valuation of its reporting unit, testing management s process for developing the fair value estimate of its reporting unit, evaluating whether the market approach for valuation was appropriate, testing the completeness and accuracy of underlying data used in management s estimates, and evaluating the reasonableness of significant assumptions used by management related to the projected financial information, growth rates and market multiples of its reporting unit. Evaluating the reasonableness of management s significant assumptions involved performing inquiries of management, considering current economic conditions, industry trends, and recent operating results of the reporting unit and determining whether the assumptions used by management were consistent with evidence obtained in other areas of the audit. Professionals with specialized skill and knowledge were used to assist in the evaluation of the Company s valuation models utilized and for the evaluation of the reasonableness of management s significant assumptions related to working capital assumption, growth rates, and market multiples, as applicable. 
+ 
+ Liquidity 
+ 
+ As discussed in Note 1 to the consolidated financial statements, the Company has incurred a net loss of 13.1 million and net cash outflows from operations of 5.6 million for the year ended December 31, 2022. At December 31, 2022, the Company believes its cash and cash equivalents and marketable investment securities will be sufficient to fund the Company s planned operations for at least a year beyond the date of the issuance of the consolidated financial statements. 
+ 
+ We identified liquidity as a critical audit matter due to the subjective judgments required of management in developing its business plan with forecasted cash flows and the contemplation of additional long-term financing arrangements to meet its liquidity needs for a year beyond the date of the issuance of the consolidated financial statements. This in turn led to a high degree of auditor subjectivity and judgment to evaluate the evidence supporting the cash flow forecasts and assess the reasonableness of the estimates and assumptions in supporting the liquidity conclusion. Additionally, the relevance of management's liquidity conclusion to the users of the consolidated financial statements also impacted our assessment of these circumstances as a critical audit matter. 
+ 
+ Addressing the matter involved performing procedures and evaluating audit evidence in connection with our overall opinion on the financial statements. The procedures we performed included testing the existence of the total liquid assets at December 31, 2022; evaluating the reasonableness of the amounts and timing of revenue forecasted; evaluating the reasonableness of the amounts and timing of payments of forecasted cost of revenue, marketing costs, compensation and general and administrative expenses; reconsidering certain prior management forecasted amounts to evaluate whether those forecasted amounts approximated the ultimate actual results; understanding the nature and the terms and conditions of existing and planned 
+ F-2 
+
+financing arrangements, and evaluating the adequacy of the Company s disclosure of these circumstances in the consolidated financial statements. 
+ 
+ /s/ 
+ 
+ We have served as the Company s auditor since 2021. 
+ 
+ March 9, 2023 
+
+F-3 
+
+Inuvo, Inc. 
+ Consolidated Balance Sheets 
+ For the Years Ended December 31, 2022 2021 Assets Current assets Cash and cash equivalents Marketable securities - short term Accounts receivable, net of allowance for doubtful accounts of and , respectively 
+ Prepaid expenses and other current assets Total current assets Property and equipment, net Other assets Right of use assets - operating lease Right of use assets - finance lease Referral and support services agreement advance Marketable securities - long term Intangible assets, net of accumulated amortization Goodwill Other assets Total other assets Total assets Liabilities and Stockholders Equity Current liabilities Accounts payable Accrued expenses and other current liabilities Lease liability - operating lease Lease liability - finance lease Total current liabilities Long-term liabilities Deferred tax liability Lease liability - operating lease Lease liability - finance lease Other long-term liabilities Total long-term liabilities Stockholders equity Preferred stock, par value: 
+ Authorized shares - - issued and outstanding 
+ Common stock, par value: 
+ Authorized shares ; issued and outstanding shares and respectively; 
+ Additional paid-in capital Accumulated other comprehensive income ) Accumulated deficit ) ) Total stockholders' equity Total liabilities and stockholders' equity 
+ 
+ F-4 
+
+See accompanying notes to the consolidated financial statements. 
+ F-5 
+
+Inuvo, Inc. 
+ Consolidated Statements of Operations and Comprehensive Loss 
+ For the Years Ended December 31, 2022 2021 Net revenue Cost of revenue Gross profit Operating expenses: Marketing costs Compensation General and administrative Total operating expenses Operating loss ) ) Financing, other ) ) Other (expense)/income, net ) Net loss ) ) Other comprehensive income Unrealized (loss)/gain on marketable securities ) Comprehensive loss ) ) Per common share data: Basic and diluted Net loss Weighted average shares: Basic Diluted 
+ 
+ See accompanying notes to the consolidated financial statements. 
+ F-6 
+
+Inuvo, Inc. 
+ Consolidated Statements of Stockholders' Equity 
+ For the Years Ended December 31, 2022 and 2021 Common Stock Additional Paid in Capital 
+ Accumulated Deficit Accumulated Other Comprehensive Income Total Shares Stock Balances as of December 31, 2020 ) Net loss ) ) Unrealized gain on debt securities Stock-based compensation Proceeds from exercise of options Stock issued for vested restricted stock awards ) Sale of common stock, net of issuance cost Shares withheld for taxes on vested restricted stock ) ) Stock warrants issued for referral agreement Balances as of December 31, 2021 ) Net loss ) ) Unrealized loss on debt securities ) ) Stock-based compensation Stock issued for vested restricted stock awards ) Shares withheld for taxes on vested restricted stock ) ) Stock warrants issued for referral agreement Balances as of December 31, 2022 ) ) 
+
+See accompanying notes to the consolidated financial statements. 
+
+F-7 
+
+Inuvo, Inc. 
+ Consolidated Statements of Cash Flows 
+ For the Years Ended December 31, 2022 and 2021 2022 2021 Operating activities: Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: Depreciation and amortization Amortization of Right of Use Assets-Finance Leases Stock based compensation Loss on marketable securities Amortization of financing fees Provision for doubtful accounts Stock warrant expense Derecognition of contingencies ) ) Third party rights agreement termination ) Change in operating assets and liabilities: Accounts receivable ) ) Referral and support services agreement advance ) Prepaid expenses, unbilled revenue and other assets ) Accounts payable Accrued expenses and other liabilities ) Net cash used in operating activities ) ) Investing activities: Purchases of equipment and capitalized development costs ) ) Purchase of marketable securities ) ) Proceeds from the sale of marketable securities Net cash used in investing activities ) ) Financing activities: Proceeds from sale of common stock, net of expenses Payments on finance/capital leases ) ) Net taxes paid on RSU grants exercised ) ) Proceeds from exercise of options SBA loan repayment ) Net cash (used in)/provided by financing activities 
+ ) Net change cash ) Cash, beginning of year Cash, end of year Supplemental information: Interest paid Non-cash investing and financing activities: Assets purchased under finance lease obligations Assets purchased under operating lease obligations 
+ 
+ See accompanying notes to the consolidated financial statements. 
+ F-8 
+
+Inuvo, Inc. 
+ Notes to Consolidated Financial Statements 
+ For the Years Ended December 31, 2022 and 2021 
+
+Note 1 
+ issued and pending patents. 
+ 
+ Liquidity 
+ 
+ Our principal sources of liquidity are the sale of our common stock and our credit facility with Hitachi described in Note 7 to 
+ our Consolidated Financial Statements. On January 19, 2021, we raised million in gross proceeds, before expenses, through the sale of our common stock, and on January 22, 2021, we raised an additional million in gross proceeds, before expenses, through sales of our common stock. 
+ 
+ In March 2021, we contracted with an investment management company to manage our cash in excess of current operating 
+ needs. We placed million in cash equivalent accounts and million in an interest-bearing account. At December 31, 2022, 
+ our funds with the investment management company were approximately million and were invested in cash equivalent accounts and marketable debt and equity securities. A detail of the activity is described in Note 3 to our Consolidated Financial Statements. 
+ 
+ On May 28, 2021, we entered into a Sales Agreement (the "Sales Agreement") with A.G.P./Alliance Global Partners, as sales agent (the "Sales Agent"), pursuant to which we may offer and sell through or to the Sales Agent shares of our common stock (the "ATM Program") up to an aggregate amount of gross proceeds of . During the year ended December 31, 2022, we did not issue any shares of common stock or receive any aggregate proceeds from the ATM Program, and we did not pay any commissions to the Sales Agent. Any shares of common stock offered and sold in the ATM Program will be issued pursuant to our universal shelf registration statement on Form S-3 (the Shelf Registration Statement ). The ATM Program will terminate upon (a) the election of the Sales Agent upon the occurrence of certain adverse events, (b) days advance notice from one party to the other, or (c) the sale of the balance available under our Shelf Registration Statement. Under the terms of the Sales Agreement, the Sales Agent is entitled to a commission at a fixed rate of of the gross proceeds from each sale of shares under the Sales Agreement. 
+ 
+ We have focused our resources behind a plan to grow our AI technology, the IntentKey, where we have a technological advantage and higher margins. If we are successful in implementing our plan, we expect to return to a positive cash flow from operations. However, there is no assurance that we will be able to achieve this objective. 
+ 
+ F-9 
+
+million in cash, cash equivalents and short-term marketable securities. Our net working capital was million. We have encountered recurring losses and cash outflows from operations, which historically we have funded through equity offerings and debt facilities. For the year ended December 31, 2022 we had a net loss of million and net cash outflows from operations of million. In addition, our investment in internally developed software consists primarily of labor costs which are of a fixed nature and amounted to approximately million for the year ended December 31, 2022. Through December 31, 2022, our accumulated deficit was million. 
+ 
+ Management plans to support the Company s future operations and capital expenditures primarily through borrowings from the Hitachi credit facility, until reaching profitability. The credit facility is due upon demand and therefore there can be no assurances that sufficient borrowings will be available to support future operations until profitability is reached.We believe our current cash position and credit facility will be sufficient to sustain operations for at least the next twelve months from the date of this filing. If our plan to grow the IntentKey product is unsuccessful, we may need to fund operations through private or public sales of securities, debt financings or partnering/licensing transactions over the long term. 
+
+Note 2 
+
+Indirect customers Consulting Services and other Total 
+
+F-10 
+
+for equipment, five to for furniture and fixtures and two to for software. Leasehold improvements are amortized over the lesser of the estimated useful life of the asset or the remaining term of the lease. Depreciation expense was and , respectively, for the years ended December 31, 2022 and 2021. 
+ 
+ . We do not sell internally developed software. Certain development costs not meeting the criteria for capitalization, in accordance with ASC 350-40 Internal-Use Software , are expensed as incurred. 
+
+We determined there was impairment of goodwill during 2022 and 2021. 
+ 
+ See Note 6, Intangible Assets and Goodwill, for more information. 
+
+We recorded impairment of intangible assets during 2022 or 2021. 
+ 
+ See Note 6, Intangible Assets and Goodwill, for more information. 
+
+We have incurred penalties and interest for the years ended December 31, 2022 and 2021 
+ 
+ F-11 
+
+See Note 11, Stock-Based Compensation, for further details on our stock awards. 
+
+As of December 31, 2022, there were employees in Arkansas, employees under the required . As such, we recorded a contingent liability . 
+ 
+ As of December 31, 2021, there were employees in Arkansas, employees under the required . As such, we recorded a contingent liability . 
+
+reportable segment. 
+
+Customer concentrations - In 2022, we had three individual customers with revenue concentration greater than 10 of our total revenue combining for of the total revenue. At December 31, 2022, we had two customers greater than 10 of our total accounts receivable balance combing for a total of . 
+ 
+ In 2021, we had three individual customers with revenue concentration greater than 10 of our total revenue combining for of the total revenue. At December 31, 2021, we had four customers greater than 10 of our total accounts receivable balance combining for a total of . 
+ F-12 
+
+Note 3 
+
+F-13 
+
+Equity securities Cash equivalents Total Investments at Fair Value 
+ 
+ As of December 31, 2022 As of December 31, 2021 Cost Unrealized Gain (Loss) Fair Value Cost Unrealized Gain (Loss) Fair Value Marketable securities Debt securities ) Equity securities ) ) Total marketable securities 
+ 
+ The realized loss on the securities as of December 31, 2022 was approximately . 
+
+N ote 4 
+ Provision for bad debts Charge-offs ) ) Recoveries Balance at the end of the year 
+ 
+ During 2022, we expanded our Direct customer business by due in part by acquiring new customers (see Note 2). These customers typically require longer credit terms than traditional CPC based customers. One of these Direct customers was a significant portion, of our total revenue, and has stretched its payments to 120 days and beyond. Though the customer is paying amounts due and has significantly reduced the balance since year end, management believed it to be prudent to increase the allowance for doubtful accounts. 
+ 
+ F-14 
+
+Note 5 
+ Equipment Capitalized labor Leasehold improvements Subtotal Less: accumulated depreciation and amortization ) ) Total 
+ 
+ Depreciation expense was and , respectively, for the years ended December 31, 2022 and 2021. 
+
+Note 6 
+ years ) Technology years ) Customer list, ReTargeter years ) Customer list, all other years ) Brand name, ReTargeter years ) Customer relationships years ) Trade names, web properties - Intangible assets classified as long-term ) Goodwill, total 
+
+The following is a schedule of intangible assets and goodwill as of December 31, 2021: 
+ Term Carrying Value Accumulated Amortization Net Carrying Value 2021 Amortization Customer list, Google years ) Technology years ) Customer list, ReTargeter years ) Customer list, all other years ) Brand name, ReTargeter years ) Customer relationships years ) Tradenames, web properties (1) - Intangible assets classified as long-term ) Goodwill, total 
+ ___________ 
+
+F-15 
+
+2024 2025 2026 2027 Thereafter Total 
+
+Note 7 - 
+ 
+ line of credit commitment. We are permitted to borrow (i) of the aggregate Eligible Accounts Receivable, plus (i) the lesser of of the aggregate Unbilled Accounts Receivable or of the amount available to borrow under (i), up to the maximum credit commitment. The amount available to borrow as of December 31, 2022 was approximately million. The interest rate of in excess of the Wall Street Journal Prime Rate, with a minimum rate of per annum, on outstanding amounts. The principal and all accrued but unpaid interest are due on demand. 
+ 
+ We agreed to pay Hitachi a commitment fee of , with one half due upon the execution of the agreement and the balance due thereafter. Thereafter, we are obligated to pay Hitachi a commitment fee of annually. We are also obligated to pay Hitachi a quarterly service fee of on the monthly unused amount of the maximum credit line. In addition to a document fee we have paid to Hitachi, if we had exited our relationship with Hitachi before March 1, 2022, we were obligated to pay Hitachi an exit fee of . On March 12, 2020, we drew under this agreement, using of these proceeds to satisfy existing debt obligations and the balance was used for working capital. At December 31, 2022 and 2021, there were outstanding balances due under the Loan and Security Agreement. 
+
+Note 8 
+ 
+ Accrued expenses and other Accrued commissions and payroll Arkansas grant contingency Accrued taxes, current portion Total 
+
+Note 9 - 
+ 
+ million with recorded as a current asset. The advance is being amortized as marketing expenses over five years. As of December 31, 2022, has been amortized and the balance is . As part of the agreement, we granted a warrant exercisable into shares of our common stock, which vests over upon achieving certain performance metrics (see Note 12 - Stockholders' Equity). Additionally, we agreed to pay quarterly support fees upon reaching certain levels of operational activity. In April 2022, we agreed to Amendment No. 2 to the agreement. The amendment replaced the quarterly support fees with a commission on quarterly cumulative programmatic revenue. The amendment also revised the cumulative target media spend and the associated commission. The total amount of commission recognized for the year ended December 31, 2022 was approximately . 
+
+Note 10 - 
+ 
+ F-16 
+
+Deferred tax benefit Total tax benefit 
+ 
+ State income tax rate, net of federal benefit Permanent differences Change in valuation allowance 
+ 
+ Deferred Income Taxes 
+ 
+ Deferred income taxes are the result of temporary differences between book and tax basis of certain assets and liabilities, timing of income and expense recognition of certain items and net operating loss carry-forwards. 
+ 
+ When required, we record a liability for unrecognized tax positions, defined as the aggregate tax effect of differences between positions taken on tax returns and the benefits recognized in the financial statements. Tax positions are measured at the largest amount of benefit that is greater than fifty percent likely of being realized upon ultimate settlement. No tax benefits are recognized for positions that do not meet this threshold. We have no uncertain tax positions that require the us to record a liability. Our federal income tax returns are subject to examination by the IRS, generally for three years after they are filed. 
+ 
+ We assess temporary differences resulting from different treatments of items for tax and accounting purposes. These differences result in deferred tax assets and liabilities, which are recorded in the consolidated balance sheets. We evaluate the realizability of our deferred tax assets on a regular basis, an exercise that requires significant judgment. In the course of this evaluation we considered our recent history of tax losses, the economic conditions in which we operate, recent organizational changes and our forecasts and projections. We believe it is more likely than not that essentially none of our deferred tax assets will be realized, and we have recorded a valuation allowance for a significant portion of the net deferred tax assets that may not be realized as of December 31, 2022 and 2021. 
+ 
+ F-17 
+
+Intangible assets Accrued expense Deferred rent Allowance for doubtful accounts Stock compensation expense Unrecognized Income/Loss Other Subtotal Less valuation allowance ) ) Total Deferred tax liabilities: Intangible assets and property and equipment Other ) Total Total deferred tax liabilities ) ) 
+ 
+ The net operating losses amounted to approximately and expire beginning 2023 through 2037. Included in the federal net operating loss carryforwards are million generated from 2018 to 2022 that will not expire and are limited to offset 80 of our taxable income for years beginning after December 31, 2020. 
+ 
+ As of December 31, 2022, the Company has a net deferred tax liability of . The net deferred tax liability is due to goodwill that is amortized for tax purposes and a trade name that has an indefinite life, of which both are not being amortized for book purposes. 
+ 
+ The deferred tax liability relating to goodwill can only be offset up to 80 by NOLs generated in tax years ending December 31, 2018 and beyond, as well as NOLs available after consideration of IRC Section 382 limitation. The remaining portion that cannot be used remains as a liability. In future years, if the deferred tax assets are determined by management to be more likely than not to be realized, the recognized tax benefits relating to the reversal of the valuation allowance as of December 31, 2022 will be recorded. 
+ 
+ Under the provisions of the Internal Revenue Code, the net operating loss carryforwards are subject to review and possible adjustment by the Internal Revenue Service and state tax authorities. Net operating loss carryforwards may become subject to an annual limitation in the event of certain cumulative changes in the ownership interest of significant shareholders over a three-year period in excess of 50 , as defined under Sections 382 and 383 of the Internal Revenue Code, respectively, as well as similar state provisions. This could limit the amount of tax attributes that can be utilized annually to offset future taxable income or tax liabilities. The amount of the annual limitation is determined based on the value of the Company immediately prior to the ownership change. Subsequent ownership changes may further affect the limitation in future years. The Company has not conducted a study to assess whether a change of control has occurred or whether there have been multiple changes of control since inception due to the significant complexity and cost associated with such a study. If the Company has experienced a change of control, as defined by Section 382, at any time since inception, utilization of the net operating loss carryforwards would be subject to an annual limitation under Section 382, which is determined by first multiplying the value of the Company s stock at the time of the ownership change by the applicable long-term tax-exempt rate, and then could be subject to additional adjustments, as required. Any limitation may result in expiration of a portion of the net operating loss carryforwards before utilization. Further, until a study is completed by the Company and any limitation is known, no amounts are being presented as an uncertain tax position. 
+ 
+ The Company remains open to examination by the Internal Revenue Service for the years ending December 31, 2018 through 2021. Carryforward attributes generated in all years since inception remain subject to adjustment. Our state income tax returns are open to audit under the statute of limitations for the same periods. 
+
+F-18 
+
+Note 11 - 
+ and/or achieving certain financial targets. 
+ 
+ On January 1, 2022, in accordance with the plan provisions, the number of shares available for issuance under the 2017 ECP was increased by shares. On June 16, 2022, our stockholders approved an amendment to the 2017 ECP increasing the number of shares of our common stock reserved for issuance by shares. As of December 31, 2022, the total number of shares of our common stock reserved for issuance under the 2017 ECP was . 
+ 
+ Compensation Expense 
+ 
+ We recorded stock-based compensation expense for all equity incentive plans of and for the years ended December 31, 2022 and 2021, respectively. Total compensation cost not yet recognized at December 31, 2022 was to be recognized over a weighted-average recognition period of . 
+
+The fair value of restricted stock units is determined using market value of the common stock on the date of the grant. The fair value of stock options is determined using the Black-Scholes-Merton valuation model. The use of this valuation model involves assumptions that are judgmental and highly sensitive in the determination of compensation expense and include the expected life of the option, stock price volatility, risk-free interest rate, dividend yield, exercise price, and forfeiture rate. Forfeitures are estimated at the time of valuation and reduce expense ratably over the vesting period. The forfeiture rate, which is estimated at a weighted average of of unvested options outstanding, is adjusted periodically based on the extent to which actual forfeitures differ, or are expected to differ, from the previous estimate. 
+ 
+ Stock options, granted Stock options exercised Stock options canceled Outstanding, end of year Exercisable, end of year 
+ 
+ Expected volatility is based on the historical volatility of our common stock over the period commensurate with or longer than the expected life of the options. The expected life of the options is based on the vesting schedule of the option in relation to the overall term of the option. The risk free interest rate is based on the market yield of the U.S. Treasury Bill with a term equal to the expected term of the option awarded. We do not anticipate paying any dividends so the dividend yield in the model is . 
+
+F-19 
+
+Market Price Volatility Dividend Yield Expected Life years years Risk Free Rate 
+ Granted Vested ) Forfeited ) Outstanding, end of year 
+
+Note 12 
+ 
+ million in gross proceeds, before expenses, through the sale of our common stock, and on January 22, 2021, we raised million in gross proceeds, before expenses, through sales of our common stock. 
+ 
+ Warrants 
+ 
+ On September 17, 2021, we signed an agreement with a marketing platform and consulting company to provide referral and support services to us for a period of (see Note 9 - Commitments). As part of that agreement, we granted a warrant exercisable into shares of our common stock, which vests in two tranches when certain performance metrics are achieved. The warrant was valued using the Black Scholes option pricing model at a total of based on a term, an implied volatility of , a risk-free equivalent yield of , and a stock price of . The warrant is classified as equity and will be expensed on a ratable basis over the vesting period of each tranche. On August 31, 2022, shares vested in accordance with the contracted performance criteria. For the twelve months ended December 31, 2022, we recognized approximately thousand in expense. 
+ 
+ Earnings per Share 
+
+Note 13 
+ 
+ of the employee's annual salary. The matching contribution for the years ended 2022 and 2021 was and , respectively. 
+
+Note 14 
+ 
+ to , and often include one or more options to renew or in the case of equipment rental, to 
+ purchase the equipment. These operating and finance leases are listed as separate line items on our consolidated balance sheets 
+ F-20 
+
+and , and and , respectively. 
+ 
+ For the years-ended December 31, 2022 and 2021, we recorded and in amortization expense related to finance leases. 
+ 
+ Because the rate implicit in each lease is not readily determinable, we use our incremental borrowing rate to 
+ determine the present value of the lease payments. 
+ 
+ Weighted-average remaining lease term years Weighted-average discount rate 
+ 
+ 2024 2025 2026 Less imputed interest ) Total lease liabilities 
+ 
+ Weighted-average remaining lease term years Weighted-average discount rate 
+ 2024 2025 Less imputed interest ) Total lease liabilities 
+
+Note 15 - 
+ 
+ and as of December 31, 2022 and 2021, respectively. The fees paid to the financial advisor were not material. 
+ 
+ F-21 
+
+million and million for the years ended December 31, 2022 and 2021, respectively, and accounts receivable was approximately million as of December 31, 2022. 
+
+Note 16 - 
+ 
+ line of credit commitment. We are permitted to borrow up to of the aggregate Eligible Accounts Receivable (which may increase to if certain conditions are met), up to the maximum credit commitment of . 
+ 
+ We will pay Hitachi monthly interest at the rate of in excess of the Wall Street Journal Prime Rate. The principal and all accrued but unpaid interest are due on demand. In the event of a default under the terms of the Loan and Security Agreement, the interest rate increases to greater than the interest rate in effect from time to time prior to a default. The Agreement contains certain affirmative and negative covenants to which we are also subject. 
+ 
+ We agreed to pay MHCA an amendment fee of on issuance of the Agreement, and thereafter an annual commitment fee of . We are also obligated to pay MHCA a quarterly service fee of on the monthly unused amount of the maximum credit line. If we should repay the amounts due under the Agreement (i) before February 28, 2024, we are obligated to pay MHCA an exit fee of , or (ii) after February 28, 2024 but before February 28, 2025, we are obligated to pay MHCA an exit fee of . 
+
+F-22 
+
+<EX-23.1>
+ 2
+ a231auditorconsent.htm
+ EX-23.1
+
+Document 
+
+Exhibit 23.1 
+ 
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We consent to the incorporation by reference in the Registration Statements of Inuvo, Inc. on Form S3 (Nos. 333-253018, effective March 15, 2021, and 333-239147, effective June 25, 2020) and Form S8 (Nos. 333-220313, effective September 1, 2017, 333-220320, effective September 1, 2017, 333-252404, effective January 25, 2021, 333-252403, effective January 25, 2021, and 333-266034, effective July 6, 2022) of our report dated March 9, 2023, on our audits of the financial statements as of December 31, 2022 and 2021 and for each of the years then ended, which report is included in this Annual Report on Form 10-K to be filed on or about March 9, 2023. 
+
+s EisnerAmper LLP 
+ 
+ EISNERAMPER LLP 
+ Iselin, New Jersey 
+ March 9, 2023 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ ex-311x4q22.htm
+ EX-31.1
+
+Document 
+
+EXHIBIT 31.1 
+ 
+ Rule 13a-14(a) 15d-14(a) Certification 
+ 
+ I, Richard K. Howe, certify that 
+ 
+ I have reviewed this annual report on Form 10-K of Inuvo, Inc. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date March 9, 2023 
+ 
+ s Richard K. Howe 
+ Richard K. Howe 
+ Chief Executive Officer, principal executive officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex-312x4q22.htm
+ EX-31.2
+
+Document 
+
+EXHIBIT 31.2 
+ 
+ Rule 13a-14(a) 15d-14(a) Certification 
+ 
+ I, Wallace D. Ruiz, certify that 
+ 
+ I have reviewed this annual report on Form 10-K of Inuvo, Inc. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date March 9, 2023 
+ 
+ s Wallace D. Ruiz 
+ Wallace D. Ruiz 
+ Chief Financial Officer, principal financial and accounting officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ ex-321x4q22.htm
+ EX-32.1
+
+Document 
+
+EXHIBIT 32.1 
+
+Section 1350 Certification 
+ 
+ In connection with the Annual Report of Inuvo, Inc. (the Company on Form 10-K for the year-ended December 31, 2022, as filed with the Securities and Exchange Commission (the Report ), I, Richard K. Howe, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as adopted pursuant to SS. 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+ 
+ The information contained in the Report fairly presents, in all material respects, the financial conditions and results of operations of the Company. 
+ 
+ Date March 9, 2023 
+ 
+ s Richard K. Howe 
+ Richard K. Howe 
+ Chief Executive Officer, principal executive officer 
+ 
+ A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ ex-322x4q22.htm
+ EX-32.2
+
+Document 
+
+EXHIBIT 32.2 
+
+Section 1350 Certification 
+ 
+ In connection with the Annual Report of Inuvo, Inc. (the Company on Form 10-K for the year-ended December 31, 2022, as filed with the Securities and Exchange Commission (the Report ), I, Wallace D. Ruiz, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as adopted pursuant to SS. 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+ 
+ The information contained in the Report fairly presents, in all material respects, the financial conditions and results of operations of the Company. 
+ 
+ Date March 9, 2023 
+ 
+ s Wallace D. Ruiz 
+ Wallace D. Ruiz 
+ Chief Financial Officer, principal financial and accounting officer 
+ 
+ A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ inuv-20221231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ inuv-20221231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ inuv-20221231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ inuv-20221231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ inuv-20221231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
