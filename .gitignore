@@ -1,3 +1,5 @@
 .DS_Store\
 data/data_2023.csv
 data/updated_data_2023.csv
+invalid_files.txt
+data/2023
