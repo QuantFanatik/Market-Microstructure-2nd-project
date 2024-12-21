@@ -9,7 +9,7 @@ import seaborn as sns
 
 # Set your OpenAI API key
 
-openai.api_key = "Your API Key here"
+openai.api_key = "API_KEY"
 
 # Load data
 df = pd.read_csv("data/updated_data_2023.csv")
@@ -120,6 +120,20 @@ def plot_similarity_heatmap(similarity_matrix, labels):
     
     plt.show()
 
+def save_embeddings_to_csv(embeddings, labels, output_csv_path):
+  
+    # Create a DataFrame
+    data = {
+        "File": labels,  # Firm labels
+        "Embedding": [",".join(map(str, embedding)) for embedding in embeddings]  # Convert embeddings to string
+    }
+    df_embeddings = pd.DataFrame(data)
+    
+    # Save to CSV
+    df_embeddings.to_csv(output_csv_path, index=False)
+    print(f"Embeddings saved to {output_csv_path}")
+
+
 # Main execution
 if __name__ == "__main__":
     try:
@@ -130,6 +144,10 @@ if __name__ == "__main__":
         # Generate embeddings for all 10 texts
         print("Generating embeddings for all 10 texts...")
         embeddings = generate_embeddings_for_texts(output_text_list)
+
+        output_csv_path = "embeddings_output.csv"
+        save_embeddings_to_csv(embeddings, firm_labels, output_csv_path)
+    
 
         # Calculate cosine similarity matrix
         print("Calculating cosine similarity matrix...")
