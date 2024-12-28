@@ -141,7 +141,6 @@ if __name__ == '__main__':
     rows = ({"SIC": sic, "File": file} 
             for sic, files in frame_dict.items() 
             for file in files)
-
     replace_str = {'[3949]': 'SPORTING & ATHLETIC GOODS, NEC [3949]',
                 '[6221]': 'COMMODITY CONTRACTS BROKERS & DEALERS [6221]'}
 
@@ -150,7 +149,9 @@ if __name__ == '__main__':
     # print(df)
 
     #---------------Descriptions-----------------#
-    df = df.loc[df['SIC'] == 'FIRE, MARINE & CASUALTY INSURANCE [6331]', slice(None)].set_index('File')
+    # input_industry = 'FIRE, MARINE & CASUALTY INSURANCE [6331]'
+    input_industry = 'AGRICULTURE CHEMICALS [2870]'
+    df = df.loc[df['SIC'] == input_industry, slice(None)].set_index('File').head(10) # First 10 files
     paths = df.index.tolist()
     total_files = len(paths)
     invalid_files = []
@@ -261,7 +262,7 @@ if __name__ == '__main__':
     )
 
     cosine_sim_df.to_csv('cosine_similarity.csv', index=True)
-    plt.figure(figsize=(10, 8))
-    sns.heatmap(cosine_sim_df, cmap='coolwarm', annot=False)
+    plt.figure(figsize=(12, 12))
+    sns.heatmap(cosine_sim_df, cmap='viridis', annot=True, fmt=".2f", cbar=True,)
     plt.title("Cosine Similarity Between Documents")
     plt.show()
