@@ -1,3 +1,4 @@
-.DS_Store\
+.DS_Store
 invalid_files.txt
 data/*
+__pycache__/

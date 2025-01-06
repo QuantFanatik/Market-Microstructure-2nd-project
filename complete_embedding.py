@@ -9,7 +9,7 @@ import seaborn as sns
 
 # Set your OpenAI API key
 
-openai.api_key = "API_KEY"
+openai.api_key = "APIKEY"
 
 # Load data
 df = pd.read_csv("data/updated_data_2023.csv")

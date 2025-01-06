@@ -149,8 +149,9 @@ if __name__ == '__main__':
     # print(df)
 
     #---------------Descriptions-----------------#
-    # input_industry = 'FIRE, MARINE & CASUALTY INSURANCE [6331]'
-    input_industry = 'AGRICULTURE CHEMICALS [2870]'
+    # input_industry = 'SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]'
+    input_industry = 'FIRE, MARINE & CASUALTY INSURANCE [6331]'
+    # input_industry = 'AGRICULTURE CHEMICALS [2870]'
     df = df.loc[df['SIC'] == input_industry, slice(None)].set_index('File').head(10) # First 10 files
     paths = df.index.tolist()
     total_files = len(paths)

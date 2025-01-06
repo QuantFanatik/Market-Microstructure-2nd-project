@@ -3,8 +3,12 @@ import re
 import sys
 import pandas as pd
 from itertools import tee
-from multiprocessing import Pool
 from collections import defaultdict
+
+# Important
+# Industry selected in line 153
+# The least popular tokens are cut in line 233, the rest is automatic.
+
 
 def update_progress(index, total, message="Processing file"):
     progress = f"{message} {index}/{total}..."
@@ -91,6 +95,7 @@ if __name__ == '__main__':
     frame_dict = defaultdict(list)
     total_files = len(list(idx))
     for idx, file_path in enumerate(paths, 1):
+        update_progress(idx, total_files, "Fetching Classifications")
         with open(file_path, 'r', encoding='utf-8') as f:
             for _ in range(26):
                 f.readline()
@@ -102,45 +107,12 @@ if __name__ == '__main__':
             else:
                 invalid_counter += 1
 
-        update_progress(idx, total_files, "Fetching Classifications")
                     
     rows = ({"SIC": sic, "File": file} 
             for sic, files in frame_dict.items() 
             for file in files)
-
     replace_str = {'[3949]': 'SPORTING & ATHLETIC GOODS, NEC [3949]',
                 '[6221]': 'COMMODITY CONTRACTS BROKERS & DEALERS [6221]'}
 
     df = pd.DataFrame(rows).apply(lambda x: x.replace(replace_str), axis=1).sort_values(by='SIC')
-    df.to_csv('data/data_2023.csv', index=False)
-    print(df)
-
-    #---------------Descriptions-----------------#
-    df = pd.read_csv('data/data_2023.csv', index_col='File')      
-    paths = df.index.tolist()
-    total_files = len(paths)
-    invalid_files = []
-
-    with Pool() as pool:
-        results = []
-        for idx, result in enumerate(pool.imap(process_file, paths), 1):
-            results.append(result)
-            update_progress(idx, total_files, 'Extracting Descriptions')
-
-    for file_path, matched_text, error in results:
-        if matched_text:
-            df.at[file_path, 'Text'] = matched_text
-        elif error:
-            invalid_files.append(file_path)
-
-    with open('invalid_files.txt', 'w') as f:
-        f.write('This file contains the list of unmatched or imporoperly matched files.\n')
-        for file in set(invalid_files):
-            f.write(file + '\n')
-
-    sys.stdout.write('\rProcessing complete! ' + ' ' * 50 + '\n')
-
-    df = df.reset_index().dropna()
-    df.to_csv('data/updated_data_2023.csv', index=False)
-    print(f"Total invalid files: {len(set(invalid_files))}")
-    print(df)
+    df.value_counts('SIC').to_csv('valid_industries.csv')
