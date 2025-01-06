@@ -21,7 +21,8 @@ def get_text_and_files_by_industry(input_industry):
         raise ValueError("No files found for the given industry.")
     if len(filtered_data) < 10:
         raise ValueError("Less than 10 files found for the given industry.")
-    return filtered_data['Text'].tolist()[:10], filtered_data['File'].tolist()[:10]
+    # return filtered_data['Text'].tolist()[:10], filtered_data['File'].tolist()[:10]
+    return filtered_data.head(10)
 
 # Function to split text into chunks
 def split_text_by_tokens(text, max_tokens=8192, model="text-embedding-ada-002"):
@@ -138,8 +139,11 @@ def save_embeddings_to_csv(embeddings, labels, output_csv_path):
 if __name__ == "__main__":
     try:
         # Get 10 texts and file names for a specific industry
-        input_industry = "AGRICULTURE CHEMICALS [2870]" ## select the indusry you want to compare (> 10 companies)
-        output_text_list, firm_labels = get_text_and_files_by_industry(input_industry)
+        # input_industry = "AGRICULTURE CHEMICALS [2870]" ## select the indusry you want to compare (> 10 companies)
+        input_industry = 'FIRE, MARINE & CASUALTY INSURANCE [6331]'
+        # output_text_list, firm_labels = get_text_and_files_by_industry(input_industry)
+        df = get_text_and_files_by_industry(input_industry)
+        output_text_list, firm_labels = df['Text'].tolist(), df['File'].tolist()
         
         # Generate embeddings for all 10 texts
         print("Generating embeddings for all 10 texts...")
